@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <title>Matthew Kudija</title>
+        <meta charset="utf-8" />
+
+
+
+    <meta name="tags" content="pelican" />
+    <meta name="tags" content="maps" />
+    <meta name="tags" content="python" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://mkudija.github.io/">Matthew Kudija <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+            <li><a href="http://mkudija.github.io/pages/about.html">About</a></li>
+            <li><a href="http://mkudija.github.io/pages/reading.html">Reading</a></li>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="http://mkudija.github.io/map-tools.html" rel="bookmark"
+         title="Permalink to Map Tools">Map Tools</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2017-04-30T10:20:00-04:00">
+      Sun 30 April 2017
+    </abbr>
+    <abbr class="modified" title="2017-04-30T10:20:00-04:00">
+      Sun 30 April 2017
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="http://mkudija.github.io/author/matthew-kudija.html">Matthew Kudija</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <h1>Map Tools</h1>
+<p><a href="https://github.com/mkudija/Maps/blob/master/LICENSE"><img alt="Packagist" src="https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000" /></a>
+<a href="https://twitter.com/mkudija"><img alt="Twitter URL" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&amp;maxAge=2592000" /></a></p>
+<blockquote>
+<p>Working with maps in Python with basemap.</p>
+</blockquote>
+<hr />
+<h2>2016 Travel</h2>
+<p><img alt="2016 Travel" src="https://github.com/mkudija/Map-Tools/blob/master/2016_travel.png" /></p>
+<p><img alt="2016 Travel" src="{2016_travel}/images/2016_travel.png" /></p>
+<h2>2017 Travel</h2>
+<p><img alt="2017 Travel" src="https://github.com/mkudija/Map-Tools/blob/master/2017_travel.png" /></p>
+<h1>Requirements</h1>
+<ul>
+<li>python 3.5.2</li>
+<li>matplotlib 1.5.1</li>
+<li>pandas 0.18.1</li>
+<li>requests 2.11.1</li>
+<li>geopy 1.11.0</li>
+<li>basemap 1.0.7</li>
+<li>image 1.5.5</li>
+</ul>
+<h4>Basemap</h4>
+<p>Matplotlib basemap is compatible with Python 2.7 and 3.5 on Unix (Mac) systems, but only 2.7 on Windows. To install basemap on a Windows computer running Python 3.5, you have two options:</p>
+<ol>
+<li>
+<p>Install basemap on Python 3.5 (via Christoph Gohlke):</p>
+</li>
+<li>
+<p>Navigate to <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/"><strong>http://www.lfd.uci.edu/~gohlke/pythonlibs/</strong></a></p>
+</li>
+<li>Select the appropriate basemap.whl file. For 64 bit Windows running Python 3.5 use <code>basemap‑1.0.8‑cp35‑none‑win_amd64.whl</code>. Download the file to your computer.</li>
+<li>Open command prompt and <code>cd</code> into the directory that contains <code>basemap‑1.0.8‑cp35‑none‑win_amd64.whl</code></li>
+<li>Run: <code>pip install basemap‑1.0.8‑cp35‑none‑win_amd64.whl</code></li>
+<li>Initiate Python by running <code>python</code></li>
+<li>Verify basemap is installed by running <code>from mpl_toolkits.basemap import Basemap</code> and verify no errors</li>
+<li>
+<p>:warning: Note that running <code>import basemap</code> will always give an error even if installed properly, which tripped me up initially</p>
+</li>
+<li>
+<p>Create a Python 2.7 environment and install basemap there. Reference <a href="http://conda.pydata.org/docs/using/envs.html">Managing Environments</a> and <a href="http://conda.pydata.org/docs/py2or3.html">Managing Python</a></p>
+</li>
+<li>
+<p>Create a Python 2.7 environment called “py27”: <code>conda create -n py27 python=2.7 anaconda</code></p>
+</li>
+<li>Activate <code>py27</code> by running: <code>activate py27</code></li>
+<li>Install basemap by running: <code>conda install basmap</code> or <code>pip install basemap</code></li>
+<li>Verify basemap is installed by running <code>from mpl_toolkits.basemap import Basemap</code> and verify no errors</li>
+<li>:warning: Note that running <code>import basemap</code> will always give an error even if installed properly, which tripped me up initially</li>
+</ol>
+<h4>Cartopy</h4>
+<p><a href="http://scitools.org.uk/cartopy/docs/latest/index.html#">Cartopy</a> is the new development of Basemap, but I have not worked with it yet. From the <a href="http://matplotlib.org/basemap/users/intro.html#cartopy-new-management-and-eol-announcement">Basemap website</a>:</p>
+<blockquote>
+<p>Starting in 2016, Basemap came under new management. The Cartopy project will replace Basemap, but it hasn’t yet implemented all of Basemap’s features. All new software development should try to use Cartopy whenever possible, and existing software should start the process of switching over to use Cartopy. All maintenance and development efforts should be focused on Cartopy.</p>
+</blockquote>
+<h1>Installation</h1>
+<p>Clone this repo using <a href="https://github.com/mkudija/Map-Tools.git"><code>https://github.com/mkudija/Map-Tools.git</code></a>.</p>
+<h1>Run</h1>
+<h2>Prepare Data</h2>
+<ul>
+<li>
+<p>Plan out the route(s) to be plotted. Enter the names of the origin and destination locations in <a href="https://github.com/mkudija/Map-Tools/blob/master/data/locations%20(no_lat-lng).csv"><code>data/locations (no_lat-lng).csv</code></a>. Entering latitude and longitude is not required, but can be entered if desired.</p>
+</li>
+<li>
+<p>Run <a href="https://github.com/mkudija/Map-Tools/blob/master/(1)_get_lat-lng.ipynb"><code>(1)_get_lat-lng.ipynb</code></a>. This script (A) uses the Google API to find the latitude and longitude of the origin and destination locations, and (B) calculates the great circle distance between these locations in nautical miles, statute miles, and kilometers. The result is saved as <a href="https://github.com/mkudija/Map-Tools/blob/master/data/locations.csv"><code>locations.csv</code></a>.</p>
+</li>
+</ul>
+<h2>Plot Great Circles</h2>
+<ul>
+<li>Run <a href="https://github.com/mkudija/Map-Tools/blob/master/(2)_plot_trips.ipynb"><code>(2)_plot_trips.ipynb</code></a>. This uses the Python basemap package to plot the great circle lines between each origin and destination. </li>
+</ul>
+<p><img alt="2016 Travel" src="https://github.com/mkudija/Map-Tools/blob/master/2016_travel.png" /></p>
+<h2>Plot Range Rings</h2>
+<ul>
+<li>To plot range rings, run <a href="https://github.com/mkudija/Map-Tools/blob/master/plot_range_rings.py"><code>plot_range_rings.py</code></a>. This gathers data from the appropriate data file, and places an icon on the map at each origin (and destination as desired) and range rings around the origin. The radius and number of range rings can be configured.</li>
+</ul>
+<p><img alt="Range Rings" src="https://github.com/mkudija/Map-Tools/blob/master/2016-12-31_map.png" /></p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
