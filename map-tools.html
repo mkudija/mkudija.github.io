@@ -1,45 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-          <title>Matthew Kudija</title>
-        <meta charset="utf-8" />
 
-
-
-    <meta name="tags" content="pelican" />
-    <meta name="tags" content="maps" />
-    <meta name="tags" content="python" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  <title>Map Tools</title>
+<link href="http://mkudija.github.io/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://mkudija.github.io/" type="application/atom+xml" rel="alternate" title="Matthew Kudija ATOM Feed" />
+  
+  <!--[if IE]>
+  <style type="text/css"> 
+  .twoColFixRtHdr #mainContent { zoom: 1; }
+  </style>
+  <![endif]-->
 
 </head>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="http://mkudija.github.io/">Matthew Kudija <strong></strong></a></h1>
-        </header><!-- /#banner -->
-        <nav id="menu"><ul>
+<body>
+
+<div id="container">
+
+  <div id="header">
+  <h1><a href="http://mkudija.github.io">Matthew Kudija</h1>
+  
+  </div><!-- end #header -->
+  
+  <div id="topMenu">
+  
+    <ul>
+    	<li><a href="http://mkudija.github.io">Home</a></li>
+        <li>&ndash;</li>
+        <li><a href="http://mkudija.github.io/archives.html">Archives</a></li>
+        
+    </ul>
+  
+  </div><!-- end #topMenu -->
+
+  <div id="sidebar">
+	<h3>Pages</h3>
+	<ul>
             <li><a href="http://mkudija.github.io/pages/about.html">About</a></li>
             <li><a href="http://mkudija.github.io/pages/reading.html">Reading</a></li>
-        </ul></nav><!-- /#menu -->
-<section id="content" class="body">
-  <header>
-    <h2 class="entry-title">
-      <a href="http://mkudija.github.io/map-tools.html" rel="bookmark"
-         title="Permalink to Map Tools">Map Tools</a></h2>
+	</ul>
+    <h3>Categories</h3>
+    <ul>
+		 <li class="active"><a href="http://mkudija.github.io/category/articles.html">Articles</a></li>
+		 <li ><a href="http://mkudija.github.io/category/misc.html">misc</a></li>
+	</ul>
+	<li>
+		<h3>Blogroll</h3>
+		<ul>
+                    <li><a href="http://python.org/">Python.org</a></li>
+                    <li><a href="#">You can modify those links in your config file</a></li>
+		</ul>
+	</li>
+        <li>
+                <h3>Social</h3>
+                <ul>
+                    <li><a href="http://mkudija.github.io/" rel="alternate">Flux Atom</a></li>
+                    <li><a href="#">You can add links in your config file</a></li>
+                    <li><a href="#">Another social link</a></li>
+                </ul>
+        </li><!-- /.social -->
+<li>
+        <h3>Tags</h3>
+        <ul>
+                <li><a href="http://mkudija.github.io/tag/python.html">python</a></li>
+                <li><a href="http://mkudija.github.io/tag/pelican.html">pelican</a></li>
+                <li><a href="http://mkudija.github.io/tag/maps.html">maps</a></li>
+                <li><a href="http://mkudija.github.io/tag/things.html">things</a></li>
+                <li><a href="http://mkudija.github.io/tag/publishing.html">publishing</a></li>
+        </ul>
+</li>
+    
+  
+  </div><!-- end #sidebar -->
+
+  <div id="mainContent">
+  	
  
-  </header>
-  <footer class="post-info">
-    <abbr class="published" title="2017-04-30T10:20:00-04:00">
-      Sun 30 April 2017
-    </abbr>
-    <abbr class="modified" title="2017-04-30T10:20:00-04:00">
-      Sun 30 April 2017
-    </abbr>
-    <address class="vcard author">
-      By           <a class="url fn" href="http://mkudija.github.io/author/matthew-kudija.html">Matthew Kudija</a>
-    </address>
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
-    <h1>Map Tools</h1>
+
+
+<div class="blogItem">
+    
+      <h2><a href="http://mkudija.github.io/map-tools.html">Map Tools</a></h2>
+      <h3>Le Sun 30 April 2017</h3>
+      
+  <h1>Map Tools</h1>
 <p><a href="https://github.com/mkudija/Maps/blob/master/LICENSE"><img alt="Packagist" src="https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000" /></a>
 <a href="https://twitter.com/mkudija"><img alt="Twitter URL" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&amp;maxAge=2592000" /></a></p>
 <blockquote>
@@ -48,7 +96,7 @@
 <hr />
 <h2>2016 Travel</h2>
 <p><img alt="2016 Travel" src="https://github.com/mkudija/Map-Tools/blob/master/2016_travel.png" /></p>
-<p><img alt="2016 Travel" src="{2016_travel}/images/2016_travel.png" /></p>
+<p><img alt="2016 Travel" src="http://mkudija.github.io/images/2016_travel.png" /></p>
 <h2>2017 Travel</h2>
 <p><img alt="2017 Travel" src="https://github.com/mkudija/Map-Tools/blob/master/2017_travel.png" /></p>
 <h1>Requirements</h1>
@@ -115,14 +163,28 @@
 <ul>
 <li>To plot range rings, run <a href="https://github.com/mkudija/Map-Tools/blob/master/plot_range_rings.py"><code>plot_range_rings.py</code></a>. This gathers data from the appropriate data file, and places an icon on the map at each origin (and destination as desired) and range rings around the origin. The radius and number of range rings can be configured.</li>
 </ul>
-<p><img alt="Range Rings" src="https://github.com/mkudija/Map-Tools/blob/master/2016-12-31_map.png" /></p>
-  </div><!-- /.entry-content -->
-</section>
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
+<p><img alt="Range Rings" src="https://github.com/mkudija/Map-Tools/blob/master/2016-12-31_map.png" /></p>	
+      
+      <h3 class="blogMeta">Par <a href="#">Matthew Kudija</a>, Catégorie : <a href="http://mkudija.github.io/category/articles.html">Articles</a></h3>
+	<h3 class="blogMeta">Tags : <span><a href="http://mkudija.github.io/tag/pelican.html">pelican</a> / </span>
+<span><a href="http://mkudija.github.io/tag/maps.html">maps</a> / </span>
+<span><a href="http://mkudija.github.io/tag/python.html">python</a> / </span>
+</h3>
+    
+    </div><!-- end #blogItem -->
+				
+				<!-- end #content -->
+  
+  </div><!-- end #mainContent -->
+
+<div class="clearfloat"></div>
+
+  <div id="footer">
+  
+    <p><a href="http://css4free.com/" title="free CSS web site designs">Free CSS Gallery</a></p>
+    <p>Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>, which takes great advantages of <a href="http://python.org">python</a>.
+  </div><!-- end #footer -->
+
+</div><!-- end #container -->
 </body>
 </html>
