@@ -12,4 +12,4 @@ My wife and I read the Bible cover to cover (along with the *Catechism of the Ca
 - The [Dogmatic Constitution on Divine Revelation *Dei Verbum*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)
 - [On the Word of God in the Life and Mission of the Faithful *Verbum Domini*](http://w2.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)
 - [*Understanding The Scriptures: A Complete Course On Bible Study* by Scott Hahn](https://www.amazon.com/Understanding-Scriptures-Complete-Course-Didache/dp/1890177474/ref=sr_1_1?ie=UTF8&qid=1506369762&sr=8-1&keywords=understanding+scriptures+hahn)
--[*book from Fr. Missimi]()
+-[*You Can Understand The Bible* by Scott Hahn](https://www.amazon.com/You-Can-Understand-Bible-Illuminating/dp/1586170457/ref=sr_1_1?ie=UTF8&qid=1506378360&sr=8-1&keywords=you+can+understand+the+bible)
