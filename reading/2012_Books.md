@@ -1,0 +1,33 @@
+# 2012
+
+- *Einstein* by Walter Isaacson
+- *Tuesdays With Morrie* by Mitch Albom
+- *A Canticle For Liebowitz* by Walter M. Miller, Jr.
+- *After Virtue* by Alasdair MacIntyre
+- *Warmth Disperses and Time Passes* by Hans Christian Von Baeyer
+- *Remaking the World: Adventures in Engineering* by Henry Petroski
+- *Flying to the Moon: An Astronaut's Story* by Michael Collins
+- *The Secret of Apollo: Systems Management in American and European Space Programs* by Stephen B. Johnson
+- *The Hunger Games* by Suzanne Collins
+- *Catching Fire* by Suzanne Collins
+- *Mockingjay* by Suzanne Collins
+- *The Ethics of Authenticity* by Charles Taylor
+- *The Tipping Point* by Malcolm Gladwell
+- *Blink* by Malcolm Gladwell
+- *Life's Greatest Lessons* by Hal Urban
+- *The Existential Pleasures of Engineering* by Samuel C. Florman
+- *The Five People You Meet In Heaven* by Mitch Albom
+- *Steve Jobs* by Walter Isaacson
+- *Frugal Cool: How to Get Rich Without Making Very Much Money* by John F. Gaski
+- *The Case for Mars: The Plan to Settle the Red Planet and Why We Must* by Robert Zurbin
+- *The Death of Ivan Ilyich* by Leo Tolstoy
+- *An Introduction to General Systems Thinking* by Gerald M. Weinberg
+- *The Truth About Confident Presenting* by James O'Rourke
+- *In the School of the Holy Spirit* by Jacques Philippe
+- *The Happiness Advantage* by Shawn Achor
+- *Microeconomics for MBA's* by Richard B McKenzie and Dwight R Lee
+- *The Road Less Traveled* by M. Scott Peck, M.D.
+- *The Signal and the Noise* by Nate Silver
+- *A Concise Guide to Macroeconomics* by David A. Moss
+- *The Information* by James Gleick
+- *Mountains Beyond Mountains* by Tracy Kidder

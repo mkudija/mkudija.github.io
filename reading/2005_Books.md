@@ -1,0 +1,27 @@
+# 2005 and before
+
+- *Voyager: The Flying Adventure of a Lifetime* by Jeana Yeager & Dick Rutan
+- *Hatchet* by Gary Paulsen
+- *Shiloh* by Phyllis Reynolds Naylor
+- *Holes* by Louis Sachar
+- *Of Mice and Men* by John Steinbeck
+- *The Pearl* by John Steinbeck
+- *The Red Pony* by John Steinbeck
+- *The Adventures of Tom Sawyer* by Mark Twain
+- *Robinson Crusoe* by Daniel Defoe
+- *Where the Red Fern Grows* by Wilson Rawls
+- *Island of the Blue Dolphins* by Scott O'Dell
+- *Goshawk Squadron* by Derek Robinson
+- *The Small Back Room* by Nigel Balchin
+- *The Dambusters Raid* by John Sweetman
+- *The Battle of Britain* by James Lucas*
+- *Number the Stars* by Lois Lowry
+- *Ender's Game* by Orson Scott Card
+- *The Giver* by Lois Lowry
+- *Murder on the Orient Express* by Agatha Christie
+- *Romeo and Juliet* by Shakespeare
+- *The Old Man and the Sea* by Ernest Hemingway
+- *Animal Farm* by George Orwell
+- *The Odyssey* by Homer
+- *Harry Potter Series* by J.K. Rowling
+- *The Greatest Generation* by Tom Brokaw

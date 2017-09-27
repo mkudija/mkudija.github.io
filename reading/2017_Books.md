@@ -1,0 +1,74 @@
+# 2017 Books
+
+- *So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love* by Cal Newport
+- *Pride & Prejudice* by Jane Austen
+- *Shoe Dog* by Phil Knight
+- *Rise of the Robots: Technology and the Threat of a Jobless Future* by Martin Ford
+- *The Inner Game of Tennis* by W. Timothy Gallwey
+- *Faust* by Johann Wolfgang von Goethe
+- *Legacy* by James Kerr
+- *Moneyball* by Michael Lewis
+- *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis* by J.D. Vance
+- *Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt* by David McCullough
+- *Universe of Stone: A Biography of Chartres Cathedral* by Philip Ball
+- *Seabiscuit* by Laura Hillenbrand
+- *Highest Duty* by Chesley B. Sullenberger
+- *Fire on the Horizon: The Untold Story of the Gulf Oil Disaster* by John Konrad & Tom Shroder
+- *Open* by Andre Agassi
+- *The Short and Tragic Life of Robert Peace* by Jeff Hobbs
+- *The Power of a Half Hour* by Tommy Barnett
+- *Out of the Ashes: Rebuilding American Culture* by Anthony Esolen
+- *Strangers in a Strange Land: Living the Catholic Faith in a Post-Christian World* by Charles J. Chaput
+- *The Benedict Option: A Strategy for Christians in a Post-Christian Nation* by Rob Dreher
+- *City of God* by Saint Augustine
+- *The Lost Tools of Learning* by Dorothy Sayers
+- *The Aviators: Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight* by Winston Groom
+- *The Shadow of His Wings (Abridged)* by Fr. Gereon Goldmann,  OFM
+- *Wizard: The Life and Times of Nikola Tesla* by Marc J. Seifer
+- *Happy City: Transforming Our Lives Through Urban Design* by Charles Montgomery 
+- *Originals: How Non-Conformists Move The World* by Adam Grant
+- *Just Married* by Dr. Greg and Lisa Popcak
+- *Tidy Data (Journal of Statistical Software)* by Hadley Wickham
+- *Hidden Figures* by Margot Lee Shetterly
+- *Conversations with Major Dick Winters* by Cole C. Kingseed
+- *The Magic of Thinking Big* by David J. Schwartz, Ph.D.
+- *The Diary of a Country Priest* by Georges Bernanos
+- *The Man Who Was Thursday* by G.K. Chesterton
+- *Player Piano* by Kurt Vonnegut
+- *Beyond Band of Brothers* by Major Dick Winters
+- *Chaos: Making a New Science* by James Gleick
+- *Salary Tutor* by Jim Hopkinson
+- *Never Split The Difference: Negotiating As If Your Life Depended On It* by Chris Voss
+- *On Writing: A Memoir of the Craft* by Stephen King
+- *Into Thin Air: A Personal Account of the Mt. Everest Disaster* by Jon Krakauer
+- *Evicted: Poverty and Profit in the American City* by Matthew Desmond
+- *Airport* by Arthur Hailey
+- *Perennial Seller: The Art of Making and Marketing Work That Lasts* by Ryan Holiday
+- *Heart of Darkness* by Joseph Conrad
+- *Alexander Hamilton* by Ron Chernow
+- *Philology: The Forgotten Origins of the Modern Humanities* by James Turner
+- *The Circle* by Dave Eggers
+- *Applied Economics: Thinking Beyond Stage One* by Thomas Sowell
+- *The Red Tent* by Anita Diamant
+- *Poetry as Prayer: Jessica Powers* by Robert F. Morneau
+- *The Fortunes of Poetry in and Age of Unmaking* by James Matthew Wilson
+- *Reagan: The Life* by H.W. Brands
+- *The Sale of a Lifetime: How the Great Bubble Burst of 2017-2019 Can Make You Rich* by Harry S. Dent, Jr.
+- *The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church* by John Thavis
+- *The Road to Character* by David Brooks
+- *Rise, Let Us Be On Our Way* by John Paul II
+- *The Bridges at Toko-Ri* by James A. Michener
+- *The Shallows: What the Internet is Doing to Our Brains* by Nicholas Carr
+- *Saint Padre Pio: In the Footsteps of Saint Francis* by Michael J. Ruszala
+- *The Creed: Professing the Faith Through the Ages* by Scott Hahn
+- *The Trial and Death of Socrates: Apology, Phaedo* by Plato
+- *Aristotle for Everybody* by Mortimer J. Adler
+- *Alone on the Wall* by Alex Honnold
+- *The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts* by Joshua Hammer
+- *Farnsworth’s Classical English Rhetoric* by Ward Farnsworth
+- *The Will to Climb* by Ed Viesturs
+- *The Ethics of Authenticity* by Charles Taylor
+- *Truth Overruled: The Future of Marriage and Religious Freedom* by Ryan T. Anderson
+- *Things I Wish I’d Know Before We Got Married* by Gary Chapman
+- *Wolf Hall* by Hilary Mantel
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom...

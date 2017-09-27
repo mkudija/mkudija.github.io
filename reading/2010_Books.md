@@ -1,0 +1,28 @@
+# 2010
+
+- *The Autobiography of Benjamin Franklin*
+- *The Hobbit* by J.R.R. Tolkien
+- *If You Really Loved Me* by Jason Evert
+- *The Female Brain* by Louann Brizendine
+- *The Male Brain* by Louann Brizendine
+- *Harry Potter and the Sorcerer's Stone* by J.K. Rowling
+- *Evangelium Vitae: The Gospel of Life* by John Paul II
+- *Shadow of the Hegemon* by Orson Scott Card
+- *In a Sunburned Country* by Bill Bryson
+- *Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time* by Dava Sobel
+- *All I Really Need to Know I Learned in Kindergarten* by Robert Fulghum
+- *The Golden Sayings of Epictetus*
+- *A Brief History of Time* by Stephen Hawking
+- *Rediscovering Catholicism* by Matthew Kelley
+- *A Man For All Seasons* by Robert Bolt
+- *A Grief Observed* by C.S. Lewis
+- *The Screwtape Letters* by C.S. Lewis
+- *The Lamb's Supper* by Scott Hahn
+- *United States Catholic Catechism For Adults*
+- *Reasons To Believe: How To Understand, Explain and Defend the Catholic Faith* by Scott Hahn
+- *Rome Sweet Home* by Scott Hahn
+- *Fahrenheit 451* by Ray Bradbury
+- *Man's Search For Meaning* by Viktor Frankl
+- *An Introduction to Catholic Sacramental Theology* by Alexandre Ganoczy
+- *Confessions* by St. Augustine
+- *Water for Elephants* by Sara Gruen

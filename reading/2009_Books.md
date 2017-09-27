@@ -1,0 +1,24 @@
+# 2009
+
+- *Stages of Faith* by James Fowler
+- *Hamlet* by Shakespeare
+- *The World Is Flat* by Thomas L. Friedman
+- *The Kite Runner* by Khaled Hosseini
+- *A Thousand Splendid Suns* by Khaled Hosseini
+- *Life of Pi* by Yann Martel
+- *The Road* by Cormac McCarthy
+- *Their Eyes Were Watching God* by Zora Neale Hurston
+- *Angels and Demons* by Dan Brown
+- *Wild at Heart* by John Eldredge
+- *Deception Point* by Dan Brown
+- *Digital Fortress* by Dan Brown
+- *How To Win Friends And Influence People* by Dale Carnegie
+- *Men Are from Mars, Women Are from Venus* by John Gray
+- *The Right Stuff* by Tom Wolfe
+- *The Fountainhead* by Ayn Rand
+- *The Female Brain* by Louann Brizendine
+- *God, Country, Notre Dame* by Theodore Hesburgh
+- *Making the Most of College* by Richard J. Light
+- *Domers: A Year at Notre Dame* by Kevin Coyne
+- *To Kill a Mockingbird* by Harper Lee
+- *Rocket Boys* by Homer Hickam
