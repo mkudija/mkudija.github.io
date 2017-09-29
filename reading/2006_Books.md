@@ -1,4 +1,4 @@
-# 2007
+# 2006
 
 - *Night* by Elie Wiesel
 - *The House on Mango Street* by Sandra Cisneros
