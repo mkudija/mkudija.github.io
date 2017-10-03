@@ -19,7 +19,7 @@ Content © 2005-2017 Matthew Kudija
 Run [`markdown2.py`](/book-reviews/md/markdown2.py) to convert Markdown to HTML. See [here](https://github.com/trentm/python-markdown2) for more information about markdown2 from @trentm.
 
 ```
-python markdown2 -x footnotes,smarty-pants,cuddled-lists FNAME.md > FNAME.html
+python markdown2.py -x footnotes,smarty-pants,cuddled-lists FNAME.md > FNAME.html
 ```
 
 ### 
