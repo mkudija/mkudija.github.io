@@ -16,7 +16,7 @@ Humility opens our eyes **sin**. Again, we must reclaim our moral language to un
 
 In overcoming sin and self-centeredness we need to focus on others, especially in our vocation. **Vocation** is chosen for you, for the benefit of a world that contains more that just yourself. "People with vocations are generally not morose...They feel the joy of having their values in deep harmony with their behavior. They experience a wonderful certainty of action that banishes weariness from even the hardest days" (25). By ordering our lives around people, institutions, and traditions larger than ourselves, we move beyond the shallowness within.
 
-I finished *The Road to Character*, including the section on Authenticity, while attending a leadership course entitled *Authentic Leadership*. This game me many fresh thoughts with which to approach—and at times disagree with—the instruction. The concept of individual "authenticity," with its roots perhaps in Rousseau, is discussed in detail recently by Charles Taylor as the view that "I can't even find the model to live by outside myself. I can find it only within. Being true to myself means being true to my own originality, and that is something only I can articulate and discover."[^taylor] The lack of an external reference to some universal truth and natural law is what I find to be blatantly missing from this modern view. Brooks levels the same critique: "Moral authority is no longer found in some external objective good; it is found in each person's unique original self" (249). Certainly a look inward is important, but we are ultimately lost if the only direction in our lives ignores eternal truths beyond ourselves.
+I finished *The Road to Character*, including the section on Authenticity, while attending a leadership course entitled *Authentic Leadership*. This gave me many fresh thoughts with which to approach—and at times disagree with—the instruction. The concept of individual "authenticity," with its roots perhaps in Rousseau, is discussed in detail recently by Charles Taylor as the view that "I can't even find the model to live by outside myself. I can find it only within. Being true to myself means being true to my own originality, and that is something only I can articulate and discover."[^taylor] The lack of an external reference to some universal truth and natural law is what I find to be blatantly missing from this modern view. Brooks levels the same critique: "Moral authority is no longer found in some external objective good; it is found in each person's unique original self" (249). Certainly a look inward is important, but we are ultimately lost if the only direction in our lives ignores eternal truths beyond ourselves.
 
 [^taylor]: Charles Taylor, *The Ethics of Authenticity* (Cambridge: Harvard University Press, 1991), 29.
 
@@ -54,10 +54,8 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 
 ## 1. The Shift
 - we have shifted from a culture of humility, *The Little Me*, to a culture where people see themselves as the center of the universe, *The Big Me* (6)
-
-### Humility
-* humility: "the awareness that there's a lot you don't know and that a lot of what you think you know is distorted or wrong" (8-9); intellectual humility: "accurate self-awareness from a distance" (9)
-* wisdom: "The moral quality of knowing what you don't know and figuring out a way to handle your ignorance, uncertainty, and limitation" (9)
+* **Humility**: "the awareness that there's a lot you don't know and that a lot of what you think you know is distorted or wrong" (8-9); intellectual humility: "accurate self-awareness from a distance" (9)
+* **Wisdom**: "The moral quality of knowing what you don't know and figuring out a way to handle your ignorance, uncertainty, and limitation" (9)
 * "crooked timber" view of humanity he references if from Kant: "Out of the crooked timber of humanity, no straight thing was ever made" (11)
 
 ## 2. The Summoned Self *(Frances Perkins)*
@@ -68,12 +66,9 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 * Ike's turning point was his mother reminding him of this from the Bible: "He that conquereth his own soul is greater than he who taketh a city" (52, cf. Proverbs 16:32)
 * **Sin**: "we have obscured the inescapable moral core of life with shallow language" (54)
 	* "The danger of sin is that it feeds on itself" (55)
-
 * **Character**: "Since self-control is a muscle that tires easily, it is much better to avoid temptation in the first place rather than try to resist it once it arises" (56)
 	* **Character** is an ensemble of settled dispositions—of habitual feelings and desires" (57, cf. Anthony T. Kronman)
-
 * **Self-Control**: "Freedom has been defined as the opportunity for self-discipline" (61, Eisenhower)
-
 * "Always try to associate yourself closely and learn as much as you can from those who know more than you, who do better than you, who see more clearly than you" (63, cf. *At Ease* by Eisenhower)
 * Leadership principle: "My own conviction is that every leader should have enough humility to accept, publicly, the responsibility for the mistakes of the subordinates he has himself selected and, likewise, to give them credit, publicly, for their triumphs" (64)
 * On not letting on to all that you know: "He was reasonably learned in ancient history, admiring especially the crafty Athenian leader Themistocles, but he never let that on. He did not want to appear smarter than other people, or somehow superior to the average American. Instead, he cultivated the image of simple, unlearned charm" (68)
@@ -125,18 +120,14 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 	* **Moral realism** (or "the crooked timber" school of humanity that recognizes sin): started in biblical times
 	* **Moral romanticism** (with its focus on inner goodness): started in the eighteenth century
 	* Brook identifies the end of WWII, the late 1940s and 1950s as the final collapse of moral realism and the rise of positive psychology and the self-esteem movement
-
-* **Authenticity**
+* **Authenticity**:
 	* I read this while at a leadership course called *Authentic Leadership*
 	* we are born into Charles Taylor's *culture of authenticity*, where we have a golden self inside, which is our best moral guide
 	* this frames the battle not as one against the weakness of self, but as a liberation and self-expression
 	* "Moral authority is no longer found in some external objective good; it is found in each person's unique original self" (249)
-
 * information technology has 3 effects on the moral ecology (250-251):
 	1. fastness and business takes us away from the stillness we need to find Adam II
 	2. social media allows for a self-referential information environment: everything revolves around us
 	3. social media encourages broadcasting personality
-
 * what meritocracy gives us: "Any hypercompetitive system build upon merit is going to encourage people to think a lot about themselves and the cultivation of their own skills...Subtly, softly, but pervasively, this system instill a certain utilitarian calculus in us all" (252-253)
-
 * see *The Humility Code* from pages 261-267 paraphrased above.
