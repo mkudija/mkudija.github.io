@@ -25,6 +25,7 @@ Content © 2005-2017 Matthew Kudija
 - robots.txt
 
 ## 4. Enable Bigfoot Footnotes
+See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882466ee92a2aa00a8afec854b9b390ec)
 
 ## 5. Update Books
 - add cover image to [`images/books/`](images/books/)

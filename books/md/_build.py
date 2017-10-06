@@ -24,7 +24,7 @@ def build(shortName, title, author, ISBN, yearPublished, yearRead):
         md = [x.strip('') for x in f]
     
     mdString = ''.join(md)
-    content = markdown2.markdown(mdString, extras=['footnotes','smarty-pants','cuddled-lists'])
+    content = markdown2.markdown(mdString, extras=['footnotes','smarty-pants','cuddled-lists','target-blank-links'])
     content = [content]
     doc = head+content+foot
 
