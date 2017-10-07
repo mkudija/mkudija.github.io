@@ -35,12 +35,13 @@ def build(shortName, title, author, ISBN, yearPublished, yearRead):
     print('\tSaved {}.html'.format(shortName))
 
 
-df = pd.read_excel('_content.xlsx')
+df = pd.read_excel('_content.xlsx',
+        converters={'shortName':str,'title':str,'author':str,'ISBN':str,'yearPublished':str,'yearRead':str})
 for row in range(df.shape[0]):
-    shortName       = str(df.loc[df.index[row],'shortName'])
-    title           = str(df.loc[df.index[row],'title'])
-    author          = str(df.loc[df.index[row],'author'])
-    ISBN            = str(df.loc[df.index[row],'ISBN'])
-    yearPublished   = str(df.loc[df.index[row],'yearPublished'])
-    yearRead        = str(df.loc[df.index[row],'yearRead'])
+    shortName       = df.loc[df.index[row],'shortName']
+    title           = df.loc[df.index[row],'title']
+    author          = df.loc[df.index[row],'author']
+    ISBN            = df.loc[df.index[row],'ISBN']
+    yearPublished   = df.loc[df.index[row],'yearPublished']
+    yearRead        = df.loc[df.index[row],'yearRead']
     build(shortName, title, author, ISBN, yearPublished, yearRead)
