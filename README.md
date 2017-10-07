@@ -55,17 +55,15 @@ See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882
 [^id2]: Footnote text for id2 goes here...
 ```
 
-	* 
 2. add cover image to [`images/books/`](images/books/)
-3. add data in `books/md/_content.xlsx`
-4. run `books/md/_build.py`
+3. add data in [`books/md/_content.xlsx`](books/md/_content.xlsx)
+4. run [`books/md/_build.py`](books/md/_build.py) which creates an HTML file for each MD file defined in `_content.xlsx`\*
 5. commit changes (including newly created html file)
 
-### Manual .MD to .HTML
-Run [`markdown2.py`](/book-reviews/md/markdown2.py) to convert Markdown to HTML. See [here](https://github.com/trentm/python-markdown2) for more information about markdown2 from @trentm.
+\*Alternatively, individually convert from MD to HTML in the commany line by running [`markdown2.py`](/book-reviews/md/markdown2.py) (See [here](https://github.com/trentm/python-markdown2) for more information about markdown2 from @trentm):
 
 ```
-python markdown2.py -x footnotes,smarty-pants,cuddled-lists FNAME.md > FNAME.html
+python markdown2.py -x footnotes,smarty-pants,cuddled-lists,target-blank-links FNAME.md > FNAME.html
 ```
 
 ## 6. Update Reading
