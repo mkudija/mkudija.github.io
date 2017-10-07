@@ -28,7 +28,7 @@ Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get yo
 
 > This is the Global Site Tag (gtag.js) tracking code for this property. Copy and paste this code as the first item into the `<HEAD>` of every webpage you want to track. If you already have a Global Site Tag on your page, simply add the **config** line from the snippet below to your existing Global Site Tag.
 
-'''html
+```html
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72240498-1"></script>
 		<script>
@@ -37,7 +37,7 @@ Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get yo
 			gtag('js', new Date());
 			gtag('config', 'UA-72240498-1');
 		</script>
-'''
+```
 
 
 ## 4. Enable Bigfoot Footnotes
@@ -47,7 +47,7 @@ See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882
 
 ## 5. Update Books
 1. write book review in markdown
-	* Footnotes in Markdown use this format:
+	* See [easybib](http://www.easybib.com/guides/citation-guides/chicago-turabian/footnotes/) exmple for footnote formatting: `Henry James, The Ambassadors (Rockville: Serenity, 2009), 34-40.` Footnotes in Markdown use this format:
 ```
 "Blah blah blah."[^id] More words and more words.[^id2] Finally, let's add more words
 
@@ -55,10 +55,7 @@ See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882
 [^id2]: Footnote text for id2 goes here...
 ```
 
-	* See [easybib](http://www.easybib.com/guides/citation-guides/chicago-turabian/footnotes/) exmple for footnote formatting:
-```
-Henry James, The Ambassadors (Rockville: Serenity, 2009), 34-40.
-```
+	* 
 2. add cover image to [`images/books/`](images/books/)
 3. add data in `books/md/_content.xlsx`
 4. run `books/md/_build.py`
