@@ -19,10 +19,26 @@ Content © 2005-2017 Matthew Kudija
 ## 2. Download HTML5 UP Theme
 
 ## 3. Set Up Extras
-- 404.html
-- CNAME
-- favicon.ico
-- robots.txt
+### 404.html
+### CNAME
+### favicon.ico
+### robots.txt
+### Google Analytics
+Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get your unique tracking ID (mine is `UA-72240498-1`) and then copy the required code in to your HTML pages:
+
+> This is the Global Site Tag (gtag.js) tracking code for this property. Copy and paste this code as the first item into the `<HEAD>` of every webpage you want to track. If you already have a Global Site Tag on your page, simply add the **config** line from the snippet below to your existing Global Site Tag.
+
+'''html
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72240498-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-72240498-1');
+		</script>
+'''
+
 
 ## 4. Enable Bigfoot Footnotes
 See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882466ee92a2aa00a8afec854b9b390ec)
