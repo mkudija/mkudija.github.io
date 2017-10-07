@@ -46,9 +46,23 @@ See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882
 - to change popup appearance, customize class "bigfoot-footnote__content" properties in [`bigfoot-default.css`](assets/css/bigfoot-default.css)
 
 ## 5. Update Books
-- add cover image to [`images/books/`](images/books/)
-- add data in `books/md/_content.xlsx`
-- run `books/md/_build.py`
+1. write book review in markdown
+	* Footnotes in Markdown use this format:
+```
+"Blah blah blah."[^id] More words and more words.[^id2] Finally, let's add more words
+
+[^id]: Footnote text for id1 goes here...
+[^id2]: Footnote text for id2 goes here...
+```
+
+	* See [easybib](http://www.easybib.com/guides/citation-guides/chicago-turabian/footnotes/) exmple for footnote formatting:
+```
+Henry James, The Ambassadors (Rockville: Serenity, 2009), 34-40.
+```
+2. add cover image to [`images/books/`](images/books/)
+3. add data in `books/md/_content.xlsx`
+4. run `books/md/_build.py`
+5. commit changes (including newly created html file)
 
 ### Manual .MD to .HTML
 Run [`markdown2.py`](/book-reviews/md/markdown2.py) to convert Markdown to HTML. See [here](https://github.com/trentm/python-markdown2) for more information about markdown2 from @trentm.
