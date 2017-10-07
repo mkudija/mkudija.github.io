@@ -18,12 +18,12 @@ In overcoming sin and self-centeredness we need to focus on others, especially i
 
 I finished *The Road to Character*, including the section on Authenticity, while attending a leadership course entitled *Authentic Leadership*. This gave me many fresh thoughts with which to approach—and at times disagree with—the instruction. The concept of individual "authenticity," with its roots perhaps in Rousseau, is discussed in detail recently by Charles Taylor as the view that "I can't even find the model to live by outside myself. I can find it only within. Being true to myself means being true to my own originality, and that is something only I can articulate and discover."[^taylor] The lack of an external reference to some universal truth and natural law is what I find to be blatantly missing from this modern view. Brooks levels the same critique: "Moral authority is no longer found in some external objective good; it is found in each person's unique original self" (249). Certainly a look inward is important, but we are ultimately lost if the only direction in our lives ignores eternal truths beyond ourselves.
 
-[^taylor]: Charles Taylor, *The Ethics of Authenticity* (Cambridge: Harvard University Press, 1991), 29.
+[^taylor]: Charles Taylor, [*The Ethics of Authenticity*](https://www.amazon.com/Ethics-Authenticity-Charles-Taylor/dp/0674268636/ref=sr_1_1?ie=UTF8&qid=1507383965&sr=8-1&keywords=Charles+Taylor%2C+The+Ethics+of+Authenticity) (Cambridge: Harvard University Press, 1991), 29.
 
 So what then is **Character**, and how can we develop it? Brooks summarizes in **The Humility Code** which I have paraphrased below: 
 1. We are not made for happiness, we are made for **holiness**.
 2. We are sinners.
-3. But, we are also wonderfully made.[^psalm139]
+3. But, we are also wonderfully made.[^wonderful]
 4. The greatest virtue in the struggle against our own weakness is **humility**: awareness of ourselves and our place in the universe.
 5. Conversely, the central vice is **pride**, which misleads us into thinking we are better than we are and the authors of our own lives. 
 6. The central struggle in life is that against sin and for virtue. Our purpose is not to "win", but to improve.
@@ -37,7 +37,7 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 14. A good leader is the steward of her organization and leads along the grain of human nature.
 15. Our aim should not be riches or fame, but **maturity**: a settled unity of purpose.
 
-[^psalm139]: cf. [Psalm 139:14](http://www.usccb.org/bible/psalms/139:1/#23139014)
+[^wonderful]: cf. Psalm 139:14, "I praise you, because I am wonderfully made; wonderful are your works! My very self you know."
 [^ccc1996]: cf. [CCC 1996-2005](http://www.vatican.va/archive/ccc_css/archive/catechism/p3s1c3a2.htm)
 
 > I wrote this book not sure I could follow the road to character, but I wanted at least to know what the road looks like and how other people have trodden it. <br>—*David Brooks*
