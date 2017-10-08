@@ -30,13 +30,13 @@ Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get yo
 
 ```html
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72240498-1"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', 'UA-72240498-1');
-		</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72240498-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-72240498-1');
+	</script>
 ```
 
 

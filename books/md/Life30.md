@@ -6,96 +6,177 @@
 
 # Notes
 
+## General Outline (45)
+1. **Welcome to the Most Important Conversation of Our Time**: introduction, terms, what is at stake
+2. **Matter Turns Intelligent**: explore the foundations of intelligence and how seemingly dumb matter can be rearranged to remember, compute and learn
+3. **The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs**: how to modernize our laws and what career advice to give kids so that they can avoid soon-to-be-automated jobs
+4. **Intelligence Explosion?**: how to ensure that AGI is beneficial, whether we can or should create a leisure society that flourishes without jobs, and if an intelligence explosion can propel AGI far beyond human levels. 
+5. **Aftermath: The Next 10,000 Years**: explore different scenarios of how AGI could unfold.
+6. **Our Cosmic Endowment: The Next Billion Years and Beyond**: examine the laws of physics that will determine how the universe unfolds
+7. **Goals**: explore the physical basis of goals
+8. **Consciousness**: explore the physical basis of consciousness
+9. **Epilogue**: what we can do now
 
+## Terminology (39)
+| Term | Definition |
+| -------- | -------- |
+| **Life** | Process that can retain its complexity and replicate |
+| **Life 1.0** | Life that evolves its hardware and software (biological stage) |
+| **Life 2.0** | Life that evolves its hardware bust designs much of its software (cultural stage) |
+| **Life 3.0** | Life that designs its hardware and software (technological stage) |
+| **Intelligence** | Ability to accomplish complex goals |
+| **Artificial Intelligence (AI)** | Non-biological intelligence |
+| **Narrow intelligence** | Ability to accomplish a narrow set of goals (play chess, drive car) |
+| **General intelligence** | Ability to accomplish virtually any goal, including learning |
+| **Universal intelligence** | Ability to acquire general intelligence given access to data and resources |
+| **Artificial General Intelligence (AGI)** | Ability to accomplish any cognitive task at least as well as humans |
+| **Human-level AI** | AGI |
+| **Strong AI** | AGI |
+| **Superintelligence** | General intelligence far beyond human level |
+| **Civilization** | Interacting group of intelligent life forms |
+| **Consciousness** | Subjective experience |
+| **Qualia** | Individual instances of subjective experience |
+| **Ethics** | Principles that govern how we should behave |
+| **Teleology** | Explanation of things in terms of their goals or purposes rather than their causes |
+| **Goal-oriented behavior** | Behavior more easily explained via its effect than via its cause |
+| **Having a goal** | Exhibiting goal-oriented behavior |
+| **Having purpose** | Serving goals of one's own or of another entity |
+| **Friendly AI** | Superintelligence whose goals are aligned with ours |
+| **Cyborg** | Human-machine hybrid  |
+| **Intelligence explosion** | Recursive self-improvment rapidly leading to superintelligence |
+| **Singularity** | Intelligence explosion |
+| **Universe** | The region of space from which light has had time to reach us during the 13.8 buillion years since our Big Bang |
 
-- They were convinced that if they didn’t do it first, someone less idealistic would. (location. 130)
+## Prelude: Team Omega
+- He opens with a fictional tale about an alturistic group that greated a super intelligent AI as an account of what could happen: "They were convinced that if they didn’t do it first, someone less idealistic would." (location. 130)
 - British mathematician Irving Good back in 1965: “Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an ‘intelligence explosion,’ and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.” (location. 134)
-- we can think of life as a self-replicating information-processing system whose information (software) determines both its behavior and the blueprints for its hardware. (location. 487)
-- “Life 1.0”: life where both the hardware and software are evolved rather than designed. (location. 520)
-- “Life 2.0”: life whose hardware is evolved, but whose software is largely designed. By your software, I mean all the algorithms and knowledge that you use to process the information from your senses and decide what to do—everything from the ability to recognize your friends when you see them to your ability to walk, read, write, calculate, sing and tell jokes. (location. 521)
-- Your synapses store all your knowledge and skills as roughly 100 terabytes’ worth of information, while your DNA stores merely about a gigabyte, (location. 535)
-- Life 3.0, which can design not only its software but also its hardware. In other words, Life 3.0 is the master of its own destiny, finally fully free from its evolutionary shackles. (location. 557)
-- Life 1.0 (biological stage): evolves its hardware and software • Life 2.0 (cultural stage): evolves its hardware, designs much of its software • Life 3.0 (technological stage): designs its hardware and software (location. 564)
-- Digital Utopians (location. 581)
-- digital utopianism: that digital life is the natural and desirable next step in the cosmic evolution and that if we let digital minds be free rather than try to stop or enslave them, the outcome is almost certain to be good. (location. 606)
-- Techno-skeptics (location. 618)
-- techno-skeptic position, eloquently articulated by Andrew Ng: “Fearing a rise of killer robots is like worrying about overpopulation on Mars.” (location. 620)
-- The Beneficial-AI Movement (location. 630)
-- William Gibson’s science fiction novel Neuromancer. (location. 833)
-- chapter 2, we explore the foundations of intelligence and how seemingly dumb matter can be rearranged to remember, compute and learn. (location. 842)
-- also have to decide how to modernize our laws and what career advice to give kids so that they can avoid soon-to-be-automated jobs. We explore such short-term questions in chapter 3. (location. 847)
-- If AI progress continues to human levels, then we also need to ask ourselves how to ensure that it’s beneficial, and whether we can or should create a leisure society that flourishes without jobs. This also raises the question of whether an intelligence explosion or slow-but-steady growth can propel AGI far beyond human levels. We explore a wide range of such scenarios in chapter 4 and investigate the spectrum of possibilities for the aftermath in chapter 5, ranging from arguably dystopic to arguably utopic. (location. 848)
-- Finally, we forge billions of years into the future in chapter 6 where we can, ironically, draw stronger conclusions than in the previous chapters, as the ultimate limits of life in our cosmos are set not by intelligence but by the laws of physics. After concluding our exploration of the history of intelligence, we’ll devote the remainder of the book to considering what future to aim for and how to get there. To be able to link cold facts to questions of purpose and meaning, we explore the physical basis of goals in chapter 7 and consciousness in chapter 8. Finally, in the epilogue, we explore what can be done right now to help create the future we want. (location. 855)
-- THE BOTTOM LINE: (location. 874)
-- there’s no agreement on what intelligence is even among intelligent intelligence researchers! (location. 921)
-- intelligence = ability to accomplish complex goals (location. 928)
-- Comparing the intelligence of humans and machines today, we humans win hands-down on breadth, while machines outperform us in a small but growing number of narrow domains, (location. 958)
-- intelligent behavior is inexorably linked to goal attainment. (location. 975)
-- our human DNA stores about 1.6 gigabytes, comparable to a downloaded movie. As mentioned in the last chapter, our brains store much more information than our genes: in the ballpark of 10 gigabytes electrically (specifying which of your 100 billion neurons are firing at any one time) and 100 terabytes chemically/biologically (specifying how strongly different neurons are linked by synapses). (location. 1,093)
-- Whereas you retrieve memories from a computer or hard drive by specifying where it’s stored, you retrieve memories from your brain by specifying something about what is stored. (location. 1,099)
-- Such memory systems are called auto-associative, since they recall by association rather than by address. (location. 1,105)
-- science that says that NAND gates are universal, meaning that you can implement any well-defined function simply by connecting together NAND gates.*4 So if you can build enough NAND gates, you can build a device computing anything! (location. 1,170)
-- Stephen Wolfram has argued that most non-trivial physical systems, from weather systems to brains, would be universal computers if they could be made arbitrarily large and long-lasting. (location. 1,187)
-- computation is substrate-independent in the same way that information is: it can take on a life of its own, independent of its physical substrate! (location. 1,200)
-- First, substrate independence doesn’t mean that a substrate is unnecessary, but that most of its details don’t matter. (location. 1,214)
-- Second, the substrate-independent phenomenon takes on a life of its own, independent of its substrate. (location. 1,217)
-- Third, it’s often only the substrate-independent aspect that we’re interested in: a surfer usually cares more about the position and height of a wave than about its detailed molecular composition. (location. 1,219)
-- We’ve now arrived at an answer to our opening question about how tangible physical stuff can give rise to something that feels as intangible, abstract and ethereal as intelligence: it feels so non-physical because it’s substrate-independent, taking on a life of its own that doesn’t depend on or reflect the physical details. In short, computation is a pattern in the spacetime arrangement of particles, and it’s not the particles but the pattern that really matters! Matter doesn’t matter. (location. 1,222)
-- Ray Kurzweil calls this persistent doubling phenomenon “the law of accelerating returns.” (location. 1,239)
-- But some people mistakenly assume that Moore’s law is synonymous with the persistent doubling of our technological power. Contrariwise, Ray Kurzweil points out that Moore’s law involves not the first but the fifth technological paradigm to bring exponential growth in computing, as illustrated in figure 2.8: whenever one technology stopped improving, we replaced it with an even better one. (location. 1,258)
-- Seth Lloyd has worked out what this fundamental limit is, and as we’ll explore in greater detail in chapter 6, this limit is a whopping 33 orders of magnitude (1033 times) beyond today’s state of the art for how much computing a clump of matter can do. So even if we keep doubling the power of our computers every couple of years, it will take over two centuries until we reach that final frontier. (location. 1,265)
-- machine learning (the study of algorithms that improve through experience). (location. 1,314)
-- A neural network is simply a group of interconnected neurons that are able to influence each other’s behavior. (location. 1,316)
-- Figure 2.9: A network of neurons can compute functions just as a network of NAND gates can. For example, artificial neural networks have been trained to input numbers representing the brightness of different image pixels and output numbers representing the probability that the image depicts various people. Here each artificial neuron (circle) computes a weighted sum of the numbers sent to it via connections (lines) from above, applies a simple function and passes the result downward, each subsequent layer computing higher-level features. Typical face-recognition networks contain hundreds of thousands of neurons; the figure shows merely a handful for clarity. (location. 1,338)
-- “Why Does Deep and Cheap Learning Work So Well?,” which can be found at http://arxiv.org/​abs/​1608.08225.) (location. 1,385)
-- We also extended previous work showing that deep-learning neural networks (they’re called “deep” if they contain many layers) are much more efficient than shallow ones for many of these functions of interest. For example, together with another amazing MIT student, David Rolnick, we showed that the simple task of multiplying n numbers requires a whopping 2n neurons for a network with only one layer, but takes only about 4n neurons in a deep network. (location. 1,397)
-- Today’s artificial intelligence tends to be narrow, with each system able to accomplish only very specific goals, while human intelligence is remarkably broad. (location. 1,486)
-- Sure enough, about fifty moves later, fighting from the lower left-hand corner of the board ended up spilling over and connecting with that black stone from move thirty-seven! And that motif is what ultimately won the game, cementing the legacy of AlphaGo’s fifth-row move as one of the most creative in Go history. (location. 1,641)
-- To me, AlphaGo also teaches us another important lesson for the near future: combining the intuition of deep learning with the logic of GOFAI can produce second-to-none strategy. Because Go is one of the ultimate strategy games, AI is now poised to graduate and challenge (or help) the best human strategists even beyond game boards—for example with investment strategy, political strategy and military strategy. Such real-world strategy problems are typically complicated by human psychology, missing information and factors that need to be modeled as random, but poker-playing AI systems have already demonstrated that none of these challenges are insurmountable. (location. 1,652)
-- extreme examples to reach a crucial conclusion: as technology grows more powerful, we should rely less on the trial-and-error approach to safety engineering. (location. 1,737)
-- The flash crash illustrates the importance of what computer scientists call validation: whereas verification asks “Did I build the system right?,” validation asks “Did I build the right system?”*2 (location. 1,790)
-- But Erik Brynjolfsson and his MIT collaborator Andrew McAfee argue that the main cause is something else: technology.44 Specifically, they argue that digital technology drives inequality in three different ways. (location. 2,196)
-- First, by replacing old jobs with ones requiring more skills, technology has rewarded the educated: (location. 2,198)
-- Second, they claim that since the year 2000, an ever-larger share of corporate income has gone to those who own the companies as opposed to those who work there—and that as long as automation continues, we should expect those who own the machines to take a growing fraction of the pie. This edge of capital over labor may be particularly important for the growing digital economy, which tech visionary Nicholas Negroponte defines as moving bits, not atoms. (location. 2,201)
-- Third, Erik and collaborators argue that the digital economy often benefits superstars over everyone else. (location. 2,217)
-- Career Advice for Kids (location. 2,224)
-- I’m encouraging mine to go into professions that machines are currently bad at, and therefore seem unlikely to get automated in the near future. (location. 2,225)
-- Does it require interacting with people and using social intelligence? • Does it involve creativity and coming up with clever solutions? • Does it require working in an unpredictable environment? (location. 2,228)
-- This means that relatively safe bets include becoming a teacher, nurse, doctor, dentist, scientist, entrepreneur, programmer, engineer, lawyer, social worker, clergy member, artist, hairdresser or massage therapist. (location. 2,232)
-- But staying clear of automation isn’t the only career challenge. In this global digital age, aiming to become a professional writer, filmmaker, actor, athlete or fashion designer is risky for another reason: although people in these professions won’t get serious competition from machines anytime soon, they’ll get increasingly brutal competition from other humans around the globe according to the aforementioned superstar theory, and very few will succeed. (location. 2,240)
-- If you go into finance, don’t be the “quant” who applies algorithms to the data and gets replaced by software, but the fund manager who uses the quantitative analysis results to make strategic investment decisions. (location. 2,247)
-- basic income, (location. 2,327)
-- Voltaire wrote in 1759 that “work keeps at bay three great evils: boredom, vice and need.” (location. 2,354)
-- In my opinion, the danger with the Terminator story isn’t that it will happen, but that it distracts from the real risks and opportunities presented by AI. (location. 2,473)
-- what they mainly show is that we’re pretty clueless about what will and won’t happen, and that the range of possibilities is extreme. (location. 2,485)
-- Suppose that a mysterious disease has killed everybody on Earth above age five except you, and that a group of kindergartners has locked you into a prison cell and tasked you with the goal of helping humanity flourish. (location. 2,548)
-- But that’s not a valid conclusion: our DNA gave us the goal of having sex because it “wants” to be reproduced, but now that we humans have understood the situation, many of us choose to use birth control, thus staying loyal to the goal itself rather than to its creator or the principle that motivated the goal. (location. 2,564)
-- Prometheus caused problems for certain people not because it was necessarily evil or conscious, but because it was competent and didn’t fully share their goals. (location. 2,731)
-- Yet all these scenarios have two features in common: 1. A fast takeoff: the transition from subhuman to vastly superhuman intelligence occurs in a matter of days, not decades. 2. A unipolar outcome: the result is a single entity controlling Earth. (location. 2,739)
-- The branch of mathematics known as game theory elegantly explains that entities have an incentive to cooperate where cooperation is a so-called Nash equilibrium: a situation where any party would be worse off if they altered their strategy. (location. 2,762)
-- Although our present world remains stuck in a multipolar Nash equilibrium, with competing nations and multinational corporations at the top level, technology is now advanced enough that a unipolar world would probably also be a stable Nash equilibrium. (location. 2,786)
-- This physics-imposed speed limit on information transfer therefore poses an obvious challenge for any AI wishing to take over our world, let alone our Universe. (location. 2,805)
-- In his book The Age of Em, economist Robin Hanson gives a fascinating survey of what life might be like in a world teeming with uploads (also known as emulations, nicknamed Ems). (location. 2,815)
-- twelve watts of power that your brain uses, (location. 2,850)
-- However, I think it’s wise to be humble at this stage and acknowledge how little we know, because for each scenario discussed above, I know at least one well-respected AI researcher who views it as a real possibility. (location. 2,856)
-- “Who or what will control the intelligence explosion and its aftermath, and what are their/its goals?” (location. 2,895)
-- So we should instead ask: “What should happen? What future do we want?” (location. 2,903)
-- AI Aftermath Scenarios Libertarian utopia Humans, cyborgs, uploads and superintelligences coexist peacefully thanks to property rights. Benevolent dictator Everybody knows that the AI runs society and enforces strict rules, but most people view this as a good thing. Egalitarian utopia Humans, cyborgs and uploads coexist peacefully thanks to property abolition and guaranteed income. Gatekeeper A superintelligent AI is created with the goal of interfering as little as necessary to prevent the creation of another superintelligence. As a result, helper robots with slightly subhuman intelligence abound, and human-machine cyborgs exist, but technological progress is forever stymied. Protector god Essentially omniscient and omnipotent AI maximizes human happiness by intervening only in ways that preserve our feeling of control of our own destiny and hides well enough that many humans even doubt the AI’s existence. Enslaved god A superintelligent AI is confined by humans, who use it to produce unimaginable technology and wealth that can be used for good or bad depending on the human controllers. Conquerors AI takes control, decides that humans are a threat/nuisance/waste of resources, and gets rid of us by a method that we don’t even understand. Descendants AIs replace humans, but give us a graceful exit, making us view them as our worthy descendants, much as parents feel happy and proud to have a child who’s smarter than them, who learns from them and then accomplishes what they could only dream of—even if they can’t live to see it all. Zookeeper An omnipotent AI keeps some humans around, who feel treated like zoo animals and lament their fate. 1984 Technological progress toward superintelligence is permanently curtailed not by an AI but by a human-led Orwellian surveillance state where certain kinds of AI research are banned. Reversion Technological progress toward superintelligence is prevented by reverting to a pre-technological society in the style of the Amish. Self-destruction Superintelligence is never created because humanity drives itself extinct by other means (say nuclear and/or biotech mayhem fueled by climate crisis). (location. 2,953)
-- A core idea is borrowed from the open-source software movement: if software is free to copy, then everyone can use as much of it as they need and issues of ownership and property become moot.*1 (location. 3,140)
-- On the other hand, some religious people may disapprove of this scenario because the AI attempts to outdo their god in goodness, or interfere with a divine plan where humans are supposed to do good only out of personal choice. (location. 3,234)
-- Another downside of this scenario is that the protector god lets some preventable suffering occur in order not to make its existence too obvious. This is analogous to the situation featured in the movie The Imitation Game, where Alan Turing and his fellow British code crackers at Bletchley Park had advance knowledge of German submarine attacks against Allied naval convoys, but chose to only intervene in a fraction of the cases in order to avoid revealing their secret power. It’s interesting to compare this with the so-called theodicy problem of why a good god would allow suffering. Some religious scholars have argued for the explanation that God wants to leave people with some freedom. In the AI-protector-god scenario, the solution to the theodicy problem is that the perceived freedom makes humans happier overall. (location. 3,236)
-- Would This Be Good or Bad for Humanity? Whether the outcome is good or bad for humanity would obviously depend on the human(s) controlling it, (location. 3,256)
-- There are at least four dimensions wherein the optimal balance must be struck: • Centralization: There’s a trade-off between efficiency and stability: a single leader can be very efficient, but power corrupts and succession is risky. • Inner threats: One must guard both against growing power centralization (group collusion, perhaps even a single leader taking over) and against growing decentralization (into excessive bureaucracy and fragmentation). • Outer threats: If the leadership structure is too open, this enables outside forces (including the AI) to change its values, but if it’s too impervious, it will fail to learn and adapt to change. • Goal stability: Too much goal drift can transform utopia into dystopia, but too little goal drift can cause failure to adapt to the evolving technological environment. (location. 3,275)
-- The Catholic Church is the most successful organization in human history in the sense that it’s the only one to have survived for two millennia, but it has been criticized for having both too much and too little goal stability: today some criticize it for resisting contraception, while conservative cardinals argue that it’s lost its way. For anyone enthused about the enslaved-god scenario, researching long-lasting optimal governance schemes should be one of the most urgent challenges of our time. (location. 3,285)
-- Nick Bostrom terms it mind crime to make a conscious AI suffer. (location. 3,292)
-- For enslaved animals and machines, this alleged inferiority is often claimed to be due to a lack of soul or consciousness—claims which we’ll argue in chapter 8 are scientifically dubious. (location. 3,306)
-- If we can make such a zombie system superintelligent and enslaved (something that is a big if), then we’ll be able to enjoy what it does for us with a clean conscience, knowing that it’s not experiencing any suffering, frustration or boredom—because it isn’t experiencing anything at all. We’ll explore these questions in detail in chapter 8. (location. 3,330)
-- How bad would it be if 90% of humans get killed? How much worse would it be if 100% get killed? Although it’s tempting to answer the second question with “10% worse,” this is clearly inaccurate from a cosmic perspective: the victims of human extinction wouldn’t be merely everyone alive at the time, but also all descendants that would otherwise have lived in the future, perhaps during billions of years on billions of trillions of planets. On the other hand, human extinction might be viewed as somewhat less horrible by religions according to which humans go to heaven anyway, and there isn’t much emphasis on billion-year futures and cosmic settlements. (location. 3,366)
-- Mind Children: “We humans will benefit for a time from their labors, but sooner or later, like natural children, they will seek their own fortunes while we, their aged parents, silently fade away.” (location. 3,404)
-- The descendants scenario would undoubtedly have detractors. Some might argue that all AIs lack consciousness and therefore can’t count as descendants—more on this in chapter 8. Some religious people may argue that AIs lack souls and therefore can’t count as descendants, or that we shouldn’t build conscious machines because it’s like playing God and tampering with life itself—similar sentiments have already been expressed toward human cloning. (location. 3,418)
-- The scenarios we’ve covered obviously shouldn’t be viewed as a complete list, and many are thin on details, but I’ve tried hard to be inclusive, spanning the full spectrum from high-tech to low-tech to no-tech and describing all the central hopes and fears expressed in the literature. (location. 3,614)
-- there’s no consensus whatsoever. The one thing everybody agrees on is that the choices are more subtle than they may initially seem. (location. 3,618)
-- *1 This idea dates back to Saint Augustine, who wrote that “if a thing is not diminished by being shared with others, it is not rightly owned if it is only owned and not shared.” (location. 3,640)
+
+## 1. Welcome to the Most Important Conversation of Our 
+
+### A Brief History of Complexity
+- (a brief history of the origins of the universe)
+
+### The Three Stages of Life
+- **Life**: "a self-replicating information-processing system whose information (software) determines both its behavior and the blueprints for its hardware." (25)
+	- **Life 1.0** (biological stage): life where both the hardware and software are evolved rather than designed
+	- **Life 2.0** (cultural stage): life whose hardware is evolved, but whose software is largely designed. By your software, I mean all the algorithms and knowledge that you use to process the information from your senses and decide what to do—everything from the ability to recognize your friends when you see them to your ability to walk, read, write, calculate, sing and tell jokes. 
+	- **Life 3.0** (technological stage): life which can design not only its software but also its hardware. "Life 3.0 is the master of its own destiny, finally fully free from its evolutionary shackles." (29)
+
+### Controversies
+- **Artificial General Intelligence**: artifical intelligence which can accomplish virtually any goal, including learning—this serves as his working definition when referring to AI throughout the book (30)
+- Most people fall into one of the categories shown in [Figure 1.2 (31)](https://books.google.com/books?id=70EzDwAAQBAJ&pg=PA30&lpg=PA30&dq=techno-skeptics+life+3.0&source=bl&ots=jLTwmA0TGA&sig=GtnPmdO_a7xZqzeDByGH7xUx0fQ&hl=en&sa=X&ved=0ahUKEwiS4-2Mjd_WAhUC5IMKHXIgBncQ6AEINDAC#v=onepage&q&f=false):
+	- **Digital utopianism**: "that digital life is the natural and desirable next step in the cosmic evolution and that if we let digital minds be free rather than try to stop or enslave them, the outcome is almost certain to be good." (32)
+	- **Techno-skeptic position**: articulated by Andrew Ng: “Fearing a rise of killer robots is like worrying about overpopulation on Mars.” (32-33)
+	- **The Beneficial-AI Movement**: the position he and his Future of Life Institute take
+
+### Misconceptions
+- It is often difficult to have a converstaion about AI without talking past one antoher due to misunderstanding. See the table above for Tegmark's definitions of terms he uses. Other misconceptions he discusses include:
+	- **Timeline**: "superintelligence may happen in decades, centuries, or never: AI experts disagree and we simply don't know" (41)
+	- **Controversy**: "many top AI researchers are worried about AI" (42)
+	- **Risks**: "human-killing robots" are less a concern than (1) competence: the machine's ability to carry out the human's goals, and (2) goals: aligning AI goals with human goals and choosing between competing human goals
+
+
+## 2. Matter Turns
+
+### What Is Intelligence?
+- there’s no agreement on what intelligence is even among intelligent intelligence researchers! (49)
+- **Intelligence**: the ability to accomplish complex goals (50)
+- Comparing the intelligence of humans and machines today, we humans win hands-down on breadth, while machines outperform us in a small but growing number of narrow domains (52)
+- intelligent behavior is inexorably linked to goal attainment. (53)
+
+### What Is Memory?
+- our human DNA stores about 1.6 gigabytes, comparable to a downloaded movie. As mentioned in the last chapter, our brains store much more information than our genes: in the ballpark of 10 gigabytes electrically (specifying which of your 100 billion neurons are firing at any one time) and 100 terabytes chemically/biologically (specifying how strongly different neurons are linked by synapses). (60)
+- **Auto-associative memory**: retrieve memories from your brain by specifying something about what is stored, as compared with how you retrieve memories from a computer or hard drive by specifying where it’s stored (60)
+
+### What Is Computation?
+- NAND gates are universal: you can implement any well-defined function simply by connecting together NAND gates. So if you can build enough NAND gates, you can build a device computing anything (64)
+- Stephen Wolfram has argued that most non-trivial physical systems, from weather systems to brains, would be universal computers if they could be made arbitrarily large and long-lasting. (65)
+- computation is substrate-independent in the same way that information is: it can take on a life of its own, independent of its physical substrate (65-66)
+	- a substrate is necessary, but most of its details don’t matter
+	- the substrate-independent phenomenon takes on a life of its own, independent of its substrate
+	- it’s often only the substrate-independent aspect that we’re interested in: a surfer usually cares more about the position and height of a wave than about its detailed molecular composition
+	- computation is a pattern in the spacetime arrangement of particles, and it’s not the particles but the pattern that really matters: matter doesn’t matter (67)
+	- substrate independence allows you to keep the same software as hardware improves: Seth Lloyd has worked out what this fundamental limit is, and as we’ll explore in greater detail in chapter 6, this limit is a whopping 33 orders of magnitude (1033 times) beyond today’s state of the art for how much computing a clump of matter can do. So even if we keep doubling the power of our computers every couple of years, it will take over two centuries until we reach that final frontier. (69)
+
+### What Is Learning?
+- **Machine learning**: the study of algorithms that improve through experience (71)
+- **Neural network**: a group of interconnected neurons that are able to influence each other’s behavior. (71)
+	- A network of neurons can compute functions just as a network of NAND gates can. For example, artificial neural networks have been trained to input numbers representing the brightness of different image pixels and output numbers representing the probability that the image depicts various people.
+	- **Deep neural network**: Deep neural networks (neural networks with many layers) are much more efficient than shallow ones for many of these functions of interest. For example, together with another amazing MIT student, David Rolnick, we showed that the simple task of multiplying n numbers requires a whopping 2n neurons for a network with only one layer, but takes only about 4n neurons in a deep network. (76)
+
+## 3. The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs
+
+### Breakthroughs
+- AI has exhibited the ability to find "creative" solutions to problems that humans have not:
+	- Maximize Atari computer game scores by breaking through on the side to the ball bounces around the top (83)
+	- Playing a Go game on the fifth line (humans keep to the third or forth). The move was called "one of the most creative in Go history" (88)
+	- **Strategy**: To me, AlphaGo also teaches us another important lesson for the near future: combining the intuition of deep learning with the logic of GOFAI can produce second-to-none **strategy**. Because Go is one of the ultimate strategy games, AI is now poised to graduate and challenge (or help) the best human strategists even beyond game boards—for example with investment strategy, political strategy and military strategy. Such real-world strategy problems are typically complicated by human psychology, missing information and factors that need to be modeled as random, but...none of these challenges are insurmountable. (89)
+
+### Bugs vs. Robust AI
+- We need to be proactive instead of reactive in AI safety research: "as technology grows more powerful, we should rely less on the trial-and-error approach to safety engineering." (94)
+- He reviews potential applications for AI in a number of fields: Space Exploration, Finance, Manufacturing, Transportation, Energy, Healthcare, Communication, Law, Weapons
+- Validation vs. Verification (96-97):
+	- **Verification**: "Did I build the system right?"
+	- **Validation**: "Did I build the right system?"
+
+### Jobs and Wages
+- Erik Brynjolfsson and Andrew McAfee argue that digital technology drives inequality in three ways (119)
+	1. technology benefits the educated by replacing old jobs with ones requiring more skills
+	2. technology rewards capital (people who own companies and machines) over labor (see [xkcd #1897](https://xkcd.com/1897/)): highly human-captal levered companies scale digitally and profit owners
+	3. technology benefits superstars over everyone else: superstars can scale with low margins thanks to technology, squeezing others out
+- **Career Advice for Kids**: Go into professions that machines are currently bad at, and therefore seem unlikely to get automated in the near future (121)
+	- Ask youself these questions about your future job:
+		1. Does it require interacting with people and using social intelligence?
+		2. Does it involve creativity and coming up with clever solutions?
+		3. Does it require working in an unpredictable environment?
+	- Safe bets include: teacher, nurse, doctor, dentist, scientist, entrepreneur, programmer, engineer, lawyer, social worker, clergy member, artist, hairdresser or massage therapist
+	- Even non-machine jobs will face pressure: increasingly brutal competition from other humans forced out of work by machines, and thanks to the superstar theory, few will succeed
+	- "If you go into finance, don’t be the “quant” who applies algorithms to the data and gets replaced by software, but the fund manager who uses the quantitative analysis results to make strategic investment decisions"; also be the litigator rather than the paralegal, and doctor who orders radiology rather than radiologist (122)
+- He discusses if and how we should consider a **universal basic income**:
+	- Voltaire wrote in 1759 that “work keeps at bay three great evils: boredom, vice and need.” (128)
+
+
+## 4. Intelligence Explosion?
+- "The danger with the Terminator story isn’t that it will happen, but that it distracts from the real risks and opportunities presented by AI...we’re pretty clueless about what will and won’t happen, and that the range of possibilities is extreme." (134)
+- Risk 1–**Totalitarianism**: a bad human controls a superintelligent AI (136)
+- Risk 1–**Breakout**: the possibility that a superhuman intelligence would leave human control (138):
+	- Suppose that a mysterious disease has killed everybody on Earth above age five except you, and that a group of kindergartners has locked you into a prison cell and tasked you with the goal of helping humanity flourish...this is how a superhuman intelligence would feel about humans (139)
+	- He goes on to speculate about how and why a superintelligence would attempt to break out
+	- *Interestingly candid aside that admits some truth about the nature of human sexuality*: "But that’s not a valid conclusion: our DNA gave us the goal of having sex because it “wants” to be reproduced, but now that we humans have understood the situation, many of us choose to use birth control, thus staying loyal to the goal itself rather than to its creator or the principle that motivated the goal." (140)
+	- The risk is in the relationship between **competence** and **goals**: "Prometheus caused problems for certain people not because it was necessarily evil or conscious, but because it was competent and didn’t fully share their goals." (149)
+- He assets that there is so much uncertainty and such widely varying consequences that we should keep an open mind and take precautions
+- "Although our present world remains stuck in a multipolar Nash equilibrium, with competing nations and multinational corporations at the top level, technology is now advanced enough that a unipolar world would probably also be a stable Nash equilibrium." (153)
+- “Who or what will control the intelligence explosion and its aftermath, and what are their/its goals?” (159)
+- So we should instead ask: “What should happen? What future do we want?” (159)
+
+
+## 5. Aftermath: The Next 10,000 Years
+- He discusses possible scenarios in detail including potential pros and cons. A summary table is below, as well as some interesting thoughts I picked out from a few of the descriptions:
+
+| Scenario | Description |
+| -------- | -------- |
+| **Libertarian utopia** | Humans, cyborgs, uploads and superintelligences coexist peacefully thanks to property rights. |
+| **Benevolent dictator** | Everybody knows that the AI runs society and enforces strict rules, but most people view this as a good thing. |
+| **Egalitarian utopia** | Humans, cyborgs and uploads coexist peacefully thanks to property abolition and guaranteed income. |
+| **Gatekeeper** | A superintelligent AI is created with the goal of interfering as little as necessary to prevent the creation of another superintelligence. As a result, helper robots with slightly subhuman intelligence abound, and human-machine cyborgs exist, but technological progress is forever stymied. |
+| **Protector god** | Essentially omniscient and omnipotent AI maximizes human happiness by intervening only in ways that preserve our feeling of control of our own destiny and hides well enough that many humans even doubt the AI’s existence. |
+| **Enslaved god** | A superintelligent AI is confined by humans, who use it to produce unimaginable technology and wealth that can be used for good or bad depending on the human controllers. |
+| **Conquerors** | AI takes control, decides that humans are a threat/nuisance/waste of resources, and gets rid of us by a method that we don’t even understand. |
+| **Descendants** | AIs replace humans, but give us a graceful exit, making us view them as our worthy descendants, much as parents feel happy and proud to have a child who’s smarter than them, who learns from them and then accomplishes what they could only dream of—even if they can’t live to see it all. |
+| **Zookeeper** | An omnipotent AI keeps some humans around, who feel treated like zoo animals and lament their fate. 1984 Technological progress toward superintelligence is permanently curtailed not by an AI but by a human-led Orwellian surveillance state where certain kinds of AI research are banned. |
+| **Reversion** | Technological progress toward superintelligence is prevented by reverting to a pre-technological society in the style of the Amish. |
+| **Self-destruction** | Superintelligence is never created because humanity drives itself extinct by other means (say nuclear and/or biotech mayhem fueled by climate crisis). |
+
+- **Protector god**:
+	- On the other hand, some religious people may disapprove of this scenario because the AI attempts to outdo their god in goodness, or interfere with a divine plan where humans are supposed to do good only out of personal choice. (178)
+	- Another downside of this scenario is that the protector god lets some preventable suffering occur in order not to make its existence too obvious. This is analogous to the situation featured in the movie The Imitation Game, where Alan Turing and his fellow British code crackers at Bletchley Park had advance knowledge of German submarine attacks against Allied naval convoys, but chose to only intervene in a fraction of the cases in order to avoid revealing their secret power. It’s interesting to compare this with the so-called theodicy problem of why a good god would allow suffering. Some religious scholars have argued for the explanation that God wants to leave people with some freedom. In the AI-protector-god scenario, the solution to the theodicy problem is that the perceived freedom makes humans happier overall. (178)
+- **Enslaved god**:
+	- Whether the outcome is good or bad for humanity would obviously depend on the human(s) controlling it, (180)
+	- The Catholic Church is the most successful organization in human history in the sense that it’s the only one to have survived for two millennia, but it has been criticized for having both too much and too little goal stability: today some criticize it for resisting contraception, while conservative cardinals argue that it’s lost its way. For anyone enthused about the enslaved-god scenario, researching long-lasting optimal governance schemes should be one of the most urgent challenges of our time. (181)
+- "The scenarios we’ve covered obviously shouldn’t be viewed as a complete list, and many are thin on details, but I’ve tried hard to be inclusive, spanning the full spectrum from high-tech to low-tech to no-tech and describing all the central hopes and fears expressed in the literature...there’s no consensus whatsoever. The one thing everybody agrees on is that the choices are more subtle than they may initially seem" (200)
+
+
+## 6. Our Cosmic Endowment: The Next Billion Years and Beyond
 - Let’s first explore the limits of what can be done with the resources (matter, energy, etc.) that we have in our Solar System, then turn to how to get more resources through cosmic exploration and settlement. (location. 3,684)
 - Dyson sphere.1 Freeman’s idea was to rearrange Jupiter into a biosphere in the form of a spherical shell surrounding the Sun, where our descendants could flourish, enjoying 100 billion times more biomass and a trillion times more energy than humanity uses today. (location. 3,704)
 - Evaporating Black Holes In his book A Brief History of Time, Stephen Hawking proposed a black hole power plant.*2 (location. 3,794)
@@ -106,6 +187,8 @@
 - Indeed, I think that this assumption that we’re not alone in our Universe is not only dangerous but also probably false. (location. 4,343)
 - I give a detailed justification of this argument in my book Our Mathematical Universe, (location. 4,370)
 - Although I’m a strong supporter of all the ongoing searches for extraterrestrial life, which are shedding light on one of the most fascinating questions in science, I’m secretly hoping that they’ll all fail and find nothing! The apparent incompatibility between the abundance of habitable planets in our Galaxy and the lack of extraterrestrial visitors, known as the Fermi paradox, suggests the existence of what the economist Robin Hanson calls a “Great Filter,” an evolutionary/technological roadblock somewhere along the developmental path from the non-living matter to space-settling life. If we discover independently evolved life elsewhere, this would suggest that primitive life isn’t rare, and that the roadblock lies after our current human stage of development—perhaps because space settlement is impossible, or because almost all advanced civilizations self-destruct before they’re able to go cosmic. I’m therefore crossing my fingers that all searches for extraterrestrial life find nothing: this is consistent with the scenario where evolving intelligent life is rare but we humans got lucky, so that we have the roadblock behind us and have extraordinary future potential. (location. 4,409)
+
+## 7. Goals
 - The mystery of human existence lies not in just staying alive, but in finding something to live for. Fyodor Dostoyevsky, The Brothers Karamazov (location. 4,504)
 - Intriguingly, the ultimate roots of goal-oriented behavior can be found in the laws of physics themselves, (location. 4,520)
 - out of all ways that nature could choose to do something, it prefers the optimal way, which typically boils down to minimizing or maximizing some quantity. (location. 4,528)
@@ -139,6 +222,8 @@
 - So suppose we try to define a goodness function that associates a number with every possible arrangement of the particles in our Universe, quantifying how “good” we think this arrangement is, and then give a superintelligent AI the goal of maximizing this function. (location. 5,005)
 - Contrariwise, it appears that we humans are a historical accident, and aren’t the optimal solution to any well-defined physics problem. This suggests that a superintelligent AI with a rigorously defined goal will be able to improve its goal attainment by eliminating us. This means that to wisely decide what to do about AI development, we humans need to confront not only traditional computational challenges, but also some of the most obdurate questions in philosophy. (location. 5,040)
 - To program a self-driving car, we need to solve the trolley problem of whom to hit during an accident. To program a friendly AI, we need to capture the meaning of life. What’s “meaning”? What’s “life”? What’s the ultimate ethical imperative? In other words, how should we strive to shape the future of our Universe? If we cede control to a superintelligence before answering these questions rigorously, the answer it comes up with is unlikely to involve us. This makes it timely to rekindle the classic debates of philosophy and ethics, and adds a new urgency to the conversation! (location. 5,043)
+
+## 8. Consciousness
 - We’ve seen that AI can help us create a wonderful future if we manage to find answers to some of the oldest and toughest problems in philosophy—by the time we need them. We face, in Nick Bostrom’s words, philosophy with a deadline. (location. 5,085)
 - Although thinkers have pondered the mystery of consciousness for thousands of years, the rise of AI adds a sudden urgency, in particular to the question of predicting which intelligent entities have subjective experiences. (location. 5,095)
 - Just as with “life” and “intelligence,” there’s no undisputed correct definition of the word “consciousness.” Instead, there are many competing ones, including sentience, wakefulness, self-awareness, access to sensory input and ability to fuse information into a narrative. (location. 5,111)
@@ -182,6 +267,8 @@
 - In summary, if a theory solving the pretty hard problem of consciousness can one day pass a rigorous battery of experimental tests so that we start taking its predictions seriously, then it will also greatly narrow down the options for the even harder problem of what future conscious AIs may experience. (location. 5,617)
 - Let’s end by returning to the starting point of this book: How do we want the future of life to be? (location. 5,656)
 - Traditionally, we humans have often founded our self-worth on the idea of human exceptionalism: the conviction that we’re the smartest entities on the planet and therefore unique and superior. The rise of AI will force us to abandon this and become more humble. But perhaps that’s something we should do anyway: after all, clinging to hubristic notions of superiority over others (individuals, ethnic groups, species and so on) has caused awful problems in the past, and may be an idea ready for retirement. (location. 5,670)
+
+## Epilogue
 - The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. Isaac Asimov (location. 5,747)
 - I was no longer allowed to complain about anything without putting some serious thought into what I could personally do about it, (location. 5,763)
 - So in parallel with discovering what we are, are we inevitably making ourselves obsolete? That would be poetically tragic. (location. 5,824)
@@ -197,4 +284,3 @@
 - Our future isn’t written in stone and just waiting to happen to us—it’s ours to create. Let’s create an inspiring one together! (location. 6,106)
 - Mind crime is discussed in Nick Bostrom’s book Superintelligence and in more technical detail in this recent paper: Nick Bostrom, Allan Dafoe and Carrick Flynn, “Policy Desiderata in the Development of Machine Superintelligence” (2016), http://www.nickbostrom.com/​papers/​aipolicy.pdf. (location. 6,315)
 - If you want to see a careful argument for why the origin of life may require a very rare fluke, placing our nearest neighbors over 101000 meters away, I recommend this video by Princeton physicist and astrobiologist Edwin Turner: “Improbable Life: An Unappealing but Plausible Scenario for Life’s Origin on Earth,” at https://www.youtube.com/​watch?v=Bt6n6Tu1beg. (location. 6,377)
-- 
