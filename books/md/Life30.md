@@ -1,29 +1,38 @@
-# Life 3.0
-
-*Life 3.0: Being Human in the Age of Artificial Intelligence* by Mark Tegmark
-
-
 > The mystery of human existence lies not in just staying alive, but in finding something to live for. <br> —Fyodor Dostoyevsky[^brothersk]
 
 [^brothersk]: Cited by Tegmark at the beginning of Chapter 7 on Goals (249), from *The Grand Inquisitor* in Fyodor Dostoyevsky, [*The Brothers Karamazov*](https://www.amazon.com/Brothers-Karamazov-Fyodor-Dostoevsky-2004-07-25/dp/B01FKT82QE/ref=sr_1_4?ie=UTF8&qid=1507495482&sr=8-4&keywords=barnes+and+noble+brothers+karamazov) (New York: Barnes & Noble, 2004), 236. 
 
-In *Life 3.0*, Max Tegmark gives a fascenating and mind-opening tour of a possible future with artificial intelligence. Even if you find some of the possible scenarios he presents to be fantastical, he asks difficult questions that concern those interested in the future of humanity: What is the meaning of life? Is a superhuman artificial intelligence possible, and if so would we want one? What collective goals should we work together for? Throughout, he gives prescise scientific insight and humbly invites other fields—including philosophy—to join "the most important conversation of our time." 
+In *Life 3.0*, Max Tegmark gives a fascenating and whirlwind tour of a possible future with artificial intelligence. Even if you find some of the scenarios he presents to be fantastical, he asks difficult questions of concern to those interested in the future of humanity: What is the meaning of life? Is a superhuman artificial intelligence possible, and if so would we want one? What collective goals should we work together for? Throughout, he gives scientific insight while humbly inviting thinkers in other fields—including philosophy—to join "the most important conversation of our time."
 
-So what is "Life 3.0"? Tegmark acknowledges that his definitions are controversial, reflecting a scientific perspective that is currently limited in its understanding of the topics under discussion. Thankfully though, he provides clear definitions for the terms he uses (reproduced below) and invites discussion on the interpretation he puts forth. He starts by defining **life** as a "process that can retain its complexity and replicate."[^definition] **Life 1.0** then is the simplest form of life where both its hardware and software are evolved, meaning that changes only manifest on the evolutionary timescale, over the course of generations. We inhabit what he terms **Life 2.0** where our hardware (body) is evolved, but our software is designed: we can gain knowledge, change the algorithms we use to process information, and learn new skills. **Life 3.0** then is "finally fully free from its evolutionary shackles," able to design both its hardware and software. Broadly speaking, this is the future Tegmark thinks may be possible with artificial intelligence. 
+First off, let's understand the title *Life 3.0*. Tegmark acknowledges that his definitions are controversial, reflecting a scientific perspective that is currently limited in its understanding of the topics under discussion. Thankfully though, he provides clear definitions for the terms he uses (reproduced below) and invites discussion on the interpretation he puts forth. He starts by defining **life** as a "process that can retain its complexity and replicate."[^definition] **Life 1.0** then is the simplest form of life where both its hardware and software are evolved, meaning that changes only manifest on the evolutionary timescale, over the course of generations. We inhabit what he terms **Life 2.0** where our hardware (body) is evolved, but our software is designed: we can gain knowledge, change the algorithms we use to process information, and learn new skills. **Life 3.0** then is "finally fully free from its evolutionary shackles," able to design both its hardware and software. Broadly speaking, this is the future Tegmark thinks may be possible with artificial intelligence. 
 [^definition]: Max Tegmark, [*Life 3.0*](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598/ref=sr_1_1?ie=UTF8&qid=1508148120&sr=8-1&keywords=life+3.0) (New York: Alfred A. Knopf, 2017), 25. Also see 39 for a table of definitions used throughout the book, reproduced below. 
 
-Let's also get on the same page about what artificial intelligence is. Tegmark uses the term **Artificial General Intelligence**, to describe artifical (non-biological) intelligence that can accomplish virtually any goal, including learning (30). Unless otherwise explained, this is what he is referring to when speaking about artificial intelligence or AI. 
+Let's also get on the same page about what artificial intelligence is. Tegmark uses the term **Artificial General Intelligence**, to describe artifical (non-biological) intelligence that can accomplish virtually any goal, including learning (30). Unless otherwise explained, this is what he is referring to when speaking about artificial intelligence or AI.
+
+But why should you care about artificial intelligence? Drawing from the numerous arguments Tegmark makes in detail, I think we all should care because a future with artificial intelligence could be very bad, it could be very good, and it will have tangible effects on our lives in the near term. Most importantly, Tegmark's questions about artificial intelligence force us to ask important questions about who we are and what we want. Let's examine each of these in turn. 
+
+A strength of *Life 3.0* is the wide expanse of possible outcomes Tegmark highlights–he casts a wide net in an attempt to ensure all possible outcomes are accounted for and considered. Some of these are not good. Perhaps the AI takes control and kills all humans because they consume resources it could othersie put to more prouctive use for its own ends. Or the AI may act like a zookeeper, keeping humans around for some entertainment value but in vastly limited numbers and with no autonomy.[^scenarios] **superintelligence**[^superintelligence] might play out.
+
+[^scenarios]: See the other scenarios he describes in [Chapter 5](http://matthewkudija.com/books/life30.html#5-aftermath-the-next-10000-years)
+[^superintelligence]: **Superintelligence**: "General intelligence far beyond human level", [Terminology](#terminology) (39)
 
 
-### Career Advice
-In Chapter 3, Tegmark reviews some recent breakthroughs in artificial intelligence, and then projects how these and future developments might impact a number of facets of life, from manufacturing and healthcare to warfare and the legal system. One area of discussion I find particularly interesting is about the future of jobs and wages in a world of AI. Citing the work of MIT economists Erik Brynjolfsson and Andrew McAfee, Tegmark explains how digital technology increases inequality. This works through three mechanisms: (1) by rewarding those with education over others by replacing old jobs with new jobs that require high skills, (2) by rewarding those with capital over laborers due to increased automation, and (3) by rewarding individual superstarts over everyone else because of the scale of the platform driven by digital technology.[^robots]
-[^robots]: For related reading, see [*Rise of the Robots: Technology and the Threat of a Jobless Future*](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537/ref=sr_1_1?s=books&ie=UTF8&qid=1508151815&sr=1-1&keywords=rise+of+the+robots) by Martin Ford. Chapter 2 identifies "7 deadly trends" brought by increased automation, including: stagnant wages, corporations winning over labor, lower labor force participation, less job creation, increased inequality, difficulty for recent graduates, and more part time jobs.
 
-With these trends in mind Tegmark explains the career advice he gives his children: go into jobs machines are bad at so you won't be replaced (121). Therefore, a "safe" job would be one that requires a lot of interaction with other people, uses creativity, and is in an unpredictable environment. 
 
-My career advice: always be learning, make connections between different disciplines, etc. 
+- one of two possible terrible endings
+- potential amazing results
+- may impact us soon
+- most importantly, asks questions that help us know ourselves, and live better otherwise (goals)
+	- who we are: most important questions and errors of our time are anthropological: they arise from a fundamental misunderstanding of the human person
+
+
 
 The value of work
+
+very abstract, but brings you to very real things
+- how we work
+- what goals we have
+- place of science ,and relation to other thinking
 
 
 ### Risk and Reward of AI
@@ -37,6 +46,23 @@ I don't necessrily agree with his definition, but trying to write a definition s
 
 I thought he was lacking other perspective (philosophy/theology), but he specifically requests philosophical involvemnt. Sign of humility and discuss the nature of science. 
 
+
+
+
+### Career Advice
+In Chapter 3, Tegmark reviews some recent breakthroughs in artificial intelligence, and then projects how these and future developments might impact a number of facets of life, from manufacturing and healthcare to warfare and the legal system. One area of discussion I find particularly interesting is about the future of jobs and wages in a world of AI. Citing the work of MIT economists Erik Brynjolfsson and Andrew McAfee, Tegmark explains how digital technology increases inequality. This works through three mechanisms: (1) by rewarding those with education over others by replacing old jobs with new jobs that require high skills, (2) by rewarding those with capital over laborers due to increased automation, and (3) by rewarding individual superstarts over everyone else because of the scale of the platform driven by digital technology.[^robots]
+[^robots]: For related reading, see [*Rise of the Robots: Technology and the Threat of a Jobless Future*](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537/ref=sr_1_1?s=books&ie=UTF8&qid=1508151815&sr=1-1&keywords=rise+of+the+robots) by Martin Ford. Chapter 2 identifies "7 deadly trends" brought by increased automation, including: stagnant wages, corporations winning over labor, lower labor force participation, less job creation, increased inequality, difficulty for recent graduates, and more part time jobs.
+
+With these trends in mind Tegmark explains the career advice he gives his children: go into jobs machines are bad at so you won't be replaced (121). Therefore, a "safe" job would be one that requires a lot of interaction with other people, uses creativity, and is in an unpredictable environment. 
+
+My career advice: 
+- always be learning
+- make connections between different disciplines
+- automate your job before someone else does it for you
+
+
+### Conclusion: Why We Should Care
+Before getting into the details, why should we care about artificial intelligence in the first place? 
 
 
 ## Reflection Notes
@@ -54,6 +80,7 @@ I thought he was lacking other perspective (philosophy/theology), but he specifi
 - AI: his two fears of self-inflicted extinction are accidental nuclear war and AI (near end of mathematical universe) 
 - AI: the fact he wrote this book points to the severity of this risk in his opinion
 
+<hr> 
 
 # Notes
 
@@ -68,7 +95,9 @@ I thought he was lacking other perspective (philosophy/theology), but he specifi
 8. **Consciousness**: explore the physical basis of consciousness
 9. **Epilogue**: what we can do now
 
-## Terminology (39)
+## Terminology 
+*This table of terminology is reproduced from page 39 for reference.* 
+
 | Term | Definition |
 | -------- | -------- |
 | **Life** | Process that can retain its complexity and replicate |
@@ -102,7 +131,7 @@ I thought he was lacking other perspective (philosophy/theology), but he specifi
 - He opens with a fictional tale about an alturistic group that greated a super intelligent AI as an account of what could happen: "They were convinced that if they didn’t do it first, someone less idealistic would." (location. 130)
 - British mathematician Irving Good back in 1965: “Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an ‘intelligence explosion,’ and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.” (location. 134)
 
-## 1. Welcome to the Most Important Conversation of Our 
+## 1. Welcome to the Most Important Conversation of Our Time
 
 ### A Brief History of Complexity
 - (a brief history of the origins of the universe)
@@ -214,7 +243,8 @@ I thought he was lacking other perspective (philosophy/theology), but he specifi
 | **Enslaved god** | A superintelligent AI is confined by humans, who use it to produce unimaginable technology and wealth that can be used for good or bad depending on the human controllers. |
 | **Conquerors** | AI takes control, decides that humans are a threat/nuisance/waste of resources, and gets rid of us by a method that we don’t even understand. |
 | **Descendants** | AIs replace humans, but give us a graceful exit, making us view them as our worthy descendants, much as parents feel happy and proud to have a child who’s smarter than them, who learns from them and then accomplishes what they could only dream of—even if they can’t live to see it all. |
-| **Zookeeper** | An omnipotent AI keeps some humans around, who feel treated like zoo animals and lament their fate. 1984 Technological progress toward superintelligence is permanently curtailed not by an AI but by a human-led Orwellian surveillance state where certain kinds of AI research are banned. |
+| **Zookeeper** | An omnipotent AI keeps some humans around, who feel treated like zoo animals and lament their fate. |
+| **1984** | Technological progress toward superintelligence is permanently curtailed not by an AI but by a human-led Orwellian surveillance state where certain kinds of AI research are banned. |
 | **Reversion** | Technological progress toward superintelligence is prevented by reverting to a pre-technological society in the style of the Amish. |
 | **Self-destruction** | Superintelligence is never created because humanity drives itself extinct by other means (say nuclear and/or biotech mayhem fueled by climate crisis). |
 
