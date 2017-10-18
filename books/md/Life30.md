@@ -5,80 +5,55 @@
 In *Life 3.0*, Max Tegmark gives a fascenating and whirlwind tour of a possible future with artificial intelligence. Even if you find some of the scenarios he presents to be fantastical, he asks difficult questions of concern to those interested in the future of humanity: What is the meaning of life? Is a superhuman artificial intelligence possible, and if so would we want one? What collective goals should we work together for? Throughout, he gives scientific insight while humbly inviting thinkers in other fields—including philosophy—to join "the most important conversation of our time."
 
 First off, let's understand the title *Life 3.0*. Tegmark acknowledges that his definitions are controversial, reflecting a scientific perspective that is currently limited in its understanding of the topics under discussion. Thankfully though, he provides clear definitions for the terms he uses (reproduced below) and invites discussion on the interpretation he puts forth. He starts by defining **life** as a "process that can retain its complexity and replicate."[^definition] **Life 1.0** then is the simplest form of life where both its hardware and software are evolved, meaning that changes only manifest on the evolutionary timescale, over the course of generations. We inhabit what he terms **Life 2.0** where our hardware (body) is evolved, but our software is designed: we can gain knowledge, change the algorithms we use to process information, and learn new skills. **Life 3.0** then is "finally fully free from its evolutionary shackles," able to design both its hardware and software. Broadly speaking, this is the future Tegmark thinks may be possible with artificial intelligence. 
+
 [^definition]: Max Tegmark, [*Life 3.0*](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598/ref=sr_1_1?ie=UTF8&qid=1508148120&sr=8-1&keywords=life+3.0) (New York: Alfred A. Knopf, 2017), 25. Also see 39 for a table of definitions used throughout the book, reproduced below. 
 
 Let's also get on the same page about what artificial intelligence is. Tegmark uses the term **Artificial General Intelligence**, to describe artifical (non-biological) intelligence that can accomplish virtually any goal, including learning (30). Unless otherwise explained, this is what he is referring to when speaking about artificial intelligence or AI.
 
 But why should you care about artificial intelligence? Drawing from the numerous arguments Tegmark makes in detail, I think we all should care because a future with artificial intelligence could be very bad, it could be very good, and it will have tangible effects on our lives in the near term. Most importantly, Tegmark's questions about artificial intelligence force us to ask important questions about who we are and what we want. Let's examine each of these in turn. 
 
-A strength of *Life 3.0* is the wide expanse of possible outcomes Tegmark highlights–he casts a wide net in an attempt to ensure all possible outcomes are accounted for and considered. Some of these are not good. Perhaps the AI takes control and kills all humans because they consume resources it could othersie put to more prouctive use for its own ends. Or the AI may act like a zookeeper, keeping humans around for some entertainment value but in vastly limited numbers and with no autonomy.[^scenarios] **superintelligence**[^superintelligence] might play out.
+A strength of *Life 3.0* is the wide expanse of possible outcomes Tegmark highlights–he casts a wide net in an attempt to ensure all possible outcomes are accounted for and considered. Some of these are not good. Perhaps the AI takes control and kills all humans because they consume resources it could othersie put to more prouctive use for its own ends. Or the AI may act like a zookeeper, keeping humans around for some entertainment value but in vastly limited numbers and with no autonomy.[^scenarios] These are truly worst case scenarios if human develop **superintelligence**[^superintelligence] and are unable to control its goals, and Tegmark is careful to point out that AI experts disagree if we will ever be able to develop such a machine. However, there are more immanent scenarios that can have detrimental effects for humanity. Even artificial intelligence at today's level of technology–in the hands of a hacker or the leader of a rogue state–could cause sever interruption to our transportation, healthcare, or financial infrastructure, for example. As Cathy O'Neil argues in [*Weapons of Math Destruction*](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815), big data and the algorithms that process it (building blocks of AI systems) often function as black boxes. A human can't understand the details of how the decision was made, and algorithms like this are already being used for deciding who to give making decisions about things like credit worthiness or probability of recitivism, at times with unitended consequences. Even if confined to the type of consequences already observed, the development of AI warrants careful thought about how it is deployed. The fact that this book exists points to Tegmark's concern about potential future outcomes with artificial intelligence: in chapter **8?** of *Our Mathematical Universe*, he identifies the two human-inflicted doomsday scenarios of most concern as nuclear destruction and rogue AI.[^nuclear]
 
-[^scenarios]: See the other scenarios he describes in [Chapter 5](http://matthewkudija.com/books/life30.html#5-aftermath-the-next-10000-years)
+[^scenarios]: See the other scenarios he describes in Chapter 5 (in the notes section below)
 [^superintelligence]: **Superintelligence**: "General intelligence far beyond human level", [Terminology](#terminology) (39)
+[^nuclear]: Max Tegmark, *Our Mathematical Universe*, **NEED TO UPDATE CITATION**
+
+The future with AI does not need to be bad though. In fact, it could be quite beneficial. Imagine a world where a human-designed, human-serving, super- or near-human intelligent machine created massive wealth to lift the world out of poverty, designed drugs to cure terrible diseases, and made great new scientific discoveries in tandem with human researchers. As with any technological development, artificial intelligence is not inherently good or bad, but it is our application of it that makes it so. Likewise, it is our planning for new technology and reflection upon its potential ramifications (or lack thereof) that can make technology beneficial or detrimental. Surely it is not clear cut, with benefits and drawbacks existing together through different applications. 
+
+That brings us to the big questions that deep thinking about artificial intelligence forces us to confront. I appreciate how Tegmark reaches out beyond the community of scientists to invite more thorough philosophical inquiry:
+
+>We humans need to confront not only traditional computational challenges, but also some of the most obdurate questions in **philosophy**. To program a self-driving car, we need to solve the trolley problem of whom to hit during an accident. To program a friendly AI, we need to capture the meaning of life. What’s “meaning”? What’s “life”? What’s the ultimate ethical imperative? In other words, how should we strive to shape the future of our Universe? If we cede control to a superintelligence before answering these questions rigorously, the answer it comes up with is unlikely to involve us. This makes it timely to rekindle the classic debates of philosophy and ethics, and adds a new urgency to the conversation![^meaning]
+
+[^meaning]: Max Tegmark, [*Life 3.0*](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598/ref=sr_1_1?ie=UTF8&qid=1508148120&sr=8-1&keywords=life+3.0) (New York: Alfred A. Knopf, 2017), 279.
+
+Are there final, single, correct answers to these questions? More importantly when contemplating potential future superhuman AI, will all humans impacted by such technology agree on answers to these questions? The historically-informed realist voice in my head answers, "No." For example, an orthodox Christian worldview has a particular vision of the human person, created in the image and likeness of God[^genesis] and dependent on God's ourpouring of grace in the struggle against sin.[^ccc] On the contrary, centuries of romantic thinking reject this Christian anthropology and propose an alternative in which the individual will is the ultimate reality entirely independent from other individuals, God, or a universal truth.[^relativism] In all likelihood, indiviudals from each group would come to different conclusions about the desirable way to program a hypothetical future superintelligent AI. Including other varieties of thought on the identity and end of the human person only compounds this conflict. 
+
+[^genesis]: cf. [Genesis 1:26-27](http://www.usccb.org/bible/genesis1:327) Then God said: Let us make human beings in our image, after our likeness...God created mankind in his image; in the image of God he created them; male and female* he created them.
+[^ccc]: cf. [*CCC 1700*](http://www.vatican.va/archive/ccc_css/archive/catechism/p3s1c1.htm)
+[^relativism]: As one recent example, take Justice Anthony Kennedy's majority opinion in [*Planned Parenthood v. Casey*](https://www.law.cornell.edu/supremecourt/text/505/833#writing-USSC_CR_0505_0833_ZO): "At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life."
+
+The natural conclusion of this line of reasoning is that since we will likely never agree on the ultimate goals with which to program a superintelligent AI, we should confine ourselves to developing sub-human intelligent machines to ensure alignment with the goals of the particular human(s) they serve. This would allow for many of the benefits of artificial intelligence, without the risk of a superintelligent agent imposing the goals of one set of humans on all of humanity. While this sounds relativistic, there is an important distinction between human acknowledgement of universal truths and a human-created superintelligenct machine enforcing a [potentially false] view of truth on all. 
+
+There is real work yet to be done, however, in three broad categories. First, Tegmark is correct to call for rigorous philosophical (and I would all theological) inquiry into the questions raised by AI and other technology more generally. John Paul II points to this directly in his 1981 apastolic exhortation *Familiaris Consortio*: "The great task that has to be faced today for the renewal of society is that of recapturing the ultimate meaning of life and its fundamental values. Only an awareness of the primacy of these [moral] values enables man to use the immense possibilities given him by science in such a way as to bring about the true advancement of the human person in his or her whole truth, in his or her freedom and dignity. Science is called to ally itself with wisdom."[^fc] Scientists should actively think about the ramifications of the technologies they develop, and philosophers and theologians need to apply the insights of their work to real questions about new technologies. Second, we should actively improve human-controlled AI systems and work for their integration in society. The development of these systems is all but inevitable. Taking an active interest in this development, as Tegmark argues, is important for ensuring that these developments have an overall positive rather than negative benefit on society. Third, we need to make sure we do not develop a superhuman intelligence. Education, regulation, and research need to leapfrog AI developments to ensure we do not mistakenly develop a technology we regret. I join Tegmark and Elon Musk in advocating AI safety research to put guardrails around the development of this technology. 
+
+[^fc]: John Paul II, [*Familiaris Consortio: On the Role of the Christian Family in the Modern World*](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), 8.
 
 
+I want to close by bringing our discussion back from hypothetical thinking about the future to the here and now. In Chapter 3, Tegmark reviews some recent breakthroughs in artificial intelligence, and then projects how these and future developments might impact a number of facets of life, from manufacturing and healthcare to warfare and the legal system. One area of discussion I find particularly interesting is about the future of jobs and wages in a world of AI. Citing the work of MIT economists Erik Brynjolfsson and Andrew McAfee, Tegmark explains how digital technology increases inequality. This works through three mechanisms: (1) by rewarding those with education over others by replacing old jobs with new jobs that require high skills, (2) by rewarding those with capital over laborers due to increased automation, and (3) by rewarding individual superstarts over everyone else because of the scale of the platform driven by digital technology.[^robots]
 
-
-- one of two possible terrible endings
-- potential amazing results
-- may impact us soon
-- most importantly, asks questions that help us know ourselves, and live better otherwise (goals)
-	- who we are: most important questions and errors of our time are anthropological: they arise from a fundamental misunderstanding of the human person
-
-
-
-The value of work
-
-very abstract, but brings you to very real things
-- how we work
-- what goals we have
-- place of science ,and relation to other thinking
-
-
-### Risk and Reward of AI
-- *Weapons of Math Destruction*
-
-### Interlude: cosmology
-- *Out Mathematical Universe*
-
-
-I don't necessrily agree with his definition, but trying to write a definition shows how hard it really is to greapply with htese concepts
-
-I thought he was lacking other perspective (philosophy/theology), but he specifically requests philosophical involvemnt. Sign of humility and discuss the nature of science. 
-
-
-
-
-### Career Advice
-In Chapter 3, Tegmark reviews some recent breakthroughs in artificial intelligence, and then projects how these and future developments might impact a number of facets of life, from manufacturing and healthcare to warfare and the legal system. One area of discussion I find particularly interesting is about the future of jobs and wages in a world of AI. Citing the work of MIT economists Erik Brynjolfsson and Andrew McAfee, Tegmark explains how digital technology increases inequality. This works through three mechanisms: (1) by rewarding those with education over others by replacing old jobs with new jobs that require high skills, (2) by rewarding those with capital over laborers due to increased automation, and (3) by rewarding individual superstarts over everyone else because of the scale of the platform driven by digital technology.[^robots]
 [^robots]: For related reading, see [*Rise of the Robots: Technology and the Threat of a Jobless Future*](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537/ref=sr_1_1?s=books&ie=UTF8&qid=1508151815&sr=1-1&keywords=rise+of+the+robots) by Martin Ford. Chapter 2 identifies "7 deadly trends" brought by increased automation, including: stagnant wages, corporations winning over labor, lower labor force participation, less job creation, increased inequality, difficulty for recent graduates, and more part time jobs.
 
-With these trends in mind Tegmark explains the career advice he gives his children: go into jobs machines are bad at so you won't be replaced (121). Therefore, a "safe" job would be one that requires a lot of interaction with other people, uses creativity, and is in an unpredictable environment. 
+With these trends in mind Tegmark explains the career advice he gives his children: go into jobs machines are bad at so you won't be replaced (121). Therefore, a "safe" job would be one that requires a lot of interaction with other people, uses creativity, and is in an unpredictable environment. In thinking about keeping myself competative in the workplace, there are three areas I focus on.
 
-My career advice: 
-- always be learning
-- make connections between different disciplines
-- automate your job before someone else does it for you
+First, always be learning. The accelerating rate of change of technology means that it only becomes more important as time goes on to be learning new technical skills to replace those that will go out of favor. In an environment with rapid change, the fastest learners will be the most successful.
 
+Second, be a well-rounded generalist who can make make connections between disparate topics. As Tegmark highlights, machine developent always starts with specific, well-defined tasks. Use the advantages of your human mind do enter into the specifics with a larger context and purpose in mind.
 
-### Conclusion: Why We Should Care
-Before getting into the details, why should we care about artificial intelligence in the first place? 
+Third, automate your job before someone else does it for you. In any job there will be boring, repetative tasks that need to be completed in addition to the "real work" in which your human mind adds the most value. This is an opportunity to use the strengths of your mind and a computer mind together to achieve a greater result. Simple automation can make significant improvements to efficiency and accuracy. As computers and AI systems become more powerful and capable, the ability to work in harmony alongside them will become all the more important.
 
+I did not address anywhere near all the facets of AI development Tegmark discussed in *Life 3.0*, and it was still a whirlwind.[^notes] I join him in inviting others into the important conversation about how AI–and technology more generally–will impact our future and what we will do to manage its emergence. It is a fascinating conversation to have, and it beautifully leads to reflection on some of the deepest questions about who we are and what matters in life. 
 
-## Reflection Notes
-
-- AI: neglects human free will
-- AI: fear of machine suffering is hubris
-- AI: give author benefit of doubt for suggesting possible alternatives
-- AI: since we can't choose end game, we need to focus on principles (free will, made in God's image, etc)
-- AI: this book is important because it asks the big questions
-- AI: need to read Superintelligence by Nick Bostrom
-- AI: book is entirely physics-based, which is a good start but needs to move to philosophy/theology for making value judgments
-- AI: he acknowledges philosophy, and gives clear motivation for the importance of philosophy
-- AI: it may be easy to dismiss arguments that computers could be conscious, but forces us to examine interesting questions
-- AI: if this feels too abstract, try reading his other book about the mathematical universe
-- AI: his two fears of self-inflicted extinction are accidental nuclear war and AI (near end of mathematical universe) 
-- AI: the fact he wrote this book points to the severity of this risk in his opinion
+[^notes]: My full notes on *Life 3.0* are below.
 
 <hr> 
 
