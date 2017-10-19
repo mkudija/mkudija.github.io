@@ -71,4 +71,10 @@
 - *Truth Overruled: The Future of Marriage and Religious Freedom* by Ryan T. Anderson
 - *Things I Wish I’d Know Before We Got Married* by Gary Chapman
 - *Wolf Hall* by Hilary Mantel
+- *Life 3.0: Being Human in the Age of Artificial Intelligence* by Mark Tegmark
+- *The World's Great Catholic Literature* edited by George N. Shuster
+- *Till We Have Faves: A Myth Retold* by C.S. Lewis
+- *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* by Matthew B. Crawford
+- *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality* by Max Tegmark
+- *Planet of Exile* by Ursula K. Le Guin
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom...
