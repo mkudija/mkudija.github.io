@@ -77,4 +77,8 @@
 <li><i>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</i> by Matthew B. Crawford</li>
 <li><i>Our Mathematical Universe: My Quest for the Ultimate Nature of Reality</i> by Max Tegmark</li>
 <li><i>Planet of Exile</i> by Ursula K. Le Guin</li>
-<li><i>New American Bible, Revised Edition:</i> Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom...</li>
+<li><i>Red Planet</i> by Robert A. Heinlein</li>
+<li><i>The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</i> by Erik Brynjolfsson and Andrew McAfee</li>
+<li><i>Option B</i> by Sheryl Sandberg and Adam Grant</li>
+<li><i>Master Builders of the Middle Ages</i> by David Jacobs</li>
+<li><i>New American Bible, Revised Edition:</i> Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James...</li>

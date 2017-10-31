@@ -77,4 +77,8 @@
 - *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* by Matthew B. Crawford
 - *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality* by Max Tegmark
 - *Planet of Exile* by Ursula K. Le Guin
-- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom...
+- *Red Planet* by Robert A. Heinlein
+- *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies* by Erik Brynjolfsson and Andrew McAfee
+- *Option B* by Sheryl Sandberg and Adam Grant
+- *Master Builders of the Middle Ages* by David Jacobs
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James...
