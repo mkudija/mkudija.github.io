@@ -25,3 +25,4 @@
 - *The Odyssey* by Homer
 - *Harry Potter Series* by J.K. Rowling
 - *The Greatest Generation* by Tom Brokaw
+- *Castle in the Attic* by Elizabeth Winthrop
