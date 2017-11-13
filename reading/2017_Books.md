@@ -81,4 +81,9 @@
 - *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies* by Erik Brynjolfsson and Andrew McAfee
 - *Option B* by Sheryl Sandberg and Adam Grant
 - *Master Builders of the Middle Ages* by David Jacobs
-- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James...
+- *The Vanishing American Adult: Our Coming-of-Age Crisis—and How to Rebuild a Culture of Self-Reliance* by Ben Sasse
+- *The 4-Hour Workweek* by Timothy Ferriss
+- *Gerard Manley Hopkins: Poems and Prose* selected and edited by W.H. Gardner
+- *A Geography of Ireland* by O.J.R. Howarth
+- *Some Permanent Things* by James Matthew Wilson
+- *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1 Peter...
