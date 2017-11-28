@@ -86,4 +86,11 @@
 - *Gerard Manley Hopkins: Poems and Prose* selected and edited by W.H. Gardner
 - *A Geography of Ireland* by O.J.R. Howarth
 - *Some Permanent Things* by James Matthew Wilson
+- *The 4-Hour Body* by Timothy Ferriss
+- *A Shepherd Looks at Psalm 23* by Phillip W. Keller
+- *Painting as a Pastime* by Winston S. Churchill
+- *An Appetite for Wonder: The Making of a Scientist* by Richard Dawkins
+- *The War of the Worlds* by H.G. Wells
+- *Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher* by Richard P. Feynman
+- *Brief Candle in the Dark: My Life in Science* by Richard Dawkins
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1 Peter...
