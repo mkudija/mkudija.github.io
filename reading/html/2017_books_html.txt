@@ -93,4 +93,8 @@
 <li><i>The War of the Worlds</i> by H.G. Wells</li>
 <li><i>Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher</i> by Richard P. Feynman</li>
 <li><i>Brief Candle in the Dark: My Life in Science</i> by Richard Dawkins</li>
+<li><i>God Is Not Great: How Religion Poisons Everything</i> by Christopher Hitchens</li>
+<li><i>The Name of God is Mercy</i> by Pope Francis</li>
+<li><i>Deadliest Sea: The Untold Story Behind the Greatest Rescue in Coast Guard History</i> by Kalee Thompson</li>
+<li><i>Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill</i> by Candice Millard</li>
 <li><i>New American Bible, Revised Edition:</i> Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1 Peter...</li>
