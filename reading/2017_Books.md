@@ -97,4 +97,7 @@
 - *The Name of God is Mercy* by Pope Francis
 - *Deadliest Sea: The Untold Story Behind the Greatest Rescue in Coast Guard History* by Kalee Thompson
 - *Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill* by Candice Millard
+- *Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations* by Thomas L. Friedman
+- *Rich Dad Poor Dad* by Robert T. Kiyosaki
+- *Artemis* by Andy Weir
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1 Peter...
