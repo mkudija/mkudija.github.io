@@ -1,0 +1,313 @@
+<!DOCTYPE HTML>
+<!--
+Editorial by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72240498-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-72240498-1');
+</script>
+<title>Book Notes</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="../index.html" class="logo">Matthew <strong>Kudija</strong></a>
+<ul class="icons">
+<li><a href="https://twitter.com/mkudija" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+<li><a href="https://github.com/mkudija" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+<li><a href="https://www.linkedin.com/in/mkudija/" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+<li><a href="mailto:m.kudija@gmail.com?Subject=Hi%20Matthew" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+</ul>
+</header>
+
+<!-- Content -->
+<section>
+<header class="main">
+<h1>Book Notes</h1>
+</header>
+<ul class="actions">
+<li><a href="https://mkudija.github.io/" class="button special">Home</a></li>
+<li><a href="https://mkudija.github.io/books.html" class="button special">Back</a></li>
+</ul>
+<hr>
+</section>
+
+<p><span class="image left">
+<h3><a href="https://www.amazon.com/dp/020161622X/ref=sr_isbn_r?keywords=020161622X" target="_blank"><i>The Pragmatic Programmer: From Journeyman to Master</i>  by Andrew Hunt and David Thomas</a></h3>
+<p>
+<span class="image left">
+<a href="https://www.amazon.com/dp/020161622X/ref=sr_isbn_r?keywords=020161622X" target="_blank"><img src="../images/books/PragmaticProgrammer.png" alt="" /></a>
+</span>
+
+ISBN: <b>020161622X</b><br>
+Published: <b>1999</b><br>
+Read: <a href="https://mkudija.github.io/reading.html#2016"><b>2016</b></a>
+</p>
+</span></p>
+<br>
+
+<!-- ADD HTML CONTENT -->
+
+<p>I need to start a discussion of <em>The Pragmatic Programmer: From Journeyman to Master</em> by Andrew Hunt and David Thomas by acknowledging that I&#8217;m not a programmer, at least not formally. Software Engineer is not in my job title, nor do I have a degree in computer science. However, I did learn basic programming in Fortran and Matlab while studying aerospace engineering, and I have since learned Python and used it over the past several years for analysis and basic automation. So, while I do not write software at a level that could fully benefit from this book, I found much of the advice contained therein to be helpful. The two aspects of Hunt and Thomas&#8217; work I found the most insightful are the development of a set of guiding principles and the focus on developing a well-rounded generalism with a mindset of continual education.</p>
+
+<h3 id="generalism-learning">Generalism &amp; Learning</h3>
+
+<p>I&#8217;ll start with the attitude of generalism they advise. Hunt and Thomas suggest that a pragmatic programmer is more of a jack of all trades than a specialist, able to adapt to a continually changing technology landscape with broad skills and continuous learning. As a pragmatic programmer you should &#8220;try hard to be familiar with a broad range of technologies and environments, and you work to keep abreast of new developments."<sup class="footnote-ref&#8221; id="fnref-jack"><a href="#fn-jack">1</a></sup> They advise to make learning a habit by investing regularly in your knowlege portfolio. I would add that not only does continual learning keep you competitive, it is the most interesting way to approach your work.</p>
+
+<h3 id="tidy-data">Tidy Data</h3>
+
+<p><em>The Pragmatic Programmer</em> has been helpful to bring basic automation to business processes I work with. As an aside, a prerequisite for automating anything is well-formatted data, for which I recommend both <a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989">Data organization in spreadsheets</a> by Karl W. Broman and Kara H. Woo, and <a target="_blank" href="http://www.stat.wvu.edu/~jharner/courses/stat623/docs/tidy-dataJSS.pdf">Tidy Data</a> by Hadley Wickham.</p>
+
+<p>First, Broman and Woo give a number of helpful suggestions for working with Excel. Like it or not, Excel is a staple of life in most business settings. Acknowledging that Excel is often not ideal, and also that it will not be fully replaed without extensive workforce retraining, our goal becomes how to interface with Excel intelligently. While others may insist on using Excel, you need never to touch Excel directly: just read and write data to Excel files while running your analysis and visualization in Python, R or another language. Some of the tips recommended by Broman and Woo include separating analysis and visualization of data, being consistent, and using <a target="_blank" href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> (<code>YYYY-MM-DD</code>) date formats. I firmly agree with their recommendation that &#8220;data rearrangement is best accomplished via code (such as with an R, Python, or Ruby script) so you never lose the record of what you did to the data."<sup class="footnote-ref&#8221; id="fnref-spreadsheets"><a href="#fn-spreadsheets">2</a></sup> The one recommendation of theirs that I disagree with is the suggestion to leave no cells empty and fill all with <code>NA</code> or <code>-</code>. I recommend leaving cells blank, since the filler is one more opportuinty for data errors. Also, when working in Python, the <code>pandas.DataFrame.fillna()</code> method can be called immediatly after loading data from Excel to consistently fill all empty cells. This is just a matter of preference, however, and I strongly recommend adherence to the principles they give.</p>
+
+<p>Hadley Wickham&#8217;s Tidy Data principles are a good guide for working with data, whether in Excel or otherwise. In essence, he recommends formatting data such that:</p>
+
+<ol>
+<li>Each variable forms a column.</li>
+<li>Each observation forms a row.</li>
+<li>Each type of observational unit forms a table.<sup class="footnote-ref&#8221; id="fnref-tidy"><a href="#fn-tidy">3</a></sup></li>
+</ol>
+
+<p>Following the advice of Froman, Woo, and Wickham for handling data sets the stage for integrating the lessons from <em>The Pragmatic Programmer</em>, which is given by means of Tips, or principles.</p>
+
+<h3 id="principles">Principles</h3>
+
+<p>This mindset of continual learning paired with well-rounded generalism naturally leads to the principles, or &#8220;Tips&#8221;, Hunt and Thomas expound. Principles form a general framewok from which you can address particular situations. &#8220;You shouldn&#8217;t be wedded to any particular technology, but have a broad enough background and experience base to allow you to choose good solutions in particular situations. Your background stems from an understanding of the basic principles of computer science, and your experience comes from a wide range of practical projects. Theory and practice combine to make you strong."<sup class="footnote-ref&#8221; id="fnref-principles"><a href="#fn-principles">4</a></sup> Another great example of distilled principles is Ray Dalio&#8217;s <a target="_blank" href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1_sspa?ie=UTF8&amp;qid=1514309598&amp;sr=8-1-spons&amp;keywords=principles+ray+dalio&amp;psc=1"><em>Principles: Life and Work</em></a>.</p>
+
+<p>In my experience, the use of principles is a two-way street. First, principles are helpful for a beginner as they deductively apply general principles to solve specific problems. Next, as you gain experience and have examples of your own, you are able to inductively formulate new principles. This process reinforces a cycle of continuous learning.</p>
+
+<p>In the spirit of participating in this continuous learning, I reproduced the 70 tips from Hunt and Thomas below. For ones that I find particularly interesting, I added some notes on how I have used this principle in my own programming. This offers a nice look back and a view of much I have yet to learn.</p>
+
+<hr />
+
+<p><strong>Tip 1: Care About Your Craft</strong>: Why spend your life developing software unless you care about doing it well?</p>
+
+<p><strong>Tip 2: Think! About Your Work</strong>: Turn off the autopilot and take control. Constantly critique and appraise your work.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>This is the fun part of programming! It is helpful to build software that gets a job done. It is beautiful to build software that does it in an elegant way.</em></p>
+
+<p><strong>Tip 3: Provide Options, Don&#8217;t Make Lame Excuses</strong>: Instead of excuses, provide options. Don&#8217;t say it can&#8217;t be done; explain what can be done.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>I&#8217;m still waiting for a license to proprietary software. After a couple of months of waiting I decided to write the basic functionality I needed in [open source] Python, and I haven&#8217;t looked back.</em></p>
+
+<p><strong>Tip 4: Don&#8217;t Live with Broken Windows</strong>: Fix bad designs, wrong decisions, and poor code when you see them.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Similar to the concept of continual learning is that of continuous improvement. Organizations and systems will not get better over time unless you continually invest in making them so.</em></p>
+
+<p><strong>Tip 5: Be a Catalyst for Change</strong>: You can&#8217;t force change on people. Instead, show them how the future might be and help them participate in creating it.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Many of the projects I have enjoyed the most started out as a side project because I thought it could be useful at work. It had to start as a side project motivated by self-learning because there was no support to pursue it. But once you <strong>show</strong> them what is possible, people will frequently support your ideas, espeically if you do it in a way that makes them feel like it was somehow their idea.</em></p>
+
+<p><strong>Tip 6: Remember the Big Picture</strong>: Don&#8217;t get so engrossed in the details that you forget to check what&#8217;s happening around you.</p>
+
+<p><strong>Tip 7: Make Quality a Requirements Issue</strong>: Involve your users in determining the project&#8217;s real quality requirements.</p>
+
+<p><strong>Tip 8: Invest Regularly in Your Knowledge Portfolio</strong>: Make learning a habit.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Yes. See <a target="_blank" href="http://matthewkudija.com/reading">here</a>.</em></p>
+
+<p><strong>Tip 9: Critically Analyze What You Read and Hear</strong>: Don&#8217;t be swayed by vendors, media hype, or dogma. Analyze information in terms of you and your project.</p>
+
+<p><strong>Tip 10: It&#8217;s Both What You Say and the Way You Say It</strong>: There&#8217;s no point in having great ideas if you don&#8217;t communicate them effectively.</p>
+
+<p><strong>Tip 11: DRY – Don&#8217;t Repeat Yourself</strong>: Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.</p>
+
+<p><strong>Tip 12: Make It Easy to Reuse</strong>: If it&#8217;s easy to reuse, people will. Create an environment that supports reuse.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>A great way to make code easy to reuse in Jupyter Notebooks is with the <a target="_blank" href="https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/snippets_menu">Snippets Menu</a> extension.<sup class="footnote-ref&#8221; id="fnref-snippets"><a href="#fn-snippets">5</a></sup> This comes with frequently used code for a number of popular libraries built in, and you can customize with your own frequently used code. I customized mine with code to import and filter frequently used data.</em></p>
+
+<p><strong>Tip 13: Eliminate Effects Between Unrelated Things</strong>: Design components that are self-contained. independent, and have a single, well-defined purpose.</p>
+
+<p><strong>Tip 14: There Are No Final Decisions</strong>: No decision is cast in stone. Instead, consider each as being written in the sand at the beach, and plan for change.</p>
+
+<p><strong>Tip 15: Use Tracer Bullets to Find the Target</strong>: Tracer bullets let you home in on your target by trying things and seeing how close they land.</p>
+
+<p><strong>Tip 16: Prototype to Learn</strong>: Prototyping is a learning experience. Its value lies not in the code you produce, but in the lessons you learn.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Of couse you can often learn just as much—if not more—from failure than from success. But first you need to build something to succeed or fail. So instead of just talking about ideas, implement them and see what you learn. Then roll that learning into the next attempt. With enough prototypes you will build something useful and come away from the experience knowing more than you did when you started.</em></p>
+
+<p><strong>Tip 17: Program Close to the Problem Domain</strong>: Design and code in your user&#8217;s language.</p>
+
+<p><strong>Tip 18: Estimate to Avoid Surprises</strong>: Estimate before you start. You&#8217;ll spot potential problems up front.</p>
+
+<p><strong>Tip 19: Iterate the Schedule with the Code</strong>: Use experience you gain as you implement to refine the project time scales.</p>
+
+<p><strong>Tip 20: Keep Knowledge in Plain Text</strong>: Plain text won&#8217;t become obsolete. It helps leverage your work and simplifies debugging and testing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>This is one of the reasons I use <a target="_blank" href="https://www.xlwings.org/">xlwings</a> instead of VBA for automatically interacting with Excel worksheets. In addition to just being more powerful and easier to use, Python code using xlwings is plain text that is lightweight and easily version controlled outisde of the Excel file (see Tip 23).</em></p>
+
+<p><strong>Tip 21: Use the Power of Command Shells</strong>: Use the shell when graphical user interfaces don&#8217;t cut it.</p>
+
+<p><strong>Tip 22: Use a Single Editor Well</strong>: The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable.</p>
+
+<p><strong>Tip 23: Always Use Source Code Control</strong>: Source code control is a time machine for your work – you can go back.</p>
+
+<p><strong>Tip 24: Fix the Problem, Not the Blame</strong>: It doesn&#8217;t really matter whether the bug is your fault or someone else&#8217;s – it is still your problem, and it still needs to be fixed.</p>
+
+<p><strong>Tip 25: Don&#8217;t Panic When Debugging</strong>: Take a deep breath and THINK! about what could be causing the bug.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>The panic for me often sets in late in the afternoon after several hours of spinning my wheels and being confused. If not critical (it rarely is), the best strategy I have found is to set it aside, review the problem just before bed to let me subconscious chew on it overnight, get a good rest, and make solving that issue the first priority in the morning.</em></p>
+
+<p><strong>Tip 26: &#8220;select&#8221; Isn&#8217;t Broken.</strong>: It is rare to find a bug in the OS or the compiler, or even a third-party product or library. The bug is most likely in the application.</p>
+
+<p><strong>Tip 27: Don&#8217;t Assume It – Prove It</strong>: Prove your assumptions in the actual environment – with real data and boundary conditions.</p>
+
+<p><strong>Tip 28: Learn a Text Manipulation Language.</strong>: You spend a large part of each day working with text. Why not have the computer do some of it for you?</p>
+
+<p><strong>Tip 29: Write Code That Writes Code</strong>: Code generators increase your productivity and help avoid duplication.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Code generation is wonderful. The code that produced this webpage was automatically generated from a markdown file I am writing. Just like any other mental work process, programming has parts of it that are repetative and tedious. Automate these and focus on the more intersting things.</em></p>
+
+<p><strong>Tip 30: You Can&#8217;t Write Perfect Software</strong>: Software can&#8217;t be perfect. Protect your code and users from the inevitable errors.</p>
+
+<p><strong>Tip 31: Design with Contracts</strong>: Use contracts to document and verify that code does no more and no less than it claims to do.</p>
+
+<p><strong>Tip 32: Crash Early</strong>: A dead program normally does a lot less damage than a crippled one.</p>
+
+<p><strong>Tip 33: Use Assertions to Prevent the Impossible</strong>: Assertions validate your assumptions. Use them to protect your code from an uncertain world.</p>
+
+<p><strong>Tip 34: Use Exceptions for Exceptional Problems</strong>: Exceptions can suffer from all the readability and maintainability problems of classic spaghetti code. Reserve exceptions for exceptional things.</p>
+
+<p><strong>Tip 35: Finish What You Start</strong>: Where possible, the routine or object that allocates a resource should be responsible for deallocating it.</p>
+
+<p><strong>Tip 36: Minimize Coupling Between Modules</strong>: Avoid coupling by writing &#8220;shy&#8221; code and applying the Law of Demeter.</p>
+
+<p><strong>Tip 37: Configure, Don&#8217;t Integrate</strong>: Implement technology choices for an application as configuration options, not through integration or engineering.</p>
+
+<p><strong>Tip 38: Put Abstractions in Code, Details in Metadata</strong>: Program for the general case, and put the specifics outside the compiled code base.</p>
+
+<p><strong>Tip 39: Analyze Workflow to Improve Concurrency</strong>: Exploit concurrency in your user&#8217;s workflow.</p>
+
+<p><strong>Tip 40: Design Using Services</strong>: Design in terms of services – independent, concurrent objects behind well-defined, consistent interfaces.</p>
+
+<p><strong>Tip 41: Always Design for Concurrency</strong>: Allow for concurrency, and you&#8217;ll design cleaner interfaces with fewer assumptions.</p>
+
+<p><strong>Tip 42: Separate Views from Models</strong>: Gain flexibility at low cost by designing your application in terms of models and views.</p>
+
+<p><strong>Tip 43: Use Blackboards to Coordinate Workflow</strong>: Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants.</p>
+
+<p><strong>Tip 44: Don&#8217;t Program by Coincidence</strong>: Rely only on reliable things. Beware of accidental complexity, and don&#8217;t confuse a happy coincidence with a purposeful plan.</p>
+
+<p><strong>Tip 45: Estimate the Order of Your Algorithms</strong>: Get a feel for how long things are likely to take before you write code.</p>
+
+<p><strong>Tip 46: Test Your Estimates</strong>: Mathematical analysis of algorithms doesn&#8217;t tell you everything. Try timing your code in its target environment.</p>
+
+<p><strong>Tip 47: Refactor Early, Refactor Often</strong>: Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.</p>
+
+<p><strong>Tip 48: Design to Test</strong>: Start thinking about testing before you write a line of code.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>This is where I really need to improve (as well as Tips 49, 62, and 63). The next step to mature my code is to be much better at testing, completely and automatically.</em></p>
+
+<p><strong>Tip 49: Test Your Software, or Your Users Will</strong>: Test ruthlessly. Don&#8217;t make your users find bugs for you.</p>
+
+<p><strong>Tip 50: Don&#8217;t Use Wizard Code You Don&#8217;t Understand</strong>: Wizards can generate reams of code. Make sure you understand all of it before you incorporate it into your project.</p>
+
+<p><strong>Tip 51: Don&#8217;t Gather Requirements – Dig for Them</strong>: Requirements rarely lie on the surface. They&#8217;re buried deep beneath layers of assumptions, misconceptions, and politics.</p>
+
+<p><strong>Tip 52: Work With a User to Think Like a User</strong>: It&#8217;s the best way to gain insight into how the system will really be used.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Most of the code I write is for myself, at least initially, so this comes naturally. I am the user. However, most users other than myself withing the organization I work for do not program. The process of thinking like those users is helpful for simplifying and streamlining code I have written to move it from personal use to organizational use.</em></p>
+
+<p><strong>Tip 53: Abstractions Live Longer than Details</strong>: Invest in the abstraction, not the implementation. Abstractions can survive the barrage of changes from different implementations and new technologies.</p>
+
+<p><strong>Tip 54: Use a Project Glossary</strong>: Create and maintain a single source of all the specific terms and vocabulary for a project.</p>
+
+<p><strong>Tip 55: Don&#8217;t Think Outside the Box – Find the Box</strong>: When faced with an impossible problem, identify the real constraints. Ask yourself: &#8220;Does it have to be done this way? Does it have to be done at all?&#8221;</p>
+
+<p><strong>Tip 56: Start When You&#8217;re Ready.</strong>: You&#8217;ve been building experience all your life. Don&#8217;t ignore niggling doubts.</p>
+
+<p><strong>Tip 57: Some Things Are Better Done than Described</strong>: Don&#8217;t fall into the specification spiral – at some point you need to start coding.</p>
+
+<p><strong>Tip 58: Don&#8217;t Be a Slave to Formal Methods.</strong>: Don&#8217;t blindly adopt any technique without putting it into the context of your development practices and capabilities.</p>
+
+<p><strong>Tip 59: Costly Tools Don&#8217;t Produce Better Designs</strong>: Beware of vendor hype, industry dogma, and the aura of the price tag. Judge tools on their merits.</p>
+
+<p><strong>Tip 60: Organize Teams Around Functionality</strong>: Don&#8217;t separate designers from coders, testers from data modelers. Build teams the way you build code.</p>
+
+<p><strong>Tip 61: Don&#8217;t Use Manual Procedures</strong>: A shell script or batch file will execute the same instructions, in the same order, time after time.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>I use Python scripts scheduled with <a target="_blank" href="https://github.com/mkudija/General-Examples/blob/master/cron.md">cron</a> to perform many manual functions, such as moving data around, writing to logs, etc. Saving time is great. But being guranteed that the computer will do exactly what you want it to without making mistakes and without getting tired is even more valuable. This frees you up to add value in more powerful ways.</em></p>
+
+<p><strong>Tip 62: Test Early. Test Often. Test Automatically</strong>: Tests that run with every build are much more effective than test plans<br />
+that sit on a shelf.</p>
+
+<p><strong>Tip 63: Coding Ain&#8217;t Done &#8216;Til All the Tests Run</strong>: &#8217;Nuff said.</p>
+
+<p><strong>Tip 64: Use Saboteurs to Test Your Testing</strong>: Introduce bugs on purpose in a separate copy of the source to verify that testing will catch them.</p>
+
+<p><strong>Tip 65: Test State Coverage, Not Code Coverage</strong>: Identify and test significant program states. Just testing lines of code isn&#8217;t enough.</p>
+
+<p><strong>Tip 66: Find Bugs Once</strong>: Once a human tester finds a bug, it should be the last time a human tester finds that bug. Automatic tests should check for it from then on.</p>
+
+<p><strong>Tip 67: English is Just a Programming Language</strong>: Write documents as you would write code: honor the DRY principle, use metadata, MVC, automatic generation, and so on.</p>
+
+<p><strong>Tip 68: Build Documentation In, Don&#8217;t Bolt It On</strong>: Documentation created separately from code is less likely to be correct and up to date.</p>
+
+<p><strong>Tip 69: Gently Exceed Your Users&#8217; Expectations</strong>: Come to understand your users&#8217; expectations, then deliver just that little bit more.</p>
+
+<p><strong>Tip 70: Sign Your Work</strong>: Craftsmen of an earlier age were proud to sign their work. You should be, too.</p>
+
+<blockquote>
+  <p>For more information about The Pragmatic Programmers LLC, source code for the examples, up-to-date pointers to Web resources, and an online bibiography, visit us at www.pragmaticprogrammer.com</p>
+</blockquote>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-jack">
+<p>Hunt, Andrew, and David Thomas, <em>The Pragmatic Programmer: From Journeyman to Master</em> (Menlo Park: Addison-Wesley Professional, 1999), xix.&#160;<a href="#fnref-jack" class="footnoteBackLink" title="Jump back to footnote 1 in the text.">&#8617;</a></p>
+</li>
+
+<li id="fn-spreadsheets">
+<p><a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989">Broman, Karl, and Kara Woo. &quot;Data organization in spreadsheets.&quot;, <em>The American Statistician</em> 0 (2017): 1.</a>&#160;<a href="#fnref-spreadsheets" class="footnoteBackLink" title="Jump back to footnote 2 in the text.">&#8617;</a></p>
+</li>
+
+<li id="fn-tidy">
+<p><a target="_blank" href="http://vita.had.co.nz/papers/tidy-data.pdf">Wickham, Hadley. “Tidy Data.” <em>Journal of Statistical Software</em> 59 (2014): 4.</a>&#160;<a href="#fnref-tidy" class="footnoteBackLink" title="Jump back to footnote 3 in the text.">&#8617;</a></p>
+</li>
+
+<li id="fn-principles">
+<p>Hunt and Thomas, <em>The Pragmatic Programmer</em>, xviii.&#160;<a href="#fnref-principles" class="footnoteBackLink" title="Jump back to footnote 4 in the text.">&#8617;</a></p>
+</li>
+
+<li id="fn-snippets">
+<p>I came across this in Jakub Czakon&#8217;s excellent talk <a target="_blank" href="https://youtu.be/FwUcJFSAfQw">10 things you really should know about jupyter notebooks</a>.&#160;<a href="#fnref-snippets" class="footnoteBackLink" title="Jump back to footnote 5 in the text.">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+<!--END HTML CONTENT -->
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/skel.min.js"></script>
+<script src="../assets/js/util.js"></script>
+<script src="../assets/js/main.js"></script>
+
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+
+</body>
+<hr>
+<footer id="footer" align="center">
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</footer>
+</html>
