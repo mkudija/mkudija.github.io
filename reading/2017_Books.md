@@ -100,4 +100,6 @@
 - *Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations* by Thomas L. Friedman
 - *Rich Dad Poor Dad* by Robert T. Kiyosaki
 - *Artemis* by Andy Weir
+- *Meditations for Advent* by Jacques-Bénigne Bossuet
+- *Virtually Normal: An Argument about Homosexuality* by Andrew Sullivan
 - *New American Bible, Revised Edition:* Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1 Peter...

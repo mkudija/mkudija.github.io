@@ -34,6 +34,6 @@ for item in range(0,len(years)):
     #plt.text(years[item], number[item]+3, str(number[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
     plt.text(years[item], -6, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
 fig.set_size_inches(12, 4)
-fig.savefig('/Users/mkudija/Documents/Matthew/GitHub/mkudija.github.io/images/book_plot.png', bbox_inches='tight')
+fig.savefig('/Users/mkudija/Documents/GitHub/mkudija.github.io/images/book_plot.png', bbox_inches='tight')
 
 print('Done.')
