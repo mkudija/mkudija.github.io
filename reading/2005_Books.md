@@ -2,6 +2,10 @@
 
 - *Voyager: The Flying Adventure of a Lifetime* by Jeana Yeager & Dick Rutan
 - *Hatchet* by Gary Paulsen
+- *The River* by Gary Paulsen
+- *Brian's Winter* by Gary Paulsen
+- *Brian's Return* by Gary Paulsen
+- *Brian's Hunt* by Gary Paulsen
 - *Shiloh* by Phyllis Reynolds Naylor
 - *Holes* by Louis Sachar
 - *Of Mice and Men* by John Steinbeck
@@ -14,7 +18,7 @@
 - *Goshawk Squadron* by Derek Robinson
 - *The Small Back Room* by Nigel Balchin
 - *The Dambusters Raid* by John Sweetman
-- *The Battle of Britain* by James Lucas*
+- *The Battle of Britain* by James Lucas
 - *Number the Stars* by Lois Lowry
 - *Ender's Game* by Orson Scott Card
 - *The Giver* by Lois Lowry
@@ -26,3 +30,6 @@
 - *Harry Potter Series* by J.K. Rowling
 - *The Greatest Generation* by Tom Brokaw
 - *Castle in the Attic* by Elizabeth Winthrop
+- *That Others May Live: The True Story of a PJ, a Member of America's Most Daring Rescue Force* by Pete Nelson and Jack Brehm
+- *Press on!* by Chuck Yeager
+- *A Walk in the Woods: Rediscovering America on the Appalachian Trail* by Bill Bryson
