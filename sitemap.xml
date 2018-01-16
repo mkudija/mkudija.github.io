@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://matthewkudija.com/</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/index.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/reading.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books/HowNotToDie.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books/RoadToCharacter.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books/Life30.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books/PragmaticProgrammer.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books/Pillars.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/books/Bible.html</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/reading</loc>
+  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
