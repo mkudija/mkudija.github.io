@@ -16,13 +16,13 @@ def books_by_year(year):
         html_file.write("%s\n" % book)
     html_file.close()
 
-    print('In '+year+' I read '+str(len(books))+' books.')
+    print('In '+year+' I read '+str(len(books)-2)+' books.')
     return len(books)
 
 number = []
 for year in years:
     x = books_by_year(str(year))
-    number.append(x)
+    number.append(x-2)
 
 
 
