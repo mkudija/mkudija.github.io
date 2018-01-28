@@ -5,3 +5,5 @@
 <li><i>Invisible Enemies: Stories of Infectious Disease</i> by Jeanette Farrell</li>
 <li><i>Grant</i> by Ron Chernow</li>
 <li><i>Leonardo da Vinci</i> by Walter Isaacson</li>
+<li><i>At Home: A Short History of Private Life</i> by Bill Bryson</li>
+<li><i>Resisting Happiness</i> by Matthew Kelly</li>
