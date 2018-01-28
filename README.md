@@ -23,6 +23,11 @@ Content © 2005-2017 Matthew Kudija
 ### CNAME
 ### favicon.ico
 ### robots.txt
+I added a robots.txt but removed it after seeing that it messed up Google search results
+### sitemap.xml
+I added a sitemap to aid in searching (and perhaps eventually get sitelinks on the search result) from [xml-sitemaps.com](https://www.xml-sitemaps.com)
+### meta tag
+I updated the meta tag to improve search results.
 ### Google Analytics
 Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get your unique tracking ID (mine is `UA-72240498-1`) and then copy the required code in to your HTML pages:
 
