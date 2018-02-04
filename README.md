@@ -10,7 +10,7 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ```
 
-Content © 2005-2017 Matthew Kudija
+Content © 2005-2018 Matthew Kudija
 
 # How It's Made
 
