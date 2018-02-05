@@ -1,39 +1,50 @@
-years = [2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018]
+import numpy as np
+import pandas as pd
+from pathlib import Path
 
-def books_by_year(year): 
-    # import books
-    filename = year+'_Books.md'
-    with open(filename) as f:
-        books = f.readlines()
 
-    # reformat for HTML
-    books = [x.strip('\n') for x in books] 
-    books_html = [x.replace('- *','<li><i>').replace('* ','</i> ').replace('*','</i> ')+'</li>' for x in books]
+def write_html(df, year):
+    df = df[df['Read']==year]
+    df['html'] = '<li><i>'+df['Title']+'</i> '+df['Author']+'</li>'
 
-    # save HTML formatting
-    html_file = open('html/'+year+'_books_html.txt', 'w')
-    for book in books_html:
+    html_file = open('html/'+str(year)+'_books_html.txt', 'w')
+    for row in range(df.shape[0]):
+        book = df.loc[df.index[row],'html']
         html_file.write("%s\n" % book)
     html_file.close()
 
-    print('In '+year+' I read '+str(len(books)-2)+' books.')
-    return len(books)
-
-number = []
-for year in years:
-    x = books_by_year(str(year))
-    number.append(x-2)
+    print('In {} I read {} books.'.format(str(year),str(df.shape[0])))
 
 
+def plot_books(df, years):
+    import matplotlib.pyplot as plt
+    number = []
+    for year in years:
+        df_count = df[df['Read']==year]
+        number.append(df_count.shape[0])
 
-import matplotlib.pyplot as plt
-fig, ax = plt.subplots()
-ax.axis('off')
-plt.bar(years, number, color='#3377b3')
-for item in range(0,len(years)):
-    #plt.text(years[item], number[item]+3, str(number[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
-    plt.text(years[item], -6, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
-fig.set_size_inches(12, 4)
-fig.savefig('/Users/mkudija/Documents/GitHub/mkudija.github.io/images/book_plot.png', bbox_inches='tight')
+    fig, ax = plt.subplots()
+    ax.axis('off')
+    plt.bar(years, number, color='#3377b3')
+    for item in range(0,len(years)):
+        #plt.text(years[item], number[item]+3, str(number[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
+        plt.text(years[item], -6, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
+    fig.set_size_inches(12, 4)
+    fig.savefig(str(GitHubPath)+'/mkudija.github.io/images/book_plot.png', bbox_inches='tight')
 
-print('Done.')
+
+if __name__ == "__main__":
+    homePath = Path.cwd().home()
+    for parent in Path.cwd().parents:
+        if str(parent)[-6:]=='GitHub':
+            GitHubPath = parent
+
+    df = pd.read_excel(GitHubPath/'mkudija.github.io/reading/reading.xlsx',sheet_name='Books')
+    years = df['Read'].unique()
+
+    for year in years:
+        write_html(df, year)
+    
+    plot_books(df, years)
+
+    print('Done.')

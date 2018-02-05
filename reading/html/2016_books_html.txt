@@ -1,90 +1,88 @@
-# 2016 Books</li>
-</li>
-<li><i>The Big Short</i> by Michael Lewis </li>
-<li><i>Gratitude</i> by Oliver Sacks</li>
-<li><i>Smart Power: Climate Change, the Smart Grid, and the Future of Electric Utilities</i> by Peter Fox-Penner</li>
-<li><i>The Machine Stops</i> by E.M. Forester</li>
-<li><i>The Coldest Winter: America and the Korean War</i> by David Halberstam </li>
-<li><i>How to Read Churches: A Crash Course in Ecclesiastical Architecture</i> by Dennis R. McNamara</li>
-<li><i>Meditations</i> by Marcus Aurelius </li>
-<li><i>The Autobiography of St. Ignatius Loyola</i> </li>
-<li><i>Solar Power Demystified: The Beginners Guide to Solar Power, Energy Independence, and Lower Bills</i> by Lacho Pop and Dimi Avram</li>
-<li><i>Thinking in Systems</i> by Donella H. Meadows</li>
-<li><i>You Can't Predict A Hero: From War to Wall Street, Leading in Times of Crisis</i> by Joseph J. Grano, Jr.</li>
-<li><i>Vision to Reality</i> by Honorée Corder</li>
-<li><i>Rumsfeld's Rules: Leadership Lessons in Business, Politics, War, and Life</i> by Donald Rumsfeld</li>
-<li><i>The Medieval Machine: The Industrial Revolution of the Middle Ages</i> by Jean Gimpel</li>
-<li><i>Walking with Jesus: A Way Forward for the Church</i> by Pope Francis</li>
-<li><i>A Curious Mind: The Secret to a Bigger Life</i> by Brian Grazer</li>
-<li><i>Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money</i> by Nathaniel Popper</li>
-<li><i>Searching for and Maintaining Peace: A Small Treatise on Peace of Heart</i> by Father Jacques Philippe</li>
-<li><i>The Wright Brothers</i> by David McCullough</li>
-<li><i>Master and Commander</i> by Patrick O'Brian</li>
-<li><i>Being Geek: The Software Developer's Career Handbook</i> by Michael Lopp</li>
-<li><i>Predictably Irrational</i> by Dan Ariely</li>
-<li><i>The Autobiography of Mark Twain</i> </li>
-<li><i>Amoris Laetitia</i> by Pope Francis</li>
-<li><i>American Sniper</i> by Chris Kyle</li>
-<li><i>The Vatican Pimpernal: the WWII Exploits of the Monsignor Who Saved Over 6,500 Lives</i> by Brian Fleming</li>
-<li><i>Tattoos on the Heart: The Power of Boundless Compassion</i> by Fr. Gregory Boyle</li>
-<li><i>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</i> by Malcolm Gladwell</li>
-<li><i>Seven Brief Lessons on Physics</i> by Carlo Rovelli</li>
-<li><i>Long Walk to Freedom: The Autobiography of Nelson Mandela</i> </li>
-<li><i>All The Light We Cannot See</i> by Anthony Doerr</li>
-<li><i>The Book Thief</i> by Markus Zuskar</li>
-<li><i>Confessions of an Economic Hit Man</i> by John Perkins</li>
-<li><i>Go Set A Watchman</i> by Harper Lee</li>
-<li><i>The First Congress</i> by Ferguson M. Bordewich</li>
-<li><i>Thinking Fast and Slow</i> by Daniel Kahneman</li>
-<li><i>The God Machine: The Story of the Helicopter</i> by James R. Chiles</li>
-<li><i>When Breath Becomes Air</i> by Paul Kalanithi</li>
-<li><i>The Prize: The Epic Quest for Oil, Money, and Power (Abridged)</i> by Daniel Yergin</li>
-<li><i>Principles of Helicopter Flight</i> by W.J. Wagtendonk</li>
-<li><i>Jesus of Nazareth: From The Baptism In The Jordan To The Transfiguration</i> by Joseph Ratzinger</li>
-<li><i>The Quest: Energy, Security, and the Making of the Modern World</i> by Daniel Yergin</li>
-<li><i>Zero to One: Notes on Startups, or How to Build the Future</i> by Peter Thiel</li>
-<li><i>Zen and the Art of Motorcycle Maintenance</i> by Robert M. Pirsig</li>
-<li><i>Why Teach: In Defense of a Real Education</i> by Mark Edmundson</li>
-<li><i>The Power and the Glory</i> by Graham Greene</li>
-<li><i>The Waste Land</i> by T. S. Eliot</li>
-<li><i>Flash Boys: A Wall Street Revolt</i> by Michael Lewis</li>
-<li><i>The Code Book: The Science of Secrecy From Ancient Egypt to Quantum Cryptography</i> by Simon Singh </li>
-<li><i>A Man On The Moon: The Voyages Of The Apollo Astronauts</i> by Andrew Chaikin</li>
-<li><i>The Art of Data Science</i> by Roger Peng and Elizabeth Matsui</li>
-<li><i>The Art of War</i> by Sun Tzu</li>
-<li><i>For Better: The Science of a Good Marriage</i> by Tara Parker-Pope</li>
-<li><i>Witness to Love: How to Help the Next Generation Build Marriages that Survive and Thrive</i> by Ryan and Mary-Rose Verret</li>
-<li><i>The Intelligent Investor</i> by Benjamin Graham</li>
-<li><i>Deep Work: Rules for Focused Success in a Distracted World</i> by Cal Newport</li>
-<li><i>His Needs Her Needs: Building an Affair-Proof Marriage</i> by Willard F. Harley, Jr.</li>
-<li><i>Benjamin Franklin: An American Life</i> by Walter Isaacson</li>
-<li><i>The Constitution of the United States</i> </li>
-<li><i>The Seven Laws of Magical Thinking: How Irrational Beliefs Keep Us Happy, Healthy, and Sane</i> by Matthew Hutson</li>
-<li><i>Walden</i> by Henry David Throeau</li>
-<li><i>Data Science From Scratch</i> by Joel Grus</li>
-<li><i>Project Holiness: Marriage as a Workshop for Everyday Saints</i> by Bridget Burke Ravizza and Julie Donovan Massey</li>
-<li><i>Sexy Little Numbers: How to Grow Your Business Using the Data You Already Have</i> by Dimitri Maex</li>
-<li><i>Data-ism: The Revolution Transforming Decision Making, Consumer Behavior, and Almost Everything Else</i> by Steve Lohr</li>
-<li><i>The Passionate Programmer: Creating a Remarkable Career in Software Development</i> by Chad Fowler</li>
-<li><i>Children of God</i> by Mary Doria Russell</li>
-<li><i>Marriage: The Mystery of Faithful Love</i> by Dietrich von Hildebrand</li>
-<li><i>The Pragmatic Programmer</i> by Andrew Hunt and David Thomas</li>
-<li><i>The Name of the Rose</i> by Umberto Eco</li>
-<li><i>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</i> by Cathy O'Neil</li>
-<li><i>Genius: The Life and Science of Richard Feynman</i> by James Gleick</li>
-<li><i>Saint John Paul the Great</i> by Jason Evert</li>
-<li><i>Marriage: Love and Life in the Divine Plan</i> by the United States Conference of Catholic Bishops</li>
-<li><i>God in the Dock</i> by C.S. Lewis</li>
-<li><i>Grit: The Power of Passion and Perseverance</i> by Angela Duckworth</li>
-<li><i>The Early History of Rome (Book I)</i> by Livy</li>
-<li><i>Perelandra</i> by C.S. Lewis</li>
+<li><i>The Big Short</i> Michael Lewis </li>
+<li><i>Gratitude</i> Oliver Sacks</li>
+<li><i>Smart Power: Climate Change, the Smart Grid, and the Future of Electric Utilities</i> Peter Fox-Penner</li>
+<li><i>The Machine Stops</i> E.M. Forester</li>
+<li><i>The Coldest Winter: America and the Korean War</i> David Halberstam </li>
+<li><i>How to Read Churches: A Crash Course in Ecclesiastical Architecture</i> Dennis R. McNamara</li>
+<li><i>Meditations</i> Marcus Aurelius </li>
+nan
+<li><i>Solar Power Demystified: The Beginners Guide to Solar Power, Energy Independence, and Lower Bills</i> Lacho Pop and Dimi Avram</li>
+<li><i>Thinking in Systems</i> Donella H. Meadows</li>
+<li><i>You Can't Predict A Hero: From War to Wall Street, Leading in Times of Crisis</i> Joseph J. Grano, Jr.</li>
+<li><i>Vision to Reality</i> Honorée Corder</li>
+<li><i>Rumsfeld's Rules: Leadership Lessons in Business, Politics, War, and Life</i> Donald Rumsfeld</li>
+<li><i>The Medieval Machine: The Industrial Revolution of the Middle Ages</i> Jean Gimpel</li>
+<li><i>Walking with Jesus: A Way Forward for the Church</i> Pope Francis</li>
+<li><i>A Curious Mind: The Secret to a Bigger Life</i> Brian Grazer</li>
+<li><i>Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money</i> Nathaniel Popper</li>
+<li><i>Searching for and Maintaining Peace: A Small Treatise on Peace of Heart</i> Father Jacques Philippe</li>
+<li><i>The Wright Brothers</i> David McCullough</li>
+<li><i>Master and Commander</i> Patrick O'Brian</li>
+<li><i>Being Geek: The Software Developer's Career Handbook</i> Michael Lopp</li>
+<li><i>Predictably Irrational</i> Dan Ariely</li>
+nan
+<li><i>Amoris Laetitia</i> Pope Francis</li>
+<li><i>American Sniper</i> Chris Kyle</li>
+<li><i>The Vatican Pimpernal: the WWII Exploits of the Monsignor Who Saved Over 6,500 Lives</i> Brian Fleming</li>
+<li><i>Tattoos on the Heart: The Power of Boundless Compassion</i> Fr. Gregory Boyle</li>
+<li><i>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</i> Malcolm Gladwell</li>
+<li><i>Seven Brief Lessons on Physics</i> Carlo Rovelli</li>
+nan
+<li><i>All The Light We Cannot See</i> Anthony Doerr</li>
+<li><i>The Book Thief</i> Markus Zuskar</li>
+<li><i>Confessions of an Economic Hit Man</i> John Perkins</li>
+<li><i>Go Set A Watchman</i> Harper Lee</li>
+<li><i>The First Congress</i> Ferguson M. Bordewich</li>
+<li><i>Thinking Fast and Slow</i> Daniel Kahneman</li>
+<li><i>The God Machine: The Story of the Helicopter</i> James R. Chiles</li>
+<li><i>When Breath Becomes Air</i> Paul Kalanithi</li>
+<li><i>The Prize: The Epic Quest for Oil, Money, and Power (Abridged)</i> Daniel Yergin</li>
+<li><i>Principles of Helicopter Flight</i> W.J. Wagtendonk</li>
+<li><i>Jesus of Nazareth: From The Baptism In The Jordan To The Transfiguration</i> Joseph Ratzinger</li>
+<li><i>The Quest: Energy, Security, and the Making of the Modern World</i> Daniel Yergin</li>
+<li><i>Zero to One: Notes on Startups, or How to Build the Future</i> Peter Thiel</li>
+<li><i>Zen and the Art of Motorcycle Maintenance</i> Robert M. Pirsig</li>
+<li><i>Why Teach: In Defense of a Real Education</i> Mark Edmundson</li>
+<li><i>The Power and the Glory</i> Graham Greene</li>
+<li><i>The Waste Land</i> T. S. Eliot</li>
+<li><i>Flash Boys: A Wall Street Revolt</i> Michael Lewis</li>
+<li><i>The Code Book: The Science of Secrecy From Ancient Egypt to Quantum Cryptography</i> Simon Singh </li>
+<li><i>A Man On The Moon: The Voyages Of The Apollo Astronauts</i> Andrew Chaikin</li>
+<li><i>The Art of Data Science</i> Roger Peng and Elizabeth Matsui</li>
+<li><i>The Art of War</i> Sun Tzu</li>
+<li><i>For Better: The Science of a Good Marriage</i> Tara Parker-Pope</li>
+<li><i>Witness to Love: How to Help the Next Generation Build Marriages that Survive and Thrive</i> Ryan and Mary-Rose Verret</li>
+<li><i>The Intelligent Investor</i> Benjamin Graham</li>
+<li><i>Deep Work: Rules for Focused Success in a Distracted World</i> Cal Newport</li>
+<li><i>His Needs Her Needs: Building an Affair-Proof Marriage</i> Willard F. Harley, Jr.</li>
+<li><i>Benjamin Franklin: An American Life</i> Walter Isaacson</li>
+nan
+<li><i>The Seven Laws of Magical Thinking: How Irrational Beliefs Keep Us Happy, Healthy, and Sane</i> Matthew Hutson</li>
+<li><i>Walden</i> Henry David Throeau</li>
+<li><i>Data Science From Scratch</i> Joel Grus</li>
+<li><i>Project Holiness: Marriage as a Workshop for Everyday Saints</i> Bridget Burke Ravizza and Julie Donovan Massey</li>
+<li><i>Sexy Little Numbers: How to Grow Your Business Using the Data You Already Have</i> Dimitri Maex</li>
+<li><i>Data-ism: The Revolution Transforming Decision Making, Consumer Behavior, and Almost Everything Else</i> Steve Lohr</li>
+<li><i>The Passionate Programmer: Creating a Remarkable Career in Software Development</i> Chad Fowler</li>
+<li><i>Children of God</i> Mary Doria Russell</li>
+<li><i>Marriage: The Mystery of Faithful Love</i> Dietrich von Hildebrand</li>
+<li><i>The Pragmatic Programmer</i> Andrew Hunt and David Thomas</li>
+<li><i>The Name of the Rose</i> Umberto Eco</li>
+<li><i>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</i> Cathy O'Neil</li>
+<li><i>Genius: The Life and Science of Richard Feynman</i> James Gleick</li>
+<li><i>Saint John Paul the Great</i> Jason Evert</li>
+<li><i>Marriage: Love and Life in the Divine Plan</i> the United States Conference of Catholic Bishops</li>
+<li><i>God in the Dock</i> C.S. Lewis</li>
+<li><i>Grit: The Power of Passion and Perseverance</i> Angela Duckworth</li>
+<li><i>The Early History of Rome (Book I)</i> Livy</li>
+<li><i>Perelandra</i> C.S. Lewis</li>
 <li><i>The Letters of J.R.R. Tolkien</i> edited by Humphrey Carpenter</li>
-<li><i>The Library: A World History</i> by James W. P. Campbell</li>
-<li><i>The Dream of Reason: A History of Philosophy from the Greeks to the Renaissance</i> by Anthony Gottlieb</li>
-<li><i>Dracula</i> by Bram Stoker</li>
-<li><i>The Chronicles of Narnia: Prince Caspian</i> by C.S. Lewis</li>
-<li><i>How the Catholic Church Built Western Civilization</i> by Thomas E. Woods</li>
-<li><i>An Outline of European Architecture</i> by Nikolaus Pevsner</li>
-<li><i>Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life</i> by William Deresiewicz</li>
-<li><i>Modeling Aircraft Loan & Lease Portfolios</i> by Nils Hallerst</li>
-<li><i>New American Bible, Revised Edition:</i> Luke, John, Romans, 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1-2 Thessalonians, 1 Timothy, Titus, Philemon</li>
+<li><i>The Library: A World History</i> James W. P. Campbell</li>
+<li><i>The Dream of Reason: A History of Philosophy from the Greeks to the Renaissance</i> Anthony Gottlieb</li>
+<li><i>Dracula</i> Bram Stoker</li>
+<li><i>The Chronicles of Narnia: Prince Caspian</i> C.S. Lewis</li>
+<li><i>How the Catholic Church Built Western Civilization</i> Thomas E. Woods</li>
+<li><i>An Outline of European Architecture</i> Nikolaus Pevsner</li>
+<li><i>Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life</i> William Deresiewicz</li>
+<li><i>Modeling Aircraft Loan & Lease Portfolios</i> Nils Hallerst</li>
+nan

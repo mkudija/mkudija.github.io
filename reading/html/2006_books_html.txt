@@ -1,15 +1,13 @@
-# 2006</li>
-</li>
-<li><i>Night</i> by Elie Wiesel</li>
-<li><i>The House on Mango Street</i> by Sandra Cisneros</li>
-<li><i>At All Costs: How a Crippled Ship and Two American Merchant Mariners Turned the Tide of World War II</i> by Sam Moses</li>
-<li><i>Medal of Honor</i> by Peter Collier</li>
-<li><i>Air Power: Heroes and Heroism in American Flight Missions 1916 to Today</i> by Bill Gilbert</li>
-<li><i>It Doesn't Take A Hero</i> by Norman Schwarzkopf</li>
-<li><i>Guns, Germs and Steel</i> by Jared Diamond</li>
-<li><i>The Picture of Dorian Gray</i> by Oscar Wilde</li>
-<li><i>The Hound of the Baskervilles</i> by Sir Arthur Conan Doyle</li>
-<li><i>Lord of the Flies</i> by William Golding</li>
-<li><i>The Canterbury Tales</i> by Chaucer</li>
-<li><i>Beowulf</i> </li>
-<li><i>Gulliver's Travels</i> by Jonathan Swift</li>
+<li><i>Night</i> Elie Wiesel</li>
+<li><i>The House on Mango Street</i> Sandra Cisneros</li>
+<li><i>At All Costs: How a Crippled Ship and Two American Merchant Mariners Turned the Tide of World War II</i> Sam Moses</li>
+<li><i>Medal of Honor</i> Peter Collier</li>
+<li><i>Air Power: Heroes and Heroism in American Flight Missions 1916 to Today</i> Bill Gilbert</li>
+<li><i>It Doesn't Take A Hero</i> Norman Schwarzkopf</li>
+<li><i>Guns, Germs and Steel</i> Jared Diamond</li>
+<li><i>The Picture of Dorian Gray</i> Oscar Wilde</li>
+<li><i>The Hound of the Baskervilles</i> Sir Arthur Conan Doyle</li>
+<li><i>Lord of the Flies</i> William Golding</li>
+<li><i>The Canterbury Tales</i> Chaucer</li>
+nan
+<li><i>Gulliver's Travels</i> Jonathan Swift</li>
