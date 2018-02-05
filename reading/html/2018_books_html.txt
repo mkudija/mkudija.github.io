@@ -7,3 +7,4 @@
 <li><i>Leonardo da Vinci</i> by Walter Isaacson</li>
 <li><i>At Home: A Short History of Private Life</i> by Bill Bryson</li>
 <li><i>Resisting Happiness</i> by Matthew Kelly</li>
+<li><i>The Pleasures of Counting</i> by T.W. Körner</li>
