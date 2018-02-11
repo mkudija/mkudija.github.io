@@ -1,8 +1,8 @@
-With a plethora of resources on diet and our evolving understanding of nutritional science, it is easy to find conflicting information and opinions. I have no interest in exhaustively probing these depths, but I would like to live a healthy life, for which some understanding of diet is required. I found Dr. Michael Greger's *How Not To Die* to be a helpful guide to diet, as well as a serious warning about the risks of chronic disease associated with certain lifestyles.
+With a plethora of resources on diet and our evolving understanding of nutritional science, it is easy to find conflicting information and opinions. I have no interest in exhaustively probing these depths, but I would like to live a healthy life, for which some understanding of diet is required. I found Dr. Michael Greger's *How Not To Die* to be a helpful guide to diet, as well as a serious warning about the risks of chronic disease associated with certain lifestyle choices.
 
 His research is a straightforward exploration of the rise of chronic disease as a result of the typical American diet: "Most deaths in the United States are preventable, and they are related to what we eat".[^chronic] The first half of the book examines the link between diet and the top 15 killers in America today, from heart disease and diabetes to various common cancers. 
 
-[^chronic]: Greger, Dr. Michael, [*How Not To Die*](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115/ref=sr_1_1?ie=UTF8&qid=1515983382&sr=8-1&keywords=how+not+to+die) (Location: Publisher, 2015), 1.
+[^chronic]: Greger, Dr. Michael, [*How Not To Die*](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115/ref=sr_1_1?ie=UTF8&qid=1515983382&sr=8-1&keywords=how+not+to+die) (New York: Flatiron Books, 2015), 1.
 
 Despite the role genetics plays in predisposition for certain diseases, risk of developing these chronic diseases is directly tied to lifestyle choices. Specifically, almost 80% of chronic disease risk can be eliminated by not smoking, not being obese, exercising for 30 minutes per day, and eating a diet high in fruits, vegetables, and whole grains while low in meat.[^fourfactors] 
 
