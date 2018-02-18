@@ -5,7 +5,7 @@ from pathlib import Path
 
 def write_html(df, year):
     df = df[df['Read']==year]
-    df['html'] = '<li><i>'+df['Title']+'</i> '+df['Author']+'</li>'
+    df['html'] = '<li><i>'+df['Title']+'</i> by '+df['Author']+'</li>'
 
     html_file = open('html/'+str(year)+'_books_html.txt', 'w')
     for row in range(df.shape[0]):

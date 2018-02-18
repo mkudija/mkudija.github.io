@@ -1,26 +1,26 @@
 nan
-<li><i>The Hobbit</i> J.R.R. Tolkien</li>
-<li><i>If You Really Loved Me</i> Jason Evert</li>
-<li><i>The Female Brain</i> Louann Brizendine</li>
-<li><i>The Male Brain</i> Louann Brizendine</li>
-<li><i>Harry Potter and the Sorcerer's Stone</i> J.K. Rowling</li>
-<li><i>Evangelium Vitae: The Gospel of Life</i> John Paul II</li>
-<li><i>Shadow of the Hegemon</i> Orson Scott Card</li>
-<li><i>In a Sunburned Country</i> Bill Bryson</li>
-<li><i>Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</i> Dava Sobel</li>
-<li><i>All I Really Need to Know I Learned in Kindergarten</i> Robert Fulghum</li>
+<li><i>The Hobbit</i> by J.R.R. Tolkien</li>
+<li><i>If You Really Loved Me</i> by Jason Evert</li>
+<li><i>The Female Brain</i> by Louann Brizendine</li>
+<li><i>The Male Brain</i> by Louann Brizendine</li>
+<li><i>Harry Potter and the Sorcerer's Stone</i> by J.K. Rowling</li>
+<li><i>Evangelium Vitae: The Gospel of Life</i> by John Paul II</li>
+<li><i>Shadow of the Hegemon</i> by Orson Scott Card</li>
+<li><i>In a Sunburned Country</i> by Bill Bryson</li>
+<li><i>Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</i> by Dava Sobel</li>
+<li><i>All I Really Need to Know I Learned in Kindergarten</i> by Robert Fulghum</li>
 nan
-<li><i>A Brief History of Time</i> Stephen Hawking</li>
-<li><i>Rediscovering Catholicism</i> Matthew Kelley</li>
-<li><i>A Man For All Seasons</i> Robert Bolt</li>
-<li><i>A Grief Observed</i> C.S. Lewis</li>
-<li><i>The Screwtape Letters</i> C.S. Lewis</li>
-<li><i>The Lamb's Supper</i> Scott Hahn</li>
+<li><i>A Brief History of Time</i> by Stephen Hawking</li>
+<li><i>Rediscovering Catholicism</i> by Matthew Kelley</li>
+<li><i>A Man For All Seasons</i> by Robert Bolt</li>
+<li><i>A Grief Observed</i> by C.S. Lewis</li>
+<li><i>The Screwtape Letters</i> by C.S. Lewis</li>
+<li><i>The Lamb's Supper</i> by Scott Hahn</li>
 nan
-<li><i>Reasons To Believe: How To Understand, Explain and Defend the Catholic Faith</i> Scott Hahn</li>
-<li><i>Rome Sweet Home</i> Scott Hahn</li>
-<li><i>Fahrenheit 451</i> Ray Bradbury</li>
-<li><i>Man's Search For Meaning</i> Viktor Frankl</li>
-<li><i>An Introduction to Catholic Sacramental Theology</i> Alexandre Ganoczy</li>
-<li><i>Confessions</i> St. Augustine</li>
-<li><i>Water for Elephants</i> Sara Gruen</li>
+<li><i>Reasons To Believe: How To Understand, Explain and Defend the Catholic Faith</i> by Scott Hahn</li>
+<li><i>Rome Sweet Home</i> by Scott Hahn</li>
+<li><i>Fahrenheit 451</i> by Ray Bradbury</li>
+<li><i>Man's Search For Meaning</i> by Viktor Frankl</li>
+<li><i>An Introduction to Catholic Sacramental Theology</i> by Alexandre Ganoczy</li>
+<li><i>Confessions</i> by St. Augustine</li>
+<li><i>Water for Elephants</i> by Sara Gruen</li>

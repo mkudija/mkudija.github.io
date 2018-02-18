@@ -1,17 +1,17 @@
-<li><i>Catch 22</i> Joseph Heller</li>
-<li><i>The Grapes of Wrath</i> John Steinbeck</li>
-<li><i>Cather in the Rye</i> J.D. Salinger</li>
-<li><i>A People's History of the United States</i> Howard Zinn</li>
-<li><i>Ender's Shadow</i> Orson Scott Card</li>
-<li><i>The Last Lecture</i> Randy Pausch</li>
-<li><i>Harry Potter and the Deathly Hallows</i> J.K. Rowling</li>
-<li><i>The Things They Carried</i> Tim O'Brien</li>
-<li><i>Slaughterhouse-Five</i> Kurt Vonnegut</li>
-<li><i>Othello</i> Shakespeare</li>
-<li><i>Fences</i> August Wilson</li>
-<li><i>Brave New World</i> Aldous Huxley</li>
-<li><i>The Rhythm of Life</i> Matthew Kelley</li>
-<li><i>The Seven Levels of Intimacy</i> Matthew Kelley</li>
-<li><i>There Are No Children Here</i> Alex Kotlowitz</li>
-<li><i>Rachel and Her Children</i> Jonathan Kozol</li>
-<li><i>Legacy of Honor: The Values and Influence of America's Eagle Scouts</i> Alvin Townley</li>
+<li><i>Catch 22</i> by Joseph Heller</li>
+<li><i>The Grapes of Wrath</i> by John Steinbeck</li>
+<li><i>Cather in the Rye</i> by J.D. Salinger</li>
+<li><i>A People's History of the United States</i> by Howard Zinn</li>
+<li><i>Ender's Shadow</i> by Orson Scott Card</li>
+<li><i>The Last Lecture</i> by Randy Pausch</li>
+<li><i>Harry Potter and the Deathly Hallows</i> by J.K. Rowling</li>
+<li><i>The Things They Carried</i> by Tim O'Brien</li>
+<li><i>Slaughterhouse-Five</i> by Kurt Vonnegut</li>
+<li><i>Othello</i> by Shakespeare</li>
+<li><i>Fences</i> by August Wilson</li>
+<li><i>Brave New World</i> by Aldous Huxley</li>
+<li><i>The Rhythm of Life</i> by Matthew Kelley</li>
+<li><i>The Seven Levels of Intimacy</i> by Matthew Kelley</li>
+<li><i>There Are No Children Here</i> by Alex Kotlowitz</li>
+<li><i>Rachel and Her Children</i> by Jonathan Kozol</li>
+<li><i>Legacy of Honor: The Values and Influence of America's Eagle Scouts</i> by Alvin Townley</li>

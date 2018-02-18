@@ -1,22 +1,22 @@
-<li><i>Stages of Faith</i> James Fowler</li>
-<li><i>Hamlet</i> Shakespeare</li>
-<li><i>The World Is Flat</i> Thomas L. Friedman</li>
-<li><i>The Kite Runner</i> Khaled Hosseini</li>
-<li><i>A Thousand Splendid Suns</i> Khaled Hosseini</li>
-<li><i>Life of Pi</i> Yann Martel</li>
-<li><i>The Road</i> Cormac McCarthy</li>
-<li><i>Their Eyes Were Watching God</i> Zora Neale Hurston</li>
-<li><i>Angels and Demons</i> Dan Brown</li>
-<li><i>Wild at Heart</i> John Eldredge</li>
-<li><i>Deception Point</i> Dan Brown</li>
-<li><i>Digital Fortress</i> Dan Brown</li>
-<li><i>How To Win Friends And Influence People</i> Dale Carnegie</li>
-<li><i>Men Are from Mars, Women Are from Venus</i> John Gray</li>
-<li><i>The Right Stuff</i> Tom Wolfe</li>
-<li><i>The Fountainhead</i> Ayn Rand</li>
-<li><i>The Female Brain</i> Louann Brizendine</li>
-<li><i>God, Country, Notre Dame</i> Theodore Hesburgh</li>
-<li><i>Making the Most of College</i> Richard J. Light</li>
-<li><i>Domers: A Year at Notre Dame</i> Kevin Coyne</li>
-<li><i>To Kill a Mockingbird</i> Harper Lee</li>
-<li><i>Rocket Boys</i> Homer Hickam</li>
+<li><i>Stages of Faith</i> by James Fowler</li>
+<li><i>Hamlet</i> by Shakespeare</li>
+<li><i>The World Is Flat</i> by Thomas L. Friedman</li>
+<li><i>The Kite Runner</i> by Khaled Hosseini</li>
+<li><i>A Thousand Splendid Suns</i> by Khaled Hosseini</li>
+<li><i>Life of Pi</i> by Yann Martel</li>
+<li><i>The Road</i> by Cormac McCarthy</li>
+<li><i>Their Eyes Were Watching God</i> by Zora Neale Hurston</li>
+<li><i>Angels and Demons</i> by Dan Brown</li>
+<li><i>Wild at Heart</i> by John Eldredge</li>
+<li><i>Deception Point</i> by Dan Brown</li>
+<li><i>Digital Fortress</i> by Dan Brown</li>
+<li><i>How To Win Friends And Influence People</i> by Dale Carnegie</li>
+<li><i>Men Are from Mars, Women Are from Venus</i> by John Gray</li>
+<li><i>The Right Stuff</i> by Tom Wolfe</li>
+<li><i>The Fountainhead</i> by Ayn Rand</li>
+<li><i>The Female Brain</i> by Louann Brizendine</li>
+<li><i>God, Country, Notre Dame</i> by Theodore Hesburgh</li>
+<li><i>Making the Most of College</i> by Richard J. Light</li>
+<li><i>Domers: A Year at Notre Dame</i> by Kevin Coyne</li>
+<li><i>To Kill a Mockingbird</i> by Harper Lee</li>
+<li><i>Rocket Boys</i> by Homer Hickam</li>

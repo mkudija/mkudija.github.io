@@ -1,48 +1,48 @@
-<li><i>Human Spaceflight: Mission Analysis and Design</i> ted by Wiley J. Larson and Linda K. Pranke</li>
-<li><i>Lumen Fidei</i> Pope Francis</li>
+<li><i>Human Spaceflight: Mission Analysis and Design</i> by ted by Wiley J. Larson and Linda K. Pranke</li>
+<li><i>Lumen Fidei</i> by Pope Francis</li>
 nan
 nan
 nan
-<li><i>*Foundations of Strength* and *Transform Your Habits*</i> James Clear</li>
-<li><i>Change by Design</i> Tim Brown and Barry Katz</li>
-<li><i>The Chronicles of Narnia: The Magician's Nephew</i> C.S. Lewis</li>
-<li><i>The Other</i> Ryszard Kapuściński</li>
-<li><i>The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It</i> Paul Collier</li>
-<li><i>The God of Jesus Christ</i> Joseph Ratzinger</li>
-<li><i>Life Out of Death: Meditations on the Paschal Mystery</i> Hans Urs von Balthasar</li>
-<li><i>The Velveteen Rabbit</i> Margery Williams</li>
-<li><i>Catholicism: Christ and the Common Destiny of Man</i> Henri de Lubac</li>
-<li><i>The Wealth of Nations (Book I, Chapters I-VIII)</i> Adam Smith</li>
-<li><i>Vipers' Tangle</i> François Mauriac</li>
-<li><i>Ex Corde Ecclesiae</i> Pope John Paul II</li>
-<li><i>The Portal of the Mystery of Hope</i> Charles Péguy</li>
-<li><i>In Good Company</i> James Martin, S.J.</li>
-<li><i>Silence</i> Shusaku Endo</li>
-<li><i>The Great Divorce</i> C.S. Lewis</li>
-<li><i>Gilead</i> Marilynne Robinson</li>
-<li><i>The Idea of a University</i> John Henry Cardinal Newman</li>
-<li><i>For Better Forever: A Catholic Guide to Lifelong Marriage</i> Gregory K. Popcak</li>
-<li><i>Evangelical Catholicism</i> George Weigel</li>
-<li><i>Out of the Silent Planet</i> C.S. Lewis </li>
-<li><i>The Holy Longing: The Search for a Christian Spirituality</i> Ronald Rolheiser</li>
-<li><i>The Hitchhiker’s Guide to the Galaxy</i> Douglas Adams</li>
-<li><i>A Concise Guide to the Documents of Vatican II</i> Edward P. Hahnenberg</li>
-<li><i>YOUCAT</i> uth Catechism of the Catholic Church)</li>
-<li><i>The 48 Laws of Power</i> Robert Greene</li>
-<li><i>St. Maria Goretti: In Garments All Red</i> Fr. Godfrey Poage, C.P.</li>
-<li><i>Structures: Or Why Things Don't Fall Down</i> J.E. Gordon</li>
-<li><i>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</i> C.S. Lewis</li>
-<li><i>Camerado, I Give You My Hand</i> Maura Poston Zagrans </li>
-<li><i>Finding Darwin’s God</i> Kenneth R. Miller</li>
-<li><i>Better</i> Atul Gawande</li>
-<li><i>To Save a Thousand Souls</i> Fr. Brett A. Brannen</li>
-<li><i>Saint Thomas Aquinas</i> G.K. Chesterton</li>
-<li><i>The Phantom Tollbooth</i> Norton Juster</li>
-<li><i>Unbroken: A World War II Story of Survival, Resilience, and Redemption</i> Laura Hillenbrand</li>
-<li><i>On Heaven and Earth</i> Jorge Mario Bergoglio and Abraham Skorka</li>
-<li><i>Finding True Happiness</i> Fulton Sheen</li>
-<li><i>The Prison Angel: Mother Antonia’s Life of Service in a Mexican Jail</i> Mary Jordan and Kevin Sullivan </li>
-<li><i>Orthodoxy</i> G.K. Chesterton</li>
-<li><i>The Judge: William P. Clark, Ronald Reagan’s Top Hand</i> Paul Kengor and Patricia Clark Doerner</li>
-<li><i>The Seven Storey Mountain</i> Thomas Merton</li>
-<li><i> Wind, Sand, and Stars</i> Antoine de Saint-Exupéry</li>
+<li><i>*Foundations of Strength* and *Transform Your Habits*</i> by James Clear</li>
+<li><i>Change by Design</i> by Tim Brown and Barry Katz</li>
+<li><i>The Chronicles of Narnia: The Magician's Nephew</i> by C.S. Lewis</li>
+<li><i>The Other</i> by Ryszard Kapuściński</li>
+<li><i>The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It</i> by Paul Collier</li>
+<li><i>The God of Jesus Christ</i> by Joseph Ratzinger</li>
+<li><i>Life Out of Death: Meditations on the Paschal Mystery</i> by Hans Urs von Balthasar</li>
+<li><i>The Velveteen Rabbit</i> by Margery Williams</li>
+<li><i>Catholicism: Christ and the Common Destiny of Man</i> by Henri de Lubac</li>
+<li><i>The Wealth of Nations (Book I, Chapters I-VIII)</i> by Adam Smith</li>
+<li><i>Vipers' Tangle</i> by François Mauriac</li>
+<li><i>Ex Corde Ecclesiae</i> by Pope John Paul II</li>
+<li><i>The Portal of the Mystery of Hope</i> by Charles Péguy</li>
+<li><i>In Good Company</i> by James Martin, S.J.</li>
+<li><i>Silence</i> by Shusaku Endo</li>
+<li><i>The Great Divorce</i> by C.S. Lewis</li>
+<li><i>Gilead</i> by Marilynne Robinson</li>
+<li><i>The Idea of a University</i> by John Henry Cardinal Newman</li>
+<li><i>For Better Forever: A Catholic Guide to Lifelong Marriage</i> by Gregory K. Popcak</li>
+<li><i>Evangelical Catholicism</i> by George Weigel</li>
+<li><i>Out of the Silent Planet</i> by C.S. Lewis </li>
+<li><i>The Holy Longing: The Search for a Christian Spirituality</i> by Ronald Rolheiser</li>
+<li><i>The Hitchhiker’s Guide to the Galaxy</i> by Douglas Adams</li>
+<li><i>A Concise Guide to the Documents of Vatican II</i> by Edward P. Hahnenberg</li>
+<li><i>YOUCAT</i> by uth Catechism of the Catholic Church)</li>
+<li><i>The 48 Laws of Power</i> by Robert Greene</li>
+<li><i>St. Maria Goretti: In Garments All Red</i> by Fr. Godfrey Poage, C.P.</li>
+<li><i>Structures: Or Why Things Don't Fall Down</i> by J.E. Gordon</li>
+<li><i>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</i> by C.S. Lewis</li>
+<li><i>Camerado, I Give You My Hand</i> by Maura Poston Zagrans </li>
+<li><i>Finding Darwin’s God</i> by Kenneth R. Miller</li>
+<li><i>Better</i> by Atul Gawande</li>
+<li><i>To Save a Thousand Souls</i> by Fr. Brett A. Brannen</li>
+<li><i>Saint Thomas Aquinas</i> by G.K. Chesterton</li>
+<li><i>The Phantom Tollbooth</i> by Norton Juster</li>
+<li><i>Unbroken: A World War II Story of Survival, Resilience, and Redemption</i> by Laura Hillenbrand</li>
+<li><i>On Heaven and Earth</i> by Jorge Mario Bergoglio and Abraham Skorka</li>
+<li><i>Finding True Happiness</i> by Fulton Sheen</li>
+<li><i>The Prison Angel: Mother Antonia’s Life of Service in a Mexican Jail</i> by Mary Jordan and Kevin Sullivan </li>
+<li><i>Orthodoxy</i> by G.K. Chesterton</li>
+<li><i>The Judge: William P. Clark, Ronald Reagan’s Top Hand</i> by Paul Kengor and Patricia Clark Doerner</li>
+<li><i>The Seven Storey Mountain</i> by Thomas Merton</li>
+<li><i> Wind, Sand, and Stars</i> by Antoine de Saint-Exupéry</li>
