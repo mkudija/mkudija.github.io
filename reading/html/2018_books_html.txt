@@ -8,3 +8,7 @@
 <li><i>Resisting Happiness</i> Matthew Kelly</li>
 <li><i>The Pleasures of Counting</i> T.W. Körner</li>
 <li><i>A Connecticut Yankee in King Arthur’s Court</i> Mark Twain</li>
+<li><i>Side Hustle: From Idea to Income in 27 Days</i> Chris Guillebeau</li>
+<li><i>Biostatistics for Dummies</i> John C. Pezzullo, PhD</li>
+<li><i>Essentialism: The Disciplined Pursuit of Less</i> Greg McKeown</li>
+<li><i>Silence In the Age of Noise</i> Erling Kagge</li>
