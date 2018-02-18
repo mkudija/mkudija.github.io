@@ -18,7 +18,7 @@ def write_html(df, year):
     # forecast reading
     from datetime import datetime
     if year==datetime.now().year:
-        booksToDate = df.shape[0]
+        booksToDate = df.dropna(how='any',axis=0).shape[0]
         dayOfYear = datetime.now().timetuple().tm_yday
         bookForecast = booksToDate / dayOfYear * 365
         print('...on track to read {} books in {}'.format(int(bookForecast), year))
