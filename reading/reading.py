@@ -15,6 +15,14 @@ def write_html(df, year):
 
     print('In {} I read {} books.'.format(str(year),str(df.shape[0])))
 
+    # forecast reading
+    from datetime import datetime
+    if year==datetime.now().year:
+        booksToDate = df.shape[0]
+        dayOfYear = datetime.now().timetuple().tm_yday
+        bookForecast = booksToDate / dayOfYear * 365
+        print('...on track to read {} books in {}'.format(int(bookForecast), year))
+ 
 
 def plot_books(df, years):
     import matplotlib.pyplot as plt
@@ -40,6 +48,7 @@ if __name__ == "__main__":
             GitHubPath = parent
 
     df = pd.read_excel(GitHubPath/'mkudija.github.io/reading/reading.xlsx',sheet_name='Books')
+
     years = df['Read'].unique()
 
     for year in years:
