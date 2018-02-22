@@ -14,4 +14,4 @@
 <li><i>Silence In the Age of Noise</i> by Erling Kagge</li>
 <li><i>The Visual Display of Quantitative Information</i> by Edward R. Tufte</li>
 <li><i>Modern Physics and Ancient Faith</i> by Stephen M. Barr</li>
-nan
+<li><i>Four Quartets</i> by T.S. Eliot</li>
