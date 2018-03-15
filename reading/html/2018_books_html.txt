@@ -19,3 +19,4 @@
 <li><i>The Tao of Pooh</i> by Benjamin Hoff</li>
 <li><i>The Pilgrim's Progress</i> by John Bunyan</li>
 <li><i>A Wrinkle in Time</i> by Madeleine L'Engle</li>
+<li><i>Create Your Own Economy: The Path to Prosperity in a Disordered World</i> by Tyler Cowen</li>
