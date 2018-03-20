@@ -20,3 +20,5 @@
 <li><i>The Pilgrim's Progress</i> by John Bunyan</li>
 <li><i>A Wrinkle in Time</i> by Madeleine L'Engle</li>
 <li><i>Create Your Own Economy: The Path to Prosperity in a Disordered World</i> by Tyler Cowen</li>
+<li><i>The Revenge of Analog: Real Things and Why They Matter</i> by David Sax</li>
+<li><i>American House Styles: A Concise Guide</i> by John Milnes Baker, A.I.A.</li>
