@@ -1,6 +1,9 @@
 
-*.pyc
-reading/~$2017_Books.xlsx
-reading/~$Books.xlsx
+*~$*.xlsx
+*~$*.xlsm
+*~$*.pptx
+*~$*.docx
+*checkpoint.ipynb
+*.DS_Store
 .DS_Store
-reading/~$reading.xlsx
+*.pyc
