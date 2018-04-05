@@ -34,7 +34,6 @@ Power of test (interplay of significance, sample size, and effect size)
 
 
 
-
 Chapter 4: Statistical Software
 skimmed
 

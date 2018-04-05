@@ -1,6 +1,8 @@
 # *Modern Physics and Ancient Faith* by Stephen M. Barr
 2018-02-19
 
+*Read in preparation for a lecture at U. Cincinnati that I was unable to attend.*
+
 
 # Part I: The Conflict between Religion and Materialism (Introduction)
 ## Chapter 1: Religion and Materialism

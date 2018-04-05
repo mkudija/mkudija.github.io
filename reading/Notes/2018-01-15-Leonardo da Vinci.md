@@ -1,4 +1,4 @@
-# Leonardo da Vinci
+# *Leonardo da Vinci* by Walter Isaacson
 2018-01-15
 
 ### Themes

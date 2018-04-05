@@ -1,7 +1,9 @@
 # *The Tao of Pooh* by Benjamin Hoff
 2018-03-23
 
-> An exploration of Taoist philosophy through the lens of Winnie-the-Pooh
+*From Mom/Jayne*
+
+An exploration of Taoist philosophy through the lens of Winnie-the-Pooh:
 
 # The How of Pooh? (p. 1)
 - "The Vinegar Tasters"

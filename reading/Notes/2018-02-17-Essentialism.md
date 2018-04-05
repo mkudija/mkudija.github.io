@@ -1,6 +1,7 @@
 # *Essentialism: The Disciplined Pursuit of Less* by Greg McKeown
 2018-02-17
 
+
 ## Themes
 - Only a few things really matter
 - Almost everything is noise

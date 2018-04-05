@@ -1,6 +1,7 @@
 # *The Visual Display of Quantitative Information* by Edward R. Tufte
 2018-02-17
 
+
 # Part I: Graphical Practice
 ## Chatper 1: Graphical Excellence
 - gives examples of great graphs

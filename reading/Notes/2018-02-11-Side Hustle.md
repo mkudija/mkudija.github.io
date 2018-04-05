@@ -1,6 +1,7 @@
 # *Side Hustle: From Idea to Income in 27 Days* by Chris Guillebeau
 2018-02-11
 
+
 # Introduction
 1. Everyone should have a side hustle (income diversity gives you more options)
 2. It's not hard to start a side hustle
