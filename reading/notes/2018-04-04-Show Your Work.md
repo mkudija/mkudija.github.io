@@ -107,15 +107,70 @@
 
 # 7. Don't turn into human spam
 
+**Shut up and listen**
+- Human spam: people who don't want to "pay the dues" and want their piece here and now
+
+**You want hearts, not eyeballs**
+- Donald Barthelme: "Have you tried making yourself a more interesting person?" if you want to be interest-*ing*, you have to be interest-*ed* (129-131)
+- Steve Albini: "Connections don't mean shit. I've never had any connections that weren't a natural outgrowth of doing things I was doing anyway." (131)
+
+**The vampire test**
+- If it [person, job, situation] leaves you "worn out and depleted" it's a vampire; avoid vampires. (135-136)
+
+**Itentify your fellow knuckleballers**
+- Knuckleballers: "your real peers—the people who share your obsessions, mission, mutual respect" (139-141)
+
+**Meet up in meatspace**
+- IRL meetups
 
 
 # 8. Learn to take a punch
 
+**Let 'em take their best shot**
+- Relax and breathe
+- Strengthen your neck: more criticism and you realize it can't hurt you
+- Roll with the punches: you control how you react to criticism
+- Protect your vulnerable areas: keep the most sensitive stuff hidden
+- Keep your balance: "your work is something you do, not who you are" (152)
+
+**Don't feed the trolls**
+- don't feed them and they usually go away
+- maybe turn off comments, Natalie Dee: "There's never a space under paintings in a gallery where someone writes their opinion." (157)
+
 
 # 9. Sell out
+
+**Even the Renaissance had to be funded**
+- everyone needs to be paid
+
+**Pass around the hat**
+- selling your work is a big step; make sure your price is fair
+
+**Keep a mailing list**
+- give away great stuff for free on your website, collect emails, and when you have something great to sell you send an email
+
+**Make more work for yourself**
+- try new things and keep yourself moving forward
+
+**Pay it forward**
+- pay it forward, but don't let that take over from your real work
 
 
 # 10. Stick around
 
+**Don't quit your show**
+- "You've gotta play until the 9th inning." (185)
 
+**Chain smoke**
+- avoid stalling out by not losing momentum
 
+**Go away so you can come back**
+- Stefan Sagmeister: sabattical every 7 years. Instead of 25 years of learning, 40 of work, and 15 of retirement, why not take 5 years off retirement and break up the working years?
+- Gina Trapani's times to turn your brain off and take a break:
+  - Commute
+  - Exercise
+  - Nature
+- Separate your work from your life; if you never *go* to work, you never *leave* work (194)
+
+**Begin again**
+- "You can't be content with mastery; you have to push yourself to be a student again." (197)
