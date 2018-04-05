@@ -23,3 +23,6 @@
 <li><i>The Revenge of Analog: Real Things and Why They Matter</i> by David Sax</li>
 <li><i>American House Styles: A Concise Guide</i> by John Milnes Baker, A.I.A.</li>
 <li><i>Born a Crime: Stories from a South African Childhood</i> by Trevor Noah</li>
+<li><i>Sleeping with Your Smartphone: How to Break the 24/7 Habit and Change the Way You Work</i> by Leslie A. Perlow</li>
+<li><i>The Formula: How Algorithms Solve All Our Problems . . . and Create More</i> by Luke Dormehl</li>
+<li><i>Show Your Work!</i> by Austin Kleon</li>
