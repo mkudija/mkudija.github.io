@@ -41,7 +41,64 @@
 - instead, take some inspiration from Dickens' David Copperfield: *reading as if for life* (31-33)
 - Jacobs marvels in the mystery of why we would *read for whim* as he previously recommends (33)
 
+
 ## Aspirations
+- taking a balance between extreme whim and uptight rigor, Jacobs appeals to the "standard of the reader's own pleasure" (38)
+- Uses Gibbon as an example: a completely undisciplined and unregulated life is miserable (39)
+- We need to take ownership of our reading and know ourselves well enough to both be able to give up something that truly isn't worth our time, and keep at a book that isn't pleasurable right now but is good for us. The danger of Bloom or other authoritative guides is that they allow us to shirk our responsibility to know ourselves and own our reading. (43)
+- much of the rest of the book is devoted to asking the question of how to self-direct our reading while striking this balance
+
+
+## Upstream
+- if you exhaust your favorite story, you can start by looking *upstream* of that author (what he/she read as influene)
+- For example in examining the reading-that-makes-the-writer for Tolkien: *Beowulf*, Eddas/sagas of medieval Iceland, *Sir Gawain and the Green Knight*, music of Wagner, etc. (45)
+- This may be harder, but "some forms of intellectual labor are worth the trouble" becuase they strengthen our minds, improve our concentration, teach us patience and humility, and "lead to new and greater delights." (50)
+
+
+## Responsiveness
+- Reading does not necessarily make you a better person, but if you read with that as a goal there are ways in which you can move that direction
+- We should answer the questions our reading puts to us (respond)
+- Mark up your books! Jacobs prefers a mechanical pencil as well.(61)
+
+
+## Kindling
+- **book**: something long enough to be bound between covers (63)
+- **codex**: his footnote on 63 mentions that Christians were early adopters of the codex, just like James Turner does on page 24 (I remembered 23 so only one off) of *Philology*, though neither say explicitly why
+
+
+## Slowly, Slowly
+- "I believe that most people read quiclky because they want not to read but to have read." (72)
+- "Though few people realize it, many books become more boring the faster you read them." (74)
+- "It was the Duke of Gloucester who supposedly said, upon seeing a new installment of the great history, 'Another damned thick, square book! Always scribble, scribble, sribble, eh, Mr. Gibbon?' But there is surely something of the Duke in all of us." (75). ...indeed!
+- Funny quote about the slowness of reading bottom of 77
+
+
+## True confessions
+- (he uses Instapaper also) (78)
+- He likes reading on a Kindle because it helps make the process linear and remove some unnecessary distractions (81)
+- bottom of 82: thoughtful paragraph about technology as not necessarily "bad" for reading; indeed the codex is a great piece of technology and new digital technologies can in fact help reading
+
+
+## Lost
+- attentiveness is worth cultivating because *rapt* concentration (in reading, craft, love, etc.) is the source of some of life's great pleasures...this is the purpose of Whim (86)
+
+
+## Abbot Hugh's advice
+- Abbot Hugh of St. Victor (Paris) had a guide for readers, the *Didascalicon*
+- Take small steps in your reading, and in the development of your attention
+- Avoid pride in reading, which might cause you to avoid certain works or keep you from progressing in skill
+- footnote on 92 is a nice view of medieval hope: a pilgrim/wayfarer has hope and is between despair and presumption, both of which aren't going anywhere
+- 
+
+
+
+
+
+
+
+
+
+
 
 
 
