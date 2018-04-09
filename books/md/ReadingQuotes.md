@@ -15,7 +15,7 @@
 
 > Wide reading does two things - it extends knowledge and it adjusts the judgment. <br> —Gerard Manley Hopkins[^gmh]
 
-[^gmh]: Gerard Manley Hopkins, [*Poems and Prose of Gerard Manley Hopkins*](https://www.amazon.com/Penguin-Classics-Gerard-Manley-Hopkins/dp/0140420150/ref=sr_1_1?ie=UTF8&qid=1523224414&sr=8-1&keywords=0140420150&dpID=41bo8cFs0sL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Penguin Books, 1963), 210. (in letter to Robert Bridges)
+[^gmh]: Gerard Manley Hopkins, [*Poems and Prose of Gerard Manley Hopkins*](https://www.amazon.com/Penguin-Classics-Gerard-Manley-Hopkins/dp/0140420150/ref=sr_1_1?ie=UTF8&qid=1523224414&sr=8-1&keywords=0140420150&dpID=41bo8cFs0sL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Penguin Books, 1963), 210. (in a letter to Robert Bridges)
 
 
 > Ultimately, only a great diet of excellent reading material can sustain a long and happy life." <br> —Ben Sasse[^sasse]
@@ -28,3 +28,8 @@ digested; that is, some books are to be read only in parts; others to be read, b
 to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bacon]
 
 [^bacon]: Francis Bacon, ["Of Studies"](http://www.psy.gla.ac.uk/~steve/best/BaconJohnson.pdf), 1625.
+
+
+> Make books your treasures and bookshelves your gardens of delight.  <br> —Judah ibn Tibbon[^tibbon]
+
+[^tibbon]: 12th century Judaic scholar Judah ibn Tibbon, quoted in David Sax, [*The Revenge of Analog*](https://www.amazon.com/Revenge-Analog-Real-Things-Matter/dp/1610398211/ref=sr_1_1?ie=UTF8&qid=1523234526&sr=8-1&keywords=the+revenge+of+analog&dpID=61fE-QEXQdL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Perscus Books, 2016), 121.
