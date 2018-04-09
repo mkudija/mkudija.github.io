@@ -16,15 +16,17 @@ def write_html(df, year):
     print('In {} I read {} books.'.format(str(year),str(df.shape[0])))
 
     # forecast reading
+    bookForecast = 0
     from datetime import datetime
     if year==datetime.now().year:
         booksToDate = df.dropna(how='any',axis=0).shape[0]
         dayOfYear = datetime.now().timetuple().tm_yday
         bookForecast = booksToDate / dayOfYear * 365
         print('...on track to read {} books in {}'.format(int(bookForecast), year))
+    return bookForecast
  
 
-def plot_books(df, years):
+def plot_books(df, years, bookForecast):
     import matplotlib.pyplot as plt
     number = []
     for year in years:
@@ -33,6 +35,7 @@ def plot_books(df, years):
 
     fig, ax = plt.subplots()
     ax.axis('off')
+    plt.bar(years[-1], bookForecast, color='#ffffff', edgecolor='#909090')
     plt.bar(years, number, color='#3377b3')
     for item in range(0,len(years)):
         #plt.text(years[item], number[item]+3, str(number[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
@@ -52,8 +55,8 @@ if __name__ == "__main__":
     years = df['Read'].unique()
 
     for year in years:
-        write_html(df, year)
+        bookForecast = write_html(df, year)
     
-    plot_books(df, years)
+    plot_books(df, years, bookForecast)
 
     print('Done.')
