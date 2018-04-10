@@ -26,3 +26,4 @@
 <li><i>Sleeping with Your Smartphone: How to Break the 24/7 Habit and Change the Way You Work</i> by Leslie A. Perlow</li>
 <li><i>The Formula: How Algorithms Solve All Our Problems . . . and Create More</i> by Luke Dormehl</li>
 <li><i>Show Your Work!</i> by Austin Kleon</li>
+<li><i>The Pleasures of Reading in an Age of Distraction</i> by Alan Jacobs</li>

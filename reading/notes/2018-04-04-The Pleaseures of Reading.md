@@ -1,5 +1,5 @@
-# *The Pleasures of Reading in an Age of Distraction* by Alan Jacobs
-2018-04-04
+Alan Jacobs, *The Pleasures of Reading in an Age of Distraction* (New York: Oxford University Press, 2011), 150.
+
 
 ## Yes, we can!
 - *How to Read a Book* is all about the *how* of reading, motivated by an insecure drive for self-improvement. Jacobs witnesses lots of readers who lack confidence in their reading (5-6) 
@@ -88,18 +88,50 @@
 - Take small steps in your reading, and in the development of your attention
 - Avoid pride in reading, which might cause you to avoid certain works or keep you from progressing in skill
 - footnote on 92 is a nice view of medieval hope: a pilgrim/wayfarer has hope and is between despair and presumption, both of which aren't going anywhere
-- 
+- ruminant animals (chew cud) provide a good model: read it, rest, then revisit it
+  - for example, read poetry (at least 5 times), and perhaps memorize it
 
 
+## The triumphant return of Adler and Van Doren
+- "All books want our attention, but not all of them want the same *kind* of attention, and good readers know this and make the necessary adjustments." (98)
 
 
+## Plastic attention
+- Carr: neuro plasticity is not neuro "elasticity": the we form habits that can be hard to break
+- Hayle's thoughts about "deep attention" vs. "hyper attention"
 
 
+## Getting schooled
+- Wendy Griswold et. al. argue that post-WWII reading boom was unsustainable and we are returning to a reading class and a non-reading class, not "class" per-se but people who enjoy it and people who don't so much (107)
+- "Augustine's biographyer Peter Brown has commented that some of Augustine's intellectual eccentricities are the product of a 'a mind steeped too long in too few books'—something that can be said of almost nobody today." (109)
+- Bacon's famous quote about reading is really about filtering in an over-abundance of books to read
+- We need to learn how to skim, and how to *skim well*
+- *Intellectual Life of the British Working Classes* by Jonathan Rose: a celebration of autodidacticism, as their love of reading was more vibrant *before* the introduction of literature in schools
+  - Rose: "The autodidacts' mission statement was to be more than passive consumers of literature, to be active thinkers and writers. Those who proclaimed that 'knowledge is power' meant that the only true education is self-education, and they often regarded the expansion of formal educational opportunities with suspicion." (113-114)
+- We need to distinguish *education* from *leisure*: "Education is and should be primarily about intellectual navigation, about...skimming well, and reading carefully for information in order to upload content. Slow and patient reading, by contrast, properly belongs to our leisure hours."(114)
+ - To those who disagree, I would add my experience of disliking literature—despite getting good grates—in high school only to rediscover it slowly through my time in college and especially in my increased free time for reading after.
 
 
+## Quiet, please
+- The writer Stefan Zweig once defined a book as a “handful of silence that assuages torment and unrest.”
+- we need to learn to build our "cone of silence" for reading
+- ironic thought despite the plethora of digital distractions today: "surely a higher percentage of human beings today have regular access to silence tha nat any time in human history." (120)
+- the power of fiction if the deep imaginative engagement it creates, which can only come through deep solitude
 
 
+## Once more, with feeling
+- on re-reading books
 
 
+## Judge, jury, executioner
+- on being appropriately critical of what you read
 
 
+## In solitude, for company 
+- He observed that book groups can be a poor alternative to genuine classroom discussions because often the book is just a front for talking about their emotional lives, etc (137)
+- a book is dialogically asymmetrical: we learn but they don’t learn about us; this isn’t necessarily a bad thing (140)
+- Jacobs argues that group reading can be great, but is never a substitute for solitary reading 
+
+
+## Serendip
+- In choosing what we read, “we must consent to be guided by the invisible hand of serendipity.” (143)
