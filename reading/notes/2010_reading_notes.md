@@ -1,4 +1,4 @@
-# 2010 Book Notes
+# 2010 Reading Notes
 
 ## *An Introduction to Catholic Sacramental Theology* by Alexandre Ganoczy
 10/27/2010
