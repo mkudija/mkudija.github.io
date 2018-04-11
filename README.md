@@ -72,9 +72,9 @@ python markdown2.py -x footnotes,smarty-pants,cuddled-lists,target-blank-links F
 ```
 
 ## 6. Update Reading
-Run [`books.py`](/reading/books.py) to covert book list from Markdown to HTML. This also generates a plot.
+Run [`reading.py`](/reading/reading.py) to covert book list from Markdown to HTML. This also generates a plot.
 
 ```
-python books.py
+python reading.py
 ```
 
