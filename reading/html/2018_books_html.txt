@@ -27,3 +27,4 @@
 <li><i>The Formula: How Algorithms Solve All Our Problems . . . and Create More</i> by Luke Dormehl</li>
 <li><i>Show Your Work!</i> by Austin Kleon</li>
 <li><i>The Pleasures of Reading in an Age of Distraction</i> by Alan Jacobs</li>
+<li><i>The Plain Person’s Guide to Plain Text Social Science</i> by Kieran Healy</li>
