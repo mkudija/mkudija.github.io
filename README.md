@@ -78,3 +78,8 @@ Run [`reading.py`](/reading/reading.py) to covert book list from Markdown to HTM
 python reading.py
 ```
 
+<h1 id="examples">Example Websites</h1>
+
+- [Knight Lab](https://knightlab.northwestern.edu/), including [Juxtapose for comparing images](https://juxtapose.knightlab.com/) and a [cool book timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wNbJv1Zf4Oichj3-dEQXE_lXVCwuYQjaoyU1gGQQqk4&font=Default&lang=en&start_at_end=true&initial_zoom=2&height=650)
+- 
+
