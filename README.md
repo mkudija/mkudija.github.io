@@ -81,5 +81,37 @@ python reading.py
 <h1 id="examples">Example Websites</h1>
 
 - [Knight Lab](https://knightlab.northwestern.edu/), including [Juxtapose for comparing images](https://juxtapose.knightlab.com/) and a [cool book timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wNbJv1Zf4Oichj3-dEQXE_lXVCwuYQjaoyU1gGQQqk4&font=Default&lang=en&start_at_end=true&initial_zoom=2&height=650)
-- 
+- [Chris Moffitt](http://pbpython.com/)
+- [Jake VanderPlas](http://jakevdp.github.io/)
+- [Tim Hopper](https://tdhopper.com/)
+- [Kieran Healy](https://kieranhealy.org/resources/)
+- [Michael Zalewski](http://lcamtuf.coredump.cx/table/)
+- [David Robinson](http://varianceexplained.org/r/start-blog/)
+- [Gavin Rehkemper](https://gavinr.com/about-gavin-rehkemper/)
+- [Daniel Rodriguez](danielfrg.com)
+- [Matthew Henderson](http://www.matthen.com/)
+- [Joe Hanson](https://www.itsokaytobesmart.com/)
+- [Ian Schon](http://ianschon.com/)
+- [Brett Victor](http://worrydream.com/)
+- [Chris Olah](http://colah.github.io/)
+- [John Cook](https://www.johndcook.com/blog/)
+- [Jonathan McGlone](http://jmcglone.com/about/)
+- [Chris Albon](https://chrisalbon.com/)
+- [Jeff Atwood](https://blog.codinghorror.com/about-me/)
+- [Duncan Lock](http://duncanlock.net/pages/duncan-locks-resume.html)
+- [Matti Vuorre](https://vuorre.netlify.com/)
+- [Cody McLain](https://www.codymclain.com/photography/)
+- [Justin Ellis](https://jellis18.github.io/)
+- [Jeroen Boeye](https://www.jeroenboeye.com/about/)
+- [Michael Herman](http://mherman.org/about)
+- [Nipun Batra](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
+
+
+
+
+
+
+
+
+
 
