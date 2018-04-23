@@ -105,6 +105,7 @@ python reading.py
 - [Jeroen Boeye](https://www.jeroenboeye.com/about/)
 - [Michael Herman](http://mherman.org/about)
 - [Nipun Batra](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
+- [Jason Davies](https://www.jasondavies.com/)
 
 
 
