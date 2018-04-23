@@ -9,57 +9,197 @@
 
 <url>
   <loc>http://matthewkudija.com/</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/index.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/reading.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books/HowNotToDie.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books/RoadToCharacter.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books/Life30.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books/PragmaticProgrammer.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books/Pillars.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/books/Bible.html</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/about.html</loc>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/archives.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/2018/04/21/travel-map-cartopy/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/cartopy.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/map.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/python.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/matplotlib.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/2018/04/03/filter-table/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/html.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/javascript.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/web.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/tablefilter.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/2018/03/25/xlwings-mortgage/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/pandas.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/xlwings.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/excel.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/2018/03/15/makefiles/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/makefile.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/make.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/2018/02/14/carpet-plots/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/carpet.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/plotly.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/pdmelt.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/3dplot.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/2016/12/17/travel-map-basemap/</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/blog/tag/basemap.html</loc>
+  <lastmod>2018-04-21T22:21:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://matthewkudija.com/reading</loc>
-  <lastmod>2018-01-15T12:19:48+00:00</lastmod>
+  <lastmod>2018-04-22T18:36:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://matthewkudija.com/General-Examples/Web/HTML_Table_Filter/index.html</loc>
+  <lastmod>2018-04-03T23:53:51+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
