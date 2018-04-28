@@ -50,6 +50,7 @@ See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882
 - to change button appearance, customize class "bigfoot-footnote__button" properties in [`bigfoot-default.css`](assets/css/bigfoot-default.css)
 - to change popup appearance, customize class "bigfoot-footnote__content" properties in [`bigfoot-default.css`](assets/css/bigfoot-default.css)
 
+
 ## 5. Update Books
 1. write book review in markdown
 	* See [easybib](http://www.easybib.com/guides/citation-guides/chicago-turabian/footnotes/) exmple for footnote formatting: `Henry James, The Ambassadors (Rockville: Serenity, 2009), 34-40.` Footnotes in Markdown use this format:
@@ -71,12 +72,19 @@ See [this commit](https://github.com/mkudija/mkudija.github.io/commit/8f6ed3f882
 python markdown2.py -x footnotes,smarty-pants,cuddled-lists,target-blank-links FNAME.md > FNAME.html
 ```
 
+
 ## 6. Update Reading
 Run [`reading.py`](/reading/reading.py) to covert book list from Markdown to HTML. This also generates a plot.
 
 ```
 python reading.py
 ```
+
+
+## 7. Particle background
+- Add particle background from http://jnicol.github.io/particleground/
+- Config ~380 in `assets/js/jquery.particleground.js`
+
 
 <h1 id="examples">Example Websites</h1>
 
