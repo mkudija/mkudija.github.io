@@ -16,9 +16,9 @@ def build(shortName, title, author, ISBN, yearPublished, yearRead):
         head[line] = head[line].replace('#SHORTNAME#',shortName)
         head[line] = head[line].replace('#TITLE#',title)
         head[line] = head[line].replace('#AUTHOR#',author)
-        head[line] = head[line].replace('#ISBN#',ISBN)
-        head[line] = head[line].replace('#YEARPUBLISHED#',yearPublished)
-        head[line] = head[line].replace('#YEARREAD#',yearRead)
+        head[line] = head[line].replace('#ISBN#',str(ISBN))
+        head[line] = head[line].replace('#YEARPUBLISHED#',str(yearPublished))
+        head[line] = head[line].replace('#YEARREAD#',str(yearRead))
             
     with open(shortName+'.md') as f:
         md = [x.strip('') for x in f]

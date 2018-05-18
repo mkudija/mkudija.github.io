@@ -33,3 +33,8 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > Make books your treasures and bookshelves your gardens of delight.  <br> —Judah ibn Tibbon[^tibbon]
 
 [^tibbon]: 12th century Judaic scholar Judah ibn Tibbon, quoted in David Sax, [*The Revenge of Analog*](https://www.amazon.com/Revenge-Analog-Real-Things-Matter/dp/1610398211/ref=sr_1_1?ie=UTF8&qid=1523234526&sr=8-1&keywords=the+revenge+of+analog&dpID=61fE-QEXQdL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Perscus Books, 2016), 121.
+
+
+> Can a dwelling place without books ever truly be a home?  <br> —Michael D. O'Brien[^obrien]
+
+[^obrien]: Michael D. O'Brien, [*The Island of the World*](https://www.amazon.com/Island-World-Michael-D-OBrien/dp/1586174908/ref=sr_1_1?ie=UTF8&qid=1526629279&sr=8-1&keywords=island+of+the+world) (San Francisco: Ignatius, 2007), 777.
