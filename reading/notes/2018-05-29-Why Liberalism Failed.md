@@ -48,7 +48,23 @@
 
 
 ## Chapter 2 - Uniting Individualism and Statism
-- 
+- despite apparent differences, left and right share two primary continutities (46-47): 
+  - philosophical: the state plays a primary role in the expansion of individualism
+  - practical and political: the project strengthens the state and individualism
+
+
+## Chapter 3 - Liberalism as Anticulture
+- liberalism uproots the underpinnings of culture (nature, time, place) and replaces them with false images (66)
+- conquest of **nature**
+  - liberalism views the base state of man as without culture, though Deneen cites the ancients in saying this isn't the case and culture (control of desires) helps us flourish
+  - "The effect is at once to liberate humans from acknowledgement of nature's limits while rendering culture into wholly relativistic belief and practice, untethered from anything universal or enduring." (71)
+- **time** (or timelessness)
+  - we used to think of time as cyclical, but liberalism thinks of time as linear and cares less both for the past and for the future in an extreme form of presentism (74+)
+  - "Culture educates us about our generational debts and obligations." (77)
+- **place** (or placelessness)
+  - for liberalism, our default condition is homelessness (78)
+  - Wendell Berry: the constraints of place and community make family life possible (78-79)
+  - nmb
 
 
 
