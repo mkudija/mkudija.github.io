@@ -64,10 +64,23 @@
 - **place** (or placelessness)
   - for liberalism, our default condition is homelessness (78)
   - Wendell Berry: the constraints of place and community make family life possible (78-79)
-  - nmb
 
 
+## Chapter 4 - Technology and the Loss of Liberty
+- instead of the vision of technology freeing us, we instead might fear that technology will rule or destroy us. Technology as something that changes us and is inevitable (93)
+- at the very least, technology is transforming us (cf. Nicholas Carr, 94)
+- Turkle's *Alone Together* and the destruction of real community (94-95)
+- Postman's *Technopoly*: "Tools are not integrated into the culture; they attack the culture. They bid to *become* the culture. As a consequence, tradition...politics, ritual, and religion have to fight for their lives." (96)
+- he discusses how technology both "flattens" and homogenizes the world, and how there is an attitude of the inevitability of technological progress for better or for worse (97-98)
+- "Our political technology [i.e. liberalism] is the operating system that creates the environment in which various technological programs may thrive, and that the operating system was itself the result of a teransforation of the definition and understanding of liberty." (103)
+- discussion of technology as enabling built-in American propensity for isolation: loneliness enabled by Facebook, and living arrangements (loss of the front porch) enabled by cars and suburbia (104-105)
+- Amish eschew technology if it will damage their community life; Marglin's *The Dismal Science: How Thinking Like and Economist Undermines Community*
+- Deneen makes the point that technology—in spite of the apparent abundance of choice it provides—actually makes us less free (107-109)
+- Deneen's conclusion: "We are certainly right to congratulate ourselves for the successes of our technology, but we are also right to worry about the costs of our technological society. Our 'culture of technology' was premised, from the very start, on a false definition of liberty, and it now seems to be leading us ineluctably into a condition of bondage to the consequences of our own fantasy." (109)
 
+
+## Chapter 5 - Liberalism Against the Liberal Arts
+- 
 
 
 
