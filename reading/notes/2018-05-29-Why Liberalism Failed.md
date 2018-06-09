@@ -80,6 +80,22 @@
 
 
 ## Chapter 5 - Liberalism Against the Liberal Arts
+- liberalism detaches liberal education from culture and undermines it by changing the definition of liberty (self-government replaced with personal autonomy) (110-111)
+- "liberal" arts based on a pre-modern understanding of "liberal": the liberal arts make us free by releasing us from our base desires for something greater (113)
+- "At the heart of the liberal arts...was an education in what it meant to be human, above all how to achieve freedom, not only from external restraint but from the tyrrany of internal appetite and desire." (115)
+- mission of universities moved from "cultivation of the mind in virtue" to research and conquering nature (117-118)
+- liberal arts of old would object to the new paradigm: "at the end of the path of liberation lies enslavement. Such liberation from all obstacles is finally illusory, for two simple reasons: human appetite is insatiable and the world is limited...We can never attain satiation, and will be eternally driven by our desires rather than satisfied by their attainment." (125-126)
+
+
+## Chapter 6 - The New Aristocracy
+- in liberalism: increased inequality is justified by increased absolute economic opportunity for all as well as the "theoretical possibility of class mobility" (137-138)
+
+
+## Chapter 7 - The Degredation of Citizenship
+- 
+
+
+## Conclusion - Liberty After Liberalism
 - 
 
 
