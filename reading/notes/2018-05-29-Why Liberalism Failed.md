@@ -1,6 +1,9 @@
 # *Why Liberalism Failed* by Patrick J. Deneen
 
-(New Yaven: Yale, 2018), 198
+(New Haven: Yale, 2018), 198
+
+## My Summary
+This book gives one a lot to think about, and more to do. Deneen argues that liberalism has failed becuase it has been too successful at what it preaches itself. This book is a detailed analysis of how and why it has failed, and a hint toward what can be done about it. Deneen says that liberalism is founded on a false anthropology, which must be recovered if we are to flourish. Humans are made for relationship and to live in harmonty with nature. The task for us is large and yet simple: we must focus on living well and building local culture and community.
 
 ## Preface
 - "...the better course lies not in any political revolution but in the patient encouragement of new forms of community that can serve as havens in our depersonalized political and economic order. As the Czech dissident Václav Havel wrote in "The Power of the Powerless": 'A better system will not automatically ensure a better life. In fact, the opposite is true: only by creating a better life can a better system be developed.'" (xv)
@@ -92,12 +95,20 @@
 
 
 ## Chapter 7 - The Degredation of Citizenship
-- 
+- liberalism and democracy are not the same thing, and in fact some proponents of liberalism suggest limiting democracy to further the liberal agenda (155-158)
+- the degredation of citizenship moves us farther from Toqueville's ideal of self-rule and toward desire for a strongman autocrat, something proponents of liberalism rightly fear (176-178) 
 
 
 ## Conclusion - Liberty After Liberalism
+- two possible ends of liberalism (180-181):
+  - liberal order by fiat, and an all-encompassing state run by a select few
+  - the replacement of liberalism with something else, potentially much worse, authoritatian, etc. 
+- Deneen proposes a tentative sketch of an alternative (182-183):
+  - You can't just go back: Acknowledge what liberalism has achieved but also its limitations
+  - Outgrow ideology and focus on culture and community
+  - Develop a better theory of politics and society
+- good quote about stay at home mom's on 187
 - 
-
 
 
 
