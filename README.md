@@ -16,18 +16,30 @@ Content © 2005-2018 Matthew Kudija
 
 ## 1. Set Up GitHub Pages
 
-## 2. Download HTML5 UP Theme
+## 2. Download Theme
+- Find and download a theme. One of the ones from [HTML5UP](https://html5up.net/) would be good.
+- Customize theme to your liking
 
 ## 3. Set Up Extras
 ### 404.html
 ### CNAME
+If you want a custom domain (i.e. matthewkudija.com instead of mkudija.github.io), perform the following:
+1. Buy the domain from your preferred DNS provider. I use Host Gator.
+2. Add a [CNAME](CNAME) file to your directory. This should contain just the domain: `matthewkudija.com`. 
+3. Configure the A-record with the DNS provider to point to GitHub pages. I called Host Gator customer service and they got it set up. Refer to the [documentation](https://help.github.com/articles/setting-up-an-apex-domain/). 
+
 ### favicon.ico
+Create or find a square image to use as your favicon. Go to one of the many favicon generator sites (such as [this](https://realfavicongenerator.net/)) to generate your favicon.
+
 ### robots.txt
 I added a robots.txt but removed it after seeing that it messed up Google search results
+
 ### sitemap.xml
 I added a sitemap to aid in searching (and perhaps eventually get sitelinks on the search result) from [xml-sitemaps.com](https://www.xml-sitemaps.com)
+
 ### meta tag
 I updated the meta tag to improve search results.
+\
 ### Google Analytics
 Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get your unique tracking ID (mine is `UA-72240498-1`) and then copy the required code in to your HTML pages:
 
