@@ -26,7 +26,12 @@ Content © 2005-2018 Matthew Kudija
 If you want a custom domain (i.e. matthewkudija.com instead of mkudija.github.io), perform the following:
 1. Buy the domain from your preferred DNS provider. I use Host Gator.
 2. Add a [CNAME](CNAME) file to your directory. This should contain just the domain: `matthewkudija.com`. 
-3. Configure the A-record with the DNS provider to point to GitHub pages. I called Host Gator customer service and they got it set up. Refer to the [documentation](https://help.github.com/articles/setting-up-an-apex-domain/). 
+3. Configure the A-record with the DNS provider to point to GitHub pages. I called Host Gator customer service and they got it set up. Refer to the [documentation](https://help.github.com/articles/setting-up-an-apex-domain/).
+4. For Hostgator, set nameservers as:
+- NS1.LAUNCHPAD.COM 
+- NS2.LAUNCHPAD.COM
+- NS3.LAUNCHPAD.COM 
+- NS4.LAUNCHPAD.COM
 
 ### favicon.ico
 Create or find a square image to use as your favicon. Go to one of the many favicon generator sites (such as [this](https://realfavicongenerator.net/)) to generate your favicon.
@@ -126,6 +131,9 @@ python reading.py
 - [Michael Herman](http://mherman.org/about)
 - [Nipun Batra](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
 - [Jason Davies](https://www.jasondavies.com/)
+- [Daniel Rothenberg](http://www.danielrothenberg.com)
+- [Dominik Moritz](https://www.domoritz.de/)
+- [Kanit "Ham" Wongsuphasawat](https://kanitw.github.io/)
 
 
 
