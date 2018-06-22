@@ -2544,6 +2544,43 @@
 
 	/* Icon */
 
+	/*.fa-facebook:before{content:url("../../images/Milestone.png")}
+	.fa-youtube:before{content:url("../../images/SpaceX.png")}
+	.fa-pinterest:before{content:url("../../images/NotreDame.png")}
+	.fa-tumblr:before{
+		content:url("../../images/NotreDame.png");
+		width: 100px;
+		height: 100px;
+	}*/
+
+	
+	.fa-facebook:before{
+		content: ''; /*Remove default icon*/ 
+		display: inline-block;
+		width: 100px;
+		height: 100px;
+		background: url('../../images/Milestone.png') center center no-repeat;
+	}
+
+	.fa-youtube:before{
+		content: ''; /*Remove default icon*/ 
+		display: inline-block;
+		width: 150px;
+		height: 100px;
+		background: url('../../images/SpaceX.png') center center no-repeat;
+	}
+
+
+	.fa-tumblr:before{
+		content: ''; /*Remove default icon*/ 
+		display: inline-block;
+		width: 120px;
+		height: 100px;
+		background: url('../../images/NotreDame.png') center center no-repeat;
+	}
+
+
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -3190,7 +3227,7 @@
 		-ms-transform: rotate(45deg);
 		transform: rotate(45deg);
 		border-radius: 0.25rem;
-		border: solid 2px rgba(210, 215, 217, 0.75);
+		border: solid 0px rgba(210, 215, 217, 0.75);
 		content: '';
 		display: block;
 		height: 7em;
