@@ -2544,16 +2544,8 @@
 
 	/* Icon */
 
-	/*.fa-facebook:before{content:url("../../images/Milestone.png")}
-	.fa-youtube:before{content:url("../../images/SpaceX.png")}
-	.fa-pinterest:before{content:url("../../images/NotreDame.png")}
-	.fa-tumblr:before{
-		content:url("../../images/NotreDame.png");
-		width: 100px;
-		height: 100px;
-	}*/
 
-	
+	/*Custom about icons (logos)*/
 	.fa-facebook:before{
 		content: ''; /*Remove default icon*/ 
 		display: inline-block;
