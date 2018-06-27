@@ -54,3 +54,4 @@
 <li><i>Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History</i> by Brian Kilmeade and Don Yaeger</li>
 <li><i>Honey for a Child's Heart (Fourth Edition)</i> by Gladys Hunt</li>
 <li><i>Robinson Crusoe</i> by Daniel Defoe</li>
+<li><i>The Undoing Project: A Friendship That Changed Our Minds</i> by Michael Lewis</li>
