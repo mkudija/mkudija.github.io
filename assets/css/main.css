@@ -3097,7 +3097,8 @@
 	input[type="button"].special:hover,
 	button.special:hover,
 	.button.special:hover {
-		background-color: #f67878;
+		/*background-color: #193b59;*/
+    	box-shadow: 5px 8px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19);
 	}
 
 	input[type="submit"].special:active,
