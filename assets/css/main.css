@@ -1192,7 +1192,12 @@
 	}
 
 	@media screen and (max-width: 480px) {
-
+.img-circle{
+	
+	margin-left:20%;
+	margin-top:20%;
+	margin-bottom:5%;
+}
 		.row > * {
 			padding: 0 0 0 1.5em;
 		}
@@ -2115,7 +2120,11 @@
 		body, input, select, textarea {
 			font-size: 9pt;
 		}
-
+#profile_pic{
+	
+	margin-left:10%;
+	margin-top:10%;
+}
 	}
 
 	a {
@@ -2207,6 +2216,13 @@
 
 	@media screen and (max-width: 736px) {
 
+	#profile_pic{
+	
+	margin-left:10%;
+	margin-top:10%;
+}
+	
+	
 		h1 {
 			font-size: 2em;
 			line-height: 1.4;
@@ -2903,6 +2919,9 @@
 
 	@media screen and (max-width: 480px) {
 
+	
+	
+	
 		ul.pagination li:nth-child(n+2):nth-last-child(n+2) {
 			display: none;
 		}
@@ -4005,9 +4024,15 @@
 	@media screen and (orientation: portrait) and (max-width: 480px) {
 
 		#banner .image {
-			max-height: 35vh;
+			max-height: 30%;
+			max-width: 30%;
+			margin-top:20%;
+			
 		}
-
+		#profile_pic{
+			
+			width:100%;
+		}
 	}
 
 	/* Footer */
