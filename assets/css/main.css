@@ -1,6 +1,8 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
+/*PRIMARY COLOR: #3377b3*/
+
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -2902,11 +2904,13 @@
 	}
 
 	ul.pagination li > .page.active:hover {
-		background-color: #f67878;
+		/*background-color: #f67878;*/
+		background-color: #193b59;
+
 	}
 
 	ul.pagination li > .page.active:active {
-		background-color: #f45c5c;
+		background-color: #3377b3;
 	}
 
 	ul.pagination li:first-child {
@@ -3125,7 +3129,7 @@
 	input[type="button"].special:active,
 	button.special:active,
 	.button.special:active {
-		background-color: #f45c5c;
+		background-color: #3377b3;
 	}
 
 	input[type="submit"].disabled, input[type="submit"]:disabled,
