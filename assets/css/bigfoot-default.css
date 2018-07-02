@@ -12,6 +12,7 @@
   border-radius: 0.3em;
   cursor: pointer;
   background-color: rgba(110, 110, 110, 0.2);
+  /*background-color: #3377b3;*/
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -37,7 +38,8 @@
 }
 
 .bigfoot-footnote__button.is-active {
-  background-color: #6e6e6e;
+  /*background-color: #6e6e6e;*/
+  background-color: #3377b3;
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
 }
@@ -99,8 +101,8 @@
   line-height: 0;
   -webkit-transition-property: opacity, -webkit-transform;
   transition-property: opacity, transform;
-  -webkit-transition-duration: 0.25s;
-  transition-duration: 0.25s;
+  -webkit-transition-duration: 0.125s;
+  transition-duration: 0.125s;
   -webkit-transition-timing-function: ease;
   transition-timing-function: ease;
   -webkit-transform: scale(0.1) translateZ(0);
