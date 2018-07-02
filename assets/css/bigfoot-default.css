@@ -303,7 +303,8 @@
 }
 
 .bigfoot-footnote__button:after {
-  content: attr(data-footnote-number);
+  /*content: attr(data-footnote-number);*/
+  content: "•••";
   position: absolute;
   top: 50%;
   left: 50%;
