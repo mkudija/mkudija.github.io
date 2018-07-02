@@ -1,27 +1,38 @@
 # mkudija.github.io
-> [Matthew Kudija Personal Website](http://matthewkudija.com/)
+> [Matthew Kudija's Personal Website](http://matthewkudija.com/)
 
 ## License
-The basic theme is an adapted version of [Editorial by HTML5 UP](https://html5up.net/editorial).
+The content of this website itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/). The source code used to format and display that content—as well as any code displayed on this website—is licensed under the [MIT license](https://github.com/mkudija/mkudija.github.io/blob/master/LICENSE%20(code).txt). Content and code referenced that was written by others is licenced under the particular licence they chose.
 
-```
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-```
-
-Content © 2005-2018 Matthew Kudija
+See more on my [About](http://matthewkudija.com/about.html) page.
 
 # How It's Made
 
 ## 1. Set Up GitHub Pages
+- Setup your `<user>.github.io` repository.
+- Under **Settings** > **GitHub Pages** you can enable GitHub Pages and select the source as either the master branch (root) of your repository, or the Docs folder. Select one and commit your website assets to that location (`index.html`, assets, etc.)
+- If you have an active website at `<user>.github.io`, enabling GitHub Pages in other repositories on your account will make them visible from your main website. For instance, my website home is [matthewkudija.com](http://matthewkudija.com/), hosted in my [mkudija.github.io](https://github.com/mkudija/mkudija.github.io) repository. My blog is in the [blog](https://github.com/mkudija/blog) repository, and located therefore at [matthewkudija.com/blog](http://matthewkudija.com/blog).
+
 
 ## 2. Download Theme
-- Find and download a theme. One of the ones from [HTML5UP](https://html5up.net/) would be good.
-- Customize theme to your liking
+- Find and download a theme. Some good (free) places to look include:
+  - [HTML5UP](https://html5up.net/)
+  - [Pelican Themes](https://github.com/getpelican/pelican-themes)
+  - Find a website you like and inspect it, or better yet find a site hosted publicly on GitHub pages to view its whole source code.
+- Customize theme to your liking.
+  - This can be little things like changing the colors and typeface to larger things like adding functionality.
+  - You don't need to commit your changes to GitHub to see the results. You can view them locally by right clicking on the file and opening in a web browser. Tip: using Safari you can go to **Develop** > **Enter Responsive Design Mode** to see how your site will look on different screens. This is great for making sure that what you see on a desktop when editing it will work well on mobile.
+  - If you get stuck, it's easy to get help. You can hire someone on Fiverr for as little as $5 ($7 with their fee) to fix an issue on your website. I recommend [musebkhalid](https://www.fiverr.com/musebkhalid/create-remix-update-and-recover-web-pages?ref_ctx_id=1ca3bd97-b64d-4042-90b4-70582610f333).
+- Alternatively, with a little HTML and CSS you can build a simple website yourself from scratch.
 
 ## 3. Set Up Extras
 ### 404.html
+The default 404 page on GitHub pages is this:
+
+![alt text](images/GitHub_404.png)
+
+If you would like a 404 page to match your theme, you can add a custom [`404.html`](https://github.com/mkudija/mkudija.github.io/blob/master/404.html) to your root directory.
+
 ### CNAME
 If you want a custom domain (i.e. matthewkudija.com instead of mkudija.github.io), perform the following:
 1. Buy the domain from your preferred DNS provider. I use Host Gator.
@@ -37,14 +48,19 @@ If you want a custom domain (i.e. matthewkudija.com instead of mkudija.github.io
 Create or find a square image to use as your favicon. Go to one of the many favicon generator sites (such as [this](https://realfavicongenerator.net/)) to generate your favicon.
 
 ### robots.txt
-I added a robots.txt but removed it after seeing that it messed up Google search results
+I added a robots.txt but removed it after seeing that it messed up Google search results.
 
 ### sitemap.xml
-I added a sitemap to aid in searching (and perhaps eventually get sitelinks on the search result) from [xml-sitemaps.com](https://www.xml-sitemaps.com)
+I added a sitemap to aid in searching (and perhaps eventually get sitelinks on the search result) from [xml-sitemaps.com](https://www.xml-sitemaps.com).
 
 ### meta tag
 I updated the meta tag to improve search results.
-\
+
+```html
+<meta name="description" content="add a description of your site here">
+<meta name="keywords" content="add, some, keywords, you, want, here"> 
+```
+
 ### Google Analytics
 Set up [Google Analytics](https://analytics.google.com/analytics/web/) to get your unique tracking ID (mine is `UA-72240498-1`) and then copy the required code in to your HTML pages:
 
@@ -104,6 +120,7 @@ python reading.py
 
 
 <h1 id="examples">Example Websites</h1>
+This website is inspired by a number of others, including those below:
 
 - [Knight Lab](https://knightlab.northwestern.edu/), including [Juxtapose for comparing images](https://juxtapose.knightlab.com/) and a [cool book timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wNbJv1Zf4Oichj3-dEQXE_lXVCwuYQjaoyU1gGQQqk4&font=Default&lang=en&start_at_end=true&initial_zoom=2&height=650)
 - [Chris Moffitt](http://pbpython.com/)
@@ -136,11 +153,7 @@ python reading.py
 - [Kanit "Ham" Wongsuphasawat](https://kanitw.github.io/)
 
 
-
-
-
-
-
-
-
-
+# Other Sites I've Built*
+*Built as in put together from a lot of other people's work and a little fiddling myself
+- [tappertoolco.com](http://tappertoolco.com/)
+- [kudijakitchen.com](http://kudijakitchen.com/)
