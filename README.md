@@ -151,6 +151,7 @@ This website is inspired by a number of others, including those below:
 - [Daniel Rothenberg](http://www.danielrothenberg.com)
 - [Dominik Moritz](https://www.domoritz.de/)
 - [Kanit "Ham" Wongsuphasawat](https://kanitw.github.io/)
+- [Michael Fogleman](https://www.michaelfogleman.com/)
 
 
 # Other Sites I've Built*
