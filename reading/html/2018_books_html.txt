@@ -57,3 +57,6 @@
 <li><i>The Undoing Project: A Friendship That Changed Our Minds</i> by Michael Lewis</li>
 <li><i>Stephen Biesty's Incredible Cross-Sections</i> by Stephen Biesty & Richard Platt</li>
 <li><i>A Place on Earth</i> by Wendell Berry</li>
+<li><i>The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932</i> by William Manchester</li>
+<li><i>Everything Happens for a Reason: And Other Lies I've Loved</i> by Kate Bowler</li>
+<li><i>33 Men: Inside the Miraculous Survival and Dramatic Rescue of the Chilean Miners</i> by Jonathan Franklin</li>

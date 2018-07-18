@@ -38,3 +38,8 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > Can a dwelling place without books ever truly be a home?  <br> —Michael D. O'Brien[^obrien]
 
 [^obrien]: Michael D. O'Brien, [*The Island of the World*](https://www.amazon.com/Island-World-Michael-D-OBrien/dp/1586174908/ref=sr_1_1?ie=UTF8&qid=1526629279&sr=8-1&keywords=island+of+the+world) (San Francisco: Ignatius, 2007), 777.
+
+> If you cannot read all your books, at any rate handle, or, as it were, fondle them—peer into them, let them fall open where they will, read from the first sentence that arrests the eye, set them back on their shelves with your own hands, arrange them on your own plan so that if you do not know what is in them, you will at least know where they are. Let them be your friends; let them at any rate be your acquaintances.<br> —Winston S. Churchill[^manchester]
+
+[^manchester]: William Churchill, quoted in William Manchester, [*The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932*](https://www.amazon.com/Last-Lion-Winston-Churchill-1874-1932/dp/0385313489/ref=sr_1_1?ie=UTF8&qid=1531938182&sr=8-1&keywords=the+last+lion+visions+of+glory) (New York: Little, Brown and Company, 1983), 31.
+
