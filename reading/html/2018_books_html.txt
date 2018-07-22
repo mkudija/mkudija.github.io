@@ -61,3 +61,4 @@
 <li><i>Everything Happens for a Reason: And Other Lies I've Loved</i> by Kate Bowler</li>
 <li><i>33 Men: Inside the Miraculous Survival and Dramatic Rescue of the Chilean Miners</i> by Jonathan Franklin</li>
 <li><i>The Screwtape Letters</i> by C.S. Lewis</li>
+<li><i>From Islam to Christ</i> by Derya Little</li>
