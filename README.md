@@ -44,6 +44,14 @@ If you want a custom domain (i.e. matthewkudija.com instead of mkudija.github.io
 - NS3.LAUNCHPAD.COM 
 - NS4.LAUNCHPAD.COM
 
+#### GitHub Pages HTTPS
+
+Info [here](https://help.github.com/articles/troubleshooting-custom-domains/#https-errors). Set A-records as such:
+- 185.199.108.153
+- 185.199.109.153
+- 185.199.110.153
+- 185.199.111.153
+
 ### favicon.ico
 Create or find a square image to use as your favicon. Go to one of the many favicon generator sites (such as [this](https://realfavicongenerator.net/)) to generate your favicon.
 
