@@ -62,3 +62,8 @@
 <li><i>33 Men: Inside the Miraculous Survival and Dramatic Rescue of the Chilean Miners</i> by Jonathan Franklin</li>
 <li><i>The Screwtape Letters</i> by C.S. Lewis</li>
 <li><i>From Islam to Christ</i> by Derya Little</li>
+<li><i>The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life</i> by Mark Manson</li>
+<li><i>Brideshead Revisited</i> by Evelyn Waugh</li>
+<li><i>Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon</i> by Robert Kurson</li>
+<li><i>Mr. Midshipman Hornblower (#1)</i> by C. S. Forester</li>
+<li><i>Winnie-the-Pooh</i> by A. A. Milne</li>
