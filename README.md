@@ -152,6 +152,7 @@ This website is inspired by a number of others, including those below:
 - [Dominik Moritz](https://www.domoritz.de/)
 - [Kanit "Ham" Wongsuphasawat](https://kanitw.github.io/)
 - [Michael Fogleman](https://www.michaelfogleman.com/)
+- [Vicki Boykis](http://veekaybee.github.io/)
 
 
 # Other Sites I've Built*
