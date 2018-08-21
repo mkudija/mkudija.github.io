@@ -67,3 +67,4 @@
 <li><i>Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon</i> by Robert Kurson</li>
 <li><i>Mr. Midshipman Hornblower (#1)</i> by C. S. Forester</li>
 <li><i>Winnie-the-Pooh</i> by A. A. Milne</li>
+<li><i>The Organized Mind: Thinking Straight in the Age of Information Overload</i> by Daniel J. Levitin</li>
