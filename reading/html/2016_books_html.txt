@@ -5,7 +5,7 @@
 <li><i>The Coldest Winter: America and the Korean War</i> by David Halberstam </li>
 <li><i>How to Read Churches: A Crash Course in Ecclesiastical Architecture</i> by Dennis R. McNamara</li>
 <li><i>Meditations</i> by Marcus Aurelius </li>
-nan
+<li><i>The Autobiography of St. Ignatius Loyola</i></li>
 <li><i>Solar Power Demystified: The Beginners Guide to Solar Power, Energy Independence, and Lower Bills</i> by Lacho Pop and Dimi Avram</li>
 <li><i>Thinking in Systems</i> by Donella H. Meadows</li>
 <li><i>You Can't Predict A Hero: From War to Wall Street, Leading in Times of Crisis</i> by Joseph J. Grano, Jr.</li>
@@ -20,14 +20,14 @@ nan
 <li><i>Master and Commander</i> by Patrick O'Brian</li>
 <li><i>Being Geek: The Software Developer's Career Handbook</i> by Michael Lopp</li>
 <li><i>Predictably Irrational</i> by Dan Ariely</li>
-nan
+<li><i>The Autobiography of Mark Twain</i></li>
 <li><i>Amoris Laetitia</i> by Pope Francis</li>
 <li><i>American Sniper</i> by Chris Kyle</li>
 <li><i>The Vatican Pimpernal: the WWII Exploits of the Monsignor Who Saved Over 6,500 Lives</i> by Brian Fleming</li>
 <li><i>Tattoos on the Heart: The Power of Boundless Compassion</i> by Fr. Gregory Boyle</li>
 <li><i>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</i> by Malcolm Gladwell</li>
 <li><i>Seven Brief Lessons on Physics</i> by Carlo Rovelli</li>
-nan
+<li><i>Long Walk to Freedom: The Autobiography of Nelson Mandela</i></li>
 <li><i>All The Light We Cannot See</i> by Anthony Doerr</li>
 <li><i>The Book Thief</i> by Markus Zuskar</li>
 <li><i>Confessions of an Economic Hit Man</i> by John Perkins</li>
@@ -56,7 +56,7 @@ nan
 <li><i>Deep Work: Rules for Focused Success in a Distracted World</i> by Cal Newport</li>
 <li><i>His Needs Her Needs: Building an Affair-Proof Marriage</i> by Willard F. Harley, Jr.</li>
 <li><i>Benjamin Franklin: An American Life</i> by Walter Isaacson</li>
-nan
+<li><i>The Constitution of the United States</i></li>
 <li><i>The Seven Laws of Magical Thinking: How Irrational Beliefs Keep Us Happy, Healthy, and Sane</i> by Matthew Hutson</li>
 <li><i>Walden</i> by Henry David Throeau</li>
 <li><i>Data Science From Scratch</i> by Joel Grus</li>
@@ -85,4 +85,4 @@ nan
 <li><i>An Outline of European Architecture</i> by Nikolaus Pevsner</li>
 <li><i>Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life</i> by William Deresiewicz</li>
 <li><i>Modeling Aircraft Loan & Lease Portfolios</i> by Nils Hallerst</li>
-nan
+<li><i>New American Bible, Revised Edition (Luke, John, Romans, 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1-2 Thessalonians, 1 Timothy, Titus, Philemon)</i></li>

@@ -9,5 +9,5 @@
 <li><i>The Hound of the Baskervilles</i> by Sir Arthur Conan Doyle</li>
 <li><i>Lord of the Flies</i> by William Golding</li>
 <li><i>The Canterbury Tales</i> by Chaucer</li>
-nan
+<li><i>Beowulf</i></li>
 <li><i>Gulliver's Travels</i> by Jonathan Swift</li>

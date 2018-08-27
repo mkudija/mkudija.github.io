@@ -100,4 +100,4 @@
 <li><i>Artemis</i> by Andy Weir</li>
 <li><i>Meditations for Advent</i> by Jacques-Bénigne Bossuet</li>
 <li><i>Virtually Normal: An Argument about Homosexuality</i> by Andrew Sullivan</li>
-nan
+<li><i>New American Bible, Revised Edition (Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1-2 Peter, 1-3 John, Jude)</i></li>

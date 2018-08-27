@@ -1,15 +1,18 @@
 import numpy as np
 import pandas as pd
+import shutil
 from pathlib import Path
 
 
 def write_html(df, year):
-    df = df[df['Read']==year]
-    df['html'] = '<li><i>'+df['Title']+'</i> by '+df['Author']+'</li>'
+    df = df[df['Read']==year].fillna('no author')
+    df['html'] = np.where(df['Author']=='no author',
+        '<li><i>'+df['Title']+'</i></li>',
+        '<li><i>'+df['Title']+'</i> by '+df['Author']+'</li>')
 
     html_file = open('html/'+str(year)+'_books_html.txt', 'w')
     for row in range(df.shape[0]):
-        book = df.loc[df.index[row],'html']
+        book = str(df.loc[df.index[row],'html'])#.replace('nan','')
         html_file.write("%s\n" % book)
     html_file.close()
 
@@ -28,6 +31,13 @@ def write_html(df, year):
 
 def plot_books(df, years, bookForecast):
     import matplotlib.pyplot as plt
+
+    print('\nPlotting...')
+
+    # don't plot 2005 and before
+    df = df[df['Read']!=2005]
+    years = years[1:]
+
     number = []
     for year in years:
         df_count = df[df['Read']==year]
@@ -42,6 +52,57 @@ def plot_books(df, years, bookForecast):
         plt.text(years[item], -6, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
     fig.set_size_inches(12, 4)
     fig.savefig(str(GitHubPath)+'/mkudija.github.io/images/book_plot.png', bbox_inches='tight')
+
+
+def copy_file(src, dst):
+    """Copy file from src to dst.
+    """
+    src = str(src)
+    dst = str(dst)
+    shutil.copy(src, dst)
+
+
+def insert_text_in_file(originalPath, addPath, insertionPoint):
+    """Inserts text from add into original at insertionPoint    
+    """
+    # read original 
+    f = open(originalPath, "r")
+    contents = f.readlines()
+    f.close()
+
+    # read add 
+    f = open(addPath, "r")
+    add = f.readlines()
+    f.close()
+
+    # get index of insertionPoint
+    i=0
+    for line in contents:
+        if insertionPoint in line:
+            index = i
+        i+=1
+
+    # add text
+    contents[index:index] = add
+
+    # write original with addition
+    f = open(originalPath, "w")
+    contents = "".join(contents)
+    f.write(contents)
+    f.close()
+
+
+def construct_index(years, pathOutput):
+    """Copies reading.html to pathOutput, and constructs page using years.
+    """
+
+    # copy index from template
+    copy_file('reading.html', pathOutput)
+
+    for year in years:
+        addPath = 'html/'+str(year)+'_books_html.txt'
+        insertionPoint = '<!-- ADD '+str(year)+' READING -->'
+        insert_text_in_file(pathOutput, addPath, insertionPoint)
 
 
 if __name__ == "__main__":
@@ -59,4 +120,7 @@ if __name__ == "__main__":
     
     plot_books(df, years, bookForecast)
 
-    print('Done.')
+    print('\nBuilding reading.html...')
+    construct_index(years, pathOutput='../reading.html')
+
+    print('\nDone.')

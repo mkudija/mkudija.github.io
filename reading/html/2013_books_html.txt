@@ -7,7 +7,7 @@
 <li><i>In the Name of Jesus</i> by Henri Nouwen</li>
 <li><i>The Complete Thinker: The Marvelous Mind of G.K. Chesterton</i> by Dale Ahlquist</li>
 <li><i>Talent is Overrated</i> by Geoff Colvin</li>
-nan
+<li><i>Vocation of the Business Leader</i></li>
 <li><i>Mere Christianity</i> by C.S. Lewis</li>
 <li><i>Getting It Right</i> by Viva Barktus and Ed Conlon</li>
 <li><i>The Art of Innovation</i> by Tom Kelley</li>
@@ -19,10 +19,10 @@ nan
 <li><i>The Life You Can Save</i> by Peter Singer</li>
 <li><i>Holy Cross and Christian Education</i> by Fr. James B. King, C.S.C.</li>
 <li><i>No Man Is an Island</i> by Thomas Merton</li>
-nan
+<li><i>St. Anselm's Proslogion</i></li>
 <li><i>Navigating the Interior Life</i> by Daniel Burke</li>
 <li><i>The Prince</i> by Niccolo Machiavelli</li>
-nan
+<li><i>Story of a Soul: The Autobiography of St. Therese of Lisieux</i></li>
 <li><i>The Jesuit Guide to (Almost) Everything</i> by James Martin, SJ</li>
 <li><i>Getting to Yes</i> by Roger Fisher and William Ury</li>
 <li><i>Negotiation Genius</i> by Deepak Malhotra and Max H. Bazerman</li>

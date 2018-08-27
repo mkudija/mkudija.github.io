@@ -16,7 +16,7 @@
 <li><i>Call of the Wild</i> by Jack London</li>
 <li><i>The Help</i> by Kathryn Stockett</li>
 <li><i>East to the Dawn: The Life of Amelia Earhart</i> by Susan Butler</li>
-nan
+<li><i>The Reverse of the Metal</i></li>
 <li><i>Design of Aircraft</i> by Thomas Corke</li>
 <li><i>The Elements of Preliminary Aircraft Design</i> by Roger Schaufele</li>
 <li><i>What the CEO Wants You To Know</i> by Ram Charan</li>

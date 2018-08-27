@@ -37,5 +37,5 @@
 <li><i>Live Today Well: St. Francis de Sales's Simple Approach to Holiness</i> by Fr. Thomas F. Dailey, O.S.F.S.</li>
 <li><i>Meditations for Advent</i> by Jacques-Bénigne Bossuet</li>
 <li><i>The Rosary of Our Lady</i> by Romano Guardini</li>
-nan
-nan
+<li><i>Catechism of the Catholic Church</i></li>
+<li><i>New American Bible, Revised Edition (complete)</i></li>

@@ -1,8 +1,8 @@
 <li><i>Human Spaceflight: Mission Analysis and Design</i> by edited by Wiley J. Larson and Linda K. Pranke</li>
 <li><i>Lumen Fidei</i> by Pope Francis</li>
-nan
-nan
-nan
+<li><i>Dei Verbum</i></li>
+<li><i>Lumen Gentium</i></li>
+<li><i>Sacrosanctum Concilium</i></li>
 <li><i>*Foundations of Strength* and *Transform Your Habits*</i> by James Clear</li>
 <li><i>Change by Design</i> by Tim Brown and Barry Katz</li>
 <li><i>The Chronicles of Narnia: The Magician's Nephew</i> by C.S. Lewis</li>
