@@ -70,3 +70,4 @@
 <li><i>The Organized Mind: Thinking Straight in the Age of Information Overload</i> by Daniel J. Levitin</li>
 <li><i>The Magnolia Story</i> by Chip & Joanna Gaines</li>
 <li><i>The Practice of the Presence of God (Paraclete Essentials)</i> by Brother Lawrence & Hal M. Helms (Editor), Robert J. Edmonson (Translator)</li>
+<li><i>The End of Big: How the Internet Makes David the New Goliath</i> by Nicco Mele</li>
