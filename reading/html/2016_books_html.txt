@@ -76,7 +76,7 @@
 <li><i>Grit: The Power of Passion and Perseverance</i> by Angela Duckworth</li>
 <li><i>The Early History of Rome (Book I)</i> by Livy</li>
 <li><i>Perelandra</i> by C.S. Lewis</li>
-<li><i>The Letters of J.R.R. Tolkien</i> by edited by Humphrey Carpenter</li>
+<li><i>The Letters of J.R.R. Tolkien</i> edited by Humphrey Carpenter</li>
 <li><i>The Library: A World History</i> by James W. P. Campbell</li>
 <li><i>The Dream of Reason: A History of Philosophy from the Greeks to the Renaissance</i> by Anthony Gottlieb</li>
 <li><i>Dracula</i> by Bram Stoker</li>

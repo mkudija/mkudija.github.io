@@ -70,7 +70,7 @@
 <li><i>Things I Wish I’d Know Before We Got Married</i> by Gary Chapman</li>
 <li><i>Wolf Hall</i> by Hilary Mantel</li>
 <li><i>Life 3.0: Being Human in the Age of Artificial Intelligence</i> by Mark Tegmark</li>
-<li><i>The World's Great Catholic Literature</i> by edited by George N. Shuster</li>
+<li><i>The World's Great Catholic Literature</i> edited by George N. Shuster</li>
 <li><i>Till We Have Faves: A Myth Retold</i> by C.S. Lewis</li>
 <li><i>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</i> by Matthew B. Crawford</li>
 <li><i>Our Mathematical Universe: My Quest for the Ultimate Nature of Reality</i> by Max Tegmark</li>

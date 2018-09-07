@@ -9,6 +9,7 @@ def write_html(df, year):
     df['html'] = np.where(df['Author']=='no author',
         '<li><i>'+df['Title']+'</i></li>',
         '<li><i>'+df['Title']+'</i> by '+df['Author']+'</li>')
+    df['html'] = df['html'].str.replace('by edited','edited')
 
     html_file = open('html/'+str(year)+'_books_html.txt', 'w')
     for row in range(df.shape[0]):
