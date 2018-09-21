@@ -2,11 +2,11 @@
 
 (Scottsdale: Plata, 1997), 351
 
-For example, one dad had a habit of saying, “I can’t afford it.” The other dad forbade those words to be used. He insisted I ask, “How can I afford it?” (location. 130)
 
-“I don’t work for money!” were words he would repeat over and over. “Money works for me!” (location. 175)
-
-Money is one form of power. But what is more powerful is financial education. Money comes and goes, but if you have the education about how money works, you gain power over it and can begin building wealth. (location. 201)
+# Introduction
+- For example, one dad had a habit of saying, “I can’t afford it.” The other dad forbade those words to be used. He insisted I ask, “How can I afford it?” (location. 130)
+- “I don’t work for money!” were words he would repeat over and over. “Money works for me!” (location. 175)
+- Money is one form of power. But what is more powerful is financial education. Money comes and goes, but if you have the education about how money works, you gain power over it and can begin building wealth. (location. 201)
 
 # Chapter One LESSON 1: THE RICH DON’T WORK FOR MONEY 
 *The poor and the middle class work for money. The rich have money work for them.*
