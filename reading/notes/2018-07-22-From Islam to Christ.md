@@ -43,3 +43,21 @@
 - the vision she sees of God offering us a greater gift but us refusing it because we have a small gift to keep us company for now (similar to Lewis's house) (118)
 - science and reason (88, 150, etc.)
 - beautiful discussion of being a stay-at-home mom (197+)
+
+
+## From Her Talk
+
+*Columbus Catholic Conversations, August 25, 2018*
+
+- Chesterton: "The riddles of God are more satisfying than the solutions of man."
+- on the sexual abuse crisis: "there is nowhere to go except the church"
+- the lack of conversions from Islam is due to servile fear (vs. filiar fear c.f. Aquinas)
+- "until I moved to the West I never heard that Islam was a religion of peace"
+  - only peace is when everyone worships Allah
+- on reading Marx: "just don't do that to yourself!"
+- her friend Theresa made her realize that Allah is a very small god: no natural law, no science, no consistency
+- Grand Inquisitor: free will and sin
+- Islam and Protestantism are both very Gnostic: the spiritual and natural worlds never meet
+- advice for raising kids: teach them to be skeptics so they can evaluate and embrace faith for themselves
+- Islam is a disease > you get attacked when your immunity is down; watered down Christianity and secularism don't have anything substantial to offer to people look at Islam
+  - "the only thing that will save the West is a strong Catholic Church"
