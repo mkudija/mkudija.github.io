@@ -1,4 +1,4 @@
-# [*Commercial Real Estate Investing: A Creative Guide to Succesfully Making Money*](https://www.amazon.com/Commercial-Real-Estate-Investing-Succesfully/dp/B01FGOTTXS/ref=sr_1_4?ie=UTF8&qid=1537539513&sr=8-4&keywords=commercial+real+estate+roos) by Dolf de Roos
+# [*Commercial Real Estate Investing: A Creative Guide to Successfully Making Money*](https://www.amazon.com/Commercial-Real-Estate-Investing-Succesfully/dp/B01FGOTTXS/ref=sr_1_4?ie=UTF8&qid=1537539513&sr=8-4&keywords=commercial+real+estate+roos) by Dolf de Roos
 
 (Hoboken: Wiley, 2008), 291
 
@@ -7,6 +7,7 @@
 - he thinks it's silly to invest in residential real estate when you could invest in commercial real estate (xvii-xx)
   - the vast majority of the wealthy real estate investors he knows work in commercial
   - residential real estate isn't bad (much better than stocks, etc.), but commercial offers better returns and more opportunities for creativity
+- also, author has PhD in EE (43)
 
 # Chapter 1 - What is Commercial Real Estate
 - **Residential** where people live
@@ -45,6 +46,7 @@
   - less management overhead than residential
 
 # Chapter 4 - The Downsides of Commercial Real Estate
+He identifies these common objectives to commercial real estate (and argues against them in ch 6+):
 - Difficult to acquire tenants
   - residential: can always get a tenant if you drop the rent
   - commercial properties are specific to certain types of tenants
@@ -57,3 +59,26 @@
   - If you can double the income, you can double the value of the property
   - Think like this: "The property is being offered with a return of 11% in a market where prevailing cap rates are 10%"
   - cap rates are entirely determined by the market; return is determined by how well you buy
+
+# Chapter 6 - How to Overcome The Disadvantages of Commercial Real Estate
+- to master commercial real estate you need to master attracting tenants (because that is what adds value)
+- the key to building wealth is consistently finding tenants for vacant commercial real estate
+
+# Chapter 7 - How to Attract a Tenant
+- Who wants to run a funeral business?
+  - find a vacant property, then find a tenant and buy the building
+- Finding a warehouse tenant
+  - call all warehouses nearby and ask if they need more/less space
+  - spend $10k to make the manager's office amazing 
+- Power of the Internet
+- Many prospective tenants know your building
+  - hang a huge For Lease banner on every property you have available
+- Using a real estate company
+- Wait for a zone change
+  - get public info on pending zoning changes and take advantage of them
+- Split single into multiple tenants
+  - often you can get higher $ psf 
+- Consolidate multiple tenants into one
+- The ultimate way to attract a tenant
+  - advertise space for lease, then find properties that would be suitable and acquire them for that tenant
+  - attract a tenant first, then find a property for them
