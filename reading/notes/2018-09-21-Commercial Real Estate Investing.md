@@ -46,7 +46,7 @@
   - less management overhead than residential
 
 # Chapter 4 - The Downsides of Commercial Real Estate
-He identifies these common objectives to commercial real estate (and argues against them in ch 6+):
+He identifies these common objectives to commercial real estate (and argues against them in ch 6, 9):
 - Difficult to acquire tenants
   - residential: can always get a tenant if you drop the rent
   - commercial properties are specific to certain types of tenants
@@ -82,3 +82,75 @@ He identifies these common objectives to commercial real estate (and argues agai
 - The ultimate way to attract a tenant
   - advertise space for lease, then find properties that would be suitable and acquire them for that tenant
   - attract a tenant first, then find a property for them
+
+# Chapter 8 - How to Increase Rental Income
+- Helipads
+- Cell phone towers or other rooftop items
+- Naming rights
+- Air space: protect views, billboards
+- Parking
+- Webcam
+- Remodel
+- Alarm systems
+
+# Chapter 9 - What Were the Disadvantages?
+- vacant commercial real estate can be bought for a fraction of what it is worth to you fully leased
+- banks care about rent and cap rate more than acquisition cost
+
+# Chapter 10 - Finding Commercial Real Estate
+- Newspapers
+  - Good attitude: "Great! With incorrect advertisements and a sloppy attitude about turning up at appointments, my competition will be decimated!" (111)
+- Real Estate Firms
+  - talks about strategies for interviewing agents
+  - working with investor agents can have benefits
+- Internet
+- Keep your eyes peeled
+- Networking: you become the company you keep
+- Word of mouth: make a good business card for yourself
+- Helping other people
+- The 100:10:3:1 rule
+
+# Chapter 11 - Analyzing Deals
+- Due diligence: jfinding out enought about a property to make sure it is a good deal
+- Four questions to ask:
+  - What rent is being achieved in the subject property?
+  - What are market rentals in the area?
+  - What does the building cost per square foot to buy?
+  - What is the replacement cost per square foot?
+- good software takes the emotion out of analyzing deals
+
+# Chapter 12 - Negotiating Commercial Real Estate Deals
+- learn as much as you can about the property, the seller, and whey they are selling
+- when situations arise that look like deal breakers, keep your cool and try to figure out a solution that will benefit everyone involved
+- when negotiating rent, don't concede rent but find other options (parking, storage, paint, etc.)
+- always think long-term in your negotiations
+
+# Chatper 13 - Financing Commercial Real Estate
+- write up a "Proposal for Finance" 
+- you offer the mortgage to the bank, and they will—by Cialdini's Law of Reciprocity—want to offer something in return (174)
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
