@@ -126,9 +126,20 @@ He identifies these common objectives to commercial real estate (and argues agai
 - always think long-term in your negotiations
 
 # Chatper 13 - Financing Commercial Real Estate
-- write up a "Proposal for Finance" 
+- write up a "Proposal for Finance"; details in this chapter 
 - you offer the mortgage to the bank, and they will—by Cialdini's Law of Reciprocity—want to offer something in return (174)
-- 
+
+# Chapter 14 - Structureing Commercial Real Estate Ownership
+- LLC: flow-through entity: members pay taxes, not the LLC
+- with the number of options available, consult with an attorney to pick the one best suited to your situation
+
+# Chapter 15 - Managing Commercial Real Estate
+- the ease of managing a commercial property is directly related to the clarity and quality of the lease agreement
+- be firm but fair in enforcing rules; friendly but not familiar
+- pay your contractors right when they complete the job
+
+# Chapter 16 - How to Beat the Average
+-   
 
 
 
