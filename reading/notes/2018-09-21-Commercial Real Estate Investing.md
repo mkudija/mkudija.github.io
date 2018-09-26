@@ -139,7 +139,40 @@ He identifies these common objectives to commercial real estate (and argues agai
 - pay your contractors right when they complete the job
 
 # Chapter 16 - How to Beat the Average
--   
+- pick geographies that have highest growth rates
+- zone changes that open up new commercial space
+- invest in downtown, land-locked areas
+
+# Chapter 17 - Raw Land
+
+# Chapter 18 - Extraordinarily Odd Commercial Real Estate Deals
+- oil and shellfish
+
+# Chapter 19 - Property Ventures Limited
+
+# Chapter 20 - Never Sell
+- why not just sell to reinvest into another property?
+  - when you sell you pay taxes (...but not 1031)
+  - you could release equity by refinancing the existing property
+
+# Chapter 21 - 13 Golden Rules of Commercial Real Estate Investment
+- Risk is equal to yield: seek an appropriate balance
+- Ensure the safety of principle
+- Control your liabilities
+- Add value to a deal
+- Broker/Agent must bring something to a deal
+- Real estate is a long-term investment
+- Minimize number of partners
+- You are going to be in a lawsuit
+- It only takes one deal to go broke
+- It only takes one deal to make a million dollars
+- The value of a property is limited by a tenant's ability to pay rent
+- Appreciation and inflation are compounded annually
+- You cannot give kindness away—it is always returned
+
+# Chapter 22 - Investing Abroad
+
+
 
 
 
