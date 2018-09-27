@@ -3,7 +3,7 @@
 (Hoboken: Wiley, 2008), 291
 
 # Introduction
-
+- Book summary: aimed at investors focused on finding a twist whereby they can add massive value to their real estate investments (263)
 - he thinks it's silly to invest in residential real estate when you could invest in commercial real estate (xvii-xx)
   - the vast majority of the wealthy real estate investors he knows work in commercial
   - residential real estate isn't bad (much better than stocks, etc.), but commercial offers better returns and more opportunities for creativity
@@ -172,29 +172,4 @@ He identifies these common objectives to commercial real estate (and argues agai
 
 # Chapter 22 - Investing Abroad
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Chapter 23 - Live Life to the Fullest

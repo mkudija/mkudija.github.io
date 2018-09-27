@@ -78,3 +78,4 @@
 <li><i>The Wisdom of the Shire: A Short Guide to a Long and Happy Life</i> by Noble Smith and Peter S. Beagle</li>
 <li><i>The Little Prince</i> by Antoine de Saint-Exupéry</li>
 <li><i>The Drunkard's Walk: How Randomness Rules Our Lives</i> by Leonard Mlodinow</li>
+<li><i>Commercial Real Estate Investing</i> by Dolf de Roos</li>
