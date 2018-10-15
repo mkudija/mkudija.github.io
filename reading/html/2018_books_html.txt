@@ -80,3 +80,5 @@
 <li><i>The Drunkard's Walk: How Randomness Rules Our Lives</i> by Leonard Mlodinow</li>
 <li><i>Commercial Real Estate Investing</i> by Dolf de Roos</li>
 <li><i>The Monuments Men: Allied Heroes, Nazi Thieves and the Greatest Treasure Hunt in History</i> by Robert M. Edsel and Bret Witter</li>
+<li><i>The Scarlet Pimpernel</i> by Baroness Emma Orczy</li>
+<li><i>Capital Gaines: Smart Things I Learned Doing Stupid Stuff</i> by Chip Gaines</li>
