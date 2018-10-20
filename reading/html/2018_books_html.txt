@@ -82,3 +82,4 @@
 <li><i>The Monuments Men: Allied Heroes, Nazi Thieves and the Greatest Treasure Hunt in History</i> by Robert M. Edsel and Bret Witter</li>
 <li><i>The Scarlet Pimpernel</i> by Baroness Emma Orczy</li>
 <li><i>Capital Gaines: Smart Things I Learned Doing Stupid Stuff</i> by Chip Gaines</li>
+<li><i>The Grace of Enough: Pursuing Less and Living More in a Throwaway Culture</i> by Haley Stewart</li>
