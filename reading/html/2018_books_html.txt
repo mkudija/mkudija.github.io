@@ -86,3 +86,4 @@
 <li><i>Making Room for God: Decluttering and the Spiritual Life</i> by Mary Elizabeth Sperry</li>
 <li><i>The Pearl</i> by John Steinbeck</li>
 <li><i>Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong</i> by Eric Barker</li>
+<li><i>The Miracle Morning</i> by Hal Elrod</li>
