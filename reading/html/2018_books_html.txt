@@ -90,3 +90,5 @@
 <li><i>Them: Why We Hate Each Other—and How to Heal</i> by Ben Sasse</li>
 <li><i>How to Get Started in Real Estate</i> by Robert Irwin</li>
 <li><i>Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth</i> by T. Harv Eker</li>
+<li><i>The Seven Storey Mountain</i> by Thomas Merton</li>
+<li><i>Foreclosure Investing For Dummies</i> by Ralph R. Roberts</li>
