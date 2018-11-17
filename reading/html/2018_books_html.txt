@@ -93,3 +93,4 @@
 <li><i>The Seven Storey Mountain</i> by Thomas Merton</li>
 <li><i>Foreclosure Investing For Dummies</i> by Ralph R. Roberts</li>
 <li><i>50 Money-Saving Tips for Every Landlord: A Practical Guide to Maintaining Short-Term Rental Properties</i> by Mike McLean</li>
+<li><i>The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place</i> by Andy Crouch</li>
