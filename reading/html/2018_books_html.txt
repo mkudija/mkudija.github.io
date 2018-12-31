@@ -106,3 +106,4 @@
 <li><i>75 Masterpieces Every Christian Should Know</i> by Terry Glaspey</li>
 <li><i>The Forever War</i> by Dexter Filkins</li>
 <li><i>The Curmudgeon's Guide to Getting Ahead: Dos and Don'ts of Right Behavior, Tough Thinking, Clear Writing, and Living a Good Life</i> by Charles Murray</li>
+<li><i>New American Bible, Revised Edition (Luke, Mark, Matthew, John, Daniel)</i></li>
