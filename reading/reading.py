@@ -112,7 +112,9 @@ if __name__ == "__main__":
         if str(parent)[-6:]=='GitHub':
             GitHubPath = parent
 
-    df = pd.read_excel(GitHubPath/'mkudija.github.io/reading/reading.xlsx',sheet_name='Books')
+    df = (pd.read_excel(GitHubPath/'mkudija.github.io/reading/reading.xlsx',sheet_name='Books')
+        .dropna(axis=0, thresh=3)
+        )
 
     years = df['Read'].unique()
 
