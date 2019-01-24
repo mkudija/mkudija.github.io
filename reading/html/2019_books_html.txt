@@ -4,3 +4,5 @@
 <li><i>Thomas Aquinas in 90 Minutes</i> by Paul Strathern</li>
 <li><i>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</i> by Gene Kim and Kevin Behr</li>
 <li><i>A Tale of Two Cities</i> by Charles Dickens</li>
+<li><i>The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data</i> by Kevin Mitnick</li>
+<li><i>How to Be Invisible: Protect Your Home, Your Children, Your Assets, and Your Life</i> by J. J. Luna</li>
