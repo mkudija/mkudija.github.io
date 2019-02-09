@@ -50,9 +50,11 @@ def plot_books(df, years, bookForecast):
     plt.bar(years, number, color='#3377b3')
     for item in range(0,len(years)):
         #plt.text(years[item], number[item]+3, str(number[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
-        plt.text(years[item], -6, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
+        plt.text(years[item], -8, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
     fig.set_size_inches(12, 4)
-    fig.savefig(str(GitHubPath)+'/mkudija.github.io/images/book_plot.png', bbox_inches='tight')
+    fig.savefig(str(GitHubPath)+'/mkudija.github.io/images/book_plot.png'
+                , bbox_inches='tight'
+                , transparent=True)
 
 
 def copy_file(src, dst):
@@ -64,7 +66,7 @@ def copy_file(src, dst):
 
 
 def insert_text_in_file(originalPath, addPath, insertionPoint):
-    """Inserts text from add into original at insertionPoint    
+    """Inserts text from add into original at insertionPoint
     """
     # read original 
     f = open(originalPath, "r")
