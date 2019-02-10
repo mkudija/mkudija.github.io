@@ -43,3 +43,6 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 
 [^manchester]: William Churchill, quoted in William Manchester, [*The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932*](https://www.amazon.com/Last-Lion-Winston-Churchill-1874-1932/dp/0385313489/ref=sr_1_1?ie=UTF8&qid=1531938182&sr=8-1&keywords=the+last+lion+visions+of+glory) (New York: Little, Brown and Company, 1983), 31.
 
+> Reading should help us to pray by concentrating our attention.<br> —Robert Cardinal Sarah[^sarah]
+
+[^sarah]: Robert Cardinal Sarah, [*The Power of Silence: Against the Dictatorship of Noise*](https://www.amazon.com/Power-Silence-Against-Dictatorship-Noise/dp/1621641910/ref=sr_1_1?ie=UTF8&qid=1549836453&sr=8-1&keywords=robert+cardinal+sarah) (San Francisco: Ignatius, 2017), 31.
