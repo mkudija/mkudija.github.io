@@ -2,7 +2,10 @@
 
 (New York: Penguin, 2016), 211
 
-Life on Wall Street (84):
+A book about Welles Crowther, who sacrificed his life saving others in the South Tower on 9/11.
+
+- "He had every opportunity to leave and he didn't. He stayed and he put others first and that's something you either have or you don't. He had it, and he used it." (181)
+- Life on Wall Street (84):
 
 > In the financial capital of the planet, working in finance meant a special place on earth, and held the rewards to prove it. Sandler O'Neill was a burgeoning force, and didn't attract or indulge the pale or hesitant. Its culture celebrated competition in every way, against rival firms and within its walls. The firm was filled with athletes, some not as accomplished as Welles and others more so—all of whom had grown up as inherent strivers, and winners.
 >
