@@ -40,7 +40,47 @@
 > for the intentions of all my relatives and friends,
 > and in particular for the intentions of the Holy Father.
 > Amen
+- Devotions throughout the week:
+  - Sunday: the Resurrection, the Trinity
+  - Monday: the Holy Spirit
+  - Tuesday: the angels
+  - Wednesday: St. Joseph
+  - Thursday: the Blessed Sacrament
+  - Friday: Christ's Passion
+  - Saturday: the Blessed Virgin
+- Devotions throughout the year:
+  - January: the Holy Name of Jesus
+  - February: the Holy Family
+  - March: St. Joseph
+  - April: the Blessed Sacrament
+  - May: our Lady
+  - June: the Sacred Heart
+  - July: the Precious Blood of Jesus
+  - August: the Immaculate Heart of Mary
+  - September: the Seven Sorrows of Mary
+  - October: the Holy Rosary
+  - November: all saints and souls
+  - December: the Immaculate Conception
 
+## Chapter 8 - Praying the Rosary
+- the Rosary has the virtue of compressing important points of the Faith and the history of salvation into one easily memorized devotion (100)
+- "it's when their father leads the prayer that the habit of praying lasts into their adulthood" (101)
+- try not to explain too much, just pray (103)
+
+## Chapter 9 - Who Prays and Who Leads
+- the woman is the heart of the home
+- the father is the priest for his family
+
+## Chapter 10 - Difficulties You May Have
+- good tips on praying with children...
+
+## Chapter 11 - Transform the Home, Transform the World
+- how to pray at work...
+
+## Appendices
+- "Our pattern of prayer will govern the pattern of our lives" (151)
+- Always ask the question, "Is this beautiful?" (160)
+- [Chant the Psalms](http://www.thewayofbeauty.org/psalm-tones)
 
 
 
