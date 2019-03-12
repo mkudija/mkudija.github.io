@@ -4,7 +4,7 @@
 
 ## Insights or things to take up
 - walks for solitude
-- wrighting as a way of organizing your thoughts
+- writing as a way of organizing your thoughts
 
 
 ## Definitions of leadership
