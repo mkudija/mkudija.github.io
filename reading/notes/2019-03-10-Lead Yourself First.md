@@ -13,15 +13,15 @@
 
 ## Introduction (Jim Collins)
 - Solitude provides leaders with *clarity*, *creativity*, *emotional balance*, and *moral courage*
-- disciplined time for relection leads to disciplined thought, which leads to disciplined action
-- get away to make descisions:
+- disciplined time for reflection leads to disciplined thought, which leads to disciplined action
+- get away to make decisions:
   - Churchill at Chartwell laying bricks
   - Gates on his "think week"
   - Buffett: "inactivity can be a very intelligent behavior" (xv)
 - 2 key practices:
   - systematically build solitude into your life ("white space")
   - seize unexpected opportunities for solitude (waiting in line)
-- what makes leaders great is a "paradoxical combination of humility and will in service to a cause bigger tha nthe personal ambitions of that leader" (xvi)
+- what makes leaders great is a "paradoxical combination of humility and will in service to a cause bigger than the personal ambitions of that leader" (xvi)
 
 
 ## Introduction
@@ -34,13 +34,13 @@
 - Peter Crawford: run at night with no light and just focus on his stride (6)
   - physical activity helps focus because we have only so much attention left over for thinking
 - keep a parenting journal (7)
-- Howard Prince: "leadership is about consensual interdependence. The leader chooses to depent on his followers, and the followers choose to depend on the leader." (12)
+- Howard Prince: "leadership is about consensual interdependence. The leader chooses to depend on his followers, and the followers choose to depend on the leader." (12)
   - in Vietnam: "I'm scared shitless, and I presume you are too. Now that we have that out of the way, let's figure out what to do." (12-13)
 - self-awareness is important:
   - physical adversity strips you to the fundamentals (17)
   - reflecting on a journey home by sea gave the opportunity for self-awareness (17-18)
   - "after two days in the mountains I come back refreshed" (18)
-- Tommy Caldwell dropping his phone and it being the best part of climing El Cap (21-23)
+- Tommy Caldwell dropping his phone and it being the best part of climbing El Cap (21-23)
 
 
 ## Chapter 2 - Eisenhower (Analytical Clarity)
@@ -53,7 +53,7 @@
   - make that point a guiding star in decisions
 
 
-## Chapter 3 - Jane Goodall (Intuation)
+## Chapter 3 - Jane Goodall (Intuition)
 - intuition rises from inductive reasoning (specific observations to general principle) (42)
   - analytical tends to be more deductive (general to specific) --> intuition can catch mistakes in analytical thinking
 
@@ -99,8 +99,8 @@
 ## Chapter 10 - Moral Courage
 - leaders need introspection, Conant: "It's not that you need to be completely unplugged from the outside world. But you do need to be completely plugged in to what *you* think" (132)
   - 30 minute morning reflection with coffee in the garden thinking about 5 things: family, work, community, faith, personal well-being (132)
-- Jimmy Bartz: "Today, I still wake up at five thirty each monring, while the rest of the house is asleep. Fridays are my day off. I spend the whole day by myself until the kids come hoe from school." (138)
-  - "As my responsibilties as a leader grow, I need more solitude...I go to Wyoming three times a year...maybe not crossing paths with another person for two or three days. It's a feast for the soul." (141)
+- Jimmy Bartz: "Today, I still wake up at five thirty each morning, while the rest of the house is asleep. Fridays are my day off. I spend the whole day by myself until the kids come hoe from school." (138)
+  - "As my responsibilities as a leader grow, I need more solitude...I go to Wyoming three times a year...maybe not crossing paths with another person for two or three days. It's a feast for the soul." (141)
 
 
 ## Chapter 11 - Churchill
@@ -111,7 +111,7 @@
 
 ## Chapter 12 - Martin Luther King, Jr.
 - "To sustain moral courage, a leader must tend to the soul as well as the mind" (153)
-  - [2nd movement of Beethoven's *Emperor* concerto](https://www.youtube.com/watch?v=MbrBQwRmd2I) captures this kind of refleciton
+  - [2nd movement of Beethoven's *Emperor* concerto](https://www.youtube.com/watch?v=MbrBQwRmd2I) captures this kind of reflection
 
 
 ## Chapter 13 - John Paul II
