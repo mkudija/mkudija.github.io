@@ -15,3 +15,9 @@
 <li><i>Quiet: The Power of Introverts in a World That Can't Stop Talking</i> by Susan Cain</li>
 <li><i>The Little Oratory: A Beginner's Guide to Praying in the Home</i> by David Clayton & Leila Lawler</li>
 <li><i>The Red Bandanna: A life. A choice. A Legacy.</i> by Tom Rinaldi</li>
+<li><i>Negotiating Your Salary</i> by Jack Chapman</li>
+<li><i>Walking</i> by Henry David Thoreau</li>
+<li><i>The Gene: An Intimate History</i> by Siddhartha Mukherjee</li>
+<li><i>Notes from Underground</i> by Fyodor Dostoyevsky</li>
+<li><i>The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed</i> by Jessica Lahey</li>
+<li><i>Lead Yourself First: Inspiring Leadership Through Solitude</i> by Raymond M. Kethledge & Michael S. Erwin</li>
