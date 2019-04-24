@@ -1,7 +1,7 @@
 <li><i>The Big Short</i> by Michael Lewis </li>
 <li><i>Gratitude</i> by Oliver Sacks</li>
 <li><i>Smart Power: Climate Change, the Smart Grid, and the Future of Electric Utilities</i> by Peter Fox-Penner</li>
-<li><i>The Machine Stops</i> by E.M. Forester</li>
+<li><i>The Machine Stops</i> by E. M. Forster</li>
 <li><i>The Coldest Winter: America and the Korean War</i> by David Halberstam </li>
 <li><i>How to Read Churches: A Crash Course in Ecclesiastical Architecture</i> by Dennis R. McNamara</li>
 <li><i>Meditations</i> by Marcus Aurelius </li>
