@@ -28,3 +28,4 @@
 <li><i>Jesus of Nazareth: Holy Week: from the Entrance into Jerusalem to the Resurrection</i> by Pope Benedict XVI</li>
 <li><i>The Picture of Dorian Gray</i> by Oscar Wilde</li>
 <li><i>The Last Lion: Winston Spencer Churchill: Alone, 1932-1940</i> by William Manchester</li>
+<li><i>Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart</i> by C. R. Wiley</li>
