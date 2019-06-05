@@ -29,3 +29,4 @@
 <li><i>The Picture of Dorian Gray</i> by Oscar Wilde</li>
 <li><i>The Last Lion: Winston Spencer Churchill: Alone, 1932-1940</i> by William Manchester</li>
 <li><i>Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart</i> by C. R. Wiley</li>
+<li><i>You Are Not a Gadget: A Manifesto</i> by Jaron Lanier</li>
