@@ -47,6 +47,6 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 
 [^sarah]: Robert Cardinal Sarah, [*The Power of Silence: Against the Dictatorship of Noise*](https://www.amazon.com/Power-Silence-Against-Dictatorship-Noise/dp/1621641910/ref=sr_1_1?ie=UTF8&qid=1549836453&sr=8-1&keywords=robert+cardinal+sarah) (San Francisco: Ignatius, 2017), 31.
 
-> “What matters is that it is *your* library, invested with your intellectual capital, and serves as a garden of the mind to which you can return again and again.<br> —James Mattis[^mattis]
+> What matters is that it is *your* library, invested with your intellectual capital, and serves as a garden of the mind to which you can return again and again.<br> —James Mattis[^mattis]
 
 [^mattis]: Adm. James Stavridis & R. Manning Ancell, [*The Leader's Bookshelf*](https://www.amazon.com/Leaders-Bookshelf-James-Stavridis/dp/1682471799/ref=sr_1_1?crid=20911MCXTRS4R&keywords=the+leader%27s+bookshelf&qid=1553279948&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) (Annapolis: Naval Institute Press, 2017), 249.
