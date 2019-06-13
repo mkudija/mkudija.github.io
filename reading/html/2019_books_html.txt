@@ -31,3 +31,4 @@
 <li><i>Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart</i> by C. R. Wiley</li>
 <li><i>You Are Not a Gadget: A Manifesto</i> by Jaron Lanier</li>
 <li><i>Ghost Fleet: A Novel of the Next World War</i> by P. W. Singer and August Cole</li>
+<li><i>The Rise and Fall of the Third Reich: A History of Nazi Germany</i> by William L. Shirer</li>
