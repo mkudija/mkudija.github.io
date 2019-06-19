@@ -2564,6 +2564,14 @@
 
 
 	/*Custom about icons (logos)*/
+	.fa-paypal:before{
+		content: ''; /*Remove default icon*/ 
+		display: inline-block;
+		width: 100px;
+		height: 90px;
+		background: url('../../images/Root.png') center center no-repeat;
+	}
+
 	.fa-facebook:before{
 		content: ''; /*Remove default icon*/ 
 		display: inline-block;
