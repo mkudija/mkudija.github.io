@@ -41,3 +41,4 @@
 <li><i>Billy Lynn's Long Halftime Walk</i> by Ben Fountain</li>
 <li><i>Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selves</i> by Christian Rudder</li>
 <li><i>Kristin Lavransdatter</i> by Sigrid Undset</li>
+<li><i>Brave New World</i> by Aldous Huxley</li>
