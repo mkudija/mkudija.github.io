@@ -17,16 +17,22 @@ def write_html(df, year):
         html_file.write("%s\n" % book)
     html_file.close()
 
-    print('In {} I read {} books.'.format(str(year),str(df.shape[0])))
+    try:
+        npages  = df.loc[:,'Pages'].sum()
+        print('In {} I read {} books ({}k pages).'.format(str(year), str(df.shape[0]), str(int(npages/1000))))
+    except:
+        print('In {} I read {} books.'.format(str(year), str(df.shape[0])))
 
     # forecast reading
     bookForecast = 0
     from datetime import datetime
     if year==datetime.now().year:
         booksToDate = df.dropna(how='any',axis=0).shape[0]
+        pagesToDate = df.dropna(how='any',axis=0).loc[:,'Pages'].sum()
         dayOfYear = datetime.now().timetuple().tm_yday
         bookForecast = booksToDate / dayOfYear * 365
-        print('...on track to read {} books in {}'.format(int(bookForecast), year))
+        pageForecast = pagesToDate / dayOfYear * 365
+        print('...on track to read {} books ({}k pages) in {}'.format(int(bookForecast), int(pageForecast/1000), year))
     return bookForecast
  
 
