@@ -13,7 +13,7 @@
 <li><i>Where The Heart Is</i> by Billie Letts</li>
 <li><i>The Moon Is A Harsh Mistress</i> by Robert Heinlein</li>
 <li><i>The Curious Tale of Benjamin Button</i> by F. Scott Fitzgerald</li>
-<li><i>Call of the Wild</i> by Jack London</li>
+<li><i>The Call of the Wild</i> by Jack London</li>
 <li><i>The Help</i> by Kathryn Stockett</li>
 <li><i>East to the Dawn: The Life of Amelia Earhart</i> by Susan Butler</li>
 <li><i>The Reverse of the Metal</i></li>

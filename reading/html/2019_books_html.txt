@@ -45,3 +45,4 @@
 <li><i>Successful Fathers: The Subtle but Powerful Ways Fathers Mold Their Children's Characters</i> by James B. Stenson</li>
 <li><i>The Servile State</i> by Hilaire Belloc</li>
 <li><i>Into the Rising Sun: World War II's Pacific Veterans Reveal the Heart of Combat</i> by Patrick K. O'Donnell</li>
+<li><i>The Call of the Wild</i> by Jack London</li>
