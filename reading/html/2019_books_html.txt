@@ -47,3 +47,4 @@
 <li><i>Into the Rising Sun: World War II's Pacific Veterans Reveal the Heart of Combat</i> by Patrick K. O'Donnell</li>
 <li><i>The Call of the Wild</i> by Jack London</li>
 <li><i>White Fang</i> by Jack London</li>
+<li><i>A Plan of Life</i> by Joseph M. Muntadas</li>
