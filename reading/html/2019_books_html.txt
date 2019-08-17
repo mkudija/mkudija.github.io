@@ -49,3 +49,4 @@
 <li><i>White Fang</i> by Jack London</li>
 <li><i>A Plan of Life</i> by Joseph M. Muntadas</li>
 <li><i>Think and Grow Rich</i> by Napoleon Hill</li>
+<li><i>"Forget Not Love": The Passion of Maximilian Kolbe</i> by André Frossard</li>
