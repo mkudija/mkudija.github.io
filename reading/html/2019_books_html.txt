@@ -53,3 +53,4 @@
 <li><i>Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice</i> by Bill Browder</li>
 <li><i>The Hiding Place</i> by Corrie Ten Boom</li>
 <li><i>Heaven in Stone and Glass: Experiencing the Spirituality of the Great Cathedrals</i> by Robert Barron</li>
+<li><i>Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked</i> by Adam Alter</li>
