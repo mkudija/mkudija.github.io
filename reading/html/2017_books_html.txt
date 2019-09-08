@@ -18,7 +18,7 @@
 <li><i>Out of the Ashes: Rebuilding American Culture</i> by Anthony Esolen</li>
 <li><i>Strangers in a Strange Land: Living the Catholic Faith in a Post-Christian World</i> by Charles J. Chaput</li>
 <li><i>The Benedict Option: A Strategy for Christians in a Post-Christian Nation</i> by Rob Dreher</li>
-<li><i>City of God</i> by Saint Augustine</li>
+<li><i>City of God</i> by St. Augustine</li>
 <li><i>The Lost Tools of Learning</i> by Dorothy Sayers</li>
 <li><i>The Aviators: Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight</i> by Winston Groom</li>
 <li><i>The Shadow of His Wings (Abridged)</i> by Fr. Gereon Goldmann,  OFM</li>
