@@ -59,3 +59,4 @@
 <li><i>The Rule of St. Benedict in English</i> by St. Benedict (edited by Timothy Fry, O.S.B.)</li>
 <li><i>The Rule of Saint Augustine</i> by St. Augustine (introduction and commentary by Tarsicius J. Van Bavel, OSA)</li>
 <li><i>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</i> by Ben Horowitz</li>
+<li><i>"The Pit and the Pendulum", "The Tell-Tale Heart", and "The Cask of Amontillado"</i> by Edgar Allan Poe</li>
