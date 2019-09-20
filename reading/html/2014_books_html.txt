@@ -30,7 +30,7 @@
 <li><i>YOUCAT</i> by uth Catechism of the Catholic Church)</li>
 <li><i>The 48 Laws of Power</i> by Robert Greene</li>
 <li><i>St. Maria Goretti: In Garments All Red</i> by Fr. Godfrey Poage, C.P.</li>
-<li><i>Structures: Or Why Things Don't Fall Down</i> by J.E. Gordon</li>
+<li><i>Structures: Or Why Things Don't Fall Down</i> by J. E. Gordon</li>
 <li><i>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</i> by C.S. Lewis</li>
 <li><i>Camerado, I Give You My Hand</i> by Maura Poston Zagrans </li>
 <li><i>Finding Darwin’s God</i> by Kenneth R. Miller</li>

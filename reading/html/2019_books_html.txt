@@ -62,3 +62,4 @@
 <li><i>"The Pit and the Pendulum", "The Tell-Tale Heart", and "The Cask of Amontillado"</i> by Edgar Allan Poe</li>
 <li><i>The Way of a Pilgrim</i> edited by G. P. Fedotov</li>
 <li><i>The Jesus Storybook Bible: Every Story Whispers His Name</i> by Sally Lloyd-Jones</li>
+<li><i>Structures: Or Why Things Don't Fall Down</i> by J. E. Gordon</li>
