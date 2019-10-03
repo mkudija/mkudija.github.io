@@ -66,3 +66,5 @@
 <li><i>Joan of Arc</i> by Mark Twain</li>
 <li><i>Machine Learning: The High-Interest Credit Card of Technical Debt</i> by D. Sculley et al.</li>
 <li><i>The Giver</i> by Lois Lowry</li>
+<li><i>Gathering Blue</i> by Lois Lowry</li>
+<li><i>The Autobiography of a Hunted Priest</i> by John Gerard, S.J.</li>
