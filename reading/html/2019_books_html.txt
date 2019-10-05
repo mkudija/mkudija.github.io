@@ -68,3 +68,4 @@
 <li><i>The Giver</i> by Lois Lowry</li>
 <li><i>Gathering Blue</i> by Lois Lowry</li>
 <li><i>The Autobiography of a Hunted Priest</i> by John Gerard, S.J.</li>
+<li><i>Messenger</i> by Lois Lowry</li>
