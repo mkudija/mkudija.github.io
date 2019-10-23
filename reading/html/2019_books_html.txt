@@ -71,3 +71,4 @@
 <li><i>Messenger</i> by Lois Lowry</li>
 <li><i>John Paul the Great: Remembering a Spiritual Father</i> by Peggy Noonan</li>
 <li><i>Son</i> by Lois Lowry</li>
+<li><i>Wise Blood</i> by Flannery O'Connor</li>
