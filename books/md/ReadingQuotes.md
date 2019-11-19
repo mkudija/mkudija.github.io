@@ -50,3 +50,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > What matters is that it is *your* library, invested with your intellectual capital, and serves as a garden of the mind to which you can return again and again.<br> —James Mattis[^mattis]
 
 [^mattis]: Adm. James Stavridis & R. Manning Ancell, [*The Leader's Bookshelf*](https://www.amazon.com/Leaders-Bookshelf-James-Stavridis/dp/1682471799/ref=sr_1_1?crid=20911MCXTRS4R&keywords=the+leader%27s+bookshelf&qid=1553279948&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) (Annapolis: Naval Institute Press, 2017), 249.
+
+> Bring in the books, let every man have a week away inside the world of a book. If the mind could open the heart would follow. <br> —Anthony Ray Hinton[^hinton]
+
+[^hinton]: Anthony Ray Hinton, [*The Sun Does Shine*](https://www.amazon.com/Sun-Does-Shine-Freedom-Selection/dp/1250309476/ref=sr_1_1?keywords=the+sun+does+shine&qid=1574125482&sr=8-1) (New York: St. Martin's Press, 2018), 153.
