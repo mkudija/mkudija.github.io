@@ -78,3 +78,4 @@
 <li><i>The Sun Does Shine: How I Found Life and Freedom on Death Row</i> by Anthony Ray Hinton</li>
 <li><i>Padre Pio: A Personal Portrait</i> by Fr. Francesco Napolitano</li>
 <li><i>Man and Woman He Created Them: A Theology of the Body</i> by Pope John Paul II</li>
+<li><i>Saint John Bosco</i> by F. A. Forbes</li>
