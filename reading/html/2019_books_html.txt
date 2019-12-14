@@ -82,3 +82,4 @@
 <li><i>American Caesar: Douglas MacArthur 1880 - 1964</i> by William Manchester</li>
 <li><i>Accidental Saints: Finding God in All the Wrong People</i> by Nadia Bolz-Weber</li>
 <li><i>Strange Planet</i> by Nathan W. Pyle</li>
+<li><i>The Imitation of Christ</i> by Thomas à Kempis</li>
