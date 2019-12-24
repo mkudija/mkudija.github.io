@@ -38,7 +38,7 @@
 <li><i>When Breath Becomes Air</i> by Paul Kalanithi</li>
 <li><i>The Prize: The Epic Quest for Oil, Money, and Power (Abridged)</i> by Daniel Yergin</li>
 <li><i>Principles of Helicopter Flight</i> by W.J. Wagtendonk</li>
-<li><i>Jesus of Nazareth: From The Baptism In The Jordan To The Transfiguration</i> by Joseph Ratzinger</li>
+<li><i>Jesus of Nazareth: From The Baptism In The Jordan To The Transfiguration</i> by Pope Benedict XVI</li>
 <li><i>The Quest: Energy, Security, and the Making of the Modern World</i> by Daniel Yergin</li>
 <li><i>Zero to One: Notes on Startups, or How to Build the Future</i> by Peter Thiel</li>
 <li><i>Zen and the Art of Motorcycle Maintenance</i> by Robert M. Pirsig</li>
