@@ -85,3 +85,4 @@
 <li><i>The Imitation of Christ</i> by Thomas à Kempis</li>
 <li><i>Jesus of Nazareth: The Infancy Narratives</i> by Pope Benedict XVI</li>
 <li><i>The Complete Book of Woodworking</i> by Tom Carpenter & Mark Johanson</li>
+<li><i>Sapiens: A Brief History of Humankind</i> by Yuval Noah Harari</li>
