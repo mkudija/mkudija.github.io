@@ -4,7 +4,7 @@
 <li><i>The Female Brain</i> by Louann Brizendine</li>
 <li><i>The Male Brain</i> by Louann Brizendine</li>
 <li><i>Harry Potter and the Sorcerer's Stone</i> by J.K. Rowling</li>
-<li><i>Evangelium Vitae: The Gospel of Life</i> by John Paul II</li>
+<li><i>Evangelium Vitae: The Gospel of Life</i> by Pope John Paul II</li>
 <li><i>Shadow of the Hegemon</i> by Orson Scott Card</li>
 <li><i>In a Sunburned Country</i> by Bill Bryson</li>
 <li><i>Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</i> by Dava Sobel</li>
