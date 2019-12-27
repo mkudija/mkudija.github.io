@@ -10,3 +10,4 @@
 - "Obedience to the truth about God and man is the first condition of freedom"
 - "Man works in order to provide for the needs of his family, his community, his nation, and ultimately all humanity."
 - "Totalitarianism arises out of a denial of truth in the objective sense. If there is no transcendent truth, in obedience to which man achieves his full identity, then there is no sure principle for guaranteeing just relations between people."
+- "At times it seems as though he exists only as a producer and consumer of goods, or as an object of State administration. People lose sight of the fact that life in society has neither the market nor the State as its final purpose, since life itself has a unique value which the State and the market must serve. Man remains above all a being who seeks the truth and strives to live in that truth, deepening his understanding of it through a dialogue which involves past and future generations."
