@@ -87,3 +87,4 @@
 <li><i>The Complete Book of Woodworking</i> by Tom Carpenter & Mark Johanson</li>
 <li><i>Sapiens: A Brief History of Humankind</i> by Yuval Noah Harari</li>
 <li><i>Centesimus Annus</i> by Pope John Paul II</li>
+<li><i>How to Raise Good Catholic Children</i> by Mary Reed Newland</li>
