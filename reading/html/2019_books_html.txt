@@ -90,3 +90,4 @@
 <li><i>How to Raise Good Catholic Children</i> by Mary Reed Newland</li>
 <li><i>A Christmas Carol</i> by Charles Dickens</li>
 <li><i>Walking: One Step At a Time</i> by Erling Kagge</li>
+<li><i>Bible: Second Catholic Edition RSV (Mark, Luke, Matthew, John, Acts, Song of Songs, Daniel)</i></li>
