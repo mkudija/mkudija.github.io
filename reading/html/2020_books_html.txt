@@ -2,3 +2,4 @@
 <li><i>A Hobbit, a Wardrobe, and a Great War: How J.R.R. Tolkien and C.S. Lewis Rediscovered Faith, Friendship, and Heroism in the Cataclysm of 1914-1918</i> by Joseph Loconte</li>
 <li><i>The Family & the New Totalitarianism</i> by Michael D. O'Brien</li>
 <li><i>Death Comes for the Archbishop</i> by Willa Cather</li>
+<li><i>The Odyssey</i> by Homer, translated by W. H. D. Rouse</li>
