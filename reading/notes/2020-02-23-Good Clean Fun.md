@@ -24,3 +24,4 @@ Schools recommended:
 - "It is the defecs in wood and in people that give them depth and make them interesting."
 - Waterstone bookshop in Dublin
 - *Look and See* documentary on Wendyl Berry (his favorite author)
+- [Thomas Wilhoit](https://www.linkedin.com/in/thomas-wilhoit/)
