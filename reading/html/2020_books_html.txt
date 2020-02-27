@@ -8,3 +8,4 @@
 <li><i>The Underground Railroad</i> by Colson Whitehead</li>
 <li><i>On the Incarnation</i> by Saint Athanasius</li>
 <li><i>Good Clean Fun: Misadventures in Sawdust at Offerman Woodshop</i> by Nick Offerman</li>
+<li><i>Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts</i> by Annie Duke</li>
