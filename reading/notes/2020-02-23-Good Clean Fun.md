@@ -25,3 +25,4 @@ Schools recommended:
 - Waterstone bookshop in Dublin
 - *Look and See* documentary on Wendyl Berry (his favorite author)
 - [Thomas Wilhoit](https://www.linkedin.com/in/thomas-wilhoit/)
+- [Peter Galbert](https://www.petergalbert.com/tools-for-measuring-and-sharpening)
