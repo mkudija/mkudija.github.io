@@ -54,3 +54,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > Bring in the books, let every man have a week away inside the world of a book. If the mind could open the heart would follow. <br> —Anthony Ray Hinton[^hinton]
 
 [^hinton]: Anthony Ray Hinton, [*The Sun Does Shine*](https://www.amazon.com/Sun-Does-Shine-Freedom-Selection/dp/1250309476/ref=sr_1_1?keywords=the+sun+does+shine&qid=1574125482&sr=8-1) (New York: St. Martin's Press, 2018), 153.
+
+> As for me, with the exception of the Gospels, I no longer find anything in books. The Gospels are enough. <br> —St. Thérèse of Lisieux[^therese]
+
+[^therese]: Fr. Christopher Rengers O.F.M.Cap., [*The 35 Doctors of the Church*](https://www.amazon.com/35-Doctors-Church-Revised/dp/161890647X/ref=sr_1_1?keywords=the+35+doctors+of+the+church&qid=1583271865&sr=8-1) (Charlotte: TAN Books, 2014), 699.
