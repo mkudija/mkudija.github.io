@@ -10,3 +10,4 @@
 <li><i>Good Clean Fun: Misadventures in Sawdust at Offerman Woodshop</i> by Nick Offerman</li>
 <li><i>Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts</i> by Annie Duke</li>
 <li><i>The Man Who Made Things Out of Trees: The Ash in Human Culture and History</i> by Robert Penn</li>
+<li><i>Common Trees of Ohio</i> by Joseph Illick</li>
