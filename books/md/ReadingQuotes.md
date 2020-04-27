@@ -58,3 +58,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > As for me, with the exception of the Gospels, I no longer find anything in books. The Gospels are enough. <br> —St. Thérèse of Lisieux[^therese]
 
 [^therese]: Fr. Christopher Rengers O.F.M.Cap., [*The 35 Doctors of the Church*](https://www.amazon.com/35-Doctors-Church-Revised/dp/161890647X/ref=sr_1_1?keywords=the+35+doctors+of+the+church&qid=1583271865&sr=8-1) (Charlotte: TAN Books, 2014), 699.
+
+> The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull. He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with "Wow! Signore *professore dottore* Eco, what a library you have! How many of these books have you read?" and the others—a very small minority—who get the point that a private library is not an ego-boosting appendage but a research tool. Read books are far less valuable than unread ones. The library should contain as much of *what you do not know* as your financial means, mortgage rates, and the currently tight real-estate market allow you to put there. You will accumulate more knowledge and more books as you grow older, and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an *antilibrary*.[^taleb]
+
+[^taleb]: Nassum Nicholas Taleb, [*The Black Swan*]() (New York: Random House, 2007), 1.
