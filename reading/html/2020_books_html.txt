@@ -18,3 +18,4 @@
 <li><i>Working Wood: A Complete Bench-Top Reference</i> by Jim Tolpin</li>
 <li><i>Skin in the Game: Hidden Asymmetries in Daily Life</i> by Nassim Nicholas Taleb</li>
 <li><i>"So Long as I Can Read": Farm Women's Reading Experiences in Depression-Era South Dakota</i> by Lisa Lindell</li>
+<li><i>Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</i> by Steven Pinker</li>
