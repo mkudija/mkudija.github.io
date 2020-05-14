@@ -19,3 +19,4 @@
 <li><i>Skin in the Game: Hidden Asymmetries in Daily Life</i> by Nassim Nicholas Taleb</li>
 <li><i>"So Long as I Can Read": Farm Women's Reading Experiences in Depression-Era South Dakota</i> by Lisa Lindell</li>
 <li><i>Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</i> by Steven Pinker</li>
+<li><i>The Black Swan: The Impact of the Highly Improbable</i> by Nassim Nicholas Taleb</li>
