@@ -5,30 +5,62 @@
 
 ## General
 
+Black Swan:
+- rare
+- have extreme impact
+- are predictable only in retrospect
+
 ### Summary / Themes
+- "Small bets on tail risk are an excellent insurance policy on the standard financial model" (Cory, 4/25/2020)
 - Mediocristan vs Extremistan
 - 
 
 ### Thinkers Taleb Respects 
 - Benoît Mandelbrot
+- Niall Ferguson (historian, 14)
 - 
 
 
 ### Thinkers He Does Not
+- Marx (xxv)
+- Adam Smith (xxv)
 - Steven Pinker
 - 
 
 ### Books From Taleb 
+- *The Berlin Diaries* by William Shirer (history as it is taking place, 12-13)
 - 
 
 ### Anecdoes & Life Lessons
-- 
+- "You can afford to be compassionate, lax, and courteous if, once in a while, when it is least expected of you, but completely justified, you sue someone, or savage an enemy, just to show that you can walk the walk." (7)
+- Don't read newspapers or watch TV (17)
+- "The Good Life" for him is "f*** you money" enabling this: "So I stayed in the quant and trading businesses (I'm still here), but organized myself to do minimal but intense (and entertaining) work, focus on ly on the most technical aspects, never attend business 'meetings', avoid the company of 'achievers' and people in suits who don't read books, and take a sabbatical year for every three on average to fill up gaps in my scientific and philosophical culture." (21)
+
+### Funny
+- The business world is "inelegant, dull, pompous, greedy, unintellectual, selfish, and boring" (17)
+
 
 ### Prologue
+- Black Swans are (xxii):
+  - rare
+  - have extreme impact
+  - are predictable only in retrospect
+- Free markets work because they allow people to be *lucky*—tinker as much as possible and try to collect Black Swan opportunities (xxv)
+- **Platonicity**: what makes us think that we understand more than we actually do (xxx)
+- **Platonic Fold**: where our representation of reality ceases to apply, where Black Swans happen (19)
+
 
 ## Part One: Umberto Eco's Antilibrary, or How We Seek Validation
+- "Read books are far less valuable than unread ones." (and other great quotes on 1)
 
 ### Chapter 1: The Apprenticeship of an Empirical Skeptic
+- **Triplet of Opacity** (issues with our minds coming up against history, 8):
+  - *illusion of understanding*
+  - *retrospective distortion*
+  - *the overvaluation of factual information, i.e. "Platonification"*
+- history unfolds in bursts (like Thomas Kuhn says about scientific revolutions, 11), and isn't predictable
+- "Both the philosophy of history and epistemology (the philosophy of knowledge" seemed inseparable from the empirical study of times series data" (20)
+- 
 
 ### Chapter 2: Yevgenia's Black Swan
 
