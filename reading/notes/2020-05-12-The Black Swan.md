@@ -9,6 +9,7 @@ Black Swan:
 - rare
 - have extreme impact
 - are predictable only in retrospect
+- technical name: the problem of induction (27)
 
 ### Summary / Themes
 - "Small bets on tail risk are an excellent insurance policy on the standard financial model" (Cory, 4/25/2020)
@@ -18,6 +19,7 @@ Black Swan:
 ### Thinkers Taleb Respects 
 - Benoît Mandelbrot
 - Niall Ferguson (historian, 14)
+- Pierre-Daniel Huet (French bishop and writer on skepticism, 48)
 - 
 
 
@@ -29,15 +31,18 @@ Black Swan:
 
 ### Books From Taleb 
 - *The Berlin Diaries* by William Shirer (history as it is taking place, 12-13)
-- 
+- *Aversos Mathematicos* by Sextus 
 
-### Anecdoes & Life Lessons
+### Anecdotes & Life Lessons
 - "You can afford to be compassionate, lax, and courteous if, once in a while, when it is least expected of you, but completely justified, you sue someone, or savage an enemy, just to show that you can walk the walk." (7)
 - Don't read newspapers or watch TV (17)
-- "The Good Life" for him is "f*** you money" enabling this: "So I stayed in the quant and trading businesses (I'm still here), but organized myself to do minimal but intense (and entertaining) work, focus on ly on the most technical aspects, never attend business 'meetings', avoid the company of 'achievers' and people in suits who don't read books, and take a sabbatical year for every three on average to fill up gaps in my scientific and philosophical culture." (21)
+- "The Good Life" for him is "f*** you money" enabling this: "So I stayed in the quant and trading businesses (I'm still here), but organized myself to do minimal but intense (and entertaining) work, focus only on the most technical aspects, never attend business 'meetings', avoid the company of 'achievers' and people in suits who don't read books, and take a sabbatical year for every three on average to fill up gaps in my scientific and philosophical culture." (21)
+- **Erudition**: "Erudition is important to me. It signals genuine intellectual curiosity. It accompanies an open mind and the desire to probe the ideas of others. Above all, an erudite can be dissatisfied with his own knowledge, and such dissatisfaction is a wonderful shield against Platonicity, the simplifications of the five-minute manager, or the philistinism of the overspecialized scholar." (48)
 
 ### Funny
 - The business world is "inelegant, dull, pompous, greedy, unintellectual, selfish, and boring" (17)
+- "Scientists may be in the business of laughing at their predecessors, but owing to an array of human mental dispositions, few realize that someone will laugh at their beliefs in the (disappointingly near) future." (39)
+- 
 
 
 ### Prologue
@@ -60,13 +65,24 @@ Black Swan:
   - *the overvaluation of factual information, i.e. "Platonification"*
 - history unfolds in bursts (like Thomas Kuhn says about scientific revolutions, 11), and isn't predictable
 - "Both the philosophy of history and epistemology (the philosophy of knowledge" seemed inseparable from the empirical study of times series data" (20)
-- 
 
 ### Chapter 2: Yevgenia's Black Swan
+- fictional story about a book that unexpectedly took off
 
 ### Chapter 3: The Speculator and the Prostitute
+- "To be genuenely empirical is to reflect reality as faithfully as possible" (27)
+- Scalable profession advice led him to **the problem of induction**: aka the turkey problem; technical name for the Black Swan
+  - a scalable profession is good only if you are successful: few win and a lot lose
+- **Mediocristan**: when your sample is large, no single instance will significantly change the total (physical measurements like body size, etc.)
+  - Type 1 randomness
+- **Extremistan**: inequalities are such that one single observation can disproportionately impact the total (social measurements wealth, book sales, etc.)
+  - Type 2 randomness
+  - this is where Black Swans occur
 
 ### Chapter 4: One Thousand and One Days, or How Not to Be a Sucker
+- The turkey illustrates the danger of predicting the future from past data: it was fine for 1000 days until it got its head chopped off (41)
+- The turkey problem = the problem of induction = Hume's problem = the problem of generalizing from available information
+- 
 
 ### Chapter 5: Confirmation Shmonfirmation!
 
