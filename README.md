@@ -162,6 +162,7 @@ This website is inspired by a number of others, including those below:
 - [Michael Fogleman](https://www.michaelfogleman.com/)
 - [Vicki Boykis](http://veekaybee.github.io/)
 - [Matthew Brehmer](https://mattbrehmer.github.io/)
+- [Matthew McAteer](https://matthewmcateer.me/bookshelf/)
 
 
 # Other Sites I've Built*
