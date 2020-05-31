@@ -21,3 +21,4 @@
 <li><i>Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</i> by Steven Pinker</li>
 <li><i>The Black Swan: The Impact of the Highly Improbable</i> by Nassim Nicholas Taleb</li>
 <li><i>Rework: Change The Way You Work Forever</i> by Jason Fried & David Heinemeier Hansson</li>
+<li><i>The Big Short</i> by Michael Lewis </li>
