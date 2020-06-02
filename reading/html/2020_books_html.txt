@@ -22,3 +22,4 @@
 <li><i>The Black Swan: The Impact of the Highly Improbable</i> by Nassim Nicholas Taleb</li>
 <li><i>Rework: Change The Way You Work Forever</i> by Jason Fried & David Heinemeier Hansson</li>
 <li><i>The Big Short</i> by Michael Lewis </li>
+<li><i>Shorting Home Equity Mezzanine Tranches</i> by Greg Lippmann</li>
