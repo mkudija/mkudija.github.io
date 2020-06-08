@@ -26,3 +26,4 @@
 <li><i>Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</i> by Nassim Nicholas Taleb</li>
 <li><i>The Bed of Procrustes: Philosophical and Practical Aphorisms</i> by Nassim Nicholas Taleb</li>
 <li><i>The Birth-Mark</i> by Nathaniel Hawthorne</li>
+<li><i>Remote: Office Not Required</i> by Jason Fried & David Heinemeier Hansson</li>
