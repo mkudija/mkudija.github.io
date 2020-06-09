@@ -14,7 +14,7 @@ Black Swan:
 ### Summary / Themes
 - "Small bets on tail risk are an excellent insurance policy on the standard financial model" (Cory, 4/25/2020)
 - Mediocristan vs Extremistan
-- 
+
 
 ### Thinkers Taleb Respects 
 - Benoît Mandelbrot
@@ -23,13 +23,16 @@ Black Swan:
 - Karl Popper (57)
 - Montaigne & Francis Bacon (101)
 - Frédéric Bastiat & Pierre Bayle (111)
-
+- Henri Poincaré (174)
+- Sextus Empiricus (182)
+- Daniel Kahneman (307) *"toward whom I (and my ideas) have more debt than toward anyone else on this planet*"
+- Nouriel Roubini (309) *"to my knowledge the only professional economist who really predicted the crisis of 2008)*"
 
 ### Thinkers He Does Not
 - Marx (xxv)
 - Adam Smith (xxv)
 - Steven Pinker
-- 
+
 
 ### Books From Taleb 
 - *The Berlin Diaries* by William Shirer (history as it is taking place, 12-13)
@@ -37,6 +40,8 @@ Black Swan:
 - *Il deserto dei tartari* by Dino Buzzati (92)
 - *Essays* by Montaigne (101)
 - *Lost Illusions* by Lucien Chardon (104)
+- *The Hedgehog and the Fox* by Isiah Berlin (153) (be a fox with an open mind)
+- Plutarch, Livy, Suetonius, Diodorus, Siculus, Gibbon, Carlyle, Renan, Michelet (198)
 
 ### Anecdotes & Life Lessons
 - "You can afford to be compassionate, lax, and courteous if, once in a while, when it is least expected of you, but completely justified, you sue someone, or savage an enemy, just to show that you can walk the walk." (7)
@@ -45,12 +50,16 @@ Black Swan:
 - **Erudition**: "Erudition is important to me. It signals genuine intellectual curiosity. It accompanies an open mind and the desire to probe the ideas of others. Above all, an erudite can be dissatisfied with his own knowledge, and such dissatisfaction is a wonderful shield against Platonicity, the simplifications of the five-minute manager, or the philistinism of the overspecialized scholar." (48)
 - "heoroes focus on process rather than results" (89)
 - Business psychology insight (98)
+- Quote on 133, including: don't watch TV, read newspapers/blogs; train your brain to use System 2
+  - read a weekly magazine over daily news (144)
+- "the ultimate test of whether you like an author is if you've reread him" (198)
+- An ad homenin attack against an intellectual, not against an idea, is highly flattering. It indicates that the person does not have anything intelligent to say about your message. (280)
 
 ### Funny
 - The business world is "inelegant, dull, pompous, greedy, unintellectual, selfish, and boring" (17)
 - "Scientists may be in the business of laughing at their predecessors, but owing to an array of human mental dispositions, few realize that someone will laugh at their beliefs in the (disappointingly near) future." (39)
-- 
-
+- "Looking busy can help you claim responsibility for the results in a random environment" (143)
+- "Being an executive does not require very developed frontal lobes, but rather a combination of charisma, a capacity to sustain boredom, and the ability to shallowly perform on harrying schedules." (166)
 
 ### Prologue
 - Black Swans are (xxii):
@@ -116,38 +125,68 @@ Black Swan:
 - *"be suspicious of the 'because' and handle it with care—particularly in situations where you suspect silent evidence"* (121)
 
 ### Chapter 9: The Lucid Fallacy, or the Uncertainty of the Nerd
+- *Lucid fallacy*: thinking that all real-life randomness is Gaussian, when in fact it is not
+- military people deal with randomness well because people's lives are on the line; *unknown unknown* (126-7)
 
 ## Part Two: We Just Can't Predict
 
 ### Chapter 10: The Scandal of Prediction
+- "What matters is not how often you are right but what your cumulative errors are" (149)
+- *Tunneling*: neglecting sources of uncertainty outside the plan itself (156)
+- The ease of spreadsheets leads to overly confident long term forecasts (158)
+- Variability matters: don't cross a river that is on avg 4 feet deep (160)
+- Don't forecast for your job, and recognize that you can't forecast (163)
 
-### Chapter 11: How to Look for Bird Poop
+### Chapter 11: How to Look for Bird Poop (cosmic microwave background)
+- Popper's argument: to predict historical events you need to predict technological innovation which is impossible (171)
+  - *to understand the future to the point of being able to predict it, you need to incorporate elements from this future itself* (172)
+- "You can think rigorously, but you cannot use numbers." (179)
+- "If you believe in free will you can't truly believe in social science and economic projection" (184)c0
 
 ### Chapter 12: Epistemocracy, A Dream
+- Montaigne fully accepted human weakness
+- Taleb's utopia is an *epistemocracy*
+- "While in theory randomness is an intrinsic property, in practice, randomness is *incomplete information*" (198)
 
 ### Chapter 13: Appelles the Painter, or What Do You Do if You Cannot Predict?
+- Know how to rank beliefs not according to their plausibility but by the harm they may cause (203)
+- Maximize the serendipity around you
+- *Barbell strategy*: 85-90% in T-bills, 10-15% in extremely speculative and highly leveraged (options) bets
+- Distinguish between positive contingencies and negative contingencies
+- Seize any opportunity
+- Asymmetry: put yourself in situations where favorable consequences are much larger than unfavorable ones
+- Apply Paschal's wager in places of life other than theology (think in consequences instead of probability)
 
 ## Part Three: Those Gray Swans of Extremistan
 
 ### Chapter 14: From Mediocristan to Extremistan, and Back
+- "Capitalism is the revitalization of the world thanks to the opportunity to be lucky. Luck is the grand equalizer." (222)
+- Globalism it not all good: interlocking fragility (225)
 
 ### Chapter 15: The Bell Curve, That Great Intellectual Fraud
+- Beware certainties and *statistical significance*: they include the assumption that the errors are Gaussian (which they very well may not be) (240)
 
 ### Chapter 16: The Aesthetics of Randomness
+- Benoît Mandelbrot's fractals allow us to account for a few Black Swans
 
 ### Chapter 17: Locke's Madmen, or Bell Curves in the Wrong Places
+- "I want to be broadly right rather than precisely wrong." (285)
 
 ### Chapter 18: The Uncertainty of the Phony
+- Don't be a sucker
 
 ## Part Four: The End
 
 ### Chapter 19: Half and Half, or How to Get Even with the Black Swan
+- Worry about things you can do something about (296)
+- Aggressively gain exposure to positive Black Swans and be very conservative with negative Black Swans
 
 ### Epilogue: Yevgenia's White Swans
 
 ## Postscript Essay: On Robustness and Fragility, Deeper Philosophical and Empirical Reflections
 
 ### One: Learning from Mother Nature, the Oldest and the Wisest
+- 
 
 ### Two: Why I Do All This Walking, or How Systems Become Fragile
 
@@ -164,7 +203,3 @@ Black Swan:
 ### Eight: The Ten Principles for a Black-Swan-Robust Society
 
 ### Nine: Amor Fati: How to Become Indestructible (*love of fate*)
-
-
-
-
