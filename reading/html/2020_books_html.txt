@@ -33,3 +33,4 @@
 <li><i>Chop Wood Carry Water: How to Fall in Love with the Process of Becoming Great</i> by Joshua Medcalf</li>
 <li><i>The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny</i> by William Strauss & Neil Howe</li>
 <li><i>When Genius Failed: The Rise and Fall of Long-Term Capital Management</i> by Roger Lowenstein</li>
+<li><i>Workshops: Expert advice for designing a great woodshop in any space</i> by Editors of Fine Woodworking</li>
