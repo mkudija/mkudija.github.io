@@ -35,3 +35,4 @@
 <li><i>When Genius Failed: The Rise and Fall of Long-Term Capital Management</i> by Roger Lowenstein</li>
 <li><i>Workshops: Expert advice for designing a great woodshop in any space</i> by Editors of Fine Woodworking</li>
 <li><i>The Last Full Measure: How Soldiers Die in Battle</i> by Michael Stephenson</li>
+<li><i>A Canticle for Leibowitz</i> by Walter M. Miller, Jr.</li>
