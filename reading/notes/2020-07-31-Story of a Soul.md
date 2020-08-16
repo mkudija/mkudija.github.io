@@ -6,7 +6,7 @@
 ## Chapter 2
 - praying in private: "The two hermits would say the Rosary, but on their fingers, so that they should not betray their devotions in public" (34)
 
-##Chapter 4 - Growing Up
+## Chapter 4 - Growing Up
 - re her reading, top of 47
 - "I did not realize in those days that one had to go through much suffering to become a Saint" (48)
 - First Communion: "I had to renew my ardor and fill my heart with freshly gathered flowers...I wanted all the flowers on earth to cradle Jesus in my heart." (49)
