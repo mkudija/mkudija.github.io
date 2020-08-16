@@ -36,3 +36,4 @@
 <li><i>Workshops: Expert advice for designing a great woodshop in any space</i> by Editors of Fine Woodworking</li>
 <li><i>The Last Full Measure: How Soldiers Die in Battle</i> by Michael Stephenson</li>
 <li><i>A Canticle for Leibowitz</i> by Walter M. Miller, Jr.</li>
+<li><i>The Story of a Soul</i> by St. Thérèse of Lisieux</li>
