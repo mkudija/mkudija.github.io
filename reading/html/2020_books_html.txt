@@ -22,7 +22,7 @@
 <li><i>The Black Swan: The Impact of the Highly Improbable</i> by Nassim Nicholas Taleb</li>
 <li><i>Rework: Change The Way You Work Forever</i> by Jason Fried & David Heinemeier Hansson</li>
 <li><i>The Big Short</i> by Michael Lewis </li>
-<li><i>Shorting Home Equity Mezzanine Tranches</i> by Greg Lippmann</li>
+<li><i>"Shorting Home Equity Mezzanine Tranches"</i> by Greg Lippmann</li>
 <li><i>Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</i> by Nassim Nicholas Taleb</li>
 <li><i>The Bed of Procrustes: Philosophical and Practical Aphorisms</i> by Nassim Nicholas Taleb</li>
 <li><i>The Birth-Mark</i> by Nathaniel Hawthorne</li>
@@ -37,3 +37,4 @@
 <li><i>The Last Full Measure: How Soldiers Die in Battle</i> by Michael Stephenson</li>
 <li><i>A Canticle for Leibowitz</i> by Walter M. Miller, Jr.</li>
 <li><i>The Story of a Soul</i> by St. Thérèse of Lisieux</li>
+<li><i>Matterhorn: A Novel of the Vietnam War</i> by Karl Marlantes</li>
