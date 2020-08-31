@@ -70,3 +70,15 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > No other purchase of that far-off day is even remembered, but the little book still remains a treasured possession read over and over. It is only one of many that have given me a great deal of pleasure in the years gone by and will continue to do so as long as I live. <br> —South Dakota Farmer[^farmer2]
 
 [^farmer2]: Lindell, Lisa R. [“‘So Long as I Can Read’: Farm Women's Reading Experiences in Depression-Era South Dakota.”](https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1026&context=library_pubs) *Agricultural History*, vol. 83, no. 4, 2009, pp. 503–527. JSTOR, www.jstor.org/stable/40607531. Accessed 7 May 2020. <br><br> Also this one: “How many, many times I have been asked, ‘Don’t you get terribly lonely out there, so far from town, so isolated?’ And always my answer has been, ‘Never, so long as I can read!’”
+
+> I don't want to sound pretentious but I don't understand people who don't have books. <br> —Emmanuel de Bayser[^Bayser]
+
+[^Bayser]: Nina Freudenberger, [*Bibliostyle*](https://www.amazon.com/Bibliostyle-How-Live-Home-Books/dp/0525575448/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=bibliostyle&qid=1598916492&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) (New York: Random House, 2019), 59.
+
+> I cannot live without a library, and I cannot live without a garden. A garden is where we negotiate with nature—a place between the wild and the tame—and a library is where we confront everything. <br> —Vik Muniz[^Muniz]
+
+[^Muniz]: Nina Freudenberger, [*Bibliostyle*](https://www.amazon.com/Bibliostyle-How-Live-Home-Books/dp/0525575448/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=bibliostyle&qid=1598916492&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) (New York: Random House, 2019), 99.
+
+> There's more to life than books, you know. But not much more. <br> —Coralie Bickford-Smith[^Bickford]
+
+[^Bickford]: Nina Freudenberger, [*Bibliostyle*](https://www.amazon.com/Bibliostyle-How-Live-Home-Books/dp/0525575448/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=bibliostyle&qid=1598916492&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) (New York: Random House, 2019), 205.
