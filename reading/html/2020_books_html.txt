@@ -40,3 +40,4 @@
 <li><i>Matterhorn: A Novel of the Vietnam War</i> by Karl Marlantes</li>
 <li><i>The Dark Night</i> by St. John of the Cross</li>
 <li><i>Bibliostyle: How We Live at Home with Books</i> by Nina Freudenberger</li>
+<li><i>Pére Jacques</i> by Michael Carrouges</li>
