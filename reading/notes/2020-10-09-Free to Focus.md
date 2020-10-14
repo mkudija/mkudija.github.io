@@ -5,6 +5,7 @@
 
 ## Resources
 - [https://freetofocus.com/tools/](https://freetofocus.com/tools/)
+- [PDF guides](https://github.com/mkudija/mkudija.github.io/tree/master/reading/notes/2020-10-09-Free%20to%20Focus)
 - [Free to focus planner videos](https://fullfocusplanner.com/quickstart/)
 
 ## Intro
