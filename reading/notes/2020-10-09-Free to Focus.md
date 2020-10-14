@@ -34,6 +34,9 @@
   - **passion**: "I can't believe they are paying me to do this"
   - **proficiency**: you have *skill* plus *contribution*
 - Zones of productivity
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2020-10-09-Free%20to%20Focus/images/49.jpg" width="75%" height="75%"></p>
+- Charlie "Tremendous" Jones: You will be the same person in five years as you are today except for the people you meet and the books you read." (50)
+
 
 ## Chapter 3 - Rejuvenate
 
