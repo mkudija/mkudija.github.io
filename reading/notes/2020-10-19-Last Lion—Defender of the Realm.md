@@ -6,24 +6,102 @@
 
 ## Themes
 - man of action:
-  - "Reading, For churchill, was a form of action" (6)
+  - "Reading, for Churchill, was a form of action" (6)
   - "he was working all the time, every waking moment" (Kathleen Hill, 9)
+  - "he was absolutely incapable of doing nothing" (Sir William Deakin, 15)
+- "One problem with deception is that the deceivers deceive themselves." (142)
+- On being #2 (Beaverbrook, 311)
+- Churchill always saw ahead...
+  - in the Cold War (444)
+  - in the strategy against Japan (449)
 
+## Books He Liked
+- *Childe Harold's Pilgrimage* by Byron (among others on 23)
+- Gibbon (who contributed to his oratory style of winding up and then releasing, 28)
+- *Fowler's Modern English Usage* (30)
+- *Hornblower* (391)
+- Grant's war memoirs (which he read when he was 13!) (519)
 
 ## Quotes
 - "Gentlemen, we are engaged in a very serious business. We must conduct it in a serious way." (8)
+- called children "wollygogs" (like my chollywogs) (16)
+- Beyond just technology: "Projects undreamed-of by past generations will absorb our immediate descendants comforts, activities, amenities, pleasures will crowd upon them, but their hearts will ache, and their lives will be barren if they have not a vision above material things." (17)
+- "I have nothing to offer but blood, toil, tears, and sweat." (56)
+- "Never in the field of human conflict was so much owed by so many to so few." (RAF, 147)
+- "Anger is a waste of energy. Steam which is used to blow off a safety valve would be better used to drive an engine." (304)
+- Never give in: "There is...this vitally important principle of stubborn resistance to the will of the enemy." (366)
+- Probability: "Fate holds terrible forfeits for those who gamble on certainties." (403, also 19)
+- "When you have to kill a man it costs nothing to be polite" (426)
+- "I would rather be right than consistent" (438)
+
 
 ## Insults
 - on Stanley Baldwin: "Occasionally he stumbled over the truth, but hastily picked himself up and hurried on as if nothing had happened." (5)
-- "This report, by its very length, defends itself against strutiny." (13)
+- "This report, by its very length, defends itself against scrutiny." (13)
+
+## Humorous
+- "One of his private secretaries, noting the rising smoke, offered, 'You're on fire, sir. May I put you out?' The P.M., not looking up, responded with nonchalance, 'Yes, please do.' And kept right at his work." (27)
+- on Mussolini: "the decline and fall of the Italian Empire...that will not take a future Gibbon so long to write as the original work." (286)
+- "If Brooke possessed a sense of humor, it was well concealed." (551)
 
 
 ## Quotes about Churchill
-- Simple: "Churchill had a naturla sympathy for simple people, because he himself took a simple view of what was required; and he hated casuistry. That was no doubt why the man-in-the-street loved him and the intellectuals did not." (Jock Colville, 6)
+- Simple: "Churchill had a natural sympathy for simple people, because he himself took a simple view of what was required; and he hated casuistry. That was no doubt why the man-in-the-street loved him and the intellectuals did not." (Jock Colville, 6)
 - "Churchill simply did not much care for what other people thought, and cared not at all about how they might *feel*" (8)
+- Respect: "Those who vehemently disagreed with him, and stated their case clearly, were those who won his respect." (14)
+- "He did not live in the past; the past lived on in him." (24)
+- "The idea that Britain was part of Europe but not 'in' Europe informed Churchill's political beliefs for his entire life." (119)
+- "He often said that history would be kind to him, because he would write it." (207)
+- "He had a way of seeing gold where others saw dirt." (341)
+- "Churchill spent his entire life rehearsing his *impromptu* remarks" (365)
+- Maps: "Churchill loved maps, as much for their utility as for their ability to stoke his imagination" (427)
+- Constructive conflict: "Whereas a peevish Hitler squelched dissent, Churchill fostered an often-fractious give-and-take between himself and his generals, with the result that decisions taken were made stronger by having been annealed in the furnace of debate." (448)
 
 
 ## Notes
+### Cyclone: May-Dec 1940
+- 9 months of nothing after invasion of Poland (41)
+- Norway campaign (57)
+- Nazi attack to low countries & France (61+)
+- Halt Order and Dunkirk evacuation (74-87)
+- June 22, 1940 France surrenders, British attack French fleet at Mers-el-Kébir (105)
+- Churchill's strategy: defend England; defend and attack in the Mediterranean (111)
+- Prepare for German invasion (121)
+- The Battle of Britain (133+)
+- The Blitz (161+) and X-Beam (214)
+- North Africa: Operation Compass; destroy forces rather than keep real estate (228)
+
+### The Rapids: Jan-Dec 1941
+- Cajoling Roosevelt & Lend-Lease: "Give us the tools, and we will finish the job." (295)
+- Battle of the Atlantic (314+)
+- Rommel advances (326)
+- Defeat in Greece (329), but amphibious landing learnings (334)
+- Malta (348)
+- Deputy Füher Rudolf Hess parachutes into Scotland (350)
+- Battle for Crete (353)
+- Sinking the Bismark (356)
+- Hitler could have crushed the British in the Mediterranean but overruled Rommel and Raeder (371)
+- Germany invades Russia (377)
+- First meeting with Roosevelt, the Atlantic Charter (389)
+- American ships sunk, but don't enter (398)
+
+### Vortex: Dec 1941 - Nov 1942
+- Agree to build A-bomb (420)
+- Pearl Harbor (421)
+- Ireland did not fight (423)
+- *Prince of Wales* lost to Japanese
+- Germany declares war on America, completing Churchill's *Grand Alliance* (440)
+- The Cold War started in 1941 (444)
+- Churchill's portrait in Canada (459), and United Nations (461), and fly back to Britain but almost die (468)
+- Domestic political challenges overcome (472)
+- Fall of Singapore (480)
+- St-Nazaire raid (498), desperate naval situation (501), and Doolittle raid (503)
+- Staggering shipping losses (512)
+- Oil and attrition (516)
+- Midway (533)
+- Operation Torch (548)
 
 
-## Jobs
+## New Words
+- doyen (115)
+
