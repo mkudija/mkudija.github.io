@@ -9,14 +9,19 @@
   - "Reading, for Churchill, was a form of action" (6)
   - "he was working all the time, every waking moment" (Kathleen Hill, 9)
   - "he was absolutely incapable of doing nothing" (Sir William Deakin, 15)
+  - squeezed two days of work into one (989)
 - "One problem with deception is that the deceivers deceive themselves." (142)
 - On being #2 (Beaverbrook, 311)
 - Churchill always saw ahead...
   - in the Cold War (444)
   - in the strategy against Japan (449)
+  - implications of atomic weapons (995) and MAD (1025)
 - on sacking subordinates (560)
 - Churchill's strategy: impatience, flexibility, attack the weaker of two enemies (602)
-- 
+- Simplicity:
+  - "He hated the intellectual arrogance of the left" (944)
+  - "He spoke to the common man, and more important, could speak *like* the common man" (988)
+  - dislike for PC speech (994)
 
 ## Books He Liked
 - *Childe Harold's Pilgrimage* by Byron (among others on 23)
@@ -25,6 +30,8 @@
 - *Hornblower* (391)
 - Grant's war memoirs (which he read when he was 13!) (519)
 - *Phineas Finn* and *The Duke's Children* (871)
+- *Jane Eyre*, Trollope, *Candide*, *Wuthering Heights*, *1984*, *Phineas Finn*, C.S. Forester (1023), *Death to the French* (1026)
+- movies (1041)
 
 ## Quotes
 - "Gentlemen, we are engaged in a very serious business. We must conduct it in a serious way." (8)
@@ -40,6 +47,8 @@
 - "Truth is so precious that she should always be protected by a bodyguard of lies." (767)
 - "The idea that you can vote yourself into prosperity is one of the most ludicrous that was ever entertained." (871)
 - After losing the election: Clemmie - "It may well be a blessing in disguise.", Churchill - "Well, at the moment it's certainly very well disguised." (950)
+- "Socialism is the philosophy of failure, the creed of ignorance and he gospel of envy." (987)
+- "It was a nation and race dwelling all round the globe that had the lion heart. I had the luck to be called upon to give the roar." (1032)
 
 
 ## Insults
@@ -52,6 +61,7 @@
 - "If Brooke possessed a sense of humor, it was well concealed." (551)
 - "You might as well eat a porcupine one quill at a time" (680)
 - "I feel more like entering a lunatic asylum...than continuing with my present job." (Brooke 764)
+- "Whether my Maker is prepared for the ordeal of meeting me is another matter." (991-2)
 
 
 ## Quotes about Churchill
@@ -59,7 +69,7 @@
 - "Churchill simply did not much care for what other people thought, and cared not at all about how they might *feel*" (8)
 - Respect: "Those who vehemently disagreed with him, and stated their case clearly, were those who won his respect." (14)
 - "He did not live in the past; the past lived on in him." (24)
-- "The idea that Britain was part of Europe but not 'in' Europe informed Churchill's political beliefs for his entire life." (119)
+- "The idea that Britain was part of Europe but not 'in' Europe informed Churchill's political beliefs for his entire life." (119, 963)
 - "He often said that history would be kind to him, because he would write it." (207)
 - "He had a way of seeing gold where others saw dirt." (341)
 - "Churchill spent his entire life rehearsing his *impromptu* remarks" (365)
@@ -154,7 +164,23 @@
 - The "Iron Curtain" descends, Potsdam conference (933)
 - Plan for possible war with Russia: "Operation Unthinkable" (935)
 - Domestic socialism (940), and Churchill loses the election (949)
-- 
+- Nationalization of Britain under new leadership (954)
+- UN (955)
+- Churchill gives "Iron Curtain" speech in America (957)
+- Toward a united Europe (963)
+- Truman Doctrine and Marshall Plan (966)
+- Churchill is finally rich (968), despite British austerity (975)
+- Berlin Airlift (982)
+- Korea (983)
+- Winston is back as PM (1016)
+- Churchill is knighted (1022)
+- Bermuda conference (1024)
+- Washington (1028)
+
+## Postscript 1955 - 1965
+- Challenges with his children (1035, 1038)
+- Honorary US Citizenship (1051)
+- Dies January 24, 1965 (1052)
 
 ## New Words
 - doyen (115)
