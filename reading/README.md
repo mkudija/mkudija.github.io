@@ -9,3 +9,11 @@ Listed at [matthewkudija.com/reading](http://matthewkudija.com/reading)
 * Genreates [image](https://github.com/mkudija/mkudija.github.io/blob/master/images/book_plot.png)
 
 ![Reading](https://github.com/mkudija/mkudija.github.io/blob/master/images/book_plot.png)
+
+
+### Others with book lists
+- [Matt Kernan](https://mattkernan.com/)
+- [Ryan Holiday](https://ryanholiday.net/reading-list/)
+- [Derek Sivers](https://sive.rs/book?sort=title)
+- [Matthew McAteer](https://matthewmcateer.me/bookshelf/)
+- [Nat Eliason](https://www.nateliason.com/notes)
