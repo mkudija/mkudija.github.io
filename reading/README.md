@@ -18,6 +18,8 @@ Listed at [matthewkudija.com/reading](http://matthewkudija.com/reading)
 - [Matthew McAteer](https://matthewmcateer.me/bookshelf/)
 - [Nat Eliason](https://www.nateliason.com/notes)
 - [Tom MacWright](https://macwright.com/reading/)
+- [Coleman McCormick](https://www.colemanm.org/books/) *(from Tom MacWright)*
+- [Patrick Collison](https://patrickcollison.com/bookshelf) *(from Coleman McCormick)*
 - [Tom Critchlow](https://tomcritchlow.com/wiki/books/books-read/) (and see [this list](https://tomcritchlow.com/wiki/books/bookshelves/) he put together!)
 - [Kevin Simler](https://meltingasphalt.com/what-im-reading/)
 - [Phil Gyford](https://www.gyford.com/phil/reading/)
