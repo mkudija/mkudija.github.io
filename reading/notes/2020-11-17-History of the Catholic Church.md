@@ -8,7 +8,7 @@
 # Kindle Notes
 
 
-## 1     Beginning at Jerusalem (Location 191)
+## 1 Beginning at Jerusalem
 - The events of Pentecost showed that this Church would not remain merely a congregation of like-minded people but would be held together by divine power.3 (Location 202)
 - out of suffering, Judaism as a world religion was born. (Location 213)
 - Jesus summoned the Twelve from the midst of these factions, including even Simon the Zealot, and their divergent, even contradictory, views of Judaism often hampered the Apostles from truly understanding what Jesus was saying. (Location 215)
@@ -20,25 +20,26 @@
 - The Sermon on the Mount was the heart of Jesus’ social teaching, but He laid down no plan for a just social order and thereby deprived all social orders of divine authority, something that, paradoxically, made social change possible. (Location 518)
 - (Christianity is unusual among great religions in not forbidding any particular food to its adherents.) (Location 557)
 
-## 2     The Seed of Christians (Location 620)
-- But the Church’s eventual victory had a profound effect not only on her own life but on the entire Western world and the Christian Near East. Had it been victorious, Gnosticism might have penetrated the culture of the Roman Empire in such a way as to create a new world religion of deep pessimism and rejection of the world. Western culture would have lost that sense of the importance of human activity in history that distinguished it from the fatalism that at times affected much of the East. (Location 630)
+## 2 The Seed of Christians
+- But the Church’s eventual victory had a profound effect not only on her own life but on the entire Western world and the Christian Near East. Had it been victorious, **Gnosticism** might have penetrated the culture of the Roman Empire in such a way as to create a new world religion of deep pessimism and rejection of the world. Western culture would have lost that sense of the importance of human activity in history that distinguished it from the fatalism that at times affected much of the East. (Location 630)
 - pattern that would recur over and over again in the history of the Church: doctrines becoming fully conscious, and formally stated, only after being called into question. (Location 711)
 - But election alone did not make a man a bishop. Also required was the laying on of hands by other bishops (usually three), part of the process that insured apostolic succession. Thus each local church had to keep an exact record of the spiritual lineage of its bishops. (Location 748)
-- epiklesis (“invocation”) calling down the Holy Spirit on the gifts. (Location 755)
+- **epiklesis** (“invocation”) calling down the Holy Spirit on the gifts. (Location 755)
 - At the end of the Eucharist, some of the consecrated hosts (a name for a sacrificial victim) were reserved for the sick, but some could also be given to the congregation, who took them to their homes and consumed them each day, before taking any other food or drink. (Location 782)
 - From Revelation came the symbols of the four Evangelists: the man for Matthew, who elaborated the human genealogy of Jesus; the ox for Luke, who began with Zechariah’s sacrifice in the Temple; the lion for Mark, who began with John the Baptist in the wilderness; and the soaring eagle for John, whose writings elevated readers to the Eternal Word. (Location 793)
-- typological, (Location 794)
-- allegorical, (Location 794)
-- anagogical, (Location 800)
+- levels of exegesis (pg 46)
+  - typological
+  - allegorical
+  - anagogical
 - The catechumenate was ordinarily a three-year period of instruction and probation, with emphasis on Scripture and the ethical teachings of Christianity, in order to judge whether the candidates were worthy of baptism. (Location 822)
-- Origen, whose father was a martyr, was an extreme ascetic, considered to be excessively rigorous in his moral teachings—according to legend he castrated himself because of Jesus’ admonition “If your right eye causes you to sin, pluck it out” (Mt 5:29; see Mt 18:9). (Location 844)
+- **Origen**, whose father was a martyr, was an extreme ascetic, considered to be excessively rigorous in his moral teachings—according to legend he castrated himself because of Jesus’ admonition “If your right eye causes you to sin, pluck it out” (Mt 5:29; see Mt 18:9). (Location 844)
 - The Empire underwent a long crisis that was military and financial in nature but also moral—a loss of patriotism that made citizens unwilling to assume their traditional duties, a prosperity that rendered them indolent and hedonistic, and a series of despotic rulers who made citizenship meaningless. In the Greco-Roman world, citizenship—full participation in the life of society—was considered the highest duty. (Location 848)
 - obedient to the state in a passive way (they prayed even for evil emperors) but detached from it. (Location 853)
 - complete prohibition of abortion, a prohibition found in the Didache (“teaching”), one of the earliest Christian writings. (Location 897)
-- He reportedly joked, “Turn me over, I’m done on this side”, as he was slowly roasted on a gridiron. (Location 942)
-- Both schisms endured for centuries. (Location 952)
+- **St. Lawrence**: He reportedly joked, “Turn me over, I’m done on this side”, as he was slowly roasted on a gridiron. (Location 942, pg 51)
+- Both [Egyptian, pg 52] schisms endured for centuries. (Location 952)
 
-## 3     The Triumph of the Cross (Location 1053)
+## 3 The Triumph of the Cross
 - the epithet “Eternal City” acquiring primarily a religious rather than a political meaning. (Location 1071)
 - St. Augustine (d. 430), bishop of Hippo (North Africa), wrote his seminal work The City of God primarily to refute the claim that the sack of Rome by barbarians had that cause. (Location 1090)
 - Because sinful men could not be relied upon to do good and avoid evil voluntarily, they needed the state to suppress bad behavior through the threat of punishment. At the same time, Christianity also offered membership in a universal community that transcended the Empire itself. The Church was a universal state that would ensure peace and justice. She represented the common unity of mankind that was greater than the unity of the Empire. (Location 1112)
@@ -58,7 +59,7 @@
 - Monks were to be cenobites, living near one another in separate cells but sharing prayer and daily tasks in common, eating two meals a day (never meat or cooked food), and fasting completely on Wednesday and Friday. (Location 1473)
 - Monasticism broadened the concept of sainthood. Previously, only martyrs were commemorated in the liturgy, and they alone were called saints. But at the end of the fourth century, that title was conferred on the Gallic monk and bishop Martin of Tours (d. 397), a former Roman soldier, who had introduced monasticism into the West before serving as a bishop. Thus began the tradition by which non-martyrs were venerated for their heroic virtue, classified as either confessors or virgins. (Location 1486)
 
-## 4     Holy Wisdom (Location 1493)
+## 4 Holy Wisdom
 - Many of the Fathers were also bishops, and their speculations arose directly out of their responsibility of guiding their flocks through treacherous waters. (Location 1496)
 - Christianity, much more than any other religion in the history of the world, placed doctrinal orthodoxy close to the center of its life, a sometimes excessive concern for doctrinal clarity that was motivated by both the Greek passion for philosophical certitude and the religious passion to be faithful to the Gospel. (Location 1500)
 - dogmas—things required to be believed—that (Location 1517)
@@ -95,7 +96,7 @@
 - Augustine was a profoundly important political thinker because, following Ambrose, he deprived the state of its aura of divinity and subordinated it to the higher divine purpose, a subordination that made Western ideas of freedom and justice possible. (Location 1902)
 - Augustine thereby laid the foundation for the theory of the “just war” (Location 1959)
 
-## 5     Light in Darkness (Location 2019)
+## 5 Light in Darkness
 - The great Italian monastery of Monte Cassino was destroyed twice during the Dark Ages but refounded each time. (Location 2047)
 - Since the Church transcended all earthly regimes, she was the only institution not dragged down by the Empire’s fall, (Location 2122)
 - Female monasticism, for the first time in history, offered a way of life for women other than marriage, (Location 2139)
@@ -120,7 +121,7 @@
 - Proper (“belonging” to a particular feast), (Location 2717)
 - In the eleventh century, the Church at Rome acceded to the request of the emperor St. Henry II (1002-1024) to adopt this Frankish custom, thereby making it universal. (Location 2811)
 
-## 6     Christendom (Location 2816)
+## 6 Christendom
 - recovery was due mainly to the growth of centralized states under strong kings, (Location 2821)
 - Despite continuous internal conflict, medieval people believed in the idea of a unified Christendom based on Augustine’s idea of the two cities, an exalted view of a universal society that came closest to realization during the thirteenth century, not because the faith was then perfectly lived but because all aspects of life were consciously oriented toward Christian beliefs. It was an age of contradictions—cruelty and charity, beauty and squalor—but in no other age did Christianity achieve such complete expression. (Location 2873)
 - St. Thomas Aquinas (d. 1274), the most influential medieval thinker, affirmed monarchy as the best political system (Location 2937)
@@ -150,7 +151,9 @@
 - the intellectual revival of the eleventh and twelfth centuries required a new institution in which original thinking could take place. Thus the university was born. (Location 3708)
 - (The Sentences of Peter Lombard [d. 1169] was one of the most influential books of the Middle Ages, (Location 3728)
 - Based on Lombard, he wrote a book called Yes and No, in which he pointed out what he considered to be unresolved contradictions among the opinions of previous thinkers. (Location 3755)
-- Muslim thinkers, who in 1100 had been far in advance of Christians in the study of the physical sciences, increasingly abandoned speculation completely, in order to protect the integrity of their religion.6 (Location 3761)
+- Muslim thinkers, who in 1100 had been far in advance of Christians in the study of the physical sciences, increasingly abandoned speculation completely, in order to protect the integrity of their religion. (Location 3761, pg 181)
+  - It was to this divergence that Pope Benedict XVI referred in his controversial remarks about Islam at Regensburg, Germany, in 2007.
+
 - the Scholastics, beginning in the late twelfth century, began revising Aristotle’s thought to bring it into harmony with divine revelation. (Location )3771
 - God intended all men to be saved, assumed Aquinas, therefore truth must be knowable through reason. Human nature was damaged by sin, so that men see, in St. Paul’s words, only “through a glass, darkly” (Location 3811)
 - Along with Augustine, Aquinas was the most influential thinker in the history of the Catholic Church, the importance of whose achievement can hardly be exaggerated. (Location 3841)
@@ -160,7 +163,7 @@
 - Dante delineated a hierarchy of sins that, as a Thomist, he based on human reason. (Location 3885)
 - But his great poetic synthesis was created at the very point when Christendom was on the verge of unraveling. (Location 3887)
 
-## 7     East and West (Location 3936)
+## 7 East and West
 - Alexandria traced its lineage to St. Mark the Evangelist. In the ninth century, when the city was under Muslim control, Venetian adventurers took the Apostle’s body to Venice, where the magnificent Byzantine-style St. Mark’s Basilica was built to house it. (Location 3959)
 - Easterners might condescend to Westerners as theologically backward, but Westerners could point out that the East was the hatching ground of almost all heresies. (Location 4048)
 - the East did not develop a rigorous abstract theology like Scholasticism. (Location 4074)
@@ -168,7 +171,7 @@
 - won a great naval victory over the Turks at Lepanto, off the coast of Greece, thereby liberating fifteen thousand Christian galley slaves and freeing the Western Mediterranean from the Muslim threat. (Location 4306)
 - in general most Eastern Rites follow ancient Eastern customs: married priests, but not bishops; leavened bread in the Eucharist (which is not ordinarily referred to by the Latin word Mass); Communion in both kinds; an ikonostasis separating the sanctuary from the body of the church; baptism by immersion, immediately followed by chrismation; the Blessed Sacrament reserved mainly for the sick, not for veneration; standing during most of the Eucharist; and icons rather than statues as objects of devotion. (Location 4408)
 
-## 8     Decline and Rebirth (Location 4439)
+## 8 Decline and Rebirth
 - Philip’s defeat of the papacy also marked the defeat of the larger ideal of a universal spiritual society. For three centuries, the movement of Christendom had been toward unity; now it began to reverse itself. (Location 4450)
 - In 1305, to placate Philip, the cardinals elected a friend of the king, the Frenchman Clement V (1305-1314), who never set foot in Rome and made his headquarters at Avignon, (Location 4485)
 - Gregory XI (1370-1378), partly because of rebellion in the Papal States, returned to Rome in 1377 at the request of St. Catherine of Siena (d. 1380), a Dominican tertiary who exhorted him to do his duty. After Gregory’s death, the cardinals met in one of the most momentous conclaves in the history of the Church. In the face of frenzied popular demands (Location 4492)
@@ -193,7 +196,7 @@
 - his greatest achievement was an edition of the Greek New Testament, based on the best manuscripts he could find and published alongside the Vulgate. His Greek text did not differ from the Vulgate (Location 5174)
 - The intellectual life of the West changed dramatically in the 1450s with the invention of movable type, which allowed ideas to be spread far more rapidly than was possible through the painstaking copying of manuscripts by hand. (Location 5178)
 
-## 9     Reform and Counter-Reform (Location 5182)
+## 9 Reform and Counter-Reform
 - The Fifth Lateran Council (1512-1517) was the first serious official attempt to reform the Church, (Location 5284)
 - The point of all this was to orient the Jesuit toward activity in the world, eliminating those things that might impede apostolic zeal. Against the concern that such a regimen might produce worldly men with no spiritual depth, Ignatius prescribed an unusually long period of training and an intense program of personal prayer and meditation, so that, even if a Jesuit found himself away from a community for long years, he might continue to grow in the spiritual life. (Location 5354)
 - On any list of Catholic doctrines, indulgences would not rank near the top in importance, but they proved to be precisely the point where the Church was most vulnerable, because many things came together there in a concrete way: anxiety about sin and salvation, the credibility of official teaching, the significance of external acts, the rapaciousness of some of the clergy, and the apparent sale of a spiritual good. (Location 5428)
@@ -224,7 +227,7 @@
 - “unitive way”, (Location 6251)
 - The Baroque spread as far as Latin America and Japan, but it flourished best in Europe, its exuberance stemming from religion but made possible by the aristocratic mentality that disdained economic prudence and spent lavishly as a sign of wealth and generosity (Location 6304)
 
-## 10     Reason and Revolution (Location 6357)
+## 10 Reason and Revolution
 - greatest of all religious conflicts—the Thirty Years’ War (1618-1648). (Location 6715)
 - Descartes began the search for truth by undertaking to doubt everything that could be doubted, so that whatever remained would be certain. (Location 6741)
 - Pascal was almost alone in seeing fully what was involved in the scientific revolution, attempting to overcome skeptical rationalism several generations before that skepticism had fully emerged. (Location 6749)
@@ -247,7 +250,7 @@
 - Lay people who were conspicuously devout or who harbored priests were also sometimes sentenced to death. The (Location 7173)
 - Compulsory optimism was at the heart of the new creed, with the doctrine of Original Sin considered one of Christianity’s major errors. The Revolution promised the achievement of a perfect society and a perfect mankind. (Location 7224)
 
-## 11     Modernity (Location 7245)
+## 11 Modernity (Location 7245)
 - It was during this period that the familiar division of politics into liberal and conservative (“left” and “right”, from the seating arrangements in the French National Assembly in 1790) came into common use. (Location 7286)
 - In some ways, the most important part of the liberal program was universal, state-sponsored education, which to a great extent was intended to bring about the secularization of society, (Location 7290)
 - (They were not permitted back into Switzerland until 1973.) (Location 7291)
@@ -277,7 +280,7 @@
 - Catholic intellectual revival were the convert English Jesuit Gerard Manley (Location 8243)
 - The convert English historian Christopher Dawson (d. 1970) ranged over all of history, explicating better than anyone had ever done the crucial importance of religion at the heart of every civilization. (Location 8258)
 
-## 12     To the Ends of the Earth (Location 8389)
+## 12 To the Ends of the Earth
 - Because of the pagan worship of the sun, monstrances were often crafted with a circle of gold rays around the center, showing that Christ was the true sun, the source of all light. (In a reversal of influence, this radial type of monstrance was introduced into Europe from the New World.) (Location 8420)
 - the reducciones established by the Jesuits in Paraguay in the seventeenth century. By 1700, these communities embraced one hundred thousand Indians, perhaps the most successful social experiment ever attempted. (Location 8520)
 - Like all Jesuits of his era, he was a Thomist, and the Thomistic emphasis on natural theology—the truths knowable by the mind even before it receives divine revelation—underlay his efforts. (Location 8600)
@@ -285,7 +288,7 @@
 - Japanese culture, however, recognized no transcendent moral law. The civil law embodied the highest moral principles, including obedience, and those who were put to death were seen as mere criminals. (Location 8854)
 - In one of the most remarkable episodes in the entire history of the Church, French missionaries discovered a small number of secret Catholics living around Nagasaki, a people who had been preserving their faith without priests for over two hundred years. (Location 9044)
 
-## 13     The New Nations (Location 9254)
+## 13 The New Nations
 - At that time, and for a long time afterward, the United States was the only country in the world where it was possible for the Church to erect dioceses and parishes, establish charitable and educational institutions, and appoint clergy without at least the formal approval of the government. (Location )9282
 - People of all religions were presumed to be able to live harmoniously together under a state that was neutral toward specific religions but not toward religion as such.
 - Bookmark - Location 9371 (Location 9403)
@@ -295,21 +298,19 @@
 - films—Boys’ Town, Fighting Father Dunne, Going My Way, The Bells of St. Mary’s, and The Miracle of the Bells. (Location 10055)
 - By contrast, neither Canada nor Australia had a significant movement that could be called Evangelical or Fundamentalist and, as those countries became less Protestant, in a sense they also became less Catholic. (Location 10059)
 
-## 14     Joy and Hope, Grief and Anguish (Location 10140)
+## 14 Joy and Hope, Grief and Anguish
 - In the end, most of the conciliar decrees were consciously balanced, often by a very careful choice of words. This balance would later allow both “liberals” and “conservatives” to claim conciliar authority for their interpretations.2 (Location 10154)
-- ressourcement (“recovery of the sources”). A return to the Church’s scriptural and patristic roots during the millennium before the advent of Scholasticism (Location 10171)
-- aggiornamento (“updating”), moved in the direction of modernism3 by making the demands of contemporary culture its chief concern. (Location 10212)
-- During the 1950s, scholars at the Ecole Biblique produced the Jerusalem Bible, a rendering of the Scripture in modern French that was soon translated into English and began to supplant the Douai-Rheims edition that had been in use for 350 years. Over the next several decades, there was a proliferation of new biblical translations in many languages, and Catholics even began using Protestant versions. (Location 10421)
-- His Mater et Magistra (Mother and Teacher, 1961) was a strong restatement of the principles of distributive justice, (Location 10452)
+- **ressourcement** (“recovery of the sources”). A return to the Church’s scriptural and patristic roots during the millennium before the advent of Scholasticism (Location 10171, pg 478)
+- **aggiornamento** (“updating”), moved in the direction of modernism3 by making the demands of contemporary culture its chief concern. (Location 10212)
+- During the 1950s, scholars at the Ecole Biblique produced the **Jerusalem Bible**, a rendering of the Scripture in modern French that was soon translated into English and began to supplant the Douai-Rheims edition that had been in use for 350 years. Over the next several decades, there was a proliferation of new biblical translations in many languages, and Catholics even began using Protestant versions. (Location 10421)
+- His *Mater et Magistra* (Mother and Teacher, 1961) was a strong restatement of the principles of **distributive justice** (Location 10452)
 - Unrecognized at first, it soon became clear that attempting to counter secularism by moving closer to the secular culture produced largely negative results. “Modernization”, rather than satisfying the discontented, merely whetted the appetite for more of the same. As had been happening to liberal Protestantism for some time, rates of church attendance and religious vocations among Catholics began to fall, almost exactly in proportion to how “progressive” the Church became. (Location 10484)
 - the postconciliar period therefore proved to be a time of rudderless experimentation, with change itself apparently now the only new certitude. (Location 10596)
-- a group of Catholic university presidents in the United States declared their independence from Church authority. (Location 10752)
+- a group of Catholic university presidents in the United States declared their independence from Church authority. (Location 10752) [i.e. Land-o-Lakes statement, Hesburgh]
 - Feminists, many of them male, were usually the angriest. (Location 10836)
 - innovative in the service of orthodoxy. (Location 10876)
 - The future pope’s doctoral dissertation on the mystical theology of St. John of the Cross integrated the latter’s Thomism with his phenomenological descriptions of the mystical state. (Location 10904)
 - some Catholics were surprised to discover that they had more in common with Evangelicals than with liberal fellow Catholics. (Location 10959)
 - Under Ratzinger, the CDF began to act vigorously to correct questionable teachings, issuing official warnings against several theologians and in some cases ordering them to cease teaching and publishing. Although theologians sometimes complained that they were condemned without being understood, they were in fact being judged by a man whose intelligence and theological attainments were superior to their own. (Location 11117)
 - greater use of Latin as a vehicle of tradition and a unifying liturgical language; (Location 11121)
-- Significantly, he expressed belief that the priest at Mass should face ad orientem, as head of the congregation facing East toward God, rather than versus populum (toward the people). The ad orientem position, he believed, was more appropriate to the Mass as primarily an act of worship rather than a community celebration. (Location 11469)
-
-- 6 It was to this divergence that Pope Benedict XVI referred in his controversial remarks about Islam at Regensburg, Germany, in 2007. Back
+- Significantly, he expressed belief that the priest at Mass should face **ad orientem**, as head of the congregation facing East toward God, rather than versus populum (toward the people). The ad orientem position, he believed, was more appropriate to the Mass as primarily an act of worship rather than a community celebration. (Location 11469)
