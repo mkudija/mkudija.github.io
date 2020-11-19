@@ -2,11 +2,12 @@
 
 (San Francisco: Ignatius, 2012), 530
 
+I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey sung its praises and encouraged me to read it when he was over for dinner. The history of the Church is also in large part the history of Western civilization in terms of religion, culture, politics, art, and other domains of life. Hitchcock undertakes the impossible task of condensing 2000 years of history into a manageable volume and doing so in a way that seeks the truth with the eyes of faith. He is fair in his treatment of the great sin and failings of its leaders and members but also places these—and history itself—in the context of eternity. Indeed, as he concludes: "for Christians, there can be no final understanding of history in this life" (527).
+
 
 
 
 # Kindle Notes
-
 
 ## 1 Beginning at Jerusalem
 - The events of Pentecost showed that this Church would not remain merely a congregation of like-minded people but would be held together by divine power.3 (Location 202)
