@@ -1,7 +1,7 @@
 <li><i>Einstein</i> by Walter Isaacson</li>
 <li><i>Tuesdays With Morrie</i> by Mitch Albom</li>
 <li><i>A Canticle For Liebowitz</i> by Walter M. Miller, Jr.</li>
-<li><i>After Virtue</i> by Alasdair MacIntyre</li>
+<li><i>After Virtue: A Study in Moral Theory</i> by Alasdair MacIntyre</li>
 <li><i>Warmth Disperses and Time Passes</i> by Hans Christian Von Baeyer</li>
 <li><i>Remaking the World: Adventures in Engineering</i> by Henry Petroski</li>
 <li><i>Flying to the Moon: An Astronaut's Story</i> by Michael Collins</li>
