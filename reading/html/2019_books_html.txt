@@ -1,93 +1,93 @@
-<li><i>Washington: A Life (Abridged)</i> by Ron Chernow</li>
-<li><i>The Power of Zero, Revised and Updated: How to Get to the 0% Tax Bracket and Transform Your Retirement</i> by David McKnight</li>
-<li><i>A Shorter Summa: The Essential Philosophical Passages of Saint Thomas Aquinas' Summa Theologica</i> by Peter Kreeft</li>
-<li><i>Thomas Aquinas in 90 Minutes</i> by Paul Strathern</li>
-<li><i>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</i> by Gene Kim and Kevin Behr</li>
-<li><i>A Tale of Two Cities</i> by Charles Dickens</li>
-<li><i>The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies</i> by Jason Fagone</li>
-<li><i>The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data</i> by Kevin Mitnick</li>
-<li><i>How to Be Invisible: Protect Your Home, Your Children, Your Assets, and Your Life</i> by J. J. Luna</li>
-<li><i>Men in Green Faces: A Novel of U.S. Navy SEALs</i> by Gene Wentz</li>
-<li><i>Skunk Works: A Personal Memoir of My Years at Lockheed</i> by Ben Rich</li>
-<li><i>Fahrenheit 451</i> by Ray Bradbury</li>
-<li><i>Catch Me If You Can: The True Story of a Real Fake</i> by Frank Abagnale Jr. & Stan Redding</li>
-<li><i>Digital Minimalism: Choosing a Focused Life in a Noisy World</i> by Cal Newport</li>
-<li><i>Quiet: The Power of Introverts in a World That Can't Stop Talking</i> by Susan Cain</li>
-<li><i>The Little Oratory: A Beginner's Guide to Praying in the Home</i> by David Clayton & Leila Lawler</li>
-<li><i>The Red Bandanna: A life. A choice. A Legacy.</i> by Tom Rinaldi</li>
-<li><i>Negotiating Your Salary</i> by Jack Chapman</li>
-<li><i>Walking</i> by Henry David Thoreau</li>
-<li><i>The Gene: An Intimate History</i> by Siddhartha Mukherjee</li>
-<li><i>Notes from Underground</i> by Fyodor Dostoyevsky</li>
-<li><i>The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed</i> by Jessica Lahey</li>
-<li><i>Lead Yourself First: Inspiring Leadership Through Solitude</i> by Raymond M. Kethledge & Michael S. Erwin</li>
-<li><i>The Hobbit Party: The Vision of Freedom that Tolkien Got, and the West Forgot</i> by Jay Richards & Jonathan Witt</li>
-<li><i>Meet the Frugalwoods: Achieving Financial Independence Through Simple Living</i> by Elizabeth Willard Thames</li>
-<li><i>The Power of Silence: Against the Dictatorship of Noise</i> by Robert Cardinal Sarah</li>
-<li><i>The Jeweler's Shop</i> by Karol Wojtyla</li>
-<li><i>Jesus of Nazareth: Holy Week: from the Entrance into Jerusalem to the Resurrection</i> by Pope Benedict XVI</li>
-<li><i>The Picture of Dorian Gray</i> by Oscar Wilde</li>
-<li><i>The Last Lion: Winston Spencer Churchill: Alone, 1932-1940</i> by William Manchester</li>
-<li><i>Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart</i> by C. R. Wiley</li>
-<li><i>You Are Not a Gadget: A Manifesto</i> by Jaron Lanier</li>
-<li><i>Ghost Fleet: A Novel of the Next World War</i> by P. W. Singer and August Cole</li>
-<li><i>The Rise and Fall of the Third Reich: A History of Nazi Germany</i> by William L. Shirer</li>
-<li><i>The House At Pooh Corner</i> by A. A. Milne</li>
-<li><i>The Great Divorce</i> by C.S. Lewis</li>
-<li><i>Saint Anthony of Padua: Our Franciscan Friend</i> edited by Cassian A. Miles, O.F.M.</li>
-<li><i>The Abolition of Man</i> by C.S. Lewis</li>
-<li><i>The Screwtape Letters</i> by C.S. Lewis</li>
-<li><i>Execution: The Discipline of Getting Things Done</i> by Larry Bossidy & Ram Charan</li>
-<li><i>Billy Lynn's Long Halftime Walk</i> by Ben Fountain</li>
-<li><i>Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selves</i> by Christian Rudder</li>
-<li><i>Kristin Lavransdatter</i> by Sigrid Undset</li>
-<li><i>Brave New World</i> by Aldous Huxley</li>
-<li><i>Successful Fathers: The Subtle but Powerful Ways Fathers Mold Their Children's Characters</i> by James B. Stenson</li>
-<li><i>The Servile State</i> by Hilaire Belloc</li>
-<li><i>Into the Rising Sun: World War II's Pacific Veterans Reveal the Heart of Combat</i> by Patrick K. O'Donnell</li>
-<li><i>The Call of the Wild</i> by Jack London</li>
-<li><i>White Fang</i> by Jack London</li>
-<li><i>A Plan of Life</i> by Joseph M. Muntadas</li>
-<li><i>Think and Grow Rich</i> by Napoleon Hill</li>
-<li><i>"Forget Not Love": The Passion of Maximilian Kolbe</i> by André Frossard</li>
-<li><i>Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice</i> by Bill Browder</li>
-<li><i>The Hiding Place</i> by Corrie Ten Boom</li>
-<li><i>Heaven in Stone and Glass: Experiencing the Spirituality of the Great Cathedrals</i> by Robert Barron</li>
-<li><i>Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked</i> by Adam Alter</li>
-<li><i>Edith Stein: Essential Writings</i> by Edith Stein (selected by John Sullivan, OCD)</li>
-<li><i>How to Make a Good Confession: A Pocket Guide to Reconciliation with God</i> by John A. Kane</li>
-<li><i>The Rule of St. Benedict in English</i> by St. Benedict (edited by Timothy Fry, O.S.B.)</li>
-<li><i>The Rule of Saint Augustine</i> by St. Augustine (introduction and commentary by Tarsicius J. Van Bavel, OSA)</li>
-<li><i>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</i> by Ben Horowitz</li>
-<li><i>"The Pit and the Pendulum", "The Tell-Tale Heart", and "The Cask of Amontillado"</i> by Edgar Allan Poe</li>
-<li><i>The Way of a Pilgrim</i> edited by G. P. Fedotov</li>
-<li><i>The Jesus Storybook Bible: Every Story Whispers His Name</i> by Sally Lloyd-Jones</li>
-<li><i>Structures: Or Why Things Don't Fall Down</i> by J. E. Gordon</li>
-<li><i>Joan of Arc</i> by Mark Twain</li>
-<li><i>Machine Learning: The High-Interest Credit Card of Technical Debt</i> by D. Sculley et al.</li>
-<li><i>The Giver</i> by Lois Lowry</li>
-<li><i>Gathering Blue</i> by Lois Lowry</li>
-<li><i>The Autobiography of a Hunted Priest</i> by John Gerard, S.J.</li>
-<li><i>Messenger</i> by Lois Lowry</li>
-<li><i>John Paul the Great: Remembering a Spiritual Father</i> by Peggy Noonan</li>
-<li><i>Son</i> by Lois Lowry</li>
-<li><i>Wise Blood</i> by Flannery O'Connor</li>
-<li><i>Property & Casualty Insurance Primer</i> by Cliff Gallant et al. (KBW)</li>
-<li><i>The Death of Ivan Ilyich</i> by Leo Tolstoy</li>
-<li><i>The Love That Keeps Us Sane: Living the Little Way of St. Thérèse of Lisieux</i> by Marc Foley, O.C.D.</li>
-<li><i>The Sun Does Shine: How I Found Life and Freedom on Death Row</i> by Anthony Ray Hinton</li>
-<li><i>Padre Pio: A Personal Portrait</i> by Fr. Francesco Napolitano</li>
-<li><i>Man and Woman He Created Them: A Theology of the Body</i> by Pope John Paul II</li>
-<li><i>Saint John Bosco</i> by F. A. Forbes</li>
-<li><i>American Caesar: Douglas MacArthur 1880 - 1964</i> by William Manchester</li>
-<li><i>Accidental Saints: Finding God in All the Wrong People</i> by Nadia Bolz-Weber</li>
-<li><i>Strange Planet</i> by Nathan W. Pyle</li>
-<li><i>The Imitation of Christ</i> by Thomas à Kempis</li>
-<li><i>Jesus of Nazareth: The Infancy Narratives</i> by Pope Benedict XVI</li>
-<li><i>The Complete Book of Woodworking</i> by Tom Carpenter & Mark Johanson</li>
-<li><i>Sapiens: A Brief History of Humankind</i> by Yuval Noah Harari</li>
-<li><i>Centesimus Annus</i> by Pope John Paul II</li>
-<li><i>How to Raise Good Catholic Children</i> by Mary Reed Newland</li>
-<li><i>A Christmas Carol</i> by Charles Dickens</li>
-<li><i>Walking: One Step At a Time</i> by Erling Kagge</li>
 <li><i>Bible: Second Catholic Edition RSV (Mark, Luke, Matthew, John, Acts, Song of Songs, Daniel)</i></li>
+<li><i>Walking: One Step At a Time</i> by Erling Kagge</li>
+<li><i>A Christmas Carol</i> by Charles Dickens</li>
+<li><i>How to Raise Good Catholic Children</i> by Mary Reed Newland</li>
+<li><i>Centesimus Annus</i> by Pope John Paul II</li>
+<li><i>Sapiens: A Brief History of Humankind</i> by Yuval Noah Harari</li>
+<li><i>The Complete Book of Woodworking</i> by Tom Carpenter & Mark Johanson</li>
+<li><i>Jesus of Nazareth: The Infancy Narratives</i> by Pope Benedict XVI</li>
+<li><i>The Imitation of Christ</i> by Thomas à Kempis</li>
+<li><i>Strange Planet</i> by Nathan W. Pyle</li>
+<li><i>Accidental Saints: Finding God in All the Wrong People</i> by Nadia Bolz-Weber</li>
+<li><i>American Caesar: Douglas MacArthur 1880 - 1964</i> by William Manchester</li>
+<li><i>Saint John Bosco</i> by F. A. Forbes</li>
+<li><i>Man and Woman He Created Them: A Theology of the Body</i> by Pope John Paul II</li>
+<li><i>Padre Pio: A Personal Portrait</i> by Fr. Francesco Napolitano</li>
+<li><i>The Sun Does Shine: How I Found Life and Freedom on Death Row</i> by Anthony Ray Hinton</li>
+<li><i>The Love That Keeps Us Sane: Living the Little Way of St. Thérèse of Lisieux</i> by Marc Foley, O.C.D.</li>
+<li><i>The Death of Ivan Ilyich</i> by Leo Tolstoy</li>
+<li><i>Property & Casualty Insurance Primer</i> by Cliff Gallant et al. (KBW)</li>
+<li><i>Wise Blood</i> by Flannery O'Connor</li>
+<li><i>Son</i> by Lois Lowry</li>
+<li><i>John Paul the Great: Remembering a Spiritual Father</i> by Peggy Noonan</li>
+<li><i>Messenger</i> by Lois Lowry</li>
+<li><i>The Autobiography of a Hunted Priest</i> by John Gerard, S.J.</li>
+<li><i>Gathering Blue</i> by Lois Lowry</li>
+<li><i>The Giver</i> by Lois Lowry</li>
+<li><i>Machine Learning: The High-Interest Credit Card of Technical Debt</i> by D. Sculley et al.</li>
+<li><i>Joan of Arc</i> by Mark Twain</li>
+<li><i>Structures: Or Why Things Don't Fall Down</i> by J. E. Gordon</li>
+<li><i>The Jesus Storybook Bible: Every Story Whispers His Name</i> by Sally Lloyd-Jones</li>
+<li><i>The Way of a Pilgrim</i> edited by G. P. Fedotov</li>
+<li><i>"The Pit and the Pendulum", "The Tell-Tale Heart", and "The Cask of Amontillado"</i> by Edgar Allan Poe</li>
+<li><i>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</i> by Ben Horowitz</li>
+<li><i>The Rule of Saint Augustine</i> by St. Augustine (introduction and commentary by Tarsicius J. Van Bavel, OSA)</li>
+<li><i>The Rule of St. Benedict in English</i> by St. Benedict (edited by Timothy Fry, O.S.B.)</li>
+<li><i>How to Make a Good Confession: A Pocket Guide to Reconciliation with God</i> by John A. Kane</li>
+<li><i>Edith Stein: Essential Writings</i> by Edith Stein (selected by John Sullivan, OCD)</li>
+<li><i>Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked</i> by Adam Alter</li>
+<li><i>Heaven in Stone and Glass: Experiencing the Spirituality of the Great Cathedrals</i> by Robert Barron</li>
+<li><i>The Hiding Place</i> by Corrie Ten Boom</li>
+<li><i>Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice</i> by Bill Browder</li>
+<li><i>"Forget Not Love": The Passion of Maximilian Kolbe</i> by André Frossard</li>
+<li><i>Think and Grow Rich</i> by Napoleon Hill</li>
+<li><i>A Plan of Life</i> by Joseph M. Muntadas</li>
+<li><i>White Fang</i> by Jack London</li>
+<li><i>The Call of the Wild</i> by Jack London</li>
+<li><i>Into the Rising Sun: World War II's Pacific Veterans Reveal the Heart of Combat</i> by Patrick K. O'Donnell</li>
+<li><i>The Servile State</i> by Hilaire Belloc</li>
+<li><i>Successful Fathers: The Subtle but Powerful Ways Fathers Mold Their Children's Characters</i> by James B. Stenson</li>
+<li><i>Brave New World</i> by Aldous Huxley</li>
+<li><i>Kristin Lavransdatter</i> by Sigrid Undset</li>
+<li><i>Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selves</i> by Christian Rudder</li>
+<li><i>Billy Lynn's Long Halftime Walk</i> by Ben Fountain</li>
+<li><i>Execution: The Discipline of Getting Things Done</i> by Larry Bossidy & Ram Charan</li>
+<li><i>The Screwtape Letters</i> by C.S. Lewis</li>
+<li><i>The Abolition of Man</i> by C.S. Lewis</li>
+<li><i>Saint Anthony of Padua: Our Franciscan Friend</i> edited by Cassian A. Miles, O.F.M.</li>
+<li><i>The Great Divorce</i> by C.S. Lewis</li>
+<li><i>The House At Pooh Corner</i> by A. A. Milne</li>
+<li><i>The Rise and Fall of the Third Reich: A History of Nazi Germany</i> by William L. Shirer</li>
+<li><i>Ghost Fleet: A Novel of the Next World War</i> by P. W. Singer and August Cole</li>
+<li><i>You Are Not a Gadget: A Manifesto</i> by Jaron Lanier</li>
+<li><i>Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart</i> by C. R. Wiley</li>
+<li><i>The Last Lion: Winston Spencer Churchill: Alone, 1932-1940</i> by William Manchester</li>
+<li><i>The Picture of Dorian Gray</i> by Oscar Wilde</li>
+<li><i>Jesus of Nazareth: Holy Week: from the Entrance into Jerusalem to the Resurrection</i> by Pope Benedict XVI</li>
+<li><i>The Jeweler's Shop</i> by Karol Wojtyla</li>
+<li><i>The Power of Silence: Against the Dictatorship of Noise</i> by Robert Cardinal Sarah</li>
+<li><i>Meet the Frugalwoods: Achieving Financial Independence Through Simple Living</i> by Elizabeth Willard Thames</li>
+<li><i>The Hobbit Party: The Vision of Freedom that Tolkien Got, and the West Forgot</i> by Jay Richards & Jonathan Witt</li>
+<li><i>Lead Yourself First: Inspiring Leadership Through Solitude</i> by Raymond M. Kethledge & Michael S. Erwin</li>
+<li><i>The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed</i> by Jessica Lahey</li>
+<li><i>Notes from Underground</i> by Fyodor Dostoyevsky</li>
+<li><i>The Gene: An Intimate History</i> by Siddhartha Mukherjee</li>
+<li><i>Walking</i> by Henry David Thoreau</li>
+<li><i>Negotiating Your Salary</i> by Jack Chapman</li>
+<li><i>The Red Bandanna: A life. A choice. A Legacy.</i> by Tom Rinaldi</li>
+<li><i>The Little Oratory: A Beginner's Guide to Praying in the Home</i> by David Clayton & Leila Lawler</li>
+<li><i>Quiet: The Power of Introverts in a World That Can't Stop Talking</i> by Susan Cain</li>
+<li><i>Digital Minimalism: Choosing a Focused Life in a Noisy World</i> by Cal Newport</li>
+<li><i>Catch Me If You Can: The True Story of a Real Fake</i> by Frank Abagnale Jr. & Stan Redding</li>
+<li><i>Fahrenheit 451</i> by Ray Bradbury</li>
+<li><i>Skunk Works: A Personal Memoir of My Years at Lockheed</i> by Ben Rich</li>
+<li><i>Men in Green Faces: A Novel of U.S. Navy SEALs</i> by Gene Wentz</li>
+<li><i>How to Be Invisible: Protect Your Home, Your Children, Your Assets, and Your Life</i> by J. J. Luna</li>
+<li><i>The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data</i> by Kevin Mitnick</li>
+<li><i>The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies</i> by Jason Fagone</li>
+<li><i>A Tale of Two Cities</i> by Charles Dickens</li>
+<li><i>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</i> by Gene Kim and Kevin Behr</li>
+<li><i>Thomas Aquinas in 90 Minutes</i> by Paul Strathern</li>
+<li><i>A Shorter Summa: The Essential Philosophical Passages of Saint Thomas Aquinas' Summa Theologica</i> by Peter Kreeft</li>
+<li><i>The Power of Zero, Revised and Updated: How to Get to the 0% Tax Bracket and Transform Your Retirement</i> by David McKnight</li>
+<li><i>Washington: A Life (Abridged)</i> by Ron Chernow</li>

@@ -5,7 +5,8 @@ from pathlib import Path
 
 
 def write_html(df, year):
-    df = df[df['Read']==year].fillna('no author')
+    df = df[df['Read']==year].fillna('no author').sort_index(ascending=False) # sort_index(ascending=False) for reverse chronological order
+
     df['html'] = np.where(df['Author']=='no author',
         '<li><i>'+df['Title']+'</i></li>',
         '<li><i>'+df['Title']+'</i> by '+df['Author']+'</li>')

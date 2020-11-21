@@ -1,14 +1,14 @@
-<li><i>Utopia</i> by Thomas More</li>
-<li><i>Jane Eyre</i> by Charlotte Brontë</li>
-<li><i>1984</i> by George Orwell</li>
-<li><i>Macbeth</i> by Shakespeare</li>
-<li><i>Kriegies, Caterpillars and Lucky Bastards</i> by Glenn A. Stephens</li>
-<li><i>Cannery Row</i> by John Steinbeck</li>
-<li><i>Ronald Reagan: Fate, Freedom, and the Making of History</i> by John Patrick Diggins</li>
-<li><i>Harry Potter and the Deathly Hallows</i> by J.K. Rowling</li>
-<li><i>The Scarlet Letter</i> by Nathaniel Hawthorne</li>
-<li><i>The Tales of Huckleberry Finn</i> by Mark Twin</li>
-<li><i>The Great Gatsby</i> by F. Scott Fitzgerald</li>
-<li><i>The Lords of Discipline</i> by Pat Conroy</li>
-<li><i>Boyd: The Fighter Pilot Who Changed the Art of War</i> by Robert Coram</li>
 <li><i>Founding Brothers: The Revolutionary Generation</i> by Joseph J. Ellis</li>
+<li><i>Boyd: The Fighter Pilot Who Changed the Art of War</i> by Robert Coram</li>
+<li><i>The Lords of Discipline</i> by Pat Conroy</li>
+<li><i>The Great Gatsby</i> by F. Scott Fitzgerald</li>
+<li><i>The Tales of Huckleberry Finn</i> by Mark Twin</li>
+<li><i>The Scarlet Letter</i> by Nathaniel Hawthorne</li>
+<li><i>Harry Potter and the Deathly Hallows</i> by J.K. Rowling</li>
+<li><i>Ronald Reagan: Fate, Freedom, and the Making of History</i> by John Patrick Diggins</li>
+<li><i>Cannery Row</i> by John Steinbeck</li>
+<li><i>Kriegies, Caterpillars and Lucky Bastards</i> by Glenn A. Stephens</li>
+<li><i>Macbeth</i> by Shakespeare</li>
+<li><i>1984</i> by George Orwell</li>
+<li><i>Jane Eyre</i> by Charlotte Brontë</li>
+<li><i>Utopia</i> by Thomas More</li>

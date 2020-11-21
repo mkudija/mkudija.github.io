@@ -1,103 +1,103 @@
-<li><i>So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</i> by Cal Newport</li>
-<li><i>Pride & Prejudice</i> by Jane Austen</li>
-<li><i>Shoe Dog</i> by Phil Knight</li>
-<li><i>Rise of the Robots: Technology and the Threat of a Jobless Future</i> by Martin Ford</li>
-<li><i>The Inner Game of Tennis</i> by W. Timothy Gallwey</li>
-<li><i>Faust</i> by Johann Wolfgang von Goethe</li>
-<li><i>Legacy</i> by James Kerr</li>
-<li><i>Moneyball</i> by Michael Lewis</li>
-<li><i>Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</i> by J.D. Vance</li>
-<li><i>Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became odore Roosevelt</i> by David McCullough</li>
-<li><i>Universe of Stone: A Biography of Chartres Cathedral</i> by Philip Ball</li>
-<li><i>Seabiscuit</i> by Laura Hillenbrand</li>
-<li><i>Highest Duty</i> by Chesley B. Sullenberger</li>
-<li><i>Fire on the Horizon: The Untold Story of the Gulf Oil Disaster</i> by John Konrad & Tom Shroder</li>
-<li><i>Open</i> by Andre Agassi</li>
-<li><i>The Short and Tragic Life of Robert Peace</i> by Jeff Hobbs</li>
-<li><i>The Power of a Half Hour</i> by Tommy Barnett</li>
-<li><i>Out of the Ashes: Rebuilding American Culture</i> by Anthony Esolen</li>
-<li><i>Strangers in a Strange Land: Living the Catholic Faith in a Post-Christian World</i> by Charles J. Chaput</li>
-<li><i>The Benedict Option: A Strategy for Christians in a Post-Christian Nation</i> by Rob Dreher</li>
-<li><i>City of God</i> by St. Augustine</li>
-<li><i>The Lost Tools of Learning</i> by Dorothy Sayers</li>
-<li><i>The Aviators: Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight</i> by Winston Groom</li>
-<li><i>The Shadow of His Wings (Abridged)</i> by Fr. Gereon Goldmann,  OFM</li>
-<li><i>Wizard: The Life and Times of Nikola Tesla</i> by Marc J. Seifer</li>
-<li><i>Happy City: Transforming Our Lives Through Urban Design</i> by Charles Montgomery </li>
-<li><i>Originals: How Non-Conformists Move The World</i> by Adam Grant</li>
-<li><i>Just Married</i> by Dr. Greg and Lisa Popcak</li>
-<li><i>Tidy Data (Journal of Statistical Software)</i> by Hadley Wickham</li>
-<li><i>Hidden Figures</i> by Margot Lee Shetterly</li>
-<li><i>Conversations with Major Dick Winters</i> by Cole C. Kingseed</li>
-<li><i>The Magic of Thinking Big</i> by David J. Schwartz, Ph.D.</li>
-<li><i>The Diary of a Country Priest</i> by Georges Bernanos</li>
-<li><i>The Man Who Was Thursday</i> by G.K. Chesterton</li>
-<li><i>Player Piano</i> by Kurt Vonnegut</li>
-<li><i>Beyond Band of Brothers</i> by Major Dick Winters</li>
-<li><i>Chaos: Making a New Science</i> by James Gleick</li>
-<li><i>Salary Tutor</i> by Jim Hopkinson</li>
-<li><i>Never Split The Difference: Negotiating As If Your Life Depended On It</i> by Chris Voss</li>
-<li><i>On Writing: A Memoir of the Craft</i> by Stephen King</li>
-<li><i>Into Thin Air: A Personal Account of the Mt. Everest Disaster</i> by Jon Krakauer</li>
-<li><i>Evicted: Poverty and Profit in the American City</i> by Matthew Desmond</li>
-<li><i>Airport</i> by Arthur Hailey</li>
-<li><i>Perennial Seller: The Art of Making and Marketing Work That Lasts</i> by Ryan Holiday</li>
-<li><i>Heart of Darkness</i> by Joseph Conrad</li>
-<li><i>Alexander Hamilton</i> by Ron Chernow</li>
-<li><i>Philology: The Forgotten Origins of the Modern Humanities</i> by James Turner</li>
-<li><i>The Circle</i> by Dave Eggers</li>
-<li><i>Applied Economics: Thinking Beyond Stage One</i> by Thomas Sowell</li>
-<li><i>The Red Tent</i> by Anita Diamant</li>
-<li><i>Poetry as Prayer: Jessica Powers</i> by Robert F. Morneau</li>
-<li><i>The Fortunes of Poetry in and Age of Unmaking</i> by James Matthew Wilson</li>
-<li><i>Reagan: The Life</i> by H.W. Brands</li>
-<li><i>The Sale of a Lifetime: How the Great Bubble Burst of 2017-2019 Can Make You Rich</i> by Harry S. Dent, Jr.</li>
-<li><i>The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church</i> by John Thavis</li>
-<li><i>The Road to Character</i> by David Brooks</li>
-<li><i>Rise, Let Us Be On Our Way</i> by Pope John Paul II</li>
-<li><i>The Bridges at Toko-Ri</i> by James A. Michener</li>
-<li><i>The Shallows: What the Internet is Doing to Our Brains</i> by Nicholas Carr</li>
-<li><i>Saint Padre Pio: In the Footsteps of Saint Francis</i> by Michael J. Ruszala</li>
-<li><i>The Creed: Professing the Faith Through the Ages</i> by Scott Hahn</li>
-<li><i>The Trial and Death of Socrates: Apology, Phaedo</i> by Plato</li>
-<li><i>Aristotle for Everybody</i> by Mortimer J. Adler</li>
-<li><i>Alone on the Wall</i> by Alex Honnold</li>
-<li><i>The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts</i> by Joshua Hammer</li>
-<li><i>Farnsworth’s Classical English Rhetoric</i> by Ward Farnsworth</li>
-<li><i>The Will to Climb</i> by Ed Viesturs</li>
-<li><i>The Ethics of Authenticity</i> by Charles Taylor</li>
-<li><i>Truth Overruled: The Future of Marriage and Religious Freedom</i> by Ryan T. Anderson</li>
-<li><i>Things I Wish I’d Know Before We Got Married</i> by Gary Chapman</li>
-<li><i>Wolf Hall</i> by Hilary Mantel</li>
-<li><i>Life 3.0: Being Human in the Age of Artificial Intelligence</i> by Mark Tegmark</li>
-<li><i>The World's Great Catholic Literature</i> edited by George N. Shuster</li>
-<li><i>Till We Have Faves: A Myth Retold</i> by C.S. Lewis</li>
-<li><i>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</i> by Matthew B. Crawford</li>
-<li><i>Our Mathematical Universe: My Quest for the Ultimate Nature of Reality</i> by Max Tegmark</li>
-<li><i>Planet of Exile</i> by Ursula K. Le Guin</li>
-<li><i>Red Planet</i> by Robert A. Heinlein</li>
-<li><i>The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</i> by Erik Brynjolfsson and rew McAfee</li>
-<li><i>Option B</i> by Sheryl Sandberg and Adam Grant</li>
-<li><i>Master Builders of the Middle Ages</i> by David Jacobs</li>
-<li><i>The Vanishing American Adult: Our Coming-of-Age Crisis—and How to Rebuild a Culture of Self-Reliance</i> by Ben Sasse</li>
-<li><i>The 4-Hour Workweek</i> by Timothy Ferriss</li>
-<li><i>Gerard Manley Hopkins: Poems and Prose</i> by selected and edited by W.H. Gardner</li>
-<li><i>A Geography of Ireland</i> by O.J.R. Howarth</li>
-<li><i>Some Permanent Things</i> by James Matthew Wilson</li>
-<li><i>The 4-Hour Body</i> by Timothy Ferriss</li>
-<li><i>A Shepherd Looks at Psalm 23</i> by Phillip W. Keller</li>
-<li><i>Painting as a Pastime</i> by Winston S. Churchill</li>
-<li><i>An Appetite for Wonder: The Making of a Scientist</i> by Richard Dawkins</li>
-<li><i>The War of the Worlds</i> by H.G. Wells</li>
-<li><i>Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher</i> by Richard P. Feynman</li>
-<li><i>Brief Candle in the Dark: My Life in Science</i> by Richard Dawkins</li>
-<li><i>God Is Not Great: How Religion Poisons Everything</i> by Christopher Hitchens</li>
-<li><i>The Name of God is Mercy</i> by Pope Francis</li>
-<li><i>Deadliest Sea: The Untold Story Behind the Greatest Rescue in Coast Guard History</i> by Kalee Thompson</li>
-<li><i>Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill</i> by Candice Millard</li>
-<li><i>Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations</i> by Thomas L. Friedman</li>
-<li><i>Rich Dad Poor Dad</i> by Robert T. Kiyosaki</li>
-<li><i>Artemis</i> by Andy Weir</li>
-<li><i>Meditations for Advent</i> by Jacques-Bénigne Bossuet</li>
-<li><i>Virtually Normal: An Argument about Homosexuality</i> by Andrew Sullivan</li>
 <li><i>New American Bible, Revised Edition (Matthew, Mark, Luke, John, Acts of the Apostles, Revelation, Job, Isaiah, Wisdom, Matthew, James, 1-2 Peter, 1-3 John, Jude)</i></li>
+<li><i>Virtually Normal: An Argument about Homosexuality</i> by Andrew Sullivan</li>
+<li><i>Meditations for Advent</i> by Jacques-Bénigne Bossuet</li>
+<li><i>Artemis</i> by Andy Weir</li>
+<li><i>Rich Dad Poor Dad</i> by Robert T. Kiyosaki</li>
+<li><i>Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations</i> by Thomas L. Friedman</li>
+<li><i>Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill</i> by Candice Millard</li>
+<li><i>Deadliest Sea: The Untold Story Behind the Greatest Rescue in Coast Guard History</i> by Kalee Thompson</li>
+<li><i>The Name of God is Mercy</i> by Pope Francis</li>
+<li><i>God Is Not Great: How Religion Poisons Everything</i> by Christopher Hitchens</li>
+<li><i>Brief Candle in the Dark: My Life in Science</i> by Richard Dawkins</li>
+<li><i>Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher</i> by Richard P. Feynman</li>
+<li><i>The War of the Worlds</i> by H.G. Wells</li>
+<li><i>An Appetite for Wonder: The Making of a Scientist</i> by Richard Dawkins</li>
+<li><i>Painting as a Pastime</i> by Winston S. Churchill</li>
+<li><i>A Shepherd Looks at Psalm 23</i> by Phillip W. Keller</li>
+<li><i>The 4-Hour Body</i> by Timothy Ferriss</li>
+<li><i>Some Permanent Things</i> by James Matthew Wilson</li>
+<li><i>A Geography of Ireland</i> by O.J.R. Howarth</li>
+<li><i>Gerard Manley Hopkins: Poems and Prose</i> by selected and edited by W.H. Gardner</li>
+<li><i>The 4-Hour Workweek</i> by Timothy Ferriss</li>
+<li><i>The Vanishing American Adult: Our Coming-of-Age Crisis—and How to Rebuild a Culture of Self-Reliance</i> by Ben Sasse</li>
+<li><i>Master Builders of the Middle Ages</i> by David Jacobs</li>
+<li><i>Option B</i> by Sheryl Sandberg and Adam Grant</li>
+<li><i>The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</i> by Erik Brynjolfsson and rew McAfee</li>
+<li><i>Red Planet</i> by Robert A. Heinlein</li>
+<li><i>Planet of Exile</i> by Ursula K. Le Guin</li>
+<li><i>Our Mathematical Universe: My Quest for the Ultimate Nature of Reality</i> by Max Tegmark</li>
+<li><i>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</i> by Matthew B. Crawford</li>
+<li><i>Till We Have Faves: A Myth Retold</i> by C.S. Lewis</li>
+<li><i>The World's Great Catholic Literature</i> edited by George N. Shuster</li>
+<li><i>Life 3.0: Being Human in the Age of Artificial Intelligence</i> by Mark Tegmark</li>
+<li><i>Wolf Hall</i> by Hilary Mantel</li>
+<li><i>Things I Wish I’d Know Before We Got Married</i> by Gary Chapman</li>
+<li><i>Truth Overruled: The Future of Marriage and Religious Freedom</i> by Ryan T. Anderson</li>
+<li><i>The Ethics of Authenticity</i> by Charles Taylor</li>
+<li><i>The Will to Climb</i> by Ed Viesturs</li>
+<li><i>Farnsworth’s Classical English Rhetoric</i> by Ward Farnsworth</li>
+<li><i>The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts</i> by Joshua Hammer</li>
+<li><i>Alone on the Wall</i> by Alex Honnold</li>
+<li><i>Aristotle for Everybody</i> by Mortimer J. Adler</li>
+<li><i>The Trial and Death of Socrates: Apology, Phaedo</i> by Plato</li>
+<li><i>The Creed: Professing the Faith Through the Ages</i> by Scott Hahn</li>
+<li><i>Saint Padre Pio: In the Footsteps of Saint Francis</i> by Michael J. Ruszala</li>
+<li><i>The Shallows: What the Internet is Doing to Our Brains</i> by Nicholas Carr</li>
+<li><i>The Bridges at Toko-Ri</i> by James A. Michener</li>
+<li><i>Rise, Let Us Be On Our Way</i> by Pope John Paul II</li>
+<li><i>The Road to Character</i> by David Brooks</li>
+<li><i>The Vatican Diaries: A Behind-the-Scenes Look at the Power, Personalities, and Politics at the Heart of the Catholic Church</i> by John Thavis</li>
+<li><i>The Sale of a Lifetime: How the Great Bubble Burst of 2017-2019 Can Make You Rich</i> by Harry S. Dent, Jr.</li>
+<li><i>Reagan: The Life</i> by H.W. Brands</li>
+<li><i>The Fortunes of Poetry in and Age of Unmaking</i> by James Matthew Wilson</li>
+<li><i>Poetry as Prayer: Jessica Powers</i> by Robert F. Morneau</li>
+<li><i>The Red Tent</i> by Anita Diamant</li>
+<li><i>Applied Economics: Thinking Beyond Stage One</i> by Thomas Sowell</li>
+<li><i>The Circle</i> by Dave Eggers</li>
+<li><i>Philology: The Forgotten Origins of the Modern Humanities</i> by James Turner</li>
+<li><i>Alexander Hamilton</i> by Ron Chernow</li>
+<li><i>Heart of Darkness</i> by Joseph Conrad</li>
+<li><i>Perennial Seller: The Art of Making and Marketing Work That Lasts</i> by Ryan Holiday</li>
+<li><i>Airport</i> by Arthur Hailey</li>
+<li><i>Evicted: Poverty and Profit in the American City</i> by Matthew Desmond</li>
+<li><i>Into Thin Air: A Personal Account of the Mt. Everest Disaster</i> by Jon Krakauer</li>
+<li><i>On Writing: A Memoir of the Craft</i> by Stephen King</li>
+<li><i>Never Split The Difference: Negotiating As If Your Life Depended On It</i> by Chris Voss</li>
+<li><i>Salary Tutor</i> by Jim Hopkinson</li>
+<li><i>Chaos: Making a New Science</i> by James Gleick</li>
+<li><i>Beyond Band of Brothers</i> by Major Dick Winters</li>
+<li><i>Player Piano</i> by Kurt Vonnegut</li>
+<li><i>The Man Who Was Thursday</i> by G.K. Chesterton</li>
+<li><i>The Diary of a Country Priest</i> by Georges Bernanos</li>
+<li><i>The Magic of Thinking Big</i> by David J. Schwartz, Ph.D.</li>
+<li><i>Conversations with Major Dick Winters</i> by Cole C. Kingseed</li>
+<li><i>Hidden Figures</i> by Margot Lee Shetterly</li>
+<li><i>Tidy Data (Journal of Statistical Software)</i> by Hadley Wickham</li>
+<li><i>Just Married</i> by Dr. Greg and Lisa Popcak</li>
+<li><i>Originals: How Non-Conformists Move The World</i> by Adam Grant</li>
+<li><i>Happy City: Transforming Our Lives Through Urban Design</i> by Charles Montgomery </li>
+<li><i>Wizard: The Life and Times of Nikola Tesla</i> by Marc J. Seifer</li>
+<li><i>The Shadow of His Wings (Abridged)</i> by Fr. Gereon Goldmann,  OFM</li>
+<li><i>The Aviators: Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight</i> by Winston Groom</li>
+<li><i>The Lost Tools of Learning</i> by Dorothy Sayers</li>
+<li><i>City of God</i> by St. Augustine</li>
+<li><i>The Benedict Option: A Strategy for Christians in a Post-Christian Nation</i> by Rob Dreher</li>
+<li><i>Strangers in a Strange Land: Living the Catholic Faith in a Post-Christian World</i> by Charles J. Chaput</li>
+<li><i>Out of the Ashes: Rebuilding American Culture</i> by Anthony Esolen</li>
+<li><i>The Power of a Half Hour</i> by Tommy Barnett</li>
+<li><i>The Short and Tragic Life of Robert Peace</i> by Jeff Hobbs</li>
+<li><i>Open</i> by Andre Agassi</li>
+<li><i>Fire on the Horizon: The Untold Story of the Gulf Oil Disaster</i> by John Konrad & Tom Shroder</li>
+<li><i>Highest Duty</i> by Chesley B. Sullenberger</li>
+<li><i>Seabiscuit</i> by Laura Hillenbrand</li>
+<li><i>Universe of Stone: A Biography of Chartres Cathedral</i> by Philip Ball</li>
+<li><i>Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became odore Roosevelt</i> by David McCullough</li>
+<li><i>Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</i> by J.D. Vance</li>
+<li><i>Moneyball</i> by Michael Lewis</li>
+<li><i>Legacy</i> by James Kerr</li>
+<li><i>Faust</i> by Johann Wolfgang von Goethe</li>
+<li><i>The Inner Game of Tennis</i> by W. Timothy Gallwey</li>
+<li><i>Rise of the Robots: Technology and the Threat of a Jobless Future</i> by Martin Ford</li>
+<li><i>Shoe Dog</i> by Phil Knight</li>
+<li><i>Pride & Prejudice</i> by Jane Austen</li>
+<li><i>So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</i> by Cal Newport</li>
