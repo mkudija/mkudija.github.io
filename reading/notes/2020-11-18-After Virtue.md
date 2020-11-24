@@ -17,14 +17,14 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 1 - A Disquieting Suggestion
-*Summary: MacIntyre opens by suggesting that morality is in a state of disorder, having been vibrant before collapsing and then being restored in a distorted way. This begs the question: what to do?*
+***Summary: MacIntyre opens by suggesting that morality is in a state of disorder, having been vibrant before collapsing and then being restored in a distorted way. This begs the question: what to do?***
 
 - MacIntyre opens with an allusion to the world of *A Canticle For Liebowitz*: fragmented, misunderstanding, and subjectivist, and suggests that this is precisely the state of morality today (1-2)
 - Morality flourished, then suffered catastrophe, then were restored but in a disordered way (3)
 
 
 ## Ch 2 - The Nature of Moral Disagreement Today
-*Summary: MacIntyre observes that modern moral arguments are interminable and identifies the primary reason for this an Emotivist doctrine that holds all moral judgments to be merely expressions of personal preference.*
+***Summary: MacIntyre observes that modern moral arguments are interminable and identifies the primary reason for this an Emotivist doctrine that holds all moral judgments to be merely expressions of personal preference.***
 
 - moral utterance today expresses disagreements that are characteristically *interminable* (6); examples include: war, abortion, education & healthcare (6-7)
 - common characteristics of these debates include (8+):
@@ -44,72 +44,83 @@ It's important to note that *After Virtue* is a first statement of the problem a
   - "Emotivism thus rests upon a claim that every attempt to provide a rational justification for an objective morality has in fact failed. It is a verdict upon the whole history of moral philosophy." (19)
   - "insofar as emotivism is justifiably believed, presumably the use of traditional and inherited moral language ought to be abandoned" (20)
 
+
 ## Ch 3 - Emotivism: Social Content and Social Context
-*Summary: ...*
-- 
+***Summary: MacIntyre says a philosophy can't be understood apart from its social embodiment, and gives this view for emotivism through the lens of the emotivist characters.***
+
+- the claims of a moral philosophy can't be understood apart from its social embodiment, so MacIntyre does this for emotivism (23)
+- he focuses on the *Characters* as moral representatives of their culture (28), which include (30):
+  - **The Rich Aesthete**: 
+  - **The Manager**: manipulative social relations, transforms materials/investment into products/profit, treats the end as given and outside his scope
+  - **The Therapist**: transforms people, also treats the end as given and outside his scope
+- emotivism is only clear as the end product of historical change (35)
+
 
 ## Ch 4 - The Predecessor Culture and the Enlightenment Project of Justifying Morality
-*Summary: ...*
+***Summary: ...***
+
+- we have to understand the history of philosophy to understand how we got here (36)
 - 
 
+
 ## Ch 5 - Why the Enlightenment Project of Justifying Morality Had to Fail
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 6 - Some Consequences of the Failure of the Enlightenment Project
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 7 - 'Fact', Explanation and Expertise
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 8 - The Character of Generalizations in Social Science and their Lack of Predictive Power
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 9 - Nietzsche or Aristotle
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 10 - The Virtues in Heroic Societies
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 11 - The Virtues at Athens
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 12 - Aristotle's Account of the Virtues
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 13 - Medieval Aspects and Occasions
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 14 - The Nature of the Virtues
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 15 - The Virtues, the Unity of a Human life and the Concept of a Tradition
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 16 - From the Virtues to Virtue and after Virtue
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 17 - Justice as a Virtue: Changing Conceptions
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 18 - After Virtue: Nietzsche *or* Aristotle, Trotsky *and* St. Benedict
-*Summary: ...*
+***Summary: ...***
 - 
 
 ## Ch 19 - Postscript to the Second Edition
-*Summary: ...*
+***Summary: ...***
 - 
 
 
