@@ -68,18 +68,35 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 5 - Why the Enlightenment Project of Justifying Morality Had to Fail
-***Summary: ...***
+***Summary: The secular removal of man's telos formed the incoherent inheritance that guranteed the failure of the Enlightenment project.***
 
-- 
-- 
+- Enlightenment thinkers (Kierkegaard, Kant, Diderot, Hume, Smith, etc.) were inheritors of a specific scheme of moral beliefs whos internal incoherence ensured their failure before they started (51)
+- Ancient scheme, the *teleological* scheme of Aristotle's *Nicomachean Ethics* (52), which is furthered in the framework of theism by Thomas (53)
+- The 3 Elements of a Rational, Functional Moral Culture (cf [AOM](https://www.artofmanliness.com/articles/modern-morality-shrill/)):
+  - 1. Man-as-he-happens-to-be
+  - 2. An ethical code that allows a man to move from state #1 to state #3
+  - 3. A view of man-as-he-could-be-if-he-realized-his-telos
+  - <p style="text-align:center;"><img src="https://content.artofmanliness.com/uploads/2018/03/Telos-Diagram-1-1.jpg" width="50%" height="50%"></p>
+- secularism eliminated the *telos* (54) and thus the Enlightenment inherited incoherent fragments of a once coherent whole (55)
+
 
 ## Ch 6 - Some Consequences of the Failure of the Enlightenment Project
-***Summary: ...***
-- 
+***Summary: "Utility", "rights", and "expertise of the bureaucratic manager" are all moral fictions developed in the 17th & 18th centuries which contribute to the current incoherence.***
+
+- Utilitarianism serves as the new teleology to replace the removed teleology (62)
+- discussion of the failure of utilitarianism as the "greatest happiness for the greatest number" due to the "polymorphous character of pleasure and happiness" (64)
+- discussion of the new concept of "rights" (and difficulty justifying them) on 69-70
+- MacIntyre rebuts managerial and bureaucratic "expertise" (in a way Taleb would appreciate) by observing that "the kind of knowledge which would be required to sustain it does not exist" (75)
+- Two claims to justify a manager's authority (77):
+  - the existence of a domain of morally neutral "fact" about which the manager is to be the expert --> Taleb's "skin in the game"
+  - law-like generalizations and their applications to particular cases derived from the study of this domain --> Taleb's *Platonicity*
+
 
 ## Ch 7 - 'Fact', Explanation and Expertise
 ***Summary: ...***
+
 - 
+
 
 ## Ch 8 - The Character of Generalizations in Social Science and their Lack of Predictive Power
 ***Summary: ...***
@@ -131,14 +148,6 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 - missing a *telos*
-- The 3 Elements of a Rational, Functional Moral Culture (cf [AOM](https://www.artofmanliness.com/articles/modern-morality-shrill/)):
-  - 1. Man-as-he-happens-to-be
-  - 2. An ethical code that allows a man to move from state #1 to state #3
-  - 3. A view of man-as-he-could-be-if-he-realized-his-telos
-
-
-
-<p style="text-align:center;"><img src="https://content.artofmanliness.com/uploads/2018/03/Telos-Diagram-1-1.jpg" width="50%" height="50%"></p>
 
 
 
