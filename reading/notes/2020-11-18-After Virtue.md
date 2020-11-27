@@ -57,14 +57,20 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 4 - The Predecessor Culture and the Enlightenment Project of Justifying Morality
-***Summary: ...***
+***Summary: We have to understand the history of philosophy to understand how we got here***
 
 - we have to understand the history of philosophy to understand how we got here (36)
-- 
+- discussion of Kierkegaard's *Enten-Eller* (39+)
+- Kant's moral philosophy (43-44)
+  - if moral rules are rational, they are the same for all rational beings
+  - will to carry out these rules (not ability) is what matters
+  - a conception of our happiness is not sufficient to ground morality
 
 
 ## Ch 5 - Why the Enlightenment Project of Justifying Morality Had to Fail
 ***Summary: ...***
+
+- 
 - 
 
 ## Ch 6 - Some Consequences of the Failure of the Enlightenment Project
