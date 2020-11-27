@@ -68,9 +68,9 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 5 - Why the Enlightenment Project of Justifying Morality Had to Fail
-***Summary: The secular removal of man's telos formed the incoherent inheritance that guranteed the failure of the Enlightenment project.***
+***Summary: The secular removal of man's telos formed the incoherent inheritance that guaranteed the failure of the Enlightenment project.***
 
-- Enlightenment thinkers (Kierkegaard, Kant, Diderot, Hume, Smith, etc.) were inheritors of a specific scheme of moral beliefs whos internal incoherence ensured their failure before they started (51)
+- Enlightenment thinkers (Kierkegaard, Kant, Diderot, Hume, Smith, etc.) were inheritors of a specific scheme of moral beliefs whose internal incoherence ensured their failure before they started (51)
 - Ancient scheme, the *teleological* scheme of Aristotle's *Nicomachean Ethics* (52), which is furthered in the framework of theism by Thomas (53)
 - The 3 Elements of a Rational, Functional Moral Culture (cf [AOM](https://www.artofmanliness.com/articles/modern-morality-shrill/)):
   - 1. Man-as-he-happens-to-be
@@ -93,9 +93,11 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 7 - 'Fact', Explanation and Expertise
-***Summary: ...***
+***Summary: MacIntyre explores the incompatibility between empiricism and natural science and suggests that our bureaucratic civil servants are not justified in the philosophical application of the "science" they practice.***
 
-- 
+- MacIntyre describes the incompatibility (and yet incoherent coexistence in the Enlightenment) of *empiricism* and *natural science* (81)
+- These changes in the 17th & 18th centuries changed the meaning of "fact" from an Aristotelean to a mechanist view (84)
+- MacIntyre argues that the "scientism" of social behavior upon which our bureaucratic-expert-run Governments are based is flawed (86-88)
 
 
 ## Ch 8 - The Character of Generalizations in Social Science and their Lack of Predictive Power
