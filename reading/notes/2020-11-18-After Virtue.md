@@ -3,6 +3,17 @@
 (Notre Dame: University of Notre Dame Press, 1981), 278
 
 
+|   	|   	|
+|---	|---	|
+|Publisher | University of Notre Dame Press|
+|Published   	| 1982 	|
+|Originally Published  	|1981   	|
+|Edition   	|2nd   	|
+|Pages   	|278   	|
+
+---
+
+
 I first read *After Virtue* in a Morality & Modernity course taught by David Solomon at Notre Dame in the spring of 2011 to fulfill my second philosophy requirement. I enjoyed and [undeservedly] did well in the course without my mind in any way ready to really absorb MacIntyre's thought. I'm embarrassed to admit that after the course I sold the texts for the class, including *After Virtue*. I only bought a replacement copy a couple of years ago after other authors helped me see the full importance of what was wasted on me in my youth. Or perhaps not wasted, but simply a seed planted that has taken some time to germinate. I dug back in after reading Archbishop Chaput and am grateful for this reintroduction.
 
 It's important to note that *After Virtue* is a first statement of the problem and a sketch of a possible solution but not the complete argument. MacIntyre says as much in the postscript to the Second Edition and prologue to the Third Edition, and the argument is further developed in his subsequent books which I plan to dive into eventually. 
