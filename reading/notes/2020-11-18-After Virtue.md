@@ -132,8 +132,20 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 9 - Nietzsche or Aristotle
-***Summary: ...***
-- 
+***Summary: If you agree with MacIntyre about the failure of the Enlightenment project, you must then choose between the moral philosophy of Nietzsche or the classical tradition as embodied in Aristotle.***
+
+- If MacIntyre's argument thus far is correct, he says Nietzsche's moral philosophy is one of the two "genuine theoretical alternatives" (110)
+- Discussion of Polynesian *taboo* as arbitrary and easily abolished (112+), as an example of how Nietzsche understood how appeals to objectivity were actually expressions of subjective will (113)
+- "Nietzsche is *the* moral philosopher of the present age" (along with Weber), and Goffman provides the corresponding sociology (114-115)
+- Nietzsche vs Aristotle is set up like this (117-118):
+  - First, the Enlightenment rejected Aristotle
+  - The Enlightenment failed
+  - Then along came Nietzsche who criticized all previous morality due to this failure
+  - ...but to agree with Nietzsche you have to agree with the initial rejection of Aristotle; If Aristotle (or something like him) can be sustained then Nietzsche is pointless
+  - so...can Aristotle be vindicated?
+- "There is no third alternative" between Nietzsche and Aristotle
+- We need to first understand the *virtues* before we can understand the modern conception of rules, a task to which MacIntyre devotes the rest of the book starting with the *Iliad* (119)
+
 
 ## Ch 10 - The Virtues in Heroic Societies
 ***Summary: ...***
