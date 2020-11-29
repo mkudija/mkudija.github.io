@@ -2,14 +2,13 @@
 
 (Notre Dame: University of Notre Dame Press, 1981), 278
 
-
-|   	|   	|
-|---	|---	|
-|Publisher | University of Notre Dame Press|
-|Published   	| 1982 	|
-|Originally Published  	|1981   	|
-|Edition   	|2nd   	|
-|Pages   	|278   	|
+|                     |                  |
+|---                  |---               |
+|Pages                |278               |
+|Published            |1982              |
+|Originally Published |1981              |
+|Publisher            |University of Notre Dame Press|
+|Edition              |2nd               |
 
 ---
 
@@ -159,8 +158,15 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 10 - The Virtues in Heroic Societies
-***Summary: ...***
-- 
+***Summary: MacIntyre describes the virtues in heroic societies as that what allows us to fulfill our societal roles with excellence.***
+
+- Stories are the chief means of moral education in classical societies (121)
+- Action: "A man in a heroic society is what he does." (122)
+- *aretê* (translated as *virtue*) is excellence of any kind (122)
+- "Morality and social structure are in face one and the same in heroic society"...without social structure man would not know who he is (123)
+- "...excellences or virtues are those qualities which enable an individual to do what his or her role requires; and a conception of the human condition as fragile and vulnerable to destiny and to death, such that to be virtuous is not to avoid vulnerability and death, but rather to accord them their due." (128-129)"
+- history is important: "even heroic society is still inescapably a part of us all" (130)
+
 
 ## Ch 11 - The Virtues at Athens
 ***Summary: ...***
