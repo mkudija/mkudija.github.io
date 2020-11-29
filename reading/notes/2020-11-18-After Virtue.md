@@ -174,15 +174,30 @@ It's important to note that *After Virtue* is a first statement of the problem a
 - heroic literature provided the moral scriptures of later societies; key moral characteristics arise from relating that literature to actual practice (131)
 - Athens was the center of the questions of *being a good citizen* and *being a good man* (133)
 - MacIntyre discusses the variety of views of virtues within Greece and Athens and cautions against assigning a single view, but all agree that virtues have their place within the social context of the *polis* (city-state) and *agôn* (games or contest) (134-138)
-- interesting that humility, thrift, and conscienctiousness don't appear in the Greek list of virtues (136)
+- interesting that humility, thrift, and conscientiousness don't appear in the Greek list of virtues (136)
 - we are left with two frameworks for the virtues (142):
   - Plato, Aristotle, Aquinas: unity of the virtues and a harmonious cosmic order
   - Modernity: such variety that cannot be reconciled in any single moral order, heterogeneity of the virtues
 
 
 ## Ch 12 - Aristotle's Account of the Virtues
-***Summary: ...***
-- 
+
+***Summary: MacIntyre provides a tour of Aristotle's understanding of virtue, including the problematic portions that must be discarded—or partially replaced—if we are to maintain an Aristotelian view of morality.***
+
+- MacIntyre turns to give a view of Aristotelean virtues, not just as said by Aristotle but by the whole *tradition* from which he drew and upon which others have built (despite Aristotle's dislike for such a view of tradition) (146)
+- The *Nicomachean Ethics*—"the most brilliant set of lecture notes ever written"—being the canonical text for Aristotle's account of the virtues (147)
+- Every activity, enquiry, and practice aims at some *good*, or *eudaimonia*; the *virtues* allow us to achieve that (148)
+  - therefore, we can't characterize the good for man without making reference to the virtues (149)
+  - little reference to rules in the *Ethics* (150)
+- Aristotle gives the notion of the *mean* between *extremes* to characterize virtues (154)
+- Aristotle distinguishes between *intellectual* virtues acquired by teaching and *virtues of character* acquired through exercise; these can't be separated (154)
+- Aristotle argues that one cannot possess any of the virtues of character without possessing all the others (155)
+- *Friendship* for Aristotle as "that which embodies a shared recognition of and pursuit of a good" (155) and creating and sustaining the life of the city (156)
+- Aristotle presupposes *freedom* to exercise virtue and achieve good, and in doing so writes off slaves/barbarians, as well as craft skill and manual labor; Aristotle had "little or no understanding of historicity" (159)
+- to Aristotle the virtues cannot be defined in terms of the *pleasant* or *useful* (160)
+- MacIntyre recognizes problems with some of Aristotle’s views, which he argues can be set aside while retaining his overall theory (162)
+  - specifically, for an Aristotelian account of virtue to stand we must replace his biology with an adequate account of *telos* (163)
+
 
 ## Ch 13 - Medieval Aspects and Occasions
 ***Summary: ...***
