@@ -169,8 +169,16 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 11 - The Virtues at Athens
-***Summary: ...***
-- 
+***Summary: MacIntyre sees the common ground of ancient virtues as centered around the polis and agôn despite their varieties.***
+
+- heroic literature provided the moral scriptures of later societies; key moral characteristics arise from relating that literature to actual practice (131)
+- Athens was the center of the questions of *being a good citizen* and *being a good man* (133)
+- MacIntyre discusses the variety of views of virtues within Greece and Athens and cautions against assigning a single view, but all agree that virtues have their place within the social context of the *polis* (city-state) and *agôn* (games or contest) (134-138)
+- interesting that humility, thrift, and conscienctiousness don't appear in the Greek list of virtues (136)
+- we are left with two frameworks for the virtues (142):
+  - Plato, Aristotle, Aquinas: unity of the virtues and a harmonious cosmic order
+  - Modernity: such variety that cannot be reconciled in any single moral order, heterogeneity of the virtues
+
 
 ## Ch 12 - Aristotle's Account of the Virtues
 ***Summary: ...***
