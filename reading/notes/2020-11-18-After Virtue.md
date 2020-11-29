@@ -10,6 +10,9 @@ It's important to note that *After Virtue* is a first statement of the problem a
 *After Virtue* starts by observing the problem that modern moral arguments are irreconcilable in nature and shrill in tone. MacIntyre argues that this is the result of the failure of the enlightenment project of justifying morality by removing the teleological end man moves toward. This leaves us with an *emotivist* approach to questions of morality where the answer is all a matter of preference. People and traditions clearly have different preferences, so this leaves us deadlocked. MacIntyre argues that the path forward is a rearticulation of the classical Aristotelian and Thomistic Virtues. He concludes with a haunting comparison between our society and the Roman society at the Dark Ages and suggests that our hope rests in the emergence of a "new St. Benedict" and the formation of local communities where the virtues can be practiced in spite of the barbarians who now rule us.
 
 
+## Overall themes
+- "But let us suppose once again that the eighteenth and nineteenth centuries, brilliant and creative as they were, were in fact centuries not as we and they take them to be of Enlightenment, but of a peculiar kind of darkness in which men so dazzled themselves that they could no longer see and ask whether the social sciences might not have an alternative ancestry." (92)
+
 
 
 ## Preface
@@ -101,8 +104,32 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 8 - The Character of Generalizations in Social Science and their Lack of Predictive Power
-***Summary: ...***
-- 
+***Summary: MacIntyre refutes the authority of bureaucratic managers by showing how the systematic unpredictability of social life (c.f. Taleb) makes the authoritative claims of modern social science—and by extension the downstream managers/economists who use them—fall apart.***
+
+- justification of managerial expertise requires social science providing law-like generalizations with strong predictive power, but these have failed to materialize (88)
+- no one—including philosophers of social science—has called out social scientists for not delivering predictive laws because doing so would imperil the grounds for employing them and managerial expertise as a whole (89)
+- this is hiding the true achievements of social science (90)
+- MacIntyre gives four distinguished theses of social science, which (90-91):
+  - have recognized counter-examples
+  - lack universal quantifiers and scope modifiers
+  - do not entail any well-defined set of counterfactual conditionals
+- "But let us suppose once again that the eighteenth and nineteenth centuries, brilliant and creative as they were, were in fact centuries not as we and they take them to be of Enlightenment, but of a peculiar kind of darkness in which men so dazzled themselves that they could no longer see and ask whether the social sciences might not have an alternative ancestry." (92)
+- Machiavelli differs from the Enlightenment tradition in a way MacIntyre approves of (93)
+  - *Fortuna*: given the best generalizations we can still be defeated by an "unpredicted and unpredictable counter-example" (Taleb's Black Swan)
+- MacIntyre presents four sources of systematic unpredictability in human affairs (93+):
+  - first, a radical new invention cannot be predicted, because predicting it would amount to inventing it, c.f. Karl Popper (also cited by Taleb); this points to the unpredictability of the future of science (93-94)
+  - second, the unpredictability of the decisions of individual agents generates uncertainty in the social world...after citing Thomas, he says that "it is precisely insofar as we differ from God that unpredictability invades our lives"; MacIntyre then suggests that those who "seek to eliminate unpredictability from the social world or to deny it" are effectively claiming to be God (which in fact the "Humanitarians" *do* claim in Robert Hugh Benson's *Lord of the World*) (95-97)
+  - third, the failings of a game theory view of social life due to 1) infinite reflexivity (thinking an infinite number of moves ahead), 2) imperfect knowledge, and 3) multiple games or layers of games (97-99)
+  - fourth, pure contingency (tiny changes can have huge impacts) (99-100)
+- Then MacIntyre presents four predictable elements of human life (102+):
+  - the schedule of a "normal day" 
+  - statistical regularities (more colds in winter)
+  - knowledge of the causal regularities of nature
+  - knowledge of the causal regularities of social life
+- MacIntyre suggests the systematic study of *error* in social scientific predictions as a first step in better understanding them (105)
+- "Organizational success and organizational predictability exclude one another", so certain kinds of Totalitarianism are impossible (106)
+- all of this to reaffirm that the concept of managerial effectiveness is a moral fiction..."No one is or could be in charge." (107)     
+
 
 ## Ch 9 - Nietzsche or Aristotle
 ***Summary: ...***
