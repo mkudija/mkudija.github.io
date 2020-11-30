@@ -200,39 +200,61 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 13 - Medieval Aspects and Occasions
-***Summary: ...***
-- 
+***Summary: While recognizing the diversity of Medieval thought and disagreeing with the necessary unity of virtues in Aristotle and Aquinas, MacIntyre praises the Medieval advance in moral theory by virtue of linking biblical historical perspective with Aristotelian virtue.***
+
+- Note: the Aristotelian tradition we speak of is grounded in his *Nicomachaen Ethics* and *Politics* and not tied exclusively to them but in dialogue with them; balance between "Classical" (too broad) and "Aristotelian" (too narrow) (165)
+- Luther on Aristotle: "That buffoon who has misled the church" (says more about the former than the latter) (165)
+- Medieval culture was not monolithic but had a variety of conflicting strands to understand (166)
+- Christian and pagan elements coexisted in cultures recently emerged from a Heroic society (166)
+- The rediscovery of classical texts made the integration of pagan and Christian virtues a topic of philosophical and theological reflection (167)
+- Discussion of Stoicism and virtue on 168-169, including the Stoic abandonment of a *telos*, which is followed in Europe with emphasis on *law* rather than *virtue*
+  - "Whenever the virtues begin to lose their central place, Stoic patterns of thought and action at once reappear. Stoicism remains one of the permanent moral possibilities withing the cultures of the West." (c.f. Ryan Holiday and the secular Stoic movement today?) (170)
+- The virtue of *charity* is new from Christianity: first the *telos* of a final redemption, and second in the evil encountered along the way (175)
+- Medieval view of virtue: allow men to survive evils on their historical journey (176)
+- Idealized view of the world as orderly, as expressed in Dante and Aquinas (176-177)
+- MacIntyre disagrees with both Aristotle and Aquinas about the necessity of the *unity* of the virtues (example of a Nazi), but suggests that there is an alternative (180)
+
 
 ## Ch 14 - The Nature of the Virtues
+
 ***Summary: ...***
+
 - 
 
 ## Ch 15 - The Virtues, the Unity of a Human life and the Concept of a Tradition
+
 ***Summary: ...***
+
 - 
 
 ## Ch 16 - From the Virtues to Virtue and after Virtue
+
 ***Summary: ...***
+
 - 
 
 ## Ch 17 - Justice as a Virtue: Changing Conceptions
+
 ***Summary: ...***
+
 - 
 
 ## Ch 18 - After Virtue: Nietzsche *or* Aristotle, Trotsky *and* St. Benedict
+
 ***Summary: ...***
+
 - 
 
 ## Ch 19 - Postscript to the Second Edition
+
 ***Summary: ...***
+
 - 
 
 
-- missing a *telos*
+## Prologue to the Third Edition
+***[Link](https://www3.nd.edu/~undpress/excerpts/P01162-ex.pdf)***
 
-
-
-[Prologue to the Third Edition](https://www3.nd.edu/~undpress/excerpts/P01162-ex.pdf)
 - xii+: situatedness is important but not relativistic, resolves on xi
 - xiii: to respond to rival arguments/traditions you first need to fully understand the position of those arguments/traditions
 
