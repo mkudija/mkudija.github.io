@@ -217,9 +217,26 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 ## Ch 14 - The Nature of the Virtues
 
-***Summary: ...***
+***Summary: MacIntyre sees disparate conceptions of virtue and offers a unified definition of virtue as that which allows us to realize the internal goods of practices. This does not capture all of what Aristotle meant by virtue so will need to be strengthened with a view of the telos of a unified human life.***
 
-- 
+- we have many different and incompatible lists of virtues...the **Homeric**, the **Aristotelian**, the **New Testament**...add to them **Benjamin Franklin** and **Jane Austen** (181)
+  - **Homeric**: virtue allows you to do what your role requires (184)
+  - **Aristotelian**: *telos* determines the virtues (184)
+  - **New Testament**: *telos* as in Aristotle, *the good life for man* (including supernatural good) is prior to the concept of a virtue (184)
+  - **Jane Austen**: addition of constancy and amiability (183), combines seemingly different accounts of virtues (185)
+  - **Ben Franklin**: addition of cleanliness and industry and reshaping of more traditional virtues (183), teleological but utilitarian (185)
+- MacIntyre observes three different views of virtues (185):
+  - discharge social role (Homer)
+  - achieve *telos* (Aristotle, New Testament, Aquinas)
+  - utility (Franklin)
+- MacIntyre then proposes that we can unify a core conception of virtue from these rival claims (186)
+- MacIntyre suggests the concept of ***practice*** is the primary arena where virtues are exhibited and needed to give a core concept of virtue (187)
+  - ***practice*** defined as activity where internal goods are realized with excellence
+- MacIntyre proposes a tentative definition of virtue (191):
+  - "*A **virtue** is an acquired human quality the possession and exercise of which tends to enable us to achieve those goods which are internal to practices and the lack of which effectively prevents us from achieving ay such goods.*"
+- Practices can equally flourish in societies with different backgrounds (193) and need institutions to cultivate them (194) and must be understood also in terms of virtue (195)
+- MacIntyre's view of virtue grounded in practices is helpful but not complete and further needs to get at the unity of each human life and the *telos* of that life (203)
+
 
 ## Ch 15 - The Virtues, the Unity of a Human life and the Concept of a Tradition
 
