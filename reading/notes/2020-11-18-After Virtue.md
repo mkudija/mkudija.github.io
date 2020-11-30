@@ -181,7 +181,6 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 12 - Aristotle's Account of the Virtues
-
 ***Summary: MacIntyre provides a tour of Aristotle's understanding of virtue, including the problematic portions that must be discarded—or partially replaced—if we are to maintain an Aristotelian view of morality.***
 
 - MacIntyre turns to give a view of Aristotelean virtues, not just as said by Aristotle but by the whole *tradition* from which he drew and upon which others have built (despite Aristotle's dislike for such a view of tradition) (146)
@@ -216,7 +215,6 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 14 - The Nature of the Virtues
-
 ***Summary: MacIntyre sees disparate conceptions of virtue and offers a unified definition of virtue as that which allows us to realize the internal goods of practices. This does not capture all of what Aristotle meant by virtue so will need to be strengthened with a view of the telos of a unified human life.***
 
 - we have many different and incompatible lists of virtues...the **Homeric**, the **Aristotelian**, the **New Testament**...add to them **Benjamin Franklin** and **Jane Austen** (181)
@@ -239,8 +237,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 15 - The Virtues, the Unity of a Human life and the Concept of a Tradition
-
-***Summary: MacIntyre describes the understanding of social life required for the virtues, which finds its foundation in unity of narrative of a person's life.***
+***Summary: MacIntyre describes the understanding of social life required for the virtues, which finds its foundation in unity of narrative of a person's life which is at odds with the modern view of individualism.***
 
 - obstacles to unity of each human life as a whole (204)
   - social: modernity partitions each life into segments
@@ -254,29 +251,40 @@ It's important to note that *After Virtue* is a first statement of the problem a
 - unity is provided by the two questions of *"What is the good for me?"* and *"What is the good for man?"* (218-219)
 - our lives are a *quest* for the *telos* of the good life of man, and the virtues sustain us on this quest (219)
 - "The good life for man is the life spent in seeking for the good life for man, and the virtues necessary for the seeking are those which will enable us to understand what more and what else the good life for man is." (219)
+- our position, relationships, community, etc. form our "moral starting point", which is at odds with a modern view of individualism (220)
 - "What is better or worse for someone depends upon the character of that intelligible narrative which provides their life with its unity" --> the lack of a unifying conception of life underlies modern denial of factual moral judgments (225)
 
 
 ## Ch 16 - From the Virtues to Virtue and after Virtue
+***Summary: MacIntyre focuses on Hume's conception of virtue (singular) as illustrating many of the features of modern thought now that narrative unity and practice are removed from an understanding of the virtues.***
 
-***Summary: ...***
+- "One of the key moment in the creation of modernity occurs when production moves outside of the household" and put to the service of "impersonal capital" (227, c.f. Wes Baker)
+- Key problem: "For if you withdraw those background concepts of *the narrative unity of human life* and of *a practice with goods internal to it* from those areas in which human life is for the most part lived out, what is there left for the virtues to become?" (228)
+  - having happened, now virtue can only be cast as relating to the expression or regulation of the passions of the *individual* (228)
+- discussion of Hume's separation of natural and artificial virtues...eventually leading to virtue as a concept of preference (229-231)
+  - great phrase of Hume's: "the monkish virtues"...something to aspire to in the same way as "the dogma lives loudly within you" [link](https://youtu.be/9mDQM1TzlAM) (230)
+  - ...so, whose preferences reign? (231)
+- three features of Hume's treatment of the virtues (which reoccur) (232+)
+  - virtues are divorced from their classical meanings
+  - a new emphasis on the relationship between virtues and *rules*
+  - shift from "virtues" as plural to "virtue" as singular
+- the removal of *telos* leads to a reversion to Stoicism...Nature now becomes what God is for Christianity (233-234)
+- discussion of Adam Smith's view of virtue (234-235) and "Republicanism" (French Revolution) view of virtue (237-238) and Jane Austen, who he identifies as the last great representative of traditional virtues (239+)
 
-- 
 
 ## Ch 17 - Justice as a Virtue: Changing Conceptions
-
 ***Summary: ...***
 
 - 
+
 
 ## Ch 18 - After Virtue: Nietzsche *or* Aristotle, Trotsky *and* St. Benedict
-
 ***Summary: ...***
 
 - 
 
-## Ch 19 - Postscript to the Second Edition
 
+## Ch 19 - Postscript to the Second Edition
 ***Summary: ...***
 
 - 
