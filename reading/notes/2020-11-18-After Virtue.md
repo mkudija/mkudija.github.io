@@ -240,9 +240,22 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 ## Ch 15 - The Virtues, the Unity of a Human life and the Concept of a Tradition
 
-***Summary: ...***
+***Summary: MacIntyre describes the understanding of social life required for the virtues, which finds its foundation in unity of narrative of a person's life.***
 
-- 
+- obstacles to unity of each human life as a whole (204)
+  - social: modernity partitions each life into segments
+  - philosophical: tendency to think atomistically about human action
+- lack of unity makes it difficult to map Aristotelian virtues to the "parts" of a person's life (205)
+- human *behavior* as constituted by both *intentions* and *beliefs*, leading to *narrative history* as the basic genre for discussing human actions (208)
+- *conversation* is the form of human transactions in general (211)
+- "The narratives which we live out have both an unpredictable and a partially teleological character" (216)
+- "man is a story-telling animal" and stories are how we understand a society (216)
+- we are the subject of the story that runs from our birth to our death, and we have to give an account of our actions (217-218)
+- unity is provided by the two questions of *"What is the good for me?"* and *"What is the good for man?"* (218-219)
+- our lives are a *quest* for the *telos* of the good life of man, and the virtues sustain us on this quest (219)
+- "The good life for man is the life spent in seeking for the good life for man, and the virtues necessary for the seeking are those which will enable us to understand what more and what else the good life for man is." (219)
+- "What is better or worse for someone depends upon the character of that intelligible narrative which provides their life with its unity" --> the lack of a unifying conception of life underlies modern denial of factual moral judgments (225)
+
 
 ## Ch 16 - From the Virtues to Virtue and after Virtue
 
@@ -270,7 +283,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Prologue to the Third Edition
-***[Link](https://www3.nd.edu/~undpress/excerpts/P01162-ex.pdf)***
+***[PDF Link](https://www3.nd.edu/~undpress/excerpts/P01162-ex.pdf)***
 
 - xii+: situatedness is important but not relativistic, resolves on xi
 - xiii: to respond to rival arguments/traditions you first need to fully understand the position of those arguments/traditions
