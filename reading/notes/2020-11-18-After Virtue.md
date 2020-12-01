@@ -63,7 +63,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 - the claims of a moral philosophy can't be understood apart from its social embodiment, so MacIntyre does this for emotivism (23)
 - he focuses on the *Characters* as moral representatives of their culture (28), which include (30):
-  - **The Rich Aesthete**: 
+  - **The Rich Aesthete**: the consumer
   - **The Manager**: manipulative social relations, transforms materials/investment into products/profit, treats the end as given and outside his scope
   - **The Therapist**: transforms people, also treats the end as given and outside his scope
 - emotivism is only clear as the end product of historical change (35)
@@ -286,9 +286,17 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 18 - After Virtue: Nietzsche *or* Aristotle, Trotsky *and* St. Benedict
-***Summary: ...***
+***Summary: MacIntyre concludes by saying that it's actually not "Nietzsche vs Aristotle", but rather "liberal individualism (or something like it)" vs "Aristotle (or something like it)". We need to form local communities to sustain morality through the coming new dark ages.***
 
-- 
+- MacIntyre again sets up Aristotle vs Nietzsche and asserts that Nietzsche does not win: particularly in the isolation of his view of greatness, which stands vastly apart from the community and practices and common good of Aristotelian virtues (257-258)
+- the Nietzschean "great man" is a pseudo-concept representing individualism's final attempt to escape from its own consequences, and Nietzsche does not overcome modernity but is simply one more example of it (259)
+- so, it's not "Nietzsche vs Aristotle", but rather "liberal individualism (or something like it)" vs "Aristotle (or something like it)" (259)
+  - "we still, in spite of the efforts of three centuries of moral philosophy and one of sociology, lack any coherent rationally defensible statement of a ***liberal individualist*** point of view"
+  - "the ***Aristotelian*** tradition can be restated in a way that restores intelligibility and rationality to our moral and social attitudes and commitments"
+- MacIntyre anticipates a rebuttal as saying it is "liberal individualism" vs "*Marxism*" and proceeds to disagree; instead he sees "no tolerable alternative set of political and economic structures which could be brought into place to replace the structures of advanced capitalism" (261-262)
+- MacIntyre's closing paragraph (263)
+
+> It is always dangerous to draw too precise parallels between one historical period and anther; and among the most misleading of such parallels are those which have been drawn between our own age in Europe and North America and the epoch in which the Roman empire declined into the Dark Ages. Nonetheless certain parallels there are. A crucial turning point int hat earlier history occurred when men and women of good will turned aside from the task of shoring up the Roman *imperium* and ceased to identify the continuation of civility and moral community with the maintenance of the *imperium*. What they set themselves to achieve instead—often not recognizing fully what they were doing—was the construction of new forms of community within which the moral life could be sustained so that both morality and civility might survive the coming ages of barbarism and darkness. If my account of our moral condition is correct, we ought also to conclude that for some time now we too have reached that turning point. **What matters at this stage is the construction of local forms of community within which civility and the intellectual and moral life can be sustained through the new dark ages which are already upon us.** And if the tradition of the virtues was able to survive the horrors of the last dark ages, we are not entirely without grounds for hope. This time however the barbarians are not waiting beyond the frontiers; they have already been governing us for quite some time. And it is our lack of consciousness of this that constitutes part of our predicament. **We are waiting not for a Godot, but for another—doubtless very different—St. Benedict.**
 
 
 ## Ch 19 - Postscript to the Second Edition
@@ -304,3 +312,6 @@ It's important to note that *After Virtue* is a first statement of the problem a
 - xiii: to respond to rival arguments/traditions you first need to fully understand the position of those arguments/traditions
 
 
+## New Words
+- solipsism: The theory that the self is the only thing that can be known and verified (258)
+-
