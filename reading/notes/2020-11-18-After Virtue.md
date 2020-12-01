@@ -17,11 +17,7 @@ I first read *After Virtue* in a Morality & Modernity course taught by David Sol
 
 It's important to note that *After Virtue* is a first statement of the problem and a sketch of a possible solution but not the complete argument. MacIntyre says as much in the postscript to the Second Edition and prologue to the Third Edition, and the argument is further developed in his subsequent books which I plan to dive into eventually. 
 
-*After Virtue* starts by observing the problem that modern moral arguments are irreconcilable in nature and shrill in tone. MacIntyre argues that this is the result of the failure of the enlightenment project of justifying morality by removing the teleological end man moves toward. This leaves us with an *emotivist* approach to questions of morality where the answer is all a matter of preference. People and traditions clearly have different preferences, so this leaves us deadlocked. MacIntyre argues that the path forward is a rearticulation of the classical Aristotelian and Thomistic Virtues. He concludes with a haunting comparison between our society and the Roman society at the Dark Ages and suggests that our hope rests in the emergence of a "new St. Benedict" and the formation of local communities where the virtues can be practiced in spite of the barbarians who now rule us.
-
-
-## Overall themes
-- "But let us suppose once again that the eighteenth and nineteenth centuries, brilliant and creative as they were, were in fact centuries not as we and they take them to be of Enlightenment, but of a peculiar kind of darkness in which men so dazzled themselves that they could no longer see and ask whether the social sciences might not have an alternative ancestry." (92)
+*After Virtue* starts by observing the problem that modern moral arguments are irreconcilable in nature and shrill in tone. MacIntyre argues that this is the result of the failure of the enlightenment project of justifying morality by removing the teleological end man moves toward. This leaves us with an *emotivist* approach to questions of morality where the answer is all a matter of preference. People and traditions clearly have different preferences, so this leaves us deadlocked. MacIntyre argues that the path forward is a rearticulation of the classical Aristotelian and Thomistic Virtues that recognize the unity of human life and a sense of history and culture. He concludes with a haunting comparison between our society and the Roman society at the Dark Ages and suggests that our hope rests in the emergence of a "new St. Benedict" and the formation of local communities where the virtues can be practiced in spite of the barbarians who now rule us.
 
 
 
@@ -300,9 +296,13 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 19 - Postscript to the Second Edition
-***Summary: ...***
+***Summary: Consider After Virtue a work still in progress, with some brief clarifications on three points.***
 
-- 
+- his goal with *After Virtue* was to sketch the overall thesis of the place of virtues in human life and show how it was incompatible with conventional academic disciplinary boundaries (264)
+- three areas to clarify:
+  1. relationship of philosophy to history
+  2. the virtues relativism
+  3. relationship of moral philosophy to theology (see *Nicomachean Ethics, Thomism and Aristotelianism* by Harry V. Jaffa)
 
 
 ## Prologue to the Third Edition
@@ -314,4 +314,3 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 ## New Words
 - solipsism: The theory that the self is the only thing that can be known and verified (258)
--
