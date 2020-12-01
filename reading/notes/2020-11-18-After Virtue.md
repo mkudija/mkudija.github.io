@@ -273,9 +273,16 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 
 ## Ch 17 - Justice as a Virtue: Changing Conceptions
-***Summary: ...***
+***Summary: Justice is a fundamental virtue and MacIntyre shows how his prior argument applied to questions of justice and suggests deep problems in our political system as a result of the loss of a common conception of justice.***
 
-- 
+- If common agreement on justice is needed for political community like Aristotle says, then this lack threatens our own society (244)
+- MacIntyre gives a hypothetical (but realistic) example of two different views of justice, and then gives their philosophical proponents (245-246):
+  - Rawls and the framework of the "veil of ignorance" 
+  - Nozick claims that property ownership is just if it was acquired justly
+  - MacIntyre doesn't dispute either of their arguments, but shows how we have too many disparate moral concepts that we cannot settle rationally (252)
+- "Modern politics cannot be a matter of genuine moral consensus. And it is not. Modern politics is civil war carried on by other means." (253)
+- Resulting ambiguity of *patriotism*: "In any society where government does not express or represent the moral community of the citizens, but is instead a set of institutional arrangements for imposing a bureaucratized unity on a society which lacks genuine moral consensus, the nature of political obligation becomes systematically unclear." (254)
+- "Modern systematic politics...simply has to be rejected from a standpoint that owes genuine allegiance to the tradition of the virtues; for modern politics itself expresses in is institutional forms a systematic rejection of that tradition." (255)
 
 
 ## Ch 18 - After Virtue: Nietzsche *or* Aristotle, Trotsky *and* St. Benedict
