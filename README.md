@@ -164,6 +164,7 @@ This website is inspired by a number of others, including those below:
 - [Matthew Brehmer](https://mattbrehmer.github.io/)
 - [Matthew McAteer](https://matthewmcateer.me/bookshelf/)
 - [David Sousa-Rodrigues](https://www.sixhat.net/)
+- [Julian](https://julian.digital/about)
 
 
 # Other Sites I've Built*
