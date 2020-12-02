@@ -165,6 +165,7 @@ This website is inspired by a number of others, including those below:
 - [Matthew McAteer](https://matthewmcateer.me/bookshelf/)
 - [David Sousa-Rodrigues](https://www.sixhat.net/)
 - [Julian](https://julian.digital/about)
+- [Philip Davis](https://philipcdavis.com/writing/a-digital-tool-checklist)
 
 
 # Other Sites I've Built*
