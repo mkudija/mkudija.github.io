@@ -67,7 +67,7 @@ The benefits of life planning include:
 ### Chapter 5 - Determine Your Priorities
 *Identify your "Life Accounts"*
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2021-01-04-Living%20Forward/images/73.jpg" width="50%" height="50%"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2021-01-04-Living%20Forward/73.jpg" width="50%" height="50%"></p>
 - The nine basic life accounts:
   - First ring is "Circle of Being": activities focused on yourself
   - Second ring is "Circle of Relating": relationships with others
@@ -78,7 +78,7 @@ The benefits of life planning include:
   - They are interrelated
   - They will change over time
 - After making your Life Accounts, *determine the condition of each*
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2021-01-04-Living%20Forward/images/78.jpg" width="50%" height="50%"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2021-01-04-Living%20Forward/78.jpg" width="50%" height="50%"></p>
   - *Passion* is your enthusiasm for the account
   - *Progress* relates to the results you are getting in that account
 - Then, *prioritize your accounts*
