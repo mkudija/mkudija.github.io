@@ -79,6 +79,7 @@ The benefits of life planning include:
   - They will change over time
 - After making your Life Accounts, *determine the condition of each*
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2021-01-04-Living%20Forward/78.jpg" width="50%" height="50%"></p>
+
   - *Passion* is your enthusiasm for the account
   - *Progress* relates to the results you are getting in that account
 - Then, *prioritize your accounts*
