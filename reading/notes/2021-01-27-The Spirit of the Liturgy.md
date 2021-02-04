@@ -3,6 +3,8 @@
 
 (San Francisco: Ignatius, 2018 [2000]), 271
 
+Fr. Dailey recommended this to me and I was reintroduced to it when finishing the *History of the Catholic Church*. Reading Ratzinger is always a special experience—he blends together all of scripture and salvation history into a beautiful narrative, and every word drips with a lifetime of thought behind it. This is a book to think about (before mass certainly) and come back to.
+
 
 ## Part I: The Essence of the Liturgy
 
@@ -130,6 +132,8 @@
 # [*The Spirit of the Liturgy*](https://www.amazon.com/Spirit-Liturgy-Commemorative-Romano-Guardini/dp/1621642585/ref=sr_1_1?dchild=1&keywords=the+spirit+of+the+liturgy&qid=1611760722&sr=8-1) by Romano Guardini
 
 (San Francisco: Ignatius, 2018 [1918]), 98
+
+I'm glad they included the original that Ratzinger's more recent book was based off in this commemorative edition from Ignatius press. I was on the fence about whether to read it but am glad I did. The weight and beauty of tradition just pours forth from this little volume and makes you see the liturgy in a new light.
 
 
 ## The Prayer of the Liturgy
