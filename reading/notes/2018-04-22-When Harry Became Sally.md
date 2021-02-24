@@ -21,7 +21,7 @@ The introduction describes what each chapter covers, and provides a good summary
   - They are always changing their creed and expanding their demands
   - Even as their position shifts, they are closed off to contrary evidence
   - Because the movement is close-minded, it inclines toward coercion
-- **Transgender Ontology**: "at the heart of the transgender moment are radical ideas about the human person—in particular, that people *are* what the yclaim to be, regardless of contrary evidence. A transgender boy *is* a boy, not merely a girl who *identifies* as a boy." (29)
+- **Transgender Ontology**: "at the heart of the transgender moment are radical ideas about the human person—in particular, that people *are* what they claim to be, regardless of contrary evidence. A transgender boy *is* a boy, not merely a girl who *identifies* as a boy." (29)
 - **Transgender Medicine**: typically follows four parts:
   - Social transition (name, pronouns, presentation, etc.)
   - Psychotherapy to address stigma, social support, etc.
