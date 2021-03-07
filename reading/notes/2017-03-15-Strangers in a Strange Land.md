@@ -1,5 +1,7 @@
-3/15/17 - Strangers in a Strange Land by Charles J. Chaput
-* Banedict quote, 3
+
+# Strangers in a Strange Land by Charles J. Chaput
+
+* Benedict quote, 3
 * Lord of the World by Robert Hugh Benson (Francis has read this multiple times), 10
 * Discussion of City of God, 12-16
 * Outline:
@@ -38,7 +40,7 @@
     * Thought experiment from After Virtue...we use the same words for morality but they have lost their meaning (126-127)
     * "The enlightenment tried to keep the more content of Christianity while eliminating its religious base. But it doesn't work. The biblical grounding can't be cut away without undermining the whole moral system. Every attempt to build a substitute system has suffered from incoherence, no matter how reasonable sounding." (130)
     * After Virtue in American culture:
-        * Social siences: 
+        * Social sciences: 
             * More atheistic than other disciplines and has social agenda
             * Objectify the human person by subjecting them to scientific study
             * Social sciences function as a means of social control to maintain bureaucratic authority 
@@ -46,7 +48,7 @@
             * Econ professor whose favorite quality of prospective PhDs is a undergrad degree in classics: to ennobling the soul
             * Strauss: "liberal education is the counter-poison to the corroding effects of mass culture" (135, "Liberal education and mass democracy")
             * Liberal education names to know: Anthony Esolen, Allan Bloom, Neil Postman, Matthew Crawford, Alastair MacIntyre
-            * Liberal education is important to move beyond cogs in STEM machine, and because we need educated people fordemocracy  to work 
+            * Liberal education is important to move beyond cogs in STEM machine, and because we need educated people for democracy  to work 
         * Law, courts, legal profession 
             * We have a passion for justice but loss of confidence in the foundations of justice
             * Obama administration use of executive orders as a primary means of enacting agenda skirts the intention of the constitution 
@@ -77,3 +79,4 @@
     * Nature is sacramental 
     * Real beauty leads us to the three virtues of humility, love, and hope
     * "But sexuality-related issues are not a separate, idiosyncratic corner of Catholic thought. They're deeply connected to much broader issues of personal and social morality and the organization of society." (238)
+

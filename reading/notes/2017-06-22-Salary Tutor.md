@@ -1,8 +1,7 @@
-# [*Salary Tutor: Learn the Salary Negotiation Secrets No One Ever Taught You*](https://www.amazon.com/Salary-Tutor-Negotiation-Secrets-Taught/dp/1455503274/ref=sr_1_1?ie=UTF8&qid=1550696286&sr=8-1&keywords=salary+tutor) by Jim Hopkinson
 
-(New York: Business Plus, 2011), 133
+# Salary Tutor by Jim Hopkinson
 
-## Salary Negotiation for new job
+Salary Negotiation for new job
 * At the end of your salary negotiation, you want to be able to answer yes to these two questions:
     * Was I prepared?
     * Did I do everything I could?
@@ -48,7 +47,7 @@
     * It’s important that both parties feel like they won
     * send an email summarizing all the points you discussed
 
-## Get a raise in your Current Job
+Get a raise in your Current Job
 * You don’t necessarily need to leave your job to get a large pay increase
 * It is much more difficult and expensive for your employer to find and train a replacement than keep you happy
 * You have to earn a raise, by doing one of the following:
@@ -97,10 +96,11 @@
     * keep your cool when you get a response
         * if you don’t get what you want, listen and try to glean more information
 
-## Negotiation salary in a bad economy
+Negotiation salary in a bad economy
 * know the situation
 * it’s all about the money - put yourself in the position where you are directly improving net income
 * set the stage for recovery - sit down and explain that even if they can’t give you a raise you deserve one; ask for a higher title and review in six months
 * What it says about you - shows that you are forward thinking and aware of what’s going on in the business
 
-## Another chapter on freelance negotiations that I didn’t take notes on
+Another chapter on freelance negotiations that I didn’t take notes on
+
