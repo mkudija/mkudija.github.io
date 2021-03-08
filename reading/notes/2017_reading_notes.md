@@ -1,9 +1,0 @@
-# 2017 Reading Notes
-
-**:warning: THESE NOTES ARE PORTED FROM EVERNOTE WITHOUT REVIEWING FORMATTING**
-
----
-
-
-
-
