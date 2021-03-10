@@ -3,7 +3,7 @@
 
 (New York: Currency, 2021), 308
 
-
+Dr. Robert Livingston spoke virtually at Root recently and they mailed us this book to engage in the conversation. I'm glad they did and I'm glad I read it. I find his approach to discussing racism to be honest, humble, patient, realistic, and data-driven in a way that much of the other material I have read is not. He speaks from moral and pragmatic principles in a way that is not politicized but seeks to deeply understand the issue in a way to make productive progress. One part of the book that really struck me was is the importance of having diverse images we see and heroes we look up to. We decided to make a collage at home of saints—black, white, and all shades in between—to put up in our home to emphasize what really matters.
 
 **Movies referenced**
 - *Green Book* (36)
