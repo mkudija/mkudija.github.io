@@ -45,5 +45,61 @@ Requirements for my next car:
 - “The technocrats and optimizers seek to make everything idiotproof, and pursue this by treating us like idiots...to drive us to exercise one’s skill at being free” (31)
 - “Safetyism”: “If one cares about safety, one does well to take a skeptical look at the safety-industrial complex, and it’s reliance on moral intimidation to pursue ends other than safety” (34)
 - “if left unchallenged, the pursuit of risk reduction tends to create a society based on an unrealistically low view of human capacities” (34)
-- 
+
+
+## Cars and the Common Good
+
+# Rolling Your Own
+
+## Breaking Down: 1972 Jeepster Commando
+
+## Project Rat Rot
+
+## Old Cars: A Thorn in the Side of the Future
+
+## The Diminishing Returns of Idiot-Proofing as a Design Principle
+
+## Feeling the Road
+
+## Automation as Moral Reeducation
+
+## Folk Engineering
+
+
+# Motor Sport and the Spirit of Play
+
+## the Motor Equivalent of War
+
+## the Rise of the Bicycle Moralists (A Digression)
+
+## Two Derbies and a Scramble
+
+### Act I: Demolition Derby
+### Act II: Adult Soap Box Derby
+### Act III: Hare Scramble
+
+## Democracy in the Desert: The Caliente 250
+
+# Self-Government, or Not
+
+## Prelude: The DMV Experience
+
+## "Reckless Driving:" Rules, Reasonableness, and the Flavor of Authority
+
+## Managing Traffic: Three Rival Versions of Reality
+
+## Road Rage, Other Minds, and the Traffic Community
+
+
+# Meet the New Boss
+
+## Street View: Seeing Like Google
+
+## A Glorious, Collisionless Manner of Living
+
+## If Google Built Cars
+
+## Concluding Remarks: Sovereignty on the Road
+
+## Postscript: The Road to La Honda
 
