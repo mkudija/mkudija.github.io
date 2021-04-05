@@ -48,14 +48,40 @@ Requirements for my next car:
 
 
 ## Cars and the Common Good
+- Jane Jacob’s book (35): not just cars destroying cities, but urban planning )36)
+- the growth of the automobile was largely a government (rather than private) understating, from FDR’s road projects through to Eisenhower’s interstate highway system (38-39)
+- why is google making cars? “Self-driving cars must be understood as one more escalation in the war to claim and monetize every moment of life that might otherwise offer a bit of private head space” (40)
+- commute like the rosary...the car’s isolation becomes a humanizing space in the world (41)
+- “Futurism is a genre of myth making that seeks to generate a feeling of inevitability around some desired outcome, a picture that is offered *as though it were a prediction*” (42)
+- Uber case study of growth at all costs without any hope of profitability resulting in massive misallocation of capital (44-45)
+
 
 # Rolling Your Own
 
 ## Breaking Down: 1972 Jeepster Commando
+- broke down near San Miguel in his Jeep Commando
+- asking another human being to render aid was the hardest part (54)
+- “when a situation looks grim, but also you’re not sure exactly how things stand, you form theories that are attractive not because they are the most plausible but because they give you something to *do*, and doing something is the only way not to be crushed by miasmic uncertainty and despair” (55)
+- despair turned to freedom, and he sold his Jeep for a train ticket from Paso to Oakland 
+- VW bus: “sometimes a car seems not simply to move you through the world, but to put you into the arms of the world more thoroughly.” (58)
+
 
 ## Project Rat Rot
+- his wife is a cognitive psychologist who designed a car and taught rats to drive it
+- Lambert: much depression caused by being disengaged from the basic tasks of our survival (64)
+- taking care of ourselves lowers anxiety: human flourishing requires “open problem spaces” that elicit bodily and mental engagement (65)
+
 
 ## Old Cars: A Thorn in the Side of the Future
+- this chapter: the false environmentalism of forced obsolescence, and creative possibilities from the old
+- “patina lends proof of life” (67), Quoted from *Junkyards, Gearheads, and Rust* by Lucsko
+- yard wealth and fixing old things as against the bourgeois virtue-signaling and planned obsolescence of the economy (71)
+- litter and cultivated junk are opposites of stewardship, but viewed as the same by “civic responsibility” (73)
+- “shoddiness is a natural corollary to our faith in progress” ...”nothing is made to outlast probable improvement” (73), and subsequent discussion of the mixed motives of cash for clunkers programs 
+- “folk-classic” and the Hagerty persona (80)
+- artistic hatred of the past, as expressed in pleasure at the destruction of old cars or the burning of Notre Dame (81)
+- Michael Oakeshott’s view of conservatism as “affection for the present” and what actually exists (82), cf “On Being Conservative”, *Rationalism in Politics*
+
 
 ## The Diminishing Returns of Idiot-Proofing as a Design Principle
 
