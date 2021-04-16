@@ -42,16 +42,30 @@
 - You can pull the levers of equipment capacity, manpower, and inventory against delivery time, creating a "menu of options" with tradeoffs (i.e. you can create a continuous operation, but at the expense of flexibility) (10)
 - Adding value: the material becomes more valuable as it moves through the process (12)
   - Therefore, test to detect and fix issues at the lowest-value stage possible
-- 
 
 ## Chapter 2: Managing the Breakfast Factory
-*Summary: *
+*Summary: Use well-designed metrics to see inside the "black box" of production processes, a favorite being the stagger chart to create skin in the game for forecasters. Use variable inspection techniques to manage the quality of management processes, and increase productivity by growing **high-leverage** (high output per action) activities.*
+
+- Indicators (KPIs) are a key tool: focus them on specific operational goals
+  - Any measurement is better than none
+  - Good indicators measure the *output* rather than the *activity*
+  - Must be *measurable*
+- Indicators allow us to see inside the "black box" (isolated inputs, outputs, and labor of processes)
+- Helpful indicators
+  - *Linearity indicator*: visually show actual progress vs required straight-line to hit target (21)
+  - *Stagger chart*: show development of forecasts to create visibility of results and skin in the game for forecasters (23)
+- Create an automated, standardized set of indicators to aid troubleshooting
+- Exercise variable inspection as a manager: dig deeply into various activities to ensure all delegated activities are performed with thoroughness (33)
+- Focus on *high-leverage activities*, those with high output per activity (35)
+  - Automation
+  - Work simplification
 
 
 # Part II: Management Is a Team Game
 
 ## Chapter 3: Managerial Leverage
 *Summary: *
+- 
 
 
 
