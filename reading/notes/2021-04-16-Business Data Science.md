@@ -4,7 +4,7 @@
 (New York: McGraw Hill, 2019), 331
 
 ### Resources
-- *The author's data and R scripts for the books is on [GiHub](https://github.com/TaddyLab/bds)*
+- *The author's data and R scripts for the books is on [GitHub](https://github.com/TaddyLab/bds) (see also code for [MBA course](https://github.com/TaddyLab/MBA).*
 - *My code to accompany these notes is on [GitHub](https://github.com/mkudija/taddy-business-data-science).*
 
 ## Preface
