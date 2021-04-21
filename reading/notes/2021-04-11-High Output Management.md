@@ -4,6 +4,10 @@
 (New York: Penguin Random House, 1983, 2015), 251
 
 
+## Key Concepts
+- Output and Leverage
+- Apply Production Principles to management
+
 ## Introduction
 *1995*
 - when attacked, lead with your strength (*x*)
@@ -133,12 +137,39 @@
 
 
 ## Chapter 5: Decisions, Decisions
-*Summary: *
+*Summary: The ideal decision-making process consists of free discussion, a clear decision, and full group support of the decision. Decisions should be made at the lowest competent group (subsidiarity).*
 
+- Ideal decision-making process:
+  - Free discussion: all points of view welcomed and debated
+  - Clear decision: there should be no question what the final decisions is 
+  - Full support: not everyone will agree with the decision, but everyone must commit to support the group's decision
+- Make the decision at the lowest competent level: closest to the issue and most knowledgeable
+- Peer group syndrome is an obstacle to decision-making: no one wants to make a decision among peers
+  - Solution is ensuring peers have self-confidence, or *peer plus one* approach: have a senior chairman conduct the meeting and drive for a decision
+- Apply structure ahead of the decision to guide output:
+  - What decision needs to be made?
+  - When does it have to be made?
+  - Who will decide?
+  - Who needs to be consulted?
+  - Who will ratify/veto the decision?
+  - Who needs to be informed of the decision?
 
 
 ## Chapter 6: Planning: Today's Actions for Tomorrow's Output
-*Summary: *
+*Summary: Planning is a key management activity that can also be influenced by production principles: determine where you want to be, where you are now, and assess the gap. The output of planning is the set of actions to close the gap. The management by objectives (MBO) structure introduces **objectives** and **key results** as a system for fusing planning and execution.*
+
+- Planning process
+  1. **What is the need?** Customer's needs and environment landscape
+  2. **What is the current status?** Current capabilities and projects in work
+  3. **Evaluate the gap between 1 and 2.** What's needed to close this gap becomes your strategy
+- The output of the planning process is the set of tasks is generates
+  - A gap today represents failed planning in the past --> think: what do we have to do *today* to solve or avoid *tomorrow's* problems
+- Don't plan too frequently since we need time to close the feedback loop
+- Planning is a key management activity with high leverage if planning and execution are closely coupled
+- Planning reality: saying yes to something is also saying no to everything else
+- Management by Objectives (MBO) provides focus and unites planning and execution
+  - **Objective**: where do we want to go
+  - **Key result**: gives us milestones to pace our progress toward the objective and make needed adjustments
 
 
 # Part III: Team of Teams
