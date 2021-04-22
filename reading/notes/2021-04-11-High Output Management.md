@@ -137,7 +137,7 @@
 
 
 ## Chapter 5: Decisions, Decisions
-*Summary: The ideal decision-making process consists of free discussion, a clear decision, and full group support of the decision. Decisions should be made at the lowest competent group (subsidiarity).*
+*Summary: The ideal decision-making process consists of **free discussion**, a **clear decision**, and **full group support** of the decision. Decisions should be made at the lowest competent group (subsidiarity).*
 
 - Ideal decision-making process:
   - Free discussion: all points of view welcomed and debated
@@ -175,22 +175,51 @@
 # Part III: Team of Teams
 
 ## Chapter 7: The Breakfast Factory Goes National
-*Summary: *
-
+*Summary: This chapter illustrates the centralization-decentralization dichotomy as organizations grow. Management is not just a team game, we must fashion a team of teams.*
 
 
 ## Chapter 8: Hybrid Organizations
-*Summary: *
+*Summary: Organizations can be **mission-oriented** (decentralized, flexible to local conditions), or **functional** (centralized to realize economies of scale). In practice, large organizations (except conglomerates) end up with a hybrid structure.*
 
+- **Mission-oriented**: enables *responsiveness*
+  - decentralized in which each (local) individual business is fully independent
+  - allows business units flexibility to respond to local conditions
+- **Functional**: enables *leverage*
+  - centralized organization to increase economies of scale and the leverage of expertise
+  - functional groups viewed as internal subcontractors, or "shared services"
+- Sloan: "Good management rests on a reconciliation of centralization and decentralization", or the best combination of responsiveness and leverage (123)
+- "Grove's Law": *"All large organizations with a common business purpose end up in a hybrid organizational form."* (127)
+  - conglomerates are typically not hybrid because they don't share a common business purpose
 
 
 ## Chapter 9: Dual Reporting
-*Summary: *
+*Summary: In a hybrid organization **dual reporting** allows an individual to report to both mission-oriented and functional supervisors (where the functional supervisor can be replaced with a group of peers). Alternatively the organization can be **multi-plane** in which different organization structures and hierarchies exist for different purposes.*
 
+- dual reporting 
+  - pioneered in the Apollo Program
+  - creates ambiguity for managers
+  - requires a positive corporate culture (to enable decision-making by peers)
+- Option 1: report to both mission-oriented and functional supervisors
+  - example: security team reports to both local plant manager (mission-oriented) and corporate security director (functional)
+- Option 2: report to mission-oriented supervisor as well as functional group of peers
+  - example: manufacturing manager reports to both local plant manager (mission-oriented) and Manufacturing Committee (functional group of peers)
+- Option 3: Multi-plane organization in which multiple org structures and hierarchies exist for different purposes
+  - example: process engineer reports to supervising engineer, and to chairman of the process engineering committee she advises
 
 
 ## Chapter 10: Modes of Control
-*Summary: *
+*Summary: Our behavior is controlled by one of three means: **free market forces** (self-interest), **contracts**, or **cultural values**. There is always a best mode of control depending on the individual's motivation and the environment (i.e. CUA factor: complexity, uncertainty, ambiguity).*
+
+- **Free market forces**: everyone openly acts in their own self-interest, based on price
+- **Contracts**: requires the overhead of policing, examples include employment contracts or public utilities 
+- **Cultural values**: interest of the group takes precedence over the individual
+  - requires trust and common values, objectives, and methods
+  - these can be articulated but must also be created by example
+- Selecting a mode of control:
+  - depends on the person's motivation
+  - depends on the environment (CUA Factor: complexity, uncertainty, ambiguity)
+  - See this great chart from [Coleman McCormick](https://www.colemanm.org/post/modes-of-control/) reproducing the visual on page 149, which suggests which mode of control is best for each combination of individual motivation and CUA factor:
+  - <p style="text-align:center;"><img src="https://d33wubrfki0l68.cloudfront.net/c2f3c0c79235c244edd6c49c38822083ba931b0d/10b8b/images/post-images/modes-of-control.jpg" width="50%" height="50%"></p>
 
 
 # Part IV: The Players
