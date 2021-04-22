@@ -167,9 +167,11 @@ This website is inspired by a number of others, including those below:
 - [Julian](https://julian.digital/about)
 - [Philip Davis](https://philipcdavis.com/writing/a-digital-tool-checklist)
 - [Tristan Mahr](https://www.tjmahr.com/)
+- [Ben Hamilton](https://ben.hamilton.id.au/tools/)
 
 
 # Other Sites I've Built*
 *Built as in put together from a lot of other people's work and a little fiddling myself
 - [tappertoolco.com](http://tappertoolco.com/)
 - [kudijakitchen.com](http://kudijakitchen.com/)
+- [minatronic.com](http://minatronic.com/)
