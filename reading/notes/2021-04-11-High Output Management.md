@@ -225,8 +225,22 @@
 # Part IV: The Players
 
 ## Chapter 11: The Sports Analogy
-*Summary: *
+*Summary: A manager is the coach of the team, and your job is to elicit peak individual performance through **training** and **motivation**. Using Maslow's Hierarchy as a motivational framework, your goal is to motivate for self-actualization creating no limit to performance.*
 
+- A manager's role is to elicit peak individual performance ("personal best") through **training** and **motivation**
+  - <p style="text-align:center;"><img src="https://ersin-yilmaz.com/content/images/2020/07/motivation_and_training.jpg" width="50%" height="50%"></p>
+  - Motivation comes from within: the manager must create an environment where motivated people can flourish
+  - Motivation can only be measured through relative *output* at a given skill level
+- Refer to **Maslow's Hierarchy of Needs** 
+  - Physiological, safety/security, and social needs motivate people to show up for work; esteem an self-actualization drive performance
+- When someone if motivated by **self-actualization** their drive to perform has no limit --> this is our focus in management
+  - OKR objectives should be set to push personal limits (50/50 chance of achievement)
+  - Create an environment that values and emphasizes output
+  - A person needs measures of achievement in self-actualization mode, including **feedback** on performance (*see [Chapter 13](https://github.com/mkudija/mkudija.github.io/blob/master/reading/notes/2021-04-11-High%20Output%20Management.md#chapter-13-performance-appraisal-manager-as-a-judge-and-jury) on performance reviews*) and **money** as a measure of achievement (rather than source of security)
+- *Fear* dominates lower levels of motivation, and *fear of failure* can prevent motivation driven by self-actualization
+- **The Sports Analogy**: endow work with the characteristics of competitive sports—establish rules of the game and ways for employees to measure themselves (through the same lens they see their own work)
+  - Sports teach us how to deal with failure
+  - The manager as *coach* takes no personal credit for his team's success, is tough on his team, and was likely a good player himself before becoming coach
 
 
 ## Chapter 12: Task-Relevant Maturity
