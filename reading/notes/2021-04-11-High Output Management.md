@@ -4,7 +4,7 @@
 (New York: Penguin Random House, 1983, 2015), 251
 
 <details>
- <summary>Click to open Table of Contents</summary>
+ <summary>*Table of Contents*</summary>
 <!-- MarkdownTOC autolink="true" -->
 
 - [Key Concepts](#key-concepts)
@@ -37,17 +37,26 @@
 
 
 ## Key Concepts
+
 - A manager's output is that of his organization and those he influences. The art of management consists in identifying and performing the few actions that produce significant leverage. The single most important resource we allocate is our time.
 - Meetings are the medium through which managerial work is performed.
 - Output and Leverage
-- Apply Production Principles to management
-- A manager's most important responsibility is to elicit top performance from his subordinates.
+- Apply Production Principles to management, such as the concept of a "black box" process with inputs and outputs and that we see into with well-defined metrics.
+- Planning should consist in setting objectives and key results.
+- Hybrid organizations emerge as a company grows to balance flexibility with efficiency, and require dual-reporting to be effective.
+- A manager's most important responsibility is to elicit top performance from his subordinates through motivation and training.
+- Task-relevant maturity determines the appropriate leadership style for a subordinate task-relevant feedback (i.e. the performance review and compensation) is needed to communicate the importance of individual performance.
 
-**Read...**
-- 
+**Re-read...**
+- Chapter 4 to optimize **meetings**
+- Chapter 5 before making a major **decision**
+- Chapter 7 before engaging in **planning**
+- Chapters 8 and 9 before finalizing **reporting** plans 
 - Chapter 13 before giving/receiving a **performance review**
 - Chapter 14 before conducting an **interview** or convincing someone to **not resign**
 - Chapter 15 before **promoting** someone or determining **compensation**
+- Chapter 16 before **training** your team or **teaching** a course
+
 
 ## Introduction
 *1995*
@@ -297,7 +306,7 @@
 
 
 ## Chapter 13: Performance Appraisal: Manager as a Judge and Jury
-*Summary: A **performance review** is the most important form of task-relevant feedback a manager provides, and is challenging to do well. To do so, *Level* with your subordinate, *Listen* closely to them, and *Leave* yourself out of it.
+*Summary: A **performance review** is the most important form of task-relevant feedback a manager provides, and is challenging to do well. To do so, Level with your subordinate, Listen closely to them, and Leave yourself out of it.*
 
 - A **performance review** is the most important form of task-relevant feedback a manager provides
 - The purpose of a performance review is to *improve* the subordinate's performance: remedy lacking skills and increase motivation
@@ -356,10 +365,15 @@
 
 
 ## Chapter 16: Why Training Is the Boss's Job
-*Summary: *
+*Summary: **Training** (along with motivation) is one of the two tools at your disposal to increase individual performance and therefore the output of your team. It is your responsibility as a manager to ensure training is implemented as a process that is immediately relevant to your team's actual work.*
 
+- A manager's own productivity depends on increasing the individual performance of his team: he should conduct training himself
+- Training is one of the highest-leverage activities a manager can perform
+- Effective training is closely tied to the actual work of the team
+- Training should be a continuous *process*, not a single *event*
+  - 2-4% of your time, or 1-2 hours per week
 
 
 ## Chapter 17: One More Thing
-*Summary: *
+*Summary: This is a list of tangible activities to implement the principles of this book.*
 
