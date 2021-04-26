@@ -3,10 +3,51 @@
 
 (New York: Penguin Random House, 1983, 2015), 251
 
+<details>
+ <summary>Click to open Table of Contents</summary>
+<!-- MarkdownTOC autolink="true" -->
+
+- [Key Concepts](#key-concepts)
+- [Introduction](#introduction)
+- [Forward](#forward)
+- [Part I: The Breakfast Factory](#part-i-the-breakfast-factory)
+- [Chapter 1: The Basics of Production](#chapter-1-the-basics-of-production)
+- [Chapter 2: Managing the Breakfast Factory](#chapter-2-managing-the-breakfast-factory)
+- [Part II: Management Is a Team Game](#part-ii-management-is-a-team-game)
+- [Chapter 3: Managerial Leverage](#chapter-3-managerial-leverage)
+- [Chapter 4: Meetings—the Medium of Managerial Work](#chapter-4-meetings%E2%80%94the-medium-of-managerial-work)
+- [Chapter 5: Decisions, Decisions](#chapter-5-decisions-decisions)
+- [Chapter 6: Planning: Today's Actions for Tomorrow's Output](#chapter-6-planning-todays-actions-for-tomorrows-output)
+- [Part III: Team of Teams](#part-iii-team-of-teams)
+- [Chapter 7: The Breakfast Factory Goes National](#chapter-7-the-breakfast-factory-goes-national)
+- [Chapter 8: Hybrid Organizations](#chapter-8-hybrid-organizations)
+- [Chapter 9: Dual Reporting](#chapter-9-dual-reporting)
+- [Chapter 10: Modes of Control](#chapter-10-modes-of-control)
+- [Part IV: The Players](#part-iv-the-players)
+- [Chapter 11: The Sports Analogy](#chapter-11-the-sports-analogy)
+- [Chapter 12: Task-Relevant Maturity](#chapter-12-task-relevant-maturity)
+- [Chapter 13: Performance Appraisal: Manager as a Judge and Jury](#chapter-13-performance-appraisal-manager-as-a-judge-and-jury)
+- [Chapter 14: Two Difficult Tasks](#chapter-14-two-difficult-tasks)
+- [Chapter 15: Compensation as Task-Relevant Feedback](#chapter-15-compensation-as-task-relevant-feedback)
+- [Chapter 16: Why Training Is the Boss's Job](#chapter-16-why-training-is-the-bosss-job)
+- [Chapter 17: One More Thing](#chapter-17-one-more-thing)
+
+<!-- /MarkdownTOC -->
+</details>
+
 
 ## Key Concepts
+- A manager's output is that of his organization and those he influences. The art of management consists in identifying and performing the few actions that produce significant leverage. The single most important resource we allocate is our time.
+- Meetings are the medium through which managerial work is performed.
 - Output and Leverage
 - Apply Production Principles to management
+- A manager's most important responsibility is to elicit top performance from his subordinates.
+
+**Read...**
+- 
+- Chapter 13 before giving/receiving a **performance review**
+- Chapter 14 before conducting an **interview** or convincing someone to **not resign**
+- Chapter 15 before **promoting** someone or determining **compensation**
 
 ## Introduction
 *1995*
@@ -244,23 +285,74 @@
 
 
 ## Chapter 12: Task-Relevant Maturity
-*Summary: *
+*Summary: The best leadership style for an employee is determined by their level of Task-Relevant Maturity, ranging from structured (low TRM), to communicating (medium TRM), to monitoring (high TRM).*
 
+- **Task-Relevant Maturity**: achievement orientation and readiness to take responsibility, as well as training and experience
+- Task-relevant maturity determines the best leadership approach for the situation:
+  - When **Low**: structured, task-oriented, well what/when/how
+  - When **Medium**: individual-oriented, emphasis on two-way communication, support, mutual reasoning
+  - When **High**: Involvement by manager minimal, establishing objectives and monitoring
+  - Structure moves from being *externally imposed* to *internally given*
+  - Supervisor is responsible for transmitting the commonality of values/priorities/preferences required for leadership style to progress 
 
 
 ## Chapter 13: Performance Appraisal: Manager as a Judge and Jury
-*Summary: *
+*Summary: A **performance review** is the most important form of task-relevant feedback a manager provides, and is challenging to do well. To do so, *Level* with your subordinate, *Listen* closely to them, and *Leave* yourself out of it.
 
+- A **performance review** is the most important form of task-relevant feedback a manager provides
+- The purpose of a performance review is to *improve* the subordinate's performance: remedy lacking skills and increase motivation
+- *Assessing performance* and *delivering the feedback* are both challenging
+- **Assessing performance**
+  - Use a combination of *output measures* (objective value delivered) and *internal measures* (subjective evaluation of the present value of future-focused activities)
+  - Assess *performance*, not *potential*
+  - The performance of a manager should never be *higher* than that of his organization
+- **Delivering Assessment**
+  - **Level**: be totally frank
+  - **Listen**: totally listen with all your senses
+  - **Leave yourself out**: the performance review is about and for your subordinate
+- Three types of reviews
+  - **Mixed**: a person can only absorb so much at a time, so get everything down, looks for common messages, and focus only on the most important
+  - **Negative**: provide facts and examples to demonstrate the reality of poor performance, get them to *assume responsibility*, and come to a solution together
+  - **Ace**: even though performance is excellent, focus on *improving* (rather than just praising) which is a very high-leverage activity—there is always room for improvement
+- Practical notes
+  - He doesn't recommend a self-review
+  - He recommends sharing the written review ahead of time to allow for processing and then a level conversation
+  - Think about the reviews you have received to help improve your reviews
 
 
 ## Chapter 14: Two Difficult Tasks
-*Summary: *
+*Summary: **Interviewing** is high risk but increases your chances of getting lucky. Ask questions to assess technical skills, accomplishments, discrepancies, and values, and further learn about these from the candidate's questions for you. When a valued **employee quits**, your first job is to drop everything and hear them out to buy time and convey they are important. You then need to work through a solution for the good of the company and ensure it is delivered.*
 
+**Interviewing**
+- The purpose of an interview is to:
+  - select a good performer
+  - education him as to who you and the company are
+  - determine if a mutual match exists
+  - sell him on the job
+- The candidate should do 80% of the talking
+- Interrupt them if needed to control the flow of the interview and not waste time
+- Focus your questions on:
+  - *Technical skills*: projects, weaknesses
+  - *What he did with skills*: past achievements/failures
+  - *Discrepancies*: learning from failures, problems in current role
+  - *Operational values*: why new job, why should we hire you, most important project
+- Direct questions bring direct answers, or if not at least other good insights
+
+**When a valued employee quits**
+- Your initial reaction is critical: drop everything, sit him down, ask why quitting, ask questions to probe for the actual reasons. Your goal is to buy time and convey that he is important to you.
+- Then your task turns toward making it work and making sure that is carried out, even if that means him transferring to another manager.
 
 
 ## Chapter 15: Compensation as Task-Relevant Feedback
-*Summary: *
+*Summary: Money can provide task-relevant feedback, especially in the form of a performance bonus. Promotions should be based on performance since they communicate values to the rest of the company.*
 
+- We want high performance, so use money as a form of task-relevant feedback through a *performance bonus*
+- Construction is challenging, but for example, it may be based on a combination of individual, department, and company performance
+- Base salary can be set by experience only, merit only, or a hybrid. Note that merit-based salaries require a competitive evaluation of employees which is challenging
+- Promotions are critical because they communicate the value system of the company: promote based on performance
+- **Peter Principle**: an achiever alternates between "excellent" when in a job, and "average" when promoted to the next level, until he eventually settles at "average"
+  - There are two types of "average": noncompetitor who is satisfied in his job and not going up, and the performer who is working for the next promotion
+- If a person is promoted too far and struggles, this is management's fault and the best response is to put them back in a role they will perform well in
 
 
 ## Chapter 16: Why Training Is the Boss's Job
