@@ -4,7 +4,7 @@
 (New York: Penguin Random House, 1983, 2015), 251
 
 <details>
- <summary>*Table of Contents*</summary>
+ <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
 - [Key Concepts](#key-concepts)
