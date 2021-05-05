@@ -1,3 +1,4 @@
+<li><i>A Tree Grows in Brooklyn</i> by Betty Smith</li>
 <li><i>High Output Management</i> by Andrew S. Grove</li>
 <li><i>Currency Wars: The Making of the Next Global Crisis</i> by James Rickards</li>
 <li><i>The Lord of the Rings: A Reader's Companion</i> by Wayne G. Hammond & Christina Scull</li>
