@@ -3,6 +3,63 @@
 
 (Hoboken: Wiley, 2018), 274
 
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+- [Key Concepts:](#key-concepts)
+- [Chapter 1: Money](#chapter-1-money)
+- [Chapter 2: Primitive Moneys](#chapter-2-primitive-moneys)
+- [Chapter 3: Monetary Metals](#chapter-3-monetary-metals)
+    - [Why Gold?](#why-gold)
+    - [Roman Golden Age and Decline](#roman-golden-age-and-decline)
+    - [Byzantium and the Bezant](#byzantium-and-the-bezant)
+    - [The Renaissance](#the-renaissance)
+    - [La Belle Époque](#la-belle-%C3%89poque)
+- [Chapter 4: Government Money](#chapter-4-government-money)
+    - [Monetary Nationalism and the End of the Free World](#monetary-nationalism-and-the-end-of-the-free-world)
+    - [The Interwar Era](#the-interwar-era)
+    - [World War II and the Bretton Woods](#world-war-ii-and-the-bretton-woods)
+    - [Government Money's Track Record](#government-moneys-track-record)
+- [Chapter 5: Money and Time Preference](#chapter-5-money-and-time-preference)
+    - [Monetary Inflation](#monetary-inflation)
+    - [Saving and Capital Accumulation](#saving-and-capital-accumulation)
+    - [Innovations: "Zero to One" Versus "One to Many"](#innovations-zero-to-one-versus-one-to-many)
+    - [Artistic Flourishing](#artistic-flourishing)
+- [Chapter 6: Capitalism's Information System](#chapter-6-capitalisms-information-system)
+    - [Capital Market Socialism](#capital-market-socialism)
+    - [Business Cycles and Financial Crises](#business-cycles-and-financial-crises)
+    - [Sound Basis for Trade](#sound-basis-for-trade)
+- [Chapter 7: Sound Monetary and Individual Freedom](#chapter-7-sound-monetary-and-individual-freedom)
+    - [Should Government Manage the Money Supply?](#should-government-manage-the-money-supply)
+    - [Unsound Money and Perpetual War](#unsound-money-and-perpetual-war)
+    - [Limited versus Omnipotent Government](#limited-versus-omnipotent-government)
+    - [The Bezzle](#the-bezzle)
+- [Chapter 8: Digital Money](#chapter-8-digital-money)
+    - [Bitcoin as Digital Cash](#bitcoin-as-digital-cash)
+    - [Supply, Value, and Transactions](#supply-value-and-transactions)
+    - [Appendix to Chapter 8](#appendix-to-chapter-8)
+- [Chapter 9: What Is Bitcoin Good For?](#chapter-9-what-is-bitcoin-good-for)
+    - [Store of Value](#store-of-value)
+    - [Individual Sovereignty](#individual-sovereignty)
+    - [International and Online Settlement](#international-and-online-settlement)
+    - [Global Unit of Account](#global-unit-of-account)
+- [Chapter 10: Bitcoin Questions](#chapter-10-bitcoin-questions)
+    - [Is Bitcoin Mining a Waste?](#is-bitcoin-mining-a-waste)
+    - [Out of Control: Why Nobody Can Change Bitcoin](#out-of-control-why-nobody-can-change-bitcoin)
+    - [Antifragility](#antifragility)
+    - [Can Bitcoin Scale?](#can-bitcoin-scale)
+    - [Is Bitcoin for Criminals?](#is-bitcoin-for-criminals)
+    - [How to Kill Bitcoin: A Beginners' Guide](#how-to-kill-bitcoin-a-beginners-guide)
+    - [Altcoins](#altcoins)
+    - [Blockchain Technology](#blockchain-technology)
+
+<!-- /MarkdownTOC -->
+</details>
+
+## Key Concepts:
+- 
+
 **Books**
 - ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, etc.)
 - *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26)
@@ -85,14 +142,14 @@
 
 
 ## Chapter 4: Government Money
-*Summary: *
+*Summary: A brief sketch of government money history: Off the gold standard in WWI, a reason to focus on that over WWII as a turning point; Interwar years saw mismanagement of the Depression by Hoover and FDR and the rise of Keynesian government spending; WWII ends with the planned economy of Bretton Woods, and Nixon finally ends gold convertibility in 1971; Fiat money in the 20th century was not "sound" by Mises' definition due to government control, but Bitcoin is resistant to government control.*
 
 - 
 
 
 ### Monetary Nationalism and the End of the Free World
 
-### the Interwar Era
+### The Interwar Era
 
 ### World War II and the Bretton Woods
 
@@ -100,7 +157,7 @@
 
 
 ## Chapter 5: Money and Time Preference
-*Summary: *
+*Summary: **Time Preference** (discount rate) is how we value the present compared to the future. It is positive for us all (the present is more certain), but lower time preference leads to investment and increases productivity. Time preference determines our choices, and is greatly influenced by the expected future value of money. Deflationary fiat money leads directly to debt an lack of savings, and eventually to moral and family breakdown as a high time preference mentality pervades all aspects of our thinking. Modern art and architecture also exhibit the cultural decadence that results from soft money and high time preference.*
 
 ### Monetary Inflation
 
@@ -112,7 +169,7 @@
 
 
 ## Chapter 6: Capitalism's Information System
-*Summary: *
+*Summary: **Prices** are the fundamental information system in a capitalist system, organizing the economy in a decentralized manner and allowing trade and specialization. Socialist systems fail by centrally planning prices, but this is the unfortunate situation caused in modern capital markets by central banks setting interest rates. Scarcity is fundamental, and recessions are the inevitable outcome of interest rate manipulation. Unsound money creates these business cycles, as well as the currency wars and massive drag on global output caused by foreign exchange markets.*
 
 ### Capital Market Socialism
 
@@ -122,7 +179,7 @@
 
 
 ## Chapter 7: Sound Monetary and Individual Freedom
-*Summary: *
+*Summary: The modern economic consensus is that a government central bank should expand the money supply in a controlled way. **Keynesians** focus on government spending, and **Monetarists** (Milton Friedman) focus on tax cuts. Both want to expand the money supply to discourage saving and investment and encourage consumption, the result being higher time preference in all areas of life. Contrast this with the **Austrian School**: **sound money** requires the absence of government control, and is a prerequisite for a peaceful society and honest governments.*
 
 ### Should Government Manage the Money Supply?
 
@@ -134,7 +191,7 @@
 
 
 ## Chapter 8: Digital Money
-*Summary: *
+*Summary: **Bitcoin** is the first digital money: it does not require trusting a third party and is a digital asset that is verifyably scarce. A decentralized peer-to-peer network and proof-of-work are components of the technology that enables this.*
 
 ### Bitcoin as Digital Cash
 
@@ -144,7 +201,7 @@
 
 
 ## Chapter 9: What Is Bitcoin Good For?
-*Summary: *
+*Summary: Given scalable resources, the truly most valuable (and limited) resource is human time. The great accomplishment of Bitcoin is creating a commodity whose supply is strictly limited, making it an excellent store of value. Bitcoin offers a means to opt out of the modern state (cf. The Sovereign Individual) and promotes a brand of peaceful anarchism. Bitcoin can become the means for settling international transactions and it could possibly become a global reserve currency.*
 
 ### Store of Value
 
