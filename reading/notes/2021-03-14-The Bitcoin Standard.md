@@ -58,16 +58,34 @@
 </details>
 
 ## Key Concepts:
-- 
+- a
+- Government control of money results in expansion of the money supply making saving and investment less attractive than consuming, creating a culture of consumption and engendering a high time preference in all aspects of life (141)
 - "Any person who owns Bitcoin achieves a degree of economic freedom which was not possible before its invention." (200)
 - "For as long as political authorities impose restrictions and limitations on individuals transferring money, and for as long as government money is easy money whose supply can be easily expanded according to the whims of politicians, demand for Bitcoin will continue to exist, and its diminishing supply growth is likely to lead to its value appreciating over time, thus attracting ever-larger numbers of people to use it as a store of value." (249)
 - "For the first time since the abolition of the gold standard, Bitcoin has made sound money easily available to anyone in the world who wants it." (261)
 
 **Books**
-- ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, etc.)
+- ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, 142, 145, etc.)
 - *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26)
 - *Gold Wars* by Ferdinand Lips (27)
 - a
+- *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
+- bad books by Keynes:
+  - *The Genral Theory of Employment, Money, and Interest* (137)
+  - *A Tract on Monetary Reform* (139)
+  - *The End of Laissez-Faire* (153)
+- *On the Origins of Money* by Carl Menger (142)
+- *The Austrian Theory of Money* by Murray Rothbard (143)
+- *Economic Depressions: Their Cause and Cure* by Murray Rothbard (145)
+- *From Dawn to Decadence* by Jacques Barzun (149)
+- *The Great Crash of 1929* by John Kenneth Galbraith (155)
+- everything by Nassim Nicholas Taleb (157)
+- bad economics textbooks (159):
+  - *Economics: An Introductory Analysis* by Paul Samuelson
+  - *Economics: Principles, Policies and Problems* by McConnell
+  - Paul Krugman
+- 
+- *Digital Gold* by Nathaniel Popper (182)
 - *The Ultimate Resource* by Julian Simon (human time, 193)
 - *The Sovereign Individual* by James Davidson and William Rees-Mogg (200)
 - *The Ethics of Liberty* by Murray Rothbard (204)
@@ -189,23 +207,65 @@
 *Summary: The modern economic consensus is that a government central bank should expand the money supply in a controlled way. **Keynesians** focus on government spending, and **Monetarists** (Milton Friedman) focus on tax cuts. Both want to expand the money supply to discourage saving and investment and encourage consumption, the result being higher time preference in all areas of life. Contrast this with the **Austrian School**: **sound money** requires the absence of government control, and is a prerequisite for a peaceful society and honest governments.*
 
 ### Should Government Manage the Money Supply?
+- "The fundamental scam of modernity is the idea that government needs to manage the money supply." (136)
+- **Keynesians**: recessions caused by reduction in spending, solution to for government to stimulate spending through increasing the money supply, increasing government spending, or lowering taxes
+- **Monetarists** (Milton Friedman): prefer tax cuts to stimulate the economy, the government needs to prevent *deflation*
+- Consensus view: the government should expand the money supply at a controlled pace, encourage people to spend more, and keep unemployment low
+- Expanding the money supply makes saving and investment less attractive than consuming, creating a culture of consumption and engendering a high time preference in all aspects of life
+- **Classical tradition (Austrian school)**: money emerges in a market and absence of control by government is a necessary condition for the soundness of money
+  - Austrian Capital Theory: cf Böhm-Bawerk, Mises, Hayek, Rothbard, Huerta de Soto, Salerno
+  - low-time-preference societies will end up having higher levels of consumption in the long run as well as a larger capital stock
+  - von Mises **malinvestments**: unprofitable investments that only appear profitable during the period of inflation and artificially low rates
 
 ### Unsound Money and Perpetual War
+- Unsound money leads to war:
+  - creates barriers to trade, creating enmity between governments
+  - removes the monetary constraint on a government's ability to wage war (can appropriate wealth of citizens indirectly through inflation)
+  - promotes higher time preference leading to conflict
 
 ### Limited versus Omnipotent Government
+- After WWI liberalism replaced by liberality: government becomes a wish-granting genie
+- Classical liberal government only possible with sound money, forcing governments to be honest and transparent (consumption comes after production)
+- Unsound money particularly dangerous in the hands of democratic governments facing reelection pressure
+- Keynes advocated government enslavement for its own sake, along with eugenics, currency control, etc.
 
 ### The Bezzle
+- "The Bezzle": illusion of wealth caused by inflationary credit
+- Schumpeter and Taleb: no profit possible in free market without skin in the game
+  - but government-issued unsound money keeps zombies alive that have no skin in the game and face no market test for their work
+- Banking has evolved to generate returns without risk to bankers while creating risks without returns for others
+- Centralized credit issuance accentuates the advantages of size above what it would be in a free market
 
 
 ## Chapter 8: Digital Money
 *Summary: **Bitcoin** is the first digital money: it does not require trusting a third party and is a digital asset that is verifyably scarce. A decentralized peer-to-peer network and proof-of-work are components of the technology that enables this.*
 
 ### Bitcoin as Digital Cash
+- A short history of money:
+  - Metallurgy was better money than beads, shells, etc.
+  - Standardized coinage was better than lumps of gold
+  - Gold-backed banking facilitated international trade
+  - Centralizing gold led to government money backed by gold
+  - This led to government control and expansion of the money supply, destroying its sovereignty and soundness
+  - Now Bitcoin is the first digital solution to the problem of money
+- Until Bitcoin, *cash payments* were carried out in person, and *digital* payments required use of a third-party
+- Bitcoin allows for digital payments without relying on a trusted third-party, and the first digital object that is verifiably scarce
+- Bitcoin relies on **proof-of-work (PoW)**:
+  - Miner solves PoW and other nodes vote on the validity
+  - Bitcoin security lies in the asymmetry between the cost of solving PoW to commit a transaction and the cost of verifying its validity
+  - Bitcoin assumes 100% verification and 0% trust
+  - Bitcoin relies on economic incentives making fraud far costlier than its rewards
+- Bitcoin is the first example of *absolute scarcity*
 
 ### Supply, Value, and Transactions
+- Block reward for miners drops in half every ~4 years, with supply capped at 21M coins
+- 500k transaction limit (solutions to this discussed on 206), so most holders focus on Bitcoin as a store of value rather than medium of exchange
 
 ### Appendix to Chapter 8
-
+- Technologies Bitcoin uses include:
+  - **Hashing**: non-reversible formula to take any input data and produce a fixed-size hash, allows for identifying data in public without revealing it
+  - **Public key cryptography**: the *private key* generates a *public key* that can be distributed; to authenticate hash data and with private key to produce a signature: allows secure value exchange over open unsecured network
+  - **Peer-to-peer network**: all members have equal privileges with no central coordinator
 
 ## Chapter 9: What Is Bitcoin Good For?
 *Summary: Given scalable resources, the truly most valuable (and limited) resource is human time. The great accomplishment of Bitcoin is creating a commodity whose supply is strictly limited, making it an excellent store of value. Bitcoin offers a means to opt out of the modern state (cf. The Sovereign Individual) and promotes a brand of peaceful anarchism. Bitcoin can become the means for settling international transactions and it could possibly become a global reserve currency.*
