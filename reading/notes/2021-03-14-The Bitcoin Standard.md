@@ -59,12 +59,19 @@
 
 ## Key Concepts:
 - 
+- "Any person who owns Bitcoin achieves a degree of economic freedom which was not possible before its invention." (200)
+- "For as long as political authorities impose restrictions and limitations on individuals transferring money, and for as long as government money is easy money whose supply can be easily expanded according to the whims of politicians, demand for Bitcoin will continue to exist, and its diminishing supply growth is likely to lead to its value appreciating over time, thus attracting ever-larger numbers of people to use it as a store of value." (249)
+- "For the first time since the abolition of the gold standard, Bitcoin has made sound money easily available to anyone in the world who wants it." (261)
 
 **Books**
 - ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, etc.)
 - *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26)
 - *Gold Wars* by Ferdinand Lips (27)
-- 
+- a
+- *The Ultimate Resource* by Julian Simon (human time, 193)
+- *The Sovereign Individual* by James Davidson and William Rees-Mogg (200)
+- *The Ethics of Liberty* by Murray Rothbard (204)
+- [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
 
 
 ## Chapter 1: Money
@@ -204,30 +211,82 @@
 *Summary: Given scalable resources, the truly most valuable (and limited) resource is human time. The great accomplishment of Bitcoin is creating a commodity whose supply is strictly limited, making it an excellent store of value. Bitcoin offers a means to opt out of the modern state (cf. The Sovereign Individual) and promotes a brand of peaceful anarchism. Bitcoin can become the means for settling international transactions and it could possibly become a global reserve currency.*
 
 ### Store of Value
+- Human time is the ultimate resource: the real cost of a good is always its opportunity cost in terms of goods forgone to produce it
+- Argument for larger population: ingenious ideas are rare, larger populations will produce more technologies/ideas and the benefits accrue to all, so better to have a larger population
+- Bubbles in an environment of monetary inflation re speculative bets for a useful store of value
+- The astonishing technical accomplishment of Bitcoin is the creation of a commodity whose supply is *strictly limited*
+  - But doesn't the existence of other cryptocurrencies demonstrate that we can create unlimited types of assets with fixed supply? Answers follow on pages:
+    - 229: altcoins are not *immutable* like Bitcoin, Bitcoin is effectively *sovereign*
+    - 234: many altcoins support Bitcoin (faster transactions), but Bitcoin excels as digital sound money and digital cash, "there are no alternative technologies that can offer these two functions"
+    - 250: no altcoins can compete with Bitcoin as sound money because of the spontaneous adversarial equilibrium between miners, coders, and users
 
 ### Individual Sovereignty
+- "Any person who owns Bitcoin achieves a degree of economic freedom which was not possible before its invention." (200)
+- *The Sovereign Individual* 
+- Source of productivity is increasingly in people's minds, making the threat of violence a less effective means of control
+- **"Bitcoin offers the modern individual the chance to opt out of the totalitarian, managerial, Keynesian, and socialist states. It is a simple technological fix to the modern pestilence of governments surviving by exploiting the productive individuals who happen to live on their soil. If Bitcoin continues to grow to capture a larger share of the global wealth, it may force governments to become more and more a form of voluntary organizations, which can only acquire its 'taxes' voluntarily by offering its subjects services they would be willing to pay for."** (203)
+- Bitcoin enables a form of anarcho-capitalism, a peaceful anarchy providing tools to be free from government control and inflation
 
 ### International and Online Settlement
+- Bitcoin serves as a form of reserve currency for online transactions and allows cash payments over long distances and across national borders
+- Bitcoin could become a reserve currency for central banks, even if banks buy it for now only as insurance against it being successful
+- "BZitcoin serves as a monetary lifeboat for people forced to transact and save in monetary media constantly debased by governments. The real advantage of Bitcoin lies in it being a reliable long-term store of value, and a sovereign form of money that allows individuals to conduct permissionless transactions." (212)
 
 ### Global Unit of Account
+- If Bitcoin achieves stability in value it would be better for global payment settlements than our current system of fluctuating national currencies
 
 
 ## Chapter 10: Bitcoin Questions
-*Summary: *
+*Summary: Discussion of issues and questions surrounding the use and value of Bitcoin.*
 
 ### Is Bitcoin Mining a Waste?
+- Proof-of-work (hard to solve, easy to verify) solves the double-spending problem without a trusted third party
+- Bitcoin is a technology that converts electricity to truthful records through the expenditure of processing power
+- A global distributed network of independent miners now protects the integrity of the Bitcoin ledger
+- Attacking the Bitcoin network would render the loot worthless
+- Does Bitcoin waste electricity? Bitcoin miners waste electricity no more than anyone else who pays for electricity for some consumer need.
 
 ### Out of Control: Why Nobody Can Change Bitcoin
+- Nodes follow consensus of other nodes
+- All Bitcoin parties incentivized for status quo:
+  - Coders: strong incentive to abide by consensus rules for changes to be adopted
+  - Miners: need to abide by rules to receive compensation
+  - Network members: strong incentive to remain on consensus rules to clear transactions
+- Bitcoin is effectively *sovereign*: runs by its own rules and outsiders cannot alter the rules
 
 ### Antifragility
+- Bitcoin embodies Taleb's *antifragility*: gains from disorder, i.e. banning Silk Road and other exchanges only proves Bitcoin's value proposition
 
 ### Can Bitcoin Scale?
+- There is a limit to the number of transactions Bitcoin can process while keeping the ledger small enough to run on a distributed network of nodes 
+- Bitcoin's processing power is justified for digital sound money and digital cash (bearer instrument who can be transferred without third party)
+- Scaling Bitcoin for smaller transactions will come off-network
+  - CoinJoin: group smaller transactions together
+  - Digital mobile USB wallets
+  - Bitcoin as "reserve currency" for services: transactions carried out off-chain and denominated in Bitcoin, only settled on-chain for deposit/withdrawal
+  - Lightning Network: run payment channels off-chain and use Bitcoin ledger to verify balances rather than transactions
 
 ### Is Bitcoin for Criminals?
+- Bitcoin is as anonymous as the internet: depends on how well you hid and how well others look
+- Bitcoin's blockchain structure is not ideal for privacy
+- Ransomware attacks: have occurred, but led to better security overall
 
 ### How to Kill Bitcoin: A Beginners' Guide
+- high-profile threats to Bitcoin include:
+  - *Hacking*: Bitcoins designed assuming everyone is dishonest, so asymmetry between cost of modifying and cost of verifying; possible to forge the record but economic incentives heavily aligned against it
+  - *51% Attack*: use large amounts of hashrate to generate fraudulent transactions and spend the same coin twice; economic incentives heavily against this, no successful attacks with 1 confirmed block
+  - *Nodes: rise in cost and drop in numbers*: unlikely since it would require a hard fork to a larger block size, but the most serious technical threat in the author's opinion
+  - *Return to sound money*: **"For as long as political authorities impose restrictions and limitations on individuals transferring money, and for as long as government money is easy money whose supply can be easily expanded according to the whims of politicians, demand for Bitcoin will continue to exist, and its diminishing supply growth is likely to lead to its value appreciating over time, thus attracting ever-larger numbers of people to use it as a store of value." (249)**
 
 ### Altcoins
+- "it seems unlikely that any coin will recreate the adversarial standoff that exists between Bitcoin stakeholders and prevents any party from controlling payment in it." (251)
+- Bitcoin could be considered a sovereign piece of code, compared with the creator's control of altcoins which require investment to gain traction and therefore lead to control (Ethereum example of DOA hack and reversed payment)
+- "The growth of these altcoins [and how many other assets...?] cannot be understood outside the context of easy government money looking for easy investment, forming large bubbles in massive malinvestments." (257)
 
 ### Blockchain Technology
-
+- the Blockchain is massively inefficient, which is an acceptable tradeoff for Bitcoin to eliminate the the need for trust in a third-party
+- Blockchain makes sense if 1) gains from decentralization justify the extra cost, and 2) the initial process is simple enough to run on many nodes
+- Blockchain applications:
+  - *Digital payments*: it will always be more efficient to record transactions centrally for a centrally controlled currency
+  - *Contracts*: successful applications are simple (multi-signature wallets), code cannot replace law
+  - *Databases and records*: not feasible/advantageous
