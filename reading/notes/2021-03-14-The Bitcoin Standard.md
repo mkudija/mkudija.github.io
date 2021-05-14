@@ -59,7 +59,7 @@
 </details>
 
 ## Summary
-Ammous' spends the first two thirds of his treatise on Bitcoin discussing the theory and history of money. Bitcoin's value is in its soundness as money having a fixed supply and being outside the control of any centralized authority. The monetary history of the twentieth century is the story of inflation of government currencies and the subsequent increase in government restriction of individual freedom. Bitcoin offers a digital solution to these issues and a means for reestablishing individual sovereignty and economic freedom.
+Ammous' spends the first two thirds of his treatise on Bitcoin discussing the theory and history of money with an emphasis on the Austrian School of economics. Bitcoin's value is in its soundness as money having a fixed supply and being outside the control of any centralized authority. The monetary history of the twentieth century is the story of inflation of government currencies and the subsequent increase in government restriction of individual freedom. Bitcoin offers a digital solution to these issues and a means for reestablishing individual sovereignty and economic freedom.
 
 
 ## Key Concepts
