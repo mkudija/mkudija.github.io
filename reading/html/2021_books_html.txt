@@ -1,3 +1,4 @@
+<li><i>The Bitcoin Standard: The Decentralized Alternative to Central Banking</i> by Saifedean Ammous</li>
 <li><i>A Tree Grows in Brooklyn</i> by Betty Smith</li>
 <li><i>High Output Management</i> by Andrew S. Grove</li>
 <li><i>Currency Wars: The Making of the Next Global Crisis</i> by James Rickards</li>

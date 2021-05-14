@@ -1,13 +1,14 @@
 
 # [*The Bitcoin Standard: The Decentralized Alternative to Central Banking*](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_1?dchild=1&keywords=The+Bitcoin+Standard%3A+The+Decentralized+Alternative+to+Central+Banking&qid=1616631234&sr=8-1) by Saifedean Ammous
 
-(Hoboken: Wiley, 2018), 274
+`(Hoboken: Wiley, 2018), 274`
 
 <details>
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
-- [Key Concepts:](#key-concepts)
+- [Summary](#summary)
+- [Key Concepts](#key-concepts)
 - [Chapter 1: Money](#chapter-1-money)
 - [Chapter 2: Primitive Moneys](#chapter-2-primitive-moneys)
 - [Chapter 3: Monetary Metals](#chapter-3-monetary-metals)
@@ -57,38 +58,65 @@
 <!-- /MarkdownTOC -->
 </details>
 
-## Key Concepts:
-- a
-- Government control of money results in expansion of the money supply making saving and investment less attractive than consuming, creating a culture of consumption and engendering a high time preference in all aspects of life (141)
-- "Any person who owns Bitcoin achieves a degree of economic freedom which was not possible before its invention." (200)
+## Summary
+Ammous' spends the first two thirds of his treatise on Bitcoin discussing the theory and history of money. Bitcoin's value is in its soundness as money having a fixed supply and being outside the control of any centralized authority. The monetary history of the twentieth century is the story of inflation of government currencies and the subsequent increase in government restriction of individual freedom. Bitcoin offers a digital solution to these issues and a means for reestablishing individual sovereignty and economic freedom.
+
+
+## Key Concepts
+- Inflation is **”expropriating the wealth of the savers”**
+- **Stock-to-flow** as a measure of the hardness of money
+- "**Sound money** is chosen freely on the market for its salability, because it holds its value across time, because it can transfer value effectively across space, and because it can be divided and grouped into small and large scales. It is money whose supply cannot be manipulated by a coercive authority that imposes its use on others." (73)
+  - protects value across time and lowers time preference
+  - enables free trade with a stable unit of measurement
+  - is essential for individual freedom
+- Government control of money results in expansion of the money supply making saving and investment less attractive than consuming, creating a culture of consumption and engendering a high **time preference** in both economic and moral life (141)
+- "Any person who owns **Bitcoin** achieves a degree of economic freedom which was not possible before its invention." (200)
 - "For as long as political authorities impose restrictions and limitations on individuals transferring money, and for as long as government money is easy money whose supply can be easily expanded according to the whims of politicians, demand for Bitcoin will continue to exist, and its diminishing supply growth is likely to lead to its value appreciating over time, thus attracting ever-larger numbers of people to use it as a store of value." (249)
 - "For the first time since the abolition of the gold standard, Bitcoin has made sound money easily available to anyone in the world who wants it." (261)
 
 **Books**
-- ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, 142, 145, etc.)
-- *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26)
+- Ludwig von Mises
+  - ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
+  - *The Theory of Money and Credit* by Ludwig von Mises (70)
+  - *Socialism* by Ludwig von Mises (109)
+  - *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
+- Friedrich Hayek
+  - *Monetary Nationalism and International Stability* by Friedrich Hayek (47)
+  - ***[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)*** by Friedrich Hayek (106)
+  - *A Tiger by the Tail* by Friedrich Hayek (119)
+  - *Denationalization of Money* by Friedrich Hayek (126)
+- Murray Rothbard
+  - *Man, Economy, and State* by Murray Rothbard (79)
+  - ***America's Great Depression*** by Murray Rothbard (49, 122)
+  - *The Austrian Theory of Money* by Murray Rothbard (143)
+  - *Economic Depressions: Their Cause and Cure* by Murray Rothbard (126, 145)
+  - *The Ethics of Liberty* by Murray Rothbard (204)
+- *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26, 119)
 - *Gold Wars* by Ferdinand Lips (27)
-- a
-- *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
+- *The Failure of the New Economics* by Henry Hazlitt (52)
+- *Economic Union and Durable Peace* by Otto Mallery (53)
+- *Democracy: The God That Failed* by Hans-Hermann Hoppe (75)
+- *Capital and Interest* by Eugen von Böhm-Bawerk (79)
+- bad book by Friedman:
+  - *The Monetary History of the United States* by Milton Friedman and Anna Schwartz (121-126)
+- *The Forgotten Depression: 1921* by James Grant (123)
+- *The Scandal of Money* by George Gilder (130)
+- *From Zero to One* by Peter Thiel (96)
+- *From Dawn to Decadence* by Jacques Barzun (103, 149)
 - bad books by Keynes:
-  - *The Genral Theory of Employment, Money, and Interest* (137)
+  - *The General Theory of Employment, Money, and Interest* (137)
   - *A Tract on Monetary Reform* (139)
   - *The End of Laissez-Faire* (153)
 - *On the Origins of Money* by Carl Menger (142)
-- *The Austrian Theory of Money* by Murray Rothbard (143)
-- *Economic Depressions: Their Cause and Cure* by Murray Rothbard (145)
-- *From Dawn to Decadence* by Jacques Barzun (149)
 - *The Great Crash of 1929* by John Kenneth Galbraith (155)
 - everything by Nassim Nicholas Taleb (157)
 - bad economics textbooks (159):
   - *Economics: An Introductory Analysis* by Paul Samuelson
   - *Economics: Principles, Policies and Problems* by McConnell
   - Paul Krugman
-- 
 - *Digital Gold* by Nathaniel Popper (182)
 - *The Ultimate Resource* by Julian Simon (human time, 193)
-- *The Sovereign Individual* by James Davidson and William Rees-Mogg (200)
-- *The Ethics of Liberty* by Murray Rothbard (204)
+- ***The Sovereign Individual*** by James Davidson and William Rees-Mogg (200)
 - [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
 
 
@@ -167,40 +195,86 @@
 
 
 ## Chapter 4: Government Money
-*Summary: A brief sketch of government money history: Off the gold standard in WWI, a reason to focus on that over WWII as a turning point; Interwar years saw mismanagement of the Depression by Hoover and FDR and the rise of Keynesian government spending; WWII ends with the planned economy of Bretton Woods, and Nixon finally ends gold convertibility in 1971; Fiat money in the 20th century was not "sound" by Mises' definition due to government control, but Bitcoin is resistant to government control.*
+*Summary: A brief sketch of the history of government money: Off the gold standard in WWI, a reason to focus on that over WWII as a turning point; Interwar years saw mismanagement of the Depression by Hoover and FDR and the rise of Keynesian government spending; WWII ends with the planned economy of Bretton Woods, and Nixon finally ends gold convertibility in 1971; Fiat money in the 20th century was not "sound" by Mises' definition due to government control, but Bitcoin is resistant to government control.*
 
-- 
-
+- Government or *fiat* money was all originally redeemable in gold
 
 ### Monetary Nationalism and the End of the Free World
+- WWI was different from prior wars in the suspension of gold convertability allowing the governments to appropriate their citizens' accumulated wealth through inflation to continue financing the war
+- **Monetary Nationalism**: Hayek's term for centrally planned interest rate, a symptom of not honestly revaluing currencies to gold after WWI
 
 ### The Interwar Era
+- 1922 Treaty of Genoa sets USD and British pound as global reserve currencies, and governments move toward inflation for repayment of war debts
+- Refutes the popular narrative of the Great Depression and focuses instead on Rothbard's account: 1929 crash caused by diversion from the gold standard after WWI, and the Depression deepened due to Hoover and FDR's control and socialization of the economy, Keynes stepped in with a new economic narrative that suited the political climate
 
 ### World War II and the Bretton Woods
+- Bretton Woods attempted to centrally plan (through the IMF) what had previously emerged naturally in the gold standard
 
 ### Government Money's Track Record
+- 1971 Nixon ends dollar convertability to gold
+- "History has shown that governments will inevitably succumb to the tempation of inflating the money supply...expanding government power while reducing the wealth of the currency holders." (67)
+- *Cantillon Effect*: first recipients of new money are the beneficiaries of an expanding money supply, explaining why inflation hurts the poor and helps the rich
+- Why government controls money:
+  - mandate taxes paid in fiat
+  - government regulation of the banking system
+  - legal tender laws
+  - backed by gold reserves
+- "Government control of money has turned money from being the reward for producing value to the reward for obedience to government officials." (70)
+- "The twentieth century was the century of unsound money and the omnipotent state" (71)
 
 
 ## Chapter 5: Money and Time Preference
 *Summary: **Time Preference** (discount rate) is how we value the present compared to the future. It is positive for us all (the present is more certain), but lower time preference leads to investment and increases productivity. Time preference determines our choices, and is greatly influenced by the expected future value of money. Deflationary fiat money leads directly to debt an lack of savings, and eventually to moral and family breakdown as a high time preference mentality pervades all aspects of our thinking. Modern art and architecture also exhibit the cultural decadence that results from soft money and high time preference.*
 
+- "**Sound money** is chosen freely on the market for its salability, because it holds its value across time, because it can transfer value effectively across space, and because it can be divided and grouped into small and large scales. It is money whose supply cannot be manipulated by a coercive authority that imposes its use on others" (73-74). Sound money:
+  - protects value across time and lowers time preference
+  - enables free trade with a stable unit of measurement
+  - is essential for individual freedom
+- **Time preference**: ratio at which individuals value the present compared to the future; lower time preference allows for investment (delay immediate gratification for the production of capital goods)
+  - **"The most important economic decisions to any individual's well-being are the ones they conduct in their trade-offs with their future self...The main factor determining a man's choices in life is his time preference."** (77-78)
+  - low time preference builds civilization (not just capital accumulation, but what capital accumulation allows humans to achieve)
+- Unsound money leads to high time preference in both economic life (spend more and save less) and moral life
+
 ### Monetary Inflation
+- A theoretically ideal money would have a fixed supply
+- This is not the case for fiat currencies which have lost 97% of value compared to gold since 1971
+  - --> *thinking about prices in terms of sound money (gold, bitcoin), rather than USD*
+  - government money is unpredictable in value over the long term
 
 ### Saving and Capital Accumulation
+- "Unsound money will offer little incentive for holders to keep it, as they become more likely to spend it or to borrow it." (90) --> *compare interest rate vs rate of inflation...when does it make sense to borrow USD to buy hard assets (land, gold, bitcoin) to keep the value and depreciate away the debt?*
+- Government control of the family: "As the reduction in intergenerational inheritance has reduced the strength of the family as a unit, government's unlimited checkbook has increased its ability to direct and shape the lives of people, allowing it an increasingly important role to play in more aspects of individuals' lives. The family's ability to finance the individual has been eclipsed by the state's largesse, resulting in a declining incentives for maintaining a family." (94)
+- Must understand Keynes' economics alongside his morality
 
 ### Innovations: "Zero to One" Versus "One to Many"
+- Innovations per capita peaked in the nineteenth century under the gold standard
 
 ### Artistic Flourishing
+- Times of sound money have produced artistic flourishing
+- Great discussion of the pretentiousness and obscenity of modern art (100-104)
 
 
 ## Chapter 6: Capitalism's Information System
 *Summary: **Prices** are the fundamental information system in a capitalist system, organizing the economy in a decentralized manner and allowing trade and specialization. Socialist systems fail by centrally planning prices, but this is the unfortunate situation caused in modern capital markets by central banks setting interest rates. Scarcity is fundamental, and recessions are the inevitable outcome of interest rate manipulation. Unsound money creates these business cycles, as well as the currency wars and massive drag on global output caused by foreign exchange markets.*
 
+- Hayek: the economic problem is a problem of *knowledge*, which is by its nature distributed
+- *Prices* are the knowledge and the signals that carry information
+
 ### Capital Market Socialism
+- Mises: the fatal flaw of socialism is the inability to allocate capital goods because of the removal of prices
+- Modern central banks effectively create socialist capital markets in modern economies, their main tools being 1) setting the Federal Funds rate, 2) setting the required reserve ratio, 3) engaging in open market operations (buying/selling treasuries and financial assets), 4) determining lending eligibility criteria 
 
 ### Business Cycles and Financial Crises
+- Unsound money distorts prices, and recessions are the natural result of manipulating interest rates
+- "Scarcity is the fundamental starting point of all economics" (114), "there is no free lunch" (115), and "reality cannot be deceived forever" (115)
+- Unsound money prevents the emergence of accurate price signals; capitalism cannot function without a free market in capital
+- long refutation of Friedman's *Monetary History of the United States* (121-126)
 
 ### Sound Basis for Trade
+- Monetary Nationalism began with the abandonment of the gold standard
+- "Impossible Trinity" describes the plight of central banks: "no government can successfully achieve all three goals of having a fixed foreign exchange rate, free capital flows, and an independent monetary policy" (128)
+  - now we typically have independent monetary policy and free capital flows, but floating exchange rates, creating unnecessary challenges for business
+- This leads to a large foreign exchange market (25x global GDP!) and currency wars (c.f. *Currency Wars* by James Rickards)
 
 
 ## Chapter 7: Sound Monetary and Individual Freedom
@@ -215,7 +289,7 @@
 - **Classical tradition (Austrian school)**: money emerges in a market and absence of control by government is a necessary condition for the soundness of money
   - Austrian Capital Theory: cf Böhm-Bawerk, Mises, Hayek, Rothbard, Huerta de Soto, Salerno
   - low-time-preference societies will end up having higher levels of consumption in the long run as well as a larger capital stock
-  - von Mises **malinvestments**: unprofitable investments that only appear profitable during the period of inflation and artificially low rates
+  - von Mises' **malinvestments**: unprofitable investments that only appear profitable during the period of inflation and artificially low rates
 
 ### Unsound Money and Perpetual War
 - Unsound money leads to war:
