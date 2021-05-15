@@ -84,8 +84,25 @@ Requirements for my next car:
 
 
 ## The Diminishing Returns of Idiot-Proofing as a Design Principle
+- this chapter: look at both safety improvements and the changes in driver behavior as a result, which aren’t always improvements (98)
+- analysis of misleading Tesla claims about auto-steer safety and debunking by Whitfield and *Ars Technica* (98+)
+- Peltzman: we tend to change our driving behavior (risk/reward tradeoff) in response to the introduction of new safety devices (90)
+  - “getting anything done in this world involves risk, and we accept this” (99)
+- “automation’s underlying assumption of our incompetence becomes progressively self-fulfilling” (98)
+- *The Design of Everyday Things* by Don Norman (98)
+- *The Glass Cage* by Nicholas Carr
+- human intelligence and machine intelligence have a hard time *sharing* control (104)
+
 
 ## Feeling the Road
+- test drove a new car in which “mechanical realities must pass through electronic filters” (110)
+- new cars remove the *cognitive extension* with a closed loop between action and perception resulting in a poverty of information to the driver (111)
+- natural feeling has been replaced with a layer of arbitrary *representation* 
+- “The design principle that could help us mitigate distracted driving, and recover the joy of driving, would be one that exploits the sensori-motor capacities we have developed through human evolution” (113)
+- *affective capitalism*: “manufactured experiences are offered as a substitute for direct confrontation with the world...we are relieved from the burden of grappling with real things—that is, things that resist our will, and thereby reveal our limited understanding and skill” (114)
+- cf *The Revenge of Analog* (115)
+- “The pleasure of driving is the pleasure of *doing* something; of being actively and skillfully engaged with the reality that pushes back against us. Only then do we feel the progress of our own mastery. In skilled activities, we sometimes recover the joy of childhood play, that. In life when we were discovering new powers in our own bodies.” (115)
+
 
 ## Automation as Moral Reeducation
 
