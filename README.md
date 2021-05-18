@@ -168,6 +168,7 @@ This website is inspired by a number of others, including those below:
 - [Philip Davis](https://philipcdavis.com/writing/a-digital-tool-checklist)
 - [Tristan Mahr](https://www.tjmahr.com/)
 - [Ben Hamilton](https://ben.hamilton.id.au/tools/)
+- [Ian Whitestone](https://ianwhitestone.work/about/)
 
 
 # Other Sites I've Built*
