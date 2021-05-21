@@ -105,33 +105,65 @@ Requirements for my next car:
 
 
 ## Automation as Moral Reeducation
+- trolley problem: analytical moral philosophy lends itself to the input logic of a computer (117) 
+- Aristotelian virtue ethics (as described by William Hasselberger in *Ethics Beyond Computation*) as a skill acquired through practice as opposed to the utilitarian (and Platonic?) set of true propositions to be included in a moral calculus (121)
+- “As the space for intelligent human action gets colonized by machines, our intelligence erodes, leading to demands for further automation. By intelligence I mean bodily skills, cognitive skills, and ethical skills, for they are bound up together.” (122)
+- “Systems designed to minimize the role of human intelligence tend to be brittle, as they are not able to anticipate every contingency.” (125)
+- *Spiritedness* of control and engagement vs dispirited incompetence from automation 
+
 
 ## Folk Engineering
+- **“A fully free relationship to technology is one that neither shuns it as alienating magic nor accepts uncritically the agenda that is sealed inside the black box.”** (129)
+- watch *Fastest Car* on Netflix
+- “To go deep into any technical field is to make progress in independence of mind (reject authority and believe your own eyes like Galileo), and feel. Freedoms to maneuver that grows in proportion with ones powers.” (153)
+- “This is why you end up buying a metal lathe and a milling machine. It’s just easier to make some parts than it is to hack a bureaucracy. Plus, you get to replace a frustrating activity with an enjoyable one.” (155)
+- he holds up this Enlightenment idea of knowledge (standard measurement unit accessible to everyone) as opposed to the medieval, but notes this is our caricature of the medieval, see rather *The Waning of the Middle Ages* by Johan Huizinga (155)
+- “Those improvisational folk engineers of the Outback were a bit depraved, but they also preserved the seeds of civilization, and in watching them one could hope civilization might rise again.” (158-159)
 
 
 # Motor Sport and the Spirit of Play
 
-## the Motor Equivalent of War
 
-## the Rise of the Bicycle Moralists (A Digression)
+## The Motor Equivalent of War
+
+
+## The Rise of the Bicycle Moralists (A Digression)
+- (Huizinga cited again, a key reference) 
+
 
 ## Two Derbies and a Scramble
+- Huizinga: “the human need to fight” (185)
+- Clintonville yard signs: "I had never been to Portland before and was curious to see how they lived. One thing I noticed was yard signs announcing the residents' affection for various classes of people. Some of these signs had lines written in Arabic that I wasn't able to understand. It's impressive that so many Portlanders have taken the trouble to learn this difficult language. As far as I could see, the only people fitting the categories enumerated on the yard signs who were actually present were some Hispanic groundskeepers who tended the botanical cornucopia outside a beautiful craftsman-style bungalow." (188)
+- discussion of gender roles:
+  - ...the neutering of men in Portland as compared to that of the French Aristocracy just before the Revolution
+  - Rousseau: “if you want men to be virtuous, teach women what virtue is” (197)
+  - the most successful women (and men) don’t focus on history, they just do what they are doing
 
-### Act I: Demolition Derby
-### Act II: Adult Soap Box Derby
-### Act III: Hare Scramble
 
 ## Democracy in the Desert: The Caliente 250
+- A desert race as embodiment of Tocqueville’s democracy opposed to our modern selves as “consumers of manufacturers experiences rather than creatures capable of dealing with the world in an unfiltered way” (204)
+
 
 # Self-Government, or Not
 
 ## Prelude: The DMV Experience
 
 ## "Reckless Driving:" Rules, Reasonableness, and the Flavor of Authority
+- Automated enforcement insulates forms of power from popular anger (217)
+- Yellow light times and lane widths engineered by cities to generate revenue
+- **write out footnote 10 from 223**
+- epic speeding ticket speech on 235
+
 
 ## Managing Traffic: Three Rival Versions of Reality
+- The ways we manage traffic support and express different forms of political culture: rule-bound surveillance vs socially scaffolded mutual prediction (244)
+- “Perverse consequences follow from trying to disburden us of exercising judgment.” (245)
+
 
 ## Road Rage, Other Minds, and the Traffic Community
+- “the human mind is fundamentally organized as a prediction machine” (256) 
+- book in footnote 7 (256)
+- Good drivers follow norms to reduce uncertainty and make us more mutually predictable to one another (258)
 
 
 # Meet the New Boss
