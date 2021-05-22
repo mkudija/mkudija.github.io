@@ -74,51 +74,6 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 - "For as long as political authorities impose restrictions and limitations on individuals transferring money, and for as long as government money is easy money whose supply can be easily expanded according to the whims of politicians, demand for Bitcoin will continue to exist, and its diminishing supply growth is likely to lead to its value appreciating over time, thus attracting ever-larger numbers of people to use it as a store of value." (249)
 - "For the first time since the abolition of the gold standard, Bitcoin has made sound money easily available to anyone in the world who wants it." (261)
 
-**Books**
-- Ludwig von Mises
-  - ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
-  - *The Theory of Money and Credit* by Ludwig von Mises (70)
-  - *Socialism* by Ludwig von Mises (109)
-  - *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
-- Friedrich Hayek
-  - *Monetary Nationalism and International Stability* by Friedrich Hayek (47)
-  - ***[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)*** by Friedrich Hayek (106)
-  - *A Tiger by the Tail* by Friedrich Hayek (119)
-  - *Denationalization of Money* by Friedrich Hayek (126)
-- Murray Rothbard
-  - *Man, Economy, and State* by Murray Rothbard (79)
-  - ***America's Great Depression*** by Murray Rothbard (49, 122)
-  - *The Austrian Theory of Money* by Murray Rothbard (143)
-  - *Economic Depressions: Their Cause and Cure* by Murray Rothbard (126, 145)
-  - *The Ethics of Liberty* by Murray Rothbard (204)
-- *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26, 119)
-- *Gold Wars* by Ferdinand Lips (27)
-- *The Failure of the New Economics* by Henry Hazlitt (52)
-- *Economic Union and Durable Peace* by Otto Mallery (53)
-- *Democracy: The God That Failed* by Hans-Hermann Hoppe (75)
-- *Capital and Interest* by Eugen von Böhm-Bawerk (79)
-- bad book by Friedman:
-  - *The Monetary History of the United States* by Milton Friedman and Anna Schwartz (121-126)
-- *The Forgotten Depression: 1921* by James Grant (123)
-- *The Scandal of Money* by George Gilder (130)
-- *From Zero to One* by Peter Thiel (96)
-- *From Dawn to Decadence* by Jacques Barzun (103, 149)
-- bad books by Keynes:
-  - *The General Theory of Employment, Money, and Interest* (137)
-  - *A Tract on Monetary Reform* (139)
-  - *The End of Laissez-Faire* (153)
-- *On the Origins of Money* by Carl Menger (142)
-- *The Great Crash of 1929* by John Kenneth Galbraith (155)
-- everything by Nassim Nicholas Taleb (157)
-- bad economics textbooks (159):
-  - *Economics: An Introductory Analysis* by Paul Samuelson
-  - *Economics: Principles, Policies and Problems* by McConnell
-  - Paul Krugman
-- *Digital Gold* by Nathaniel Popper (182)
-- *The Ultimate Resource* by Julian Simon (human time, 193)
-- ***The Sovereign Individual*** by James Davidson and William Rees-Mogg (200)
-- [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
-
 
 ## Chapter 1: Money
 *Summary: Money is a medium of exchange and store of value. Historically, harder money (high stock-to-flow) has produced more stable and prosperous societies.*
@@ -424,3 +379,50 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
   - *Digital payments*: it will always be more efficient to record transactions centrally for a centrally controlled currency
   - *Contracts*: successful applications are simple (multi-signature wallets), code cannot replace law
   - *Databases and records*: not feasible/advantageous
+
+--- 
+
+**Books**
+- Ludwig von Mises
+  - ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
+  - *The Theory of Money and Credit* by Ludwig von Mises (70)
+  - *Socialism* by Ludwig von Mises (109)
+  - *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
+- Friedrich Hayek
+  - *Monetary Nationalism and International Stability* by Friedrich Hayek (47)
+  - ***[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)*** by Friedrich Hayek (106)
+  - *A Tiger by the Tail* by Friedrich Hayek (119)
+  - *Denationalization of Money* by Friedrich Hayek (126)
+- Murray Rothbard
+  - *Man, Economy, and State* by Murray Rothbard (79)
+  - ***America's Great Depression*** by Murray Rothbard (49, 122)
+  - *The Austrian Theory of Money* by Murray Rothbard (143)
+  - *Economic Depressions: Their Cause and Cure* by Murray Rothbard (126, 145)
+  - *The Ethics of Liberty* by Murray Rothbard (204)
+- *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26, 119)
+- *Gold Wars* by Ferdinand Lips (27)
+- *The Failure of the New Economics* by Henry Hazlitt (52)
+- *Economic Union and Durable Peace* by Otto Mallery (53)
+- *Democracy: The God That Failed* by Hans-Hermann Hoppe (75)
+- *Capital and Interest* by Eugen von Böhm-Bawerk (79)
+- bad book by Friedman:
+  - *The Monetary History of the United States* by Milton Friedman and Anna Schwartz (121-126)
+- *The Forgotten Depression: 1921* by James Grant (123)
+- *The Scandal of Money* by George Gilder (130)
+- *From Zero to One* by Peter Thiel (96)
+- *From Dawn to Decadence* by Jacques Barzun (103, 149)
+- bad books by Keynes:
+  - *The General Theory of Employment, Money, and Interest* (137)
+  - *A Tract on Monetary Reform* (139)
+  - *The End of Laissez-Faire* (153)
+- *On the Origins of Money* by Carl Menger (142)
+- *The Great Crash of 1929* by John Kenneth Galbraith (155)
+- everything by Nassim Nicholas Taleb (157)
+- bad economics textbooks (159):
+  - *Economics: An Introductory Analysis* by Paul Samuelson
+  - *Economics: Principles, Policies and Problems* by McConnell
+  - Paul Krugman
+- *Digital Gold* by Nathaniel Popper (182)
+- *The Ultimate Resource* by Julian Simon (human time, 193)
+- ***The Sovereign Individual*** by James Davidson and William Rees-Mogg (200)
+- [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
