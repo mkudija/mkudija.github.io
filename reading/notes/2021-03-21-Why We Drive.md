@@ -9,7 +9,6 @@ Requirements for my next car:
 - light (26)
 
 
-
 ## Introduction
 - this book answers: *what is so special about driving?*
 - Crawford is concerned about the coming technocratic control of transportation taking away our freedom of movement, and critiques this from a Toquevillian perspective of coming together in a way that limits central power (10)
@@ -46,7 +45,6 @@ Requirements for my next car:
 - “Safetyism”: “If one cares about safety, one does well to take a skeptical look at the safety-industrial complex, and it’s reliance on moral intimidation to pursue ends other than safety” (34)
 - “if left unchallenged, the pursuit of risk reduction tends to create a society based on an unrealistically low view of human capacities” (34)
 
-
 ## Cars and the Common Good
 - Jane Jacob’s book (35): not just cars destroying cities, but urban planning )36)
 - the growth of the automobile was largely a government (rather than private) understating, from FDR’s road projects through to Eisenhower’s interstate highway system (38-39)
@@ -65,12 +63,10 @@ Requirements for my next car:
 - despair turned to freedom, and he sold his Jeep for a train ticket from Paso to Oakland 
 - VW bus: “sometimes a car seems not simply to move you through the world, but to put you into the arms of the world more thoroughly.” (58)
 
-
 ## Project Rat Rot
 - his wife is a cognitive psychologist who designed a car and taught rats to drive it
 - Lambert: much depression caused by being disengaged from the basic tasks of our survival (64)
 - taking care of ourselves lowers anxiety: human flourishing requires “open problem spaces” that elicit bodily and mental engagement (65)
-
 
 ## Old Cars: A Thorn in the Side of the Future
 - this chapter: the false environmentalism of forced obsolescence, and creative possibilities from the old
@@ -82,17 +78,15 @@ Requirements for my next car:
 - artistic hatred of the past, as expressed in pleasure at the destruction of old cars or the burning of Notre Dame (81)
 - Michael Oakeshott’s view of conservatism as “affection for the present” and what actually exists (82), cf “On Being Conservative”, *Rationalism in Politics*
 
-
 ## The Diminishing Returns of Idiot-Proofing as a Design Principle
 - this chapter: look at both safety improvements and the changes in driver behavior as a result, which aren’t always improvements (98)
 - analysis of misleading Tesla claims about auto-steer safety and debunking by Whitfield and *Ars Technica* (98+)
-- Peltzman: we tend to change our driving behavior (risk/reward tradeoff) in response to the introduction of new safety devices (90)
+- Peltzman: we tend to change our driving behavior (risk/reward trade off) in response to the introduction of new safety devices (90)
   - “getting anything done in this world involves risk, and we accept this” (99)
 - “automation’s underlying assumption of our incompetence becomes progressively self-fulfilling” (98)
 - *The Design of Everyday Things* by Don Norman (98)
 - *The Glass Cage* by Nicholas Carr
 - human intelligence and machine intelligence have a hard time *sharing* control (104)
-
 
 ## Feeling the Road
 - test drove a new car in which “mechanical realities must pass through electronic filters” (110)
@@ -103,14 +97,12 @@ Requirements for my next car:
 - cf *The Revenge of Analog* (115)
 - “The pleasure of driving is the pleasure of *doing* something; of being actively and skillfully engaged with the reality that pushes back against us. Only then do we feel the progress of our own mastery. In skilled activities, we sometimes recover the joy of childhood play, that. In life when we were discovering new powers in our own bodies.” (115)
 
-
 ## Automation as Moral Reeducation
 - trolley problem: analytical moral philosophy lends itself to the input logic of a computer (117) 
 - Aristotelian virtue ethics (as described by William Hasselberger in *Ethics Beyond Computation*) as a skill acquired through practice as opposed to the utilitarian (and Platonic?) set of true propositions to be included in a moral calculus (121)
 - “As the space for intelligent human action gets colonized by machines, our intelligence erodes, leading to demands for further automation. By intelligence I mean bodily skills, cognitive skills, and ethical skills, for they are bound up together.” (122)
 - “Systems designed to minimize the role of human intelligence tend to be brittle, as they are not able to anticipate every contingency.” (125)
 - *Spiritedness* of control and engagement vs dispirited incompetence from automation 
-
 
 ## Folk Engineering
 - **“A fully free relationship to technology is one that neither shuns it as alienating magic nor accepts uncritically the agenda that is sealed inside the black box.”** (129)
@@ -123,13 +115,13 @@ Requirements for my next car:
 
 # Motor Sport and the Spirit of Play
 
-
 ## The Motor Equivalent of War
-
+- *Homo Ludens* by Johan Huizinga: our need for beauty and our need to fight are satisfied in play (168)
+- watch: *Hitting the Apex* (173)
+- The Red Baron: war as play recognizes the humanity of your enemy, as opposed to the humanitarian conflict which sees the opponent as inherently evil (177)
 
 ## The Rise of the Bicycle Moralists (A Digression)
 - (Huizinga cited again, a key reference) 
-
 
 ## Two Derbies and a Scramble
 - Huizinga: “the human need to fight” (185)
@@ -138,7 +130,6 @@ Requirements for my next car:
   - ...the neutering of men in Portland as compared to that of the French Aristocracy just before the Revolution
   - Rousseau: “if you want men to be virtuous, teach women what virtue is” (197)
   - the most successful women (and men) don’t focus on history, they just do what they are doing
-
 
 ## Democracy in the Desert: The Caliente 250
 - A desert race as embodiment of Tocqueville’s democracy opposed to our modern selves as “consumers of manufacturers experiences rather than creatures capable of dealing with the world in an unfiltered way” (204)
@@ -154,11 +145,9 @@ Requirements for my next car:
 - **write out footnote 10 from 223**
 - epic speeding ticket speech on 235
 
-
 ## Managing Traffic: Three Rival Versions of Reality
 - The ways we manage traffic support and express different forms of political culture: rule-bound surveillance vs socially scaffolded mutual prediction (244)
 - “Perverse consequences follow from trying to disburden us of exercising judgment.” (245)
-
 
 ## Road Rage, Other Minds, and the Traffic Community
 - “the human mind is fundamentally organized as a prediction machine” (256) 
@@ -169,12 +158,38 @@ Requirements for my next car:
 # Meet the New Boss
 
 ## Street View: Seeing Like Google
+- Map making is an instrument of empire, street view follows this tradition (267)
+- *Seeing Like a State*: legibility makes you prone to control by outsiders (267) 
+- Uber vs London cabbies and the data-driven colonization of local places
 
 ## A Glorious, Collisionless Manner of Living
+- the smart city and the search for urban order against the unplanned urban delight 
+- “people in tech prize ‘first principles,’ a concept that suggests that historical awareness and traditional expertise can get in the way of breakthrough ideas” (285-286)
+- the rational quality of political legitimacy (I.e. a judge’s opinion rather than mere fiat) contrasted against the non-interpretable ML model and “priestly class” of data scientist (287-288)
+- behavioral economics dovetails with the elite project of “enlightened social engineering” and authoritarian technocratic rule (291)
 
 ## If Google Built Cars
+- customer service: if the exit costs are high enough you don’t need an actual monopoly to get monopoly behavior (298)
+- tech in cars leads to surveillance capitalism (301)
+- read *The Age of Surveillance Capitalism* by Shoshana Zuboff (302+)
+- terrifying privacy implications of “smart” devices: sleep number beds, Nest thermostats, roomba vaccines...”dumb” products will cost a premium (305-306)
+- “The surest way to predict behavior is to intervene at its source and shape it” (307)
 
 ## Concluding Remarks: Sovereignty on the Road
+- the central issue of politics is sovereignty (312)
+- “To see a problem that needs fixing often stems from a failure to see that a solution has already been achieved-—through the skill and intelligence of ordinary people.” (313)
 
-## Postscript: The Road to La Honda
+---
 
+**Books**
+- *Traffic: Why We Drive the Way We Do* by Tom Vanderbilt (18)
+- *The Long Haul* by Finn Murphy (19)
+- *Junkyards, Gearheads, and Rust* by Lucskom (67)
+- “On Being Conservative”, *Rationalism in Politics* (82)
+- *The Design of Everyday Things* by Don Norman (98)
+- *The Glass Cage* by Nicholas Carr
+- *Ethics Beyond Computation* by William Hasselberger (121)
+- *The Waning of the Middle Ages* by Johan Huizinga (155)
+- *Homo Ludens* by Johan Huizinga (168)
+- *Seeing Like a State* (267)
+- *The Age of Surveillance Capitalism* by Shoshana Zuboff (302+)
