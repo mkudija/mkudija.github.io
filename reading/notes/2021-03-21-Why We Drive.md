@@ -4,11 +4,6 @@
 (New York: HarperCollins, 2020), 348
 
 
-Requirements for my next car:
-- manual (5)
-- light (26)
-
-
 ## Introduction
 - this book answers: *what is so special about driving?*
 - Crawford is concerned about the coming technocratic control of transportation taking away our freedom of movement, and critiques this from a Toquevillian perspective of coming together in a way that limits central power (10)
