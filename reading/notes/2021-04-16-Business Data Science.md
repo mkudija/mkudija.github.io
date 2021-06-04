@@ -11,6 +11,10 @@
 ## Preface
 
 ## Introduction
+*Summary: Our goal is to produce interpretable models that translate data into insights for decision-making. The modern methods of business data science are characterized by the addition of big data and machine learning to classical statistical and economic methods.*
+
+*Code for this section is [here](https://github.com/mkudija/taddy-business-data-science/tree/main/00-introduction).*
+
 - The Goal: produce an *interpretable* model that translates raw data into information relevant to decision-making; project information into a low-dimensional space that contains key insights for decision making (3-4)
   - Motivating example: visualized CAPM outputs give a richer view for decisions making than just a messy plot of returns (Figure I.3, [reproduced here](https://github.com/mkudija/taddy-business-data-science/blob/main/0-introduction/3-stock-returns/0-introduction_stock-returns.ipynb))
 - "Modern methods" are distinguished by *big data* and *machine learning*
@@ -80,7 +84,7 @@
 ## Chapter 2: Regression
 *Summary: *
 
-
+*Code for this chapter is [here](https://github.com/mkudija/taddy-business-data-science/tree/main/02-regression).*
 
 ## Chapter 3: Regularization
 *Summary: **Regularization** allows us to develop candidate models and select the best model for OOS performance. We add a penalty term and then minimize the penalized deviance. A common penalty construction is the Lasso. Then we can select the optimal penalty weight—$\lambda$—using **cross validation** or **information criteria** as our model selection process. Finally, we can approximate the uncertainty of such a model using a **parametric bootstrap** or **subsampling**.*
