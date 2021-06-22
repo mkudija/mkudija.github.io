@@ -1,5 +1,11 @@
 # Reading Notes
 
+:warning: **WARNING**: These files were copied to `Obisidian/Reading Notes/` on 2021-06-21, which is the new master location. They are preserved here for reference but no longer being updated or added to. 
+
+
+
+---
+
 Full [reading list](https://matthewkudija.com/reading).
 
 I have been recording notes on what I read since about 2010, with varying fidelity and level of detail. 

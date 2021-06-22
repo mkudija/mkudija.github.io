@@ -1,0 +1,66 @@
+
+body { /*https://blog.koenvangilst.nl/brutalist-css/*/
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 50rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+code {
+	color: #ccc;
+	font-family: monospace;
+	background: whitesmoke;
+	border-radius: .2rem;
+	padding: .1rem .3rem .2rem;
+}
+
+a {
+    color:#3377b3;
+    text-decoration: none;
+}
+a:hover {
+    color:#3337b3;
+    background:whitesmoke;
+    text-decoration: underline;
+}
+
+h1
+{
+    border-bottom:1px solid #ccc;
+    padding-bottom:3px;
+}
+
+br { /*to fix extra spacing of indented bullets*/
+  content: "";
+  margin: 2em;
+  display: block;
+  font-size: 5%;
+}
+
+blockquote {
+  /*background: whitesmoke;*/
+  border: 1px solid #ccc;
+  border-left: 4px solid #ccc;
+  border-radius:0.1rem;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+blockquote p {
+  display: inline;
+}
+
+th {
+	background-color: #ccc;
+	padding: .4rem;
+}
+
+td {
+	padding: .3rem;
+}
+
+tr:nth-child(even){background-color: whitesmoke;}
+tr:hover {background-color: #ddd;}

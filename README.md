@@ -169,6 +169,7 @@ This website is inspired by a number of others, including those below:
 - [Tristan Mahr](https://www.tjmahr.com/)
 - [Ben Hamilton](https://ben.hamilton.id.au/tools/)
 - [Ian Whitestone](https://ianwhitestone.work/about/)
+- [Koen Vangilst](https://koenvangilst.nl/)
 
 
 # Other Sites I've Built*
