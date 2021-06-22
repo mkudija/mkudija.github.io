@@ -1,6 +1,6 @@
 # [*Lord of the World: A Novel*](https://www.amazon.com/Lord-World-Robert-Hugh-Benson/dp/0870612980/ref=sr_1_3?dchild=1&keywords=lord+of+the+world&qid=1606492849&sr=8-3) by Robert Hugh Benson
 
-(Notre Dame: Ave Maria, 1907), 318
+`(Notre Dame: Ave Maria, 1907), 318`
 
 I thought it was appropriate in 2020 to read some apocalyptic literature: *Father Elijah*, *A Canticle for Leibowitz*, and now *Lord of the World*. I started reading the kindle version of this a few years ago and didn't get very far—in a way I'm grateful since I know I appreciated it more now than I would have then. It was frightening seeing some of the parallels between Benson's view of the future and that future as it developed in the twentieth century and into today. His novel is a challenge to prepare our hearts for when the Church will see whatever form persecution takes next, and as Christians for the final judgment at the end of time.
 
@@ -25,8 +25,11 @@ I thought it was appropriate in 2020 to read some apocalyptic literature: *Fathe
 - "The religious people were practically all Catholics and Individualists; the irreligious people rejected the supernatural altogether, and were , to a man, Materialists and Communists." (6)
 - three religions remained: Catholicism, Humanitarianism, and the Eastern religions (9)
   - "**Humanitarianism** is becoming an actual religion itself, though anti-supernatural. It is Pantheism; it is developing a ritual under Free-masonry; is has a creed, 'God is Man', and the rest. It has therefore a real food of a sort to offer to religious cravings; it idealizes, and yet it makes no demand upon the spiritual faculties. Then, they have the use of all the churches except ours, and all the Cathedrals; and they are beginning at last to encourage sentiment. Then, they may display their symbols and we may not: I think that they will be established legally in another ten years at the latest." (10)
-  - [Here](https://www.amazon.com/SIGNS-JUSTICE-Weather-Proof-Corrugated-Political/dp/B086QPX6WP/ref=mp_s_a_1_16?dchild=1&keywords=water+is+life+yard+sign&qid=1605491798&sprefix=water+is+life&sr=8-16) is the modern secular creed: 
-  - <p style="text-align:center;"><img src="https://cdn.shopify.com/s/files/1/0036/9446/1028/products/WB_1200x.jpg?v=1544748629" width="50%" height="50%"></p>
+  - [This](https://www.amazon.com/SIGNS-JUSTICE-Weather-Proof-Corrugated-Political/dp/B086QPX6WP/ref=mp_s_a_1_16?dchild=1&keywords=water+is+life+yard+sign&qid=1605491798&sprefix=water+is+life&sr=8-16) is the modern secular creed: 
+<details>
+ <summary><i>Image</i></summary>
+	<img src="https://i.ebayimg.com/images/g/gGEAAOSwDaVfBbHZ/s-l500.png">
+</details>
   - Creed of Humanism on 35
 - "Catholicism will decrease rapidly now. It is perfectly true that Protestantism is dead...And it is also true that since the Catholic Church is the only institution that even claims supernatural authority, with all its merciless logic, she has again the allegiance of practically all Christians who have any supernatural belief left." (10)
 - failure of the universities: "the object of secular education is presumably the production of something visible—either character or competence; and it became quite impossible to prove that the Universities produced either" (11)
@@ -50,12 +53,13 @@ I thought it was appropriate in 2020 to read some apocalyptic literature: *Fathe
 - "*Beati mortui qui in Domino moriuntur!*" Blessed are those who die in the Lord (193)
 - "The Catholic Religion, he knew well enough, gave the only adequate explanation of the universe; it did not unlock all mysteries, but it unlocked more than any other key known to man; He knew, too, perfectly well, that it was the only system of thought that satisfied man as a whole and accounted for him in his essential nature...Besides, he happened to believe it." (242)
 - Mabel's question to Father Francis (the apostate) about 'Why do Catholics believe in God?' and his response on 270+
-  - "The Incarnation is really the point. Everything else flows from that. And, once a man believes that, I must confess that all the rest follows." (271)
+  - **"The Incarnation is really the point. Everything else flows from that. And, once a man believes that, I must confess that all the rest follows."** (271)
 
 
+---
 
-## New Words
-- invidious (98): Tending to rouse ill will, animosity, or resentment. Offensive and unfair.
-- peroration (130): The concluding part of an oration; especially, a final summing up and enforcement of an argument.
-- credence (256): a small table where the bread and wine rest before consecration
-- predella (257): the platform or step on which an altar stands
+**New Words**
+- ***invidious*** (98): Tending to rouse ill will, animosity, or resentment. Offensive and unfair.
+- ***peroration*** (130): The concluding part of an oration; especially, a final summing up and enforcement of an argument.
+- ***credence*** (256): a small table where the bread and wine rest before consecration
+- ***predella*** (257): the platform or step on which an altar stands
