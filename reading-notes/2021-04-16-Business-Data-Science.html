@@ -1,0 +1,325 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<title>Matthew Kudija | Reading Notes</title>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/reading-notes.css" />
+<!-- <link rel="stylesheet" href="../assets/css/bigfoot-default.css" /> -->
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<span style="color:#ccc;">
+<a href="index.html">Matthew <strong>Kudija</strong></a>'s Reading Notes | <a href="https://matthewkudija.com/reading">Reading List</a>
+</span>
+</header>
+<hr>
+
+<!-- Content -->
+<section>
+
+<h1 id="business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-businesshttpswwwamazoncombusiness-data-science-combining-acceleratedp1260452778refsr_1_3dchild1keywordsbusinessdatascienceqid1618600384sr8-3-by-matt-taddy"><a target="_blank" href="https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778/ref=sr_1_3?dchild=1&amp;keywords=Business+Data+Science&amp;qid=1618600384&amp;sr=8-3"><em>Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business</em></a> by Matt Taddy</h1>
+
+<p><code>(New York: McGraw Hill, 2019), 331</code></p>
+
+<h3 id="resources">Resources</h3>
+
+<ul>
+<li><em>The author&#8217;s data and R scripts for the books is on <a target="_blank" href="https://github.com/TaddyLab/bds">GitHub</a> (see also code for <a target="_blank" href="https://github.com/TaddyLab/MBA">MBA course</a>).</em></li>
+<li><em>My code to accompany these notes is on <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science">GitHub</a>.</em></li>
+<li><em>Amazon <a target="_blank" href="https://www.amazon.science/business-data-science-is-a-lot-more-than-just-making-predictions-matt-taddy">author interview</a> discussing concepts from the book.ou</em></li>
+</ul>
+
+<h2 id="preface">Preface</h2>
+
+<h2 id="introduction">Introduction</h2>
+
+<p><em>Summary: Our goal is to produce interpretable models that translate data into insights for decision-making. The modern methods of business data science are characterized by the addition of big data and machine learning to classical statistical and economic methods.</em></p>
+
+<p><em>Code for this section is <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science/tree/main/00-introduction">here</a>.</em></p>
+
+<ul>
+<li>The Goal: produce an <em>interpretable</em> model that translates raw data into information relevant to decision-making; project information into a low-dimensional space that contains key insights for decision making (3-4)<br />
+<ul><br />
+<li>Motivating example: visualized CAPM outputs give a richer view for decisions making than just a messy plot of returns (Figure I.3, <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science/blob/main/0-introduction/3-stock-returns/0-introduction_stock-returns.ipynb">reproduced here</a>)</li><br />
+</ul></li>
+<li>&#8220;Modern methods&#8221; are distinguished by <em>big data</em> and <em>machine learning</em><br />
+<ul><br />
+<li>Data Science ≈ statistics + BD + ML</li><br />
+<li>Business Data Science ≈ statistics + BD + ML + economics + econometrics + business context</li><br />
+</ul></li>
+<li><strong>Big Data</strong>: data can be &#8220;big&#8221; in terms of both <em>volume</em> and <em>complexity</em><br />
+<ul><br />
+<li>Big (<em>volume</em>) Data is where the scale swamps RAM and requires piping by data engineers</li><br />
+<li>Big (<em>complexity</em>) Data is big <em>dimension</em> data where the assumptions of classical statistics break down ("big <em>p</em>&#8221; problems)</li><br />
+</ul></li>
+<li><strong>Machine Learning</strong>: automatically build <em>predictions</em> from complex data<br />
+<ul><br />
+<li>Focus is to maximize predictive performance on out-of-sample data</li><br />
+<li>Limited <em>structural</em> interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)</li><br />
+<li><em>Structural analysis</em> refers to building analytically from theory, as compared with the pragmatic, black-box <em>prediction</em> of machine learning</li><br />
+<li>Good data science then is having an overall understanding of the domain to know the appropriate <em>prediction</em> tasks to throw at ML, and the <em>structural</em> problems to address with classical economics and statistics</li><br />
+<li>&#8220;A policy-maker who can deploy ML to solve the many prediction tasks that they face will be able to automate and accelerate their decision process.&#8221; (7)</li><br />
+<li>ML prediction tools should be part of a larger system with goals beyond pure prediction</li><br />
+</ul></li>
+<li><strong>Computation</strong><br />
+<ul><br />
+<li>This book uses R, but the key point is that &#8220;anyone working with data will need to continue learning and updating their computational (and methodological) skills&#8221;; best way to learn is by doing (11)</li><br />
+</ul></li>
+</ul>
+
+<h2 id="chapter-1-uncertainty">Chapter 1: Uncertainty</h2>
+
+<p><em>Summary: This chapter introduces <strong>nonparametric</strong> ("data driven&#8221;, frequentist) and <strong>parametric</strong> ("theoretical&#8221;, Bayesian) approaches to quantifying uncertainty. <strong>The Bootstrap</strong> is a flexible nonparametric method that works by resampling with replacement. The <strong>Benjamini-Hochberg</strong> algorithm provides a method of selecting variables by ranked p-value based on the desired false discovery rate. Finally, we learn about the <strong>Bayesian</strong> framework for combining assumptions with evidence.</em></p>
+
+<ul>
+<li><strong>Parametric</strong> vs <strong>Nonparametric</strong><br />
+<ul><br />
+<li><strong>Parametric</strong>: &#8220;theoretical&#8221;</li><br />
+<li>conditional on assumed true model</li><br />
+<li><strong>Nonparametric</strong>: &#8220;data driven&#8221;</li><br />
+<li>allows for model misspecification</li><br />
+</ul></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+  <th>Parametric</th>
+  <th>Nonparametric</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Quantifies uncertainty</td>
+  <td>Quantifies uncertainty</td>
+</tr>
+<tr>
+  <td>&#8220;Theoretical&#8221;</td>
+  <td>&#8220;Data-driven&#8221;</td>
+</tr>
+<tr>
+  <td>Bayesian</td>
+  <td>Frequentist</td>
+</tr>
+<tr>
+  <td>Assume CLT/Gaussian</td>
+  <td>Use the Bootstrap</td>
+</tr>
+<tr>
+  <td>Specify distribution</td>
+  <td>More flexible</td>
+</tr>
+<tr>
+  <td>&#8220;Ideal&#8221; for theory</td>
+  <td>&#8220;Ideal&#8221; for decision-making</td>
+</tr>
+<tr>
+  <td>High-dimensional data ok</td>
+  <td>Requires low-dimensional data $n &gt;&gt; p$</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li><strong>Frequentist</strong> vs <strong>Bayesian</strong><br />
+<ul><br />
+<li><strong>Frequentist</strong>: classical uncertainty</li><br />
+<li><em>"If I were able to see a new sample of data generated by the same processes and scenarios as my current data, how would my estimates change?"</em></li><br />
+<li><strong>Bayesian</strong>: mathematical framework of beliefs (more below)</li><br />
+<li><em>"If you believe A and then you observe B, you should update your beliefs to C."</em></li><br />
+</ul></li>
+<li><strong>Central Limit Theorem</strong> (CLT): the average of independent random variables becomes normally distributed if your sample size is large enough</li>
+<li><strong>The Bootstrap</strong>: uses resampling (<em>with replacement</em>) from your current sample to mimic the sampling distribution and introduce variability<br />
+<ul><br />
+<li>use the Bootstrap because theoretical Gaussian distributions derived from the CLT are not valid for many complex settings (i.e. number of model parameters large relative to number of observations)</li><br />
+<li>the Bootstrap will work in many settings where theory is either unavailable or incorrect (if the Bootstrap fails, there probably isn&#8217;t a good theoretical replacement)</li><br />
+<li>an alternative is the <strong>Parametric Bootstrap</strong>: generate new data by drawing from a fitted model (the results are sensitive to how well the model represents reality, but this is a practical option when more robust procedures are impossible)</li><br />
+</ul></li>
+<li><strong><em>p</em>-values</strong>: represents how rare or strange your sample would be if the null hypothesis is true<br />
+<ul><br />
+<li>the proportion of times that you would wrongly reject your safe null if the test statistic you&#8217;ve observed is enough to lead you to adopt the alternative</li><br />
+<li>measures the probability mass in the tails past your observed test statistic</li><br />
+</ul></li>
+<li><strong>Benjamini-Hochberg (BH) FDR Control</strong>: controls your false discovery rate (FDR) by defining a cutoff on the ranked list of <em>p</em>-values from your model<br />
+<ul><br />
+<li>$FDR=\mathop{\mathbb{E}} \left[ \frac{FalsePositives}{TestsCalledSignificant} \right]$</li><br />
+<li>Select your target $FDR$ of $q$, and keep all <em>p</em>-values such that $p \leq q\frac{k}{N}$</li><br />
+<li>Gives a decent (often conservative) guess at FDR</li><br />
+</ul></li>
+<li><strong>Bayesian Inference</strong>: the mathematical framework of beliefs<br />
+<ul><br />
+<li>characterizes probabilities over models and parameters by appealing to the idea of subjective beliefs rather than repeated trials</li><br />
+<li>quantification of risks and expected rewards is inherently Bayesian</li><br />
+<li>&#8220;If you believe <em>A</em> and then you observe <em>B</em>, you should update your beliefs to <em>C</em>.&#8221;</li><br />
+<li>provides a framework for combining <em>assumptions</em> with <em>evidence</em></li><br />
+<li>mechanically works with combination of <em>prior distributions</em> and <em>likelihood</em> (the probability of the data you have observed given a fixed set of mode parameters)</li><br />
+<li>inherently <em>parametric</em> since you specify a model and then update view of uncertainty based on new data</li><br />
+</ul></li>
+</ul>
+
+<h2 id="chapter-2-regression">Chapter 2: Regression</h2>
+
+<p>*Summary: *</p>
+
+<p><em>Code for this chapter is <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science/tree/main/02-regression">here</a>.</em></p>
+
+<h2 id="chapter-3-regularization">Chapter 3: Regularization</h2>
+
+<p><em>Summary: <strong>Regularization</strong> allows us to develop candidate models and select the best model for OOS performance. We add a penalty term and then minimize the penalized deviance. A common penalty construction is the Lasso. Then we can select the optimal penalty weight—$\lambda$—using <strong>cross validation</strong> or <strong>information criteria</strong> as our model selection process. Finally, we can approximate the uncertainty of such a model using a <strong>parametric bootstrap</strong> or <strong>subsampling</strong>.</em></p>
+
+<ul>
+<li><strong>Regularization</strong> context: provides a framework when working with high-dimensional data to develop <em>candidate models</em> and then <em>select</em> the best model to minimize error on out-of-sample data (needed to avoid <em>overfit</em>)<br />
+<ul><br />
+<li>Regularization penalizes model complexity to stabilize the system, minimizes <em>penalized</em> deviance</li><br />
+<li>&#8220;Regularization is the key to modern statistics&#8221; (77)</li><br />
+<li>&#8220;Regularization is trading variance (noise) for bias&#8221; (91)</li><br />
+</ul></li>
+<li>The only $R^{2}$ we care about is <em>out-of-sample</em> $R^{2}$<br />
+<ul><br />
+<li>In-sample $R^{2}$ is always increased with more variables, making it look artificially good (it can even produce a <em>negative</em> out-of-sample $R^{2}$, or model that performs worse than no model at all)</li><br />
+</ul></li>
+<li><strong>Cross validation</strong>: use out-of-sample experiments to choose the best model<br />
+<ul><br />
+<li>Use data to select the best model</li><br />
+<li><em>K</em>-fold out-of-sample cross-validation: split data into <em>K</em> folds, fit coefficients on everything except <em>k</em>th fold, then record $R^{2}$ for the left-out <em>k</em>th fold</li><br />
+</ul></li>
+<li><strong>Backward stepwise regression</strong>: start with full model and cut it back to size<br />
+<ul><br />
+<li>Start with full model, cut back variables below $\alpha$ using BH FDR control</li><br />
+<li>This is generally <em>not</em> ideal because it does not handle <em>multicollinearity</em> (correlation between inputs) well</li><br />
+</ul></li>
+<li><strong>Forward stepwise regression</strong>: build from simplicity to complexity, <em>greedy</em> search strategy, fast and stable, stable</li>
+<li>Regularization minimizes <em>penalized</em> deviance:<br />
+<ul><br />
+<li>$\hat{\beta} = \mbox{argmin} \left{-\frac{2}{n} \log \mbox{lhd} (\beta) + \lambda \sum<em>{k}{c(\beta</em>{k})} \right}$ where $\lambda \sum<em>{k}{c(\beta</em>{k})}$ is the penalty term and $c(\beta_{k})$ is the cost on the size of the coefficient</li><br />
+<li>This accounts for both the <em>estimation cost</em> (deviance, distance between data and model) and the <em>testing cost</em> (cost of $\beta \neq 0$) </li><br />
+</ul></li>
+<li>The <strong>lasso</strong> has $c(\beta<em>{k})=|\beta|$<br />
+<ul><br />
+<li>Default because least bias on large signals while retaining the stability of a convex penalty, also automatic variable screening since some $\beta$ will be exactly zero</li><br />
+<li>Provides an enumeration of candidate models (different values of $\lambda$), then use model selection to choose the best $\lambda$</li><br />
+<li>Lasso regularization path: start with $\lambda$ such that $\hat\beta</em>{1}=0$, then shrink $\lambda$ to reduce the penalty on $\beta$ and iteratively add complexity to the model</li><br />
+<li>$\lambda$ operates on all $\beta$, so typically scale by $\mbox{sd}(x)$ so that the penalty on $\beta$ is measured on the scale of 1 standard deviation change in $x$</li><br />
+</ul></li>
+</ul>
+
+<p><strong>Model Selection</strong>: use <em>cross validation (CV)</em> or <em>information criteria (IC)</em> to select the best $\lambda$</p>
+
+<ul>
+<li>Recall: $\lambda$ is the penalty weight (signal-to-noise filter like a radio squelch)</li>
+<li><strong><em>K</em>-Fold CV Lasso</strong>: obtain candidate models from lasso, fit lasso path on data except <em>k</em>th fold and calculate deviance on <em>k</em>th fold, and choose $\lambda$ by either <strong>CV-min</strong> (recommended) or <strong>CV-1se</strong> (more conservative)<br />
+<ul><br />
+<li>Cross validation answers: <em>"Which model does best in predicting unseen data?"</em></li><br />
+<li>CV is a computational experiment to approximate OOS errors</li><br />
+</ul></li>
+<li><strong>Information Criteria (IC)</strong>: analytic approximation of OOS errors, many flavors (AICc, AIC, BIC, etc.)<br />
+<ul><br />
+<li><em>Akaike&#8217;s criterion</em>: $\mbox{AIC} = \mbox{deviance} + 2df$ where deviance is calculated in-sample and $df$ are your model degrees of freedom; true for low-dimensional models</li><br />
+<li><em>Corrected AIC</em>: $\mbox{AICc} = \mbox{deviance} + 2df \frac{n}{n-df-1}$, should always be used over AIC: works where AIC doesn&#8217;t and provides the same answer where it does</li><br />
+<li><em>Bayes criterion</em>: $\mbox{BIC} = \mbox{deviance} + \log(n) \times df$, attempts to get at the &#8220;true&#8221; model and is more conservative</li><br />
+</ul></li>
+<li>If you have time and answer is important, do CV. AICc is fast and stable. Typically use a combination of the two.</li>
+</ul>
+
+<p><strong>Lasso Uncertainty</strong></p>
+
+<ul>
+<li>Uncertainty quantification not easy because of penalty term and high-dimensional objects, but can use <strong>parametric bootstrap</strong>, <strong>subsampling</strong>, or <strong>sample splitting</strong> (ch 6)</li>
+<li><strong>Parametric Bootstrap</strong>: rather than resampling with replacement (as in nonparametric bootstrap, which will overfit), generate <em>new</em> data from a model with less bias, say $\bar\lambda \approx \lambda/4$<br />
+<ul><br />
+<li>Drawback: relies upon the correctness of your data generating process</li><br />
+</ul></li>
+<li><strong>Subsampling</strong>: re-estimate your target using <em>without-replacement</em> subsamples<br />
+<ul><br />
+<li>Estimates are based on smaller sample than you actually have, so must assume a <em>learning rate</em> to adjust a size-<em>m</em> uncertainty for size-<em>n</em> sample estimate (typically $\sqrt{n}$)</li><br />
+</ul></li>
+<li>Both are approximation tools that should be treated with skepticism</li>
+</ul>
+
+<h2 id="chapter-4-classification">Chapter 4: Classification</h2>
+
+<p>*Summary: *</p>
+
+<h2 id="chapter-5-experiments">Chapter 5: Experiments</h2>
+
+<p>*Summary: *</p>
+
+<h2 id="chapter-6-controls">Chapter 6: Controls</h2>
+
+<p>*Summary: *</p>
+
+<h2 id="chapter-7-factorization">Chapter 7: Factorization</h2>
+
+<p>*Summary: *</p>
+
+<h2 id="chapter-8-text-as-data">Chapter 8: Text as Data</h2>
+
+<p>*Summary: *</p>
+
+<h2 id="chapter-9-nonparametrics">Chapter 9: Nonparametrics</h2>
+
+<p>*Summary: *</p>
+
+<h2 id="chapter-10-artificial-intelligence">Chapter 10: Artificial Intelligence</h2>
+
+<p>*Summary: *</p>
+
+<hr />
+
+<p><strong>Errata</strong></p>
+
+<ul>
+<li>37: &#8220;is then available via Bayes rule&#8221; &#8211;> &#8220;is then available via <strong>Bayes&#8217;</strong> rule&#8221;</li>
+<li>78: &#8220;in some data-dependent matter&#8221; &#8211;> &#8220;in some data-dependent <strong>manner</strong>&#8221;</li>
+</ul>
+
+
+</section>
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<!-- <script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+-->
+</body>
+<hr>
+<footer id="footer" align="center">
+<span style="color:#ccc;">
+<center>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</span>
+</footer>
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+</html>
