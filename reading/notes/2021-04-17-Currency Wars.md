@@ -1,5 +1,5 @@
 
-# [*Currency Wars: The Making of the Next Global Crisis Paperback*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564/ref=sr_1_1?dchild=1&keywords=currency+wars&qid=1618655957&sr=8-1) by James Rickards
+# [*Currency Wars: The Making of the Next Global Crisis*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564/ref=sr_1_1?dchild=1&keywords=currency+wars&qid=1618655957&sr=8-1) by James Rickards
 
 (New York: Penguin, 2011), 288
 
