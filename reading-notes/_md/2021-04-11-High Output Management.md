@@ -269,7 +269,10 @@
   - depends on the person's motivation
   - depends on the environment (CUA Factor: complexity, uncertainty, ambiguity)
   - See this great chart from [Coleman McCormick](https://www.colemanm.org/post/modes-of-control/) reproducing the visual on page 149, which suggests which mode of control is best for each combination of individual motivation and CUA factor:
-  - <p style="text-align:center;"><img src="https://d33wubrfki0l68.cloudfront.net/c2f3c0c79235c244edd6c49c38822083ba931b0d/10b8b/images/post-images/modes-of-control.jpg" width="50%" height="50%"></p>
+<details>
+	<summary><i>Image</i></summary>
+	<img src="https://d33wubrfki0l68.cloudfront.net/c2f3c0c79235c244edd6c49c38822083ba931b0d/10b8b/images/post-images/modes-of-control.jpg">
+</details>
 
 
 # Part IV: The Players
@@ -278,7 +281,11 @@
 *Summary: A manager is the coach of the team, and your job is to elicit peak individual performance through **training** and **motivation**. Using Maslow's Hierarchy as a motivational framework, your goal is to motivate for self-actualization creating no limit to performance.*
 
 - A manager's role is to elicit peak individual performance ("personal best") through **training** and **motivation**
-  - <p style="text-align:center;"><img src="https://ersin-yilmaz.com/content/images/2020/07/motivation_and_training.jpg" width="50%" height="50%"></p>
+<details>
+	<summary><i>Image</i></summary>
+	<img src="https://ersin-yilmaz.com/content/images/2020/07/motivation_and_training.jpg">
+</details>
+
   - Motivation comes from within: the manager must create an environment where motivated people can flourish
   - Motivation can only be measured through relative *output* at a given skill level
 - Refer to **Maslow's Hierarchy of Needs** 
