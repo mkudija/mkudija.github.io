@@ -10,7 +10,7 @@ I tend to be rather methodical in my reading of books, and I treat it as a discr
 
 Books are just containers for ideas, and it is the ideas that matter much more than the containers we pass them around in. Reading this has challenged me to change my mental model for "reading" from a linear march of completion to a cyclical process that is perpetually active for every book I have ever heard of.
 
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/2021-06-01_reading-process.png" width="50%" height="50%"></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/2021-06-01_reading-process.png" width="100%" height="100%"></p>
 
 I can't let the goal of "reading" get in the way of spending some time with a book to get to know it and place it alongside other books in the collective library. My notes will transform into more "evergreen" notes for books that are started as early in the process as possible and record thoughts throughout the journey. I don't have use for cheeky premise of this book to handle delicate social situations surrounding books, but it has certainly transformed my relationship to books and reading.
 
@@ -109,10 +109,12 @@ I can't let the goal of "reading" get in the way of spending some time with a bo
 ---
 
 **Books**
+
 - *Essays* of Montaigne
 - *The Name of the Rose* by Umberto Eco
 - *Hamlet*
 - Film: *Groundhog Day*
 
 **New words**
+
 - **Metonymy**: *A figure of speech in which one word or phrase is substituted for another with which it is closely associated, as in the use of Washington for the United States government or of the sword for military power.*
