@@ -157,6 +157,7 @@
 ## Chapter 17:
 ***Summary**: *
 
+>Parenting is much more about the child than about the parent. (250)
 
 
 ## Chapter 18:
