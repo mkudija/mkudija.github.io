@@ -5,6 +5,33 @@
 
 `Notes Started: 2021-07-03`
 
+## Faith and Knowledge
+- Auguste Compte: "man can live without God, but he cannot live without religion" (14)
+- “The days in which we live are very much characterized by a yearning for faith: the world of planned economy, of research, of exact calculation and experiment is quite obviously not enough to satisfy people.” (25-26)
+- [[Scientism]]: "The renunciation of truth itself and a reliance upon what is verifiable and upon the correctness of methods are typical of the modern natural scientific outlook. Man now operates only within his own shell...it has made him the prisoner of his own methods, of himself." (27)
+- "Christian faith is not: I believe something, but I believe *you*." (30)
+- we don’t need to know everything, faith is trust in Christ (33)
+
+## Faith and Existence
+- Faith cannot be represented abstractly, but only viewed through the lives of the saints (36)
+- "Faith is essentially related to the future, it is a promise" (42)
+- "Just as God comes to men only through men, so men come to one another only through God" (44)
+- "Man has been made so that he cannot live without a future." (49)
+- Faith in Christ is a continuation of the faith of Abraham (culminates on 52)
+- “Faith in the risen Christ, in the God who gives life beyond death, creates responsibility, gives substance to the present, because it then falls under the measure of the eternal.” (55)
+- We need a future beyond death but we also can’t bear the thought: we need Christ’s forgiveness (59)
+- This leaves us with a description of **[[Faith]]**: **"It is not a system of semi-knowledge, but an existential decision—it is life in terms of the future that God grants us, even beyond the frontier of death. This is the attitude and orientation that gives life its weights and measures, its ordinances, and its very freedom. Certainly a life lived by faith resembles more an expedition up a mountain than a quiet evening spent reading in front of the fire; but anyone who embarks upon this expedition knows and experiences more and more that the adventure to which it invites us is worthwhile."** (60)
+
+## Faith and Philosophy
+- The challenge for faith is that “philosophy no longer exists—only philosophies” (62)
+- Ratziner gives a history of modern theology through Schleiermacher (63), Barth (67)
+- "There is no longer a common philosophical certainty, unless it be the certainty, shared by all modern philosophies, that there is no certainty beyond the sphere of the exact sciences (73, c.f. *[[2020-11-18-After Virtue#Ch 1 - A Disquieting Suggestion|After Virtue]]*)
+- The distraction of modern philosophy as a symptom of the attempt to be exact like the physical sciences (75)
+- Marx: man creates truth (77)
+- "Philosophical thought...will always have something to do with faith." (83)
+
+## The Future of the World Through the Hope of Men
+- "The road to the moon is easier to find than the road to man himself", i.e. the human is more challenging than the technical (94)
 
 ## What Will the Future Church Look Like?
 - [[Forecasting]]: "What Saint Augustine said is still true: may is an abyss; what will rise out of these depths no one can see in advance." (102)
@@ -20,3 +47,16 @@
 - "From the crisis of today the Church of tomorrow will emerge—a Church that has lost much. She will become small and will have to start afresh more or less from the beginning. She will no longer be able to inhabit many of the edifices she built in prosperity. As the number of her adherents diminishes, so will she lose many of her social privileges...As a small society, she will make much bigger demands on the initiative of her individual members." (116)
 - "Men in a totally planned world will find themselves unspeakably lonely. If they have completely lost sight of God, they will feel the whole horror of their poverty. Then they will discover the little flock of believers as something wholly new. They will discover it as a hope that is meant from them, and answer for which they have always been searching in secret." (118)
 - "And so it seems certain to me that the Church is facing very hard times. The real crisis has scarcely begun. We will have to count on terrific upheavals. But I am equally certain about what will remain at the end: not the Church of the political cult...but the Church of faith. She may well no longer be the dominant social power to the extent that she was until recently; but she will enjoy a fresh blossoming and be seen as man's home, where he will find life and hope beyond death." (118)
+
+
+
+
+--- 
+
+**Bibliography**
+
+- *The Drama of Atheist Humanism* by Henri de Lubac (14)
+- *Introduction to Christianity* by Joseph Ratzinger (34)
+- 
+
+**New Words**
