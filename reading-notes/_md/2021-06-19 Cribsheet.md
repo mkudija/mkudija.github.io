@@ -95,96 +95,88 @@
 
 
 ## Chapter 6: Sleep Position and Location
-***Summary**: *
+***Summary**: Sleeping on their back lowers the risk of SIDS. Co-sleeping is slightly more dangerous, but much more dangerous if you smoke or drink. Sleeping on a sofa with an infant is very dangerous.*
 
 - Thinking about sleep risks (i.e. SIDS) (113):
 	- Put sleep risks in the context of risks that we implicitly accept every day (i.e. driving)
 	- Recognize that sleep choices have real quality-of-life impacts
 
 
-## Chapter 7:
-***Summary**: *
+## Chapter 7: Sleep Schedule
+***Summary**: There is a lot of variability in infant sleep, but this chapter gives some details.*
 
 
 
-## Chapter 8:
-***Summary**: *
+## Chapter 8: Vaccination
+***Summary**: Vaccination is safe and prevent disease.*
 
 
 
-## Chapter 9:
-***Summary**: *
+## Chapter 9: Working Mom
+***Summary**: Evidence shows that mom taking maternity leave benefits babies in the short term; the long-term decision should weigh what is best for baby, mom, and family.*
 
 
 
-## Chapter 10:
-***Summary**: *
+## Chapter 10: Childcare
+***Summary**: Parenting quality swamps childcare choice in its importance.*
 
 
 
-## Chapter 11:
-***Summary**: *
+## Chapter 11: Sleep Training
+***Summary**: Cry-it-out methods are effective, but the most important thing is consistency.*
 
 
 
-## Chapter 12:
-***Summary**: *
+## Chapter 12: Solid Food
+***Summary**: Early exposure to allergens reduces food allergies. Kids get used to flavors over time. Vitamin D supplementation is reasonable.*
 
 
 # From Baby to Toddler
 
-## Chapter 13:
-***Summary**: *
+## Chapter 13: Physical Milestones
+***Summary**: Don't forget that there is a distribution behind every milestone, i.e. the average baby rolls over by 9 months.*
 
 
 
 ## Chapter 14: Screentime
-***Summary**: *
-- There isn't much (good) data on the impact of screentime...so be **Bayesian** in your decision-making
+***Summary**: Before age 2 a child cannot learn from TV, but they can after that. Be Bayesian in your decisions making about screentime.*
+
+- There isn't much (good) data on the impact of screentime...so be **Bayesian** in your decision-making and start with logical parameters and update with new information as it is available.
 
 
 
-## Chapter 15:
-***Summary**: *
+## Chapter 15: Language Development
+***Summary**: Girls develop language faster than boys, with wide variability between children.*
+
+- see "Size of Productive Vocabulary" charts on 232-234
+
+
+## Chapter 16: Potty Training
+***Summary**: Starting earlier takes longer...*
 
 
 
-## Chapter 16:
-***Summary**: *
-
-
-
-## Chapter 17:
-***Summary**: *
+## Chapter 17: Toddler Discipline
+***Summary**: Focus on consistency and avoiding parental anger. Don't deliver corporal punishment.*
 
 >Parenting is much more about the child than about the parent. (250)
 
 
-## Chapter 18:
-***Summary**: *
+## Chapter 18: Education
+***Summary**: Read to your kids. There is limited evidence on the value of different preschool philosophies.*
 
 
 # The Home Front
 
-## Chapter 19:
-***Summary**: *
+## Chapter 19: Internal Politics
+***Summary**: Marital satisfaction tends to decline after children—don't forget to focus on your spouse.*
 
 
 
-## Chapter 20:
-***Summary**: *
+## Chapter 20: More Children
+***Summary**: "The data doesn't provide much guidance about the ideal number of children or birth interval between them."*
 
 
 
-## Chapter 21:
-***Summary**: *
-
-
-
-
---- 
-
-**Bibliography**
-
-
-**New Words**
+## Chapter 21: Growing up and Letting Go
+***Summary**: "Little kids mean mostly little problems." As your kids get older the problems are fewer, more important, and increasingly outside the realm of empirical analysis. Use the data where it is helpful, and otherwise don't worry about it.*
