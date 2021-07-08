@@ -170,10 +170,11 @@ This website is inspired by a number of others, including those below:
 - [Ben Hamilton](https://ben.hamilton.id.au/tools/)
 - [Ian Whitestone](https://ianwhitestone.work/about/)
 - [Koen Vangilst](https://koenvangilst.nl/)
+- [gwern.net](https://www.gwern.net/Design)
 
 
 # Other Sites I've Built*
-*Built as in put together from a lot of other people's work and a little fiddling myself
+*Built as in put together from a lot of other people's work and a little fiddling myself*
 - [tappertoolco.com](http://tappertoolco.com/)
 - [kudijakitchen.com](http://kudijakitchen.com/)
 - [minatronic.com](http://minatronic.com/)
