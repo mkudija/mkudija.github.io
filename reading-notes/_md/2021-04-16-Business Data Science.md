@@ -87,7 +87,7 @@
 *Code for this chapter is [here](https://github.com/mkudija/taddy-business-data-science/tree/main/02-regression).*
 
 ## Chapter 3: Regularization
-*Summary: **Regularization** allows us to develop candidate models and select the best model for OOS performance. We add a penalty term and then minimize the penalized deviance. A common penalty construction is the Lasso. Then we can select the optimal penalty weight—$\lambda$—using **cross validation** or **information criteria** as our model selection process. Finally, we can approximate the uncertainty of such a model using a **parametric bootstrap** or **subsampling**.*
+*Summary: **Regularization** allows us to develop candidate models and select the best model for OOS performance. We add a penalty term and then minimize the penalized deviance; a common penalty construction is the **Lasso**. Then we can select the optimal penalty weight—$\lambda$—using **cross validation** or **information criteria** as our model selection process. Finally, we can approximate the uncertainty of such a model using a **parametric bootstrap** or **subsampling**.*
 
 - **Regularization** context: provides a framework when working with high-dimensional data to develop *candidate models* and then *select* the best model to minimize error on out-of-sample data (needed to avoid *overfit*)
   - Regularization penalizes model complexity to stabilize the system, minimizes *penalized* deviance

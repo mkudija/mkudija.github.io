@@ -1,15 +1,7 @@
 
 # [*A Hobbit, a Wardrobe, and a Great War: How J.R.R. Tolkien and C.S. Lewis Rediscovered Faith, Friendship, and Heroism in the Cataclysm of 1914-1918*](https://www.amazon.com/Hobbit-Wardrobe-Great-War-Rediscovered/dp/0718091450/ref=sr_1_1?keywords=A+Hobbit%2C+a+Wardrobe%2C+and+a+Great+War%3A+How+J.R.R.+Tolkien+and+C.S.+Lewis+Rediscovered+Faith%2C+Friendship%2C+and+Heroism+in+the+Cataclysm+of+1914-1918&qid=1578187816&sr=8-1) by Joseph Loconte
 
-(Nashville: Nelson Books, 2015), 196
-
-Books mentioned:
-- *The Father of us All* by Victor Davis Hanson (xvii)
-- *Empire: The Rise and Demise of the British World Order* by Niall Ferguson
-- *The World Crisis* by Winston Churchill
-- *J.R.R. Tolkien: A Biography* by Humphrey Carpenter
-- *The Thirty Years War: Europe's Tragedy* by Peter Wilson (28)
-- *Phantastes: A Faerie Romance* by George MacDonald (82)
+`(Nashville: Nelson Books, 2015), 196`
 
 
 - "Democratic citizenship requires knowledge of war." (xvii)
@@ -34,3 +26,16 @@ Books mentioned:
 - I've had a similar thought before as Lewis talking about his space trilogy: "If only there were someone with a richer talent and more leisure, I believe this great ignorance might be a help to the evangelization of England. Any amount of theology can now be smuggled into people's minds under cover of romance without their knowing it." (135)
 - "The great achievement of Tolkien and Lewis is the creation of mythic and heroic figures who nevertheless make a claim upon our concrete and ordinary lives....It is their *moral imagination* that exerts a unique power: the proposition that every person is caught up in an epic contest between Light and Darkness." (138-139)
 - Lewis: "Is any pleasure on earth as great as a circle of Christian friends by a good fire?" (179)
+
+
+--- 
+
+**Bibliography**
+
+- *The Father of us All* by Victor Davis Hanson (xvii)
+- *Empire: The Rise and Demise of the British World Order* by Niall Ferguson
+- *The World Crisis* by Winston Churchill
+- *J.R.R. Tolkien: A Biography* by Humphrey Carpenter
+- *The Thirty Years War: Europe's Tragedy* by Peter Wilson (28)
+- *Phantastes: A Faerie Romance* by George MacDonald (82)
+
