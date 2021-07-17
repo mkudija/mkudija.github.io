@@ -6,6 +6,14 @@ The content of this website itself is licensed under the [Creative Commons Attri
 
 See more on my [About](http://matthewkudija.com/about.html) page.
 
+# Build
+
+```
+$ cd Documents/GitHub/mkudija.github.io/
+$ make build
+```
+
+
 # How It's Made
 
 ## 1. Set Up GitHub Pages
