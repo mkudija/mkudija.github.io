@@ -1,7 +1,7 @@
 
 # [*Prayer for Beginners*](https://www.amazon.com/Prayer-Beginners-Peter-Kreeft/dp/0898707757/ref=sr_1_1?dchild=1&keywords=prayer+for+beginners&qid=1612547103&sr=8-1) by Peter Kreeft
 
-(San Francisco: Ignatius, 2019), 130
+`(San Francisco: Ignatius, 2019), 130`
 
 
 This is a short little book but—as with most of Kreeft's writing—so deep and thought provoking. It served as good travel reading on our month-long trip to California and morning reading since then. Having read Brother Lawrence a couple of years ago this made me remember how great his thoughts are and want to revisit them as well.
