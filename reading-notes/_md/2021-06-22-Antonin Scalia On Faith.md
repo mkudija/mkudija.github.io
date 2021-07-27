@@ -16,7 +16,7 @@
 	1. A Christian nation
 	2. A Judeo-Christian nation in which monotheistic religion in general was favored, though no particular denomination
 	3. A secular nation
-- His history final exam (49-50):
+- His history final exam (49-50) (cf *[[2021-07-20-Witness to Hope]]* 743):
 >One of the best lessons I learned was in the course of my oral comprehensive exam in my major subject, history, at the end of senior year. I had done pretty darned well during all of the questioning, and at the end my history professor, Dr. Wilkinson, to whom I am ever indebted, asked me one last, seemingly softball question: **if I had to pick a single even as the most significant in all the history I had studied, what would it be?** I say it was a softball question because there obviously could not be any single correct answer. So I groped for what might be a good one. What should I say? The Battle of Thermopylae? No, the Battle of Lepanto. No, the French Revolution. No, the Grand Convention of 1787. I forget what answer I have, but it was wrong. **The right one, Dr. Wilkinson informed me, was the Incarnation**. Well, of course. Point taken, and an unforgettable lesson learned.
 - Retreat: "If you don't have a weekend to spare once a year to think exclusively about the things that really matter—well, you haven't planned your life correctly." (56)
 - A recurring theme is the importance of religious practice to the Founders, and the need for a religious foundation to society: **"Our Constitution was made only for a moral and religious people."** (182)

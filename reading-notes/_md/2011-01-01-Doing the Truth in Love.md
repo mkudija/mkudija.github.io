@@ -1,5 +1,5 @@
 
-# Doing the Truth in Love by Michael Himes
+# *Doing the Truth in Love* by Michael Himes
 
 * "Augustine speaks of restlessness of our hearts, which can only be satisfied by God.  Sometimes we might try to say that a single deep relationship makes us completely satisfied, though this is incomplete and will leave us restless and unsatisfied" (39).
 * "Evil is, by definition, what should not be.  So if you construct a system of the universe that adequately explains why evil exists within it, you have justified it, and then it is no longer evil.  Evil is always that which cannot be finally explained because it is what ought not to be.  Its being is self-contradictory" (70). --> what if this explanation is satisfactory?

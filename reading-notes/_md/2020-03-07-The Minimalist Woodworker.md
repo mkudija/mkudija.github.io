@@ -1,7 +1,7 @@
 
 # [*The Minimalist Woodworker*](https://www.amazon.com/Minimalist-Woodworker-Essential-Tools-Building/dp/1940611350/ref=sr_1_1?keywords=the+minimalist+woodworker&qid=1583632850&sr=8-1) by Vic Telolin
 
-(Nashville: Spring House, 2015), 151
+`(Nashville: Spring House, 2015), 151`
 
 
 ## Workspace essential

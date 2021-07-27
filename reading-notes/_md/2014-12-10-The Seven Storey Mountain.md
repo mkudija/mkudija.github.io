@@ -1,5 +1,5 @@
 
-# The Seven Storey Mountain by Thomas Merton
+# *The Seven Storey Mountain* by Thomas Merton
 
 * Chapter 2
     * Description at the beginning of chapter 2 how France possesses such a diversity and perfection of accomplishments, from bridge building to prayer to logic to theology

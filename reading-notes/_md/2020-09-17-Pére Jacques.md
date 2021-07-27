@@ -1,16 +1,8 @@
 
 # *Pére Jacques* by Michael Carrouges
 
-(New York: Macmillan, 1961), 269
+`(New York: Macmillan, 1961), 269`
 
-## Books
-- *Life of the Curé of Ars* (40)
-- Pascal's *Pensées* (81)
-- *Spiritual Canticle* of St. John of the Cross (89)
-- the works of St. Theresa (93)
-- 
-
-## Notes:
 - Pére Jacques' Father: "secretly said his rosary by counting the beads in his pocket on the way to work" (13)
 - "the monk has always excited the imagination of believers and unbelievers in an altogether special way: the monk cannot be a man who compromises" (13)
 - Pére Jacques' mother after he almost died: "My God I promised him to Thee. Thou hast left him to me longer than I could have hoped. Thy will be done!" (17)
@@ -40,3 +32,11 @@
 - "[I was] waiting for a smile of comfort to come from heaven. It was [Pére Jacques] who brought it." (219)
 - "When there is a flood of distress, there must be a flood of charity." (235)
 - "He is giving away the days of his life" quite literally with the food he gave away (240)
+
+---
+**Bibliography**
+
+- *Life of the Curé of Ars* (40)
+- Pascal's *Pensées* (81)
+- *Spiritual Canticle* of St. John of the Cross (89)
+- the works of St. Theresa of Ávila (93)

@@ -57,7 +57,7 @@ What you can do:
 - Make it clear you did not request a private room
 - Before signing financial documents, write in "as long as the providers are in my insurance network"
 - Ask if you are being admitted under "observation status"
-- Ask to know the identity of every person who appears at your bedside, what he or she is doing, nad who send him or her. Write it down. 
+- Ask to know the identity of every person who appears at your bedside, what he or she is doing, and who send him or her. Write it down. 
 - If the hospital tries to send you home with equipment you don't need, refuse it
 
 Dealing with bills:

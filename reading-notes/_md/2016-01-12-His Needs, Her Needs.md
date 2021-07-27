@@ -1,5 +1,5 @@
 
-# His Needs, Her Needs by Willard F. Harley, Jr.
+# *His Needs, Her Needs* by Willard F. Harley, Jr.
 
 * Her most important need is to be shown affection
 * His most important need is sex

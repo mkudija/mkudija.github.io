@@ -1,6 +1,6 @@
-# [*The Practice of the Presence of God*](https://www.amazon.com/dp/1557256942/?coliid=I1XWLZ7NSMB24I&colid=1NCFPXAATKNAZ&psc=0&ref_=lv_ov_lig_dp_it) by Brother Lawrence & Hal M. Helms (Editor), Robert J. Edmonson (Translator)
+# [*The Practice of the Presence of God*](https://www.amazon.com/dp/1557256942/?psc=0) by Brother Lawrence & Hal M. Helms (Editor), Robert J. Edmonson (Translator)
 
-(Brewster, MA: Paraclete, 2010), 127 (originally published 1693)
+`(Brewster, MA: Paraclete, 1693/2010), 127`
 
 
 ## Fourth Conversation
@@ -12,7 +12,7 @@
 
 ## First Letter
 
-- His prayer: “My God, here am I; I am entirely Yours; Lord, do with me according to Your heart.” (52)
+- His prayer: **“My God, here am I; I am entirely Yours; Lord, do with me according to Your heart.”** (52)
 
 
 ## Second letter
@@ -22,9 +22,9 @@
 
 ## Fifth letter
 
-- “I have left off all devotions and prayers that are not required for me, and I occupy myself solely with keeping myself in God’s holy presence. I do this simply by keeping my attention on God and by being generally and lovingly aware of Him. This could be called practicing the presence of God moment by moment, or to put it better, a silent, secret, and nearly unbroken conversation of the souls with God.” (63)
+- “I have left off all devotions and prayers that are not required for me, and I occupy myself solely with keeping myself in God’s holy presence. I do this simply by keeping my attention on God and by being generally and lovingly aware of Him. This could be called practicing the presence of God moment by moment, or to put it better, a silent, secret, and nearly unbroken conversation of the soul with God.” (63)
 
 
 ## Ninth letter
 
-- “One must be acquainted with a person before loving him. To be acquainted with God, one must think often about Him; and when we do love Him, we will also think very often about Him, for our heart is wheee our treasure is.” (74)
+- “One must be acquainted with a person before loving him. To be acquainted with God, one must think often about Him; and when we do love Him, we will also think very often about Him, for our heart is where our treasure is.” (74)

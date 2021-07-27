@@ -1,14 +1,14 @@
 # [*Start Your Own Corporation: Why the Rich Own Their Own Companies and Everyone Else Works for Them*](https://www.amazon.com/Start-Your-Own-Corporation-Companies/dp/1937832007/ref=sr_1_1?ie=UTF8&qid=1543451250&sr=8-1&keywords=start+your+own+corporation) by Garrett Sutton
 
-(Scottsdale: RDA, 2001), 250
+`(Scottsdale: RDA, 2001), 250`
 
-# General Notes
+## General Notes
 - Insurance is always your first line of defense. Limiting liability protects you in the worst case scenario.
 - Entity structure can help limit liability to protect personal assets and segregate assets in different businesses if you are sued and they are awarded a settlement
 - Your goal is to not be a "rich target" for lawyers coming after you: segregate assets in entities (perhaps in different states to create more hoops to jump through), encumber assets (with debt) to reduce equity at risk, and be diligent in following corporate formalities.
 
 
-# Chapter 1 - Entity Menu
+## Chapter 1 - Entity Menu
 - C-corporation
 - S-corporation
 - Limited LIability Company (LLC)
@@ -24,7 +24,7 @@
   - audit risk
   - no limited liability
 
-# Chapter 2 - Good Entities
+## Chapter 2 - Good Entities
 
 **Good Entities** (14)
 
@@ -68,30 +68,30 @@
 | *Taxation of business profits*                   | Corporate profits taxed at corporate rates; dividends taxed at individual rates | Individual rates, some deductions allowed for many pass through entities                          | Individual rates unless elects corporate taxation                                | Individual rates                                                                                       | Individual rates                                       | Individual rate                   |
 
 
-# Chapter 3 - Corporation of LLC?
+## Chapter 3 - Corporation of LLC?
 - S-Corp allows you to pay salary (with payroll taxes) and then flow through rest of distribution, so makes sense when you have large distributions
 
-# Chapter 4 - Nevada/Wyoming 
+## Chapter 4 - Nevada/Wyoming 
 - use a Nevada/Wyoming corporation to provide services to your in state corporation to move proceeds to a no-tax state or make a loan to encumber assets 
 
-# Chapter 5 - Charging Orders
+## Chapter 5 - Charging Orders
 - A charging order is a lein, or right to receive distributions. Because they don't have control, you can limit distributions and make them wait for money. This makes you a weaker target. (77)
 - you may want to add a second LLC member to protect charging order status if needed
 
-# Chapter 6 - Crossing State Lines
+## Chapter 6 - Crossing State Lines
 - keep your corporation alive for as long as possible, and instead of actually closing it just stop paying the annual tax 
 
-# Chapter 7 - Benefit Corporations
+## Chapter 7 - Benefit Corporations
 - Benefit corporations allow you to operate with additional considerations instead of just fiduciary responsibility to maximize profits for shareholders
 
-# Chapter 8 - Professional Corporations
+## Chapter 8 - Professional Corporations
 - professional corporations do not protect against claims of malpractice
 
-# Chapter 9 - Organizing Steps
+## Chapter 9 - Organizing Steps
 - Articles of incorporation, operating agreement, etc.
 - organize with a stable resident agent to be sure they will be around to notify you if you ever get sued
 
-# Chapter 10 - The Importance of Corporate Formalities
+## Chapter 10 - The Importance of Corporate Formalities
 - corporate formalities protect against an accusation that the corporation is just an extension of yourself:
   - annual filings
   - minutes of meetings
@@ -99,29 +99,29 @@
   - separate bank account
   - separate tax returns
  
-# Chapter 11 - Business Tax Deductions
+## Chapter 11 - Business Tax Deductions
 - consult CPA and IRS Publication 334 "Tax Guide for Small Businesses"
  
-# Chapter 12 - Building Corporate Credit
+## Chapter 12 - Building Corporate Credit
  
-# Chapter 13 - Insurance
+## Chapter 13 - Insurance
  
-# Chapter 14 - Joint Ventures 
+## Chapter 14 - Joint Ventures 
 
-# Chapter 15 - Raising Money
+## Chapter 15 - Raising Money
  
-# Chapter 16 - Voting Trusts
+## Chapter 16 - Voting Trusts
  
-# Chapter 17 - Know Your Directors/Officers
+## Chapter 17 - Know Your Directors/Officers
 - even if just you running your corporation you have duties to follow
  
-# Chapter 18 - Buy-Sell Agreement
+## Chapter 18 - Buy-Sell Agreement
  
-# Chapter 19 - Protecting from Scams
+## Chapter 19 - Protecting from Scams
  
-# Chapter 20 - What Happens at the End
+## Chapter 20 - What Happens at the End
  
-# Chapter 21 - Seven Steps to Achieve Limited Liability
+## Chapter 21 - Seven Steps to Achieve Limited Liability
 1. Form a limited liability entity
 2. Use a reliable resident agent
 3. Perform required annual filings

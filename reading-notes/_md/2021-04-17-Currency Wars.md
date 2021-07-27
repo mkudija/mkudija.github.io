@@ -1,9 +1,9 @@
 
 # [*Currency Wars: The Making of the Next Global Crisis*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564/ref=sr_1_1?dchild=1&keywords=currency+wars&qid=1618655957&sr=8-1) by James Rickards
 
-(New York: Penguin, 2011), 288
+`(New York: Penguin, 2011), 288`
 
-[Chad Arroyo](https://www.linkedin.com/in/chadarroyo/) recommended this when I asked him for Bitcoin reading material, and it was an eye-opening read. The history of monetary policy is a bit more detailed but draws the same conclusion as that in *The Bitcoin Standard*: soft money is dangerous. This book is a call to action since two of the four end scenarios he forecasts are unlikely (return to gold standard or global SDR currency), one just prolongs the problem (multiple global reserve currencies), and the other is descent into chaos of some form.
+[Chad Arroyo](https://www.linkedin.com/in/chadarroyo/) recommended this when I asked him for Bitcoin reading material, and it was an eye-opening read. The history of monetary policy is a bit more detailed but draws the same conclusion as that in *[[2021-03-14-The Bitcoin Standard|The Bitcoin Standard]]*: soft money is dangerous. This book is a call to action since two of the four end scenarios he forecasts are unlikely (return to gold standard or global SDR currency), one just prolongs the problem (multiple global reserve currencies), and the other is a descent into chaos.
 
 
 # Part I: War Games

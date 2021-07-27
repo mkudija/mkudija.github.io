@@ -1,4 +1,4 @@
-*Biostatistics for Dummies* by John C. Pezzullo, PhD
+# *Biostatistics for Dummies* by John C. Pezzullo, PhD
 
 I want to read this book for a couple of reasons:
 1. Some of this is relevant to work
@@ -10,7 +10,7 @@ I want to read this book for a couple of reasons:
 Biostats is the practical application of statistics to biology. Author chose topics based on a survey of popular topics covered in graduate-level biostats courses, with a focus on clinical research. 
 
 
-# Biostatistics Basics
+## Biostatistics Basics
 Chapter 1: Biostats 101
 *skimmed*
 
@@ -59,7 +59,7 @@ PK/PD Studies
 - PK: *pharmacokinetics* is the study of how fast and how completely the drug is absorbed into the body, how it is distributed in the body, to what extent it is metabolized, and how quickly it is excreted (what the body does to the drug)
 - PD: *pharmacodynamics* is the relationship between the concentration of the drug and the effects on the body (what the drug does to the body)
 
-# Data
+## Data
 Chapter 7: Data to Computer
 
 Types of data:
@@ -93,7 +93,7 @@ Chapter 11: Fuzzy In, Fuzzy Out
 *skimmed*
 - discussion of error propagation and formulas 
 
-# Comparing Groups
+## Comparing Groups
 Chapter 12: Comparing Averages Between Groups
 A number of different tests are available to compare averages between groups, based on the number of comparisons, assumptions about the underlying data, etc. Use this section to find a test appropriate to your situation. Examples include student t-test, ANOVA, ANCOVA, etc. 
 
@@ -110,7 +110,7 @@ Chapter 16: Noninferior
 
 Show that things are not different (bioequivalence,, theraputic noninferiority, or absence of harmful effects). Tools include significance tests and confidence intervals.
 
-# Correlation and Regression
+## Correlation and Regression
 Chapter 17: Correlation and Regression
 Pearson correlation coefficient (r) measures correlation (straight line when plotted). 
 
@@ -122,7 +122,7 @@ Chapter 18: Straight-Line Regression
 
 To fit, we solve SSQ = (a + bX - Y)^2 by setting the partial derivatives of SSQ with respect to a and b equal to 0.
 
-r^2: coefficient of determination, what percent of the total variability in the dependent variable is explained by the model
+$R^2$: coefficient of determination, what percent of the total variability in the dependent variable is explained by the model
 
 Chapter 19: Multiple Regression
 - create a scatter chart matrix ([Python Example here](https://seaborn.pydata.org/generated/seaborn.pairplot.html)) to view your data beforehand to evaluate appropriatness of MLR

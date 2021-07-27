@@ -116,6 +116,6 @@
 
 ## Chapter 13 - John Paul II
 - Karol Wojtyla's dad's example "was in a way my first seminary, a kind of domestic seminary" (169)
-  - this quote, and many others in this section come from Wigel's *Witness to Hope*
+  - this quote, and many others in this section come from Wigel's *[[2021-07-20-Witness to Hope|Witness to Hope]]*
 - From his poem [*Material*](https://www.pbs.org/wgbh/pages/frontline/shows/pope/poems/): "The whole greatness of this work dwells inside a man." --> we can find meaning even in awful work
 - every morning after mass and breakfast, he wrote for two hours alone in his chapel (171)

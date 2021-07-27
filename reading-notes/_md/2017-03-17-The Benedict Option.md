@@ -1,8 +1,8 @@
 
-# The Benedict Option: A Strategy for Christians in a Post-Christian Nation by Rod Dreher
+# *The Benedict Option: A Strategy for Christians in a Post-Christian Nation* by Rod Dreher
 
 * Introduction - The Awakening
-    * from his previous book: Alasdair MacIntyre, who declared that Western civilization had lost its moorings. The time was coming, said MacIntyre, when men and women of virtue would understand that continued full participation in mainstream society was not possible for those who wanted to live a life of traditional virtue. These people would find new ways to live in community, he said, just as Saint Benedict, the sixth-century father of Western monasticism, responded to the collapse of Roman civilization by founding a monastic order. LOCATION: 61
+    * from his previous book: Alasdair MacIntyre, who declared that Western civilization had lost its moorings. The time was coming, said MacIntyre, when men and women of virtue would understand that continued full participation in mainstream society was not possible for those who wanted to live a life of traditional virtue. These people would find new ways to live in community, he said, just as Saint Benedict, the sixth-century father of Western monasticism, responded to the collapse of Roman civilization by founding a monastic order. LOCATION: 61 (cf [[2020-11-18-After Virtue#Ch 18 - After Virtue Nietzsche or Aristotle Trotsky and St Benedict]])
     * The cultural left—which is to say, increasingly the American mainstream—has no intention of living in postwar peace. It is pressing forward with a harsh, relentless occupation, one that is aided by the cluelessness of Christians who don’t understand what’s happening. LOCATION: 83...Donald Trump has at best given us a bit more time to prepare for the inevitable. LOCATION: 85
     * we are going to have to be the church, without compromise, no matter what it costs. LOCATION: 89
     * Book outline: 
