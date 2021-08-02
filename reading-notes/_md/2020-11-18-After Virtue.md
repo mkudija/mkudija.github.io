@@ -1,23 +1,13 @@
 # [*After Virtue: A Study in Moral Theory*](https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040/ref=sr_1_1?dchild=1&keywords=after+virtue&qid=1605726855&sr=8-1) by Alasdair MacIntyre
 
-(Notre Dame: University of Notre Dame Press, 1981), 278
-
-|                     |                  |
-|---                  |---               |
-|Pages                |278               |
-|Published            |1982              |
-|Originally Published |1981              |
-|Publisher            |University of Notre Dame Press|
-|Edition              |2nd               |
-
----
+`(Notre Dame: University of Notre Dame Press, 1981/1982 [2nd Edition]), 278`
 
 
-I first read *After Virtue* in a Morality & Modernity course taught by David Solomon at Notre Dame in the spring of 2011 to fulfill my second philosophy requirement. I enjoyed and [undeservedly] did well in the course without my mind in any way ready to really absorb MacIntyre's thought. I'm embarrassed to admit that after the course I sold the texts for the class, including *After Virtue*. I only bought a replacement copy a couple of years ago after other authors helped me see the full importance of what was wasted on me in my youth. Or perhaps not wasted, but simply a seed planted that has taken some time to germinate. I dug back in after reading Archbishop Chaput and am grateful for this reintroduction.
+I first read *After Virtue* in a Morality & Modernity course taught by David Solomon at Notre Dame in the spring of 2011 to fulfill my second philosophy requirement. I enjoyed and [undeservedly] did well in the course without my mind in any way ready to really absorb MacIntyre's thought. I'm embarrassed to admit that after the course I sold the texts we read—including *After Virtue*—thinking I was done with them. I only bought a replacement copy a couple of years ago after other authors helped me see the full importance of what was wasted on me in my youth. Or perhaps not wasted, but simply a seed planted that has taken some time to germinate. I dug back in after reading Archbishop Chaput and am grateful for this reintroduction.
 
 It's important to note that *After Virtue* is a first statement of the problem and a sketch of a possible solution but not the complete argument. MacIntyre says as much in the postscript to the Second Edition and prologue to the Third Edition, and the argument is further developed in his subsequent books which I plan to dive into eventually. 
 
-*After Virtue* starts by observing the problem that modern moral arguments are irreconcilable in nature and shrill in tone. MacIntyre argues that this is the result of the failure of the enlightenment project of justifying morality by removing the teleological end man moves toward. This leaves us with an *emotivist* approach to questions of morality where the answer is all a matter of preference. People and traditions clearly have different preferences, so this leaves us deadlocked. MacIntyre argues that the path forward is a rearticulation of the classical Aristotelian and Thomistic Virtues that recognize the unity of human life and a sense of history and culture. He concludes with a haunting comparison between our society and the Roman society at the Dark Ages and suggests that our hope rests in the emergence of a "new St. Benedict" and the formation of local communities where the virtues can be practiced in spite of the barbarians who now rule us.
+*After Virtue* starts by observing the problem that modern moral arguments are irreconcilable in nature and shrill in tone. MacIntyre argues that this is the result of the failure of the enlightenment project of justifying morality by removing man's teleological end. This leaves us with an *emotivist* approach to questions of morality where the answer is all a matter of preference. People and traditions clearly have different preferences, so this leaves us deadlocked. MacIntyre argues that the path forward is a rearticulation of the classical Aristotelian and Thomistic Virtues that recognize the unity of human life and a sense of history and culture. He concludes with a haunting comparison between our society and the Roman society at the Dark Ages and suggests that our hope rests in the emergence of a "new St. Benedict" and the formation of local communities where the virtues can be practiced in spite of the barbarians who now rule us.
 
 
 
@@ -292,7 +282,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 - MacIntyre anticipates a rebuttal as saying it is "liberal individualism" vs "*Marxism*" and proceeds to disagree; instead he sees "no tolerable alternative set of political and economic structures which could be brought into place to replace the structures of advanced capitalism" (261-262)
 - MacIntyre's closing paragraph (263)
 
-> It is always dangerous to draw too precise parallels between one historical period and anther; and among the most misleading of such parallels are those which have been drawn between our own age in Europe and North America and the epoch in which the Roman empire declined into the Dark Ages. Nonetheless certain parallels there are. A crucial turning point int hat earlier history occurred when men and women of good will turned aside from the task of shoring up the Roman *imperium* and ceased to identify the continuation of civility and moral community with the maintenance of the *imperium*. What they set themselves to achieve instead—often not recognizing fully what they were doing—was the construction of new forms of community within which the moral life could be sustained so that both morality and civility might survive the coming ages of barbarism and darkness. If my account of our moral condition is correct, we ought also to conclude that for some time now we too have reached that turning point. **What matters at this stage is the construction of local forms of community within which civility and the intellectual and moral life can be sustained through the new dark ages which are already upon us.** And if the tradition of the virtues was able to survive the horrors of the last dark ages, we are not entirely without grounds for hope. This time however the barbarians are not waiting beyond the frontiers; they have already been governing us for quite some time. And it is our lack of consciousness of this that constitutes part of our predicament. **We are waiting not for a Godot, but for another—doubtless very different—St. Benedict.**
+> It is always dangerous to draw too precise parallels between one historical period and anther; and among the most misleading of such parallels are those which have been drawn between our own age in Europe and North America and the epoch in which the Roman empire declined into the Dark Ages. Nonetheless certain parallels there are. A crucial turning point in that earlier history occurred when men and women of good will turned aside from the task of shoring up the Roman *imperium* and ceased to identify the continuation of civility and moral community with the maintenance of the *imperium*. What they set themselves to achieve instead—often not recognizing fully what they were doing—was the construction of new forms of community within which the moral life could be sustained so that both morality and civility might survive the coming ages of barbarism and darkness. If my account of our moral condition is correct, we ought also to conclude that for some time now we too have reached that turning point. **What matters at this stage is the construction of local forms of community within which civility and the intellectual and moral life can be sustained through the new dark ages which are already upon us.** And if the tradition of the virtues was able to survive the horrors of the last dark ages, we are not entirely without grounds for hope. This time however the barbarians are not waiting beyond the frontiers; they have already been governing us for quite some time. And it is our lack of consciousness of this that constitutes part of our predicament. **We are waiting not for a Godot, but for another—doubtless very different—St. Benedict.**
 
 
 ## Ch 19 - Postscript to the Second Edition
@@ -311,6 +301,8 @@ It's important to note that *After Virtue* is a first statement of the problem a
 - xii+: situatedness is important but not relativistic, resolves on xi
 - xiii: to respond to rival arguments/traditions you first need to fully understand the position of those arguments/traditions
 
+---
 
-## New Words
-- solipsism: The theory that the self is the only thing that can be known and verified (258)
+**New Words**
+
+- *solipsism*: The theory that the self is the only thing that can be known and verified (258)

@@ -1,5 +1,5 @@
 
-# The Four Loves by CS Lewis
+# *The Four Loves* by CS Lewis
 
 The four loves:
     1. Affection

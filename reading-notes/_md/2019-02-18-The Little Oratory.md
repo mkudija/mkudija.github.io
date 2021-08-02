@@ -1,13 +1,13 @@
 # [*The Little Oratory: A Beginner's Guide to Praying in the Home*](https://www.amazon.com/Little-Oratory-Beginners-Guide-Praying-ebook/dp/B00JQUCLUW/ref=sr_1_1?ie=UTF8&qid=1550524798&sr=8-1&keywords=the+little+oratory) by David Clayton & Leila Lawler
 
-(Manchester: Sophia, 2014), 186
+`(Manchester: Sophia, 2014), 186`
 
 ## Chapter 1 - The Christian Life
 - "The good life is the liturgical life." (9)
 
 ## Chapter 2 - The Family and the Home
 - The home is the *school of virtue* and a *domestic church* (16)
-- "The habit of praying with visual imagery will develop our instict for what is beautiful" (20)
+- "The habit of praying with visual imagery will develop our instict for what is beautiful" (20) ^f79b10
 - Some aspects for a home altar: image of Christ at the center, facing east, symmetry, candles (28-29)
 
 ## Chapter 3 - Making the Little Oratory in the Home
@@ -15,7 +15,7 @@
 - demonstrate kneeling for your children and they will follow along (46)
 
 ## Chapter 4 - The Liturgical Year
-- "If you put Sunday worship and Sunday rest first, all will be added unto you. You will finally understand life and your place in it. You will see your way clear to solutions to problems that have seemed intractable, or you will will be content wit hthe way things are, depending on what God's will for you is—which you will grasp." (52)
+- "If you put Sunday worship and Sunday rest first, all will be added unto you. You will finally understand life and your place in it. You will see your way clear to solutions to problems that have seemed intractable, or you will will be content with the way things are, depending on what God's will for you is—which you will grasp." (52)
 - the liturgical year is the best way to teach the faith to children (53)
 
 ## Chapter 5 - Learning to Pray with a Breviary
@@ -81,7 +81,3 @@
 - "Our pattern of prayer will govern the pattern of our lives" (151)
 - Always ask the question, "Is this beautiful?" (160)
 - [Chant the Psalms](http://www.thewayofbeauty.org/psalm-tones)
-
-
-
-- 

@@ -1,6 +1,6 @@
 # *The Organized Mind: Thinking Straight in the Age of Information Overload* by Daniel J. Levitin
 
-(New York: Penguin, 2014), 396
+`(New York: Penguin, 2014), 396`
 
 
 **Fundamental Principle of Organization**: “shift the burden of organizing from our brains to the external world” (370)
@@ -32,7 +32,7 @@
   1. Define categories that are meaningful to you
   2. Avoid putting too many different things in the same category, unless a misc item
 - Organization rules:
-  1. A mislabeled item is worse than a not labeled otem
+  1. A mislabeled item is worse than a not labeled item
   2. If there is an existing standard, use it
   3. Don’t keep what you can’t use 
 - Digital home: Have a separate device (computer) dedicated to different activities, with different background, etc to make it recognizable 
@@ -109,7 +109,7 @@ Say we decide to take the test a second time (assuming that test results are ind
 
 
 ## Chapter 7 - Organizing the Business World 
-- Fundamental principle of this book: exterbalize memory 
+- Fundamental principle of this book: externalize memory 
 - Many great leaders are also great storytellers 
 - Internal locus of control: being in control of our lives, which promotes success, happiness, satisfaction 
 - Take 10 minutes after meeting or stopping project to write what happened or prep for starting the next time 
@@ -121,7 +121,7 @@ Say we decide to take the test a second time (assuming that test results are ind
 - Because information is so accessible on the internet, the purpose of education shifts partially to identifying experts and determining the credibility of information you find 
 - Think about numbers logically to see if they are plausible. Set boundary conditions 
 - Back of the envelope test: estimating the weight of the Empire State Building 
-- With kids: how many uses can you think of God a pencil? 
+- With kids: how many uses can you think of for a pencil? 
 
 
 ## Chapter 9 - The Power of the Junk Drawer

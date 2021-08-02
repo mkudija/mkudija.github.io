@@ -1,5 +1,5 @@
 
-# [*## My Sisters the Saints: A Spiritual Memoir*](https://www.amazon.com/My-Sisters-Saints-Spiritual-Memoir/dp/077043651X) by Colleen Carroll Campbell
+# [*My Sisters the Saints: A Spiritual Memoir*](https://www.amazon.com/My-Sisters-Saints-Spiritual-Memoir/dp/077043651X) by Colleen Carroll Campbell
 
 `(New York: Image, 2012), 214`
 

@@ -310,7 +310,7 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - a group of Catholic university presidents in the United States declared their independence from Church authority. (Location 10752) [i.e. Land-o-Lakes statement, Hesburgh]
 - Feminists, many of them male, were usually the angriest. (Location 10836)
 - innovative in the service of orthodoxy. (Location 10876)
-- The future pope’s doctoral dissertation on the mystical theology of St. John of the Cross integrated the latter’s Thomism with his phenomenological descriptions of the mystical state. (Location 10904)
+- The future pope’s ([[John Paul II]]) doctoral dissertation on the mystical theology of St. John of the Cross integrated the latter’s Thomism with his phenomenological descriptions of the mystical state. (Location 10904)
 - some Catholics were surprised to discover that they had more in common with Evangelicals than with liberal fellow Catholics. (Location 10959)
 - Under Ratzinger, the CDF began to act vigorously to correct questionable teachings, issuing official warnings against several theologians and in some cases ordering them to cease teaching and publishing. Although theologians sometimes complained that they were condemned without being understood, they were in fact being judged by a man whose intelligence and theological attainments were superior to their own. (Location 11117)
 - greater use of Latin as a vehicle of tradition and a unifying liturgical language; (Location 11121)
