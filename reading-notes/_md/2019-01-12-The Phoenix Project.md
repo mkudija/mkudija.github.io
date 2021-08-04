@@ -25,7 +25,7 @@
 - change management: "a change is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered" (81)
 - “A great team doesn’t mean that they had the smartest people. What made those teams great is that everyone trusted one another.” (184)
 - the interest on technical debt is unplanned work (195)
-- "In ten years, I'm certain every COO worth their salt will have come from IT. Any COO who doesn't intimately understand the IT systems that actually run the business is just an empty suit, relying on someone else to do their job." (332-333)
+- "In ten years, I'm certain every COO worth their salt will have come from IT. Any COO who doesn't intimately understand the IT systems that actually run the business is just an empty suit, relying on someone else to do their job." (332-333) ^461fa6
 - he gives an interesting definition of science: "The goal of science is to explain the largest amount of observed phenomenon with the fewest number of principles, and to reveal surprising insights." (366)
 - Recommended reading:
   - *The Goal* by Eliyahu Goldratt

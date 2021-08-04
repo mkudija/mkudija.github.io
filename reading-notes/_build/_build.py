@@ -110,7 +110,6 @@ def create_index(pathTemplate, pathOutput, fnames):
 
 
 def main():
-
     # copy files from obsidian/ to md/
     src = '/Users/matthewkudija/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian/Reading Notes'
     dst = '../_md'
@@ -123,13 +122,17 @@ def main():
     # convert to html
     fnames = []
     for i in range(len(files)):
-        try:
-            convert_md_to_html(pathSource=files[i], 
-                               pathTemplate=Path('_template.html'), 
-                               pathOutput=Path('../'))
-        except:
+        if '~' not in str(files[i]):
+            try:
+                convert_md_to_html(pathSource=files[i], 
+                                   pathTemplate=Path('_template.html'), 
+                                   pathOutput=Path('../'))
+            except:
+                print('**Did not convert: {}'.format(files[i]))
+            fnames.append(files[i].stem)
+        else:
             print('**Did not convert: {}'.format(files[i]))
-        fnames.append(files[i].stem)
+
 
     # create index file
     create_index(pathTemplate=Path('_template.html'),
