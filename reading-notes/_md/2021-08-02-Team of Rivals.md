@@ -23,4 +23,4 @@
 - 5 of the 7 next presidents were Civil War veterans
 - Tolstoy’s story about a tribal chief in the remote North Caucasus knowing of and asking for a story about Lincoln, who was the greatest figure of the 19th century (747-748)
 	- >He really was not a great general...he was not such a skilful statesmen...but his supremacy expresses itself altogether in his peculiar moral power and in the greatness of his character. Washington was a typical American. Napoleon was a typical Frenchman, but Lincoln was a humanitarian as broad as the world. He was bigger than his country—bigger than all the Presidents together. 
-	- I finished listening to this the same day I finished *[[2021-07-20-Witness to Hope]]*: [[John Paul II]] was similarly great in morals and humanitarianism
+	- I finished listening to this the same day I finished *[[2021-07-20-Witness to Hope]]*: [[John Paul II]] was similarly great in morals and humanitarianism ^2b09ad

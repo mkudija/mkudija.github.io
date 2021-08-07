@@ -1,10 +1,10 @@
 # *The Monuments Men* by Robert M. Edsel
 
-(New York: Center Street, 2009), 454
+`(New York: Center Street, 2009), 454`
 
 - A great quote about ordinary men appreciating art (151-152):
 
-> Hancock noticed men gatherin out of the shadows. These were infantrymen, young soldiers drafted right out of school, the first into the fight. For months they had been shot at, mined, conter-attacked, and shelled. They bathed out of their helmets, or not at all, and ate out of ration tins, wiping their spoons on their pants. Their billet had been destroyed, so they threw themselves down wherever they could find a comfortable spot. As always, Hancock wanted to say something to them, to thank them somehow, but Stout spoke first.
+> Hancock noticed men gathering out of the shadows. These were infantrymen, young soldiers drafted right out of school, the first into the fight. For months they had been shot at, mined, conter-attacked, and shelled. They bathed out of their helmets, or not at all, and ate out of ration tins, wiping their spoons on their pants. Their billet had been destroyed, so they threw themselves down wherever they could find a comfortable spot. As always, Hancock wanted to say something to them, to thank them somehow, but Stout spoke first.
 
 > "Paint: oil, rich, and generally thin with translucent film in dark areas and monochrome drawing sparely visible underneath."
 
