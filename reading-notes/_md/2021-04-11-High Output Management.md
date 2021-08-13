@@ -1,7 +1,7 @@
 
-# [*High Output Management*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?dchild=1&keywords=High+Output+Management&qid=1618306772&sr=8-1) by Andrew S. Grove
+# [*High Output Management*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove
 
-(New York: Penguin Random House, 1983, 2015), 251
+`(New York: Penguin Random House, 1983, 2015), 251`
 
 <details>
  <summary><i>Contents</i></summary>
@@ -383,4 +383,8 @@
 
 ## Chapter 17: One More Thing
 *Summary: This is a list of tangible activities to implement the principles of this book.*
+
+---
+
+- This article is a great summary and extension of much of the thinking in *High Output Management*: [[2021-08-08 Article-Lessons from Keith Rabois Essay 3- How to be an Effective Executive]]
 

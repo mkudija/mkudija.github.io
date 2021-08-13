@@ -1,5 +1,6 @@
+<li><i>The Premonition: A Pandemic Story</i> by Michael Lewis</li>
 <li><i>Saint Edith Stein</i> by Mary Hill</li>
-<li><i>Team of Rivals: The Political Genius of Abraham Lincoln</i> by Doris Kearns Goodwin</li>
+<li><i>Team of Rivals: The Political Genius of Abraham Lincoln (Abridged)</i> by Doris Kearns Goodwin</li>
 <li><i>My Sisters the Saints: A Spiritual Memoir</i> by Colleen Carroll Campbell</li>
 <li><i>The Road</i> by Cormac McCarthy</li>
 <li><i>"Live Not by Lies"</i> by Aleksandr Solzhenitsyn</li>
