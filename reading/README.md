@@ -19,7 +19,7 @@ Listed at [matthewkudija.com/reading](http://matthewkudija.com/reading)
 - [Nat Eliason](https://www.nateliason.com/notes)
 - [Tom MacWright](https://macwright.com/reading/)
 - [Coleman McCormick](https://www.colemanm.org/books/) *(from Tom MacWright)*
-- [Patrick Collison](https://patrickcollison.com/bookshelf) *(from Coleman McCormick)*
+- [Patrick Collison](https://patrickcollison.com/bookshelf) *(from Coleman McCormick and Andy Matuschak)*
 - [Tom Critchlow](https://tomcritchlow.com/wiki/books/books-read/) (and see [this list](https://tomcritchlow.com/wiki/books/bookshelves/) he put together!)
 - [Kevin Simler](https://meltingasphalt.com/what-im-reading/)
 - [Phil Gyford](https://www.gyford.com/phil/reading/)
@@ -29,5 +29,7 @@ Listed at [matthewkudija.com/reading](http://matthewkudija.com/reading)
 - [Abi Noda](http://abinoda.com/reading-list)
 - [Kevin Primat](https://kevinprimat.com/books)
 - [Łukasz Langa](https://lukasz.langa.pl/books/)
-- [Joschua](https://joschuasgarden.com/%F0%9F%93%9A+Books) (using Obsidian publish)
-- [Johnathan Bi](https://johnathanbi.com/readinglist) (deep and thoughtful)
+- [Joschua](https://joschuasgarden.com/%F0%9F%93%9A+Books) (using Obsidian publish) *(from Nick Milo)*
+- [Johnathan Bi](https://johnathanbi.com/readinglist) (deep and thoughtful) *(from David Perell)*
+- [Erik Rostad](https://www.booksoftitans.com/reading-project/2021-reading-list/) *(from Jeremey A)*
+- [Will Mannon](https://www.will-mannon.com/books) *(from David Perell)*
