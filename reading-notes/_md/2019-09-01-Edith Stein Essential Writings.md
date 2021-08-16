@@ -1,9 +1,9 @@
 
-# [*Edith Stein: Essential Writings*](https://www.amazon.com/Edith-Stein-Essential-Writings-Spiritual/dp/1570754284/ref=sr_1_1?keywords=edith+stein+essential+writings&qid=1567384374&s=gateway&sr=8-1) by Edith Stein (selected by John Sullivan, OCD)
+# [*Edith Stein: Essential Writings*](https://www.amazon.com/Edith-Stein-Essential-Writings-Spiritual/dp/1570754284) by [[Edith Stein]] (selected by John Sullivan, OCD)
 
-(Maryknoll: Orbis, 2002), 158
+`(Maryknoll: Orbis, 2002), 158`
 
-Somehow reading Edith Stein feels like I'm reading someone much *older* than her, perhaps St. Theresa of Ávila who she looked up to so much.
+Somehow reading Edith Stein feels like I'm reading someone much *older* than her, perhaps [[St. Theresa of Ávila]] who she looked up to so much.
 
 - "Be patient with yourself; God is." (11)
 - "One can find God *in* the world by bringing God *to* the world." (23)

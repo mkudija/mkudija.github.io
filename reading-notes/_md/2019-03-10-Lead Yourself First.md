@@ -4,7 +4,7 @@
 
 ## Insights or things to take up
 - walks for solitude
-- writing as a way of organizing your thoughts
+- [[Writing]] as a way of organizing your thoughts
 
 
 ## Definitions of leadership
@@ -99,7 +99,7 @@
 ## Chapter 10 - Moral Courage
 - leaders need introspection, Conant: "It's not that you need to be completely unplugged from the outside world. But you do need to be completely plugged in to what *you* think" (132)
   - 30 minute morning reflection with coffee in the garden thinking about 5 things: family, work, community, faith, personal well-being (132)
-- Jimmy Bartz: "Today, I still wake up at five thirty each morning, while the rest of the house is asleep. Fridays are my day off. I spend the whole day by myself until the kids come hoe from school." (138)
+- Jimmy Bartz: "Today, I still wake up at five thirty each morning, while the rest of the house is asleep. Fridays are my day off. I spend the whole day by myself until the kids come home from school." (138)
   - "As my responsibilities as a leader grow, I need more solitude...I go to Wyoming three times a year...maybe not crossing paths with another person for two or three days. It's a feast for the soul." (141)
 
 
@@ -115,7 +115,7 @@
 
 
 ## Chapter 13 - John Paul II
-- Karol Wojtyla's dad's example "was in a way my first seminary, a kind of domestic seminary" (169)
+- Karol Wojtyła's dad's example "was in a way my first seminary, a kind of domestic seminary" (169) ^fbec9c
   - this quote, and many others in this section come from Wigel's *[[2021-07-20-Witness to Hope|Witness to Hope]]*
 - From his poem [*Material*](https://www.pbs.org/wgbh/pages/frontline/shows/pope/poems/): "The whole greatness of this work dwells inside a man." --> we can find meaning even in awful work
 - every morning after mass and breakfast, he wrote for two hours alone in his chapel (171)

@@ -1,7 +1,7 @@
 
-# [*The Spirit of the Liturgy*](https://www.amazon.com/Spirit-Liturgy-Commemorative-Romano-Guardini/dp/1621642585/ref=sr_1_1?dchild=1&keywords=the+spirit+of+the+liturgy&qid=1611760722&sr=8-1) by Joseph Ratzinger
+# [*The Spirit of the Liturgy*](https://www.amazon.com/Spirit-Liturgy-Commemorative-Romano-Guardini/dp/1621642585) by Joseph Ratzinger
 
-(San Francisco: Ignatius, 2018 [2000]), 271
+`(San Francisco: Ignatius, 2000/2018), 271`
 
 Fr. Dailey recommended this to me and I was reintroduced to it when finishing the *History of the Catholic Church*. Reading Ratzinger is always a special experience—he blends together all of scripture and salvation history into a beautiful narrative, and every word drips with a lifetime of thought behind it. This is a book to think about (before mass certainly) and come back to.
 
@@ -97,7 +97,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 - the sign of the cross is a visible and public Yes to God, a confession of faith (191)
 - Plato: a cross inscribed upon the cosmos (194)
 - Blessing of children (198):
-> I shall never forget the devotion and heartfelt care with which my father and mother made the sign of the Cross on the forehead, mouth, and breast of us children when we went away from home, especially when the parting was a long one. This blessing was like an escort that we knew would guide us on our way. it made visible the prayer of our parents, which went with us, and it gave us the assurance that this prayer was supported by the blessing of the Savior. The blessing was also a challenge to us not to go outside the sphere of this blessing. Blessing is a priestly gesture, and so in this sign of the Cross we felt the priesthood of parents, tits special dignity and power. I believe that this blessing, which is a perfect expression of the common priesthood of the baptized, should come back in a much stronger way into our daily life and permeate it with the power of the love that comes from the Lord.
+> I shall never forget the devotion and heartfelt care with which my father and mother made the sign of the Cross on the forehead, mouth, and breast of us children when we went away from home, especially when the parting was a long one. This blessing was like an escort that we knew would guide us on our way. it made visible the prayer of our parents, which went with us, and it gave us the assurance that this prayer was supported by the blessing of the Savior. The blessing was also a challenge to us not to go outside the sphere of this blessing. Blessing is a priestly gesture, and so in this sign of the Cross we felt the priesthood of parents, its special dignity and power. I believe that this blessing, which is a perfect expression of the common priesthood of the baptized, should come back in a much stronger way into our daily life and permeate it with the power of the love that comes from the Lord.
 
 **Posture**
 1. Kneeling (*prostratio*)
@@ -131,7 +131,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 
 # [*The Spirit of the Liturgy*](https://www.amazon.com/Spirit-Liturgy-Commemorative-Romano-Guardini/dp/1621642585/ref=sr_1_1?dchild=1&keywords=the+spirit+of+the+liturgy&qid=1611760722&sr=8-1) by Romano Guardini
 
-(San Francisco: Ignatius, 2018 [1918]), 98
+`(San Francisco: Ignatius, 1918/2018), 98`
 
 I'm glad they included the original that Ratzinger's more recent book was based off in this commemorative edition from Ignatius press. I was on the fence about whether to read it but am glad I did. The weight and beauty of tradition just pours forth from this little volume and makes you see the liturgy in a new light.
 
@@ -174,8 +174,10 @@ I'm glad they included the original that Ratzinger's more recent book was based 
 - any attempt to base the truth of a dogma merely on its practical value is essentially un-Catholic (359)
 - the basis of all genuine and healthy life is a contemplative one (362)
 
+---
 
-## New words
+**New words**
+
 - **thraldom**: the state of being in bondage
 
 

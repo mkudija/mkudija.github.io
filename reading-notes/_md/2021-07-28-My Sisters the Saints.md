@@ -6,7 +6,7 @@
 `Notes Started: 2021-07-28`
 
 
-## Chapter 1: Theresa of Ávila
+## Chapter 1: [[St. Theresa of Ávila]]
 **Summary**: She feels lost and empty in her life of college debauchery and secular feminism, but starts reading **Theresa of Ávila** over Christmas break and sees how it’s never too late (and we’re never too far gone) to turn back to God.
 
 - *Saint Theresa of Ávila* by Marcelle Auclair from her dad: "It makes Theresa come alive" (12)
@@ -16,7 +16,7 @@
 - Persevering in prayer left her with "more trainquility and happiness than at certain other times when I had prayed because I had wanted to." (18)
 
 
-## Chapter 2: Thérèse of Lixieux
+## Chapter 2: [[Thérèse of Lixieux]]
 **Summary**: Her deepening life for **Thérèse of Lisieux**’s little way as she saw her father decline with Alzheimer’s, and his increasing joy as he grew closer to God.
 
 - *Therese: A Life Of Therese Of Lisieux* by Dorothy Day (31)
@@ -25,7 +25,7 @@
 - Thérèse's signature insight: "Jesus cares more about the love we put into our acts than the acts themselves" (51)
 
 
-## Chapter 3: Maria Faustina Kowalska
+## Chapter 3: [[Maria Faustina Kowalska]]
 **Summary**: **St. Faustina** as a model in trusting the lord as she discerned leaving a prestigious White House job to marry her husband and be with her ailing father. True freedom is not license, but a commitment that costs you and trusting God to see you through.
 
 - Kowalska revealed to her the link between trust and humility (81)
@@ -34,7 +34,7 @@
 - Freedom: "It was only in sacrificing something for love that I had found release." (90)
 
 
-## Chapter 4: Edith Stein
+## Chapter 4: [[Edith Stein]]
 **Summary**: Her struggles with infertility and the spiritual motherhood and authentic feminism taught by **Edith Stein**.
 
 - John Paul II's writings on women (102):

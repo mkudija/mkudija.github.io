@@ -1,5 +1,7 @@
 
-Alan Jacobs, *The Pleasures of Reading in an Age of Distraction* (New York: Oxford University Press, 2011), 150.
+# *[The Pleasures of Reading in an Age of Distraction](https://www.amazon.com/Pleasures-Reading-Age-Distraction/dp/0199747490)* by [[Alan Jacobs]] 
+
+`(New York: Oxford University Press, 2011), 150`
 
 
 ## Yes, we can!
@@ -134,5 +136,9 @@ Alan Jacobs, *The Pleasures of Reading in an Age of Distraction* (New York: Oxfo
 - Jacobs argues that group reading can be great, but is never a substitute for solitary reading 
 
 
-## Serendip
+## Serendipity
 - In choosing what we read, “we must consent to be guided by the invisible hand of serendipity.” (143)
+
+---
+**Links**
+- [A Few Bookish Questions With Erik Rostad - by Jeremy Anderberg - Read More Books](https://readmorebooks.substack.com/p/a-few-bookish-questions-with-erik)

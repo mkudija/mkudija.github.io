@@ -1,4 +1,3 @@
-
 # [*Witness to Hope: The Biography of Pope John Paul II*](https://www.amazon.com/Witness-Hope-Biography-Pope-John/dp/006018793X) by [[George Weigel]]
 
 `(New York: HarperCollins, 1999), 960`
@@ -16,8 +15,22 @@ I love reading biographies because it is simultaneously the story of a person an
 
 Themes:
 - Christian humanism and anthropology as a response to the dangers of modernity
-- Speaking truth to power, the power of hope, and how there is no fear if we are rooted in Christ
-- Always propose, never impose
+- Speaking truth to power, the power of hope, and how there is no fear if we are rooted in Christ: "Be not afraid!" (66)
+- Always propose, never impose: "You must decide" (13, 105)
+- Priority of culture: history is driven by culture (7)
+- The crisis of the modern world is a crisis of *ideas*, and a crisis of the *idea of a human person* (7)
+- The drama of life: we are moral agents, and Christ is the center of the cosmic drama (8)
+- The Law of the Gift (136)
+- 
+
+
+from Prologue (6-7)
+- Against modernity's pleasure seeking, he teaches that suffering is central and redemptive (34: redemptive suffering central to Polish self-understanding)
+- Against intellectual skepticism, he teaches that universal truths exist, are knowable, and impose moral duties (70)
+- Against plastic personality, he defends a universal human nature
+- Against a world that equates happiness with success, he teaches that happiness comes from obedient submission to truth and love
+- Against utility, he focuses on inherent human dignity
+- 
 
 
 <details>
@@ -28,28 +41,88 @@ Themes:
 </details>
 
 
-## Chapter 1:
-***Summary**: *
+## Humorous
+- Polish joke: "Should Poland be invaded simultaneously by Germans and Russians, the Polish army should shoot the Germans first, on the ancient principle of business before pleasure." (21)
+- WWII is the war Poland lost twice (46)
+
+## Chapter 1: A Son of Freedom
+*Early life*
+- The **Battle of the Vistula** (Miracle on the Vistula): August 1920 battle that saved Poland from the Soviets (17)
+- Poland was known for its religious toleration (19)
+- Mieszko was baptized Latin-rite Catholic in 966 (rather than Eastern) and anchored Poland in the West for 1000 years (20)
+- The Polish nation survived the destruction of the Polish state --> John Paul's theme of culture (not politics or economics) being the driving force in history (22)
+- Karol Wojtyła's father was the most influential figure to him: autodidact, a man of constant prayer, his example was a "domestic seminary" ([[2019-03-10-Lead Yourself First#^fbec9c]]) (29+)
+- [[Daily Routine]] as a boy: rose early, pray, 7 am mass, 8 am school, evening walk (31)
+- Karol Wojtyła received a [[Classical Education]]: Latin, Greek, Polish (32)
+- Dignity of [[Work]] in the works of Norwid: "Work accepted with love is the highest manifestation of human freedom and is thus redemptive" (35)
+- Drama: the actor and the priest both open up, through the materials of the world, the realm of transcendent truth (37)
+- "[[Fatherhood]] meant rejecting the prison of selfishness; fatherhood meant being conquered by love." (42)
+
+
+## Chapter 2: From the Underground
+*The Third Reich*
+- [[Spiritual Disciplines]]: confession on the first Friday of the month according to Catholic custom and Karol Wojtyła's personal habit (45)
+- WWII formed John Paul II (46)
+	- "The wars horrors and an unexpected encounter during the Occupation with a lay mystic began to shape Karol Wojtyła's distinctively [[Carmelite]] spirituality, which focused on the cross as the center of the Christian life, and indeed the center of human history." (46)
+	- This was his experience of manual labor and **cultural activism**: the defense of national cultural identity as a means of political resistance and liberation (46)
+	- Poland was the only nation where the Nazis failed to establish a collaborationist regime (48)
+- [[Reading]]: Karol Wojtyła: "While others were dying of boredom I have surrounded myself with books, dug in with Arts and Sciences" (55). He also took the night shift since it was easier to read then (56).
+	- *True Devotion to Mary* by St. Louis de Montfort (57)
+- [[Work]] is a participation in God's creativity (57), and "We work because we love—our families, our children..." (58)
+- **Jan Tyranowski** (59+): self-taught, read broadly in Catholic spirituality, who acted as a lay leader to Karol Wojtyła and others after the Salesian fathers were rounded up by the Nazis
+	- "It's not difficult to be a saint" --> led him to regularize his spiritual life in a systematic fashion
+	- weekly hour-long meetings to learn the spiritual life
+	- his lay ministry demonstrated to Karol Wojtyła the universal call to holiness
+	- he introduced Karol Wojtyła to [[St. John of the Cross]]: *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love*
+		- Karol Wojtyła learned Spanish to read him in the original
+- Rhapsodic Theater: proclaim truth against the violent lies of the Occupation, speak truth to power (cf. *[[2021-07-15-"Live Not by Lies"]]*) (66)
+- [[Realism]]: Reading *Metaphysics* by Kazimierz Wais convinced him (along with [[Aristotle]] and [[St. Thomas Aquinas]]) that the world is intelligible (against the radical skepticism of the age) (70)
+- [[Fr. Reginald Garrigou-Lagrange, OP]] (master of traditional neo-scholasticism) directed Karol Wojtyła's dissertation on [[St. John of the Cross]]'s understanding of faith (85)
+	- he also wrote *Predestination*, recommended by [[Fr. Raymund]] when I was struggling with Thomas' treatment of predestination while reading the *[[Summa Theologiae]]*
 
 
 
-## Chapter 2:
-***Summary**: *
+## Chapter 3: "Call Me *Wujek*"
+*Early priesthood*
+- The Polish Church "knew the transient nature of political regimes" (91)
+- [[Daily Routine]]: Karol Wojtyła worked 16-18 hour days (95)
+- Karol Wojtyła engaged students intellectually with **Christian Humanism** as a university chaplain to combat the militant atheist Marxism of the regime (95)
+	- He organized a group to read the *[[Summa Theologiae]]* in Latin (!)
+- The "hardest-fought battle between Church and regime involved family life...all organized by the state to separate parents from their children as frequently as possible" (97)
+- Karol Wojtyła's line: **"You have to decide."** --> he gently forced judgment and choices (105)
+- Karol Wojtyła believed the goal of [[Confession]] was the sanctification of all life. The confessor is a "counselor in the practice of the virtues" (107)
+- Karol Wojtyła believed "[[Marriage]] is the beginning of our understanding of the interior life of God...the human experience that begins to make God comprehensible to human beings" (116)
+- Literature is a "supple instrument for delving into the hidden depths of the human condition" --> *The Power and the Glory* by Graham Greene and *The Plague* by Camus (117) 
+- Poverty: Karol Wojtyła never had a bank account or personal money (119)
+- Karol Wojtyła was "almost always late for meetings and appointments, having gotten himself absorbed in his previous engagement or his voracious and incessant [[Reading]]" (119)
+- Resisting communism: Karol Wojtyła "was creating de facto networks of resistance to communism by helping to raise up a generation of Poles who could resist the communist culture of the lie with the truth of their religious and moral convictions" (120)
 
 
+## Chapter 4: Seeing Things as They Are
+*Wojtyła the Philosopher*
+- **Phenomenology**: bring everyday things back into philosophy, see things whole and as they are, see [[Max Scheler]], [[Dietrich von Hildebrand]], [[Edith Stein]] (127)
+	- cf. *[[2020-11-18-After Virtue|After Virtue]]* (128): "If the choice was not between good and evil, but only between personal preferences, then all choices were ultimately indifferent and the real choice no longer existed" --> removes human freedom (129)
+	- synthesized the metaphsical realism of [[Aristotle]] and [[St. Thomas Aquinas]] with the human experience of [[Max Scheler]] (128)
+- Karol Wojtyła constantly re-read the Gospel of [[John]], leading to his focus on people rather than texts (129-130)
+- Pursuit of **philosophical anthropology** at the KUL (Catholic University of Lublin) (132):
+	- The root of our issues is a modern crisis in the understanding of the human person --> requires redirecting philosophy since the [[Enlightenment]]
+	- Seek to merge *metaphysics* (reality, things as they are), *anthropology* (nature and destiny of human person), and *ethics* (What ought we do?)
+- Four principles that guided the KUL philosophers (133):
+	1. Be realistic about the world and the human capacity to know it. *"Human beings can only be free in the truth, and the measure of truth is reality."*
+	2. Philosophy should being with a reflection on the human person and human experience.
+	3. Commitment to reason.
+	4. Ecumenism of time: the past is not disposable to modernity 
+- **"Ideas have consequences, for good and for ill. The history of the twentieth century's various torments, proved that defective understandings of the human person, human community, and human destiny were responsible for mountains of corpses and oceans of blood."** (134)
+- **The Law of the Gift** was central to Karol Wojtyła's **personalism**: responsible self-giving, not self-assertion, was the road to human fulfillment (136)
+	- see *Love and Responsibility* (137)
+		- our sexuality reveals our dependence on others (141)
+		- [[Chastity]] is the integrity of love, the virtue that makes it possible to love the other as a person (142)
+- Wojtyła quirks: he could weirdly multi-task, thinks (and writes) in circles rather than linearly (making him hard to read at times), and made a point of learning from his students (138)
 
-## Chapter 3:
-***Summary**: *
 
-
-
-## Chapter 4:
-***Summary**: *
-
-
-
-## Chapter 5:
-***Summary**: *
+## Chapter 5: A New Pentacost
+*Vatican II*
+- 
 
 
 
@@ -180,5 +253,22 @@ Themes:
 
 **Bibliography**
 
+By John Paul II:
+
+- *Crossing the Threshold of Hope*
+- *Gift and Mystery*
+- *Love and Responsibility* (137, 140)
+
+Other:
+
+- *Brave New World* by Aldous Huxley
+- *True Devotion to Mary* by St. Louis de Montfort (57)
+- *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)
+- *Metaphysics* by Kazimierz Wais (70)
+- *The Power and the Glory* by Graham Greene and *The Plague* by Camus (117) 
 
 **New Words**
+
+- **sycophancy**: obsequious flattery; servility (20)
+- **chancel**: The space around the altar of a church for the clergy and sometimes the choir, often enclosed by a lattice or railing. (25)
+- **samizdat** ("self-publishing"): was a form of dissident activity across the socialist Eastern Bloc in which individuals reproduced censored and underground makeshift publications, often by hand, and passed the documents from reader to reader (95) ^ee20f8
