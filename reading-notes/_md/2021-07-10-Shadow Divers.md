@@ -3,11 +3,15 @@
 
 `(New York: Random House, 2004), 348`
 
-`Notes Started: 2021-07-10`
-
-
 ## Ch 4  
 - Chatterton’s Vietnam medic mentor: “How will I want to feel about this decision when I’m an old man? That’s the question for making important decisions.”  
+- Chatterton's principles from Vietnam (from [[Dad]] 2021-08-14):
+	- if easy, someone else already would have done it; if you follow in another's footsteps you miss the problems really worth solving
+	- excellence is born of preparation, dedication, focus, and tenacity: compromise on any of these and you become average
+	- every so often life presents a great moment of decision: you live with these decisions forever
+	- examine everything, not all is as it seems or as people tell you
+	- the guy who doesn't care, who says "I'm already dead and all that matters is the accounting I give of myself" is the most formidable force in the world
+	- the worst possible decision is to give up
   
 ## Ch 6  
 - “he did things teenagers could not, all because his father believed he could and made certain he could”  
@@ -37,15 +41,22 @@
 - Chatterton had come down to his final breath (323)  
 - identified U-869 on 8/31/1997  
   
-Epilogue  
+### Epilogue  
 - has other books to read  
   
-Other  
+### Other  
 - written history can be fallible, go back to original sources; history is a work in progress  
 - new technology and managing risk: trimix
+
+### Audio interview with Chatterton and Kohler
+- Kohler's quote from German U-boat commander (from [[Dad]] 2021-08-14): "Life is a matter of luck, and the odds of success are not enhanced by extreme caution"
 
 --- 
 **Bibliography**
 
 - *Hitler's U-boar War* by Clay Blair
 - *U-boats Under the Swastika* (Naval Institute Press)
+
+---
+Created: 2021-07-10
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

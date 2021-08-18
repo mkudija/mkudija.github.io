@@ -2,8 +2,6 @@
 
 `(New York: HarperCollins, 1999), 960`
 
-`Notes Started: 2021-07-20`
-
 I bought this off Amazon for $4 back in June of 2015 when I was living in LA. I forget why I bought it then but it was perhaps after listening to *John Paul II: A Personal Portrait of the Pope and the Man* by Ray Flynn. Its bulk sat on my shelf while I continued to read *Rise, Let Us Be On Our Way*, *[[2019-12-23-Centesimus Annus|Centesimus Annus]]*, *Theology of the Body*, and *The Jeweler's Shop* by him, and *[[2019-03-10-Lead Yourself First|Lead Yourself First]]* by Raymond Kethledge, *John Paul the Great: Remembering a Spiritual Father* by Peggy Noonan and *Saint John Paul the Great* by Jason Evert about him. Then at the end of May 2021—with high recommendation from [[Fr. Dailey]]—I felt prompted to pick it up and dive in. What an adventure!
 
 The years 2018–2020 were for reading William Manchester's *[[2018-07-11-Last Lion—Visions of Glory|The Last Lion]]* trilogy on Churchill[^churchill], and now the years 2021–2023 can be for reading Weigel's John Paul II trilogy.
@@ -44,6 +42,9 @@ from Prologue (6-7)
 ## Humorous
 - Polish joke: "Should Poland be invaded simultaneously by Germans and Russians, the Polish army should shoot the Germans first, on the ancient principle of business before pleasure." (21)
 - WWII is the war Poland lost twice (46)
+- "It's a good draft. Perhaps it could be translated first from Polish into Polish." –Styczeń's reaction to Wojtyła when asked about his *Person and Act* (174)
+- Cardinal Wojtyła disciplined a young priest, then went to his chapel and asked, "Would you please hear my confession now?" (194)
+- Vatican Curia: "We think in centuries here." (266)
 
 ## Chapter 1: A Son of Freedom
 *Early life*
@@ -120,30 +121,62 @@ from Prologue (6-7)
 - Wojtyła quirks: he could weirdly multi-task, thinks (and writes) in circles rather than linearly (making him hard to read at times), and made a point of learning from his students (138)
 
 
-## Chapter 5: A New Pentacost
+## Chapter 5: A New Pentecost
 *Vatican II*
+- *Gaudiem et Spes*: Karol Wojtyła's primary contribution to Vatican II
+	- Working on *GS* began his special friendship with [[Henri de Lubac]]
+	- To Karol Wojtyła, *GS* 22 (Christian humanism) was the theological linchpin and *GS* 24 (Law of the Gift) was the philosophical and moral of the entire Council (169)
+- I hypothesize that Vatican II also created Pope John Paul II out of Karol Wojtyła by giving him exposure to his fellow bishops (169)
+- Wojtyła viewed Vatican II as a "personalist" council: intense focus on the human person (171)
+- *Person and Act* is Wojtyła's public account of Vatican II's teaching on freedom and truth (172-3)
+
+
+
+## Chapter 6: Successor to St. Stanisław
+*Living the Council in Kraków*
+- The communists naively pushed for Wojtyła's nomination as Archbishop of Kraków, and he proceeded to be a thorn in their side (184)
+- Bishop Wojtyła's approach to solving problems: (187-8)
+	- *What truth of faith sheds light on this problem?*
+	- *Who can we get—or train—to help?*
+- Bishop Wojtyła's [[Daily Routine]]: wake at 5-5:30, 1 hour of private prayer, Mass, breakfast, 9-11 two hours of writing in front of the Blessed Sacrament, 11-1 visitors, lunch at 2 (188, 201)
+	- [[Spiritual Disciplines]]: he prayed the [[Stations of the Cross]] every Friday
+	- "The mainspring of his daily energy was his constant prayer" (201)
+- Bishop Wojtyła pursued 7 priorities (188+): **Religious Freedom** (building churches and making a public display of Catholicism), the **Seminary** (a priest's holiness is the secret of pastoral success), **Youth Ministry**, **Family Ministry**, **Dialogue with Intellectuals**, **Charity**
+- Karol Wojtyła's patron saint was Charles Borromeo (200)
+- Wojtyła implemented Vatican II with the Synod of Kraków
+	- He formed 500 study groups to read the texts of Vatican II with Wojtyła's *Sources of Renewal* as a commentary (205)
+- *Humanae Vitae* (206)
+	- Wojtyła set up the Kraków commission, which published a memorandum on *HV*, which "offered a more compelling explanation of *why*" the same conclusions reached make sense, rather than the tone deaf final product of *HV*
+- [[Confession]]: "When a man goes down on his knees in the confessional because he has sinned, at that very moment he adds to his own dignity as a man." (224)
+- Wojtyła was disturbed by the "insouciance in post-Vietnam American public live about the world situation, and the threats to the human hunger for freedom that were still being mounted by an aggressive atheistic ideology" (226)
+	- --> noting this on [[2021-08-16-Mon]] during the disaster in Afghanistan and the fall of Kabul: will America be tempted to this again in the ashes of its second Vietnam?
+
+
+## Chapter 7: A Pope From a Far Country
+*The Election of John Paul II*
+- Cardinal Karol Wojtyła first met [[Joseph Ratzinger]] at the conclave to elect John Paul I (244)
+
+
+## Chapter 8: Be Not Afraid!
+*A Pope for the World*
+- Wojtyła declined the papal coat of arms proposed by Bruno Heim (author of *Heraldry in the Catholic Church*) and kept his current ones (265)
+- John Paul II's priorities as pope (268):
+	- Complete the implementation of Vatican II
+	- Conversion of the culture, religious freedom as litmus test of a just society
+- John Paul II's [[Daily Routine]]: wake at 5:30, hour of prayer, 7:30 mass, 8:30 breakfast, 9:30-11 writing before the Blessed Sacrament, 11 appointments, 1:30 lunch, 3 nap and walk, 3 meetings, 7:30 dinner; his "entire daily routine was punctuated by prayer" (274-6)
+	- John Paul II's [[Spiritual Disciplines]] included hour of prayer in the morning and several [[The Rosary|rosaries]], the [[Liturgy of the Hours]] "to which he attached great importance", [[Stations of the Cross]] every Friday during the year and every day during Lent
+	- John Paul II made "all his major decisions on his knees before the Blessed Sacrament" (276)
+- John Paul II's response to **liberation theology**: 
+	- re-reading of the Gospel through ideological lenses was impossible (285)
+	- Marxism was incompatible with Christianity due to its materialist reduction of humanism (285)
+- John Paul II's first encyclical *Redemptor Hominis*: Christian anthropology (288)
+	- the Incarnation tells us something about God, and something about ourselves
+	- Religious freedom is the first right and can be engaged publicly by every thoughtful person
+
+
+## Chapter 9: "How Many Divisions Has the Pope?"
+*Confronting an Empire of Lies*
 - 
-
-
-
-## Chapter 6:
-***Summary**: *
-
-
-
-## Chapter 7:
-***Summary**: *
-
-
-
-## Chapter 8:
-***Summary**: *
-
-
-
-## Chapter 9:
-***Summary**: *
-
 
 
 ## Chapter 10:
@@ -201,53 +234,12 @@ from Prologue (6-7)
 
 
 
-## Chapter 21:
+## Epilogue:
 ***Summary**: *
 
 
 
-## Chapter 22:
-***Summary**: *
 
-
-
-## Chapter 23:
-***Summary**: *
-
-
-
-## Chapter 24:
-***Summary**: *
-
-
-
-## Chapter 25:
-***Summary**: *
-
-
-
-## Chapter 26:
-***Summary**: *
-
-
-
-## Chapter 27:
-***Summary**: *
-
-
-
-## Chapter 28:
-***Summary**: *
-
-
-
-## Chapter 29:
-***Summary**: *
-
-
-
-## Chapter 30:
-***Summary**: *
 
 --- 
 
@@ -258,6 +250,12 @@ By John Paul II:
 - *Crossing the Threshold of Hope*
 - *Gift and Mystery*
 - *Love and Responsibility* (137, 140)
+- *Person and Act* (172)
+- *Sources of Renewal* (tour of the texts of Vatican II, 204)
+
+Encyclicals of John Paul II:
+
+- *Redemptor Hominis* (288)
 
 Other:
 
@@ -265,10 +263,25 @@ Other:
 - *True Devotion to Mary* by St. Louis de Montfort (57)
 - *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)
 - *Metaphysics* by Kazimierz Wais (70)
-- *The Power and the Glory* by Graham Greene and *The Plague* by Camus (117) 
+- *The Power and the Glory* by Graham Greene and *The Plague* by Camus (117)
+- *His Holiness* by Bernstein and Politi (210 and many others; [[George Weigel]] does not seem to have a high opinion of this)
+- *Poland* and *Pilgrimage* by James Michener (211)
+- *The Screwtape Letters* by C.S. Lewis (216)
+- *Night Flight* by Antoine de Saint-Exupéry (224)
+- *Paradise Lost* by John Milton (224)
+- *Heraldry in the Catholic Church* by Bruno Heim (265)
 
 **New Words**
 
 - **sycophancy**: obsequious flattery; servility (20)
 - **chancel**: The space around the altar of a church for the clergy and sometimes the choir, often enclosed by a lattice or railing. (25)
 - **samizdat** ("self-publishing"): was a form of dissident activity across the socialist Eastern Bloc in which individuals reproduced censored and underground makeshift publications, often by hand, and passed the documents from reader to reader (95) ^ee20f8
+- **insouciance**: Carelessness; heedlessness; thoughtlessness (226)
+
+**Errata**
+
+- 156: "spot **when** Jesus had died" to "spot **where** Jesus had died"
+
+---
+Notes started: 2021-07-20
+Last updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
