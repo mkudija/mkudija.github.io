@@ -15,7 +15,7 @@ Themes:
 - Christian humanism and anthropology as a response to the dangers of modernity
 - Speaking truth to power, the power of hope, and how there is no fear if we are rooted in Christ: "Be not afraid!" (66)
 - Always propose, never impose: "You must decide" (13, 105)
-- Priority of culture: history is driven by culture (7)
+- Priority of culture: history is driven by culture (7, 22, 296)
 - The crisis of the modern world is a crisis of *ideas*, and a crisis of the *idea of a human person* (7)
 - The drama of life: we are moral agents, and Christ is the center of the cosmic drama (8)
 - The Law of the Gift (136)
@@ -45,6 +45,8 @@ from Prologue (6-7)
 - "It's a good draft. Perhaps it could be translated first from Polish into Polish." –Styczeń's reaction to Wojtyła when asked about his *Person and Act* (174)
 - Cardinal Wojtyła disciplined a young priest, then went to his chapel and asked, "Would you please hear my confession now?" (194)
 - Vatican Curia: "We think in centuries here." (266)
+- Someone asked about the cost of the swimming pool John Paul II was putting in, and he replied that he needed exercise and it was less expensive than holding another conclave. (332)
+- After being shot, he referred to his physicians as "the Sanhedrin" (414)
 
 ## Chapter 1: A Son of Freedom
 *Early life*
@@ -176,27 +178,51 @@ from Prologue (6-7)
 
 ## Chapter 9: "How Many Divisions Has the Pope?"
 *Confronting an Empire of Lies*
-- 
+- To John Paul II the Polish case was not unique, but a window into the universal crisis of modernity (311)
+- John Paul II visited [[St. Maximilian Kolbe]]'s starvation bunker at Auschwitz, and met Franciszek Gajowniczek, the man Kolbe had sacrificed himself for (314)
+- A result of John Paul II's Poland pilgrimage was that people decided: "Let's stop lying....moral renewal among 'us' had to be the basis for any serious challenge to 'them'" (321, cf [[2021-07-15-"Live Not by Lies"]])
+	- mentions [[Aleksandr Solzhenitsyn]] on how communist lies and violence are closely linked in his 1970 Nobel lecture (325)
 
 
-## Chapter 10:
-***Summary**: *
+## Chapter 10: The Ways of Freedom
+*Truths Personal and Public*
+- Theme of John Paul II's papacy: challenging the pulverization of the fundamental uniqueness of each human person, which was the crisis of modernity (334)
+- *Theology of the Body* as a response to the failure of *Humanae Vitae* (334+)
+	- start with Adam in the garden to recapture the wonder of philosophy like Aristotle (336-7)
+	- Our creation as embodied persons and as male and female is a *sacramental* reality and an icon of the life of God (337)
+	- The Christian sexual ethic redeems sexuality from lust (339)
+	- Sexual love is an act of worship (341)
+	- The human person is an intelligent creature called to maturity through self-mastery (342)
+	- Sexuality is a way for us to grasp the essence of the human and come to understand the divine (343)
+- Peace: to John Paull II the Church contributed the most to peace when it relentlessly defended and promoted human rights, particularly religious freedom (350)
 
 
-
-## Chapter 11:
-***Summary**: *
-
-
-
-## Chapter 12:
-***Summary**: *
+## Chapter 11: Peter Among Us
+*The Universal Pastor as Apostolic Witness*
+- *Familiaris Consortio* was one of John Paul II's personal favorites (385)
+	- True freedom: the demands and obligations of family life are liberating, not confining (385)
+	- [[Fatherhood]]: men are called to live their fatherhood as an icon of "the very fatherhood of God" (385)
+- John Paul II made the bold appointment of Aron Lustiger in Paris with important consequences for French Catholicism; he viewed saw the vulnerability to secular modernity in the Church's marriage with power, and the evangelical option as the only alternative (388)
 
 
+## Chapter 12: In the Eye of the Storm
+*Months of Violence and Dissent*
+- John Paul II shot by Mehmet Ali Agca (Dziwisz administered last rites to him) (412)
+	- [[Spiritual Disciplines]]: his commitment to the [[Liturgy of the Hours]] demonstrated by asking if they had said Compline already while regaining consciousness when in fact it was the next day after he was shot (414)
+	- After his first solid meal, he said the [[Te Deum]] (the Church's traditional hymn of praise) with Dziwisz (415)
+	- John Paul II was an active patient and a model for one undergoing medical treatment (415, 418, )
+- John Paul II intervened in the Jesuits
+	- The temptations of various spiritualities: [[Franciscan]] to sentimentality, [[Dominican]] to arid intellectualism, [[Benedictine]] replacement of stability with complacency, [[Jesuit]] to becoming elite that no longer respects Church's authority (425)
 
-## Chapter 13:
-***Summary**: *
 
+## Chapter 13: LIberating Liberations
+*The Limits of Politics and the Promise of Redemption*
+- John Paul II: **"In the designs of Providence there are no mere coincidences."** (440)
+- **[[Joseph Ratzinger]]** appointment as prefect of the Congregation for the Doctrine of the Faith the most important of John Paul II's papcy (442)
+	- [[Joseph Ratzinger]], [[Karol Wojtyła]], and [[Henri de Lubac]] formed the *Communio* interpretation of [[Vatican II]] (443)
+	- Ratzinger's appointment signaled the importance of theology and a shift away from Thomism (444)
+-  Liberation theology as "good spaghetti" (Church's work with the poor) with "poor sauce" (Marxist analysis leading to violence in the name of the Gospel) (451, 906)
+-  
 
 
 ## Chapter 14:
@@ -252,10 +278,12 @@ By John Paul II:
 - *Love and Responsibility* (137, 140)
 - *Person and Act* (172)
 - *Sources of Renewal* (tour of the texts of Vatican II, 204)
+- *Theology of the Body* (334)
 
-Encyclicals of John Paul II:
+Encyclicals & Apostolic Exhortations of John Paul II:
 
 - *Redemptor Hominis* (288)
+- *Familiaris Consortio* (385)
 
 Other:
 
@@ -270,6 +298,10 @@ Other:
 - *Night Flight* by Antoine de Saint-Exupéry (224)
 - *Paradise Lost* by John Milton (224)
 - *Heraldry in the Catholic Church* by Bruno Heim (265)
+- *Quo Vadis* by Sienkiewicz and *Courier from Warsaw* by Jan Nowak (convalescence reading, 416)
+- *Introduction to Christianity* and ***Salt of the Earth*** by [[Joseph Ratzinger]] (443)
+- *Forget Not Love* by André Frossard (447) 
+- *The Way* by Escrivá (450)
 
 **New Words**
 
@@ -277,6 +309,8 @@ Other:
 - **chancel**: The space around the altar of a church for the clergy and sometimes the choir, often enclosed by a lattice or railing. (25)
 - **samizdat** ("self-publishing"): was a form of dissident activity across the socialist Eastern Bloc in which individuals reproduced censored and underground makeshift publications, often by hand, and passed the documents from reader to reader (95) ^ee20f8
 - **insouciance**: Carelessness; heedlessness; thoughtlessness (226)
+- **codicil**: Appendix, supplement (312)
+- **saccharine**: Excessively sentimental (425)
 
 **Errata**
 
