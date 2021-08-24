@@ -1,5 +1,6 @@
 # [*Witness to Hope: The Biography of Pope John Paul II*](https://www.amazon.com/Witness-Hope-Biography-Pope-John/dp/006018793X) by [[George Weigel]]
 
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1)
 `(New York: HarperCollins, 1999), 960`
 
 I bought this off Amazon for $4 back in June of 2015 when I was living in LA. I forget why I bought it then but it was perhaps after listening to *John Paul II: A Personal Portrait of the Pope and the Man* by Ray Flynn. Its bulk sat on my shelf while I continued to read *Rise, Let Us Be On Our Way*, *[[2019-12-23-Centesimus Annus|Centesimus Annus]]*, *Theology of the Body*, and *The Jeweler's Shop* by him, and *[[2019-03-10-Lead Yourself First|Lead Yourself First]]* by Raymond Kethledge, *John Paul the Great: Remembering a Spiritual Father* by Peggy Noonan and *Saint John Paul the Great* by Jason Evert about him. Then at the end of May 2021—with high recommendation from [[Fr. Dailey]]—I felt prompted to pick it up and dive in. What an adventure!
@@ -47,6 +48,9 @@ from Prologue (6-7)
 - Vatican Curia: "We think in centuries here." (266)
 - Someone asked about the cost of the swimming pool John Paul II was putting in, and he replied that he needed exercise and it was less expensive than holding another conclave. (332)
 - After being shot, he referred to his physicians as "the Sanhedrin" (414)
+- John Henry Newman when asked what the clergy should think of the laity: "we would look rather silly without them" (553)
+- One bishop, who had put on weight since he had last seen the Pope, as awsked by John Paul II, "Is your diocese growing?" The bishop replied, yes, parishes were expanding. "So is the bishop," said the Pope. (567)
+- "Press coverage of the encyclical predictably stressed the Pope's reaffirmation of classic Catholic sexual morality, although in fact these issues were barely referenced in *Veritas Splendor*, it was not clear why reporters thought it newsworthy that the Pope continued to think that fornication was wrong." (692)
 
 ## Chapter 1: A Son of Freedom
 *Early life*
@@ -168,9 +172,9 @@ from Prologue (6-7)
 - John Paul II's [[Daily Routine]]: wake at 5:30, hour of prayer, 7:30 mass, 8:30 breakfast, 9:30-11 writing before the Blessed Sacrament, 11 appointments, 1:30 lunch, 3 nap and walk, 3 meetings, 7:30 dinner; his "entire daily routine was punctuated by prayer" (274-6)
 	- John Paul II's [[Spiritual Disciplines]] included hour of prayer in the morning and several [[The Rosary|rosaries]], the [[Liturgy of the Hours]] "to which he attached great importance", [[Stations of the Cross]] every Friday during the year and every day during Lent
 	- John Paul II made "all his major decisions on his knees before the Blessed Sacrament" (276)
-- John Paul II's response to **liberation theology**: 
+- John Paul II's response to [[Liberation Theology]]:
 	- re-reading of the Gospel through ideological lenses was impossible (285)
-	- Marxism was incompatible with Christianity due to its materialist reduction of humanism (285)
+	- [[Marxism]] was incompatible with Christianity due to its materialist reduction of humanism (285)
 - John Paul II's first encyclical *Redemptor Hominis*: Christian anthropology (288)
 	- the Incarnation tells us something about God, and something about ourselves
 	- Religious freedom is the first right and can be engaged publicly by every thoughtful person
@@ -222,42 +226,97 @@ from Prologue (6-7)
 	- [[Joseph Ratzinger]], [[Karol Wojtyła]], and [[Henri de Lubac]] formed the *Communio* interpretation of [[Vatican II]] (443)
 	- Ratzinger's appointment signaled the importance of theology and a shift away from Thomism (444)
 -  Liberation theology as "good spaghetti" (Church's work with the poor) with "poor sauce" (Marxist analysis leading to violence in the name of the Gospel) (451, 906)
--  
+-  Synod on penance and reconciliation 
+	-  "A true humanism must recognize that sin is an integral part of the truth about man because human beings are moral actors...To take sin seriously is to take human freedom seriously" (473)
+	-  [[Tradition]]: "John Paul II's stress on the imperative of individual confession was not a mulish insistence on a traditional practice simply because it was traditional. It was a recognition that that traditional practice embodied deep truths about the nature of the moral life and about human freedom." (474)
 
 
-## Chapter 14:
-***Summary**: *
-
-
-
-## Chapter 15:
-***Summary**: *
-
-
-
-## Chapter 16:
-***Summary**: *
-
-
-
-## Chapter 17:
-***Summary**: *
+## Chapter 14: Reliving the Council
+*Religion and the Renewal of a World Still Young*
+- "Solidarity is at the other extreme from ideologies [i.e. [[CRT]]] that divide human beings into groups of irreconcilable enemies and that seek the extermination of the adversary" (486)
+- John Paul II: **"Do not be afraid of the love that places clear demands on people."** (494)
+- The 1985 Extraordinary Synod (previewed by *The Ratzinger Report*) gave an authoritative interpretation of [[Vatican II]] and commissioned the *Catechism of the Catholic Church* (505)
+- [[Leadership]]: even subordinates you disagree with can be put to good use by understanding their skills (example of sending Cardinal Etchegaray on special diplomatic missions) (506)
+- The Philippine 1986 Revolution and the important role Cardinal Sin and Philippine Catholics played in massive peaceful demonstrations to remove the regime (509). This was an example of a legitimate [[Liberation Theology]]: a broad non-violent movement against a violent regime not exercised in class struggle that was religious and moral rather than ideological and political led by pastors united to the hierarchy (510)
+- John Paul II engaged in important ecumenical conversations with Jews, Orthodox (*Dominum et Vivificantem* mediation on the Holy Spirit to move toward the end of schism), and the Anglican Communities (who moved farther away from Rome by allowing the ordination of women) (514-522)
 
 
 
-## Chapter 18:
-***Summary**: *
+## Chapter 15: Forward to Basics
+*Freedom Ordered to the Dignity of Duty*
+- Truth: **(1) The reconstruction of society through culture is the prerequisite for economic and political change. (2) Information is the key to effective resistance through culture. (3) The Church is a sanctuary of truth telling in a world dominated by lies.** (529)
+- Beatification of [[Edith Stein]], and how she read *The Autobiography of [[St. Theresa of Ávila]]* one night and pronounced: "This is the truth." (538)
+	- [[Edith Stein]] was a "paradigmatic figure": modern women and proto-feminist, intellectual and converted skeptic, contemplative with an active life, defied force with faith (540)
+- Did John Paul II pass through (or more likely fly over) [[Paso Robles, CA]] while traveling from LA to Monterey in 1987
+- John Paul II on the American experiment: "An experience of ordered freedom is truly a cherished part of the history of this land...The only true freedom, the only freedom that can truly satisfy is...the freedom to live the truth of what we are and who we are before God." (551)
+- Synod on the Laity (1987) and *Christifideles Laici*, which launched the concept of the New Evangelization: being a Christian is a full-time occupation (553-5)
+- Lefebvre: "he was a twentieth-century victim of the French Revolution. When the final choice had to be made, he hated modernity more than he loved Rome." (564)
+- [[Hans Urs von Balthasar]] died two days before the consistory. At his funeral [[Joseph Ratzinger]] recalled [[Henri de Lubac]]'s description of Balthasar as the "most cultured man in the contemporary world." (565)
+- John Paul II reimagined the *ad limina* (every 5 year) visit of bishops to Rome and focused intensely on the bishops and the situations in their diocese (566)
+- John Paul II took great interest in Russia and read many Russians, including the philosopher and theologian **Vladimir Soloviev** (568)
+- Marian year of 1987: "[[Mary]] is Queen of the Apostles without any pretensions to apostolic power: she has other and greater powers." (577)
+	- *Redemptoris Mater*: [[Mary]] united the two great moments of the Holy Spirit: the annunciation and Pentecost (578)
+	- *Mulieris Dignitatem* as a development of the distinctive [[Feminism]] of John Paul II; the root of the domination of women is not culture but sin, which fractures the equality of men and women as images of God (578-9) 
 
 
 
-## Chapter 19:
-***Summary**: *
+## Chapter 16: After the Empire of Lies
+*Miracles and the Mandates of Justice*
+- "Do not be afraid to be saints!" (593)
+- [[Henri de Lubac]] observed the rise of "atheistic humanism" preaching a new worldview by the likes of Compte, Feuerbach, Marx, and Nietzsche (600)
+- John Paul II saw Mikhail Gorbachev as a man of principle who, though false in his belief that he could "save communism with a human face", could be understood and reasoned with (602)
+- *Centesimus Annus* as an encyclical that dealt with economics from the bottom up rather than top down (612)
+	- Pope Leo XIII (*Rerum Novarum*) and John Paul II both saw the collapse of [[Socialism]] as inevitable because of its fundamental error about the nature of the human person (614)
+	- [[Marxism]] held that only by exacerbating social conflicts was it possible to resolve them through violent confrontation (614)
+	- *Centesimus Annus* was the CST abandonment of a "third way" between capitalism and socialism (615)
+	- Prophetic: "Atheistic humanism may have been a dead letter, jut John Paul II detected on the horizon a new secularist ideology that posed a serious threat to the future of freedom." (617)
+	- "A democracy without values easily turns into open or thinly disguised totalitarianism" (618, cf. *Democracy in America*). **A new form of tyranny, all the more dangerous for not recognizing itself as such, was encoded in those secularist ideologies that sought to banish transcendent moral standards from public life. The danger was not all that difficult to imagine. If a democracy did not recognize such a transcendent moral standard, the only way to resolve conflict within it was the exercise of raw force by one faction (imposing its will through legislation or by more violent means) over another. The aggrieved faction, in turn, would regard the imposition of a solution as a violation of its basic rights. The net result would be the dissolution of the democratic political community.** (618)
+- *Ex Corde Ecclesiae* as correction of the way Catholic universities in the US "cut themselves loose form their intellectual moorings in the midst of a major cultural crisis" (cf. Land O'Lakes): to John Paul II **the crucial question for free societies old and new was the relationship between freedom and truth.** (627)
 
 
+## Chapter 17: To the Ends of the Earth
+*Reconciling an Unreconciled World*
+- Against [[Scientism]]: "Science was not simply a matter of empirical facts. In describing the data of experience and drawing conclusions from it, scientists made use of concepts that were beyond the empirical. Scientists needed philosophers, just as philosophers had come to recognize that they needed scientists." (630)
+- *Redemptoris Missio*: the Church is missionary by her very nature (634)
+	- "Christian mission is one form of obedience to the great commandment of love for one's neighbor...Christ has saved us, and our willingness to share his Gospel with others is an index of the degree to which we have truly understood and grasped the import of that." (635)
+	- "**The Church proposes; she imposes nothing**" (636)
+- *Pastores Dabo Vobis* as a response to the crisis of the priesthood (654)
+	- "Every great reform movement in the history of the Catholic Church has required a reform of the priesthood" (654)
+	- Studying theology is "a means of fostering a deeper personal and communal relationship with Jesus Christ" (657)
+- John Paul II promulgated the *Catechism of the Catholic Church* in 1992 (committee with [[Joseph Ratzinger]] as chair and Dominican Christoph Schönborn as secretary):
+	- One of the few times John Paul II gave direct comments on the draft was the section on capital punishment; interesting to see [[Pope Francis]]'s subsequent revision of this section to describe the death penalty as "inadmissible" ([2267 revision](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2018/08/02/180802a.html), [article](https://www.vaticannews.va/en/pope/news/2018-08/pope-francis-cdf-ccc-death-penalty-revision-ladaria.html)) (661)
+	- Four-part organization of the *Catechism* follows the format of the [[Council of Trent]]: (1) [[Apostles' Creed]], (2) the Sacraments, (3) The [[Ten Commandments]], (4) Prayer
+	- The *Catechism* as a whole is, according to Schönborn, "a beautiful, coherent expression of the unity of faith" in which the truth of particular doctrines becomes clearer because of their relationship to the entire structure" (663)
+	- The *Catechism* asserts against [[Postmodernism]] the accessibility, unity, and coherence of Truth (663)
+- John Paul II's dogged pursuit of unity with Eastern Orthodoxy, including those that entered into full communion with Rome while keeping their Byzantine liturgy and internal governance such as the Greek Catholic Church in Ukraine (672)
 
-## Chapter 20:
-***Summary**: *
 
+## Chapter 18: The Threshold of Hope
+*Appealing to Our Better Angels*
+- *Veritas Splendor* (686)
+	- "Freedom, detached from truth, becomes license, and license becomes freedom's undoing." (688)
+	- *VS* asserts that "there is a universal moral law built into the human condition—a law that provides the 'grammar' for serious moral conversation among people of different cultures and life experiences" (689)
+	- *VS* works to implement [[Vatican II]] through [[Ressourcement]]: the recovery of foundational theological themes from the Bible, the theology of the first Christian centuries ,and medieval scholarship (694)
+- Interesting that the Holy See and the Vatican City State are distinct: the **Holy See** is the international legal embodiment of the ministry of the Bishop of Rome as universal pastor of the Catholic Church, and it is this entity that receives ambassadors and participates in international affairs (705)
+- Interesting discussion of the negotiations leading to the agreement with Israel in 697-713
+- [[Abortion]]: not an issue of sexual morality but of human rights, and for John Paul II "was not one issue, but *the* issue for the emerging world culture that would sustain, or corrupt, the free societies of the future" (716-7)
+
+
+## Chapter 19: Only One World
+*Human Solidarity and the Gospel of Life*
+- *Tertio Millennio Adveniente*  for the new Millennium (743)
+	- The Incarnation showed the world the face of God the Father and the true face of humanity. The Incarnation of Christ is the axial point of human history (cf. [[2021-06-22-Antonin Scalia On Faith]] 49) (743)
+- *Evangelium Vitae* against the "culture of death" (756)
+	- [[Joseph Ratzinger]] lecture: "If moral relativism was legally absolutized in the name of tolerance, basic rights were also relativized and the door was open to totalitarianism." (756)
+	- Allowed for proposals to limit the harm done by an evil law and lessening its negative consequences (e.g. the Hyde Amendment) (759)
+	- Centralized his stature as the "only true global leader left" as a result of his staunch adherence to moral principles supporting human flourishing (760)
+- John Paul II further developed his "distinctive [[Feminism]]" in fifteen Sunday Angelus addresses starting in February 1995
+- [[Te Deum]] by Haydn ([recording](https://youtu.be/PXNGqgNTNIQ)) (787)
+
+
+## Chapter 20: A Reasonable Faith
+*Beyond a Century of Delusions*
+- 
 
 
 ## Epilogue:
@@ -274,16 +333,30 @@ from Prologue (6-7)
 By John Paul II:
 
 - *Crossing the Threshold of Hope*
-- *Gift and Mystery*
+- ***Gift and Mystery***
 - *Love and Responsibility* (137, 140)
 - *Person and Act* (172)
 - *Sources of Renewal* (tour of the texts of Vatican II, 204)
 - *Theology of the Body* (334)
+- *Spiritual Pilgrimage: Texts on Jews & Judaism, 1979-1995* (see *Homily at the Beatification of [[Edith Stein]]*, 540, 915)
+- ***The Pope Speaks to the American Church: John Paul's Homilies, Speeches, and Letters to Catholics in America*** (551)
 
 Encyclicals & Apostolic Exhortations of John Paul II:
 
 - *Redemptor Hominis* (288)
 - *Familiaris Consortio* (385)
+- ***Laborem Exercens*** (419, 618)
+- *Salvifici Doloris* (475)
+- *Christifideles Laici* (553)
+- *Redemptoris Mater* and ***Mulieris Dignitatem*** (578)
+- *Centesimus Annus* (612)
+- *Ex Corde Ecclesiae* (625)
+- *Redemptoris Missio* (634)
+- *Pastores Dabo Vobis* (654)
+- *Veritas Splendor* (686)
+- *Tertio Millennio Adveniente* (743)
+- *Evangelium Vitae* (756)
+- *Ut Unum Sint* (760)
 
 Other:
 
@@ -302,6 +375,11 @@ Other:
 - *Introduction to Christianity* and ***Salt of the Earth*** by [[Joseph Ratzinger]] (443)
 - *Forget Not Love* by André Frossard (447) 
 - *The Way* by Escrivá (450)
+- *Religion, the Missing Dimension of Statecraft* edited by Douglas Johnston and Cynthia Sampson (912)
+- *Making Saints* by Woodward (540, 915)
+- "Homily at the Funeral Liturgy of [[Hans Urs von Balthasar]]" in *Hans Urs von Balthasar: His Life and Work* (565, 917)
+- *The Drama of Atheistic Humanism* by [[Henri de Lubac]] (600, 920)
+- 
 
 **New Words**
 
