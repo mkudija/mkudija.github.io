@@ -1,21 +1,7 @@
 
-# [*Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart*](https://www.amazon.com/Man-House-Handbook-Building-Shelter/dp/1532614772/ref=sr_1_2?crid=20911MCXTRS4R&keywords=man+of+the+house&qid=1559228348&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-2) by C. R. Wiley
+# [*Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart*](https://www.amazon.com/Man-House-Handbook-Building-Shelter/dp/1532614772) by C. R. Wiley
 
-(Eugene: Resource, 2017), 139
-
-## Books mentioned
-- *Nichomachean Ethics*
-- *Biblical and Theological Foundations of the Family*
-- Wendell Berry
-- *Shop Class as Soulcraft*
-- *The Household: Informal Order Around the Hearth*
-- *Brave New World*
-- *Tribe*
-- *The Abolition of Man*
-- *After Virtue*
-- *Leisure: The Basis of Culture*
-- *Small is Beautiful*
-- *Lord of the Rings*
+`(Eugene: Resource, 2017), 139`
 
 ## Forward
 - "Without a father there is no family." (ix)
@@ -82,3 +68,26 @@
 ## Chapter 12 - Legacy
 - the true wealth of a healthy household is the productive capacity of its members (125)
 - we should strive to give our children *virtue*
+
+
+--- 
+
+**Bibliography**
+
+- *Nichomachean Ethics*
+- *Biblical and Theological Foundations of the Family*
+- Wendell Berry
+- *Shop Class as Soulcraft*
+- *The Household: Informal Order Around the Hearth*
+- *Brave New World*
+- *Tribe*
+- *The Abolition of Man*
+- *[[2020-11-18-After Virtue|After Virtue]]*
+- *Leisure: The Basis of Culture*
+- *Small is Beautiful*
+- *Lord of the Rings*
+
+---
+Notes started: 2019-05-30
+Last updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+

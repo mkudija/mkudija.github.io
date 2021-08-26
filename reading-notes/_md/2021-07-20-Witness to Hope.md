@@ -1,56 +1,76 @@
 # [*Witness to Hope: The Biography of Pope John Paul II*](https://www.amazon.com/Witness-Hope-Biography-Pope-John/dp/006018793X) by [[George Weigel]]
 
-![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1)
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1" width=150>
+
 `(New York: HarperCollins, 1999), 960`
 
-I bought this off Amazon for $4 back in June of 2015 when I was living in LA. I forget why I bought it then but it was perhaps after listening to *John Paul II: A Personal Portrait of the Pope and the Man* by Ray Flynn. Its bulk sat on my shelf while I continued to read *Rise, Let Us Be On Our Way*, *[[2019-12-23-Centesimus Annus|Centesimus Annus]]*, *Theology of the Body*, and *The Jeweler's Shop* by him, and *[[2019-03-10-Lead Yourself First|Lead Yourself First]]* by Raymond Kethledge, *John Paul the Great: Remembering a Spiritual Father* by Peggy Noonan and *Saint John Paul the Great* by Jason Evert about him. Then at the end of May 2021—with high recommendation from [[Fr. Dailey]]—I felt prompted to pick it up and dive in. What an adventure!
+I bought this off Amazon for $4 back in June of 2015 when I was living in LA. I forget why I bought it then but it was perhaps after listening to *John Paul II: A Personal Portrait of the Pope and the Man* by Ray Flynn. Its great bulk sat on my shelf through three moves while I continued to read some other titles by John Paul II (*Rise, Let Us Be On Our Way*, *[[2019-12-23-Centesimus Annus|Centesimus Annus]]*, *Theology of the Body*, and *The Jeweler's Shop*) or about him (*[[2019-03-10-Lead Yourself First|Lead Yourself First]]* by Raymond Kethledge, *John Paul the Great: Remembering a Spiritual Father* by Peggy Noonan and *Saint John Paul the Great* by Jason Evert). Then at the end of May 2021—with high recommendation from [[Fr. Dailey]]—I felt prompted to pick it up and dive in. What an adventure!
 
-The years 2018–2020 were for reading William Manchester's *[[2018-07-11-Last Lion—Visions of Glory|The Last Lion]]* trilogy on Churchill[^churchill], and now the years 2021–2023 can be for reading Weigel's John Paul II trilogy.
+I spent 2018 through 2020 reading William Manchester's *[[2018-07-11-Last Lion—Visions of Glory|The Last Lion]]* trilogy on Churchill[^churchill], and can now spent 2021 through 2023 reading Weigel's trilogy on John Paul II.
 
-[^churchill]: Churchill, by the way, is perhaps the one other figure who may have claim to be the greatest figure of the 20th century apart from John Paul II, a thought I had while finishing *[[2021-08-02-Team of Rivals#^2b09ad]]*.
+[^churchill]: Churchill, by the way, is perhaps the one figure other than John Paul II who could make a claim on the title of "greatest figure of the 20th century", a thought I had while finishing *[[2021-08-02-Team of Rivals#^2b09ad|Team of Rivals]]* which suggests Lincoln as the greatest figure of the 19th century.
 
-I love reading biographies because it is simultaneously the story of a person and the history of the world they inhabited. This here is not only the story of John Paul II, but also a history of Poland's "double defeat" in World War II by the Nazi's and subsequent Communist rule, the most lucid history of Vatican II and its implementation I have yet encountered, and a fascinating view into the workings of the Holy See. 
+Reading biographies is perhaps the best way to learn history: you can best understand a person by understanding the world they inhabited. *Witness to Hope* is not only the story of John Paul II, but also a history of Poland's "double defeat" in World War II, the most lucid history of Vatican II and its implementation I have yet encountered, and a fascinating view into the workings of the Holy See.
 
+Being an authorized biography, Weigel had impressive access to interview those close to Karol Wojtyła in Poland and John Paul II in Rome, as shown by the extensive notes to the volume. It's interesting that John Paul II chose Weigel, an American. There must be some bias associated with reading about John Paul II through an American lens, though of course this is the angle I'm most interested in as an American myself.
 
-Themes:
-- Christian humanism and anthropology as a response to the dangers of modernity
-- Speaking truth to power, the power of hope, and how there is no fear if we are rooted in Christ: "Be not afraid!" (66)
-- Always propose, never impose: "You must decide" (13, 105)
-- Priority of culture: history is driven by culture (7, 22, 296)
-- The crisis of the modern world is a crisis of *ideas*, and a crisis of the *idea of a human person* (7)
-- The drama of life: we are moral agents, and Christ is the center of the cosmic drama (8)
-- The Law of the Gift (136)
-- 
+Karol Wojtyła was formed in the crucible of the two great evil regimes of the 20th century: Nazi fascism and Soviet communism. His perspective on suffering is born of personal experience and his call to "Be not afraid!" carries the moral authority of someone who has stood up to some of the worst evil the human heart has produced. And through his Carmelite spirituality, influenced by St. John of the Cross, he taught and lived the reality of the cross, that suffering is a central part of our human experience.
 
+John Paul II is a great humanist, offering an integrated Christian anthropology to correct the twisted interpretations of the human person offered by modernity. To a world that so often reduces a person to a subject of state control, a consumer in a market economy, or an object of sexual pleasure, he proposes a view of the human person as a moral agent, created as man and woman in the image of God. And our true happiness and fulfillment as human persons is found ultimately in self-giving love.
 
-from Prologue (6-7)
-- Against modernity's pleasure seeking, he teaches that suffering is central and redemptive (34: redemptive suffering central to Polish self-understanding)
-- Against intellectual skepticism, he teaches that universal truths exist, are knowable, and impose moral duties (70)
-- Against plastic personality, he defends a universal human nature
-- Against a world that equates happiness with success, he teaches that happiness comes from obedient submission to truth and love
-- Against utility, he focuses on inherent human dignity
-- 
+Now that I am the father of a daughter, I am especially interested in the Christian feminism articulated by John Paul II, focused intensely on Mary as the Mother of the Church and echoing voices such as Edith Stein. This Christian *feminism* flows naturally from a Christian *humanism*. 
+
+John Paul II believed and taught the priority of *culture* in forming human societies and writing human history. Culture—not politics or economics—is the driving force of history. The truth of this position is seen in the survival of the Polish people despite the destruction of the Polish state, and has hopeful implications for our situation today: we may not be able to change political or social structures directly, but we most certainly can change the culture, starting with the most basic culture in our families.
+
+Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows how he inspired millions of people around the world—Catholics and non-Catholics alike. Some of the most holy priests I know point to him as a major figure in the discernment of their vocations. John Paul II has become an influential figure in my life, and *Witness to Hope* has been an adventure in getting to know him more.
 
 
 <details>
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
+- [Chapter 1: A Son of Freedom](#chapter-1-a-son-of-freedom)
+- [Chapter 2: From the Underground](#chapter-2-from-the-underground)
+- [Chapter 3: "Call Me *Wujek*"](#chapter-3-call-me-wujek)
+- [Chapter 4: Seeing Things as They Are](#chapter-4-seeing-things-as-they-are)
+- [Chapter 5: A New Pentecost](#chapter-5-a-new-pentecost)
+- [Chapter 6: Successor to St. Stanisław](#chapter-6-successor-to-st-stanis%C5%82aw)
+- [Chapter 7: A Pope From a Far Country](#chapter-7-a-pope-from-a-far-country)
+- [Chapter 8: Be Not Afraid!](#chapter-8-be-not-afraid)
+- [Chapter 9: "How Many Divisions Has the Pope?"](#chapter-9-how-many-divisions-has-the-pope)
+- [Chapter 10: The Ways of Freedom](#chapter-10-the-ways-of-freedom)
+- [Chapter 11: Peter Among Us](#chapter-11-peter-among-us)
+- [Chapter 12: In the Eye of the Storm](#chapter-12-in-the-eye-of-the-storm)
+- [Chapter 13: LIberating Liberations](#chapter-13-liberating-liberations)
+- [Chapter 14: Reliving the Council](#chapter-14-reliving-the-council)
+- [Chapter 15: Forward to Basics](#chapter-15-forward-to-basics)
+- [Chapter 16: After the Empire of Lies](#chapter-16-after-the-empire-of-lies)
+- [Chapter 17: To the Ends of the Earth](#chapter-17-to-the-ends-of-the-earth)
+- [Chapter 18: The Threshold of Hope](#chapter-18-the-threshold-of-hope)
+- [Chapter 19: Only One World](#chapter-19-only-one-world)
+- [Chapter 20: A Reasonable Faith](#chapter-20-a-reasonable-faith)
+- [Epilogue: The Third Millennium](#epilogue-the-third-millennium)
+- [Humorous](#humorous)
+
 <!-- /MarkdownTOC -->
 </details>
 
 
-## Humorous
-- Polish joke: "Should Poland be invaded simultaneously by Germans and Russians, the Polish army should shoot the Germans first, on the ancient principle of business before pleasure." (21)
-- WWII is the war Poland lost twice (46)
-- "It's a good draft. Perhaps it could be translated first from Polish into Polish." –Styczeń's reaction to Wojtyła when asked about his *Person and Act* (174)
-- Cardinal Wojtyła disciplined a young priest, then went to his chapel and asked, "Would you please hear my confession now?" (194)
-- Vatican Curia: "We think in centuries here." (266)
-- Someone asked about the cost of the swimming pool John Paul II was putting in, and he replied that he needed exercise and it was less expensive than holding another conclave. (332)
-- After being shot, he referred to his physicians as "the Sanhedrin" (414)
-- John Henry Newman when asked what the clergy should think of the laity: "we would look rather silly without them" (553)
-- One bishop, who had put on weight since he had last seen the Pope, as awsked by John Paul II, "Is your diocese growing?" The bishop replied, yes, parishes were expanding. "So is the bishop," said the Pope. (567)
-- "Press coverage of the encyclical predictably stressed the Pope's reaffirmation of classic Catholic sexual morality, although in fact these issues were barely referenced in *Veritas Splendor*, it was not clear why reporters thought it newsworthy that the Pope continued to think that fornication was wrong." (692)
+## Prologue
+- Against modernity's pleasure seeking, he teaches that suffering is central and redemptive (34: redemptive suffering central to Polish self-understanding)
+- Against intellectual skepticism, he teaches that universal truths exist, are knowable, and impose moral duties (70)
+- Against plastic personality, he defends a universal human nature
+- Against a world that equates happiness with success, he teaches that happiness comes from obedient submission to truth and love
+- Against utility, he focuses on inherent human dignity
+- Some themes
+	- Christian humanism and anthropology as a response to the dangers of modernity (95, 845)
+	- Speaking truth to power, the power of hope, and how there is no fear if we are rooted in Christ: "Be not afraid!" (66)
+	- Always propose, never impose: "You must decide" (13, 105, 636) ^5a5335
+	- Priority of culture: history is driven by culture (7, 22, 296, 792)
+	- The crisis of the modern world is a crisis of *ideas*, and a crisis of the *idea of a human person* (7)
+	- The drama of life: we are moral agents, and Christ is the center of the cosmic drama (8)
+	- The Law of the Gift (136)
+
 
 ## Chapter 1: A Son of Freedom
 *Early life*
@@ -109,7 +129,7 @@ from Prologue (6-7)
 *Wojtyła the Philosopher*
 - **Phenomenology**: bring everyday things back into philosophy, see things whole and as they are, see [[Max Scheler]], [[Dietrich von Hildebrand]], [[Edith Stein]] (127)
 	- cf. *[[2020-11-18-After Virtue|After Virtue]]* (128): "If the choice was not between good and evil, but only between personal preferences, then all choices were ultimately indifferent and the real choice no longer existed" --> removes human freedom (129)
-	- synthesized the metaphsical realism of [[Aristotle]] and [[St. Thomas Aquinas]] with the human experience of [[Max Scheler]] (128)
+	- synthesized the metaphysical realism of [[Aristotle]] and [[St. Thomas Aquinas]] with the human experience of [[Max Scheler]] (128)
 - Karol Wojtyła constantly re-read the Gospel of [[John]], leading to his focus on people rather than texts (129-130)
 - Pursuit of **philosophical anthropology** at the KUL (Catholic University of Lublin) (132):
 	- The root of our issues is a modern crisis in the understanding of the human person --> requires redirecting philosophy since the [[Enlightenment]]
@@ -219,10 +239,10 @@ from Prologue (6-7)
 	- The temptations of various spiritualities: [[Franciscan]] to sentimentality, [[Dominican]] to arid intellectualism, [[Benedictine]] replacement of stability with complacency, [[Jesuit]] to becoming elite that no longer respects Church's authority (425)
 
 
-## Chapter 13: LIberating Liberations
+## Chapter 13: Liberating Liberations
 *The Limits of Politics and the Promise of Redemption*
 - John Paul II: **"In the designs of Providence there are no mere coincidences."** (440)
-- **[[Joseph Ratzinger]]** appointment as prefect of the Congregation for the Doctrine of the Faith the most important of John Paul II's papcy (442)
+- **[[Joseph Ratzinger]]** appointment as prefect of the Congregation for the Doctrine of the Faith the most important of John Paul II's papacy (442)
 	- [[Joseph Ratzinger]], [[Karol Wojtyła]], and [[Henri de Lubac]] formed the *Communio* interpretation of [[Vatican II]] (443)
 	- Ratzinger's appointment signaled the importance of theology and a shift away from Thomism (444)
 -  Liberation theology as "good spaghetti" (Church's work with the poor) with "poor sauce" (Marxist analysis leading to violence in the name of the Gospel) (451, 906)
@@ -316,14 +336,43 @@ from Prologue (6-7)
 
 ## Chapter 20: A Reasonable Faith
 *Beyond a Century of Delusions*
-- 
+- "John Paul II had an influence greater than the church because he articulated universal values in a way that moves beyond the borders of the Catholic Church." (805)
+- John Paul II reformed the procedures around electing a new pope, including provision for the *resignation* of a Pope which would be needed with Benedict XVI (831)
+- *Dies Domini* (836) on keeping the Lord's day holy
+- John Paul II canonized [[Edith Stein]], a woman who was a "synthesis of the twentieth century in its troubled quest for a genuine humanism"..she said to us: "Do not accept anything as the truth if it lacks love. And do not accept anything as love which lacks truth!" (839)
+- *Fides et Ratio*: philosophy's "false modesty" precluded its asking the large questions; recovering confidence is essential to reconstituting a true humanism for the third millennium (841)
 
 
-## Epilogue:
-***Summary**: *
+## Epilogue: The Third Millennium
+*To See the Sun Rise*
+- Historic accomplishments of John Paul II's papacy (854):
+	1. Recast the papacy and returned it to its evangelical roots
+	2. Secured the legacy of [[Vatican II]], especially *Gaudium et Spes* 22 and 24 how Jesus reveals both God and the true meaning of human existence, and how meaning is found in self-giving
+	3. Spoke truth to power and witnessed the collapse of communism
+	4. Reconfigured Catholic social doctrine, free societies are built upon a vibrant public moral culture and the dignity of the human person
+	5. Ecumenical work for Christian unity and with Judaism and other world religions
+	6. Personally inspired millions: "Be not afraid!"
+- John Paul II's Christian [[Feminism]] anchored in the Bible and the Marian Church (852)
+- John Paul II remained a [[Carmelite]] at heart: "The joy a Christian experiences from knowing christ's ultimate victory over evil intensifies one's awareness of evil's enduring power in the world. Life, and the daily papal duty of bringing the world's suffering before the Lord in prayer, had deepened his Carmelite intuition that all roads to the truth eventually wind their way to Calvary, to the cross. And Calvary was, and remains, a lonely place." (862)
+- Weigel makes the case that John Paul II is MacIntyre's "new St. Benedict" (cf. [[2020-11-18-After Virtue#Ch 18 - After Virtue Nietzsche or Aristotle Trotsky and St Benedict]], 863)
+	- **"The antidote to despair amid the sundry madnesses of late modernity, the Pope had long proposed, was the experience of a community of self-giving love in which we learn the destiny that awaits us on the far side of loneliness—life within the community of God, Father, Son, and Holy Spirit."** (863)
+- If John Paul II becomes "John Paul the Great" it will be because he met the barbarian threat and proposed an alternative (863):
+	- Leo the Great against Attila the Hun
+	- Gregory the Great against the Lombards
+	- John Paul II against the defective humanisms
+- John Paul II resembled G. K. Chesterton's description of Thomas More: **"he was above all things, historic: he represented at once a type, a turning-point, and an ultimate destiny. If there had not been that particular man at that particular moment, the whole of history would have been different."** (864)
 
-
-
+## Humorous
+- Polish joke: "Should Poland be invaded simultaneously by Germans and Russians, the Polish army should shoot the Germans first, on the ancient principle of business before pleasure." (21)
+- WWII is the war Poland lost twice (46)
+- "It's a good draft. Perhaps it could be translated first from Polish into Polish." –Styczeń's reaction to Wojtyła when asked about his *Person and Act* (174)
+- Cardinal Wojtyła disciplined a young priest, then went to his chapel and asked, "Would you please hear my confession now?" (194)
+- Vatican Curia: "We think in centuries here." (266)
+- Someone asked about the cost of the swimming pool John Paul II was putting in, and he replied that he needed exercise and it was less expensive than holding another conclave. (332)
+- After being shot, he referred to his physicians as "the Sanhedrin" (414)
+- John Henry Newman when asked what the clergy should think of the laity: "we would look rather silly without them" (553)
+- One bishop, who had put on weight since he had last seen the Pope, as awsked by John Paul II, "Is your diocese growing?" The bishop replied, yes, parishes were expanding. "So is the bishop," said the Pope. (567)
+- "Press coverage of the encyclical predictably stressed the Pope's reaffirmation of classic Catholic sexual morality, although in fact these issues were barely referenced in *Veritas Splendor*, it was not clear why reporters thought it newsworthy that the Pope continued to think that fornication was wrong." (692)
 
 
 --- 
@@ -357,10 +406,14 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 - *Tertio Millennio Adveniente* (743)
 - *Evangelium Vitae* (756)
 - *Ut Unum Sint* (760)
+- ***Dies Domini*** (836)
+- *Fides et Ratio* (841)
+
 
 Other:
 
-- *Brave New World* by Aldous Huxley
+- *Gaudium et Spes* (22 and 24 especially), 846
+- *Brave New World* by Aldous Huxley (12)
 - *True Devotion to Mary* by St. Louis de Montfort (57)
 - *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)
 - *Metaphysics* by Kazimierz Wais (70)
@@ -379,7 +432,10 @@ Other:
 - *Making Saints* by Woodward (540, 915)
 - "Homily at the Funeral Liturgy of [[Hans Urs von Balthasar]]" in *Hans Urs von Balthasar: His Life and Work* (565, 917)
 - *The Drama of Atheistic Humanism* by [[Henri de Lubac]] (600, 920)
-- 
+- Trilogy by Henryk Siekiewicz (833, 944)
+- *In the Fullness of Faith* by [[Hans Urs von Balthasar]] (853, 864, 945)
+- *[[2020-11-18-After Virtue]]* by [[Alasdair MacIntyre]] (863)
+- ***The King's Good Servant but God's First*** by James Monti (864, 946)
 
 **New Words**
 
@@ -395,5 +451,5 @@ Other:
 - 156: "spot **when** Jesus had died" to "spot **where** Jesus had died"
 
 ---
-Notes started: 2021-07-20
-Last updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: 2021-07-20
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

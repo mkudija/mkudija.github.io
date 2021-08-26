@@ -1,4 +1,6 @@
-# [*After Virtue: A Study in Moral Theory*](https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040/ref=sr_1_1?dchild=1&keywords=after+virtue&qid=1605726855&sr=8-1) by Alasdair MacIntyre
+# [*After Virtue: A Study in Moral Theory*](https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040) by Alasdair MacIntyre
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.d-0cof2wRnnKM4aRRhNH_gAAAA%26pid%3DApi&f=1" width=150>
 
 `(Notre Dame: University of Notre Dame Press, 1981/1982 [2nd Edition]), 278`
 
@@ -306,3 +308,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 **New Words**
 
 - *solipsism*: The theory that the self is the only thing that can be known and verified (258)
+
+---
+Created: 2020-11-18
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

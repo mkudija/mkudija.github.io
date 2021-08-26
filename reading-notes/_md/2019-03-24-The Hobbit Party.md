@@ -1,18 +1,6 @@
-# [*The Hobbit Party: The Vision of Freedom that Tolkien Got, and the West Forgot*](https://www.amazon.com/Hobbit-Party-Vision-Freedom-Tolkien/dp/1586178237/ref=sr_1_1?crid=20911MCXTRS4R&keywords=the+hobbit+party&qid=1553442041&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by Jay Richards & Jonathan Witt
+# [*The Hobbit Party: The Vision of Freedom that Tolkien Got, and the West Forgot*](https://www.amazon.com/Hobbit-Party-Vision-Freedom-Tolkien/dp/1586178237) by Jay Richards & Jonathan Witt
 
-(San Francisco: Ignatius, 2014), 190
-
-## Major Books Mentioned
-- *J.R.R. Tolkien: Author of the Century* by Tom Shippey
-- 
-
-## Words
-- **quotidian**: of or occurring every day; daily. (55)
-- **eucatastrophe**: a happy ending (86)
-- **peripatetic**: traveling from place to place, in particular working or based in various places for relatively short periods. (136)
-- **de rigueur**: required by etiquette or current fashion. (151)
-- **prolegomena**: a critical or discursive introduction to a book. (162)
-
+`(San Francisco: Ignatius, 2014), 190`
 
 ## Chapter 1 - Big Government
 - Books Mentioned:
@@ -45,7 +33,7 @@
 
 ## Chapter 3 - Market
 - Books Mentioned:
-  - Ratzinger's *Crisis of Reason* from *Regensburg address*
+  - [[Joseph Ratzinger]]'s *Crisis of Reason* from *Regensburg address*
   - *The Spirit of Democratic Capitalism* by Novak (55, 196)
   - *J.R.R. Tolkien: Author of the Century* by Tom Shippey
 - Smaug and a discussion of the proper virtues but also temptations of vice of both the aristocracy and bourgeois (54-60)
@@ -113,4 +101,22 @@
 
 ## Chapter 9 - Death
 - Tolkien: central theme of LOTR is "death and the desire for deathlessness" (168)
+
+--- 
+
+**Bibliography**
+
+- *J.R.R. Tolkien: Author of the Century* by Tom Shippey
+
+**New Words**
+
+- **quotidian**: of or occurring every day; daily. (55)
+- **eucatastrophe**: a happy ending (86)
+- **peripatetic**: traveling from place to place, in particular working or based in various places for relatively short periods. (136)
+- **de rigueur**: required by etiquette or current fashion. (151)
+- **prolegomena**: a critical or discursive introduction to a book. (162)
+
+---
+Notes started: 2019-03-24
+Last updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 
