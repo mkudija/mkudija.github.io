@@ -1,6 +1,6 @@
 # [*After Virtue: A Study in Moral Theory*](https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040) by Alasdair MacIntyre
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.d-0cof2wRnnKM4aRRhNH_gAAAA%26pid%3DApi&f=1" width=150>
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.d-0cof2wRnnKM4aRRhNH_gAAAA%26pid%3DApi&f=1)
 
 `(Notre Dame: University of Notre Dame Press, 1981/1982 [2nd Edition]), 278`
 
