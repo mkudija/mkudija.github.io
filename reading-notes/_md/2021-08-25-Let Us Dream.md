@@ -1,7 +1,9 @@
 
 # [*Let Us Dream: The Path to a Better Future*](https://www.amazon.com/Let-Us-Dream-Better-Future/dp/1982171863) by Pope Francis in conversation with Austen Ivereigh  
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41+wOLCz-wL._SX324_BO1,204,203,200_.jpg" width=150>
+![](https://images-na.ssl-images-amazon.com/images/I/41+wOLCz-wL._SX324_BO1,204,203,200_.jpg)
+
+%%<img src="https://images-na.ssl-images-amazon.com/images/I/41+wOLCz-wL._SX324_BO1,204,203,200_.jpg" width=150>%%
 
 `(New York: Simon & Schuster, 2020), 144`
   
