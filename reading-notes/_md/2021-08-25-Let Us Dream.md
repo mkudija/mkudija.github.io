@@ -3,8 +3,6 @@
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41+wOLCz-wL._SX324_BO1,204,203,200_.jpg)
 
-%%<img src="https://images-na.ssl-images-amazon.com/images/I/41+wOLCz-wL._SX324_BO1,204,203,200_.jpg" width=150>%%
-
 `(New York: Simon & Schuster, 2020), 144`
   
  [[Fr. Missimi]] gave me this book, which is Pope Francis' reflection and response to the Covid pandemic. I remember watching the election of Pope Francis while on spring break in Panama City Beach in 2013 and his address before the US Congress from my desk at SpaceX in 2015, and I'm still trying to figure him out.

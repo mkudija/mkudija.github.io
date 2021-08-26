@@ -2,8 +2,6 @@
 
 ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1)
 
-%%<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1" width=150>%%
-
 `(New York: HarperCollins, 1999), 960`
 
 I bought this off Amazon for $4 back in June of 2015 when I was living in LA. I forget why I bought it then but it was perhaps after listening to *John Paul II: A Personal Portrait of the Pope and the Man* by Ray Flynn. Its great bulk sat on my shelf through three moves while I continued to read some other titles by John Paul II (*Rise, Let Us Be On Our Way*, *[[2019-12-23-Centesimus Annus|Centesimus Annus]]*, *Theology of the Body*, and *The Jeweler's Shop*) or about him (*[[2019-03-10-Lead Yourself First|Lead Yourself First]]* by Raymond Kethledge, *John Paul the Great: Remembering a Spiritual Father* by Peggy Noonan and *Saint John Paul the Great* by Jason Evert). Then at the end of May 2021—with high recommendation from [[Fr. Dailey]]—I felt prompted to pick it up and dive in. What an adventure!
