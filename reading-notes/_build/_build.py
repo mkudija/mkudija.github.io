@@ -64,7 +64,7 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
 
     # md = md[md.index('\n'):] # drop metadata from article text
     mdString = ''.join(md)
-    body = markdown2.markdown(mdString, extras=['footnotes','smarty-pants','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
+    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
 
     template[template.index('#BODY#')] = body

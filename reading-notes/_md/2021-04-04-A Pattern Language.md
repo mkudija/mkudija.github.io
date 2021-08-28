@@ -7,13 +7,6 @@
 - `Notes Started: 2021-06-23`
 
 
-<details>
- <summary><i>Contents</i></summary>
-<!-- MarkdownTOC autolink="true" -->
-
-<!-- /MarkdownTOC -->
-</details>
-
 ## Introduction
 >No pattern is an isolated entity...This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. (xiii)
 
@@ -29,4 +22,7 @@
 **Bibliography**
 - *The Timeless Way of Building* (same authors, Part I of a single work of which the present work is Part II)
 
-**New Words**
+
+---
+Created: 2021-04-04
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

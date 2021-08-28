@@ -1,6 +1,6 @@
 # [*Witness to Hope: The Biography of Pope John Paul II*](https://www.amazon.com/Witness-Hope-Biography-Pope-John/dp/006018793X) by [[George Weigel]]
 
-![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1)
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1" width=150>
 
 `(New York: HarperCollins, 1999), 960`
 
@@ -24,6 +24,9 @@ John Paul II believed and taught the priority of *culture* in forming human soci
 
 Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows how he inspired millions of people around the world—Catholics and non-Catholics alike. Some of the most holy priests I know point to him as a major figure in the discernment of their vocations. John Paul II has become an influential figure in my life, and *Witness to Hope* has been an adventure in getting to know him more.
 
+---
+
+# Notes
 
 <details>
  <summary><i>Contents</i></summary>

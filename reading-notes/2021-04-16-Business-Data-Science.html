@@ -38,7 +38,7 @@
 <h3 id="resources">Resources</h3>
 
 <ul>
-<li><em>The author&#8217;s data and R scripts for the books is on <a target="_blank" href="https://github.com/TaddyLab/bds">GitHub</a> (see also code for <a target="_blank" href="https://github.com/TaddyLab/MBA">MBA course</a>).</em></li>
+<li><em>The author's data and R scripts for the books is on <a target="_blank" href="https://github.com/TaddyLab/bds">GitHub</a> (see also code for <a target="_blank" href="https://github.com/TaddyLab/MBA">MBA course</a>).</em></li>
 <li><em>My code to accompany these notes is on <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science">GitHub</a>.</em></li>
 <li><em>Amazon <a target="_blank" href="https://www.amazon.science/business-data-science-is-a-lot-more-than-just-making-predictions-matt-taddy">author interview</a> discussing concepts from the book.ou</em></li>
 </ul>
@@ -56,15 +56,15 @@
 <ul><br />
 <li>Motivating example: visualized CAPM outputs give a richer view for decisions making than just a messy plot of returns (Figure I.3, <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science/blob/main/0-introduction/3-stock-returns/0-introduction_stock-returns.ipynb">reproduced here</a>)</li><br />
 </ul></li>
-<li>&#8220;Modern methods&#8221; are distinguished by <em>big data</em> and <em>machine learning</em><br />
+<li>"Modern methods" are distinguished by <em>big data</em> and <em>machine learning</em><br />
 <ul><br />
 <li>Data Science ≈ statistics + BD + ML</li><br />
 <li>Business Data Science ≈ statistics + BD + ML + economics + econometrics + business context</li><br />
 </ul></li>
-<li><strong>Big Data</strong>: data can be &#8220;big&#8221; in terms of both <em>volume</em> and <em>complexity</em><br />
+<li><strong>Big Data</strong>: data can be "big" in terms of both <em>volume</em> and <em>complexity</em><br />
 <ul><br />
 <li>Big (<em>volume</em>) Data is where the scale swamps RAM and requires piping by data engineers</li><br />
-<li>Big (<em>complexity</em>) Data is big <em>dimension</em> data where the assumptions of classical statistics break down ("big <em>p</em>&#8221; problems)</li><br />
+<li>Big (<em>complexity</em>) Data is big <em>dimension</em> data where the assumptions of classical statistics break down ("big <em>p</em>" problems)</li><br />
 </ul></li>
 <li><strong>Machine Learning</strong>: automatically build <em>predictions</em> from complex data<br />
 <ul><br />
@@ -72,25 +72,25 @@
 <li>Limited <em>structural</em> interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)</li><br />
 <li><em>Structural analysis</em> refers to building analytically from theory, as compared with the pragmatic, black-box <em>prediction</em> of machine learning</li><br />
 <li>Good data science then is having an overall understanding of the domain to know the appropriate <em>prediction</em> tasks to throw at ML, and the <em>structural</em> problems to address with classical economics and statistics</li><br />
-<li>&#8220;A policy-maker who can deploy ML to solve the many prediction tasks that they face will be able to automate and accelerate their decision process.&#8221; (7)</li><br />
+<li>"A policy-maker who can deploy ML to solve the many prediction tasks that they face will be able to automate and accelerate their decision process." (7)</li><br />
 <li>ML prediction tools should be part of a larger system with goals beyond pure prediction</li><br />
 </ul></li>
 <li><strong>Computation</strong><br />
 <ul><br />
-<li>This book uses R, but the key point is that &#8220;anyone working with data will need to continue learning and updating their computational (and methodological) skills&#8221;; best way to learn is by doing (11)</li><br />
+<li>This book uses R, but the key point is that "anyone working with data will need to continue learning and updating their computational (and methodological) skills"; best way to learn is by doing (11)</li><br />
 </ul></li>
 </ul>
 
 <h2 id="chapter-1-uncertainty">Chapter 1: Uncertainty</h2>
 
-<p><em>Summary: This chapter introduces <strong>nonparametric</strong> ("data driven&#8221;, frequentist) and <strong>parametric</strong> ("theoretical&#8221;, Bayesian) approaches to quantifying uncertainty. <strong>The Bootstrap</strong> is a flexible nonparametric method that works by resampling with replacement. The <strong>Benjamini-Hochberg</strong> algorithm provides a method of selecting variables by ranked p-value based on the desired false discovery rate. Finally, we learn about the <strong>Bayesian</strong> framework for combining assumptions with evidence.</em></p>
+<p><em>Summary: This chapter introduces <strong>nonparametric</strong> ("data driven", frequentist) and <strong>parametric</strong> ("theoretical", Bayesian) approaches to quantifying uncertainty. <strong>The Bootstrap</strong> is a flexible nonparametric method that works by resampling with replacement. The <strong>Benjamini-Hochberg</strong> algorithm provides a method of selecting variables by ranked p-value based on the desired false discovery rate. Finally, we learn about the <strong>Bayesian</strong> framework for combining assumptions with evidence.</em></p>
 
 <ul>
 <li><strong>Parametric</strong> vs <strong>Nonparametric</strong><br />
 <ul><br />
-<li><strong>Parametric</strong>: &#8220;theoretical&#8221;</li><br />
+<li><strong>Parametric</strong>: "theoretical"</li><br />
 <li>conditional on assumed true model</li><br />
-<li><strong>Nonparametric</strong>: &#8220;data driven&#8221;</li><br />
+<li><strong>Nonparametric</strong>: "data driven"</li><br />
 <li>allows for model misspecification</li><br />
 </ul></li>
 </ul>
@@ -108,8 +108,8 @@
   <td>Quantifies uncertainty</td>
 </tr>
 <tr>
-  <td>&#8220;Theoretical&#8221;</td>
-  <td>&#8220;Data-driven&#8221;</td>
+  <td>"Theoretical"</td>
+  <td>"Data-driven"</td>
 </tr>
 <tr>
   <td>Bayesian</td>
@@ -124,8 +124,8 @@
   <td>More flexible</td>
 </tr>
 <tr>
-  <td>&#8220;Ideal&#8221; for theory</td>
-  <td>&#8220;Ideal&#8221; for decision-making</td>
+  <td>"Ideal" for theory</td>
+  <td>"Ideal" for decision-making</td>
 </tr>
 <tr>
   <td>High-dimensional data ok</td>
@@ -146,12 +146,12 @@
 <li><strong>The Bootstrap</strong>: uses resampling (<em>with replacement</em>) from your current sample to mimic the sampling distribution and introduce variability<br />
 <ul><br />
 <li>use the Bootstrap because theoretical Gaussian distributions derived from the CLT are not valid for many complex settings (i.e. number of model parameters large relative to number of observations)</li><br />
-<li>the Bootstrap will work in many settings where theory is either unavailable or incorrect (if the Bootstrap fails, there probably isn&#8217;t a good theoretical replacement)</li><br />
+<li>the Bootstrap will work in many settings where theory is either unavailable or incorrect (if the Bootstrap fails, there probably isn't a good theoretical replacement)</li><br />
 <li>an alternative is the <strong>Parametric Bootstrap</strong>: generate new data by drawing from a fitted model (the results are sensitive to how well the model represents reality, but this is a practical option when more robust procedures are impossible)</li><br />
 </ul></li>
 <li><strong><em>p</em>-values</strong>: represents how rare or strange your sample would be if the null hypothesis is true<br />
 <ul><br />
-<li>the proportion of times that you would wrongly reject your safe null if the test statistic you&#8217;ve observed is enough to lead you to adopt the alternative</li><br />
+<li>the proportion of times that you would wrongly reject your safe null if the test statistic you've observed is enough to lead you to adopt the alternative</li><br />
 <li>measures the probability mass in the tails past your observed test statistic</li><br />
 </ul></li>
 <li><strong>Benjamini-Hochberg (BH) FDR Control</strong>: controls your false discovery rate (FDR) by defining a cutoff on the ranked list of <em>p</em>-values from your model<br />
@@ -164,7 +164,7 @@
 <ul><br />
 <li>characterizes probabilities over models and parameters by appealing to the idea of subjective beliefs rather than repeated trials</li><br />
 <li>quantification of risks and expected rewards is inherently Bayesian</li><br />
-<li>&#8220;If you believe <em>A</em> and then you observe <em>B</em>, you should update your beliefs to <em>C</em>.&#8221;</li><br />
+<li>"If you believe <em>A</em> and then you observe <em>B</em>, you should update your beliefs to <em>C</em>."</li><br />
 <li>provides a framework for combining <em>assumptions</em> with <em>evidence</em></li><br />
 <li>mechanically works with combination of <em>prior distributions</em> and <em>likelihood</em> (the probability of the data you have observed given a fixed set of mode parameters)</li><br />
 <li>inherently <em>parametric</em> since you specify a model and then update view of uncertainty based on new data</li><br />
@@ -185,8 +185,8 @@
 <li><strong>Regularization</strong> context: provides a framework when working with high-dimensional data to develop <em>candidate models</em> and then <em>select</em> the best model to minimize error on out-of-sample data (needed to avoid <em>overfit</em>)<br />
 <ul><br />
 <li>Regularization penalizes model complexity to stabilize the system, minimizes <em>penalized</em> deviance</li><br />
-<li>&#8220;Regularization is the key to modern statistics&#8221; (77)</li><br />
-<li>&#8220;Regularization is trading variance (noise) for bias&#8221; (91)</li><br />
+<li>"Regularization is the key to modern statistics" (77)</li><br />
+<li>"Regularization is trading variance (noise) for bias" (91)</li><br />
 </ul></li>
 <li>The only $R^{2}$ we care about is <em>out-of-sample</em> $R^{2}$<br />
 <ul><br />
@@ -228,9 +228,9 @@
 </ul></li>
 <li><strong>Information Criteria (IC)</strong>: analytic approximation of OOS errors, many flavors (AICc, AIC, BIC, etc.)<br />
 <ul><br />
-<li><em>Akaike&#8217;s criterion</em>: $\mbox{AIC} = \mbox{deviance} + 2df$ where deviance is calculated in-sample and $df$ are your model degrees of freedom; true for low-dimensional models</li><br />
-<li><em>Corrected AIC</em>: $\mbox{AICc} = \mbox{deviance} + 2df \frac{n}{n-df-1}$, should always be used over AIC: works where AIC doesn&#8217;t and provides the same answer where it does</li><br />
-<li><em>Bayes criterion</em>: $\mbox{BIC} = \mbox{deviance} + \log(n) \times df$, attempts to get at the &#8220;true&#8221; model and is more conservative</li><br />
+<li><em>Akaike's criterion</em>: $\mbox{AIC} = \mbox{deviance} + 2df$ where deviance is calculated in-sample and $df$ are your model degrees of freedom; true for low-dimensional models</li><br />
+<li><em>Corrected AIC</em>: $\mbox{AICc} = \mbox{deviance} + 2df \frac{n}{n-df-1}$, should always be used over AIC: works where AIC doesn't and provides the same answer where it does</li><br />
+<li><em>Bayes criterion</em>: $\mbox{BIC} = \mbox{deviance} + \log(n) \times df$, attempts to get at the "true" model and is more conservative</li><br />
 </ul></li>
 <li>If you have time and answer is important, do CV. AICc is fast and stable. Typically use a combination of the two.</li>
 </ul>
@@ -283,8 +283,8 @@
 <p><strong>Errata</strong></p>
 
 <ul>
-<li>37: &#8220;is then available via Bayes rule&#8221; &#8211;> &#8220;is then available via <strong>Bayes&#8217;</strong> rule&#8221;</li>
-<li>78: &#8220;in some data-dependent matter&#8221; &#8211;> &#8220;in some data-dependent <strong>manner</strong>&#8221;</li>
+<li>37: "is then available via Bayes rule" --> "is then available via <strong>Bayes'</strong> rule"</li>
+<li>78: "in some data-dependent matter" --> "in some data-dependent <strong>manner</strong>"</li>
 </ul>
 
 

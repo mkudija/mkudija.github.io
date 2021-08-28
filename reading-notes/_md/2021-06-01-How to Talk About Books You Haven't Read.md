@@ -1,10 +1,11 @@
 
-# [*How to Talk About Books You Haven't Read*](https://www.amazon.com/Talk-About-Books-Havent-Read/dp/1596914696/ref=sr_1_3?dchild=1&keywords=How+to+Talk+About+Books+You+Haven%27t+Read&qid=1622594511&sr=8-3) by Pierre Bayard
+# [*How to Talk About Books You Haven't Read*](https://www.amazon.com/Talk-About-Books-Havent-Read/dp/1596914696) by Pierre Bayard
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/4146nLhC8uL._SX323_BO1,204,203,200_.jpg" width=150>
+
 
 `(New York: Bloomsbury, 2007), 185`
 
-
-## Summary
 
 I tend to be rather methodical in my reading of books, and I treat it as a discrete activity: a book is either read or not read, and I need to actually read (or listen to) a book to check it off and put it on the [list](https://matthewkudija.com/reading). This book challenges that notion and rightly observes that we relate to most books through some level of *non*-reading. 
 
@@ -14,6 +15,9 @@ Books are just containers for ideas, and it is the ideas that matter much more t
 
 I can't let the goal of "reading" get in the way of spending some time with a book to get to know it and place it alongside other books in the collective library. My notes will transform into more "evergreen" notes for books that are started as early in the process as possible and record thoughts throughout the journey. I don't have use for cheeky premise of this book to handle delicate social situations surrounding books, but it has certainly transformed my relationship to books and reading.
 
+---
+
+# Notes
 
 ## Preface
 - Our society imposes an "obligation to read [thoroughly]" from canonical texts in order to talk about them --> this is just lies and hypocrisy (xvi) 
@@ -108,7 +112,7 @@ I can't let the goal of "reading" get in the way of spending some time with a bo
 
 ---
 
-**Books**
+**Bibliography**
 
 - *Essays* of Montaigne
 - *The Name of the Rose* by Umberto Eco
@@ -118,3 +122,9 @@ I can't let the goal of "reading" get in the way of spending some time with a bo
 **New words**
 
 - **Metonymy**: *A figure of speech in which one word or phrase is substituted for another with which it is closely associated, as in the use of Washington for the United States government or of the sword for military power.*
+
+---
+Created: 2021-06-01
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+
+

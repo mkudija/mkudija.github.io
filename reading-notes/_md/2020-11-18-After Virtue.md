@@ -1,9 +1,8 @@
 # [*After Virtue: A Study in Moral Theory*](https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040) by Alasdair MacIntyre
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.d-0cof2wRnnKM4aRRhNH_gAAAA%26pid%3DApi&f=1)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.d-0cof2wRnnKM4aRRhNH_gAAAA%26pid%3DApi&f=1" width=150>
 
 `(Notre Dame: University of Notre Dame Press, 1981/1982 [2nd Edition]), 278`
-
 
 I first read *After Virtue* in a Morality & Modernity course taught by David Solomon at Notre Dame in the spring of 2011 to fulfill my second philosophy requirement. I enjoyed and [undeservedly] did well in the course without my mind in any way ready to really absorb MacIntyre's thought. I'm embarrassed to admit that after the course I sold the texts we read—including *After Virtue*—thinking I was done with them. I only bought a replacement copy a couple of years ago after other authors helped me see the full importance of what was wasted on me in my youth. Or perhaps not wasted, but simply a seed planted that has taken some time to germinate. I dug back in after reading Archbishop Chaput and am grateful for this reintroduction.
 
@@ -11,7 +10,9 @@ It's important to note that *After Virtue* is a first statement of the problem a
 
 *After Virtue* starts by observing the problem that modern moral arguments are irreconcilable in nature and shrill in tone. MacIntyre argues that this is the result of the failure of the enlightenment project of justifying morality by removing man's teleological end. This leaves us with an *emotivist* approach to questions of morality where the answer is all a matter of preference. People and traditions clearly have different preferences, so this leaves us deadlocked. MacIntyre argues that the path forward is a rearticulation of the classical Aristotelian and Thomistic Virtues that recognize the unity of human life and a sense of history and culture. He concludes with a haunting comparison between our society and the Roman society at the Dark Ages and suggests that our hope rests in the emergence of a "new St. Benedict" and the formation of local communities where the virtues can be practiced in spite of the barbarians who now rule us.
 
+---
 
+# Notes
 
 ## Preface
 - moral philosophy isn't an "independent and isolable" area of enquiry (ix)
