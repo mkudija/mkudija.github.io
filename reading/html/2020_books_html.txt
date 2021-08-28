@@ -4,7 +4,7 @@
 <li><i>Winnie-the-Pooh</i> by A. A. Milne</li>
 <li><i>Lord of the World: A Novel</i> by Robert Hugh Benson</li>
 <li><i>The Word on Fire Bible: Volume I - The Gospels</i></li>
-<li><i>After Virtue: A Study in Moral Theory</i> by Alasdair MacIntyre</li>
+<li><i>After Virtue: A Study in Moral Theory</i> by Alasdair MacIntyre (<a href="https://matthewkudija.com/reading-notes/2020-11-18-After-Virtue.html">Notes</a>)</li>
 <li><i>The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being</i> by Simone Davies</li>
 <li><i>The Hanging God</i> by James Matthew Wilson</li>
 <li><i>The History of the Catholic Church: From the Apostolic Age to the Third Millennium</i> by James Hitchcock</li>

@@ -1,5 +1,5 @@
-<li><i>Witness to Hope: The Biography of Pope John Paul II</i> by George Weigel</li>
-<li><i>Let Us Dream: The Path to a Better Future</i> by Pope Francis</li>
+<li><i>Witness to Hope: The Biography of Pope John Paul II</i> by George Weigel (<a href="https://matthewkudija.com/reading-notes/2021-07-20-Witness-to-Hope.html">Notes</a>)</li>
+<li><i>Let Us Dream: The Path to a Better Future</i> by Pope Francis (<a href="https://matthewkudija.com/reading-notes/2021-08-25-Let-Us-Dream.html">Notes</a>)</li>
 <li><i>Unmasked: Inside Antifa's Radical Plan to Destroy Democracy</i> by Andy Ngo</li>
 <li><i>The Premonition: A Pandemic Story</i> by Michael Lewis</li>
 <li><i>Saint Edith Stein</i> by Mary Hill</li>
