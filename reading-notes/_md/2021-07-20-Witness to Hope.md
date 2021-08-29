@@ -24,8 +24,6 @@ John Paul II believed and taught the priority of *culture* in forming human soci
 
 Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows how he inspired millions of people around the world—Catholics and non-Catholics alike. Some of the most holy priests I know point to him as a major figure in the discernment of their vocations. John Paul II has become an influential figure in my life, and *Witness to Hope* has been an adventure in getting to know him more.
 
----
-
 # Notes
 
 <details>

@@ -13,8 +13,6 @@ Perhaps this is a result of the cultural disconnect, or a deliberate attempt on 
 
 In some sense Pope Francis is a modern Christ figure: he is unexpected, and he is always focusing on the margins. Perhaps he gives a way of interpreting his statements seemingly in tension with each other with a reference to John Henry Newman's *Grammar of Ascent*: "in embracing what often appear at first sight to be contradictory truths and trusting in the kindly light to lead us, we will eventually come to see the greater truth that lies beyond us" (56). 
 
----
-
 # Notes
 
 ## Part I: A Time to See
