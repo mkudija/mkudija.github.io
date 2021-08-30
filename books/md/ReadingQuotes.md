@@ -82,3 +82,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > There's more to life than books, you know. But not much more. <br> —Coralie Bickford-Smith[^Bickford]
 
 [^Bickford]: Nina Freudenberger, [*Bibliostyle*](https://www.amazon.com/Bibliostyle-How-Live-Home-Books/dp/0525575448/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=bibliostyle&qid=1598916492&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) (New York: Random House, 2019), 205.
+
+> Books are food for the souls of men. <br> —Prior of the Grande Chartreuse[^Hugo]
+
+[^Hugo]: Katy Beebe, [*Brother Hugo and the Bear*](https://www.amazon.com/Brother-Hugo-Bear-Katy-Beebe/dp/0802854079) (Grand Rapids: Erdmans Books, 2014), 6. The prior's full quote is "Of course you may borrow our copy of St. Augustine's Letters. Just remember that books are food for the sould of men, not for the stomachs of bears." 
