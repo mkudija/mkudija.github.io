@@ -85,4 +85,4 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 
 > Books are food for the souls of men. <br> —Prior of the Grande Chartreuse[^Hugo]
 
-[^Hugo]: Katy Beebe, [*Brother Hugo and the Bear*](https://www.amazon.com/Brother-Hugo-Bear-Katy-Beebe/dp/0802854079) (Grand Rapids: Erdmans Books, 2014), 6. The prior's full quote is "Of course you may borrow our copy of St. Augustine's Letters. Just remember that books are food for the sould of men, not for the stomachs of bears." 
+[^Hugo]: Katy Beebe, [*Brother Hugo and the Bear*](https://www.amazon.com/Brother-Hugo-Bear-Katy-Beebe/dp/0802854079) (Grand Rapids: Erdmans Books, 2014), 6. The prior's full quote is "Of course you may borrow our copy of St. Augustine's Letters. Just remember that books are food for the souls of men, not for the stomachs of bears." 
