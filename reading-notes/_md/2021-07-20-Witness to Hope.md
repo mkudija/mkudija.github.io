@@ -106,7 +106,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 - Rhapsodic Theater: proclaim truth against the violent lies of the Occupation, speak truth to power (cf. *[[2021-07-15-"Live Not by Lies"]]*) (66)
 - [[Realism]]: Reading *Metaphysics* by Kazimierz Wais convinced him (along with [[Aristotle]] and [[St. Thomas Aquinas]]) that the world is intelligible (against the radical skepticism of the age) (70)
 - [[Fr. Reginald Garrigou-Lagrange, OP]] (master of traditional neo-scholasticism) directed Karol Wojtyła's dissertation on [[St. John of the Cross]]'s understanding of faith (85)
-	- he also wrote *Predestination*, recommended by [[Fr. Raymund]] when I was struggling with Thomas' treatment of predestination while reading the *[[Summa Theologiae]]*
+	- he also wrote *Predestination*, recommended by [[Fr. Raymund]] when I was struggling with Thomas' treatment of predestination while reading the *[[2021-08-12-Summa Theologiae]]*
 
 
 
@@ -115,7 +115,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 - The Polish Church "knew the transient nature of political regimes" (91)
 - [[Daily Routine]]: Karol Wojtyła worked 16-18 hour days (95)
 - Karol Wojtyła engaged students intellectually with **Christian Humanism** as a university chaplain to combat the militant atheist Marxism of the regime (95)
-	- He organized a group to read the *[[Summa Theologiae]]* in Latin (!)
+	- He organized a group to read the *[[2021-08-12-Summa Theologiae]]* in Latin (!)
 - The "hardest-fought battle between Church and regime involved family life...all organized by the state to separate parents from their children as frequently as possible" (97)
 - Karol Wojtyła's line: **"You have to decide."** --> he gently forced judgment and choices (105)
 - Karol Wojtyła believed the goal of [[Confession]] was the sanctification of all life. The confessor is a "counselor in the practice of the virtues" (107)

@@ -73,3 +73,8 @@
 >Some of the best material is actually in the responses to the objections. I recommend reading the question, then the *sed contra* and *respondeo*. Then read the first objection (not to understand it in detail but just the general path of the objection) and then read the Ad 1. Then read Obj. 2 and go down to Ad 2.  
 >  
 >If you get the point where you can easily hold more ideas in your head at once from a *Summa* article you could start reading them straight through, but admittedly that’s sort of difficult especially when there are more than 2-3 objections. By the time you get to the bottom you can’t remember what the objection were.
+
+
+---
+Created: 2021-08-12
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
