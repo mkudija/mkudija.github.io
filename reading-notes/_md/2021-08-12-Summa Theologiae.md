@@ -1,8 +1,11 @@
 
 # [*Summa Theologiae*](https://stpaulcenter.com/product/summa-theologiae-complete-set/) by [[St. Thomas Aquinas]]
 
+<img src="https://stpaulcenter.com/wp-content/uploads/2018/05/9781623400149_FC-768x682.jpg" width=150>
+
 `(Green Bay: Aquinas Institute, 1274/2012)`
 
+![[2019-01-10-A Shorter Summa#^d3088d]]
 
 ## Text
 *Physical text:*

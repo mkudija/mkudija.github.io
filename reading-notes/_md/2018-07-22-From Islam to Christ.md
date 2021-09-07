@@ -24,12 +24,12 @@
 - "everyone who takees his religion seriously is naturally a missionary" (81)
 - "Thankfully the Holy Spirit is more stubborn than I am" (95)
 - The Grand Inquisitor: "There is both beauty and misery hidden within freedom. It is not that God lets us down; it is that we let Him down." (101)
-- "Refusing to forgive is like drinking poison and hopin gthat the other person will die" (130)
+- "Refusing to forgive is like drinking poison and hoping that the other person will die" (130)
 - What the priest in Ankara told her to do when she was confused about whether to become Catholic (157-158):
   - Pray
   - Paint (she likes drawing/painting)
   - Come to mass
-- Interesting discussion about resurgence of Islam in the modern world: "Everything that makes the West attractive, hoever, is a mere cho of its Christian past...what does the West have to offer without Christ? Not much, actually." (196)
+- Interesting discussion about resurgence of Islam in the modern world: "Everything that makes the West attractive, hoever, is a mere echo of its Christian past...what does the West have to offer without Christ? Not much, actually." (196)
 - Her tips (200-204):
   - Learn the faith
   - Pray

@@ -1,5 +1,5 @@
 
-# [*Prayer for Beginners*](https://www.amazon.com/Prayer-Beginners-Peter-Kreeft/dp/0898707757/ref=sr_1_1?dchild=1&keywords=prayer+for+beginners&qid=1612547103&sr=8-1) by Peter Kreeft
+# [*Prayer for Beginners*](https://www.amazon.com/Prayer-Beginners-Peter-Kreeft/dp/0898707757) by [[Peter Kreeft]]
 
 `(San Francisco: Ignatius, 2019), 130`
 
@@ -168,3 +168,7 @@ This is a short little book but—as with most of Kreeft's writing—so deep and
 - “At first one often thinks it lost time. But you must go on, and resolve to persevere in it to death” (Letter 6). For our relationship to God is the whole - meaning and point of all our time. (loc. 1146)
 - “I have so little time today that I can’t afford not to pray”, (loc. 1151)
 -  What the world calls fanaticism, the saints call fidelity.
+
+---
+Created: 2021-02-05
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

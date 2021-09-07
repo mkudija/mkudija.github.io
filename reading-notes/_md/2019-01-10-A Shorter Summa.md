@@ -1,7 +1,14 @@
-# [*A Shorter Summa: The Essential Philosophical Passages of Saint Thomas Aquinas' Summa Theologica*](https://www.amazon.com/Shorter-Summa-Essential-Philosophical-Theologica/dp/0898704383/ref=sr_1_1?ie=UTF8&qid=1547157002&sr=8-1&keywords=a+shorter+summa) by Peter Kreeft
+# [*A Shorter Summa: The Essential Philosophical Passages of Saint Thomas Aquinas' Summa Theologica*](https://www.amazon.com/Shorter-Summa-Essential-Philosophical-Theologica/dp/0898704383) by [[Peter Kreeft]]
+*The Essential Philosophical Passages of [[St. Thomas Aquinas]]' [[2021-08-12-Summa Theologiae|Summa Theologica]]*
 
-(San Francisco: Ignatius, 1993), 162
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.thenile.io%2Fr1000%2F9780898704389.jpg%3Fr%3D5ea0c1d7b6ae6&f=1&nofb=1" width=150>
 
+`(San Francisco: Ignatius, 1993), 162`
+
+
+>I could't make any judgment on the *[[2021-08-12-Summa Theologiae|Summa]]*, except to say this: I read it every night before I go to bed. If my mother were to come in during the process and say, "Turn off that light. It's late," I with lifted finger and broad bland beatific expression, would reply, "On the contrary, I answer that the light, being eternal and limitless, cannot be turned off. Shut your eyes," or some such thing. In any case I feel I can personally guarantee that St. Thomas loved God because for the life of me I cannot help loving St. Thomas. <br> —Flannery O'Connor, *The Habit of Being* (quoted in *A Shorter Summa* by Peter Kreeft, 13)
+
+^d3088d
 
 ## Introduction
 
@@ -60,3 +67,7 @@
 
 ## Whether there is in us a natural law?
 - "*The light of Thy countenance, O Lord, is signed upon us*"..."the natural law is nothing else than an imprint on us of the Divine light" (158)
+
+---
+Created: 2019-01-10
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

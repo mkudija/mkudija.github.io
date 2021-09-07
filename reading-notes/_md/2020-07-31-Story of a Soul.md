@@ -1,7 +1,7 @@
 
-# [*The Story of a Soul*](https://www.amazon.com/Story-Soul-Autobiography-Translation-Manuscripts/dp/0935216588/ref=sr_1_3?crid=1SHK3MTM48PXM&dchild=1&keywords=the+story+of+a+soul&qid=1596305045&sprefix=women%27s+bath%2Caps%2C214&sr=8-3) by Thérèse of Lisieux
+# [*The Story of a Soul*](https://www.amazon.com/Story-Soul-Autobiography-Translation-Manuscripts/dp/0935216588) by Thérèse of Lisieux
 
-(Rockford: TAN Books, 1898/1997), 216
+`(Rockford: TAN Books, 1898/1997), 216`
 
 ## Chapter 2
 - praying in private: "The two hermits would say the Rosary, but on their fingers, so that they should not betray their devotions in public" (34)

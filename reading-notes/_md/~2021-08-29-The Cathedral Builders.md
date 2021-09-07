@@ -182,9 +182,22 @@ pg 54-55
 
 --- 
 
+**Source**
+
+- *[[2015-12-31-The Pillars of the Earth]]* by Ken Follett
+- *Notre Dame* by Ken Follett
+
+**On My Bookshelf Next To**
+
+- *Notre Dame* by Ken Follett
+- *[[2015-12-31-The Pillars of the Earth]]* by Ken Follett
+- *Heaven in Stone and Glass*
+- *The Medieval Machine*
+
 **Bibliography**
 
 - 
+
 
 **New Words**
 

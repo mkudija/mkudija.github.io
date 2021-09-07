@@ -1,7 +1,7 @@
 # *Sleeping With Your Smartphone* by Leslie A. Perlow
 2018-04-09
 
-*How to Break the 24/7 Habit and CHange the Way you Work*: all about her work with BCG to implement PTO to bring more predictability and work-life balance to their crazy consulting schedules.
+*How to Break the 24/7 Habit and Change the Way you Work*: all about her work with BCG to implement PTO to bring more predictability and work-life balance to their crazy consulting schedules.
 
 # Introduction
 - this book shares the BCG story and is a guide for implementing PTO in your organization
@@ -16,7 +16,7 @@
   - How much value are we delivering to the client?
   - How satisfied are you with your learning?
   - Is the current operating model sustainable for you?
-- **PTO**: Collective goal of predicable time off + Structures dialogue = Better work and better lives
+- **PTO**: Collective goal of predicable time off + Structured dialogue = Better work and better lives
 - 1. Collective goal must be:
   - Personally valued by everyone
   - Doable but still a stretch

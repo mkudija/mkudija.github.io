@@ -10,7 +10,7 @@ Ch 5
 
 
 Ch 7
-- he was rasied Cathoic, but his parents let him choose at some point as a kit if he wanted to keep going to Sunday school and he said no.
+- he was rasied Cathoic, but his parents let him choose at some point as a kid if he wanted to keep going to Sunday school and he said no.
 
 Ch 14
 - "My approach to an unwanted assignment was always to express my misgivings and my preferences, but then if I was still asked to take the hard job I would work my best to make it a success."

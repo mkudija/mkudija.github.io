@@ -1,5 +1,5 @@
 
-# Jesus Shock by Peter Kreeft
+# *Jesus Shock* by [[Peter Kreeft]]
 
 * From Pascal's Penseés: "Not only do we only know God through Jesus Christ, but we only know ourselves through Jesus Christ; we only know life and death through Jesus Christ.  Apart from Jesus Christ we cannot know the meaning of our life, or our death, of God or of ourselves." (22)
 * The core of the disagreement of the reformation was not justification by faith, religion and politics, the Bible, the corruption of the Church, the Pope, Mary/the saints, purgatory: it was about the Real Presence of Christ in the Eucharist (29)
@@ -20,3 +20,6 @@
 * LOTR reference 146
 * quote 156: he loves us for our own sake
 
+---
+Created: 2013-12-05
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
