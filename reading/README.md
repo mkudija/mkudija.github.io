@@ -33,3 +33,4 @@ Listed at [matthewkudija.com/reading](http://matthewkudija.com/reading)
 - [Johnathan Bi](https://johnathanbi.com/readinglist) (deep and thoughtful) *(from David Perell)*
 - [Erik Rostad](https://www.booksoftitans.com/reading-project/2021-reading-list/) *(from Jeremey A)*
 - [Will Mannon](https://www.will-mannon.com/books) *(from David Perell)*
+- [Hiran Venugopalan](https://hiran.in/reading)
