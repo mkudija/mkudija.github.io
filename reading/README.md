@@ -35,3 +35,4 @@ Listed at [matthewkudija.com/reading](http://matthewkudija.com/reading)
 - [Will Mannon](https://www.will-mannon.com/books) *(from David Perell)*
 - [Hiran Venugopalan](https://hiran.in/reading)
 - [Salman](https://salman.io/notes/books/)
+- [Chris J Wilson](https://chrisjwilson.me/reading-log/)
