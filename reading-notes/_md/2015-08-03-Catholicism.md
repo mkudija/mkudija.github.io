@@ -1,6 +1,6 @@
 
-# Catholicism by Barron
+# *Catholicism* by [[Bishop Barron]]
 
-* According to Aquinas, beauty is the intersection of wholeness, harmony, and radiance (273)
+* According to [[St. Thomas Aquinas]], beauty is the intersection of wholeness, harmony, and radiance (273)
 
 

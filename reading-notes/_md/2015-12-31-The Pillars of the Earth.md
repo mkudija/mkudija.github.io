@@ -1,3 +1,6 @@
+---
+aliases: ["The Pillars of the Earth"]
+---
 
 # [*The Pillars of the Earth: A Novel*](https://www.amazon.com/Pillars-Earth-Novel-Kingsbridge/dp/0451166892) by [[Ken Follett]]
 

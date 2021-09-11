@@ -1,11 +1,18 @@
 
-# [*The Cathedral Builders*](https://www.amazon.com/Cathedral-Builders-Harper-colophon-books/dp/0060911581) by Jean Gimpel
+# [*# Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [[Scott Young]]
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61D8whmyiYL._SX338_BO1,204,203,200_.jpg" width=150>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg" width=150>
 
-`(New York: Harper, 1961/1983), 163`
+`(City: Publisher, YYYY), PPP`
 
 # Notes
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+<!-- /MarkdownTOC -->
+</details>
 
 
 ## Chapter 1:
@@ -25,23 +32,6 @@
 
 ## Chapter 4:
 **Summary**: 
-
-
-pg 54-55
-
-| Net Income Statement |           |
-| -------------------- | ---------:|
-| **TOTAL REVENUE**    |   **400** |
-| Iron                 |     (145) |
-| Salary & Benefits    |     (111) |
-| Other                |      (62) |
-| Timber               |      (34) |
-| Transportation       |      (27) |
-| Stone & Lime         |      (17) |
-| Real Estate Rent     |       (3) |
-| **TOTAL EXPENSES**   | **(399)** |
-| -------------------  |   ------- |
-| **NET INCOME**       |  **1** |
 
 
 
@@ -174,29 +164,17 @@ pg 54-55
 **Summary**: 
 
 --- 
-
-**Source**
-
-- *[[2015-12-31-The Pillars of the Earth]]* by Ken Follett
-- *Notre Dame* by Ken Follett
-
-**On My Bookshelf Next To**
-
-- *Notre Dame* by Ken Follett
-- *[[2015-12-31-The Pillars of the Earth]]* by Ken Follett
-- *Heaven in Stone and Glass*
-- *The Medieval Machine*
+**Source**: 
 
 **Bibliography**
 
 - 
-
 
 **New Words**
 
 - 
 
 ---
-Created: 2021-08-29
+Created: 2021-09-09
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 
