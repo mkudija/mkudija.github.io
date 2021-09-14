@@ -1,11 +1,11 @@
 
-# [*The Rise and Fall of the Third Reich: A History of Nazi Germany*](https://www.amazon.com/Rise-Fall-Third-Reich-History-dp-1451642598/dp/1451642598/ref=mt_hardcover?_encoding=UTF8&me=&qid=1560455974) by William L. Shirer
+# [*The Rise and Fall of the Third Reich: A History of Nazi Germany*](https://www.amazon.com/Rise-Fall-Third-Reich-History-dp-1451642598) by William L. Shirer
 
-(New York: Simon and Schuster, 1960), 1143
+`(New York: Simon and Schuster, 1960), 1143`
 
 
 ## Summary
-- There were so many opportunities to stop Hitler's rise. And yet the people of Germany were either unaware of easily distracted, and the Western democracies (led by Chamberlain) were so horrified by WWI that they went to absurd lengths to give Hitler whatever he wanted in the hope he wouldn't bring war.
+- There were so many opportunities to stop Hitler's rise. And yet the people of Germany were either unaware or easily distracted, and the Western democracies (led by Chamberlain) were so horrified by WWI that they went to absurd lengths to give Hitler whatever he wanted in the hope he wouldn't bring war.
 - Likewise, once the Third Reich was at the peak of its power, there were many times it could have crushed Western civilization, but Hitler hesitated or made the wrong military decisions and thus the downfall was brought about.
 - Shirer lets the facts speak for themselves, but he clearly disdains Hitler and the evil he brought about. More importantly for us though is his illustration of how people who could have easily stopped him allowed him to come to power, particularly the German people, the Appeasers in the West (Chamberlain), and his subordinates who never carried out a coup.
 
