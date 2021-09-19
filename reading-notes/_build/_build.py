@@ -64,6 +64,14 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
 
     # md = md[md.index('\n'):] # drop metadata from article text
     mdString = ''.join(md)
+
+
+    ### style Obsidian links
+    mdString = mdString.replace('[[','<text style="background-color: whitesmoke; color: #23537d;">')
+    mdString = mdString.replace(']]','</text>')
+    ### 
+
+
     body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
 
@@ -140,9 +148,6 @@ def main():
                  fnames=fnames)
 
     # TO FIX:
-    # - add author
-    # - remove dates from filenames?
-    # - remove Obsidian [[links]] from text?
     # - render LaTeX, maybe use this? https://dev.to/siddharth2016/how-to-convert-markdown-to-html-using-python-4p1b
 
 
