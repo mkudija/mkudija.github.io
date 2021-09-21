@@ -50,7 +50,7 @@ I'm reading the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](http
 > that they are envious of every other lot.
 >–*Inferno* Canto 3. 46-48
 
-- 52-57: Dante's *contrapasso*: punishment in his hell is the application of the opposite of the sin
+- 52-57: Dante's ***contrapasso***: punishment in his hell is the application of the opposite of the sin
 - 58-60: "the great refusal" perhaps refers to Pope Celestine V who abdicated the papacy in 1294 (followed by Benedict XVI in 2013) and was later canonized
 
 ### Inferno Canto 4 - *Limbo*
@@ -74,9 +74,44 @@ First reference to Christ:
 > a mighty one descend, crowned, with a sign of victory.
 > –*Inferno* Canto 4. 53-54
 
-### Inferno Canto 5
+### Inferno Canto 5 - *Lust*
+We can either confess our sins to a priest (and obtain absolution), or to Minos to assign our place in hell:
+> There stands Minos, snarling, terrible.
+> He examines each offender at the entrance,
+> judges and dispatches as he encoils himself.
 > 
-> –*Inferno* Canto 5. x-x
+> I mean that when the ill-begotten soul
+> stands there before him it confesses all,
+> and that accomplished judge of sins
+> 
+> decides what place in Hell is fit for it,
+> then coils his tail around himself to count
+> how many circles down the soul must go.
+> –*Inferno* Canto 5. 4-12
+
+
+Echoes [[Mt-07#v13]]:
+> Don't let the easy entrance fool you.
+> –*Inferno* Canto 5. 20
+
+Dante's definition of lust is making "reason subject to desire". Hollander's notes reference the lust of [[T. S. Eliot]]'s *The Waste Land* 222-248
+> they who make reason subject to desire.
+> –*Inferno* Canto 5.39
+
+There is no intercession in hell:
+> if the King of the universe were our friend
+> we would pray that he might give you peace
+> –*Inferno* Canto 5. 91-92
+
+This is the sad analogy to [[Jb-01#v21]] (Hollander's notes also reference *Consolation of Philosophy* by Boëtius: "among fortune's many adversities the most unhappy kind is once to have been happy"):
+> And she said to me: 'There is no greater sorrow
+> than to recall our time of joy
+> in wretchedness—and this your teacher knows.
+> –*Inferno* Canto 5. 121-123
+
+
+
+"there is no greater pain than to remember past happiness in present grief"
 
 ### Inferno Canto 6
 > 

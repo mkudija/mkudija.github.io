@@ -29,14 +29,15 @@
 
 ## Chapter 3: The Creative Impulse
 **Summary**: 
-
+- Contributors to the cathedral crusade included: merchant's consciences (and subsequent endowments), civic pride, and "world record fever" helped to inspire developments in cathedral construction (32)
+- Medieval workers worked longer hours (dawn to dusk), but only 4-5 days per week given the number of feast days (41)
+- "The fact that the educated man and the people had the same terms of reference, the same picture book, at this time lent a certain harmony to the age. Everyone had received the same education, albeit to a different level." The introduction of the classics in the [[Renaissance]] separated the educated from the people, down to this day (45)
+- Medieval builders were not as anonymous as legend says (47)
 
 
 ## Chapter 4:
 **Summary**: 
-
-
-pg 54-55
+- Interesting to the breakdown of income and expenses, which I pulled into an approximate income statement (54-55). For example, see how much they spent on iron relative to stone!
 
 | Net Income Statement |           |
 | -------------------- | ---------:|
@@ -183,7 +184,7 @@ pg 54-55
 **Summary**: 
 
 --- 
-**Source**: *[[2015-12-31-The Pillars of the Earth]]* and *[[~2021-08-28-Notre Dame]]* by Ken Follett
+**Source**: *[[2015-12-31-The Pillars of the Earth]]* and *[[2021-08-28-Notre Dame]]* by Ken Follett
 
 **Related Books**
 
@@ -192,7 +193,7 @@ pg 54-55
 
 **Bibliography**
 
-- *Entretiens sur l'architecture* and *Dictionnaire* by Viollet-le-Duc (2)
+- *Entretiens sur l'architecture* and *Dictionnaire* by [[Viollet-le-Duc]] (2)
 - ***Les Chantiers des Cathédrales*** by Pierre du Colombier (2)
 - *The Medieval Mason* by D. Knoop and G. P. Jones (3)
 - *Gold Was the Mortar* by H. Kraus (3)

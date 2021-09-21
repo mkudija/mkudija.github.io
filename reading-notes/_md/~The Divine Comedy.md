@@ -8,7 +8,7 @@
 
 # Resources
 - [100 Days of Dante](https://100daysofdante.com/) ([YouTube](https://youtu.be/GlIJfHAse3g))
-- 
+- [Artwork](https://divinecomedy.digital/#/eng/viz)
 
 # *[[2021-09-16-The Inferno|The Inferno]]*
 
