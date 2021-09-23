@@ -110,12 +110,14 @@ This is the sad analogy to [[Jb-01#v21]] (Hollander's notes also reference *Cons
 > –*Inferno* Canto 5. 121-123
 
 
+### Inferno Canto 6 - *Gluttony*
+> For the pernicious fault of gluttony,
+> as you can see, I'm prostrate in this rain.
+> –*Inferno* Canto 6. 53-54
 
-"there is no greater pain than to remember past happiness in present grief"
-
-### Inferno Canto 6
-> 
-> –*Inferno* Canto 6. x-x
+> Pride, envy, and avarice are the sparks
+> that have set the hearts of all on fire.
+> –*Inferno* Canto 6. 74-75
 
 ### Inferno Canto 7
 > 

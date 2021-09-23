@@ -1,7 +1,9 @@
 
-# [*Atomic Habits*](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1614820666&sr=8-1) by James Clear
+# [*Atomic Habits*](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by [[James Clear]]
 
-(New York: Penguin, 2018), 271
+<img src="https://images-na.ssl-images-amazon.com/images/I/51CPNIRSWeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width=150>
+
+`(New York: Penguin, 2018), 271`
 
 I subscribed to James Clear's newsletter for a few years and enjoyed listening to his book on habits. The story in the introduction had me crying thinking about my boys. Overall he lays out a solid framework for understanding human behavior change with lots of practical tips for starting or stopping habits to improve our lives.
 
@@ -62,8 +64,8 @@ I subscribed to James Clear's newsletter for a few years and enjoyed listening t
 
 ## Ch 5: The Best Way to Start a New Habit
 - The two most common cues are *time* and *location*
-- Create an implementation intention by saying: *I will **BEHAVIOR** at **TIME** in **LOCATION***.
-- Habit Stacking is a strategy to pair a new habit with a current habit: *After **CURRENT HABIT**, I will **NEW HABIT**
+- Create an implementation intention by saying: *I will **BEHAVIOR** at **TIME** in **LOCATION**.*
+- Habit Stacking is a strategy to pair a new habit with a current habit: *After **CURRENT HABIT**, I will **NEW HABIT**.*
 
 ## Ch 6: Motivation Is Overrated; Environment Often Matters More
 - Small changes in context can lead to large changes in behavior
@@ -173,3 +175,7 @@ I subscribed to James Clear's newsletter for a few years and enjoyed listening t
 - Habits + Deliberate Practice = Mastery
 - Reflection and review is a process that allows you to remain conscious of your performance over time
 - The tighter we cling to an identity, the harder it becomes to grow beyond it
+
+---
+Created: 2021-03-03
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
