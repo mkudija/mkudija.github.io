@@ -58,7 +58,7 @@ Limbo for Dante includes the virtuous pagans and unbaptized infants (compare wit
 > They did not sin. Though they have merit,
 > that is not enough, for they were unbaptized,
 > denied the gateway to the faith that you profess.
-> 
+> <br>
 > And if they lived before the Christians lived,
 > they did not worship God aright.
 > –*Inferno* Canto 4. 34-38
@@ -79,11 +79,11 @@ We can either confess our sins to a priest (and obtain absolution), or to Minos 
 > There stands Minos, snarling, terrible.
 > He examines each offender at the entrance,
 > judges and dispatches as he encoils himself.
-> 
+> <br>
 > I mean that when the ill-begotten soul
 > stands there before him it confesses all,
 > and that accomplished judge of sins
-> 
+> <br>
 > decides what place in Hell is fit for it,
 > then coils his tail around himself to count
 > how many circles down the soul must go.
@@ -119,17 +119,58 @@ This is the sad analogy to [[Jb-01#v21]] (Hollander's notes also reference *Cons
 > that have set the hearts of all on fire.
 > –*Inferno* Canto 6. 74-75
 
-### Inferno Canto 7
-> 
-> –*Inferno* Canto 7. x-x
+### Inferno Canto 7 - *Avarice & Prodigality*
+> And why do our sins so waste us?
+> –*Inferno* Canto 7. 21
 
-### Inferno Canto 8
-> 
-> –*Inferno* Canto 8. x-x
+> No you see, my son, what brief mockery
+> Fortune makes of goods we trust her with,
+> for which the race of men embroil themselves.
+> <br>
+> All the gold that lies beneath the moon, 
+> or ever did, could never give a moment's rest
+> to any of these wearies souls.
+> –*Inferno* Canto 7. 61-66
 
-### Inferno Canto 9
-> 
-> –*Inferno* Canto 9. x-x
+The three kinds of anger for Aristotle and Thomas: choleric (comes and departs quickly), bitter (not released easily), and difficult (hostile and directed against those it should not be):
+> And I, my gaze transfixed, could see
+> people with angry faces in that bog,
+> naked, their bodies smeared with mud.
+> <br>
+> They struck each other with their hands,
+> their heads, their chests and feet,
+> and tore each other with their teeth.
+> –*Inferno* Canto 7. 109-114
+
+
+### Inferno Canto 8 - *Anger & Sullenness*
+> Reader, how could I not lose heart
+> at the sound of these accursèd words?
+> I thought I would never make it back.
+> –*Inferno* Canto 8. 94-96
+
+### Inferno Canto 9 - *Heresy*
+The Furies represent the three main categories of sin: *incontinence*, *violence*, and *fraud*.
+
+> O you who have sound intellects,
+> consider the teaching that is hidden
+> behind the veil of these strange verses.
+> –*Inferno* Canto 9. 61-63
+
+> Why do you kick against that will
+> which never can be severed from its purpose?
+> –*Inferno* Canto 9. 94-95
+
+> For here the graves were strewn with flames
+> that made them glow with heat
+> hotter than iron is before it's worked.
+> <br>
+> All their covers were propped open and from them
+> issued such dire lamentation it was clear
+> it came from wretches in despair and pain.
+> –*Inferno* Canto 9. 118-123
+
+Heresy is a sin of the will due to the obstinacy of error (cf. *[[2021-08-12-Summa Theologiae]]*, II-II, q. 5, a. 3).
 
 ### Inferno Canto 10
 > 
@@ -226,6 +267,12 @@ This is the sad analogy to [[Jb-01#v21]] (Hollander's notes also reference *Cons
 ### Inferno Canto 33
 > 
 > –*Inferno* Canto 33. x-x
+
+---
+
+**New Words**
+
+- **Caduceus**: the staff carried by Hermes in Greek mythology (9. 82-83)
 
 
 ---

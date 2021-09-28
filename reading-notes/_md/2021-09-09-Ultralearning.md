@@ -1,5 +1,5 @@
 
-# [*# Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [[Scott Young]]
+# [*Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [[Scott Young]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg" width=150>
 
@@ -52,7 +52,7 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 
 ## Chapter 2: Why Ultralearning Matters
 **Summary**: *The ability to acquire hard skills effectively and efficiently is immensely valuable and current trends will only cause this to increase*.
-- >**Ultralearning**: a strategy for acquiring skills and knowledge that is both self-directed and intense
+>**Ultralearning**: a strategy for acquiring skills and knowledge that is both self-directed and intense
 - Tyler Cowen’s *Average is Over*: "skill polarization" where the top performers do much better than the rest (27-28)
 - Education: technology makes it the easiest time in history to learn something new  
 - The core of ultra leaning is *intensity*
@@ -81,8 +81,8 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 ## Chapter 5: Focus
 **Summary**: *Cultivate (through small incremental wins) the ability to concentrate and schedule time for your learning*. 
 - Anti-procrastination crutches: get over just the first few minutes, pomodoro timer
-- Sources of distraction: your environment, tasks and medium (avoid “reading hypnosis”), and your mind
-- don’t worry about flow when learning
+- Sources of distraction: your environment, tasks and medium (avoid “reading hypnosis”), and your mind
+- Don’t worry about flow when learning
 
 
 ## Chapter 6: Directness: Go Straight Ahead
