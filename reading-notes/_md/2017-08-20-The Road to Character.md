@@ -120,7 +120,7 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 ## 9. Self-Examination *(Samuel Johnson & Montaigne)*
 * An important observation in our world of infinite options: "When the external constraints are loosened, when a person can do what he wants, when there are a thousand choices and distractions, then life can los coherence and direction if there isn't a strong internal structure" (218)
 * "We have less reason to be surprised or offended when we find others differ from us in opinions because we very often differ from ourselves" (219, cf. Adventurer essays; reminds me of Whitman: "Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.")
-* **Generalism**: "He who can talk only on one subject, or act only in one department, is seldom wanted, and perhaps never wished for, while the man of general knowledge can often benefit and always please" (223)
+* **[[Generalism]]**: "He who can talk only on one subject, or act only in one department, is seldom wanted, and perhaps never wished for, while the man of general knowledge can often benefit and always please" (223)
 
 ## 10. The Big Me
 * moral culture change had these phases:

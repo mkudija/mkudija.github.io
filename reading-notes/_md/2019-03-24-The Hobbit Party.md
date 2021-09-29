@@ -14,7 +14,7 @@
 - don't fall into the temptation of cynicism (18)
 - Tolkien didn't like allegory because it took freedom from the reader (19)
 - Tolkienomics: much of modern economics is misguided because it doesn't have a proper vision of the human person (20-21)
-  - Generalism: Tolkien was an *integrative thinker* with "deep and varied experience"
+  - [[Generalism]]: Tolkien was an *integrative thinker* with "deep and varied experience"
 - Leadership: "The most improper job of any man, even saints, is bossing other men. Not one in a million is fit for it, and least of all those who seek the opportunity." (25, from LOTR prologue)
 - Technology: Tolkien despised monolithic global consumer culture but appreciated a healthy use of technology (25-26)
 - de Tocqueville's warning about America: "petty, complicated, detailed, and uniform rules" (26-31)

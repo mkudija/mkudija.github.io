@@ -8,7 +8,7 @@
 
 I need to start a discussion of *The Pragmatic Programmer: From Journeyman to Master* by Andrew Hunt and David Thomas by acknowledging that I'm not a programmer, at least not formally. Software Engineer is not in my job title, nor do I have a degree in computer science. However, I did learn basic programming in Fortran and Matlab while studying aerospace engineering, and I have since learned Python and used it over the past several years for analysis and basic automation. So, while I do not write software at a level that could fully benefit from this book, I found much of the advice contained therein to be helpful. The two aspects of Hunt and Thomas' work I found the most insightful are the development of a set of guiding principles and the focus on developing a well-rounded generalism with a mindset of continual education.
 
-### Generalism & Learning
+### [[Generalism]] & Learning
 I'll start with the attitude of generalism they advise. Hunt and Thomas suggest that a pragmatic programmer is more of a jack of all trades than a specialist, able to adapt to a continually changing technology landscape with broad skills and continuous learning. As a pragmatic programmer you should "try hard to be familiar with a broad range of technologies and environments, and you work to keep abreast of new developments."[^jack] They advise to make learning a habit by investing regularly in your knowledge portfolio. I would add that not only does continual learning keep you competitive, it is the most interesting way to approach your work.
 
 [^jack]: Hunt, Andrew, and David Thomas, *The Pragmatic Programmer: From Journeyman to Master* (Menlo Park: Addison-Wesley Professional, 1999), xix.

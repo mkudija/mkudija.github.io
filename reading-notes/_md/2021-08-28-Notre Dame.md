@@ -27,7 +27,7 @@ This book is Ken Follett's response to the tragic fire at Notre Dame in 2019. Th
 ### Chapter 6
 - "[a cathedral] is so rich that at first is overwhelms us" (56): I remember having a distinct distaste for Gothic architecture initially, until I came to understand it more
 - Medieval illustrations of the Tower of Babel give is information about how cathedrals were built (57-58)
-- *[[~2021-08-29-The Cathedral Builders]]* was one of the books that inspired Follett to write *[[2015-12-31-The Pillars of the Earth]]*. It turns out that [[Jean Gimpel]] lived on his street in London and signed on as a consultant for the book and became his friend. (58)
+- *[[2021-08-29-The Cathedral Builders]]* was one of the books that inspired Follett to write *[[2015-12-31-The Pillars of the Earth]]*. It turns out that [[Jean Gimpel]] lived on his street in London and signed on as a consultant for the book and became his friend. (58)
 - Authors inspired by the great cathedrals (59):
 	- Hugo is the greatest
 	- *The Chronicles of Barsetshire* by Anthony Trollope
