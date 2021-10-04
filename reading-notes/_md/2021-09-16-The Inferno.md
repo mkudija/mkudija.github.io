@@ -25,6 +25,7 @@ I'm reading the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](http
 > that have made many live in wretchedness
 >–*Inferno* Canto 1. 49-51
 
+<br><br>
 > 'Have mercy on me, whatever you are,'
 >–*Inferno* Canto 1. 65
 
@@ -58,11 +59,12 @@ Limbo for Dante includes the virtuous pagans and unbaptized infants (compare wit
 > They did not sin. Though they have merit,
 > that is not enough, for they were unbaptized,
 > denied the gateway to the faith that you profess.
-> <br>
+> <br><br><br>
 > And if they lived before the Christians lived,
 > they did not worship God aright.
 > –*Inferno* Canto 4. 34-38
 
+<br><br>
 > When I understood, great sadness seized my heart,
 > for then I knew that being of great worth
 > were here suspended in this Limbo.
@@ -115,6 +117,7 @@ This is the sad analogy to [[Jb-01#v21]] (Hollander's notes also reference *Cons
 > as you can see, I'm prostrate in this rain.
 > –*Inferno* Canto 6. 53-54
 
+<br><br>
 > Pride, envy, and avarice are the sparks
 > that have set the hearts of all on fire.
 > –*Inferno* Canto 6. 74-75
@@ -123,6 +126,7 @@ This is the sad analogy to [[Jb-01#v21]] (Hollander's notes also reference *Cons
 > And why do our sins so waste us?
 > –*Inferno* Canto 7. 21
 
+<br><br>
 > No you see, my son, what brief mockery
 > Fortune makes of goods we trust her with,
 > for which the race of men embroil themselves.
@@ -157,10 +161,12 @@ The Furies represent the three main categories of sin: *incontinence*, *violence
 > behind the veil of these strange verses.
 > –*Inferno* Canto 9. 61-63
 
+<br><br>
 > Why do you kick against that will
 > which never can be severed from its purpose?
 > –*Inferno* Canto 9. 94-95
 
+<br><br>
 > For here the graves were strewn with flames
 > that made them glow with heat
 > hotter than iron is before it's worked.
@@ -172,13 +178,45 @@ The Furies represent the three main categories of sin: *incontinence*, *violence
 
 Heresy is a sin of the will due to the obstinacy of error (cf. *[[2021-08-12-Summa Theologiae]]*, II-II, q. 5, a. 3).
 
-### Inferno Canto 10
-> 
-> –*Inferno* Canto 10. x-x
+### Inferno Canto 10 - *Epicurians*
 
-### Inferno Canto 11
-> 
-> –*Inferno* Canto 11. x-x
+Epicurus: virtue was to be practiced because it led to happiness (the [[Stoic]]s held that virtue should be cultivated for its own sake. To Dante, [[Epicurianism]] is "the pleasure principle", or "Eat, drink, and be merry, for tomorrow we die" (cf [[1 Cor-15#v32]]).
+
+> Here Epicurus and all his followers,
+>  who hold the soul dies with the body,
+>  have their burial place.
+> –*Inferno* Canto 10. 13-15
+
+<br><br>
+>  We see, like those with faulty vision,
+>  things at a distance, he replied. That much,
+>  for us, the mighty Ruler's light still shines.
+> –*Inferno* Canto 10. 100-102
+
+### Inferno Canto 11 - *Order of Hell*
+> Every evil deed despised in Heaven
+> has as its end injustice. Each such end
+> harms someone else through either force or fraud.
+> <br>
+> But since the vice of fraud is man's alone,
+> it more displeases God, and thus the fraudulent
+> are lower down, assailed by greater pain
+> –*Inferno* Canto 11. 22-27
+
+Usury:
+> That human toil, as far as it is able,
+> follows nature, as the pupil does his master,
+> so that it is God's grandchild, as it were.
+> <br>
+> By toil and nature, if you remember Genesis,
+> near the beginning, it is man's lot
+> to earn his bread and prosper.
+> <br>
+> The usurer, who takes another path,
+> scorns nature in herself and in her follower,
+> and elsewhere sets his hopes.
+> –*Inferno* Canto 11. 103-111
+
 
 ### Inferno Canto 12
 > 

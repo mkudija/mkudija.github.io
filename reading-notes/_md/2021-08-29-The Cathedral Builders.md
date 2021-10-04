@@ -14,7 +14,7 @@ Gimpel, and recent historians, paint a different picture. The monastic orders pr
 
 The men and women[^women] who built the cathedrals viewed the world through a different lens than ours today. Where we value specialization and precise attention to detail, they focused on the harmony of the whole. Instead of a modern focus on theory the Medieval mind was practical and empirical: build until it falls down (as did Beauvais in 1284) and then figure out how to improve the next version. Most foreign given our fragmented view of truth and faith might be the spiritual unity of Medieval society out of which these great churches rose.
 
-Of course it is naive to idolize the past, and Medieval society was far from perfect. But perhaps we can learn something from their unity and harmony; after all their cathedrals still stand and still bring tears of wonder after almost 1000 years. We can ask ourselves: what are we building that may invoke such wonder a millennium from now?
+Of course it is naive to idolize the past, and Medieval society was far from perfect. But perhaps we can learn something from their unity and harmony; after all their cathedrals still stand and still bring tears of wonder after almost 1,000 years. We can ask ourselves: what are we building that may invoke such wonder a millennium from now?
 
 [^renaissance]: For more on this, see [*Why Are the Middle Ages Often Characterized as Dark or Less Civilized?*](https://slate.com/human-interest/2015/01/medieval-history-why-are-the-middle-ages-often-characterized-as-dark-or-less-civilized.html) by Tim O’Neill, M.A: <br><br><br>&nbsp&nbsp&nbsp&nbsp "The myth of the Middle Ages as a “dark age” does not lie in the fact that things declined markedly after the fall of Rome—they did. It lies in the idea that this situation persisted until the dawning of something called “the Renaissance,” which somehow rescued Western Europe from the clutches of the Catholic Church, revived ancient Greek and Roman learning, reinvented “good” (i.e. realistic) art and made everything OK again. This is the part of the story that is the myth." <br><br><br>&nbsp&nbsp&nbsp&nbsp "The idea of the whole Middle Ages as a “dark age” therefore actually comes from the early modern Renaissance and humanist movements and their denigration of their immediate forebears and idolization and idealization of the Greeks and Romans. Thus, the period between the Romans and this idealization in the early modern era became called the _medium aevum—_the “ages in the middle,” or the Middle Ages. They became traditionally characterized as a backward step, where art became “primitive” (because only realistic art could be “good” art), architecture was “barbaric” or “gothic,” and innovation was stagnant."<br><br><br>&nbsp&nbsp&nbsp&nbsp "These false ideas are still current partly because historians have only begun to revise our understanding of the Middle Ages quite recently and this is taking some time to seep into popular consciousness. But the prejudice against the Middle Ages is also driven by some strong cultural currents in our own time. Those with an animus against Christianity in general and the Catholic Church in particular like to cling to the old idea of the Middle Ages as a “dark age” because it suits their preconceptions about religion and forms a neat little fable where modernity is “good” and the medieval period is “bad.” Historians avoid these simplistic value judgments and reject the assumptions on which they are made, but simple pseudo historical fairy tales are hard to budge."
 
@@ -47,19 +47,19 @@ Of course it is naive to idolize the past, and Medieval society was far from per
 ## Chapter 4: The Canon Builders
 - Interesting to the breakdown of income and expenses, which I pulled into an approximate income statement (54-55). For example, see how much they spent on iron relative to stone! (see also not on 137)
 
-| Net Income Statement |           |
-| -------------------- | ---------:|
-| **TOTAL REVENUE**    |   **400** |
-| Iron                 |     (145) |
-| Salary & Benefits    |     (111) |
-| Other                |      (62) |
-| Timber               |      (34) |
-| Transportation       |      (27) |
-| Stone & Lime         |      (17) |
-| Real Estate Rent     |       (3) |
-| **TOTAL EXPENSES**   | **(399)** |
-| -------------------  |   ------- |
-| **NET INCOME**       |     **1** |
+| Net Income Statement                  |           |
+| ------------------------------------- | ---------:|
+| **TOTAL REVENUE**                     |   **400** |
+| &nbsp&nbsp&nbsp&nbspIron              |     (145) |
+| &nbsp&nbsp&nbsp&nbspSalary & Benefits |     (111) |
+| &nbsp&nbsp&nbsp&nbspOther             |      (62) |
+| &nbsp&nbsp&nbsp&nbspTimber            |      (34) |
+| &nbsp&nbsp&nbsp&nbspTransportation    |      (27) |
+| &nbsp&nbsp&nbsp&nbspStone & Lime      |      (17) |
+| &nbsp&nbsp&nbsp&nbspReal Estate Rent  |       (3) |
+| **TOTAL EXPENSES**                    | **(399)** |
+| -------------------                   |   ------- |
+| **NET INCOME**                        |     **1** |
 
 
 
