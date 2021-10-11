@@ -1,3 +1,4 @@
+<li><i>Working</i> by Robert Caro</li>
 <li><i>I Alone Can Fix It: Donald J. Trump's Catastrophic Final Year</i> by Carol Leonnig & Philip Rucker</li>
 <li><i>Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</i> by Scott Young (<a href="https://matthewkudija.com/reading-notes/2021-09-09-Ultralearning.html">Notes</a>)</li>
 <li><i>Summa Theologiae (Prima Pars, 1-49)</i> by St. Thomas Aquinas</li>
