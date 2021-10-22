@@ -252,11 +252,63 @@
 
 <h2 id="chapter-4-classification">Chapter 4: Classification</h2>
 
-<p>*Summary: *</p>
+<p><em>Summary: <strong>K-Nearest Neighbors</strong> is a common classification algorithm but not suitable for large datasets. For practical applications we focus on predicting *probabilities</em> using either <strong>Multinomial Logistic Regression</strong>, or <strong>Distributed Multinomial Regression</strong> which uses a Poisson distribution to enable distributed computation.*</p>
+
+<ul>
+<li><em>K</em>-Nearest Neighbors: what is the most common class for observations around <strong><em>x</em></strong>?<br />
+<ul><br />
+<li>Drawbacks: units matter (can scale), results unstable as a function of <em>K</em>, cross validation doesn't work well, computationally expensive</li><br />
+<li>Therefore, we will focus on methods and models for <em>probability</em></li><br />
+</ul></li>
+<li>Decisions have costs: probabilities allow us to compute <em>expected loss</em><br />
+<ul><br />
+<li>$FPR = \text{False Positive Rate} = \frac{\text{expected # false positives}}{\text{# classified positive}}$</li><br />
+<li>$FNR = \text{False Negative Rate} = \frac{\text{expected # false negatives}}{\text{# classified negative}}$</li><br />
+<li><strong>Sensitivity</strong>: proportion of true $y=1$ classified as such</li><br />
+<li><strong>Specificity</strong>: proportion of true $y=0$ classified as such</li><br />
+<li><strong>ROC Curve</strong> plots $sensitivity$ vs $1-specificity$</li><br />
+</ul></li>
+<li>Great quote (114):<br />
+<ul><br />
+<li>&gt;It is dangerous to make changes to future behavior based on a naive analysis of past data.</li><br />
+</ul></li>
+<li><strong>Multinomial Logistic Regression</strong> uses the multinomial logit or <em>softmax</em> function: $e^{z<em>{j}} / \sum</em>{k} e^{z<em>{k}}$ --> can predict with this using <code>cv.glmnet(...family="multinomial")</code><br />
+<ul><br />
+<li>$e^{x'\beta</em>{k}}$ acts as an <em>intensity</em> for each class</li><br />
+</ul></li>
+<li><strong>Distributed Multinomial Regression</strong> uses a Poisson distribution (<em>count</em> data) to improve the performance of MLR<br />
+<ul><br />
+<li>Using Poisson distribution allows you to improve prediction performance by setting a different $\lambda<em>{k}$ for each class, and compute each $\hat{\beta</em>{k}}$ in parallel (R's <code>parallel</code> library)</li><br />
+</ul></li>
+<li><strong>Distribution &amp; Big Data</strong><br />
+<ul><br />
+<li><em>parallel</em> if algorithm can do many computations at once</li><br />
+<li><em>distributed</em> when each computation can work with a subset of data </li><br />
+<li><em>MapReduce (MR)</em> can be applied to DMR</li><br />
+</ul></li>
+</ul>
 
 <h2 id="chapter-5-experiments">Chapter 5: Experiments</h2>
 
-<p>*Summary: *</p>
+<p><em>Summary: Experiments allow us to predict a different future from the past after we take action to change it. <strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard, but we can also approximate causal impact using <strong>Difference-in-difference</strong> (adjacent markets) or <strong>Regression discontinuity</strong> when treatment occurs at a threshold.</em></p>
+
+<ul>
+<li>Experiments allow us to predict a future that is <em>different</em> from the past (because you take actions to make it different, i.e. <em>counterfactuals</em>).</li>
+<li><strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard for estimating counterfactuals<br />
+<ul><br />
+<li>AA tests are good practice to ensure no issues with randomization (you expect results to be the same)</li><br />
+<li>AB tests are completely random so it is easy to estimate the <strong>Average Treatment Effect (ATE)</strong> on the response, given as the mean difference in response: $ATE = \mathbb{E}[y|d=1] - \mathbb{E}[y|d=0] = \bar{y<em>{1}} - \bar{y</em>{0}}$</li><br />
+<li>You can <em>reweight</em> your sample if certain sample segments are underrepresented relative to the population</li><br />
+<li>Common issues with randomized trials include: <em>imperfect randomization</em> and <em>dependence between units/observations</em></li><br />
+</ul></li>
+<li><strong>Difference-in-difference</strong> and <strong>Regression discontinuity</strong> allow you to recover causal treatments in situations where you can't perform a randomized trial</li>
+<li><strong>Difference-in-difference</strong> (diff-in-diff) applies when you can isolate pretreatment differences, as in different markets. This is only as reliable as the two group are comparable.</li>
+<li><strong>Regression discontinuity</strong> applies where treatment is determined by an arbitrary threshold and we can observe observations on either side of the threshold (i.e. grate thresholds, income thresholds, etc.)<br />
+<ul><br />
+<li>Make a continuity assumption and extrapolate on either side of the threshold</li><br />
+<li>Fit regression models on either side of the threshold and observe the difference in their predictions at the threshold to show impact of the treatment</li><br />
+</ul></li>
+</ul>
 
 <h2 id="chapter-6-controls">Chapter 6: Controls</h2>
 
@@ -285,7 +337,14 @@
 <ul>
 <li>37: "is then available via Bayes rule" --> "is then available via <strong>Bayes'</strong> rule"</li>
 <li>78: "in some data-dependent matter" --> "in some data-dependent <strong>manner</strong>"</li>
+<li>116: "We can then call <code>cv.gamlr</code>" --> "We can then call <strong><code>cv.glmnet</code></strong>"</li>
+<li>135: "it has increased from 0.055 to 0.64" --> "it has increased from 0.055 to <strong>0.064</strong>"</li>
 </ul>
+
+<hr />
+
+<p>Created: 2021-04-16<br />
+Updated: &lt;%+ tp.file.last<em>modified</em>date("YYYY-MM-DD") %&gt;</p>
 
 
 </section>

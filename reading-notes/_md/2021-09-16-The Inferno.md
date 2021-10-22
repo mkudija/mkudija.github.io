@@ -9,6 +9,11 @@
 
 I'm reading the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](https://100daysofdante.com/).
 
+==add notes==
+
+Charles Williams answers best: “A thousand preachers have said all that Dante says and left their hearers discontented; why does Dante content? Because an image of profundity is there.”
+https://www.theamericanconservative.com/articles/how-dante-saved-my-life/
+
 ### Inferno Canto 1 - *Prologue*
 
 > Midway in the journey of our life
@@ -231,6 +236,9 @@ Usury:
 > –*Inferno* Canto 14. x-x
 
 ### Inferno Canto 15
+
+[video](https://youtu.be/kc-uhYxR1a0?t=283): Primo Levi's [*Survival In Auschwitz*](https://www.amazon.com/Survival-Auschwitz-Primo-Levi/dp/0684826801) tells of how he recited lines from the *Inferno* to remember his humanity in Auschwitz
+
 > 
 > –*Inferno* Canto 15. x-x
 

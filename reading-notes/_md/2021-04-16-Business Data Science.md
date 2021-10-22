@@ -132,13 +132,42 @@
 
 
 ## Chapter 4: Classification
-*Summary: *
+*Summary: **K-Nearest Neighbors** is a common classification algorithm but not suitable for large datasets. For practical applications we focus on predicting *probabilities* using either **Multinomial Logistic Regression**, or **Distributed Multinomial Regression** which uses a Poisson distribution to enable distributed computation.*
 
-
+- *K*-Nearest Neighbors: what is the most common class for observations around ***x***?
+	- Drawbacks: units matter (can scale), results unstable as a function of *K*, cross validation doesn't work well, computationally expensive
+	- Therefore, we will focus on methods and models for *probability*
+- Decisions have costs: probabilities allow us to compute *expected loss*
+	- $FPR = \text{False Positive Rate} = \frac{\text{expected \# false positives}}{\text{\# classified positive}}$
+	- $FNR = \text{False Negative Rate} = \frac{\text{expected \# false negatives}}{\text{\# classified negative}}$
+	- **Sensitivity**: proportion of true $y=1$ classified as such
+	- **Specificity**: proportion of true $y=0$ classified as such
+	- **ROC Curve** plots $sensitivity$ vs $1-specificity$
+- Great quote (114):
+	- >It is dangerous to make changes to future behavior based on a naive analysis of past data.
+- **Multinomial Logistic Regression** uses the multinomial logit or *softmax* function: $e^{z_{j}} / \sum_{k} e^{z_{k}}$ --> can predict with this using `cv.glmnet(...family="multinomial")`
+	- $e^{x'\beta_{k}}$ acts as an *intensity* for each class
+- **Distributed Multinomial Regression** uses a Poisson distribution (*count* data) to improve the performance of MLR
+	- Using Poisson distribution allows you to improve prediction performance by setting a different $\lambda_{k}$ for each class, and compute each $\hat{\beta_{k}}$ in parallel (R's `parallel` library)
+- **Distribution & Big Data**
+	- *parallel* if algorithm can do many computations at once
+	- *distributed* when each computation can work with a subset of data 
+	- *MapReduce (MR)* can be applied to DMR
 
 ## Chapter 5: Experiments
-*Summary: *
+*Summary: Experiments allow us to predict a different future from the past after we take action to change it. **Randomized Controlled Trials**—or **AB Testing**—are the gold standard, but we can also approximate causal impact using **Difference-in-difference** (adjacent markets) or **Regression discontinuity** when treatment occurs at a threshold.*
 
+- Experiments allow us to predict a future that is *different* from the past (because you take actions to make it different, i.e. *counterfactuals*).
+- **Randomized Controlled Trials**—or **AB Testing**—are the gold standard for estimating counterfactuals
+	- AA tests are good practice to ensure no issues with randomization (you expect results to be the same)
+	-  AB tests are completely random so it is easy to estimate the **Average Treatment Effect (ATE)** on the response, given as the mean difference in response: $ATE = \mathbb{E}[y|d=1] - \mathbb{E}[y|d=0] = \bar{y_{1}} - \bar{y_{0}}$
+	- You can *reweight* your sample if certain sample segments are underrepresented relative to the population
+	- Common issues with randomized trials include: *imperfect randomization* and *dependence between units/observations*
+- **Difference-in-difference** and **Regression discontinuity** allow you to recover causal treatments in situations where you can't perform a randomized trial
+- **Difference-in-difference** (diff-in-diff) applies when you can isolate pretreatment differences, as in different markets. This is only as reliable as the two group are comparable.
+- **Regression discontinuity** applies where treatment is determined by an arbitrary threshold and we can observe observations on either side of the threshold (i.e. grate thresholds, income thresholds, etc.)
+	- Make a continuity assumption and extrapolate on either side of the threshold
+	- Fit regression models on either side of the threshold and observe the difference in their predictions at the threshold to show impact of the treatment
 
 
 ## Chapter 6: Controls
@@ -170,3 +199,9 @@
 **Errata**
 - 37: "is then available via Bayes rule" --> "is then available via **Bayes'** rule"
 - 78: "in some data-dependent matter" --> "in some data-dependent **manner**"
+- 116: "We can then call `cv.gamlr`" --> "We can then call **`cv.glmnet`**"
+- 135: "it has increased from 0.055 to 0.64" --> "it has increased from 0.055 to **0.064**"
+
+---
+Created: 2021-04-16
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
