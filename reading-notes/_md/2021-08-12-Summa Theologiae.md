@@ -55,6 +55,15 @@
 
 [SUPPLEMENT (QQ. 1-99)](http://aquinas101.thomisticinstitute.org/st-supp)
 
+## Notes
+2021-10-22: [[Memory]] in ST IIa-IIae Q49, A1 (*Secunda Secundae*, from [Memorize the Gospel of John!](https://catholicexchange.com/memorize-the-gospel-of-john))
+- "Prudence requires the memory of many things. Hence memory is fittingly accounted a part of prudence."
+- "There are four things whereby a man perfects his memory":
+	1. take suitable yet unwonted illustration
+	2. carefully consider and set in order
+	3. be anxious and earnest about the things we wish to remember
+	4. often reflect on the things we wish to remember
+
 ## Resources
 ### Books
 - *[My Way of Life](https://www.amazon.com/dp/1618908332/?psc=1)* by Father Walter Farrell O.P S.T.M. (Author) & Father Martin J. Healy S.T.D.
