@@ -208,7 +208,7 @@ Epicurus: virtue was to be practiced because it led to happiness (the [[Stoic]]s
 > are lower down, assailed by greater pain
 > –*Inferno* Canto 11. 22-27
 
-Usury:
+[[Usury]]:
 > That human toil, as far as it is able,
 > follows nature, as the pupil does his master,
 > so that it is God's grandchild, as it were.
@@ -223,40 +223,124 @@ Usury:
 > –*Inferno* Canto 11. 103-111
 
 
-### Inferno Canto 12
-> 
-> –*Inferno* Canto 12. x-x
+### Inferno Canto 12 - *Violence*
+[[Circular vs linear history]]: "This 'curcular' theory of history is intrinsically opposed to the Christian view, in which Christ's establishement of love is as a universal principle redeemed history once and for all." (230)
 
-### Inferno Canto 13
-> 
-> –*Inferno* Canto 13. x-x
+> The river of blood that scalds
+> those who by violence do injury to others.
+> <br>
+> O blind covetousness, insensate wrath,
+> which in this brief life goad us on and then,
+> in the eternal, steep us in such misery!
+> –*Inferno* Canto 12. 47-51
 
-### Inferno Canto 14
-> 
-> –*Inferno* Canto 14. x-x
+<br><br>
+> Around the moat they go in thousands,
+> shooting arrows at any soul that rises
+> higher from the blood than guilt allows.
+> –*Inferno* Canto 12. 73-75
+
+### Inferno Canto 13 - *Suicide*
+> Such pity fills my heart
+> –*Inferno* Canto 13. 84
+
+St. Jerome's comment on [[Ps-08]]: "Judas offended God more greatly by hanging himself than by betraying Him." (253)
+
+### Inferno Canto 14 - *Blasphemy*
+> And here the dreadful work of justice is revealed.
+> –*Inferno* Canto 14. 6
+
+*Contrapasso*:
+> What I was alive, I am in death.
+> –*Inferno* Canto 14. 51
+
+<br><br>
+> Because your pride remains unquenched
+> you suffer greater punishment.
+> In your own anger lies your agony,
+> a fitting torment for your rage.
+> –*Inferno* Canto 14. 63-66
 
 ### Inferno Canto 15
 
 [video](https://youtu.be/kc-uhYxR1a0?t=283): Primo Levi's [*Survival In Auschwitz*](https://www.amazon.com/Survival-Auschwitz-Primo-Levi/dp/0684826801) tells of how he recited lines from the *Inferno* to remember his humanity in Auschwitz
 
-> 
-> –*Inferno* Canto 15. x-x
+> By following your star
+> you cannot fail to reach a glorious port
+> –*Inferno* Canto 15. 55-56
+
+[[Writing]]:
+> You taught me how man makes himself immortal.
+> –*Inferno* Canto 15. 85
+
 
 ### Inferno Canto 16
-> 
-> –*Inferno* Canto 16. x-x
+> The three...looked at one another
+> as men do when they face the truth
+> –*Inferno* Canto 16. 76-78
 
-### Inferno Canto 17
-> 
-> –*Inferno* Canto 17. x-x
+<br><br>
+> Ah, how cautious we should be with those
+> who do not see our actions only,
+> but with their wisdom peer into our thoughts!
+> –*Inferno* Canto 16. 118-120
 
-### Inferno Canto 18
-> 
-> –*Inferno* Canto 18. x-x
+<br><br>
+> To a truth that bears the face of falsehood
+> a man should seal his lips if he is able,
+> for it might shame him, through no fault of his
+> –*Inferno* Canto 16. 124-126
 
-### Inferno Canto 19
-> 
-> –*Inferno* Canto 19. x-x
+
+### Inferno Canto 17 - *[[Usury]]*
+> Behold the one whose stench afflicts the world!
+> –*Inferno* Canto 17. 3
+
+### Inferno Canto 18 - *Seducers & Flatterers*
+> I watched horned demons armed with heavy scourges
+> lashing them cruelly from behind.
+> <br>
+> Ah, how they made them pick their heels up
+> at the first stroke! You may be certain 
+> no one waited for a second or a third.
+> –*Inferno* Canto 18. 35-39
+
+### Inferno Canto 19 - *Simoniacs*
+> O Simon Magus, o wretches of his band,
+> greedy for gold and silver,
+> who prostitute the things of God.
+> –*Inferno* Canto 19. 1-3
+
+<br><br>
+> O Supreme Wisdom, what great art you show
+> in Heaven, on earth, and in the evil world,
+> and what true justice does your power dispense!
+> –*Inferno* Canto 19. 10-12
+
+<br><br>
+> Along the sides and bottom I could see
+> the livid stone was pierced with holes,
+> all round and of a single size.
+> ...
+> From the mouth of each stuck out 
+> a sinner's feet and legs up to the thighs
+> while all the rest stayed in the hole.
+> <br>
+> They all had both their soles on fire.
+> –*Inferno* Canto 19. 13-25
+
+<br><br>
+> Please tell me, how much treasure
+> did our Lord insist on from Saint Peter
+> before He gave the keys into his keeping?
+> Surely He asked no more than "Follow me"
+> –*Inferno* Canto 19. 90-93
+
+cf. [[Lk-16#v13]], [[Mt-06#v24]]:
+> You have wrought yourselves a god of gold and silver.
+> How then do you differ from those who worship idols
+> except they worship one and you a hundred?
+> –*Inferno* Canto 19. 112-114
 
 ### Inferno Canto 20
 > 
@@ -319,7 +403,7 @@ Usury:
 **New Words**
 
 - **Caduceus**: the staff carried by Hermes in Greek mythology (9. 82-83)
-
+- **Etiological myths**: are those myths that explain origins and causes (272)
 
 ---
 Created: 2021-09-16
