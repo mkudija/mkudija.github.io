@@ -290,7 +290,7 @@
 
 <h2 id="chapter-5-experiments">Chapter 5: Experiments</h2>
 
-<p><em>Summary: Experiments allow us to predict a different future from the past after we take action to change it. <strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard, but we can also approximate causal impact using <strong>Difference-in-difference</strong> (adjacent markets) or <strong>Regression discontinuity</strong> when treatment occurs at a threshold.</em></p>
+<p><em>Summary: Experiments allow us to predict a different future from the past after we take action to change it. <strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard, but we can also approximate causal impact using <strong>Difference-in-difference</strong> for adjacent markets as an example, <strong>Regression discontinuity</strong> when treatment occurs at a threshold, or <strong>Instrumental Variables</strong> to understand causal inference from upstream randomness.</em></p>
 
 <ul>
 <li>Experiments allow us to predict a future that is <em>different</em> from the past (because you take actions to make it different, i.e. <em>counterfactuals</em>).</li>
@@ -307,6 +307,38 @@
 <ul><br />
 <li>Make a continuity assumption and extrapolate on either side of the threshold</li><br />
 <li>Fit regression models on either side of the threshold and observe the difference in their predictions at the threshold to show impact of the treatment</li><br />
+<li><strong>Instrumental Variables</strong> are upstream sources of randomness that can mimic the effect of an experiment to demonstrate causality<br /><br />
+<ul><br /><br />
+<li><em>endogeneity</em>: when the policy (treatment) and error are correlated, the "omitted variable bias" requiring the use of instrumental variables</li><br /><br />
+<li>example: relationship between airline prices and demand, both of which are high during the holidays</li><br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
+
+<p>```mermaid<br />
+graph LR</p>
+
+<p>id1(z=IV)<br />
+id2(x=observed covariate)<br />
+id3(p=policy/treatment)<br />
+id4(y=response)<br />
+id5(e=unobserved error)</p>
+
+<p>id1 --> id3<br />
+id2 --> id3<br />
+id5 --> id3<br />
+id5 --> id4<br />
+id3 --> id4<br />
+id2 --> id4</p>
+
+<p>```</p>
+
+<ul>
+<li>Use <strong>two-stage least squares (2SLS)</strong> to recover causal effects from IV variation: $\mathbb{E}[y|z]=\gamma\mathbb{E}[p|z]$<br />
+<ul><br />
+<li>First fit OLS for <em>p</em> on <em>x</em> and <em>z</em></li><br />
+<li>Next fit OLS for response onto the predicted policy and the covariates to estimate $\mathbb{E}[y|\hat{p}<em>{i},x</em>{i}]=\alpha<em>{y}+\hat{p}</em>{i}\gamma + x'<em>{i}\beta</em>{y}$ where $\gamma$ is the causal effect of <em>p</em> on <em>y</em></li><br />
+<li>in R, use <code>ivreg</code> function in <code>AER</code> package, with <code>|</code> to separate first and second stage inputs</li><br />
 </ul></li>
 </ul>
 
