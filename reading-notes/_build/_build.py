@@ -1,4 +1,5 @@
 import os
+import time
 import pandas as pd
 # import shutil
 import markdown2
@@ -66,10 +67,13 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     mdString = ''.join(md)
 
 
-    ### style Obsidian links
+    # style Obsidian links
     mdString = mdString.replace('[[','<text style="background-color: whitesmoke; color: #23537d;">')
     mdString = mdString.replace(']]','</text>')
-    ### 
+    
+    # replace "updated"
+    updated_at = time.strftime('%Y-%m-%d', time.localtime(os.path.getmtime(pathSource)))
+    mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at)
 
 
     body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
