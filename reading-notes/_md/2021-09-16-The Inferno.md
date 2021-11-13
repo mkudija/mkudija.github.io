@@ -224,7 +224,7 @@ Epicurus: virtue was to be practiced because it led to happiness (the [[Stoic]]s
 
 
 ### Inferno Canto 12 - *Violence*
-[[Circular vs linear history]]: "This 'curcular' theory of history is intrinsically opposed to the Christian view, in which Christ's establishement of love is as a universal principle redeemed history once and for all." (230)
+[[Progress & History]]: "This 'circular' theory of history is intrinsically opposed to the Christian view, in which Christ's establishment of love is as a universal principle redeemed history once and for all." (230)
 
 > The river of blood that scalds
 > those who by violence do injury to others.

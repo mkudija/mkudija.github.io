@@ -28,7 +28,7 @@ from pathlib import Path
 
 
 def copy_files(src, dst):
-    """Copy directory of outputs to shared drive dst.
+    """Copy directory src to directory dst.
     """
 
     if os.path.exists(dst):

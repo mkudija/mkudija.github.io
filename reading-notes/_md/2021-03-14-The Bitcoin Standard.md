@@ -426,3 +426,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 - *The Ultimate Resource* by Julian Simon (human time, 193)
 - ***The Sovereign Individual*** by James Davidson and William Rees-Mogg (200)
 - [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
+
+---
+Created: 2021-03-14
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

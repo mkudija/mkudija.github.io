@@ -25,7 +25,7 @@ I thought it was appropriate in 2020 to read some apocalyptic literature: *Fathe
 - "The religious people were practically all Catholics and Individualists; the irreligious people rejected the supernatural altogether, and were , to a man, Materialists and Communists." (6)
 - three religions remained: Catholicism, Humanitarianism, and the Eastern religions (9)
   - "**Humanitarianism** is becoming an actual religion itself, though anti-supernatural. It is Pantheism; it is developing a ritual under Free-masonry; is has a creed, 'God is Man', and the rest. It has therefore a real food of a sort to offer to religious cravings; it idealizes, and yet it makes no demand upon the spiritual faculties. Then, they have the use of all the churches except ours, and all the Cathedrals; and they are beginning at last to encourage sentiment. Then, they may display their symbols and we may not: I think that they will be established legally in another ten years at the latest." (10)
-  - [This](https://www.amazon.com/SIGNS-JUSTICE-Weather-Proof-Corrugated-Political/dp/B086QPX6WP/ref=mp_s_a_1_16?dchild=1&keywords=water+is+life+yard+sign&qid=1605491798&sprefix=water+is+life&sr=8-16) is the modern secular creed: 
+  - [This](https://www.amazon.com/SIGNS-JUSTICE-Weather-Proof-Corrugated-Political/dp/B086QPX6WP/ref=mp_s_a_1_16?dchild=1&keywords=water+is+life+yard+sign&qid=1605491798&sprefix=water+is+life&sr=8-16) is the modern [[Secular Creed]]: 
 <details>
  <summary><i>Image</i></summary>
 	<img src="https://i.ebayimg.com/images/g/gGEAAOSwDaVfBbHZ/s-l500.png">

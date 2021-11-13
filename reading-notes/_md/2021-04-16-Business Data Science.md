@@ -198,6 +198,13 @@ id2 --> id4
 
 ## Chapter 6: Controls
 *Summary: *
+- When we can't run experiments, we can use on **observational studies** which depends upon the assumption of **conditional ignorability** (CI): that you have controlled for all variables that influence both the treatment and response
+- **Linear Treatment Effects** (LTE) model: if *x* contains all variables that influence *d* and *y*, then $\gamma$ can be interpreted causally
+	- $y = d\gamma + x'\beta + \varepsilon$, $\varepsilon|d, x = 0$
+	- $d = x'\tau + v$, $v|x=0$
+- Adapt lasso and CV for causal inference under CI for high-dimension problems: **LTE Lasso Regression** or **Propensity Models** for binary treatments
+- Use **Sample Splitting** (or Orthogonal Machine Learning) for inference and uncertainty quantification: split sample into two pieces, model selection on one and standard inference on the second
+- 
 
 
 

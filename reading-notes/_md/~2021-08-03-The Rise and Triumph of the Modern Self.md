@@ -13,7 +13,7 @@
 
 ## Forward by [[Rod Dreher]]
 - Men have forgotten God, and man (cf. [[Aleksandr Solzhenitsyn]])
-- Ordinary Christians need a better grip on the modern condition, this book through the lens of Philip Rieff
+- Ordinary Christians need a better grip on the modern condition, this book through the lens of [[Philip Rieff]]
 - Transgenderism as the "ultimate expression of the spirit of modernity"
 
 
@@ -181,3 +181,8 @@
 
 
 **New Words**
+
+---
+Created: 2021-08-03
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+
