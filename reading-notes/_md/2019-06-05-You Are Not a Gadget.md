@@ -1,7 +1,10 @@
 
-# [*You Are Not a Gadget: A Manifesto*](https://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307269647/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1559741978&sr=8-1) by Jaron Lanier
+# [*You Are Not a Gadget: A Manifesto*](https://www.penguinrandomhouse.com/books/97779/you-are-not-a-gadget-by-jaron-lanier/) by Jaron Lanier
 
-(New York: Knopf, 2010), 192
+<img src="https://images2.penguinrandomhouse.com/cover/9780307389978
+" width=150>
+
+`(New York: Knopf/Penguin, 2010), 192`
 
 
 ## Summary
@@ -22,7 +25,8 @@
 - "The antihuman approach to computation is one of the most baseless ideas in human history. A computer isn't even there unless a person experiences it." (26)
 - information isn't special in itself, "experience [by a human] is the only process that can de-alienate information" (29)
 - people need to come before computers (after all it was people who made computers) (34-36)
-- 
+
+
 
 ## Chapter 3 - The Noosphere
 - "There is more than one possible technical future, and the debate should be about how to best identify and act on whatever freedoms of choice we still have" (45)
@@ -60,3 +64,7 @@
 - this is his vision for how technology should unfold, which I don't fully understand (he says he does not either)
 - he wants "post-symbolic communication" to enhance symbolic (linguistic) communication
 - he thinks this can be achieved with virtual reality
+
+---
+Created: 2019-06-05
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

@@ -1,20 +1,9 @@
 
-# [*Live Not by Lies: A Manual for Christian Dissidents*](https://www.amazon.com/Live-Not-Lies-Christian-Dissidents/dp/0593087399) by [[Rod Dreher]]
+# [*Live Not by Lies: A Manual for Christian Dissidents*](https://www.penguinrandomhouse.com/books/622436/live-not-by-lies-by-rod-dreher/9780593087398) by [[Rod Dreher]]
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/515KymfQCTL._SX329_BO1,204,203,200_.jpg" width=150>
+<img src="https://images2.penguinrandomhouse.com/cover/9780593087398" width=150>
 
-`(New York: Sentinel, 2020), 256`
-
-- summary of part 1 on 93
-
-# Notes
-
-<details>
- <summary><i>Contents</i></summary>
-<!-- MarkdownTOC autolink="true" -->
-
-<!-- /MarkdownTOC -->
-</details>
+`(New York: Sentinel/Penguin, 2020), 256`
 
 
 ## Introduction
@@ -99,38 +88,64 @@
 # Part 2: How to Live in Truth
 
 ## Chapter 5: Value Nothing More Than Truth
-**Summary**: 
-
+**Summary**: Lies corrupt our ability to think clearly about reality, so we need to prudently refuse these lies and accept the material consequences of doing so.
+> One word of truth outweights the whole world.
+> —[[Aleksandr Solzhenitsyn]] (100)
+- Fr. Kirill Kaleda: living in the truth may require limiting ourselves in other ways (our careers for example)
+	- Yuri Sipko: If we take [[Phil-01#v21]] ("For to me life is Christ, and death is gain.") seriously we will live with reduced expectations of worldly success
+- Under soft totalitarianism it is more difficult to see the costs of compromising your conscience; we need prudence to know which fights are worth having
+- A society's values are carried in the stories is chooses to tell about itself and in the people it wishes to honor
 
 
 ## Chapter 6: Cultivate Cultural Memory
-**Summary**: 
-
+**Summary**: Forgetting history makes us vulnerable to totalitarianism. We have to tell our stories and use memory as a weapon of cultural self-defense.
+- Cultural memory is the story we tell ourselves to remember who we are: totalitarianism's ambition is to control this memory
+- Modernity assets our right to *choose* and denies any stories/structure/habits/beliefs that constrain our actions
+- Family and religion are the two great institutions of cultural memory, as demonstrated by Karol Wojtyła
+- We need to build the *parallel polis*, the alternative set of social structures (families and small communities) within which cultural memory can be preserved
+	- This might consist of seminars in private homes, Classical Christian schooling, and everyday acts within the home
 
 
 ## Chapter 7: Families Are Resistance Cells
-**Summary**: 
-
+**Summary**: The Benda family of Prague is a case study in how a devoted family can protect itself while serving the wider community. Christian parents must be intentionally countercultural while filling their homes with the good things: guests, books, art, and life.
+- Family is where we first learn to love others and is the bedrock of civilization
+- Benda: marriage and family offer three gifts: a fellowship of love, freedom, and the dignity of the individual
+- Benda family advise:
+	- *Model moral courage:* there are some things more dangerous than the loss of political liberties
+	- *Fill their moral imaginations with the good:* their mother read to them for 2-3 hours each day (!!), especially from *[[~The Lord of the Rings]]*: Mordor is real
+	- *Don't be afraid to be weird in society's eyes:* if you do not strongly impart a sense of difference to your children, you risk losing them
+	- *Prepare to make great sacrifices for the greater good:* don't make compromises for the sake of your children; our suffering has purpose
+	- *Teach they are a part of a wider movement:* value diversity within a broader unity of shared goals
+	- *Practice hospitality and serve others:* make a space for ordinary people to come together: film screenings, seminars, gatherings
 
 
 ## Chapter 8: Religion, the Bedrock of Resistance
-**Summary**: 
-
+**Summary**: Our faith in God can be the bedrock upon which successful resistance to totalitarianism is built.
+- "A creed one holds as a statement not of one's subjective feelings, but as a description of objective reality, is a priceless possession. It tells you how to discern truth from lies." (cf [[Apostles' Creed]] and [[Nicene Creed]], 152)
+- [[Memorize Scripture]]: "Memorizing texts from the [[The Bible#New Testament]] proved to be an excellent preparation for critical times and imprisonment. The most beautiful and important texts which mankind has from God contain a priceless treasure which 'moth and decay cannot destroy, and thieves break in and steal' (cf [[Mt-06#v19]])" (Silvester Krčméry, 153, 192)
+- When disillusionment with materialism comes Christians who proclaim a real alternative to hedonistic materialism will be beacons guiding the lost and tempest-tossed.
+- **"If you are not rock solid in your commitment to traditional Christianity, then the world will break you. But if you are, then this is the solid rock upon which that world will be broken."** (163)
 
 
 ## Chapter 9: Standing in Solidarity
-**Summary**: 
-
+**Summary**: Only in solidarity with others can we find the spiritual and communal strength to resist totalitarianism.
+- Ján Šimulčik: only in small communities can people be free
+- Courage is contagious: when you see someone acting courageously, you will act courageously too
+- The atomized individual standing against the machine will be crushed: we have to stand together
 
 
 ## Chapter 10: The Gift of Suffering
-**Summary**: 
-
+**Summary**: We must learn from the stories of those who have suffered and come to see suffering as a means of sanctification
+- Suffering is a normal part of life that teaches us how to be patient, kind, and loving
+- In *[[~Brave New World]]* John the Savage is "fighting for the right to be unhappy"
+- Join your suffering to others to make it easier to bear
+- Suffering can be a gift, as in *[[~The Gulag Archipelago]]*: "Bless you, prison, for having been in my life!"
+- Feeble faith will be quickly burned away in the slightest persecution
+- [[Aldous Huxley]]: to refuse to see suffering as a means of sanctification is "Christianity without tears"
 
 
 ## Conclusion: Live Not by Lies
-**Summary**: 
-
+**Summary**: The secular, liberal "freedom" (from rather than for) is a lie, and soft totalitarianism bewitches us with the therapeutic promises of entertainment, pleasure, and comfort. Our mission now is to build up our resistance to these forces while we still can.
 
 
 
@@ -139,24 +154,36 @@
 
 **Bibliography**
 
-- *The Gulag Archipelago* by [[Aleksandr Solzhenitsyn]] (xiv)
+- *The Gulag Archipelago* by [[Aleksandr Solzhenitsyn]] (xiv, 165, 194)
 - [[2021-07-15-"Live Not by Lies"]] by [[Aleksandr Solzhenitsyn]] (xiv)
 - ***The Origins of Totalitarianism*** by Hannah Arendt (8, 30, etc.)
 - ***The Captive Mind*** by Czesław Miłoz (9, 42)
-- *Nineteen Eighty-Four* by George Orwell
-- ***Brave New World*** by Aldous Huxley (10)
+- *[[~1984]]* by [[George Orwell]]
+- ***[[~Brave New World]]*** by [[Aldous Huxley]] (10, 184, 212)
 - *The Triumph of the Therapeutic* by [[Philip Rieff]] (11)
 - *Insatiability* (novel) by Czesław Miłoz (15)
 - *Iron Curtain: The Crushing of Eastern Europe 1944–1956* by Anne Applebaum (28, 220)
 - *The Age of Surveillance Capitalism* by Shoshana Zuboff (76)
 - *Permanent Record* by Edward Snowden (82)
 - *The Unbearable Lightness of Being* by Milan Kundera (91)
+- ["The Power of the Powerless"](https://web.archive.org/web/20120107141633/http://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=72_aj_clanky.html&typ=HTML) by Václav Havel (97)
+- *The Book of Laughter and Forgetting* by Milan Kundera (113)
+- *How Societies Remember* by Paul Connnerton (114)
+- *Notes from Underground* (novel) by Roger Scruton (122)
+- "The Family and the Totalitarian State" by Václav Benda (130)
+- *High Noon* (film, 136-7)
+- ***This Saved Us*** by Silvester Krčméry (152)
+- *The Last Man in Russia* by Oliver Bullough (about Fr. Dmitry Dudko, 157)
+- *A Hidden Life* (film about [[Franz Jägerstätter]], 188)
+- *The Demon in Democracy* by Ryszard Legutko
 
 **New Words**
 
 - immiseration: the act of making miserable, especially impoverishment (28, 54)
 - febrile: feverish (46)
 - capacious: spacious or roomy (80)
+- aver: to assert or affirm with confidence (15)
+- doddering: mentally or physically infirm with age (132)
 
 ---
 Created: 2021-10-30

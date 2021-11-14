@@ -1,7 +1,8 @@
 
-# [*High Output Management*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove
+# [*High Output Management*](https://www.penguinrandomhouse.com/books/72467/high-output-management-by-andrew-s-grove-former-chairman-and-ceo-of-intel/) by Andrew S. Grove
+<img src="https://images3.penguinrandomhouse.com/cover/9780679762881" width=150>
 
-`(New York: Penguin Random House, 1983, 2015), 251`
+`(New York: Penguin Random House, 1983/2015), 251`
 
 <details>
  <summary><i>Contents</i></summary>
@@ -75,7 +76,7 @@
   2. Are you plugged into what's happening around you?
   3. Are you trying new ideas/techniques/technologies 
 
-## Forward
+## Foreword
 *2015 by Ben Horowitz* 
 - Andy Grove:
   - is all substance (*xxii*)
@@ -387,4 +388,8 @@
 ---
 
 - This article is a great summary and extension of much of the thinking in *High Output Management*: [[2021-08-08 Article-Lessons from Keith Rabois Essay 3- How to be an Effective Executive]]
+
+---
+Created: 2021-04-11
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 

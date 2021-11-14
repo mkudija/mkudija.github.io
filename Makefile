@@ -17,5 +17,6 @@ readNotes:
 	cd reading-notes/_build; python _build.py
 
 build:
+	cd notes/_build; python _build.py
 	cd reading-notes/_build; python _build.py
 	cd reading; python reading.py
