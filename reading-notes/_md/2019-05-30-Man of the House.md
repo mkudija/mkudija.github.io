@@ -1,9 +1,11 @@
 
 # [*Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart*](https://www.amazon.com/Man-House-Handbook-Building-Shelter/dp/1532614772) by C. R. Wiley
 
+<img src="https://m.media-amazon.com/images/I/61vG2b3fZNL._AC_UY436_FMwebp_QL65_.jpg" width=150>
+
 `(Eugene: Resource, 2017), 139`
 
-## Forward
+## Foreword
 - "Without a father there is no family." (ix)
 
 ## Introduction
@@ -79,13 +81,13 @@
 - Wendell Berry
 - *Shop Class as Soulcraft*
 - *The Household: Informal Order Around the Hearth*
-- *Brave New World*
+- *[[~Brave New World]]*
 - *Tribe*
 - *The Abolition of Man*
 - *[[2020-11-18-After Virtue|After Virtue]]*
 - *Leisure: The Basis of Culture*
 - *Small is Beautiful*
-- *Lord of the Rings*
+- *[[~The Lord of the Rings]]*
 
 ---
 Notes started: 2019-05-30

@@ -1,5 +1,5 @@
 
-# The Letters of J.R.R. Tolkien 
+# *The Letters of J.R.R. Tolkien * by [[J.R.R. Tolkien]]
 
 * But I know only too sadly from efforts to find anything to read even with an 'on demand' subscription at a library that my taste is not normal. -*The Letters of J.R.R. Tolkien*, pg 34, letter 26
 * Letter 43 
@@ -12,6 +12,9 @@
 * “But if literature teaches us anything at all, it is this: that we have in us an eternal element, free from care and fear, which can survey the things that in ‘life' we call evil with serenity (that is not without appreciating their quality, but without any disturbance of our spiritual equilibrium)." -The Letters of J.R.R. Tolkien, #94, pg 106-107
 * “This university business of earning one’s living by teaching, delivering philological lectures, and daily attendance at ‘boards’ and other talk-meetings, interferes sadly with serious work.” #117, 131
 * #141 is an awesome history of Middle-Earth
-* "The Lord of the Rings is of course a fundamentally religious and Catholic work; unconsciously so at first, but consciously in the revision." #142, 172
+* "*[[~The Lord of the Rings]]* is of course a fundamentally religious and Catholic work; unconsciously so at first, but consciously in the revision." #142, 172
 
 
+---
+Created: 2016-11-20
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

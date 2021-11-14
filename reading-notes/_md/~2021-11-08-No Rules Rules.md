@@ -1,7 +1,7 @@
 
-# [*No Rules Rules: Netflix and the Culture of Reinvention*](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) by Reed Hastings & Erin Meyer
+# [*No Rules Rules: Netflix and the Culture of Reinvention*](https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/) by Reed Hastings & Erin Meyer
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51Zv90ecPZL._SX313_BO1,204,203,200_.jpg" width=150>
+<img src="https://images3.penguinrandomhouse.com/cover/9781984877864" width=150>
 
 `(New York: Penguin, 2020), 320`
 

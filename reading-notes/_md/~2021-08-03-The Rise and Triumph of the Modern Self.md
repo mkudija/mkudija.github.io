@@ -11,7 +11,7 @@
 	- >He draws on Charles Taylor and Alister McIntyre and then a third thinker that I forget the name but is valuable
 	- >I think Philip rieff
 
-## Forward by [[Rod Dreher]]
+## Foreword by [[Rod Dreher]]
 - Men have forgotten God, and man (cf. [[Aleksandr Solzhenitsyn]])
 - Ordinary Christians need a better grip on the modern condition, this book through the lens of [[Philip Rieff]]
 - Transgenderism as the "ultimate expression of the spirit of modernity"
