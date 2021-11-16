@@ -3,6 +3,7 @@
 
 `(New York: McGraw Hill, 2019), 331`
 
+
 ### Resources
 - *The author's data and R scripts for the books is on [GitHub](https://github.com/TaddyLab/bds) (see also code for [MBA course](https://github.com/TaddyLab/MBA)).*
 - *My code to accompany these notes is on [GitHub](https://github.com/mkudija/taddy-business-data-science).*
@@ -187,7 +188,6 @@ id5 --> id3
 id5 --> id4
 id3 --> id4
 id2 --> id4
-
 ```
 
 - Use **two-stage least squares (2SLS)** to recover causal effects from IV variation: $\mathbb{E}[y|z]=\gamma\mathbb{E}[p|z]$
@@ -197,20 +197,28 @@ id2 --> id4
 
 
 ## Chapter 6: Controls
-*Summary: *
+*Summary: When we can't run experiments, we can still get as causality through observational studies. If we include all variables that impact the treatment, we can interpret classical models causally (**Linear Treatment Effects**). We can also use **Synthetic Controls** to asses the impact of a treatment when other regions were not treated.*
 - When we can't run experiments, we can use on **observational studies** which depends upon the assumption of **conditional ignorability** (CI): that you have controlled for all variables that influence both the treatment and response
 - **Linear Treatment Effects** (LTE) model: if *x* contains all variables that influence *d* and *y*, then $\gamma$ can be interpreted causally
 	- $y = d\gamma + x'\beta + \varepsilon$, $\varepsilon|d, x = 0$
 	- $d = x'\tau + v$, $v|x=0$
 - Adapt lasso and CV for causal inference under CI for high-dimension problems: **LTE Lasso Regression** or **Propensity Models** for binary treatments
 - Use **Sample Splitting** (or Orthogonal Machine Learning) for inference and uncertainty quantification: split sample into two pieces, model selection on one and standard inference on the second
-- 
-
-
+- **Heterogeneous Treatment Effects** (HTE) deals with the problem of treatment being different for different subjects
+	- price elasticity is a common use case of this type model (see beer sales example)
+- **Synthetic Controls** allow us to estimate the impact of a treatment by comparing one region to other regions that did did not have the treatment
+	- You need to assume independence between regions and stationary structural relationships, and this can be used in conjunction with observed controls
+	- You can predict each of the unchanged regions (placebos) as a means of approximating the error
+- Some strategies to deal with **missing data** include:
+	-  create new category for missing values (categorical variables)
+	-  impute missing values with the mean or with zero (numeric variables)
 
 ## Chapter 7: Factorization
 *Summary: *
-
+- Data Science is effectively *dimension reduction*, and factorization is one tool for breaking the expectation for each **x** into the sum of a small number of factors
+- Clustering (including ***K*-Means**) collects observations into groups
+	- *K*-means can generate different answers each time you run it (there can be multiple local minimums), so treat it more as an exploratory tool
+- **Factor Models and PCA**
 
 
 ## Chapter 8: Text as Data

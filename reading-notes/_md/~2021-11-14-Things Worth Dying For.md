@@ -15,9 +15,10 @@
 </details>
 
 
-## Chapter 1:
+## Chapter 1: If I Forget Thee, O Jerusalem
 **Summary**: 
-
+- "Mouthing lies we know to be lies murders us inwardly." (cf [[2021-07-15-"Live Not by Lies"]], *[[2021-10-30-Live Not By Lies]]*)
+- 
 
 
 ## Chapter 2:

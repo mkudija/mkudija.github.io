@@ -31,7 +31,7 @@
 	- Embraces the Myth of Progress as justification for eliminating all opposition (49)
 - The new totalitarianism is **Soft Totalitarianism**: exploits modern man's preference for comfort and pleasure and convenience over principles
 	- The relevant dystopia is not *Nineteen Eighty-Four* but *Brave New World*
-	- [[Philip Rieff]] (*The Triumph of the Therapeutic*) was a cultural prophet: he saw the death of God in the West leads individuals to seeking pleasure and managing anxiety and predicted the devolution of religion into watery spirituality as realized in [[Christian Smith]]'s **Moralistic Therapeutic Deism**: God exists and wants us to be nice and happy
+	- [[Philip Rieff]] (*The Triumph of the Therapeutic*) was a cultural prophet: he saw the death of God in the West leads individuals to seeking pleasure and managing anxiety and predicted the devolution of religion into watery spirituality as realized in [[Christian Smith]]'s **[[Moralistic Therapeutic Deism]]**: God exists and wants us to be nice and happy
 - This totalitarianism is more subtle than previous versions, and we can't practice *Ketman* (outward conformity with inward resistance, or hypocrisy)
 
 
@@ -91,6 +91,8 @@
 **Summary**: Lies corrupt our ability to think clearly about reality, so we need to prudently refuse these lies and accept the material consequences of doing so.
 > One word of truth outweights the whole world.
 > —[[Aleksandr Solzhenitsyn]] (100)
+
+
 - Fr. Kirill Kaleda: living in the truth may require limiting ourselves in other ways (our careers for example)
 	- Yuri Sipko: If we take [[Phil-01#v21]] ("For to me life is Christ, and death is gain.") seriously we will live with reduced expectations of worldly success
 - Under soft totalitarianism it is more difficult to see the costs of compromising your conscience; we need prudence to know which fights are worth having
@@ -154,7 +156,7 @@
 
 **Bibliography**
 
-- *The Gulag Archipelago* by [[Aleksandr Solzhenitsyn]] (xiv, 165, 194)
+- *[[~The Gulag Archipelago]]* by [[Aleksandr Solzhenitsyn]] (xiv, 165, 194)
 - [[2021-07-15-"Live Not by Lies"]] by [[Aleksandr Solzhenitsyn]] (xiv)
 - ***The Origins of Totalitarianism*** by Hannah Arendt (8, 30, etc.)
 - ***The Captive Mind*** by Czesław Miłoz (9, 42)
