@@ -1,7 +1,7 @@
-# [*A Shorter Summa: The Essential Philosophical Passages of Saint Thomas Aquinas' Summa Theologica*](https://www.amazon.com/Shorter-Summa-Essential-Philosophical-Theologica/dp/0898704383) by [[Peter Kreeft]]
+# [*A Shorter Summa: The Essential Philosophical Passages of Saint Thomas Aquinas' Summa Theologica*](https://www.ignatius.com/A-Shorter-Summa-P2344.aspx) by [[Peter Kreeft]]
 *The Essential Philosophical Passages of [[St. Thomas Aquinas]]' [[2021-08-12-Summa Theologiae|Summa Theologica]]*
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.thenile.io%2Fr1000%2F9780898704389.jpg%3Fr%3D5ea0c1d7b6ae6&f=1&nofb=1" width=150>
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fSSUP.jpg&maintainAspectRatio=true" width=150>
 
 `(San Francisco: Ignatius, 1993), 162`
 

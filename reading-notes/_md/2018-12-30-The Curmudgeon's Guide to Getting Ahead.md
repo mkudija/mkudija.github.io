@@ -1,6 +1,6 @@
 # [*The Curmudgeon's Guide to Getting Ahead: Dos and Don'ts of Right Behavior, Tough Thinking, Clear Writing, and Living a Good Life*](https://www.amazon.com/Curmudgeons-Guide-Getting-Ahead-Behavior/dp/0804141444/ref=sr_1_1?ie=UTF8&qid=1546093872&sr=8-1&keywords=the+curmudgeon%27s+guide) by Charles Murray
 
-(New York: Crown, 2014), 142
+`(New York: Crown, 2014), 142`
 
 ## Introduction
 

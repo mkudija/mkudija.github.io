@@ -355,10 +355,58 @@ RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 
 <p>If you run the query with <code>EXPLAIN</code> on top it will give you the query plan and how costly each step is.</p>
 
+<h2 id="most-recent-month-end-date">Most Recent Month-End Date</h2>
+
+<p><code>SQL
+SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
+</code></p>
+
+<h2 id="creatingupdating-tables">Creating/Updating Tables</h2>
+
+<p>Create table:<br />
+<code>SQL
+-- create table
+DROP TABLE IF EXISTS schema.table;
+CREATE TABLE schema.table
+    AS (
+        SELECT * FROM table
+    );
+</code></p>
+
+<p>Update table:<br />
+```SQL<br />
+DELETE<br />
+FROM table<br />
+WHERE source = 'a';</p>
+
+<p>INSERT INTO table<br />
+SELECT * FROM source_table<br />
+```</p>
+
+<p>Grant usage:<br />
+```SQL<br />
+GRANT USAGE ON SCHEMA <name> TO user;<br />
+GRANT SELECT ON ALL TABLES IN SCHEMA <name TO user;</p>
+
+<p>GRANT USAGE ON SCHEMA <name> TO GROUP readonly;<br />
+GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;<br />
+```</p>
+
+<h2 id="view-tables-in-schema">View Tables in Schema</h2>
+
+<p><code>SQL
+-- view tables in schema
+SELECT t.table_name
+FROM information_schema.tables t
+WHERE t.table_schema = 'schema' -- put schema name here
+    AND t.table_type = 'BASE TABLE'
+ORDER BY t.table_name;
+</code></p>
+
 <hr />
 
 <p>Created: 2019-06-25<br />
-Updated: 2021-11-15</p>
+Updated: 2021-11-17</p>
 
 
 <br>

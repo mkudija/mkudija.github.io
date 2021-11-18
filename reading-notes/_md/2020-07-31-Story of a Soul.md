@@ -1,5 +1,7 @@
 
-# [*The Story of a Soul*](https://www.amazon.com/Story-Soul-Autobiography-Translation-Manuscripts/dp/0935216588) by Thérèse of Lisieux
+# [*The Story of a Soul*](https://tanbooks.com/products/books/saints/autobiographies/the-story-of-a-soul-the-autobiography-of-st-therese-of-lisieux/) by Thérèse of Lisieux
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51xHHWbn40L._SY291_BO1%2C204%2C203%2C200_QL40_ML2_.jpg&f=1&nofb=1" width=150>
 
 `(Rockford: TAN Books, 1898/1997), 216`
 
@@ -12,13 +14,13 @@
 - First Communion: "I had to renew my ardor and fill my heart with freshly gathered flowers...I wanted all the flowers on earth to cradle Jesus in my heart." (49)
 - "I would not tell you everything, even if I could, for there are certain things which lose their fragrance in the open air" (51)
 - re Jesus, her desire to "disappear like a drop of water lost in the mighty ocean." (52)
-- She loved *The Imitation of Christ* (54) and as a child was called the "little doctor" (55)
+- She loved *[[The Imitation of Christ]]* (54) and as a child was called the "little doctor" (55)
 - "Here, in the silence, I found my one consolation: Jesus, my only friend." (61)
 
 ## Chapter 5 - Christmas Grace and After
 - "As I closed my Missal after Mass one Sunday, a picture of the Crucifixion slipped out a little way, and I could just see one of the wounds in Our Lord's hands, with blood flowing from it. A strange new thrill passed over me. It pierced my heart with sorrow to see His Precious Blood falling, with no one bothering to catch it, and I made up my mind, there and then, to stay at the foot of the Cross, to gather up the dew of heavenly life and give it to others. The cry of Jesus as He died, 'I thirst,' echoed every moment in my soul, inflaming my heart with a burning love. I longed to satisfy His thirst for souls" (66)
 - "My spiritual life up to now had been nourished by the 'fine flour' of *The Imitation* and it was the only book which did me any good because I had not yet discovered the hidden treasures of the Gospels." (69)
-  - also St. John of the Cross *Canticle of the Soul* (71)
+  - also [[St. John of the Cross]] *Canticle of the Soul* (71)
 
 ## Chapter 6 - Trip to Rome
 - "I learned from experience that joy does not reside in the things about us, but in the very depths of the soul, that one can have it in the gloom of a dungeon as well as in the palace of a king." (99)
@@ -49,3 +51,7 @@
 
 ## Chapter 11 - Immense Darkness
 - "Jesus, my Love, I have at last found my vocation; *it is love*!" (199, cf 1 Cor. 12:31)
+
+---
+Created: 2019-06-17
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

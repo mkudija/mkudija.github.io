@@ -274,6 +274,54 @@ RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 ## Optimize Query
 If you run the query with `EXPLAIN` on top it will give you the query plan and how costly each step is.
 
+## Most Recent Month-End Date
+```SQL
+SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
+```
+
+## Creating/Updating Tables
+Create table:
+```SQL
+-- create table
+DROP TABLE IF EXISTS schema.table;
+CREATE TABLE schema.table
+	AS (
+		SELECT * FROM table
+	);
+```
+
+Update table:
+```SQL
+DELETE
+FROM table
+WHERE source = 'a';
+
+INSERT INTO table
+SELECT * FROM source_table
+```
+
+Grant usage:
+```SQL
+GRANT USAGE ON SCHEMA <name> TO user;
+GRANT SELECT ON ALL TABLES IN SCHEMA <name TO user;
+
+GRANT USAGE ON SCHEMA <name> TO GROUP readonly;
+GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;
+```
+
+
+## View Tables in Schema
+```SQL
+-- view tables in schema
+SELECT t.table_name
+FROM information_schema.tables t
+WHERE t.table_schema = 'schema' -- put schema name here
+	AND t.table_type = 'BASE TABLE'
+ORDER BY t.table_name;
+```
+
+
+
 ---
 Created: 2019-06-25
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

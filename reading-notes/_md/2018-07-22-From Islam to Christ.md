@@ -1,16 +1,18 @@
-# *From Islam to Christ* by Derya Little
+# *[From Islam to Christ](https://www.ignatius.com/From-Islam-to-Christ-P1287.aspx)* by Derya Little
 
-(San Francisco: Ignatius, 2017), 204
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fISCHP.jpg&maintainAspectRatio=true" width=150>
+
+`(San Francisco: Ignatius, 2017), 204`
 
 
 ## Books she references
 - *Price to Pay* by Joseph Fadelle (25)
-- *What's Wrong With the World* by G.K. Chesterton (85)
+- *What's Wrong With the World* by [[G.K. Chesterton]] (85)
 - *By What Authority?: An Evangelical Discovers Catholic Tradition* by Mark Shea (140)
-- *Principles of Catholic Theology* by Joseph Ratzinger
-- *Without Roots* by Joseph Ratzinger
+- *Principles of Catholic Theology* by [[Joseph Ratzinger]]
+- *Without Roots* by [[Joseph Ratzinger]]
 - *The Apostasy That Wasn't: The Extraordinary Story of the Unbreakable Early Church* by Rod Bennett
-- *The Everlasting Man* by G.K. Chesterton
+- *The Everlasting Man* by [[G.K. Chesterton]]
 
 
 ## On Islam
@@ -23,7 +25,7 @@
 - "In Christian culture, the grace of God mainfested through the sacrifice of Christ mitigates against the tendency of men to dominate those physically weaker than themselves, in other words, women and children." (28)
 - "everyone who takees his religion seriously is naturally a missionary" (81)
 - "Thankfully the Holy Spirit is more stubborn than I am" (95)
-- The Grand Inquisitor: "There is both beauty and misery hidden within freedom. It is not that God lets us down; it is that we let Him down." (101)
+- The Grand Inquisitor (*[[2014-12-20-The Brothers Karamazov]]*): "There is both beauty and misery hidden within freedom. It is not that God lets us down; it is that we let Him down." (101)
 - "Refusing to forgive is like drinking poison and hoping that the other person will die" (130)
 - What the priest in Ankara told her to do when she was confused about whether to become Catholic (157-158):
   - Pray
@@ -49,15 +51,19 @@
 
 *Columbus Catholic Conversations, August 25, 2018*
 
-- Chesterton: "The riddles of God are more satisfying than the solutions of man."
+- [[G.K. Chesterton]]: "The riddles of God are more satisfying than the solutions of man."
 - on the sexual abuse crisis: "there is nowhere to go except the church"
-- the lack of conversions from Islam is due to servile fear (vs. filiar fear c.f. Aquinas)
+- the lack of conversions from Islam is due to servile fear (vs. filiar fear c.f. [[St. Thomas Aquinas]])
 - "until I moved to the West I never heard that Islam was a religion of peace"
   - only peace is when everyone worships Allah
-- on reading Marx: "just don't do that to yourself!"
+- on reading [[Karl Marx]]: "just don't do that to yourself!"
 - her friend Theresa made her realize that Allah is a very small god: no natural law, no science, no consistency
 - Grand Inquisitor: free will and sin
 - Islam and Protestantism are both very Gnostic: the spiritual and natural worlds never meet
 - advice for raising kids: teach them to be skeptics so they can evaluate and embrace faith for themselves
 - Islam is a disease > you get attacked when your immunity is down; watered down Christianity and secularism don't have anything substantial to offer to people look at Islam
   - "the only thing that will save the West is a strong Catholic Church"
+
+---
+Created: 2018-07-22
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

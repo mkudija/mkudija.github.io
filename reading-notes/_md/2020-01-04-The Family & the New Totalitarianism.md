@@ -1,7 +1,9 @@
 
-# [*The Family & the New Totalitarianism*](https://www.amazon.com/Family-New-Totalitarianism-Michael-OBrien/dp/0991583264/ref=sr_1_1?keywords=The+Family+%26+the+New+Totalitarianism&qid=1578190780&sr=8-1) by Michael D. O'Brien
+# [*The Family & the New Totalitarianism*](https://www.divineprovidencepress.com/michael-d-obrien.html) by [[Michael D. O'Brien]]
 
-(Belmont, NC: Wiseblood, 2019), 248
+<img src="https://www.divineprovidencepress.com/uploads/1/9/4/6/19466635/s447186058278879304_p9_i1_w320.jpeg" width=150>
+
+`(Belmont, NC: Wiseblood, 2019), 248`
 
 
 Books mentioned:
@@ -9,12 +11,12 @@ Books mentioned:
 - *Faith and Life* series by Ignatius Press (106)
 - *Catechism of the Catholic Church*
 - *The Crisis of Western Education* by Christopher Dawson (124)
-- *Democracy in America* (157)
-- *The Abolition of Man* by C.S. Lewis (162)
+- *[[~Democracy in America]]* (157)
+- *The Abolition of Man* by [[C.S. Lewis]] (162)
 - *Veritatis Splendor*
 - *Familiaris Consortio*
 - *Evangelium Vitae*
-- *Christianity and the Crisis of Cultures* by Ratzinger
+- *Christianity and the Crisis of Cultures* by [[Joseph Ratzinger]]
 
 
 
@@ -32,3 +34,7 @@ Books mentioned:
 - JPII: "I would a thousand times rather have a persecuted Church than a compromised Church." (145)
 - "Unless one is grounded in absolutes, it is very difficult to see the gradual shifting of the center." (224)
 - "The lay person's foremost responsibility in the restoration is to pray persistently for our bishops. *This prayer must be backed up by fasting and sacrifice*." (236)
+
+---
+Created: 2020-01-04
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

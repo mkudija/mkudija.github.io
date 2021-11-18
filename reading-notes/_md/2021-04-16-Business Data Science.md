@@ -218,12 +218,33 @@ id2 --> id4
 - Data Science is effectively *dimension reduction*, and factorization is one tool for breaking the expectation for each **x** into the sum of a small number of factors
 - Clustering (including ***K*-Means**) collects observations into groups
 	- *K*-means can generate different answers each time you run it (there can be multiple local minimums), so treat it more as an exploratory tool
-- **Factor Models and PCA**
+- **Principal Component Analysis** (PCA) identifies the dimensions with the highest variance 
+	- Think about PCA as:
+		- repeatedly fitting a regression onto the best possible factors to explain the current residuals
+		- rotating the axes of the data for the projections with the highest variance
+	- You can summarize most of the variation with the first *K* components
+	- Use `prcomp(x, scale=TRUE)` to compute PCA in R
+	- PCA can provide (approximate) interpretable results
+- **Principal Component (Lasso) Regression** (PCR)
+	- Instead of regressing *y* onto ***x***, regress *y* onto ***v*** from the PCA
+	- This is beneficial because PCA reduces dimension, PCs are independent (removes multicollinearity), and you can use the results of unsupervised PCA on a large bank of unlabeled data on a smaller supervised regression
+	- Use Lasso regression and then you can regress *y* onto both ***x*** and ***v***
+- Sometimes ***v*** is not relevant to both ***x*** and *y*, so make this true using **Partial Least Squares** (PLS):
+	- This is a special case of **Marginal Regression** (MR), a strategy for supervised learning in ultra-high ($p\gg n$) dimensions: regress *y* on to each dimension of ***x*** independently and use the resulting coefficients to map from ***x*** to *v*
+	- PLS repeats MR for multiple iterations ("boosted marginal regression")
+	- **Boosting**: repeatedly apply residuals from the previous fit of a simple algorithm
+	- PLS often offers greater interpretability than Lasso
 
 
 ## Chapter 8: Text as Data
-*Summary: *
-
+*Summary: Once raw text is tokenized it can be treated with many of the data science methods we have learned. Textual analysis is often messy or subjective, so it is wise to use it as a supplement to a larger system.*
+- *Tokenization* translates raw text into counts of words/phrases that can then be used by data science
+- Use *Stemming* to remove word endings and keep only the root of the word
+- **Text Regression** uses this data as an input for lasso or other regression techniques
+- **Topic Models** are multinomial factor models that often lead to more interpretable factorization
+- **Multinomial Inverse Regression** (MNIR) complements text regression and topic modeling and is useful for sorting through a large number of related influences on text and categorizing according to these factors
+- **Collaborative Filtering** (*the Netflix problem*) seeks to make recommendations, often accomplished with **Market Basket Analysis** which computes the lift from a predecessor
+- **Word Embedding** imposes spatial structure on words allowing you to get at relationships of meaning and context when making predictions
 
 
 ## Chapter 9: Nonparametrics
@@ -242,6 +263,10 @@ id2 --> id4
 - 78: "in some data-dependent matter" --> "in some data-dependent **manner**"
 - 116: "We can then call `cv.gamlr`" --> "We can then call **`cv.glmnet`**"
 - 135: "it has increased from 0.055 to 0.64" --> "it has increased from 0.055 to **0.064**"
+- 211: "repeatedly fitting regression" --> "repeatedly fitting **a** regression"
+- 222: "This show makes me feelfeel...." --> "This show makes me **feel**...."
+- 222: "I find this showfeel...." --> "I find this **show**...."
+- 237: "This data originally appear in" --> "**These** data originally appear in" or "This data originally **appears** in"
 
 ---
 Created: 2021-04-16

@@ -3,7 +3,7 @@
 (New York: Doubleday, 1750, 1975), 119
 
 
-Fr. Raymund mentioned this the first time we had him over and then again and the guy's night I went to, and I have enjoyed reading it slowly and allowing it to be a point of prayer in my day. This reminds me a lot of *The Practice of the Presence of God*, and is a wonderful daily devotional also like *The Imitation of Christ*. Abandonment is such a simple concept, and so full of meaning to unpack.
+Fr. Raymund mentioned this the first time we had him over and then again and the guy's night I went to, and I have enjoyed reading it slowly and allowing it to be a point of prayer in my day. This reminds me a lot of *The Practice of the Presence of God*, and is a wonderful daily devotional also like *[[The Imitation of Christ]]*. Abandonment is such a simple concept, and so full of meaning to unpack.
 
 
 ## Introduction
@@ -167,3 +167,7 @@ Fr. Raymund mentioned this the first time we had him over and then again and the
 #### (11) To the abandoned soul God is visible even in the proud souls who oppose him. Every creature, whether good or evil, reveals God to him.
 
 #### (12) To all his faithful souls, God promises a glorious victory over the powers of the world and of hell.
+
+---
+Created: 2020-12-23
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

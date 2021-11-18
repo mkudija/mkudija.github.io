@@ -1,4 +1,6 @@
-# [*The Hobbit Party: The Vision of Freedom that Tolkien Got, and the West Forgot*](https://www.amazon.com/Hobbit-Party-Vision-Freedom-Tolkien/dp/1586178237) by Jay Richards & Jonathan Witt
+# [*The Hobbit Party: The Vision of Freedom that Tolkien Got, and the West Forgot*](https://www.ignatius.com/The-Hobbit-Party-P1096.aspx) by Jay Richards & Jonathan Witt
+
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fHOBPH.jpg&maintainAspectRatio=true" width=150>
 
 `(San Francisco: Ignatius, 2014), 190`
 
@@ -7,7 +9,7 @@
   - *Rerum Novarum* by Leo XIII (17)
   - *Quadragesimo Anno* by Pius XI (17)
   - *Celebrating Middle Earth* ed. by West (191)
-  - *Democracy in America* by de Tocqueville (27)
+  - *[[~Democracy in America]]* by de Tocqueville (27)
 - Tolkien was a lifelong enemy of big government in every form (16)
 - "No one can be a t the same time a good Catholic and a true socialist" (17, 191 (*Quadragesimo Anno*))
 - "four overarching themes of Western tradition": natural law, freedom, the transcendent, and the doctrine of the Fall (191)
@@ -26,7 +28,7 @@
   - *Hamlet* (41-42)
   - *Orthodoxy* by Chesterton (42)
 - discussion of Hippies and [misreading] Tolkien (40)
-- Tolkien intentionally left religion out of LOTR, and thought its inclusion in King Arthur weakened it (43)
+- Tolkien intentionally left religion out of *[[~The Lord of the Rings]]*, and thought its inclusion in King Arthur weakened it (43)
   - Tolkien's writing is Catholic in nature, but not name
 - discussion of the importance of property rights (47-51)
 

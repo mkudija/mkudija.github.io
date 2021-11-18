@@ -1,6 +1,8 @@
-# [*The World Beyond Your Head: On Becoming an Individual in an Age of Distraction*](https://www.amazon.com/World-Beyond-Your-Head-Distraction-ebook/dp/B00O0G1A6S/ref=sr_1_1?ie=UTF8&qid=1535326998&sr=8-1&keywords=the+world+beyond+your+head) by Matthew Crawford
+# [*The World Beyond Your Head: On Becoming an Individual in an Age of Distraction*](https://us.macmillan.com/books/9780374535919/the-world-beyond-your-head) by [[Matthew B. Crawford]]
 
-(New York: Farrar, Straus and Giroux, 2015), 321 
+<img src="https://mpd-biblio-covers.imgix.net/9780374535919.jpg?w=900" width=150>
+
+`(New York: Farrar, Straus and Giroux / Macmillan, 2015), 321`
 
 We are living through a crisis of attention (location. 22)
 
@@ -227,3 +229,7 @@ Perhaps it is more generally true that in order to learn from tradition, one has
 in a culture saturated with technologies for appropriating our attention, our interior mental lives are laid bare as a resource to be harvested by others. (location. Page: 247)
 
 Only beautiful things lead us out to join the world beyond our heads. (location. Page: 258)
+
+---
+Created: 2017-10-13
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

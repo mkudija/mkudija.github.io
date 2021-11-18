@@ -1,5 +1,7 @@
 
-# [*Prayer for Beginners*](https://www.amazon.com/Prayer-Beginners-Peter-Kreeft/dp/0898707757) by [[Peter Kreeft]]
+# [*Prayer for Beginners*](https://www.ignatius.com/Prayer-for-Beginners-P1942.aspx) by [[Peter Kreeft]]
+
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fPFBP.jpg&maintainAspectRatio=true" width=150>
 
 `(San Francisco: Ignatius, 2019), 130`
 

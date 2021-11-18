@@ -1,9 +1,9 @@
 
 # [*Faith and the Future*](https://www.ignatius.com/Faith-and-the-Future-P3447.aspx) by Joseph Ratzinger
 
-`(San Francisco: Ignatius, 1970/2009), 118`
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fFAFP.jpg&maintainAspectRatio=true" width=150>
 
-`Notes Started: 2021-07-03`
+`(San Francisco: Ignatius, 1970/2009), 118`
 
 ## Faith and Knowledge
 - Auguste Compte: "man can live without God, but he cannot live without religion" (14)
@@ -55,8 +55,12 @@
 
 **Bibliography**
 
-- *The Drama of Atheist Humanism* by Henri de Lubac (14)
-- *Introduction to Christianity* by Joseph Ratzinger (34)
+- *The Drama of Atheist Humanism* by [[Henri de Lubac]] (14)
+- *Introduction to Christianity* by [[Joseph Ratzinger]] (34)
 - *The Force of Circumstance* by Simone de Beauvoir (52-55, describing the emptiness of a present without a future)
 - *The Little Prince* by Antoine de Saint-Exupéry (111-112, "seeing with the heart")
 - de Lubac" ["Holiness in Future"](https://github.com/mkudija/notes/blob/master/Holiness%20In%20Future%20by%20de%20Lubac.pdf) in *The Church: Paradox and Mystery* (115)
+
+---
+Created: 2021-07-03
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

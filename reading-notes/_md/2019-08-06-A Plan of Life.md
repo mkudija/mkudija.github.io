@@ -1,12 +1,14 @@
 
-# [*A Plan of Life*](https://scepterpublishers.org/collections/free-catholic-booklets/products/a-plan-of-life) by Joseph M. Muntadas
+# [*A Plan of Life*](https://scepterpublishers.org/collections/free-catholic-booklets/products/a-plan-of-life) by Joseph M. Muntadas, [[St. Josemaría Escrivá]]
 
-(Strongsville: Scepter, 1977), 23
+<img src="https://i.shgcdn.com/f5042cc2-11f6-445c-8256-916c191b3072/-/format/auto/-/preview/3000x3000/-/quality/lighter/" width=150>
+
+`(Strongsville: Scepter, 1977), 23`
 
 - **The Morning Offering**
   - Begin our day with a “Hello, Lord”
 - **Mental Prayer**
-  - "In addition to the gospels, books to aid meditation include *The Imitation of Christ* and St. Josemaria’s *The Way*, *Furrow*, and *The Forge*."
+  - "In addition to the gospels, books to aid meditation include *[[The Imitation of Christ]]* and St. Josemaria’s *The Way*, *Furrow*, and *The Forge*."
 - **Holy Mass**
   - be present
   - have a dignified posture and alert mind and heart full of love
@@ -36,3 +38,7 @@
   - Consideration of our divine filiation: we are daughters and sons of God
   - Work: make your work important
   - Cheerfulness: supernatural happiness that comes from abandoning everything, including yourself, into the loving arms of our Father, God
+
+---
+Created: 2019-06-17
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

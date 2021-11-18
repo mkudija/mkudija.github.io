@@ -1,5 +1,7 @@
 
-# [*The Spirit of the Liturgy*](https://www.amazon.com/Spirit-Liturgy-Commemorative-Romano-Guardini/dp/1621642585) by Joseph Ratzinger
+# [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by Joseph Ratzinger
+
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fSPLCEH.jpg&maintainAspectRatio=true" width=150>
 
 `(San Francisco: Ignatius, 2000/2018), 271`
 
@@ -129,7 +131,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 
 
 
-# [*The Spirit of the Liturgy*](https://www.amazon.com/Spirit-Liturgy-Commemorative-Romano-Guardini/dp/1621642585/ref=sr_1_1?dchild=1&keywords=the+spirit+of+the+liturgy&qid=1611760722&sr=8-1) by Romano Guardini
+# [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by Romano Guardini
 
 `(San Francisco: Ignatius, 1918/2018), 98`
 
@@ -181,3 +183,6 @@ I'm glad they included the original that Ratzinger's more recent book was based 
 - **thraldom**: the state of being in bondage
 
 
+---
+Created: 2021-01-27
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

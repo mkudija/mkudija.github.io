@@ -61,8 +61,8 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 
 ## 1. The Shift
 - we have shifted from a culture of humility, *The Little Me*, to a culture where people see themselves as the center of the universe, *The Big Me* (6)
-* **Humility**: "the awareness that there's a lot you don't know and that a lot of what you think you know is distorted or wrong" (8-9); intellectual humility: "accurate self-awareness from a distance" (9)
-* **Wisdom**: "The moral quality of knowing what you don't know and figuring out a way to handle your ignorance, uncertainty, and limitation" (9)
+* **[[Humility]]**: "the awareness that there's a lot you don't know and that a lot of what you think you know is distorted or wrong" (8-9); intellectual humility: "accurate self-awareness from a distance" (9)
+* **[[Wisdom]]**: "The moral quality of knowing what you don't know and figuring out a way to handle your ignorance, uncertainty, and limitation" (9)
 * "crooked timber" view of humanity he references if from Kant: "Out of the crooked timber of humanity, no straight thing was ever made" (11)
 
 ## 2. The Summoned Self *(Frances Perkins)*
@@ -81,7 +81,7 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 * On not letting on to all that you know: "He was reasonably learned in ancient history, admiring especially the crafty Athenian leader Themistocles, but he never let that on. He did not want to appear smarter than other people, or somehow superior to the average American. Instead, he cultivated the image of simple, unlearned charm" (68)
 
 ## 4. Struggle *(Dorothy Day)*
-* Dorothy Day's reading list: Charles Dickens, Edgar Allan Poe, *The Imitation of Christ* by Kempis. Her autobiography: *The Long Loneliness* (76)
+* [[Dorothy Day]]'s reading list: Charles Dickens, Edgar Allan Poe, *[[The Imitation of Christ]]* by Kempis. Her autobiography: *The Long Loneliness* (76)
 * "It's hard now to recapture how seriously people took novel reading then, or at least how seriously Day and others took it—reading important works as wisdom literature, believing that supreme artists possessed insights that could be handed down as revelation, trying to mold one's life around the heroic and deep soul one found in books. Day read as if her whole life depended on it" (79)
 * "Early in her religious journey, Day met three women who were in love but weren't sleeping with the men they intended to marry, even though it was obvious how much they wanted to. Day looked at their self-denial and began to feel 'that Catholicism was something rich and real and fascinating...I saw them wrestling with moral problems, with the principles by which they lived, and this made them noble in my eyes'" (89, cf. *All is Grace* by Jim Forest)
 * Saints: "They are more fully of this earth, more fully engaged in the dirty, practical problems of the people around them" (91)
@@ -89,7 +89,7 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 * 100-101 is a beautiful description of how Day responds to other people's suffering
 
 ## 5. Self- Mastery *(George Marshall)*
-* Why read biographies: "The work of the Roman biographer Plutarch is based on the premise that the tales of the excellent can lift the ambitions of the living. Thomas Aquinas argued that in order to lead a good life, it is necessary to focus more on our exemplars than on ourselves, imitating their actions as much as possible. The philosopher Alfred North Whitehead argued, 'Moral education is impossible without the habitual vision of greatness.'" (107, more on 108)
+* Why read biographies: "The work of the Roman biographer Plutarch is based on the premise that the tales of the excellent can lift the ambitions of the living. [[St. Thomas Aquinas]] argued that in order to lead a good life, it is necessary to focus more on our exemplars than on ourselves, imitating their actions as much as possible. The philosopher Alfred North Whitehead argued, 'Moral education is impossible without the habitual vision of greatness.'" (107, more on 108)
 * "Great individuals are made, not born, and they are made through training...The Act precedes the virtue" (109-110)
 * he became an **autodidact** at Fort Leavenworth (112)
 * Respect for institutions (115-116)
@@ -114,11 +114,11 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 	"Humility is a virtue of self-understanding in context, acquired by the practice of other centeredness" (209)
 * **Grace**:
 	* The ultimate conquest of self, in this view, is not won by self-discipline, or an awful battle within self. It is won by going out of self, by establishing a communion with God and by doing the things that feel natural in order to return God's love" (207)
-	* "You become what you love" (207, cf. Matthew 6:21)
+	* "You become what you love" (207, cf. [[Mt-06#v21]])
 * Good summary of Augustine 208-209
 
 ## 9. Self-Examination *(Samuel Johnson & Montaigne)*
-* An important observation in our world of infinite options: "When the external constraints are loosened, when a person can do what he wants, when there are a thousand choices and distractions, then life can los coherence and direction if there isn't a strong internal structure" (218)
+* An important observation in our world of infinite options: "When the external constraints are loosened, when a person can do what he wants, when there are a thousand choices and distractions, then life can lose coherence and direction if there isn't a strong internal structure" (218)
 * "We have less reason to be surprised or offended when we find others differ from us in opinions because we very often differ from ourselves" (219, cf. Adventurer essays; reminds me of Whitman: "Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.")
 * **[[Generalism]]**: "He who can talk only on one subject, or act only in one department, is seldom wanted, and perhaps never wished for, while the man of general knowledge can often benefit and always please" (223)
 
@@ -129,7 +129,7 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 	* Brook identifies the end of WWII, the late 1940s and 1950s as the final collapse of moral realism and the rise of positive psychology and the self-esteem movement
 * **Authenticity**:
 	* I read this while at a leadership course called *Authentic Leadership*
-	* we are born into Charles Taylor's *culture of authenticity*, where we have a golden self inside, which is our best moral guide
+	* we are born into [[Charles Taylor]]'s *culture of authenticity*, where we have a golden self inside, which is our best moral guide
 	* this frames the battle not as one against the weakness of self, but as a liberation and self-expression
 	* "Moral authority is no longer found in some external objective good; it is found in each person's unique original self" (249)
 * information technology has 3 effects on the moral ecology (250-251):

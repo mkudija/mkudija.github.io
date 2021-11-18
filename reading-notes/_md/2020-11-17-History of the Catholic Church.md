@@ -1,6 +1,8 @@
-# [*The History of the Catholic Church: From the Apostolic Age to the Third Millennium*](https://www.amazon.com/History-Catholic-Church-Apostolic-Millennium/dp/1586176641/ref=sr_1_2?dchild=1&keywords=history+of+the+catholic+church+hitchcock&qid=1605639630&sr=8-2) by James Hitchcock
+# [*The History of the Catholic Church: From the Apostolic Age to the Third Millennium*](https://www.ignatius.com/History-of-the-Catholic-Church-P1044.aspx) by James Hitchcock
 
-(San Francisco: Ignatius, 2012), 530
+<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fHCCH.jpg&maintainAspectRatio=true" width=150>
+
+`(San Francisco: Ignatius, 2012), 530`
 
 I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey sung its praises and encouraged me to read it when he was over for dinner. The history of the Church is also in large part the history of Western civilization in terms of religion, culture, politics, art, and other domains of life. Hitchcock undertakes the impossible task of condensing 2000 years of history into a manageable volume and doing so in a way that seeks the truth with the eyes of faith. He is fair in his treatment of the great sin and failings of its leaders and members but also places these—and history itself—in the context of eternity. Indeed, as he concludes: "for Christians, there can be no final understanding of history in this life" (527).
 
@@ -184,7 +186,7 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - Devotion to St. Joseph, which had been neglected in earlier centuries, grew in popularity after 1400, (Location 4692)
 - The most extraordinary saint of the age (indeed, of any age) was Joan of Arc (d. 1431). (Location 4708)
 - St. John of Capistrano (d. 1456) also had an unusual history. An administrator in the Papal States, he separated from his wife and entered the Franciscans, of which he eventually became minister general, reforming his order and scathingly criticizing the corruption of the clergy. (Location 4749)
-- Its greatest expression was The Imitation of Christ by Thomas à Kempis (d. 1471), which, next to the Bible, is the most widely read book in the history of Christianity and, along with the Bible, the only book continuously in print almost since the invention of printing. Kempis urged his readers simply to follow the teaching and example of Jesus in the Gospel: the spirit of humility, charity, and submission to God’s will. (Location 4758)
+- Its greatest expression was *[[The Imitation of Christ]]* by [[Thomas à Kempis]] (d. 1471), which, next to the Bible, is the most widely read book in the history of Christianity and, along with the Bible, the only book continuously in print almost since the invention of printing. Kempis urged his readers simply to follow the teaching and example of Jesus in the Gospel: the spirit of humility, charity, and submission to God’s will. (Location 4758)
 - There is a distinct note of anti-intellectualism in the work, as Kempis repeatedly warned that, of itself, knowledge might be sterile, whereas a heartfelt effort to do God’s will was salutary. Whereas for Aquinas and other Scholastics, a virtuous act was any act motivated by the intellect’s assent to truth and the will’s decision to act accordingly, for Kempis actual emotion was a necessary sign of authenticity. The penitent should shed real tears and experience desolation. (Location 4793)
 - favored instead a simple and practical kind of spirituality, and Gerson also wrote a treatise on mysticism that emphasized common sense, humility, charity, the natural human virtues, and submission to the hierarchy. (Location 4813)
 - William of Ockham was the most influential of the nominalists, holding that, since the mind could “perceive” things that did not actually exist (dreams, illusions), it did not know real things but only its own ideas, to which it gave names. (Location 4850)
@@ -315,3 +317,7 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - Under Ratzinger, the CDF began to act vigorously to correct questionable teachings, issuing official warnings against several theologians and in some cases ordering them to cease teaching and publishing. Although theologians sometimes complained that they were condemned without being understood, they were in fact being judged by a man whose intelligence and theological attainments were superior to their own. (Location 11117)
 - greater use of Latin as a vehicle of tradition and a unifying liturgical language; (Location 11121)
 - Significantly, he expressed belief that the priest at Mass should face **ad orientem**, as head of the congregation facing East toward God, rather than versus populum (toward the people). The ad orientem position, he believed, was more appropriate to the Mass as primarily an act of worship rather than a community celebration. (Location 11469)
+
+---
+Created: 2019-06-17
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

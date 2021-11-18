@@ -1,7 +1,9 @@
 
-# [*Why We Drive: Toward a Philosophy of the Open Road*](https://www.amazon.com/Why-We-Drive-Toward-Philosophy/dp/0062741969/ref=sr_1_1?dchild=1&keywords=Why+We+Drive%3A+Toward+a+Philosophy+of+the+Open+Road&qid=1616867898&sr=8-1) by Matthew B. Crawford
+# [*Why We Drive: Toward a Philosophy of the Open Road*](https://www.harpercollins.com/products/why-we-drive-matthew-b-crawford) by [[Matthew B. Crawford]]
 
-(New York: HarperCollins, 2020), 348
+<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062741974_4d0cefb3-4208-4cd3-9abc-349764af8580.jpg?v=1635857700" width=150>
+
+`(New York: HarperCollins, 2020), 348`
 
 
 ## Introduction
@@ -101,7 +103,7 @@
 
 ## Folk Engineering
 - **“A fully free relationship to technology is one that neither shuns it as alienating magic nor accepts uncritically the agenda that is sealed inside the black box.”** (129)
-- watch *Fastest Car* on Netflix
+- [[to-watch]]: *Fastest Car* on Netflix
 - “To go deep into any technical field is to make progress in independence of mind (reject authority and believe your own eyes like Galileo), and feel. Freedoms to maneuver that grows in proportion with ones powers.” (153)
 - “This is why you end up buying a metal lathe and a milling machine. It’s just easier to make some parts than it is to hack a bureaucracy. Plus, you get to replace a frustrating activity with an enjoyable one.” (155)
 - he holds up this Enlightenment idea of knowledge (standard measurement unit accessible to everyone) as opposed to the medieval, but notes this is our caricature of the medieval, see rather *The Waning of the Middle Ages* by Johan Huizinga (155)
@@ -188,3 +190,7 @@
 - *Homo Ludens* by Johan Huizinga (168)
 - *Seeing Like a State* (267)
 - *The Age of Surveillance Capitalism* by Shoshana Zuboff (302+)
+
+---
+Created: 2021-03-27
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

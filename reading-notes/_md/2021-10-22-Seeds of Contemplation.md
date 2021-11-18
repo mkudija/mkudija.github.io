@@ -126,7 +126,7 @@
 - *[[2014-01-25-Penseés|Penseés]]* by [[Blaise Pascal]] (13)
 - *Cautelas* and *Avisos* by [[St. John of the Cross]] (13)
 - *Meditationes* by Guigo the Carthusian (13)
-- *The Imitation of Christ* by Kempis (13)
+- *[[The Imitation of Christ]]* by Kempis (13)
 
 **New Words**
 
