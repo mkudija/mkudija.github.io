@@ -1,15 +1,20 @@
 
 # [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778/ref=sr_1_3?dchild=1&keywords=Business+Data+Science&qid=1618600384&sr=8-3) by Matt Taddy
 
+<img src="https://www.mheducation.co.uk/media/catalog/product/cache/84c63a40cf0771f03c9446b22a7e0f08/9/7/9781260452778_200.jpeg" width=150>
+
 `(New York: McGraw Hill, 2019), 331`
 
 
 ### Resources
+<div class="info">
+	<strong>Need to add PDF of Latex-rendered notes when complete.</strong>
+</div>
+
 - *The author's data and R scripts for the books is on [GitHub](https://github.com/TaddyLab/bds) (see also code for [MBA course](https://github.com/TaddyLab/MBA)).*
 - *My code to accompany these notes is on [GitHub](https://github.com/mkudija/taddy-business-data-science).*
-- *Amazon [author interview](https://www.amazon.science/business-data-science-is-a-lot-more-than-just-making-predictions-matt-taddy) discussing concepts from the book.ou*
+- *Amazon [author interview](https://www.amazon.science/business-data-science-is-a-lot-more-than-just-making-predictions-matt-taddy) discussing concepts from the book.*
 
-## Preface
 
 ## Introduction
 *Summary: Our goal is to produce interpretable models that translate data into insights for decision-making. The modern methods of business data science are characterized by the addition of big data and machine learning to classical statistical and economic methods.*
@@ -248,8 +253,47 @@ id2 --> id4
 
 
 ## Chapter 9: Nonparametrics
-*Summary: *
+*Summary: Nonparametric methods don't assume any relationships like parametric (linear) methods but given enough data can learn these relationships. **Decisions trees** and the averaging these into **Random Forests** are the most common and flexible methods and produce excellent results out of the box.*
+- **Nonparametric** algorithms make fewer assumptions about the relationship between ***x*** and *y*, and in fact learn the true relationship with enough data (assuming independence between observations). Requires low dimensional data: $p\ll n$
+- **Decision Trees** use a hierarchical series of ordered steps (decision nodes) to map inputs to outcomes
+```mermaid
+graph LR
 
+id1(Wake Up)
+id2(>70% Rain)
+id3(<70% Rain)
+id4(Umbrella)
+id5(>30% Rain)
+id6(Cloudy)
+id7(Umbrella)
+id8(Sunny)
+id9(No Umbrella)
+id10(<30% Rain)
+id11(No Umbrella)
+
+
+id1 --> id2
+id1 --> id3
+id2 --> id4
+id3 --> id5
+id5 --> id6
+id6 --> id7
+id5 --> id8
+id8 --> id9
+id3 --> id10
+id10 --> id11
+```
+- **Classification and Regression Tree** (CART) is a method of fitting trees to minimize a loss function (rather than based on $x'\beta$ like linear models, predicted $\hat{y}$ is defined via thresholds on splitting the dimensions of $x$)
+	- Split recursively until you reach a node of a specified minimum size
+- **Random Forests** perform *bagging* (bootstrap aggregating) to effectively average a large number of trees: "nothing performs better out of the box on big data prediction problems"
+	- Forest predictions are the average of individual tree predictions
+	- Uncertainty bounds (defined as the min/max of individual trees) are adaptive based on how far apart individual trees are in different regions
+	- You lose the interpretability of single trees, but can get some intuition around *variable importance* calculated as the increase in error that occurs when a variable is not used to define tree splits
+	- Random forests can be computed efficiently using **Empirical Bayesian Forests** which keep the same trunk (first several splits) for all trees and only allow variation lower down
+- "**More data always wins**...For prediction tasks, never reduce the amount of data you can work with to fit some fancy but computationally costly model—you're better off with a simple but flexible model fit to as much data as you can get your hands on." (279)
+- **Causal Trees** are a tree-based model that is well-suited for modeling heterogeneous treatment effects in each child node
+- **Gradient Boosted Machines** iteratively estimate a sequence of shallow trees each trained to predict the residuals of the previous tree (requires CV to decide when to stop boosting)
+- **Gaussian Processes** smooth predictions across observations according to distances between the inputs
 
 
 ## Chapter 10: Artificial Intelligence
