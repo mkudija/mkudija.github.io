@@ -227,7 +227,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 - *Familiaris Consortio* was one of John Paul II's personal favorites (385)
 	- True freedom: the demands and obligations of family life are liberating, not confining (385)
 	- [[Fatherhood]]: men are called to live their fatherhood as an icon of "the very fatherhood of God" (385)
-- John Paul II made the bold appointment of Aron Lustiger in Paris with important consequences for French Catholicism; he viewed saw the vulnerability to secular modernity in the Church's marriage with power, and the evangelical option as the only alternative (388)
+- John Paul II made the bold appointment of Aron Lustiger in Paris with important consequences for French Catholicism; he saw the vulnerability to secular modernity in the Church's marriage with power, and the evangelical option as the only alternative (388)
 
 
 ## Chapter 12: In the Eye of the Storm

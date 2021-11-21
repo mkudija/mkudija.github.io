@@ -1,17 +1,17 @@
 
-# [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778/ref=sr_1_3?dchild=1&keywords=Business+Data+Science&qid=1618600384&sr=8-3) by Matt Taddy
+# [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.mhprofessional.com/9781260452778-usa-business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-business-decisions-group) by Matt Taddy
 
-<img src="https://www.mheducation.co.uk/media/catalog/product/cache/84c63a40cf0771f03c9446b22a7e0f08/9/7/9781260452778_200.jpeg" width=150>
+<img src="https://www.mhprofessional.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/e/temp_6351_1_5705_1_8318_1_21613.jpg" width=150>
 
 `(New York: McGraw Hill, 2019), 331`
 
 
 ### Resources
 <div class="info">
-	<strong>Need to add PDF of Latex-rendered notes when complete.</strong>
+	<strong>If Latex does not render, you can download a PDF of these notes <a href="https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_md/2021-04-16-Business-Data-Science.pdf">here</a>.</strong>
 </div>
 
-- *The author's data and R scripts for the books is on [GitHub](https://github.com/TaddyLab/bds) (see also code for [MBA course](https://github.com/TaddyLab/MBA)).*
+- *The author's data and R scripts for the book is on [GitHub](https://github.com/TaddyLab/bds) (see also code for [MBA course](https://github.com/TaddyLab/MBA)).*
 - *My code to accompany these notes is on [GitHub](https://github.com/mkudija/taddy-business-data-science).*
 - *Amazon [author interview](https://www.amazon.science/business-data-science-is-a-lot-more-than-just-making-predictions-matt-taddy) discussing concepts from the book.*
 
@@ -30,6 +30,7 @@
   - Big (*volume*) Data is where the scale swamps RAM and requires piping by data engineers
   - Big (*complexity*) Data is big *dimension* data where the assumptions of classical statistics break down ("big *p*" problems)
 - **Machine Learning**: automatically build *predictions* from complex data
+  - Key techniques include **lasso regularized regression**, **random forests**, **neural networks** (295)
   - Focus is to maximize predictive performance on out-of-sample data
   - Limited *structural* interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)
   - *Structural analysis* refers to building analytically from theory, as compared with the pragmatic, black-box *prediction* of machine learning
@@ -88,9 +89,70 @@
 
 
 ## Chapter 2: Regression
-*Summary: *
+*Summary: The basic linear regression model (and its logistic counterpart for binary response) are key data science tools. This chapter provides details and examples of their use, along with uncertainty estimation using nonparametric methods such as the bootstrap.*
 
 *Code for this chapter is [here](https://github.com/mkudija/taddy-business-data-science/tree/main/02-regression).*
+- **Linear models** work with *averages* and *lines*: consider simple linear regression of the form $y = \alpha + x\beta$, or logarithmic: $\log(y) = \alpha + \beta \log(x) + \epsilon$
+	- The log-log model is intuitive: $y$ increases by $\beta$% for every 1% increase in $x$, where $\beta$ is the *elasticity*
+- This is how to understand the coefficients of the `glm` object:
+	- `reg = glm(log(sales) ~ log(price) + brand, data=data)`
+	- `beta <- coef(reg)`
+	-   `beta[1]` = $\alpha$ (intercept for base: `brand=dominicks`)
+	-   `beta[2]` = $\beta$ (slope)
+	-   `beta[3]` = $\alpha_{mm}$ (incremental intercept for `brand=minute.maid`)
+	-   `beta[4]` = $\alpha_{t}$ (incremental intercept for `brand=tropicana`)
+-   This is how to understand the coefficients of the `glm` object with interactions:
+	-   `reg_interact = glm(log(sales) ~ log(price)*brand, data=data)`
+	-   `beta <- coef(reg_interact)`
+	-   `beta[1]` = $\alpha$ (intercept for base: `brand=dominicks`)
+	-   `beta[2]` = $\beta$ (slope for base: `brand=dominicks`)
+	-   `beta[3]` = $\alpha_{mm}$ (incremental intercept for `brand=minute.maid`)
+	-   `beta[4]` = $\alpha_{t}$ (incremental intercept for `brand=tropicana`)
+	-   `beta[5]` = $\beta_{mm}$ (incremental slope for `brand=tropicana`)
+	-   `beta[6]` = $\beta_{t}$ (incremental slopee for `brand=tropicana`)
+- **Logistic Regression** *(page 50-53)* uses the *logit* link function to scale probabilities between 0 and 1:
+	- $p(y=1|x) = \frac{e^{x' \hat{\beta}}}{1 + e^{x' \hat{\beta}}}$
+	- Logistic regression is a linear model for log odds (where odds = probability it happens over probability it doesn't):
+	- $\log \left[ \frac{p}{1-p} \right] = \beta_{0} + \beta_{1}x_{1}... + \beta_{p}x_{p}$
+	 - Use `family='binomial'` for logistic regression
+	 - "`y ~ .`" to regress y on to all variables in the data
+	- Interpreting coefficients: $e^{\beta k}$ is the *multiplicative effect for a unit increase in $x_{k}$ on the odds for the event* $y=1$.
+	- When predicting, call `type='response'` to run predictions through the logit link as $e^{x' \hat{\beta}} / (1 + e^{x' \hat{\beta}})$.
+- **Deviance and Likelihood** *(page 53-57)*
+	- *Likelihood* is the probability of your data given parameters (want as big as possible).
+	- *Deviance* measures the distance between data and fit (want as small as possible: the *cost to be minimized*).
+		- $Deviance = -2\log{Likelihood} + C$
+		- $C$ represents the *fully saturated* model where you have as many parameters as observations.
+	- *Maximum likelihood estimation* (MLE): to minimize deviance in the equation below we need to minimize the sum of squared errors, so MLE = OLS (ordinary least squares):
+		- $dev(\beta) \propto \sum_{i=1}^{n}(y_{i}-x^{'}_{i}\beta)^{2}$
+	- *Residual deviance*: $D=dev(\hat{\beta})$ is deviance to fitted model.
+	- *Null deviance*: $D_{0}=dev(\beta=0)$ is deviance for null (basic) model where all $\hat{y}_{i}=\bar{y}$
+	- The difference between $D$ and $D_{0}$ is due to information contained in the covariates. $R^{2}$ is the *proportion of deviance explained by $x$*:
+		- $R^{2} = \frac{D_{0}-D}{D_{0}} = 1 - \frac{D}{D_{0}}$
+		- This general form allows you to compute $R^{2}$ for almost any machine learning model (rather than the form specific to the linear regression: $R^{2} = \frac{SSE}{SST}$).
+- Other R summary output parameters:
+	- *Dispersion parameter*: measure of variability around the fitted conditional means, estimate for error variance $\sigma^{2}$.
+	- *Degrees of freedom*: actually *residual degrees of freedom*, or *number of observations less number of parameters*
+	- *Degrees of freedom* for the rest of the book refers to *model degrees of freedom*, or *number of parameters in the model*
+- **Regression Uncertainty** *(page 58-61)*
+	- Since "standard" standard errors are sensitive to misspecification, we can use *nonparametric* methods to better estimate uncertainty
+	- The **Bootstrap**: resample with replacement and use the uncertainty across samples as an estimate of actual sampling variance
+	- **Sandwich** variance estimator to get HC standard errors (*heteroskedastic consistent* rather than assuming *homoskedastic*), use the R `AER` package
+	- For OLS, HC standard errors approximate and are a fast alternative to bootstrapping
+- **Space and Time** *(page 61-67)*
+	- Previous discussion assumes independence between observations. 
+	- Since that's not the case, we can include variables behind dependence in the same GLM framework.
+	- Rather than building by hand, include many variables and use later Regularization and Model Selection chapters to select the appropriate ones to use.
+	- When adding variables, *proceed hierarchically*: include larger (year, state) variables for any smaller ones (month, city)
+	- **Autocorrelation** occurs frequently with time series data that has local dependence. The autocorrelation function (ACF) tracks lag correlations.
+		- Model this type of data with a *Random Walk* (a form of *autoregressive* (AR) model), first order form of $AR(1)$:
+		- $AR(1): y_{t} = \beta_{0}+\beta{1}y_{t-1}+\epsilon_{t}$
+	  - if $|\beta_{1}| = 1$, random walk (model with *returns* rather than *values* like the stock market)
+	  - if $|\beta_{1}| > 1$, series explodes (you might be missing a trend variable, otherwise challenging)
+	  - if $|\beta_{1}| < 1$, series reverts to mean (common and useful)
+	 - You can use $AR(p)$ for higher lags and model selection methods to choose the appropriate lag.
+	 - *Spatial autoregressive* (SAR) models to include spatial neighbors (similar to temporal neighbors)
+
 
 ## Chapter 3: Regularization
 *Summary: **Regularization** allows us to develop candidate models and select the best model for OOS performance. We add a penalty term and then minimize the penalized deviance; a common penalty construction is the **Lasso**. Then we can select the optimal penalty weight—$\lambda$—using **cross validation** or **information criteria** as our model selection process. Finally, we can approximate the uncertainty of such a model using a **parametric bootstrap** or **subsampling**.*
@@ -297,7 +359,17 @@ id10 --> id11
 
 
 ## Chapter 10: Artificial Intelligence
-*Summary: *
+*Summary: Artificial Intelligence can replace people for certain tasks. This is achieved by decomposing complex tasks into sub-problems that can be solved with general-purpose machine learning tools, especially deep neural nets.*
+- Let **Artificial Intelligence** be *systems* that ingest human-level knowledge to automate and accelerate tasks previously performed only by humans
+	- Seeks to solve complex problems by using *domain knowledge* to break them down into simple predictions tasks that can be performed with ML
+	- **"ML has the potential to become a cloud computing commodity. In contrast, the domain knowledge necessary to combine ML components into an end-to-end AI solution will not be commoditized. Those who have expertise that can break complex human business problems into ML-solvable components will succeed in building the next generation of business AI."** (292)
+- Contemporary AI is driven by **General-Purpose Machine Learning**, some key components of which include deep neural nets, OOS validation, stochastic gradient descent for parameter optimization, and GPU hardware for parallelization
+- **Deep Learning** or **Deep Neural Nets** (DNNs) combine restrictive dimension reduction (like parametric models) with flexible function approximation (like nonparametric models) using many layers
+	- Neural networks have a long history (including failed experiments with *wide* neural networks in the 1990s), but *deep* neural nets have been enabled recently by big data and GPUs
+	- DNNs are modular: each layer plays a role and they can be swapped out, including to transfer learning between models
+	- See *Deep Learning* by Goodfellow, Bengio, and Courville; *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)* by Michael Nielsen
+- **Stochastic Gradient Descent** replaces the actual gradients with estimates of those gradients based on a subset of the data
+- **Reinforcement Learning** (RL) (aka active learning or sequential design of experiments) algorithms choose data consumed to continue learning
 
 
 ---

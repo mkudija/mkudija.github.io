@@ -31,20 +31,20 @@ Matthew <strong>Kudija</strong>'s <a href="https://matthewkudija.com/reading-not
 <!-- Content -->
 <section>
 
-<h1 id="business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-businesshttpswwwamazoncombusiness-data-science-combining-acceleratedp1260452778refsr_1_3dchild1keywordsbusinessdatascienceqid1618600384sr8-3-by-matt-taddy"><a target="_blank" href="https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778/ref=sr_1_3?dchild=1&amp;keywords=Business+Data+Science&amp;qid=1618600384&amp;sr=8-3"><em>Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business</em></a> by Matt Taddy</h1>
+<h1 id="business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-businesshttpswwwmhprofessionalcom9781260452778-usa-business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-business-decisions-group-by-matt-taddy"><a target="_blank" href="https://www.mhprofessional.com/9781260452778-usa-business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-business-decisions-group"><em>Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business</em></a> by Matt Taddy</h1>
 
-<p><img src="https://www.mheducation.co.uk/media/catalog/product/cache/84c63a40cf0771f03c9446b22a7e0f08/9/7/9781260452778_200.jpeg" width=150></p>
+<p><img src="https://www.mhprofessional.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/e/temp_6351_1_5705_1_8318_1_21613.jpg" width=150></p>
 
 <p><code>(New York: McGraw Hill, 2019), 331</code></p>
 
 <h3 id="resources">Resources</h3>
 
 <div class="info">
-    <strong>Need to add PDF of Latex-rendered notes when complete.</strong>
+    <strong>If Latex does not render, you can download a PDF of these notes <a target="_blank" href="https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_md/2021-04-16-Business-Data-Science.pdf">here</a>.</strong>
 </div>
 
 <ul>
-<li><em>The author's data and R scripts for the books is on <a target="_blank" href="https://github.com/TaddyLab/bds">GitHub</a> (see also code for <a target="_blank" href="https://github.com/TaddyLab/MBA">MBA course</a>).</em></li>
+<li><em>The author's data and R scripts for the book is on <a target="_blank" href="https://github.com/TaddyLab/bds">GitHub</a> (see also code for <a target="_blank" href="https://github.com/TaddyLab/MBA">MBA course</a>).</em></li>
 <li><em>My code to accompany these notes is on <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science">GitHub</a>.</em></li>
 <li><em>Amazon <a target="_blank" href="https://www.amazon.science/business-data-science-is-a-lot-more-than-just-making-predictions-matt-taddy">author interview</a> discussing concepts from the book.</em></li>
 </ul>
@@ -72,6 +72,7 @@ Matthew <strong>Kudija</strong>'s <a href="https://matthewkudija.com/reading-not
 </ul></li>
 <li><strong>Machine Learning</strong>: automatically build <em>predictions</em> from complex data<br />
 <ul><br />
+<li>Key techniques include <strong>lasso regularized regression</strong>, <strong>random forests</strong>, <strong>neural networks</strong> (295)</li><br />
 <li>Focus is to maximize predictive performance on out-of-sample data</li><br />
 <li>Limited <em>structural</em> interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)</li><br />
 <li><em>Structural analysis</em> refers to building analytically from theory, as compared with the pragmatic, black-box <em>prediction</em> of machine learning</li><br />
@@ -177,9 +178,98 @@ Matthew <strong>Kudija</strong>'s <a href="https://matthewkudija.com/reading-not
 
 <h2 id="chapter-2-regression">Chapter 2: Regression</h2>
 
-<p>*Summary: *</p>
+<p><em>Summary: The basic linear regression model (and its logistic counterpart for binary response) are key data science tools. This chapter provides details and examples of their use, along with uncertainty estimation using nonparametric methods such as the bootstrap.</em></p>
 
 <p><em>Code for this chapter is <a target="_blank" href="https://github.com/mkudija/taddy-business-data-science/tree/main/02-regression">here</a>.</em></p>
+
+<ul>
+<li><strong>Linear models</strong> work with <em>averages</em> and <em>lines</em>: consider simple linear regression of the form $y = \alpha + x\beta$, or logarithmic: $\log(y) = \alpha + \beta \log(x) + \epsilon$<br />
+<ul><br />
+<li>The log-log model is intuitive: $y$ increases by $\beta$% for every 1% increase in $x$, where $\beta$ is the <em>elasticity</em></li><br />
+</ul></li>
+<li>This is how to understand the coefficients of the <code>glm</code> object:<br />
+<ul><br />
+<li><code>reg = glm(log(sales) ~ log(price) + brand, data=data)</code></li><br />
+<li><code>beta &lt;- coef(reg)</code></li><br />
+<li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li><br />
+<li><code>beta[2]</code> = $\beta$ (slope)</li><br />
+<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li><br />
+<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li><br />
+</ul></li>
+<li>This is how to understand the coefficients of the <code>glm</code> object with interactions:<br />
+<ul><br />
+<li><code>reg_interact = glm(log(sales) ~ log(price)*brand, data=data)</code></li><br />
+<li><code>beta &lt;- coef(reg_interact)</code></li><br />
+<li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li><br />
+<li><code>beta[2]</code> = $\beta$ (slope for base: <code>brand=dominicks</code>)</li><br />
+<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li><br />
+<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li><br />
+<li><code>beta[5]</code> = $\beta<em>{mm}$ (incremental slope for <code>brand=tropicana</code>)</li><br />
+<li><code>beta[6]</code> = $\beta</em>{t}$ (incremental slopee for <code>brand=tropicana</code>)</li><br />
+</ul></li>
+<li><strong>Logistic Regression</strong> <em>(page 50-53)</em> uses the <em>logit</em> link function to scale probabilities between 0 and 1:<br />
+<ul><br />
+<li>$p(y=1|x) = \frac{e^{x' \hat{\beta}}}{1 + e^{x' \hat{\beta}}}$</li><br />
+<li>Logistic regression is a linear model for log odds (where odds = probability it happens over probability it doesn't):</li><br />
+<li>$\log \left[ \frac{p}{1-p} \right] = \beta<em>{0} + \beta</em>{1}x<em>{1}... + \beta</em>{p}x<em>{p}$<br /><br />
+<ul><br /><br />
+<li>Use <code>family='binomial'</code> for logistic regression</li><br /><br />
+<li>"<code>y ~ .</code>" to regress y on to all variables in the data</li><br /><br />
+</ul></li><br />
+<li>Interpreting coefficients: $e^{\beta k}$ is the <em>multiplicative effect for a unit increase in $x</em>{k}$ on the odds for the event</em> $y=1$.</li><br />
+<li>When predicting, call <code>type='response'</code> to run predictions through the logit link as $e^{x' \hat{\beta}} / (1 + e^{x' \hat{\beta}})$.</li><br />
+</ul></li>
+<li><strong>Deviance and Likelihood</strong> <em>(page 53-57)</em><br />
+<ul><br />
+<li><em>Likelihood</em> is the probability of your data given parameters (want as big as possible).</li><br />
+<li><em>Deviance</em> measures the distance between data and fit (want as small as possible: the <em>cost to be minimized</em>).<br /><br />
+<ul><br /><br />
+<li>$Deviance = -2\log{Likelihood} + C$</li><br /><br />
+<li>$C$ represents the <em>fully saturated</em> model where you have as many parameters as observations.</li><br /><br />
+</ul></li><br />
+<li><em>Maximum likelihood estimation</em> (MLE): to minimize deviance in the equation below we need to minimize the sum of squared errors, so MLE = OLS (ordinary least squares):<br /><br />
+<ul><br /><br />
+<li>$dev(\beta) \propto \sum<em>{i=1}^{n}(y</em>{i}-x^{'}_{i}\beta)^{2}$</li><br /><br />
+</ul></li><br />
+<li><em>Residual deviance</em>: $D=dev(\hat{\beta})$ is deviance to fitted model.</li><br />
+<li><em>Null deviance</em>: $D<em>{0}=dev(\beta=0)$ is deviance for null (basic) model where all $\hat{y}</em>{i}=\bar{y}$</li><br />
+<li>The difference between $D$ and $D<em>{0}$ is due to information contained in the covariates. $R^{2}$ is the <em>proportion of deviance explained by $x$</em>:<br /><br />
+<ul><br /><br />
+<li>$R^{2} = \frac{D<em>{0}-D}{D</em>{0}} = 1 - \frac{D}{D</em>{0}}$</li><br /><br />
+<li>This general form allows you to compute $R^{2}$ for almost any machine learning model (rather than the form specific to the linear regression: $R^{2} = \frac{SSE}{SST}$).</li><br /><br />
+</ul></li><br />
+</ul></li>
+<li>Other R summary output parameters:<br />
+<ul><br />
+<li><em>Dispersion parameter</em>: measure of variability around the fitted conditional means, estimate for error variance $\sigma^{2}$.</li><br />
+<li><em>Degrees of freedom</em>: actually <em>residual degrees of freedom</em>, or <em>number of observations less number of parameters</em></li><br />
+<li><em>Degrees of freedom</em> for the rest of the book refers to <em>model degrees of freedom</em>, or <em>number of parameters in the model</em></li><br />
+</ul></li>
+<li><strong>Regression Uncertainty</strong> <em>(page 58-61)</em><br />
+<ul><br />
+<li>Since "standard" standard errors are sensitive to misspecification, we can use <em>nonparametric</em> methods to better estimate uncertainty</li><br />
+<li>The <strong>Bootstrap</strong>: resample with replacement and use the uncertainty across samples as an estimate of actual sampling variance</li><br />
+<li><strong>Sandwich</strong> variance estimator to get HC standard errors (<em>heteroskedastic consistent</em> rather than assuming <em>homoskedastic</em>), use the R <code>AER</code> package</li><br />
+<li>For OLS, HC standard errors approximate and are a fast alternative to bootstrapping</li><br />
+</ul></li>
+<li><strong>Space and Time</strong> <em>(page 61-67)</em><br />
+<ul><br />
+<li>Previous discussion assumes independence between observations. </li><br />
+<li>Since that's not the case, we can include variables behind dependence in the same GLM framework.</li><br />
+<li>Rather than building by hand, include many variables and use later Regularization and Model Selection chapters to select the appropriate ones to use.</li><br />
+<li>When adding variables, <em>proceed hierarchically</em>: include larger (year, state) variables for any smaller ones (month, city)</li><br />
+<li><strong>Autocorrelation</strong> occurs frequently with time series data that has local dependence. The autocorrelation function (ACF) tracks lag correlations.<br /><br />
+<ul><br /><br />
+<li>Model this type of data with a <em>Random Walk</em> (a form of <em>autoregressive</em> (AR) model), first order form of $AR(1)$:</li><br /><br />
+<li>$AR(1): y<em>{t} = \beta</em>{0}+\beta{1}y<em>{t-1}+\epsilon</em>{t}$</li><br /><br />
+<li>if $|\beta<em>{1}| = 1$, random walk (model with <em>returns</em> rather than <em>values</em> like the stock market)</li><br /><br />
+<li>if $|\beta</em>{1}| &gt; 1$, series explodes (you might be missing a trend variable, otherwise challenging)</li><br /><br />
+<li>if $|\beta_{1}| &lt; 1$, series reverts to mean (common and useful)</li><br /><br />
+<li>You can use $AR(p)$ for higher lags and model selection methods to choose the appropriate lag.</li><br /><br />
+<li><em>Spatial autoregressive</em> (SAR) models to include spatial neighbors (similar to temporal neighbors)</li><br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
 
 <h2 id="chapter-3-regularization">Chapter 3: Regularization</h2>
 
@@ -479,7 +569,24 @@ id10 --> id11<br />
 
 <h2 id="chapter-10-artificial-intelligence">Chapter 10: Artificial Intelligence</h2>
 
-<p>*Summary: *</p>
+<p><em>Summary: Artificial Intelligence can replace people for certain tasks. This is achieved by decomposing complex tasks into sub-problems that can be solved with general-purpose machine learning tools, especially deep neural nets.</em></p>
+
+<ul>
+<li>Let <strong>Artificial Intelligence</strong> be <em>systems</em> that ingest human-level knowledge to automate and accelerate tasks previously performed only by humans<br />
+<ul><br />
+<li>Seeks to solve complex problems by using <em>domain knowledge</em> to break them down into simple predictions tasks that can be performed with ML</li><br />
+<li><strong>"ML has the potential to become a cloud computing commodity. In contrast, the domain knowledge necessary to combine ML components into an end-to-end AI solution will not be commoditized. Those who have expertise that can break complex human business problems into ML-solvable components will succeed in building the next generation of business AI."</strong> (292)</li><br />
+</ul></li>
+<li>Contemporary AI is driven by <strong>General-Purpose Machine Learning</strong>, some key components of which include deep neural nets, OOS validation, stochastic gradient descent for parameter optimization, and GPU hardware for parallelization</li>
+<li><strong>Deep Learning</strong> or <strong>Deep Neural Nets</strong> (DNNs) combine restrictive dimension reduction (like parametric models) with flexible function approximation (like nonparametric models) using many layers<br />
+<ul><br />
+<li>Neural networks have a long history (including failed experiments with <em>wide</em> neural networks in the 1990s), but <em>deep</em> neural nets have been enabled recently by big data and GPUs</li><br />
+<li>DNNs are modular: each layer plays a role and they can be swapped out, including to transfer learning between models</li><br />
+<li>See <em>Deep Learning</em> by Goodfellow, Bengio, and Courville; <em><a target="_blank" href="http://neuralnetworksanddeeplearning.com/index.html">Neural Networks and Deep Learning</a></em> by Michael Nielsen</li><br />
+</ul></li>
+<li><strong>Stochastic Gradient Descent</strong> replaces the actual gradients with estimates of those gradients based on a subset of the data</li>
+<li><strong>Reinforcement Learning</strong> (RL) (aka active learning or sequential design of experiments) algorithms choose data consumed to continue learning</li>
+</ul>
 
 <hr />
 
@@ -499,7 +606,7 @@ id10 --> id11<br />
 <hr />
 
 <p>Created: 2021-04-16<br />
-Updated: 2021-11-18</p>
+Updated: 2021-11-20</p>
 
 
 </section>
