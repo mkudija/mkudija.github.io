@@ -14,7 +14,7 @@
 - First Communion: "I had to renew my ardor and fill my heart with freshly gathered flowers...I wanted all the flowers on earth to cradle Jesus in my heart." (49)
 - "I would not tell you everything, even if I could, for there are certain things which lose their fragrance in the open air" (51)
 - re Jesus, her desire to "disappear like a drop of water lost in the mighty ocean." (52)
-- She loved *[[The Imitation of Christ]]* (54) and as a child was called the "little doctor" (55)
+- She loved *[[~The Imitation of Christ]]* (54) and as a child was called the "little doctor" (55)
 - "Here, in the silence, I found my one consolation: Jesus, my only friend." (61)
 
 ## Chapter 5 - Christmas Grace and After

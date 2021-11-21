@@ -15,7 +15,7 @@
 **Bibliography**
 
 - Biography of [[Pére Jacques]]: *Pére Jacques: Resplendent in Victory* by Francis J. Murphy
-- *[[The Imitation of Christ]]* (4)
+- *[[~The Imitation of Christ]]* (4)
 - *From Holy Communion to the Blessed Trinity* by Marie-Vincent Bernadot (14)
 - *[[2020-12-23-Abandonment to Divine Providence]]* by Jean-Pierre de Caussade (81)
 - *The Forgotten Paraclete* by Maurice Landrieu (87)

@@ -81,7 +81,7 @@ So what then is **Character**, and how can we develop it? Brooks summarizes in *
 * On not letting on to all that you know: "He was reasonably learned in ancient history, admiring especially the crafty Athenian leader Themistocles, but he never let that on. He did not want to appear smarter than other people, or somehow superior to the average American. Instead, he cultivated the image of simple, unlearned charm" (68)
 
 ## 4. Struggle *(Dorothy Day)*
-* [[Dorothy Day]]'s reading list: Charles Dickens, Edgar Allan Poe, *[[The Imitation of Christ]]* by Kempis. Her autobiography: *The Long Loneliness* (76)
+* [[Dorothy Day]]'s reading list: Charles Dickens, Edgar Allan Poe, *[[~The Imitation of Christ]]* by Kempis. Her autobiography: *The Long Loneliness* (76)
 * "It's hard now to recapture how seriously people took novel reading then, or at least how seriously Day and others took it—reading important works as wisdom literature, believing that supreme artists possessed insights that could be handed down as revelation, trying to mold one's life around the heroic and deep soul one found in books. Day read as if her whole life depended on it" (79)
 * "Early in her religious journey, Day met three women who were in love but weren't sleeping with the men they intended to marry, even though it was obvious how much they wanted to. Day looked at their self-denial and began to feel 'that Catholicism was something rich and real and fascinating...I saw them wrestling with moral problems, with the principles by which they lived, and this made them noble in my eyes'" (89, cf. *All is Grace* by Jim Forest)
 * Saints: "They are more fully of this earth, more fully engaged in the dirty, practical problems of the people around them" (91)

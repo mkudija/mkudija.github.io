@@ -8,7 +8,7 @@
 - **The Morning Offering**
   - Begin our day with a “Hello, Lord”
 - **Mental Prayer**
-  - "In addition to the gospels, books to aid meditation include *[[The Imitation of Christ]]* and St. Josemaria’s *The Way*, *Furrow*, and *The Forge*."
+  - "In addition to the gospels, books to aid meditation include *[[~The Imitation of Christ]]* and St. Josemaria’s *The Way*, *Furrow*, and *The Forge*."
 - **Holy Mass**
   - be present
   - have a dignified posture and alert mind and heart full of love
