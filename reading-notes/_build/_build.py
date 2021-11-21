@@ -97,6 +97,7 @@ def create_index(pathTemplate, pathOutput, fnames):
     print('\n\tGenerating index...')
 
     fnames.sort(reverse=True)
+    fnames = list(dict.fromkeys(fnames)) # remove duplicates (for notes with a .pdf)
     try:
         fnames.remove('.DS_Store')
     except:
