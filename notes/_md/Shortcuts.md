@@ -23,6 +23,7 @@ publish: true
 `⌥ + x` = `option + x` = ≈
 `⌃ + ⌘ + space` = `ctrl + cmd + space` = → (opens character viewer)
 `⌃ + ⌘ + Q` = `ctrl + cmd + Q` = Lock screen
+`drutil tray eject` - eject CD
 
 [**ScreenBrush**](https://imagestudiopro.com/screenbrush/)
 	- `⌥ + tab` = `option + tab` - draw on screen

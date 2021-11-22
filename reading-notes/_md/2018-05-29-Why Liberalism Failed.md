@@ -1,12 +1,14 @@
-# *Why Liberalism Failed* by Patrick J. Deneen
+# *[Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed)* by [[Patrick Deneen]]
 
-(New Haven: Yale, 2018), 198
+<img src="https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/48d352398cf845a08551235085779d9c.jpg?itok=duQSFsav" width=150>
+
+`(New Haven: Yale, 2018), 198`
 
 ## My Summary
-This book gives one a lot to think about, and more to do. Deneen argues that liberalism has failed becuase it has been too successful at what it preaches itself. This book is a detailed analysis of how and why it has failed, and a hint toward what can be done about it. Deneen says that liberalism is founded on a false anthropology, which must be recovered if we are to flourish. Humans are made for relationship and to live in harmonty with nature. The task for us is large and yet simple: we must focus on living well and building local culture and community.
+This book gives one a lot to think about, and more to do. Deneen argues that liberalism has failed because it has been too successful at what it preaches itself. This book is a detailed analysis of how and why it has failed, and a hint toward what can be done about it. Deneen says that liberalism is founded on a false anthropology, which must be recovered if we are to flourish. Humans are made for relationship and to live in harmony with nature. The task for us is large and yet simple: we must focus on living well and building local culture and community.
 
 ## Preface
-- "...the better course lies not in any political revolution but in the patient encouragement of new forms of community that can serve as havens in our depersonalized political and economic order. As the Czech dissident Václav Havel wrote in "The Power of the Powerless": 'A better system will not automatically ensure a better life. In fact, the opposite is true: only by creating a better life can a better system be developed.'" (xv)
+- "...the better course lies not in any political revolution but in the patient encouragement of new forms of community that can serve as havens in our depersonalized political and economic order. As the Czech dissident [[Václav Havel]] wrote in "The Power of the Powerless": 'A better system will not automatically ensure a better life. In fact, the opposite is true: only by creating a better life can a better system be developed.'" (xv)
 
 ## Introduction
 
@@ -22,7 +24,6 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
   - Science: 
     - “We still hold the incoherent view that science can liberate us from limits while solving the attendant consequences of that project.” (15)
     - “What is supposed to allow us to transform our world is instead transforming us, making us into creatures to which many, if not most of us, have not given our ‘consent.’” (15)
-
 - “statism enables individualism, individualism demands statism.” (17)
 - his solution: 
   - “The only path to liberation from the inevitabilities and ungovernable forces that liberalism imposes is liberation from liberalism itself. Both main political options of our age must be understood as different sides of the same counterfeit coin.” (18)
@@ -31,16 +32,16 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 - Quoting de Tocqueville: “What’s needed now is not to perfect our philosophy any further but to again do more honor to ourselves. Out of the fostering of new and better selves, porously invested in the fate of other selves—through the cultivation of cultures of community, care, self-sacrifice, and small-scale democracy—a better practice might arise, and from it, ultimately, perhaps a better theory than the failing project of liberalism.” (20)
 
 ## Chapter 1 - Unsustainable Liberalism
-- the deepest commitement of liberalism is liberty, and this history (21+)
+- the deepest commitment of liberalism is liberty, and this history (21+)
 - three efforts guiding revolution of liberalism (24+)
   - Machiavelli: be realistic rather than focusing on virtue
   - Tradition and institutions are seen as oppressive rather than supporting >> individualism
   - Natural science to overcome the limits of nature
 - "Among the greatest challenges facing humanity is the ability to survive progress." (29)
-- Two anthropoligical assumptions orienting liberalism:
+- Two anthropological assumptions orienting liberalism:
   - **Individualism and voluntarism**
     - Hobbes: only the state can create positive law, to secure our positive rights; relationships are based only on choice/"consent"/self-interest (32)
-    - Locke: all relationships (even marraige/family) based only on choice, again serving self-interest rather than the community, created order, or God
+    - Locke: all relationships (even marriage/family) based only on choice, again serving self-interest rather than the community, created order, or God
     - Liberalism is not just descriptive, it is normative too: it encourages loose connections (34)
   - **Separation from and opposition to nature**
     - Bacon: rejected Aristotle and Thomas, saying we can "master" nature, even reversing the effects of the Fall (36)
@@ -51,7 +52,7 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 
 
 ## Chapter 2 - Uniting Individualism and Statism
-- despite apparent differences, left and right share two primary continutities (46-47): 
+- despite apparent differences, left and right share two primary continuities (46-47): 
   - philosophical: the state plays a primary role in the expansion of individualism
   - practical and political: the project strengthens the state and individualism
 
@@ -60,7 +61,7 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 - liberalism uproots the underpinnings of culture (nature, time, place) and replaces them with false images (66)
 - conquest of **nature**
   - liberalism views the base state of man as without culture, though Deneen cites the ancients in saying this isn't the case and culture (control of desires) helps us flourish
-  - "The effect is at once to liberate humans from acknowledgement of nature's limits while rendering culture into wholly relativistic belief and practice, untethered from anything universal or enduring." (71)
+  - "The effect is at once to liberate humans from acknowledgment of nature's limits while rendering culture into wholly relativistic belief and practice, untethered from anything universal or enduring." (71)
 - **time** (or timelessness)
   - we used to think of time as cyclical, but liberalism thinks of time as linear and cares less both for the past and for the future in an extreme form of presentism (74+)
   - "Culture educates us about our generational debts and obligations." (77)
@@ -71,11 +72,11 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 
 ## Chapter 4 - Technology and the Loss of Liberty
 - instead of the vision of technology freeing us, we instead might fear that technology will rule or destroy us. Technology as something that changes us and is inevitable (93)
-- at the very least, technology is transforming us (cf. Nicholas Carr, 94)
+- at the very least, technology is transforming us (cf. [[Nicholas Carr]], 94)
 - Turkle's *Alone Together* and the destruction of real community (94-95)
-- Postman's *Technopoly*: "Tools are not integrated into the culture; they attack the culture. They bid to *become* the culture. As a consequence, tradition...politics, ritual, and religion have to fight for their lives." (96)
+- [[Neil Postman]]'s *Technopoly*: "Tools are not integrated into the culture; they attack the culture. They bid to *become* the culture. As a consequence, tradition...politics, ritual, and religion have to fight for their lives." (96)
 - he discusses how technology both "flattens" and homogenizes the world, and how there is an attitude of the inevitability of technological progress for better or for worse (97-98)
-- "Our political technology [i.e. liberalism] is the operating system that creates the environment in which various technological programs may thrive, and that the operating system was itself the result of a teransforation of the definition and understanding of liberty." (103)
+- "Our political technology [i.e. liberalism] is the operating system that creates the environment in which various technological programs may thrive, and that the operating system was itself the result of a transformation of the definition and understanding of liberty." (103)
 - discussion of technology as enabling built-in American propensity for isolation: loneliness enabled by Facebook, and living arrangements (loss of the front porch) enabled by cars and suburbia (104-105)
 - Amish eschew technology if it will damage their community life; Marglin's *The Dismal Science: How Thinking Like and Economist Undermines Community*
 - Deneen makes the point that technology—in spite of the apparent abundance of choice it provides—actually makes us less free (107-109)
@@ -85,7 +86,7 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 ## Chapter 5 - Liberalism Against the Liberal Arts
 - liberalism detaches liberal education from culture and undermines it by changing the definition of liberty (self-government replaced with personal autonomy) (110-111)
 - "liberal" arts based on a pre-modern understanding of "liberal": the liberal arts make us free by releasing us from our base desires for something greater (113)
-- "At the heart of the liberal arts...was an education in what it meant to be human, above all how to achieve freedom, not only from external restraint but from the tyrrany of internal appetite and desire." (115)
+- "At the heart of the liberal arts...was an education in what it meant to be human, above all how to achieve freedom, not only from external restraint but from the tyranny of internal appetite and desire." (115)
 - mission of universities moved from "cultivation of the mind in virtue" to research and conquering nature (117-118)
 - liberal arts of old would object to the new paradigm: "at the end of the path of liberation lies enslavement. Such liberation from all obstacles is finally illusory, for two simple reasons: human appetite is insatiable and the world is limited...We can never attain satiation, and will be eternally driven by our desires rather than satisfied by their attainment." (125-126)
 
@@ -94,7 +95,7 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 - in liberalism: increased inequality is justified by increased absolute economic opportunity for all as well as the "theoretical possibility of class mobility" (137-138)
 
 
-## Chapter 7 - The Degredation of Citizenship
+## Chapter 7 - The Degradation of Citizenship
 - liberalism and democracy are not the same thing, and in fact some proponents of liberalism suggest limiting democracy to further the liberal agenda (155-158)
 - the degredation of citizenship moves us farther from Toqueville's ideal of self-rule and toward desire for a strongman autocrat, something proponents of liberalism rightly fear (176-178) 
 
@@ -102,13 +103,18 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 ## Conclusion - Liberty After Liberalism
 - two possible ends of liberalism (180-181):
   - liberal order by fiat, and an all-encompassing state run by a select few
-  - the replacement of liberalism with something else, potentially much worse, authoritatian, etc. 
+  - the replacement of liberalism with something else, potentially much worse, authoritarian, etc. 
 - Deneen proposes a tentative sketch of an alternative (182-183):
   - You can't just go back: Acknowledge what liberalism has achieved but also its limitations
   - Outgrow ideology and focus on culture and community
   - Develop a better theory of politics and society
 - good quote about stay at home mom's on 187
-- 
+
+
+---
+Created: 2018-05-29
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+
 
 
 

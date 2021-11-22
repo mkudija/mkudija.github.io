@@ -168,7 +168,7 @@
 - *The Age of Surveillance Capitalism* by Shoshana Zuboff (76)
 - *Permanent Record* by Edward Snowden (82)
 - *The Unbearable Lightness of Being* by Milan Kundera (91)
-- ["The Power of the Powerless"](https://web.archive.org/web/20120107141633/http://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=72_aj_clanky.html&typ=HTML) by Václav Havel (97)
+- ["The Power of the Powerless"](https://web.archive.org/web/20120107141633/http://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=72_aj_clanky.html&typ=HTML) by [[Václav Havel]] (97)
 - *The Book of Laughter and Forgetting* by Milan Kundera (113)
 - *How Societies Remember* by Paul Connnerton (114)
 - *Notes from Underground* (novel) by [[Roger Scruton]] (122)

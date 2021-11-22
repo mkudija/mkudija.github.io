@@ -131,7 +131,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 
 
 
-# [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by Romano Guardini
+# [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by [[Romano Guardini]]
 
 `(San Francisco: Ignatius, 1918/2018), 98`
 

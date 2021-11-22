@@ -5,6 +5,25 @@
 
 `(New York: McGraw Hill, 2019), 331`
 
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+- [Resources](#resources)
+- [Introduction](#introduction)
+- [Chapter 1: Uncertainty](#chapter-1-uncertainty)
+- [Chapter 2: Regression](#chapter-2-regression)
+- [Chapter 3: Regularization](#chapter-3-regularization)
+- [Chapter 4: Classification](#chapter-4-classification)
+- [Chapter 5: Experiments](#chapter-5-experiments)
+- [Chapter 6: Controls](#chapter-6-controls)
+- [Chapter 7: Factorization](#chapter-7-factorization)
+- [Chapter 8: Text as Data](#chapter-8-text-as-data)
+- [Chapter 9: Nonparametrics](#chapter-9-nonparametrics)
+- [Chapter 10: Artificial Intelligence](#chapter-10-artificial-intelligence)
+
+<!-- /MarkdownTOC -->
+</details>
 
 ### Resources
 <div class="info">
@@ -264,7 +283,7 @@ id2 --> id4
 
 
 ## Chapter 6: Controls
-*Summary: When we can't run experiments, we can still get as causality through observational studies. If we include all variables that impact the treatment, we can interpret classical models causally (**Linear Treatment Effects**). We can also use **Synthetic Controls** to asses the impact of a treatment when other regions were not treated.*
+*Summary: When we can't run experiments, we can still get at causality through observational studies. If we include all variables that impact the treatment, we can interpret classical models causally (**Linear Treatment Effects**). We can also use **Synthetic Controls** to asses the impact of a treatment when other regions were not treated.*
 - When we can't run experiments, we can use on **observational studies** which depends upon the assumption of **conditional ignorability** (CI): that you have controlled for all variables that influence both the treatment and response
 - **Linear Treatment Effects** (LTE) model: if *x* contains all variables that influence *d* and *y*, then $\gamma$ can be interpreted causally
 	- $y = d\gamma + x'\beta + \varepsilon$, $\varepsilon|d, x = 0$
@@ -281,8 +300,7 @@ id2 --> id4
 	-  impute missing values with the mean or with zero (numeric variables)
 
 ## Chapter 7: Factorization
-*Summary: *
-- Data Science is effectively *dimension reduction*, and factorization is one tool for breaking the expectation for each **x** into the sum of a small number of factors
+*Summary: Data Science is effectively *dimension reduction*, and factorization is one tool for breaking the expectation for each **x** into the sum of a small number of factors. **Principal Component Analysis** is a primary tool for factorization which projects the data onto orthogonal dimensions with decreasing variance.*
 - Clustering (including ***K*-Means**) collects observations into groups
 	- *K*-means can generate different answers each time you run it (there can be multiple local minimums), so treat it more as an exploratory tool
 - **Principal Component Analysis** (PCA) identifies the dimensions with the highest variance 

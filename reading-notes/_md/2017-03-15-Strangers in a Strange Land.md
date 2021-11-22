@@ -1,8 +1,13 @@
 
-# Strangers in a Strange Land by Charles J. Chaput
+# *[Strangers in a Strange Land](https://us.macmillan.com/books/9781250159625/strangers-in-a-strange-land)* by [[Charles J. Chaput]]
+
+<img src="https://mpd-biblio-covers.imgix.net/9781250159625.jpg?w=900" width=150>
+
+`(New York: Henry Holt/Macmillan, 2017), 288`
+
 
 * Benedict quote, 3
-* Lord of the World by Robert Hugh Benson (Francis has read this multiple times), 10
+* *[[2020-11-27-Lord of the World]]* by Robert Hugh Benson (Francis has read this multiple times), 10
 * Discussion of City of God, 12-16
 * Outline:
     * Chapter 2 is history of America 
@@ -80,3 +85,6 @@
     * Real beauty leads us to the three virtues of humility, love, and hope
     * "But sexuality-related issues are not a separate, idiosyncratic corner of Catholic thought. They're deeply connected to much broader issues of personal and social morality and the organization of society." (238)
 
+---
+Created: 2017-03-15
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
