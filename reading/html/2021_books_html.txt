@@ -27,9 +27,9 @@
 <li><i>Hornblower and the Hotspur (#3)</i> by C. S. Forester</li>
 <li><i>Brother Hugo and the Bear</i> by Katy Beebe</li>
 <li><i>Timeline: A Visual History of Our World</i> by Peter Goes</li>
-<li><i>How to Talk About Books You Haven't Read</i> by Pierre Bayard</li>
+<li><i>How to Talk About Books You Haven't Read</i> by Pierre Bayard (<a href="https://matthewkudija.com/reading-notes/2021-06-01-How-to-Talk-About-Books-You-Haven't-Read.html">Notes</a>)</li>
 <li><i>Why We Drive: Toward a Philosophy of the Open Road</i> by Matthew B. Crawford</li>
-<li><i>The Bitcoin Standard: The Decentralized Alternative to Central Banking</i> by Saifedean Ammous</li>
+<li><i>The Bitcoin Standard: The Decentralized Alternative to Central Banking</i> by Saifedean Ammous (<a href="https://matthewkudija.com/reading-notes/2021-03-14-The-Bitcoin-Standard.html">Notes</a>)</li>
 <li><i>A Tree Grows in Brooklyn</i> by Betty Smith</li>
 <li><i>High Output Management</i> by Andrew S. Grove</li>
 <li><i>Currency Wars: The Making of the Next Global Crisis</i> by James Rickards</li>

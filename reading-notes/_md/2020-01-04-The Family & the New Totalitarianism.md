@@ -12,7 +12,7 @@ Books mentioned:
 - *Catechism of the Catholic Church*
 - *The Crisis of Western Education* by Christopher Dawson (124)
 - *[[~Democracy in America]]* (157)
-- *The Abolition of Man* by [[C.S. Lewis]] (162)
+- *The Abolition of Man* by [[C. S. Lewis]] (162)
 - *Veritatis Splendor*
 - *Familiaris Consortio*
 - *Evangelium Vitae*

@@ -1,5 +1,5 @@
 
-# Mere Christianity by C.S. Lewis
+# *Mere Christianity* by [[C. S. Lewis]]
 
 * 1) Everyone knows Natural Law and no one is able to fully follow it
 * 2) Piano Metaphor: keys = impulses; sheet music = moral code

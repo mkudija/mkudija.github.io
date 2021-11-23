@@ -109,7 +109,9 @@
 
 
 ## Chapter 9: The King's Highway
-**Summary**: The four last things
+**Summary**: The four last things of death, judgment, heaven, and hell
+- Pondering our death forces us to consider what matters
+- Judgment in the fiction of [[C.S. Lewis]] (*[[2019-06-15-The Great Divorce]]* and *Narnia*) and purgatory in the fiction of [[J.R.R. Tolkien]] ("Leaf by Niggle")
 - 
 
 
@@ -139,6 +141,7 @@
 - *The Dialectic of Sex* by [[Shulamith Firestone]] (155)
 - *The Sexual Revolution* by [[Wilhelm Reich]] (156)
 - *Heaven in a Heartless World: The Family Besieged* by [[Christopher Lasch]] (158)
+- *The Unintended Reformation: How a Religious Revolution Secularized Society* by [[Brad Gregory]] (211)
 
 **New Words**
 

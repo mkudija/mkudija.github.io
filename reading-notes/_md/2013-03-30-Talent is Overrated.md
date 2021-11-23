@@ -33,5 +33,5 @@
     * What do you really want?
     * What do you really believe?
 * This book describes how to become great at something, assuming you know what that is.  However, it does not spend much time asking the question of why we become great at something.  My feeling is that there is nothing that I want to be great enough at that I would make the necessary sacrifices in relationships, etc. to reach that.  He describes on example: "all three sisters decided there was more to life than chess" (78).  
-* "How monotonously alike all the great tyrants and conquerors have been; how gloriously different are the saints."-C.S. Lewis, Mere Christianity
+* "How monotonously alike all the great tyrants and conquerors have been; how gloriously different are the saints."-[[C. S. Lewis,]] *[[2013-04-03-Mere Christianity]]*
 

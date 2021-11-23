@@ -3,8 +3,6 @@
 
 `(New York: Norton, 2021), 301`
 
-`Notes Started: 2021-08-12`
-
 - “When a doctor stops seeing patients, they slowly start to forget. Seeing patients is how you develop a sixth sense.” (24) 
 - “To do the job of a local public-health officer, you basically always need to be willing to lose your job.” (32)  
  - “Sins of commission got you fired. Sins of omission you could get away with, but they left people dead.” (42)  
@@ -39,3 +37,7 @@
 - *The Great Influenza* by John Barry (50)
 - *Young Men and Fire* by Norman Maclean (172, 186)  
 - *The Swine Flu Affair* (286)
+
+---
+Created: 2021-08-12
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
