@@ -62,7 +62,7 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 - conquest of **nature**
   - liberalism views the base state of man as without culture, though Deneen cites the ancients in saying this isn't the case and culture (control of desires) helps us flourish
   - "The effect is at once to liberate humans from acknowledgment of nature's limits while rendering culture into wholly relativistic belief and practice, untethered from anything universal or enduring." (71)
-- **time** (or timelessness)
+- **time** (or timelessness) [[Progress & History]]
   - we used to think of time as cyclical, but liberalism thinks of time as linear and cares less both for the past and for the future in an extreme form of presentism (74+)
   - "Culture educates us about our generational debts and obligations." (77)
 - **place** (or placelessness)

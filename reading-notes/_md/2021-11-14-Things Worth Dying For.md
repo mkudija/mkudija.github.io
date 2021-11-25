@@ -4,22 +4,13 @@
 
 `(New York: Henry Holt/Macmillan, 2021), 257`
 
-# Notes
-
-<details>
- <summary><i>Contents</i></summary>
-<!-- MarkdownTOC autolink="true" -->
-
-<!-- /MarkdownTOC -->
-</details>
-
 
 ## Chapter 1: If I Forget Thee, O Jerusalem
 **Summary**: Asking ourselves what is worth dying for helps us clarify what is worth living for.
 - "Mouthing lies we know to be lies murders us inwardly." (cf [[2021-07-15-"Live Not by Lies"]], *[[2021-10-30-Live Not By Lies]]*)
 - Martyrdom: "Those who are faithful to God will in turn have his faithfulness at life's ending, no matter how extreme the test." (16)
 - Asking ourselves what is worth dying for helps us clarify what is worth living for (17)
-- "My thoughts these days often turn tothe author and scholar [[J.R.R. Tolkien]]. The drama of the Christian story shaped everything Tolkien wrote; the intensity of his Catholic faith grounded his entire life and genius."
+- "My thoughts these days often turn to the author and scholar [[J.R.R. Tolkien]]. The drama of the Christian story shaped everything Tolkien wrote; the intensity of his Catholic faith grounded his entire life and genius."
 	- *[[~The Two Towers#^5b350d]]*
 
 
@@ -43,6 +34,7 @@
 - [[Roger Scruton]]: irony and forgiveness are the pillars of the west, and have roots in the biblical tradition
 - [[Justice vs Mercy]]: justice is needed for a humane society but can never be fully achieved; therefore we need *enough* justice, administered with mercy (56)
 - The [[Enlightenment]] forms our "secular creation myth", thought its shortcomings pointed out by [[Yoram Hazony]] and [[Brad Gregory]]
+	- "Debunking [[Enlightenment]] vanity has bee ndone before and very well—with little effect on its disciples." (60)
 	- "The tendency to push toward an abstract and utopian future, ignoring the lessons of the past, is a legacy of [[Enlightenment]] overconfidence." (62)
 - The irony of our society is that we have more options than ever but have a deeper thirst that those do not satisfy. Our "biological reductionism" creates a view of human society as competing enemies that we live down to. We ignore the big questions which leads to restlessness, acedia, despair.
 - [[Aristotle]]: [[The Good Life]] consists in conforming ourselves to our nature, in learning to desire well.
@@ -87,17 +79,17 @@
 	- As a result, social sciences are really a branch of moral philosophy (cf. [[Neil Postman]])
 	- [[Shulamith Firestone]] (radical [[Feminism|feminist]]) and [[Wilhelm Reich]] illustrate [[Why extreme ideas matter]]: they "embody the purest logic of an argument and signal it's end result, force the borders of acceptable discourse to extend, and make previously excessive views seem more reasonable" (155)
 	- [[Christopher Lasch]] in *Heaven in a Heartless World: The Family Besieged*: parental influence has declined in recent decades through the "medicalization of society" imposing on what happens in the home. This hints at a similar skepticism of "professional family experts" as that presented in *[[2021-11-16-Hunt, Gather, Parent]]*
-	- [[John Paul II]] in *Redemptor Hominis*, *Familaris Consortio*, "Letter to Families", and "Letter to Children" distills some principles for family life:
-		- *Actions speak louder than words*: personal witness shapes the world, and children see everything
-		- *Freedom is not license*: authentic freedom is the ability to know and choose what is *right*
-		- *Knowledge is a blessing but requires wisdom*: facts divorced from a moral framework become weapons
-		- *Learn to see clearly and think critically*
-		- *Teach and live the virtues*: the Christian faith is an invitation to virtue
-		- *Revere the sanctity of life*
-		- *Live [[1 Cor-13#v13]]*: to renew society we need to renew the family with *authentic* love (cf. *[[2013-10-21-The Four Loves]]*)
-		- *Teach the habit of gratitude*: gratitude is the beginning of joy (cf. [[Dietrich Bonhoeffer]])
-		- *Create silence*: "Only he who is able to be silent can speak meaningfully" (cf. [[Romano Guardini]])
-		- *Pray together*
+- [[John Paul II]] in *Redemptor Hominis*, *Familaris Consortio*, "Letter to Families", and "Letter to Children" distills some principles for family life:
+	- *Actions speak louder than words*: personal witness shapes the world, and children see everything
+	- *Freedom is not license*: authentic freedom is the ability to know and choose what is *right*
+	- *Knowledge is a blessing but requires wisdom*: facts divorced from a moral framework become weapons
+	- *Learn to see clearly and think critically*
+	- *Teach and live the virtues*: the Christian faith is an invitation to virtue
+	- *Revere the sanctity of life*
+	- *Live [[1 Cor-13#v13]]*: to renew society we need to renew the family with *authentic* love (cf. *[[2013-10-21-The Four Loves]]*)
+	- *Teach the habit of gratitude*: gratitude is the beginning of joy (cf. [[Dietrich Bonhoeffer]])
+	- *Create silence*: "Only he who is able to be silent can speak meaningfully" (cf. [[Romano Guardini]])
+	- *Pray together*
 
 
 ## Chapter 8: Ecclesia Sua
@@ -111,13 +103,19 @@
 ## Chapter 9: The King's Highway
 **Summary**: The four last things of death, judgment, heaven, and hell
 - Pondering our death forces us to consider what matters
-- Judgment in the fiction of [[C.S. Lewis]] (*[[2019-06-15-The Great Divorce]]* and *Narnia*) and purgatory in the fiction of [[J.R.R. Tolkien]] ("Leaf by Niggle")
-- 
+- Judgment in the fiction of [[C. S. Lewis]] (*[[2019-06-15-The Great Divorce]]* and *Narnia*) and purgatory in the fiction of [[J.R.R. Tolkien]] ("Leaf by Niggle")
+- "The more we've dismissed the existence of hell, the better we've become at building its replicas on earth." (217)
+- "Satan is the greatest tactician and the worst strategist in the history of God's creation" (217)
+- "The joy of the Beatific Vision, an eternity in the overwhelming beauty of God's loving face, would be the *essence* of what Lewis called an 'acquired taste,' a taste only acquired through God's redemption and grace and a lifetime spent cooperating with both." (222)
 
 
 ## Afterword: On Friendship
-**Summary**: 
-- 
+- Gilbert Meilaender shows how *agape* has displaced *philia*
+- Friendship through the eyes of both [[Aristotle]] (*[[~Nicomachean Ethics]]*) and [[C. S. Lewis]] (*[[2013-10-21-The Four Loves]]*) is focused, in its highest form, on *virtue* and *truth*
+- "All great [[Marriage|marriages]] are first and finally friendships." (232)
+- D. C. Schindler: liberal modernity is "freedom from reality itself" (236-7)
+- [[Henri de Lubac]] reminds us though, that despite all our problems, friendship with God is what really matters: "It is not our mission to make truth triumph, but to testify for it." (238)
+- He closes with a story about the back vs the front of the tapestry of the Apocalypse of St. John ([[Sacred Artwork]]): we rarely see the full effects of the good we do in this life, but one day we'll stand on the other side.
 
 
 --- 
@@ -142,6 +140,14 @@
 - *The Sexual Revolution* by [[Wilhelm Reich]] (156)
 - *Heaven in a Heartless World: The Family Besieged* by [[Christopher Lasch]] (158)
 - *The Unintended Reformation: How a Religious Revolution Secularized Society* by [[Brad Gregory]] (211)
+- *The Pilgrim's Progress* (205, 218)
+- "A Short Story of the Anti-Christ" by Vladimir Solovyov (219)
+- *Friendship: A Study in Theological Ethics* by Gilbert Meilaender (226)
+- *[[~Nicomachean Ethics]]* by [[Aristotle]] (228)
+- *[[2013-10-21-The Four Loves]]* by [[C. S. Lewis]] (229)
+- *[[Do not go gentle into that good night]]* by [[Dylan Thomas]] (235)
+- *Freedom from Reality: The Diabolical Character of Modern Liberty* by D. C. Schindler (237)
+- *Paradoxes of Faith* by [[Henri de Lubac]] (238)
 
 **New Words**
 
