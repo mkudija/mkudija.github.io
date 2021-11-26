@@ -6,6 +6,10 @@
 
 `(New York: Anchor, 2000), 694`
 
+Charles Williams answers best: “A thousand preachers have said all that Dante says and left their hearers discontented; why does Dante content? Because an image of profundity is there.”
+https://www.theamericanconservative.com/articles/how-dante-saved-my-life/
+
+
 # Resources
 - [100 Days of Dante](https://100daysofdante.com/) ([YouTube](https://youtu.be/GlIJfHAse3g))
 - [Artwork](https://divinecomedy.digital/#/eng/viz)

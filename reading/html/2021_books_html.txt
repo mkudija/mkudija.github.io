@@ -1,3 +1,4 @@
+<li><i>The Inferno</i> by Dante Alighieri</li>
 <li><i>Things Worth Dying For: Thoughts on a Life Worth Living</i> by Charles J. Chaput</li>
 <li><i>Hunt, Gather, Parent: What Ancient Cultures Can Teach Us About the Lost Art of Raising Happy, Helpful Little Humans</i> by Michaeleen Doucleff</li>
 <li><i>Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business</i> by Matt Taddy (<a href="https://matthewkudija.com/reading-notes/2021-04-16-Business-Data-Science.html">Notes</a>)</li>

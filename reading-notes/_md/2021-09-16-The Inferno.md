@@ -1,18 +1,14 @@
 *[[~The Divine Comedy]]*
 
-# [*The Inferno*](https://www.amazon.com/Inferno-Dante/dp/0385496982) by Dante Alighieri 
+# [*The Inferno*](https://www.penguinrandomhouse.com/books/225152/the-inferno-by-dante-alighieri-a-verse-translation-by-robert-hollander-and-jean-hollander/) by [[Dante Alighieri]]
 *translated by Robert & Jean Hollander*
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51arf4x3BIL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width=150>
+<img src="https://images4.penguinrandomhouse.com/cover/9780385496988" width=150>
 
-`(New York: Anchor, 2000), 694`
+`(New York: Anchor/Penguin, 1320/2000), 694`
 
-I'm reading the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](https://100daysofdante.com/).
+I read the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](https://100daysofdante.com/).
 
-==add notes==
-
-Charles Williams answers best: “A thousand preachers have said all that Dante says and left their hearers discontented; why does Dante content? Because an image of profundity is there.”
-https://www.theamericanconservative.com/articles/how-dante-saved-my-life/
 
 ### Inferno Canto 1 - *Prologue*
 
@@ -343,60 +339,178 @@ cf. [[Lk-16#v13]], [[Mt-06#v24]]:
 > –*Inferno* Canto 19. 112-114
 
 ### Inferno Canto 20
-> 
-> –*Inferno* Canto 20. x-x
+> Their faces were reversed upon their shoulders
+> so that they came on walking backward,
+> since seeing forward was denied them.
+> –*Inferno* Canto 20. 13-15
+
+<br><br>
+> Here piety lives when pity is quite dead.
+> Who is more impious than one who thinks 
+> that God shows passion in His Judgment?
+> –*Inferno* Canto 20. 28-30
 
 ### Inferno Canto 21
-> 
-> –*Inferno* Canto 21. x-x
+> Let us proceed, for it is willed in Heaven
+> that I guide another down this savage way.
+> –*Inferno* Canto 21. 83-84
+
+<br><br>
+> They aimed their hooks, and one said to another: 
+> How about I nick him on the rump?
+> –*Inferno* Canto 21. 100-101
 
 ### Inferno Canto 22
-> 
-> –*Inferno* Canto 22. x-x
+> Caught him with his grapple by the arm
+> and, ripping, gouged out a hunk of flesh.
+> –*Inferno* Canto 22. 71-72
 
 ### Inferno Canto 23
-> 
-> –*Inferno* Canto 23. x-x
+
+Caiaphas:
+> but said no more, for one there caught my eye,
+> fixed cross-wise to the ground by three short stakes
+> ...
+> That man you see nailed down
+> advised the Pharisees it was the better course
+> that one man should be martyred for the people.
+> –*Inferno* Canto 23. 110-111, 115-117
 
 ### Inferno Canto 24
-> 
-> –*Inferno* Canto 24. x-x
+> Now you must cast off [[Sloth]], my master said.
+> Sitting on feather cushions or stretched out
+> under comforters, no one comes to fame.
+> –*Inferno* Canto 24. 46-48
+
+<br><br>
+> Their hands were tied behind their backs with snakes
+> that thrust their heads and tails between the legs
+> and joined, knotting themselves in front.
+> <br>
+> And behold, one of these souls was near our ridge
+> when a serpent launched and pierced him through
+> right were the neck and shoulders join.
+> <br>
+> Never has 'o' nor even 'i' been writ so quick
+> as he caught fire and burned, turned,
+> in the very act of falling, into ashes.
+> <br> 
+> And as he lay unmade upon the ground,
+> the dust regathered of its own accord
+> and suddenly he was himself again.
+> –*Inferno* Canto 24. 94-105
 
 ### Inferno Canto 25
-> 
-> –*Inferno* Canto 25. x-x
+
+> The soul just now become a brute takes flight,
+> hissing through the hollow, and the other,
+> by way of speaking, spits after him.
+> –*Inferno* Canto 25. 136-138
 
 ### Inferno Canto 26
-> 
-> –*Inferno* Canto 26. x-x
+
+Ulysses:
+> each flame conceals a sinner
+> –*Inferno* Canto 26. 42
 
 ### Inferno Canto 27
-> 
-> –*Inferno* Canto 27. x-x
+> One may not be absolved without repentance,
+> nor repent and wish to since concurrently—
+> a simple contraction not allowed.
+> –*Inferno* Canto 27. 118-210
 
-### Inferno Canto 28
-> 
-> –*Inferno* Canto 28. x-x
+### Inferno Canto 28 - Scandal and Schism
+Scandal and schism, cf. *[[2021-08-12-Summa Theologiae]]* II-II, q. 43, a. 1
+
+Mohammed:
+> Between the legs the entrails dangled. I saw
+> the innards and the loathsome sack
+> that turns what one has swallowed into shit.
+> <br>
+> While I was caught up in the sight of him,
+> he looked at me and, with his hands, ripped apart
+> his chest, saying: 'See how I rend myself'
+> –*Inferno* Canto 28. 25-30
+
+<br><br>
+>I truly saw, and seem to see it still,
+>a headless body make its way
+>like all the others in that dismal flock.
+><br>
+>And by its hair he held his severed head
+>swinging in his hand as if it were a lantern.
+>The head stared at us and said: 'Oh, woe!'
+> –*Inferno* Canto 28. 118-123
+
+"The word *contrapasso* is generally understood to be based on an Aristotelian term in its Latin translation, *contrapassum*, used in the same sense that the biblical concept of retribution, expressed in the Latin *lex talionis* (the taking of an eye for an eye, etc.), is understood to have." (529)
+
 
 ### Inferno Canto 29
-> 
-> –*Inferno* Canto 29. x-x
+> And my leader: I am one who makes his way
+> down with this living man from ledge to ledge.
+> And my intention is to show him Hell.
+> –*Inferno* Canto 29. 94-96
 
-### Inferno Canto 30
-> 
-> –*Inferno* Canto 30. x-x
+### Inferno Canto 30 - Impersonators, Counterfeiters, Perjurers
+> For the wish to hear such things is degrading.
+> –*Inferno* Canto 30. 148
 
-### Inferno Canto 31
-> 
-> –*Inferno* Canto 31. x-x
+Reference to hard money, cf. *[[2021-03-14-The Bitcoin Standard]]* (560)
+
+### Inferno Canto 31 - Pride
+*The Song of Roland* (cf. *Inferno* Canto 31. 18)
+
+> When you are nearer, you will understand 
+> how much your eyesight is deceived by distance.
+> Therefore, push yourself a little harder.
+> –*Inferno* Canto 31. 25-27
+
+<br><br>
+> For when the power of throught
+> is coupled with ill will and naked force
+> there is no refuge from it for mankind
+> –*Inferno* Canto 31. 55-57
+
 
 ### Inferno Canto 32
-> 
-> –*Inferno* Canto 32. x-x
+> As a famished man will bite into his bread,
+> the one above had set his teeth into the other
+> just where the brain's stem leaves the spinal cord.
+> –*Inferno* Canto 32. 127-129
 
 ### Inferno Canto 33
-> 
-> –*Inferno* Canto 33. x-x
+> Father, we would suffer less
+> if you would feed on us: you clothed us
+> in this wretched flesh—now strip it off.
+> <br>
+> Then, not to increase their grief, I calmed myself.
+> That day and the next we did not speak a word.
+> O hard earth, why did you not engulf us?
+> –*Inferno* Canto 33. 61-66
+
+<br><br>
+> Know that the moment when a soul betrays
+> as I did, its body is taken by a devil
+> who has it then in his control
+> until the time allotted it has run.
+> –*Inferno* Canto 33. 129-132
+
+
+### Inferno Canto 34
+Satan:
+> If he was fair as he is hideous now,
+> and raised his brow in scorn of his creator,
+> he is fit to be the source of every sorrow.
+> <br>
+> Oh, what a wonder it appeared to me
+> when I perceived three faces on his head.
+> –*Inferno* Canto 34. 34-37
+
+<br><br>
+> With his teeth, just like a hackle
+> pounding flax, he champed a sinner
+> in each mouth, tormenting three at once.
+> –*Inferno* Canto 34. 55-57
 
 ---
 
@@ -404,6 +518,7 @@ cf. [[Lk-16#v13]], [[Mt-06#v24]]:
 
 - **Caduceus**: the staff carried by Hermes in Greek mythology (9. 82-83)
 - **Etiological myths**: are those myths that explain origins and causes (272)
+- **Poultice**: also called a cataplasm, is a paste made of herbs, plants, and other substances with healing properties (437)
 
 ---
 Created: 2021-09-16
