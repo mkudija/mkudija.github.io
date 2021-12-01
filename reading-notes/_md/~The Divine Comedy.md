@@ -21,14 +21,14 @@ https://www.theamericanconservative.com/articles/how-dante-saved-my-life/
 
 ```jupyter
 for i in range(34):
-	print('### Inferno Canto {}'.format(i))
+	print('### Purgatorio Canto {}'.format(i))
 	print('> ')
-	print('> –*Inferno* Canto {}. x-x'.format(i))
+	print('> –*Purgatorio* Canto {}. x-x'.format(i))
 	print('')
 ```
 
 
-# Purgatorio
+# *[[2021-11-26-Purgatorio|Purgatorio]]*
 
 # Paradiso
 --- 

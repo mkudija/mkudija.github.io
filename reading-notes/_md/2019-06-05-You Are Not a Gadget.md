@@ -1,5 +1,5 @@
 
-# [*You Are Not a Gadget: A Manifesto*](https://www.penguinrandomhouse.com/books/97779/you-are-not-a-gadget-by-jaron-lanier/) by Jaron Lanier
+# [*You Are Not a Gadget: A Manifesto*](https://www.penguinrandomhouse.com/books/97779/you-are-not-a-gadget-by-jaron-lanier/) by [[Jaron Lanier]]
 
 <img src="https://images2.penguinrandomhouse.com/cover/9780307389978
 " width=150>

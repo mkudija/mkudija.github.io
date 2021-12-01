@@ -5,6 +5,7 @@ publish: true
 
 **[[George Herbert]]**
 - *[[The Pulley]]*
+- *[[Love (III)]]*
 
 
 **[[Gerard Manley Hopkins]]**

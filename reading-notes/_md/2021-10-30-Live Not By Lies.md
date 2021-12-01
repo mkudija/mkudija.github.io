@@ -27,7 +27,7 @@
 	- Fr. Kolaković had studied Soviet communism deeply to prepare for his missionary work --> we need to study the ideologies of today to know how to respond to them
 - **Totalitarianism**: form of government that combines political authoritarianism with an ideology that seeks to displace all prior traditions and control all aspects of life
 	- Seeks to define and control reality; truth is whatever the rulers say it is
-	- Fills a void previously occupied by religion
+	- [[Secular Religion]]: Fills a void previously occupied by religion
 	- Embraces the Myth of Progress as justification for eliminating all opposition (49)
 - The new totalitarianism is **Soft Totalitarianism**: exploits modern man's preference for comfort and pleasure and convenience over principles
 	- The relevant dystopia is not *Nineteen Eighty-Four* but *Brave New World*
@@ -38,7 +38,7 @@
 ## Chapter 2: Our Pre-Totalitarian Culture
 **Summary**: Many of the weaknesses of contemporary American society are consonant with a pre-totalitarian state, including our social isolation, lack of faith in institutions, and moral decadence. And we have an intensely ideological and progressive intellectual elite.
 - How communism came to Russia and Central Europe:
-	- [[Marxism]] is a secular religion for the post-religious age, views history as a struggle between classes and religion as a drug to dull suffering and maintain control
+	- [[Marxism]] is a [[Secular Religion]] for the post-religious age, views history as a struggle between classes and religion as a drug to dull suffering and maintain control
 	- [[Marxism]] appealed to the restless young intellectuals who were sick of the old order
 	- Central Europe was desperate for any respite from Nazi occupation, and succumbed to the "constant, all-encompassing, everyday psychological and economic pressure"
 - How to see totalitarianism coming, from Arendt's *The Origins of Totalitarianism*:

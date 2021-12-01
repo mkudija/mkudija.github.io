@@ -61,7 +61,7 @@
 **Summary**: Things worth living and dying for: ideas and ideologies
 - *We* by Yevgeny Zamyatin tells of a Soviet-style "One State" taken to the extreme where people have numbers rather than names. This influenced *[[~Brave New World]]*, *[[~1984]]*, and *[[~Animal Farm]]*
 - This is unfortunately a descendant not of the [[American Revolution]], but of the [[French Revolution]]: the former with biblical and common law roots anchored in the pragmatic realism needed to survive in a new land and biblical, while in the latter "instead of simply using the religion of the state for his own political ends (which had been bad enough), he proclaimed his own political ends to be the religion of the state (which was intolerable)." (cf. *The Church and Totalitarian Democracy* John Courtney Murray)
-	- [[Alexis de Tocqueville]] writes in *The Old Regime and the Revolution* how the [[French Revolution]] replaced the monarchy with a more absolute rule and created its own secular religion
+	- [[Alexis de Tocqueville]] writes in *The Old Regime and the Revolution* how the [[French Revolution]] replaced the monarchy with a more absolute rule and created its own [[Secular Religion]]
 	- "The [[French Revolution]] opened the age of political religions." 'Salvation' is the fruit of human efforts in the present, and this led to [[Marxism]], [[Positivism]], and [[Gnosticism]]
 	- Revolutionary instinct came from intellectual elites (not the masses): ideas have consequences ^f72015
 - Science and technology: "While the tendency to forget our limits as creatures is not new to human history, the cost of our forgetting has gone up sharply." (127)
