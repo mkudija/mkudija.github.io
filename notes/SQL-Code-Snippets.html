@@ -33,7 +33,23 @@ Matthew <strong>Kudija</strong>'s <a href="https://matthewkudija.com/notes/">Not
 
 <h1 id="sql-general-how-to">SQL General How-To</h1>
 
-<h2 id="find-tables-with-colname-column">Find tables with <code>colName</code> column</h2>
+<h3 id="joins">Joins</h3>
+
+<p><code>on</code><br />
+<code>SQL
+FROM information_schema.tables t
+    JOIN information_schema.columns c 
+           on c.table_name = t.table_name 
+           and c.table_schema = t.table_schema
+</code></p>
+
+<p><code>using</code><br />
+<code>SQL
+FROM information_schema.tables t
+    JOIN information_schema.columns c USING(table_name, table_schema)
+</code></p>
+
+<h3 id="find-tables-with-colname-column">Find tables with <code>colName</code> column</h3>
 
 <p><code>SQL
 select t.table_schema,
@@ -48,7 +64,7 @@ where c.column_name = 'colName'
 order by t.table_schema;
 </code></p>
 
-<h2 id="unique-items-in-column">Unique items in <strong><code>column</code></strong></h2>
+<h3 id="unique-items-in-column">Unique items in <strong><code>column</code></strong></h3>
 
 <p><code>SQL
 SELECT 
@@ -89,7 +105,7 @@ GROUP BY t.device
 </tbody>
 </table>
 
-<h2 id="value_count-of-column">value_count of <strong><code>column</code></strong></h2>
+<h3 id="value_count-of-column">value_count of <strong><code>column</code></strong></h3>
 
 <p><code>SQL
 SELECT 
@@ -148,7 +164,7 @@ ORDER BY value_count DESC
 </tbody>
 </table>
 
-<h2 id="npwhere-equivalent-for-cases"><code>np.where</code> equivalent for cases</h2>
+<h3 id="npwhere-equivalent-for-cases"><code>np.where</code> equivalent for cases</h3>
 
 <p><code>SQL
 CASE
@@ -160,7 +176,7 @@ CASE
 END AS score_group
 </code></p>
 
-<h2 id="select-only-firstlast-record-using-rank-over-partition-by">Select only first/last record using <code>RANK() OVER PARTITION BY</code></h2>
+<h3 id="select-only-firstlast-record-using-rank-over-partition-by">Select only first/last record using <code>RANK() OVER PARTITION BY</code></h3>
 
 <p>In this example, there may be many records for a given <code>user_id</code>, but we only want to select the most recent record for each <code>user_id</code>. Alternatively, we could select the first record by using <code>ASC</code>:</p>
 
@@ -179,13 +195,13 @@ SELECT
 WHERE RANK = 1
 </code></p>
 
-<h2 id="round">Round</h2>
+<h3 id="round">Round</h3>
 
 <p><code>ROUND</code> rounds the number, and if you don't want the additional <code>.000</code> you can <code>CAST</code> as an integer:</p>
 
 <p><code>CAST(ROUND(col_name, 0) AS INT) AS col_name_rounded</code></p>
 
-<h2 id="decile">Decile</h2>
+<h3 id="decile">Decile</h3>
 
 <p>Try the <code>NTILE</code> function (<a target="_blank" href="https://www.geeksforgeeks.org/ntile-function-in-sql-server/">link</a>).</p>
 
@@ -249,7 +265,7 @@ GROUP BY score<em>decile</em>approx<br />
 ORDER BY score<em>decile</em>approx<br />
 ```</p>
 
-<h2 id="ratio-over-groupby">Ratio over groupby</h2>
+<h3 id="ratio-over-groupby">Ratio over groupby</h3>
 
 <p>Above we use the <code>RATIO_TO_REPORT</code> command to get a ratio rather than count. If we want a time series showing percent, and it is groupe by time (week, month, etc.), this is how you get a rate for each group rather than the whole table:</p>
 
@@ -263,7 +279,7 @@ or</p>
     RATIO_TO_REPORT(account_count) OVER(PARTITION BY x)
 </code></p>
 
-<h2 id="last-7-days-of-data">Last 7 days of data</h2>
+<h3 id="last-7-days-of-data">Last 7 days of data</h3>
 
 <p><code>SQL
 SELECT 
@@ -274,7 +290,7 @@ WHERE
     t.created_at &gt; GETDATE() - INTERVAL '7 days'
 </code></p>
 
-<h2 id="date_trunc">DATE_TRUNC</h2>
+<h3 id="date_trunc">DATE_TRUNC</h3>
 
 <p>To transform a timestamp into weekly or daily etc. data use <code>DATE_TRUNC()</code>. Available <code>datepart</code>s are listed <a target="_blank" href="http://www.postgresqltutorial.com/postgresql-date_trunc/">here</a>.</p>
 
@@ -298,7 +314,7 @@ SELECT
     DATE_TRUNC('quarter', timestamp) AS quarter
 </code></p>
 
-<h2 id="get-month-offset-from-current-date-also-end-of-month">Get month offset from current date (also end of month)</h2>
+<h3 id="get-month-offset-from-current-date-also-end-of-month">Get month offset from current date (also end of month)</h3>
 
 <ul>
 <li><code>CURRENT_DATE</code> to get current date</li>
@@ -310,7 +326,7 @@ SELECT
 policy_inception_month = LAST_DAY(DATEADD(MM,-6, CURRENT_DATE))
 </code></p>
 
-<h2 id="number-of-items-and-most-recent-in-table">Number of items and most recent in table</h2>
+<h3 id="number-of-items-and-most-recent-in-table">Number of items and most recent in table</h3>
 
 <p><code>SQL
 SELECT 
@@ -320,7 +336,7 @@ FROM
     database.table
 </code></p>
 
-<h2 id="rolling-mean">Rolling Mean</h2>
+<h3 id="rolling-mean">Rolling Mean</h3>
 
 <p><code>SQL
 SELECT 
@@ -331,7 +347,7 @@ FROM
     database.table
 </code></p>
 
-<h2 id="percent-change">Percent Change</h2>
+<h3 id="percent-change">Percent Change</h3>
 
 <p>Display the <code>%</code> symbol:</p>
 
@@ -339,7 +355,7 @@ FROM
     CONCAT(ROUND((edw_PLE_months_30_4 - edw_PLE_months_30) / edw_PLE_months_30 * 100, 2),'\%') AS percent_diff
 </code></p>
 
-<h2 id="percent-of-total">Percent of Total</h2>
+<h3 id="percent-of-total">Percent of Total</h3>
 
 <p><code>SQL
 earned_premium/SUM(earned_premium) OVER () as percent_of_total
@@ -351,17 +367,17 @@ earned_premium/SUM(earned_premium) OVER () as percent_of_total
 RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 </code></p>
 
-<h2 id="optimize-query">Optimize Query</h2>
+<h3 id="optimize-query">Optimize Query</h3>
 
 <p>If you run the query with <code>EXPLAIN</code> on top it will give you the query plan and how costly each step is.</p>
 
-<h2 id="most-recent-month-end-date">Most Recent Month-End Date</h2>
+<h3 id="most-recent-month-end-date">Most Recent Month-End Date</h3>
 
 <p><code>SQL
 SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
 </code></p>
 
-<h2 id="creatingupdating-tables">Creating/Updating Tables</h2>
+<h3 id="creatingupdating-tables">Creating/Updating Tables</h3>
 
 <p>Create table:<br />
 <code>SQL
@@ -392,7 +408,7 @@ GRANT SELECT ON ALL TABLES IN SCHEMA <name TO user;</p>
 GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;<br />
 ```</p>
 
-<h2 id="view-tables-in-schema">View Tables in Schema</h2>
+<h3 id="view-tables-in-schema">View Tables in Schema</h3>
 
 <p><code>SQL
 -- view tables in schema
@@ -403,10 +419,18 @@ WHERE t.table_schema = 'schema' -- put schema name here
 ORDER BY t.table_name;
 </code></p>
 
+<h3 id="lag-offset-column-by-n-rows">Lag (Offset column by n rows)</h3>
+
+<p><code>sql
+SELECT
+    col
+    LAG(col, 1) OVER (ORDER BY calendar_month ASC) AS col_lag_7
+</code></p>
+
 <hr />
 
 <p>Created: 2019-06-25<br />
-Updated: 2021-11-17</p>
+Updated: 2021-12-06</p>
 
 
 <br>

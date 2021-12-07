@@ -1,7 +1,9 @@
 
-# [*Antifragile: Things That Gain from Disorder*](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?dchild=1&keywords=antifragile&qid=1618232120&sr=8-1) by Nassim Nicholas Taleb
+# [*Antifragile: Things That Gain from Disorder*](https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/) by [[Nassim Nicholas Taleb]]
 
-(New York: Random House, 2012, 2016), 480
+<img src="https://images4.penguinrandomhouse.com/cover/9780812979688" width=150>
+
+`(New York: Random House, 2012, 2016), 480`
 
 *Taleb's chapter summaries on xix+, and mine are below. My full notes/underlines are in my paperback copy.*
 
@@ -98,3 +100,7 @@
 
 ## Chapter 25: Conclusion
 *Summary: Everything gains or loses from volatility. Fragility is what loses from volatility and uncertainty.*
+
+---
+Created: 2020-12-21
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

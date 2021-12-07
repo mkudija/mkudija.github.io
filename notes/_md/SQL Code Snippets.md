@@ -3,8 +3,23 @@ publish: true
 ---
 # SQL General How-To
 
+### Joins
+`on`
+```SQL
+FROM information_schema.tables t
+	JOIN information_schema.columns c 
+           on c.table_name = t.table_name 
+           and c.table_schema = t.table_schema
+```
 
-## Find tables with `colName` column
+`using`
+```SQL
+FROM information_schema.tables t
+	JOIN information_schema.columns c USING(table_name, table_schema)
+```
+
+
+### Find tables with `colName` column
 
 ```SQL
 select t.table_schema,
@@ -20,7 +35,7 @@ order by t.table_schema;
 ```
 
 
-## Unique items in **`column`**
+### Unique items in **`column`**
 
 ```SQL
 SELECT 
@@ -39,7 +54,7 @@ GROUP BY t.device
 | 5 | "iPhone10,5" |
 
 
-## value_count of **`column`**
+### value_count of **`column`**
 
 ```SQL
 SELECT 
@@ -70,7 +85,7 @@ ORDER BY value_count DESC
 | 5 | iPhone10,1 | 23    |
 
 
-## `np.where` equivalent for cases
+### `np.where` equivalent for cases
 
 ```SQL
 CASE
@@ -83,7 +98,7 @@ END AS score_group
 ```
 
 
-## Select only first/last record using `RANK() OVER PARTITION BY`
+### Select only first/last record using `RANK() OVER PARTITION BY`
 
 In this example, there may be many records for a given `user_id`, but we only want to select the most recent record for each `user_id`. Alternatively, we could select the first record by using `ASC`:
 
@@ -102,13 +117,13 @@ SELECT
 WHERE RANK = 1
 ```
 
-## Round
+### Round
 
 `ROUND` rounds the number, and if you don't want the additional `.000` you can `CAST` as an integer:
 
 `CAST(ROUND(col_name, 0) AS INT) AS col_name_rounded`
 
-## Decile
+### Decile
 
 Try the `NTILE` function ([link](https://www.geeksforgeeks.org/ntile-function-in-sql-server/)).
 
@@ -172,7 +187,7 @@ GROUP BY score_decile_approx
 ORDER BY score_decile_approx
 ```
 
-## Ratio over groupby
+### Ratio over groupby
 
 Above we use the `RATIO_TO_REPORT` command to get a ratio rather than count. If we want a time series showing percent, and it is groupe by time (week, month, etc.), this is how you get a rate for each group rather than the whole table:
 
@@ -188,7 +203,7 @@ or
 
 
 
-## Last 7 days of data
+### Last 7 days of data
 
 ```SQL
 SELECT 
@@ -199,7 +214,7 @@ WHERE
     t.created_at > GETDATE() - INTERVAL '7 days'
 ```
 
-## DATE_TRUNC
+### DATE_TRUNC
 
 To transform a timestamp into weekly or daily etc. data use `DATE_TRUNC()`. Available `datepart`s are listed [here](http://www.postgresqltutorial.com/postgresql-date_trunc/).
 
@@ -223,7 +238,7 @@ SELECT
     DATE_TRUNC('quarter', timestamp) AS quarter
 ```
 
-## Get month offset from current date (also end of month)
+### Get month offset from current date (also end of month)
 - `CURRENT_DATE` to get current date
 - `DATEADD` to offset by a number of months
 - `LAST_DAY` to get last day of month
@@ -232,7 +247,7 @@ SELECT
 policy_inception_month = LAST_DAY(DATEADD(MM,-6, CURRENT_DATE))
 ```
 
-## Number of items and most recent in table
+### Number of items and most recent in table
 
 ```SQL
 SELECT 
@@ -242,7 +257,7 @@ FROM
     database.table
 ```
 
-## Rolling Mean
+### Rolling Mean
 
 ```SQL
 SELECT 
@@ -253,14 +268,14 @@ FROM
     database.table
 ```
 
-## Percent Change
+### Percent Change
 Display the `%` symbol:
 
 ```SQL
     CONCAT(ROUND((edw_PLE_months_30_4 - edw_PLE_months_30) / edw_PLE_months_30 * 100, 2),'\%') AS percent_diff
 ```
 
-## Percent of Total
+### Percent of Total
 ```SQL
 earned_premium/SUM(earned_premium) OVER () as percent_of_total
 ```
@@ -271,15 +286,15 @@ or
 RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 ```
 
-## Optimize Query
+### Optimize Query
 If you run the query with `EXPLAIN` on top it will give you the query plan and how costly each step is.
 
-## Most Recent Month-End Date
+### Most Recent Month-End Date
 ```SQL
 SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
 ```
 
-## Creating/Updating Tables
+### Creating/Updating Tables
 Create table:
 ```SQL
 -- create table
@@ -310,7 +325,7 @@ GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;
 ```
 
 
-## View Tables in Schema
+### View Tables in Schema
 ```SQL
 -- view tables in schema
 SELECT t.table_name
@@ -320,7 +335,13 @@ WHERE t.table_schema = 'schema' -- put schema name here
 ORDER BY t.table_name;
 ```
 
+### Lag (Offset column by n rows)
 
+```sql
+SELECT
+	col
+	LAG(col, 1) OVER (ORDER BY calendar_month ASC) AS col_lag_7
+```
 
 ---
 Created: 2019-06-25

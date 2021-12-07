@@ -123,7 +123,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 - Rome's story (25-27):
   - stable monetary supply with the silver *denarius* coin
   - peasants moved to Rome to live better for free on the dime of prosperous emperors buying popularity
-  - Nero started devaluing the currency (similar to Keynes after WWI), providing temporary relief but starting a vicious cycle
+  - Nero started devaluing the currency (similar to [[John Maynard Keynes]] after WWI), providing temporary relief but starting a vicious cycle
   - von Mises: by trying to manage their economies the emperors only made matters worse (27)
   - urbanites then fled Rome to get land and attempt self-sufficiency while not paying taxes
   - taxation and inflation destroyed the wealth and savings of Europe, turning Roman citizens into feudal serfs (29)
@@ -411,13 +411,13 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 - *The Scandal of Money* by George Gilder (130)
 - *From Zero to One* by Peter Thiel (96)
 - *From Dawn to Decadence* by Jacques Barzun (103, 149)
-- bad books by Keynes:
+- bad books by [[John Maynard Keynes]]:
   - *The General Theory of Employment, Money, and Interest* (137)
   - *A Tract on Monetary Reform* (139)
   - *The End of Laissez-Faire* (153)
 - *On the Origins of Money* by Carl Menger (142)
 - *The Great Crash of 1929* by John Kenneth Galbraith (155)
-- everything by Nassim Nicholas Taleb (157)
+- everything by [[Nassim Nicholas Taleb]] (157)
 - bad economics textbooks (159):
   - *Economics: An Introductory Analysis* by Paul Samuelson
   - *Economics: Principles, Policies and Problems* by McConnell

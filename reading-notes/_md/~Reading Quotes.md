@@ -91,3 +91,6 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > Books are the food and water of the mind.<br> —Charles J. Chaput[^chaput]
 
 [^chaput]: Charles J. Chaput, [*Things Worth Dying For: Thoughts on a Life Worth Living*](https://us.macmillan.com/books/9781250239785) (New York: Henry Holt/Macmillan, 2021), 50. This is a rearrangement of his quote: ""My parents filled both with the food and water of the mind: books."
+
+
+>

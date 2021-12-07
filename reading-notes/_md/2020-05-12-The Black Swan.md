@@ -1,7 +1,9 @@
 
-# [*The Black Swan: The Impact of the Highly Improbable*](https://www.amazon.com/Forty-Dreams-John-Bosco-Paperback/dp/B00GSCTX2K/ref=sr_1_2?dchild=1&keywords=forty+dreams+of+john+bosco&qid=1585568573&sr=8-2) by Nassim Nicholas Taleb
+# [*The Black Swan: The Impact of the Highly Improbable*](https://www.penguinrandomhouse.com/books/176226/the-black-swan-second-edition-by-nassim-nicholas-taleb/) by [[Nassim Nicholas Taleb]]
 
-(New York: Random House, 2007), 379
+<img src="https://images2.penguinrandomhouse.com/cover/9780812973815" width=150>
+
+`(New York: Random House, 2007), 379`
 
 ## General
 
@@ -203,3 +205,7 @@ Black Swan:
 ### Eight: The Ten Principles for a Black-Swan-Robust Society
 
 ### Nine: Amor Fati: How to Become Indestructible (*love of fate*)
+
+---
+Created: 2020-05-12
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

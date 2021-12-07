@@ -29,7 +29,7 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
   - this is *monetary sovereignty*
 - **(TAB)S** (taxing and borrowing precede spending) is backwards (the "Margaret Thatcher Dictum")
 - **S(TAB)** (spending before taxing and borrowing), the MMT model
-    - says this is found in *Wealth of Nations* by Adam Smith and *A Treatise on Money* by John Maynard Keynes (23)
+    - says this is found in *Wealth of Nations* by Adam Smith and *A Treatise on Money* by [[John Maynard Keynes]] (23)
 - Warren Mosler is the "father of MMT", wrote *Soft Currency Economics* (23-24)
   - taxes are not to raise money, but to create demand for the government's currency
   - Mosler paid his kids with business cards for chores to demonstrate this (25-26)
