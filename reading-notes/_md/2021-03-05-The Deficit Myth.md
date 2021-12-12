@@ -1,7 +1,9 @@
 
-# [*The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*](https://www.amazon.com/Deficit-Myth-Monetary-Peoples-Economy/dp/1541736184/ref=sr_1_1?dchild=1&keywords=The+Deficit+Myth%3A+Modern+Monetary+Theory+and+the+Birth+of+the+People%27s+Economy&qid=1614969185&sr=8-1) by Stephanie Kelton
+# [*The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*](https://www.hachettebookgroup.com/titles/stephanie-kelton/the-deficit-myth/9781541736207/) by Stephanie Kelton
 
-(New York: Hatchette, 2020), 267
+<img src="https://www.hachettebookgroup.com/wp-content/uploads/2019/05/DefecitMyth.jpg?fit=435%2C675" width=150>
+
+`(New York: Hatchette, 2020), 267`
 
 Cory recommended this to learn the "playbook" so I approached it with that goal. Unfortunately, while I understand better the broad outline of MMT and it's policy recommendations, this was not a rigorous explication and didn't go deep enough to address real questions. MMT in a nutshell: the government is the only one who *issues* money and therefore can and should issue as much as needed as long as it manages inflation. The policy recommendations derived from this view start with a federal job guarantee but then grow to eliminating all student debt, free healthcare, free affordable housing, fully funded entitlement programs, new infrastructure and solving climate change...all possible because the federal government can issue money and we are not near full employment. This seems to ignore the fundamental concept of scarcity of real resources and is lacking in historical evaluation of similar policies. I'm also left with an unanswered question about how this is possible with multiple governments with monetary sovereignty, and a concern about what the scope of the currency issuer becomes at the logical extension of this reasoning.
 
@@ -22,7 +24,7 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
   - 6. Entitlements are propelling is toward crisis 
 
 
-## Ch 1 Don't Think of a Household
+## Chapter 1: Don't Think of a Household
 - US government is the only legal issuer of USD
   - distinction between currency *users* (households, businesses, state & local governments) and currency *issuers* (federal government)
   - also don't convert currency into [gold, other currency], and don't borrow in another currency
@@ -46,7 +48,7 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
   - inflation is the "real" limit of MMT
 
 
-## Ch 2 Think of Inflation 
+## Chapter 2: Think of Inflation 
 - deficit is too small if there is unemployment 
 - target inflation is 2% and economies have been struggling to bring it up to that level
 - cost push vs demand pull inflation
@@ -58,7 +60,7 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
 - MMT supports federal job guarantee to eliminate involuntary unemployment and set de facto minimum wage
 
 
-## Ch 3 National Debt
+## Chapter 3: National Debt
 - “debt imposes no burden whatsoever”
 - different answer to “would you get rid of the debt” when asking from perspective of government obligation or financial asset (treasuries)
 - !!!! I kind of get her argument if it was just one country, but don’t understand how this can work with multiple monetary sovereignty countries 
@@ -69,7 +71,7 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
 - budget surpluses have historically lead to depressions by taking money out of the economy 
 
 
-## Ch 4 Deficits Increase Wealth
+## Chapter 4: Deficits Increase Wealth
 - “crowding out” thesis
 - Godley’s two bucket refutation of crowding out: government deficit = non government surplus 
 - deficits push the overnight rate down 
@@ -77,7 +79,7 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
 - crowding out does apply to non-sovereign monetary countries, ie Europe on the Euro and Russia that converted to USD
 
 
-## Ch 5 Trade Deficit 
+## Chapter 5: Trade Deficit 
 - trade deficit “good” for goods, but “bad” for jobs 
 - three bucket model: federal budget deficit must exceed trade deficit to keep private sector in surplus 
 - federal job guarantee to solve the job problem 
@@ -86,25 +88,29 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
 - discussion of the trade implications for the developing world 
 
 
-## Ch 6 Entitlement Programs 
+## Chapter 6: Entitlement Programs 
 - Roosevelt’s “mistake” with social security was the payroll tax
 - ability to pay (unlimited with currency production) vs authorization to pay (regulation)
 - “pie challenge isn’t cost, but making sure our economy is producing the right mix of output over the coming decades”
 
 
-## Ch 7 The Deficits that Matter 
+## Chapter 7: The Deficits that Matter 
 - good jobs deficit; underemployment and proposed federal job guarantee 
 - savings deficit: 77% of Americans don’t have adequate retirement savings...the underlying problems are such that either MMT-like proposals will be enacted or we will have other unrest; proposed free child care and erasing student debt 
 - healthcare deficit: $10k per capita healthcare spend but falling life expectancy, 
 - education deficit: free preschool for all, $30k avg student debt, propose eliminating student debt 
-- infrastructure deficit: 
+- infrastructure deficit
 - housing deficit and racism: build affordable housing for all
-- climate deficit: 
+- climate deficit
 - democracy deficit 
-- “MMT imagines a new policies and a new economy that refocuses from scarcity to opportunity”
+- “MMT imagines new policies and a new economy that refocuses from scarcity to opportunity”
 
 
-## Ch 8 Building an Economy for the People
+## Chapter 8: Building an Economy for the People
 - “MMT isn’t a free lunch”...?
 - MMT advocates using fiscal rather than monetary policy to stabilize the economy 
 - discretionary vs automatic spending: have the budget respond automatically to changing conditions 
+
+---
+Created: 2021-03-05
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

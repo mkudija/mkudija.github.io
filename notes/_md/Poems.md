@@ -11,6 +11,7 @@ publish: true
 **[[Gerard Manley Hopkins]]**
 - *[[God's Gradeaur]]*
 - *[[Pied Beauty]]*
+- *[[Brothers]]*
 
 **Michael Stalcup**
 - *[[Covenant Prayer]]*

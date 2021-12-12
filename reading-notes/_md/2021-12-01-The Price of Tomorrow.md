@@ -39,7 +39,7 @@ _**Summary**: Technology is deflationary and we are entering a great age of defl
 
 What ironic words from Keynes:
 >Practical men, who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist.
->–[[John Maynard Keynes]], *The General Theory of Employment, INterest and Money*
+>–[[John Maynard Keynes]], *The General Theory of Employment, Interest and Money*
 
 - Technology is deflationary, and we are entering into an age of deflation
 - The only thing driving growth today is easy credit: "The mirage of growth today is nothing more than a debt-fuelled spending binge." (12)
