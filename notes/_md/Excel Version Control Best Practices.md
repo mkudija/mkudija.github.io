@@ -57,7 +57,9 @@ Change log notes can range from simple to detailed, and I find it helpful to giv
 
 
 ## 3. Maintain a milestone log that maps file names to milestones 
-Now that you have an orderly list of named versions and a change log that identifies what changed in each version, you need a way to identify which versions correspond to important milestones. A milestone table eliminates the possibility of creating truly awful file names like `_FINAL`, `_FINALv2`, `_FINALv2_updated`. 
+Now that you have an orderly list of named versions and a change log that identifies what changed in each version, you need a way to identify which versions correspond to important milestones. A milestone table eliminates the possibility of creating truly awful file names like `_FINAL`, `_FINALv2`, `_FINALv2_updated`.[^linkedin] 
+
+[^linkedin]: See [bad examples](https://www.linkedin.com/posts/mattbrattin_versioncontrol-analytics-excel-activity-6828746722647384064-qCAl)
 
 | Milestone          | Version      | Notes                            |
 | ------------------ | ------------ | -------------------------------- |
