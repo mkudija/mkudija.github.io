@@ -1,5 +1,5 @@
 
-# *Perennial Seller* by Ryan Holiday
+# *Perennial Seller* by [[Ryan Holiday]]
 
 ## Introduction
 * [[The Lindy Effect]]: every day something lasts, it increases the chances it will continue to last increase (6)

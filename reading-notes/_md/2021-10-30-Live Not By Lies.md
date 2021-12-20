@@ -28,7 +28,7 @@
 - **Totalitarianism**: form of government that combines political authoritarianism with an ideology that seeks to displace all prior traditions and control all aspects of life
 	- Seeks to define and control reality; truth is whatever the rulers say it is
 	- [[Secular Religion]]: Fills a void previously occupied by religion
-	- Embraces the Myth of Progress as justification for eliminating all opposition (49)
+	- Embraces [[The Myth of Progress]] as justification for eliminating all opposition (49)
 - The new totalitarianism is **Soft Totalitarianism**: exploits modern man's preference for comfort and pleasure and convenience over principles
 	- The relevant dystopia is not *Nineteen Eighty-Four* but *Brave New World*
 	- [[Philip Rieff]] (*The Triumph of the Therapeutic*) was a cultural prophet: he saw the death of God in the West leads individuals to seeking pleasure and managing anxiety and predicted the devolution of religion into watery spirituality as realized in [[Christian Smith]]'s **[[Moralistic Therapeutic Deism]]**: God exists and wants us to be nice and happy

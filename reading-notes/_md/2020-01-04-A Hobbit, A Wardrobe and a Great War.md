@@ -1,12 +1,14 @@
 
-# [*A Hobbit, a Wardrobe, and a Great War: How J.R.R. Tolkien and C.S. Lewis Rediscovered Faith, Friendship, and Heroism in the Cataclysm of 1914-1918*](https://www.amazon.com/Hobbit-Wardrobe-Great-War-Rediscovered/dp/0718091450/ref=sr_1_1?keywords=A+Hobbit%2C+a+Wardrobe%2C+and+a+Great+War%3A+How+J.R.R.+Tolkien+and+C.S.+Lewis+Rediscovered+Faith%2C+Friendship%2C+and+Heroism+in+the+Cataclysm+of+1914-1918&qid=1578187816&sr=8-1) by Joseph Loconte
+# [*A Hobbit, a Wardrobe, and a Great War: How J.R.R. Tolkien and C.S. Lewis Rediscovered Faith, Friendship, and Heroism in the Cataclysm of 1914-1918*](https://www.thomasnelson.com/9780718091453/a-hobbit-a-wardrobe-and-a-great-war/) by Joseph Loconte
+
+<img src="https://harpercollins-christian.imgix.net/covers/9780718091453.jpg?auto=format&w=800" width=150>
 
 `(Nashville: Nelson Books, 2015), 196`
 
 
 - "Democratic citizenship requires knowledge of war." (xvii)
 - Lewis: "We know from the experience of the last twenty years that a terrified and angry pacifism is one of the roads that leads to war." (xviii)
-- Tolkien and Lewis fight back against "The Myth of Progress" (2)
+- Tolkien and Lewis fight back against "[[The Myth of Progress]]" (2)
 - Lewis and Tolkien's works both show the historic Christian tradition: "human nature is a tragic mix of nobility and weakness....all stories are ultimately about the fall" (21)
 - The Thirty Years War as a prelude to WWI (27-29)
 - Interesting observation from Lewis: "All those who have the courage to do so and are physically sound, are going off to be shot: those who survive are moral and physical weeds—a fact which does not promise favorably for the next generation." (32)
@@ -38,4 +40,8 @@
 - *J.R.R. Tolkien: A Biography* by Humphrey Carpenter
 - *The Thirty Years War: Europe's Tragedy* by Peter Wilson (28)
 - *Phantastes: A Faerie Romance* by George MacDonald (82)
+
+---
+Created: 2020-01-04
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 

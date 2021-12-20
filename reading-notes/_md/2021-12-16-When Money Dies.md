@@ -5,7 +5,7 @@
 
 `(New York: Public Affairs, 1975), 256`
 
->This is a moral tale. It goes far to prove the revolutionary axiom that if you wish to destroy a nation you must first corrupt its currency. This must sound money be the first bastion of society's defense. (xiv)
+>This is a moral tale. It goes far to prove the revolutionary axiom that if you wish to destroy a nation you must first corrupt its currency. Thus must sound money be the first bastion of society's defense. (xiv)
 
 The history of hyperinflation in Weimar Germany is packed with lessons for us today. The central idiot-villain is [[Rudolf Havenstein]] who as head of the autonomous Reichsbank, and dismissing any quantitative theory of money, turned and kept the printing presses on full tilt and sent the currency into a nosedive. 
 
@@ -155,7 +155,7 @@ _**Summary**: Inflation reminds us that the world wars were a single story. And 
 - **ostensibly**: apparently or purportedly, but perhaps not actually (146)
 - **penurious**:  extremely poor; poverty-stricken (156)
 - **derisory**: ridiculously small or inadequate (166)
-- **_coup d'é·tat_**: a sudden, violent, and unlawful seizure of power from a government; a coup (186)
+- **_coup d'état_**: a sudden, violent, and unlawful seizure of power from a government; a coup (186)
 - **spoliation**: the action of ruining or destroying something (207)
 - **interregnum**: a period when normal government is suspended, especially between successive reigns or regimes (214)
 - **revanchism**: a policy of seeking to retaliate, especially to recover lost territory (247)
