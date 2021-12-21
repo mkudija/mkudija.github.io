@@ -36,7 +36,7 @@ for i in range(34):
 
 **Bibliography**
 
-- 
+- see outline and questions in *How to Read a Book* by Mortimer Adler (appendix B, 383)
 
 **New Words**
 

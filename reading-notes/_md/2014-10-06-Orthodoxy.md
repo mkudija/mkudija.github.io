@@ -43,3 +43,10 @@
     * Man is more manly when joy is the primary thing in him
     * He ends by proclaiming Jesus' mirth and how he hid it 
 
+
+From [[Daniel Gibson]] 2021-12-17:
+>Because children have abounding vitality, because they are in spirit fierce and free, therefore they want things repeated and unchanged. They always say, "Do it again"; and the grown-up person does it again until he is nearly dead. For grown-up people are not strong enough to exult in monotony. But perhaps God is strong enough to exult in monotony. It is possible that God says every morning, "Do it again" to the sun; and every evening, "Do it again" to the moon. It may not be automatic necessity that makes all daisies alike; it may be that God makes every daisy separately, but has never got tired of making them. It may be that He has the eternal appetite of infancy; **for we have sinned and grown old, and our Father is younger than we**.
+
+---
+Created: 2014-10-06
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

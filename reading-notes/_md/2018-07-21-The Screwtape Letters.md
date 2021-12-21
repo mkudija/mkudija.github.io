@@ -1,4 +1,4 @@
-# *The Screwtape Letters* by C.S. Lewis
+# *The Screwtape Letters* by [[C. S. Lewis]]
 
 `(New York: Macmillan, 1943), 160`
 
@@ -6,6 +6,7 @@
 > The devill...the prowde spirite...cannot endure to be mocked.
 > –Thomas More
 
+*see also [[2010-06-03-The Screwtape Letters]]*
 
 ## VI
 
@@ -43,3 +44,21 @@
 ## XXVII
 
 - Learning: "And since we cannot deceive the whole human race all the time, it is most important thus to cut every generation off from all others; for where learning makes a free commerce between the ages there is always the danger that the characteristic errors of one may be corrected by the characteristic truths of another." (140)  ^7323f8
+
+
+
+
+From [[Daniel Gibson]] 2021-12-17:
+
+> Let him begin by treating the Patriotism or the Pacifism as a part of his religion.
+>Then let him, under the influence of partisan spirit, come to regard it as the most important part.
+>Then quietly and gradually nurse him on to the stage at which the religion becomes merely part of the “cause”, in which Christianity is valued chiefly because of the excellent arguments it can produce in favour of the British war-effort or of Pacifism.
+>The attitude which you want to guard against is that in which temporal affairs are treated primarily as material for obedience.
+>Once you have made the World an end, and faith a means, you have almost won your man, and it makes very little difference what kind of worldly end he is pursuing.
+>Provided that meetings, pamphlets, policies, movements, causes, and crusades, matter more to him than prayers and sacraments and charity, he is ours—and the more “religious” (on those terms) the more securely ours. I could show you a pretty cageful down here.
+
+
+
+---
+Created: 2018-07-21
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

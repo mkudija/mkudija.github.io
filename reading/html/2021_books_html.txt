@@ -1,3 +1,4 @@
+<li><i>Strange Case of Dr Jekyll and Mr Hyde</i> by Robert Louis Stevenson</li>
 <li><i>The Life of Blessed Margaret of Castello</i> by Fr. William R. Bonniwell</li>
 <li><i>Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</i> by Ryan Holiday</li>
 <li><i>When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany</i> by Adam Fergusson (<a href="https://matthewkudija.com/reading-notes/2021-12-16-When-Money-Dies.html">Notes</a>)</li>
