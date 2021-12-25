@@ -2,6 +2,18 @@
 publish: true
 ---
 
+
+<!-- MarkdownTOC autolink="true" -->
+
+- [Woodworking Projects](#woodworking-projects)
+- [Wood Turning Projects](#wood-turning-projects)
+- [Wood Carving Projects](#wood-carving-projects)
+- [Workshop Projects](#workshop-projects)
+
+<!-- /MarkdownTOC -->
+
+
+
 # Woodworking Projects
 
 
