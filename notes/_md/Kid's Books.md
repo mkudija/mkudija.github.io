@@ -7,7 +7,7 @@ publish: true
 - *Brother Hugo and the Bear* by Katy Beebe
 - *St. Jerome and the Lion* by Margaret Hodges
 - Sandra Boynton
-    - Fifteen Animals
+    - *Fifteen Animals*
 - Dr Seuss
 	- *Fox in Socks*
 	- *Oh Say Can You Say*
@@ -20,19 +20,21 @@ publish: true
 - Goodnight Airplanes
     - Diggers
     - Steam Trains
-- Ordinary People Change the World biographies by Brad Meltzer (series)
+- *Ordinary People Change the World* biographies by Brad Meltzer (series)
 - *The Berenstain Bears* by Stan and Jan Berenstain (series)
-- *Go Dog Go* by P.D. Eastman
-- *Sam and the Firefly* by P.D. Eastman
-- *Gingerbread Baby* by Jan Brett
-- *The Mitten* by Jan Brett
+- P.D. Eastman
+	- *Go Dog Go*
+	- *Sam and the Firefly*
+- Jan Brett
+- *Gingerbread Baby*
+	- *The Mitten* by Jan Brett
 - Winnie the Pooh  
 - Pout Pout Fish
-- Little engine that could  
-- Priddy baby  
+- The Little Engine That Could  
+- Priddy Baby  
 - Curious George  
-- Harold And the purple crayon  
-- Raccoon that makes vehicles
+- Harold And the Purple Crayon  
+- ==Raccoon that makes vehicles==
 - Madeline
 - *Stellaluna* by Janell Cannon
 - *Diggersaurs* by Michael Whaite
@@ -57,6 +59,7 @@ publish: true
 - *Frog on a Log?* by Kes Gray
 - *Hot-Air Henry* by Mary Calhoun
 - *Tacky the Penguin* by Helen Lester
+- *How Murray Saved Christmas* by Mike Reiss
 
 
 
