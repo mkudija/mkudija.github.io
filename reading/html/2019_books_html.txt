@@ -1,3 +1,4 @@
+<li><i>Bible: Second Catholic Edition RSV (Matthew, Mark, Luke, John, Tobit, Judith)</i></li>
 <li><i>Bible: Second Catholic Edition RSV (Mark, Luke, Matthew, John, Acts, Song of Songs, Daniel)</i></li>
 <li><i>Walking: One Step At a Time</i> by Erling Kagge</li>
 <li><i>A Christmas Carol</i> by Charles Dickens</li>

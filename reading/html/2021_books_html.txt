@@ -1,3 +1,5 @@
+<li><i>Bible: Second Catholic Edition RSV (Luke, Ruth, Matthew), Ignatius Catholic Study Bible (Mark, John)</i></li>
+<li><i>Flying Legends: A photographic study of the great piston combat aircraft of WWII</i> by John M. Dibbs & Tony Holmes</li>
 <li><i>Strange Case of Dr Jekyll and Mr Hyde</i> by Robert Louis Stevenson</li>
 <li><i>The Life of Blessed Margaret of Castello</i> by Fr. William R. Bonniwell</li>
 <li><i>Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</i> by Ryan Holiday</li>
