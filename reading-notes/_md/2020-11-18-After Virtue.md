@@ -34,7 +34,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
   - they are *impersonal*
   - they come from a variety of historical origins, often out of context and divorced from their original meaning (10)
 - we are missing a *historical narrative* and hampered by the division of academic disciplines where moral philosophy is siloed (cf. James Turner's *Philology*) (11)
-- **Emotivism**: "the doctrine that all evaluative judgments and more specifically all moral judgments are *nothing but* expressions of preference, expressions of attitude or feeling, insofar as they are moral or evaluative in character." (11-12)
+- **Emotivism**: "the doctrine that all evaluative judgments and more specifically all moral judgments are *nothing but* expressions of preference, expressions of attitude or feeling, insofar as they are moral or evaluative in character." (11-12) ^570a80
   - The dominant modern theory to confront is emotivisim
   - Emotivism says that moral judgments cannot be resolved rationally
 - But emotivism fails: (12+):
