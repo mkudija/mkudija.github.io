@@ -29,7 +29,7 @@
 - Our country has a "new nihilism" that has been brewing for many decades
 - Notes from his childhood:
 	- [[Spiritual Disciplines]]: daily rosary, weekly mass, family confession every two weeks (49)
-	- [[~Reading Quotes]]: "My parents filled both with the food and water of the mind: books." (50)
+	- [[Some Reading Quotes]]: "My parents filled both with the food and water of the mind: books." (50)
 	- Favorite films [[to-watch]]: *[[2010-06-02-A Man For All Seasons]]*, *The Exorcist*, *Silence of the Lambs*, *Casablanca*
 - [[Roger Scruton]]: irony and forgiveness are the pillars of the west, and have roots in the biblical tradition
 - [[Justice vs Mercy]]: justice is needed for a humane society but can never be fully achieved; therefore we need *enough* justice, administered with mercy (56)
