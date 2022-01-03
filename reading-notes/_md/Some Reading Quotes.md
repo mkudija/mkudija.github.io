@@ -18,7 +18,7 @@
 [^gmh]: [[Gerard Manley Hopkins]], [*Poems and Prose of Gerard Manley Hopkins*](https://www.amazon.com/Penguin-Classics-Gerard-Manley-Hopkins/dp/0140420150/ref=sr_1_1?ie=UTF8&qid=1523224414&sr=8-1&keywords=0140420150&dpID=41bo8cFs0sL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Penguin Books, 1963), 210. (in a letter to Robert Bridges)
 
 <br>
-> Ultimately, only a great diet of excellent reading material can sustain a long and happy life." <br> —Ben Sasse[^sasse]
+> Ultimately, only a great diet of excellent reading material can sustain a long and happy life. <br> —Ben Sasse[^sasse]
 
 [^sasse]: Ben Sasse, [*The Vanishing American Adult*](https://www.amazon.com/Vanishing-American-Adult-Coming-Crisis/dp/1250114403/ref=sr_1_1?ie=UTF8&qid=1523224820&sr=8-1&keywords=vanishing+american+adult) (New York: St. Martin's, 2017), 241.
 

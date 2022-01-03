@@ -145,7 +145,7 @@ def construct_index(years, pathOutput):
     """
 
     # copy index from template
-    copy_file('reading.html', pathOutput)
+    copy_file('reading-template.html', pathOutput)
 
     for year in years:
         addPath = 'html/'+str(year)+'_books_html.txt'
