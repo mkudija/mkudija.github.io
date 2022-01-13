@@ -204,7 +204,7 @@ Epicurus: virtue was to be practiced because it led to happiness (the [[Stoic]]s
 > are lower down, assailed by greater pain
 > –*Inferno* Canto 11. 22-27
 
-[[Usury]]:
+[[2021-10-16 Usury]]:
 > That human toil, as far as it is able,
 > follows nature, as the pupil does his master,
 > so that it is God's grandchild, as it were.
@@ -288,7 +288,7 @@ St. Jerome's comment on [[Ps-08]]: "Judas offended God more greatly by hanging h
 > –*Inferno* Canto 16. 124-126
 
 
-### Inferno Canto 17 - *[[Usury]]*
+### Inferno Canto 17 - *[[2021-10-16 Usury]]*
 > Behold the one whose stench afflicts the world!
 > –*Inferno* Canto 17. 3
 

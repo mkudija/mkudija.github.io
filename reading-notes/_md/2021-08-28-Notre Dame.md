@@ -1,7 +1,7 @@
 
-# [*Notre-Dame: A Short History of the Meaning of Cathedrals*](https://www.amazon.com/Notre-Dame-Short-History-Meaning-Cathedrals/dp/1529037646) by [[Ken Follett]]
+# [*Notre-Dame: A Short History of the Meaning of Cathedrals*](https://www.panmacmillan.com/authors/ken-follett/notredame/9781529037647) by [[Ken Follett]]
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.qe6A8fYWuh1k9ciIpAsnpAAAAA%26pid%3DApi&f=1" width=150>
+<img src="https://ik.imagekit.io/panmac/tr:q-75,di-placeholder_portrait_aMjPtD9YZ.jpg,w-350,pr-true,bl/edition/9781529037647.jpg" width=150>
 
 `(London: Pan, 2019), 112`
 

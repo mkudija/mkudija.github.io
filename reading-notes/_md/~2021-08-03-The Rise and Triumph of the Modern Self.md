@@ -23,7 +23,7 @@
 	- **sexual revolution**: the normalization of sexual phenomena (pornography, homosexuality, etc.) and positive repudiation of traditional sexual mores
 	- **selfhood**: our purpose in life, what constitutes a good life, how I understand myself in relation to others (cf Charles Taylor)
 - **"The task of the Christian is not to whine about the moment in which he or she lives but to understand its problems and respond appropriately to them."** (30)
-- "giving an accurate account of on'es opponents' views is vital" (30)
+- "giving an accurate account of one's opponents' views is vital" (30)
 
 
 

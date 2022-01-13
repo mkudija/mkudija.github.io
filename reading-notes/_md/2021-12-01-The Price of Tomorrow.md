@@ -44,7 +44,7 @@ What ironic words from Keynes:
 - Technology is deflationary, and we are entering into an age of deflation
 - The only thing driving growth today is easy credit: "The mirage of growth today is nothing more than a debt-fuelled spending binge." (12)
 - In **Deflation** the holders of currency win; in **Inflation** holders of assets win
-- Ray Dalio gives, in *Principles for Navigating Big Debt Crises*, the four levers you can pull to bring debt and service levels down to income and cash flows that are required to service them:
+- Ray Dalio gives, in *[[~Principles for Navigating Big Debt Crises]]*, the four levers you can pull to bring debt and service levels down to income and cash flows that are required to service them:
 	1. Austerity - spending less
 	2. Debt defaults/restructuring
 	3. The central bank printing money or other guarantees (MMT)
@@ -128,7 +128,7 @@ _**Summary**: The two mainstream ways forward are either MMT/stimulus, or UBI/we
 
 **Bibliography**
 
-- *Principles for Navigating Big Debt Crises* by Ray Dalio (13)
+- ***[[~Principles for Navigating Big Debt Crises]]*** by [[Ray Dalio]] (13)
 - *Between Debt and the Devil* by Adair Turner (28)
 - *The Long Tail* by Chris Anderson (41)
 - *Capitalism, Socialism, and Democracy* by Joseph A. Schumpeter (62)

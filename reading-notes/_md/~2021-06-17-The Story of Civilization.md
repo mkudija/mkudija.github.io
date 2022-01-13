@@ -12,3 +12,17 @@
 - >Like philosophy, such a venture has no rational excuse...but let us hope that, like philosophy, it will always lure some rash spirits into its fatal depths (viii)
 - >The theme of the twentieth century seems destined to be an all-embracing conflict between the East and the West (viii-ix)
 - >I shall proceed as rapidly as time and circumstance will permit, hoping that a few of my contemporaries will care to grow old with me while learning, and that **these volumes may help some of our children to understand and enjoy the infinite riches of their inheritance**.
+
+# The Establishment of Civilization
+*Conditions, economics, politics, morality, mental, beginnings...*
+
+# The Near East
+*Sumeria, Egypt, Babylonia, Assyria, Indo-European, Judea, Persia...*
+
+# India
+*Foundations, Buddha, mind, literature, art...*
+
+# The Far East
+## China
+>Every chaos is a transition. In the end disorder cures and balances itself with dictatorship; old obstacles are roughly cleared away, and fresh growth is free. Revolution, like death and style, is the removal of rubbish, the surgery of the superfluous; it comes only when there are many things ready to die. China has died many times before; and many times she has been reborn. (823)
+## Japan

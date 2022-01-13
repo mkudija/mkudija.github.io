@@ -1,5 +1,7 @@
 
-# [*The Bitcoin Standard: The Decentralized Alternative to Central Banking*](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_1?dchild=1&keywords=The+Bitcoin+Standard%3A+The+Decentralized+Alternative+to+Central+Banking&qid=1616631234&sr=8-1) by Saifedean Ammous
+# [*The Bitcoin Standard: The Decentralized Alternative to Central Banking*](https://saifedean.com/thebitcoinstandard/) by [[Saifedean Ammous]]
+
+<img src="https://media.wiley.com/product_data/coverImage300/61/11194738/1119473861.jpg" width=150>
 
 `(Hoboken: Wiley, 2018), 274`
 

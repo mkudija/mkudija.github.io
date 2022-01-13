@@ -73,7 +73,7 @@
 ## Chapter 7 - Scourging of the Shire
 - Books Mentioned:
   - *How Civilizations Die* by David Goldman
-- mis-reading of Tolkien to associate him too closely with Rousseau (who thought people were not sinful) (126)
+- mis-reading of Tolkien to associate him too closely with [[Rousseau]] (who thought people were not sinful) (126)
 - Marxism is economic theory out of touch with human nature (132)
 - Having children: "a culture's lack of fertility is the effect and cause of cultural decline" (139)
 

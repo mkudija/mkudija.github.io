@@ -4,7 +4,9 @@
 
 <img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780060652944_b6f9ccf1-790f-4dc1-9ca5-1272679be81a.jpg?v=1640981719" width=150>
 
-`(City: HarperCollins, 1943), 128`;  page numbers referenced are from *The Complete C.S. Lewis Signature Classics*, (New York, HarperCollins, 2002), 746
+`(City: HarperCollins, 1943), 128`
+
+Page numbers referenced are from *The Complete C.S. Lewis Signature Classics*, (New York, HarperCollins, 2002), 746
 
 
 

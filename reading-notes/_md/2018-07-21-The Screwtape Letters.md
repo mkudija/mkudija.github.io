@@ -48,7 +48,7 @@
 
 
 
-From [[Daniel Gibson]] 2021-12-17:
+From [[Dan Gibson]] 2021-12-17:
 
 > Let him begin by treating the Patriotism or the Pacifism as a part of his religion.
 >Then let him, under the influence of partisan spirit, come to regard it as the most important part.

@@ -51,7 +51,7 @@
         * John Locke (1632-1704): the individual as the fundamental unit of society LOCATION: 538 
             * John Adams: Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other. LOCATION: 554 
     * 19th Century: Democracy, Capitalism, Romanticism
-        * Jean-Jacques Rousseau (1712-1778): father of Romanticism: man is born good but corrupted by society LOCATION: 574 
+        * Jean-Jacques [[Rousseau]] (1712-1778): father of Romanticism: man is born good but corrupted by society LOCATION: 574 
         * [[Alexis de Tocqueville]]: *[[~Democracy in America]]*, but only survive as long as “mediating institutions” like churches are strong LOCATION: 576
         * Karl Marx: “All that is solid melts into air”
         * Nietzsche: “God is dead and we have killed him”

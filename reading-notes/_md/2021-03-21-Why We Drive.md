@@ -125,7 +125,7 @@
 - Clintonville yard signs: "I had never been to Portland before and was curious to see how they lived. One thing I noticed was yard signs announcing the residents' affection for various classes of people. Some of these signs had lines written in Arabic that I wasn't able to understand. It's impressive that so many Portlanders have taken the trouble to learn this difficult language. As far as I could see, the only people fitting the categories enumerated on the yard signs who were actually present were some Hispanic groundskeepers who tended the botanical cornucopia outside a beautiful craftsman-style bungalow." (188)
 - discussion of gender roles:
   - ...the neutering of men in Portland as compared to that of the French Aristocracy just before the Revolution
-  - Rousseau: “if you want men to be virtuous, teach women what virtue is” (197)
+  - [[Rousseau]]: “if you want men to be virtuous, teach women what virtue is” (197)
   - the most successful women (and men) don’t focus on history, they just do what they are doing
 
 ## Democracy in the Desert: The Caliente 250
