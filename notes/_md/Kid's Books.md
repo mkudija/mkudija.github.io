@@ -62,6 +62,7 @@ publish: true
 - *How Murray Saved Christmas* by Mike Reiss
 - *Treasury of Nursery Stories* retold by Susan Price
 - *10 Minutes till Bedtime* by Peggy Rathmann
+- *Cindy Ellen: A Wild Western Cinderella* by Susan Lowell
 
 
 
