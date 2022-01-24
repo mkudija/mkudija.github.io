@@ -1,5 +1,5 @@
 
-# [*Currency Wars: The Making of the Next Global Crisis*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564) by James Rickards
+# [*Currency Wars: The Making of the Next Global Crisis*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564) by [[James Rickards]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51JSyLEs4YL._SX324_BO1,204,203,200_.jpg" width=150>
 
