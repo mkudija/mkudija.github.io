@@ -1,5 +1,8 @@
-# *When Harry Became Sally* by Ryan T. Anderson
-2018-04-22 (New York: Encounter, 2018), 213
+# *[When Harry Became Sally](https://www.encounterbooks.com/books/when-harry-became-sally-paperback/)* by Ryan T. Anderson
+
+<img src="https://www.encounterbooks.com/wp-content/uploads/2019/02/When-Harry-Became-Sally_lowres-310x460.jpg" width=150>
+
+`(New York: Encounter, 2018), 213`
 
 ## Introduction
 The introduction describes what each chapter covers, and provides a good summary of the key points 
@@ -28,9 +31,8 @@ The introduction describes what each chapter covers, and provides a good summary
   - Hormone therapy
   - Surgery
 - **Transgender Policy**: activists demand sweeping policy changes
-- **Parental Authority**: 
-  - schools have plans in place to keep parents of a kid in the dark about plans to transition him or her (43)
-- **Transgender Contraditions** (45-46):
+- **Parental Authority**: schools have plans in place to keep parents of a kid in the dark about plans to transition him or her (43, cf [[2022-01-26 Article-As I Found Out With My Daughter, Not Even Catholic Schools Are Safe Havens From Gender Ideology]])
+- **Transgender Contradictions** (45-46):
   - The self is other than the physical body (new Gnostic dualism), but they embrace materialist philosophy where only the material world exists
   - Gender is purely a social construct, but a person can be "trapped" in the wrong body
   - There are no meaningful differences between men and women, but rely on rigid sex stereotypes to argue that "gender identity" is real and human embodiment is not
@@ -75,4 +77,12 @@ The introduction describes what each chapter covers, and provides a good summary
 
 ## Conclusion
 - "When I told people that I was working on a book about the transgender moment, many asked me why. Why spend precious time on something so silly? Why do diligend research and write carefully reasoned arguments about something that runs on emotion? Why open yourself up to charges of transphobia and bigotry? The simple answer is that I couldn't shake from my mind the stories of people who had detransitioned. They are heartbreaking." (205)
-180-181: key point is that neuroplasticity means that allowing social transition only reaffirms dysphoria and prevents the likely natural return to identifying with actual gender 
+- 180-181: key point is that neuroplasticity means that allowing social transition only reaffirms dysphoria and prevents the likely natural return to identifying with actual gender 
+
+--- 
+**Source/Topic**: [[Transgender]]
+
+
+---
+Created: 2018-04-22
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

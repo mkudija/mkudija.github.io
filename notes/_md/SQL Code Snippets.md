@@ -343,6 +343,12 @@ SELECT
 	LAG(col, 1) OVER (ORDER BY calendar_month ASC) AS col_lag_7
 ```
 
+### Current Date
+
+```sql
+SELECT LEFT(GETDATE(),10)
+```
+
 ---
 Created: 2019-06-25
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
