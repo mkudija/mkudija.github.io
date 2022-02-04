@@ -252,6 +252,10 @@ Road to Emmaus [[Lk-24#v13]]:
 > and I repented that and other sins
 > –*Purgatorio* Canto 22. 43-45
 
+<br><br>
+> Through you I was a poet, through you a Christian
+> –*Purgatorio* Canto 22. 73
+
 ### Purgatorio Canto 23
 > 
 > –*Purgatorio* Canto 23. x-x

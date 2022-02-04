@@ -95,7 +95,7 @@ def plot_books(df, years, bookForecastAll, bookForecastRead):
     plt.bar(years, number, color='#3377b3')
     plt.bar(years, numberRead, color='#2a6394')
     for item in range(0,len(years)):
-        plt.text(years[item], -8, str(years[item]),ha='center',color='#63666a',fontname='Gill Sans MT',fontsize=14)
+        plt.text(years[item], -8, str(years[item]),ha='center',color='#63666a',fontsize=14)
     fig.set_size_inches(12, 4)
     fig.savefig(str(GitHubPath)+'/mkudija.github.io/images/book_plot.png',
                 bbox_inches='tight',

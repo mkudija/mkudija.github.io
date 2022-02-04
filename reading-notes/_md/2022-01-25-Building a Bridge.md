@@ -29,7 +29,6 @@
 	- Jesus focused on *community* first, and *conversion* second (71)
 	- Sensitivity is based on encounter, accompaniment, and friendship (72)
 	- The CCC's use of "objectively disordered" seems unnecessarily cruel to many LGBT Catholics (74)
-- 
 
 --- 
 Chastity and homosexuality from the *[[~Catechism of the Catholic Church]]*:
