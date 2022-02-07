@@ -1,7 +1,7 @@
 
 # [*Christianity and Culture*](https://journals.sagepub.com/doi/10.1177/0040571X4004023702) by [[C. S. Lewis]]
 
-Lewis, C. S. (1940). Christianity and Culture. *Theology*, 40(237), 166–179. https://doi.org/10.1177/0040571X4004023702
+Lewis, C. S. (1940). Christianity and Culture. *Theology*, 40(237), 166–179. [https://doi.org/10.1177/0040571X4004023702](https://doi.org/10.1177/0040571X4004023702)
 
 - Before conversion he thought the life of culture was very good, but after conversion went to the other extreme and belittled culture and asked: if of so little value, why do I spent so much of my life on it?
 	- Felt that we had to "lay down our precious refinement at the very doorstep of the church" and rather embrace the "sentimentality and cheapness" of the bad hymns

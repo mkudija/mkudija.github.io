@@ -277,6 +277,7 @@ Road to Emmaus [[Lk-24#v13]]:
 > –*Purgatorio* Canto 27. x-x
 
 ### Purgatorio Canto 28
+*Reason (Virgil) leads to Wisdom (here), leads to Revelation (Beatrice)*
 > 
 > –*Purgatorio* Canto 28. x-x
 
