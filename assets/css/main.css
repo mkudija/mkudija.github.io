@@ -26,6 +26,7 @@ body { /*https://blog.koenvangilst.nl/brutalist-css/*/
 code {
 	color: #777;
 	font-family: monospace;
+    font-size: 15px;
 	background: whitesmoke;
 	border-radius: .2rem;
 	padding: .1rem .3rem .2rem;
@@ -38,15 +39,22 @@ a {
 }
 
 a:hover {
-    color: #5B7894;
-    background:whitesmoke;
-    text-decoration: underline;
+    color: #2D5FAB;
+    /*background:whitesmoke;*/
+    background: #EDCEA8;
+    border-radius:0.1rem;
+    /*text-decoration: underline;*/
+    border-bottom: dotted 1px;
 }
 
-h1
-{
+h1 {
     border-bottom:1px solid #ccc;
     padding-bottom:3px;
+}
+
+h2.line {
+    /*border-bottom: solid 3px #D2A054;*/
+    text-decoration: underline 5px #D2A054
 }
 
 hr {
@@ -125,7 +133,10 @@ button,
 }
 
 .button:hover {
+	border-radius: 0.375em;
 	background-color: #D2A054;
+	box-shadow: 5px 8px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-bottom: none;
 }
 
 
@@ -185,7 +196,7 @@ padding:12px;
 	}
 
 	#main > .inner {
-		padding: 0 6em 0.1em 6em ;
+		padding: 0 0em 0.1em 0em;
 		margin: 0 auto;
 		max-width: 110em;
 	}
@@ -226,7 +237,8 @@ padding:12px;
 	@media screen and (max-width: 736px) {
 
 		#main > .inner {
-			padding: 0 2em 0.1em 2em ;
+			padding: 0 0.1em 0.1em 0.1em;
+			/*padding: 0 2em 0.1em 2em;*/
 		}
 
 		#main > .inner > section {
