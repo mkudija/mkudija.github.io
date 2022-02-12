@@ -1,13 +1,10 @@
 
-# [*The Ethics of Money Production*](https://mises.org/library/ethics-money-production) by [[Jörg Guido Hülsmann]]
+# [*The Sovereign Individual*]() by author
 
-<img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/Ethics%20of%20Money%20Production_Hulsmann.jpg?itok=-VGAY-ep" width=150>
+<img src="" width=150>
 
-`(Auburn: Mises Institute, 2008), 256`
+`(City: Publisher, YYYY), PPP`
 
-==2022-01-05 read preface==
-
-[PDF: The Ethics of Money Production](https://cdn.mises.org/The%20Ethics%20of%20Money%20Production_2.pdf)
 # Notes
 
 <details>
@@ -17,9 +14,6 @@
 <!-- /MarkdownTOC -->
 </details>
 
-
-## Preface
-- 
 
 ## Chapter 1:
 _**Summary**: _
@@ -170,7 +164,7 @@ _**Summary**: _
 _**Summary**: _
 
 --- 
-**Source**: [[Clark Moody]]
+**Source**: 
 
 **Bibliography**
 
@@ -181,6 +175,6 @@ _**Summary**: _
 - 
 
 ---
-Created: 2022-01-10
+Created: 2022-02-04
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 

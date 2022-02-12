@@ -104,7 +104,7 @@ See [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-h
 - Add "adaptability" to your candor model
 
 --- 
-**Source**: [[Lauren G]], [[Matt]]
+**Source**: [[Lauren G]], [[Matt B]]
 
 ---
 Created: 2021-11-08

@@ -386,21 +386,21 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 
 **Bibliography**
 - Ludwig von Mises
-  - ***Human Action: The Scholar's Edition*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
-  - *The Theory of Money and Credit* by Ludwig von Mises (70)
-  - *Socialism* by Ludwig von Mises (109)
+  - ***[[~Human Action]]*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
+  - *The Theory of Money and Credit* by [[Ludwig von Mises]] (70)
+  - *Socialism* by [[Ludwig von Mises]] (109)
   - *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
 - Friedrich Hayek
   - *Monetary Nationalism and International Stability* by Friedrich Hayek (47)
-  - ***[The Use of Knowledge in Society](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf)*** by Friedrich Hayek (106)
+  - ***The Use of Knowledge in Society ([PDF](https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf))*** by Friedrich Hayek (106)
   - *A Tiger by the Tail* by Friedrich Hayek (119)
   - *Denationalization of Money* by Friedrich Hayek (126)
 - Murray Rothbard
-  - *Man, Economy, and State* by Murray Rothbard (79)
-  - ***America's Great Depression*** by Murray Rothbard (49, 122)
-  - *The Austrian Theory of Money* by Murray Rothbard (143)
-  - *Economic Depressions: Their Cause and Cure* by Murray Rothbard (126, 145)
-  - *The Ethics of Liberty* by Murray Rothbard (204)
+  - *Man, Economy, and State* by [[Murray Rothbard]] (79)
+  - ***America's Great Depression*** by [[Murray Rothbard]] (49, 122)
+  - *The Austrian Theory of Money* by [[Murray Rothbard]] (143)
+  - *Economic Depressions: Their Cause and Cure* by [[Murray Rothbard]] (126, 145)
+  - *The Ethics of Liberty* by [[Murray Rothbard]] (204)
 - *Forty Centuries of Wage and Price Controls* by Schuettinger and Butler (26, 119)
 - *Gold Wars* by Ferdinand Lips (27)
 - *The Failure of the New Economics* by Henry Hazlitt (52)
@@ -426,7 +426,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
   - Paul Krugman
 - *Digital Gold* by Nathaniel Popper (182)
 - *The Ultimate Resource* by Julian Simon (human time, 193)
-- ***The Sovereign Individual*** by James Davidson and William Rees-Mogg (200)
+- ***[[~The Sovereign Individual]]*** by James Davidson and William Rees-Mogg (200)
 - [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
 
 ---

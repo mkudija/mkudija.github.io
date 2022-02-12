@@ -17,6 +17,9 @@ Principle #1 is—in my experience—the basic requirement for maintaining an or
 ## 1. Frequently save versions using a standard file name format
 All versions of a file should be saved with the same file name format in a single directory. I recommend one of the following formats:
 
+
+
+
 | Format             | Example                                                                                              | Notes                                                             |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Name_vVV           | `Budget_v01`<br>`Budget_v02`<br>`Budget_v03`<br>...<br>`Budget_v15`                                             | Name and version only                                             |
@@ -57,9 +60,9 @@ Change log notes can range from simple to detailed, and I find it helpful to giv
 
 
 ## 3. Maintain a milestone log that maps file names to milestones 
-Now that you have an orderly list of named versions and a change log that identifies what changed in each version, you need a way to identify which versions correspond to important milestones. A milestone table eliminates the possibility of creating truly awful file names like `_FINAL`, `_FINALv2`, `_FINALv2_updated`.[^linkedin] 
+Now that you have an orderly list of named versions and a change log that identifies what changed in each version, you need a way to identify which versions correspond to important milestones. A milestone table eliminates the possibility of creating awful file names like `_FINALv2`, `_FINALv2_updated`.[^linkedin] 
 
-[^linkedin]: See [bad examples](https://www.linkedin.com/posts/mattbrattin_versioncontrol-analytics-excel-activity-6828746722647384064-qCAl)
+[^linkedin]: As an aside, some colorful and inconsistent examples I have seen, edited for anonymity where appropriate, include: <br> • The classic [vFinal, vFinal2, etc.](https://www.linkedin.com/posts/mattbrattin_versioncontrol-analytics-excel-activity-6828746722647384064-qCAl) <br> • Starting with a consistent naming format and then adding extra note(s) or version(s) in the filename rather than in the change log: `2018-02-25-11-Example Model vEquity v13_downside + Growth v10.xlsx` <br> • Saving versions in a crazy nested directory structure like this: `Model\2020 Plan\New Years Updates\12&0 Update\Post 1.15.20 Touch Base\2020 Plan V6 (1.22).xlsm` <br> 
 
 | Milestone          | Version      | Notes                            |
 | ------------------ | ------------ | -------------------------------- |

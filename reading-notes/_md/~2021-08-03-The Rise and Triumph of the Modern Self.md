@@ -1,11 +1,11 @@
 
-# [*The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution*](https://www.amazon.com/Rise-Triumph-Modern-Self-Individualism/dp/1433556332) by Carl. R. Trueman
+# [*The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution*](https://www.crossway.org/books/the-rise-and-triumph-of-the-modern-self-hcj/) by Carl. R. Trueman
+
+<img src="https://static.crossway.org/studio-files/media/73603c4810775bab0103020211822fbc681b8212.jpg" width=150>
 
 `(Wheaton: Crossway, 2020), 407`
 
-`Notes Started: 2021-08-03`
-
-- Recommended by [[Adam Pasternack]], who said on 2021-07-08:
+- Recommended by Adam, who said on 2021-07-08:
 	- >Really good!
 	- >Strongly recommend the read im 2/3 of the way through
 	- >He draws on Charles Taylor and Alister McIntyre and then a third thinker that I forget the name but is valuable
@@ -14,7 +14,7 @@
 ## Foreword by [[Rod Dreher]]
 - Men have forgotten God, and man (cf. [[Aleksandr Solzhenitsyn]])
 - Ordinary Christians need a better grip on the modern condition, this book through the lens of [[Philip Rieff]]
-- Transgenderism as the "ultimate expression of the spirit of modernity"
+- [[Transgender|Transgenderism]] as the "ultimate expression of the spirit of modernity"
 
 
 ## Introduction
@@ -25,163 +25,91 @@
 - **"The task of the Christian is not to whine about the moment in which he or she lives but to understand its problems and respond appropriately to them."** (30)
 - "giving an accurate account of one's opponents' views is vital" (30)
 
+# Part 1: Architecture of the Revolution
 
+## Chapter 1: Reimagining the Self
+_**Summary**: _
 
-## Chapter 1:
-***Summary**: *
 
 
+## Chapter 2: Reimagining Our Culture
+_**Summary**: _
 
-## Chapter 2:
-***Summary**: *
 
+# Part 2: Foundations of the Revolution
 
+## Chapter 3: The Other Genevan
+_**Summary**: [[Rousseau]] and the Foundations of Modern Selfhood_
 
-## Chapter 3:
-***Summary**: *
 
 
+## Chapter 4: Unacknowledged Legislators
+_**Summary**: Wordsworth, Shelley, and Blake_
 
-## Chapter 4:
-***Summary**: *
 
 
+## Chapter 5: The Emergence of Plastic People
+_**Summary**: [[Friedrich Nietzsche]], [[Karl Marx]], and Darwin_
 
-## Chapter 5:
-***Summary**: *
 
 
+## Epilogue to Part 2
+_**Summary**: Reflections on the Foundations of the Revolution_
 
-## Chapter 6:
-***Summary**: *
 
+# Part 3: Sexualization of the Revolution
 
+## Chapter 6: [[Sigmund Freud]], Civilization, Sex
+_**Summary**: _
 
-## Chapter 7:
-***Summary**: *
 
 
+## Chapter 7: The New Left and the Politicization of Sex
+_**Summary**: _
 
-## Chapter 8:
-***Summary**: *
 
+## Epilogue to Part 3
+_**Summary**: Reflections on the Sexualization of the Revolution_
 
 
-## Chapter 9:
-***Summary**: *
+# Part 4: Triumphs of the Revolution
 
+## Chapter 8: The Triumph of the Erotic
+_**Summary**: _
 
 
-## Chapter 10:
-***Summary**: *
 
+## Chapter 9: The Triumph of the Therapeutic
+_**Summary**: _
 
 
-## Chapter 11:
-***Summary**: *
 
+## Chapter 10: The Triumph of the T
+_**Summary**: _
 
 
-## Chapter 12:
-***Summary**: *
 
+## Epilogue to Part 4
+_**Summary**: Reflections on the Triumphs of the Revolution_
 
 
-## Chapter 13:
-***Summary**: *
 
+## Concluding Unscientific Prologue
+_**Summary**: _
 
 
-## Chapter 14:
-***Summary**: *
 
-
-
-## Chapter 15:
-***Summary**: *
-
-
-
-## Chapter 16:
-***Summary**: *
-
-
-
-## Chapter 17:
-***Summary**: *
-
-
-
-## Chapter 18:
-***Summary**: *
-
-
-
-## Chapter 19:
-***Summary**: *
-
-
-
-## Chapter 20:
-***Summary**: *
-
-
-
-## Chapter 21:
-***Summary**: *
-
-
-
-## Chapter 22:
-***Summary**: *
-
-
-
-## Chapter 23:
-***Summary**: *
-
-
-
-## Chapter 24:
-***Summary**: *
-
-
-
-## Chapter 25:
-***Summary**: *
-
-
-
-## Chapter 26:
-***Summary**: *
-
-
-
-## Chapter 27:
-***Summary**: *
-
-
-
-## Chapter 28:
-***Summary**: *
-
-
-
-## Chapter 29:
-***Summary**: *
-
-
-
-## Chapter 30:
-***Summary**: *
 
 --- 
+**Source**: Adam, Dan
 
 **Bibliography**
 
+- 
 
 **New Words**
 
+- 
 ---
 Created: 2021-08-03
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

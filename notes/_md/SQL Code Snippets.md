@@ -201,52 +201,6 @@ or
     RATIO_TO_REPORT(account_count) OVER(PARTITION BY x)
 ```
 
-
-
-### Last 7 days of data
-
-```SQL
-SELECT 
-    *
-FROM 
-    database.table t
-WHERE
-    t.created_at > GETDATE() - INTERVAL '7 days'
-```
-
-### DATE_TRUNC
-
-To transform a timestamp into weekly or daily etc. data use `DATE_TRUNC()`. Available `datepart`s are listed [here](http://www.postgresqltutorial.com/postgresql-date_trunc/).
-
-```SQL
-SELECT
-    DATE_TRUNC('day', timestamp) AS day
-```
-or 
-```SQL
-SELECT
-    DATE_TRUNC('week', timestamp) AS week
-```
-or
-```SQL
-SELECT
-    DATE_TRUNC('month', timestamp) AS month
-```
-or
-```SQL
-SELECT
-    DATE_TRUNC('quarter', timestamp) AS quarter
-```
-
-### Get month offset from current date (also end of month)
-- `CURRENT_DATE` to get current date
-- `DATEADD` to offset by a number of months
-- `LAST_DAY` to get last day of month
-
-```SQL
-policy_inception_month = LAST_DAY(DATEADD(MM,-6, CURRENT_DATE))
-```
-
 ### Number of items and most recent in table
 
 ```SQL
@@ -342,6 +296,64 @@ SELECT
 	col
 	LAG(col, 1) OVER (ORDER BY calendar_month ASC) AS col_lag_7
 ```
+
+## Dates
+### Last 7 days of data
+
+```SQL
+SELECT 
+    *
+FROM 
+    database.table t
+WHERE
+    t.created_at > GETDATE() - INTERVAL '7 days'
+```
+
+### DATE_TRUNC
+
+To transform a timestamp into weekly or daily etc. data use `DATE_TRUNC()`. Available `datepart`s are listed [here](http://www.postgresqltutorial.com/postgresql-date_trunc/).
+
+```SQL
+SELECT
+    DATE_TRUNC('day', timestamp) AS day
+```
+or 
+```SQL
+SELECT
+    DATE_TRUNC('week', timestamp) AS week
+```
+or
+```SQL
+SELECT
+    DATE_TRUNC('month', timestamp) AS month
+```
+or
+```SQL
+SELECT
+    DATE_TRUNC('quarter', timestamp) AS quarter
+```
+
+### Get month offset from current date (also end of month)
+- `CURRENT_DATE` to get current date
+- `DATEADD` to offset by a number of months
+- `LAST_DAY` to get last day of month
+
+```SQL
+policy_inception_month = LAST_DAY(DATEADD(MM,-6, CURRENT_DATE))
+```
+
+*or*
+
+```SQL
+WHERE prediction_date = LAST_DAY(DATE_ADD('month', -1, CURRENT_DATE))
+```
+
+### Current Date
+
+```sql
+SELECT LEFT(GETDATE(),10)
+```
+
 
 ---
 Created: 2019-06-25

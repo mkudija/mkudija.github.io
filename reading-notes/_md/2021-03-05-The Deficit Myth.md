@@ -1,5 +1,5 @@
 
-# [*The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*](https://www.hachettebookgroup.com/titles/stephanie-kelton/the-deficit-myth/9781541736207/) by Stephanie Kelton
+# [*The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*](https://www.hachettebookgroup.com/titles/stephanie-kelton/the-deficit-myth/9781541736207/) by [[Stephanie Kelton]]
 
 <img src="https://www.hachettebookgroup.com/wp-content/uploads/2019/05/DefecitMyth.jpg?fit=435%2C675" width=150>
 

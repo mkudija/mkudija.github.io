@@ -9,6 +9,15 @@
 
 >Every chaos is a transition. In the end disorder cures and balances itself with dictatorship; old obstacles are roughly cleared away, and fresh growth is free. Revolution, like death and style, is the removal of rubbish, the surgery of the superfluous; it comes only when there are many things ready to die. China has died many times before; and many times she has been reborn. <br>—*[[~2021-06-17-The Story of Civilization]]: Our Oriental Heritage* by Will Durant, 823
 
+
+- Dalio changing world order take-aways:
+		- learn about China
+		- debt: be ok having it, don't own it
+		- own land and gold; live below your means and prep for the coming crash
+		- need to study history: pretty clear what the options are
+		- what's our escape plan?
+		- what are the 2-3 most likely scenarios and how does your portfolio respond to each?
+
 # Notes
 
 <details>
