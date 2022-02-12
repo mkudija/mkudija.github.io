@@ -44,7 +44,7 @@ To publish my notes from Obsidian to my website, [this script](https://github.co
 
 **Resources**
 
-- [The Fractal-Summary Method: How to Read Great Books](https://johnathanbi.com/essays/0u1avudmqgop9d3cueia0kemua3x9q)
+- [The Fractal-Summary Method: How to Read Great Books](https://johnathanbi.com/essays/fractal-summary-method)
 
 ---
 Created: 2021-09-02

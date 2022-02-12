@@ -5,9 +5,8 @@
 
 `(Auburn: Mises Institute, 2008), 256`
 
-==2022-01-05 read preface==
-
 [PDF: The Ethics of Money Production](https://cdn.mises.org/The%20Ethics%20of%20Money%20Production_2.pdf)
+
 # Notes
 
 <details>
