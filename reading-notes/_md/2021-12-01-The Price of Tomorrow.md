@@ -63,8 +63,8 @@ _**Summary**: Printing money—aka Quantitative Easing—is dysfunctional capita
 ## Chapter 2: Creative Destruction
 _**Summary**: Schumpeter coined "creative destruction" where innovation destroys existing companies but replaces them with more value and fuels growth (but he also saw this as contributing to its collapse). Minsky foresaw governments always acting as lenders of last resort to bail out the market. Putting the two together, and adding technological deflation, sows the seeds for an unimaginable collapse._
 
-- Joseph Schumpeter coined the term "creative destruction": information not having the same constraints as physical goods is an example of this
-	- But it also portends its collapse: "In breaking down the pre-capitalist ramework of society, capitalism thus broke not only barriers that impeded tis progress but also flying buttresses that prevented its collapse. The capitalist process in much the same way in which it destroyed the institutional framework of feudal society also undermines its own." (62, from *Capitalism, Socialism, and Democracy* by Joseph A. Schumpeter, 139; this is similar to the argument [[Patrick Deneen]] presents in *[[2018-05-29-Why Liberalism Failed]]*)
+- [[Joseph A. Schumpeter]] coined the term "creative destruction": information not having the same constraints as physical goods is an example of this
+	- But it also portends its collapse: "In breaking down the pre-capitalist ramework of society, capitalism thus broke not only barriers that impeded tis progress but also flying buttresses that prevented its collapse. The capitalist process in much the same way in which it destroyed the institutional framework of feudal society also undermines its own." (62, from *Capitalism, Socialism, and Democracy* by [[Joseph A. Schumpeter]], 139; this is similar to the argument [[Patrick Deneen]] presents in *[[2018-05-29-Why Liberalism Failed]]*)
 - "Forecasting the timing of change and taking advantage of it may be the most important skillsets of a visionary entrepreneur." (50)
 - Today's digital monopolies: "you are either the platform or the arbitrage on the platform...in the long term, there is no in-between" (62, cf. *[[2021-11-30-Ten Arguments for Deleting Your Social Media Accounts Right Now]]*)
 - Hyman Minsky: debt itself does not undermine capitalism, but the socialization of the losses to stabilize an economy to prevent it from collapsing (63)
@@ -139,7 +139,7 @@ _**Summary**: The two mainstream ways forward are either MMT/stimulus, or UBI/we
 - *The No Asshole Rule* by Bob Sutton (80)
 - *Superintelligence* by Nick Bostrom (96)
 - ["Monetary Policy with Negative Interest Rates"](https://www.imf.org/en/Publications/WP/Issues/2018/08/27/Monetary-Policy-with-Negative-Interest-Rates-Decoupling-Cash-from-Electronic-Money-46076) by the International Monetary Fund
-- [[Films]]: *The Imitation Game* (130)
+- [[Films Watched]]: *The Imitation Game* (130)
 - *The Master Algorithm* by Pedro Domingos (133)
 - *Outliers* by Malcolm Gladwell (137)
 - *Group Conflict and Cooperation* by Muzafer Sherif (162)

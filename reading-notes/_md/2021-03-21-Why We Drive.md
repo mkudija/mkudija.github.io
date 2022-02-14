@@ -26,7 +26,7 @@
 - book: *Traffic: Why We Drive the Way We Do* by Tom Vanderbilt (18)
 - book: *The Long Haul* by Finn Murphy (19)
 - the three modes of traffic management that will be discussed later: rule following (abuse of power), autonomous cars (massively expensive) , and human agency (meditation on self-government) (21-22)
-- dystopian [[Films]]: Blade Runner, Total Recall, Minority Report, WALL-E (22)
+- dystopian [[Films Watched]]: Blade Runner, Total Recall, Minority Report, WALL-E (22)
 
 ### Drivers as Moral Types
 - a defense of lane splitting on motorcycles

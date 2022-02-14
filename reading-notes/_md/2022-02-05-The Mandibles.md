@@ -1,7 +1,7 @@
 
 # [*The Mandibles: A Family, 2029-2047*](https://www.harpercollins.com/products/the-mandibles-lionel-shriver?variant=32205656129570) by Lionel Shriver
 
-<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062328281_1d3836ae-1c63-4fba-b861-5301675597f5.jpg?v=1643810926" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062328281_431b857a-f571-4347-acc6-158630b7f525.jpg?v=1644285330" width=150>
 
 `(New York: HarperCollins, 2016), 432`
 

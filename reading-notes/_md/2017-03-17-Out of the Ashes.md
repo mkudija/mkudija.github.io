@@ -1,4 +1,7 @@
-# *Out of the Ashes: Rebuilding American Culture* by Anthony Esolen
+# *Out of the Ashes: Rebuilding American Culture* by [[Anthony Esolen]]
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51GHmIrb5wL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width=150>
+
 * Introduction
     * “We are incompetent in the ordinary things of life.” (10)
         * **This really is the biggest take-away for me from this book. I want to strive for excellence in the ordinary things of fatherhood, work, relationships, faith, citizenship.**
@@ -50,3 +53,7 @@
     * we must remember that we are pilgrims returning home
     * “Take away the devotion and you take away the soul” (190)
     * again, we end with doing the ordinary well (192-193)
+
+---
+Created: 2017-03-17
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

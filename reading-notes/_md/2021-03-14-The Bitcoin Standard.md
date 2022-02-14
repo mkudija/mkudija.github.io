@@ -262,7 +262,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 
 ### The Bezzle
 - "The Bezzle": illusion of wealth caused by inflationary credit
-- Schumpeter and Taleb: no profit possible in free market without skin in the game
+- [[Joseph A. Schumpeter]] and [[Nassim Nicholas Taleb]]: no profit possible in free market without skin in the game
   - but government-issued unsound money keeps zombies alive that have no skin in the game and face no market test for their work
 - Banking has evolved to generate returns without risk to bankers while creating risks without returns for others
 - Centralized credit issuance accentuates the advantages of size above what it would be in a free market
