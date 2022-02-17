@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-# SQL General How-To
+# SQL Code Snippets
 
 ### Joins
 `on`
@@ -356,5 +356,6 @@ SELECT LEFT(GETDATE(),10)
 
 
 ---
-Created: 2019-06-25
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2019-06-25-Tue]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+

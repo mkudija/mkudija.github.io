@@ -39,48 +39,46 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <!-- Content -->
 
-<h1 id="sql-general-how-to">SQL General How-To</h1>
+<h1 id="sql-code-snippets">SQL Code Snippets</h1>
 
 <h3 id="joins">Joins</h3>
 
-<p><code>on</code><br />
-<code>SQL
-FROM information_schema.tables t
-    JOIN information_schema.columns c 
-           on c.table_name = t.table_name 
-           and c.table_schema = t.table_schema
-</code></p>
+<p><code>on</code></p>
 
-<p><code>using</code><br />
-<code>SQL
-FROM information_schema.tables t
-    JOIN information_schema.columns c USING(table_name, table_schema)
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">FROM</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">tables</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="w">    </span><span class="k">JOIN</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">columns</span><span class="w"> </span><span class="k">c</span><span class="w"> </span>
+<span class="w">           </span><span class="k">on</span><span class="w"> </span><span class="k">c</span><span class="p">.</span><span class="k">table_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="w"> </span>
+<span class="w">           </span><span class="k">and</span><span class="w"> </span><span class="k">c</span><span class="p">.</span><span class="n">table_schema</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="w"></span>
+</code></pre></div>
+
+<p><code>using</code></p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">FROM</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">tables</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="w">    </span><span class="k">JOIN</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">columns</span><span class="w"> </span><span class="k">c</span><span class="w"> </span><span class="k">USING</span><span class="p">(</span><span class="k">table_name</span><span class="p">,</span><span class="w"> </span><span class="n">table_schema</span><span class="p">)</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="find-tables-with-colname-column">Find tables with <code>colName</code> column</h3>
 
-<p><code>SQL
-select t.table_schema,
-       t.table_name
-from information_schema.tables t
-inner join information_schema.columns c 
-           on c.table_name = t.table_name 
-           and c.table_schema = t.table_schema
-where c.column_name = 'colName'
-      and t.table_schema not in ('information_schema', 'pg_catalog')
-      and t.table_type = 'BASE TABLE'
-order by t.table_schema;
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">select</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="p">,</span><span class="w"></span>
+<span class="w">       </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="w"></span>
+<span class="k">from</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">tables</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">inner</span><span class="w"> </span><span class="k">join</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">columns</span><span class="w"> </span><span class="k">c</span><span class="w"> </span>
+<span class="w">           </span><span class="k">on</span><span class="w"> </span><span class="k">c</span><span class="p">.</span><span class="k">table_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="w"> </span>
+<span class="w">           </span><span class="k">and</span><span class="w"> </span><span class="k">c</span><span class="p">.</span><span class="n">table_schema</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="w"></span>
+<span class="k">where</span><span class="w"> </span><span class="k">c</span><span class="p">.</span><span class="k">column_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;colName&#39;</span><span class="w"></span>
+<span class="w">      </span><span class="k">and</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="w"> </span><span class="k">not</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="p">(</span><span class="s1">&#39;information_schema&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;pg_catalog&#39;</span><span class="p">)</span><span class="w"></span>
+<span class="w">      </span><span class="k">and</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;BASE TABLE&#39;</span><span class="w"></span>
+<span class="k">order</span><span class="w"> </span><span class="k">by</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="p">;</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="unique-items-in-column">Unique items in <strong><code>column</code></strong></h3>
 
-<p><code>SQL
-SELECT 
-    t.device
-FROM 
-    database.table t
-GROUP BY t.device
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">t</span><span class="p">.</span><span class="n">device</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span>
+<span class="w">    </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">device</span><span class="w"></span>
+</code></pre></div>
 
 <table>
 <thead>
@@ -115,25 +113,23 @@ GROUP BY t.device
 
 <h3 id="value_count-of-column">value_count of <strong><code>column</code></strong></h3>
 
-<p><code>SQL
-SELECT 
-    value_count_col
-    ,COUNT(id_col) AS value_count
-FROM 
-    database.table t
-GROUP BY 1
-ORDER BY 2 DESC
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">value_count_col</span><span class="w"></span>
+<span class="w">    </span><span class="p">,</span><span class="k">COUNT</span><span class="p">(</span><span class="n">id_col</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">value_count</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span>
+<span class="w">    </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="mi">1</span><span class="w"></span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="mi">2</span><span class="w"> </span><span class="k">DESC</span><span class="w"></span>
+</code></pre></div>
 
-<p><code>SQL
-SELECT 
-    t.device
-    ,COUNT(t.distance) AS value_count
-FROM 
-    database.table t
-GROUP BY t.device
-ORDER BY value_count DESC
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">t</span><span class="p">.</span><span class="n">device</span><span class="w"></span>
+<span class="w">    </span><span class="p">,</span><span class="k">COUNT</span><span class="p">(</span><span class="n">t</span><span class="p">.</span><span class="n">distance</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">value_count</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span>
+<span class="w">    </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">device</span><span class="w"></span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">value_count</span><span class="w"> </span><span class="k">DESC</span><span class="w"></span>
+</code></pre></div>
 
 <table>
 <thead>
@@ -174,34 +170,32 @@ ORDER BY value_count DESC
 
 <h3 id="npwhere-equivalent-for-cases"><code>np.where</code> equivalent for cases</h3>
 
-<p><code>SQL
-CASE
-    WHEN t.score BETWEEN 0  AND 24  THEN '0-24'
-    WHEN t.score BETWEEN 25 AND 49  THEN '25-49'
-    WHEN t.score BETWEEN 50 AND 74  THEN '50-74'
-    WHEN t.score BETWEEN 75 AND 100 THEN '75-100'
-    ELSE 'OTHER'
-END AS score_group
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">CASE</span><span class="w"></span>
+<span class="w">    </span><span class="k">WHEN</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">score</span><span class="w"> </span><span class="k">BETWEEN</span><span class="w"> </span><span class="mi">0</span><span class="w">  </span><span class="k">AND</span><span class="w"> </span><span class="mi">24</span><span class="w">  </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;0-24&#39;</span><span class="w"></span>
+<span class="w">    </span><span class="k">WHEN</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">score</span><span class="w"> </span><span class="k">BETWEEN</span><span class="w"> </span><span class="mi">25</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="mi">49</span><span class="w">  </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;25-49&#39;</span><span class="w"></span>
+<span class="w">    </span><span class="k">WHEN</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">score</span><span class="w"> </span><span class="k">BETWEEN</span><span class="w"> </span><span class="mi">50</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="mi">74</span><span class="w">  </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;50-74&#39;</span><span class="w"></span>
+<span class="w">    </span><span class="k">WHEN</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">score</span><span class="w"> </span><span class="k">BETWEEN</span><span class="w"> </span><span class="mi">75</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;75-100&#39;</span><span class="w"></span>
+<span class="w">    </span><span class="k">ELSE</span><span class="w"> </span><span class="s1">&#39;OTHER&#39;</span><span class="w"></span>
+<span class="k">END</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">score_group</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="select-only-firstlast-record-using-rank-over-partition-by">Select only first/last record using <code>RANK() OVER PARTITION BY</code></h3>
 
 <p>In this example, there may be many records for a given <code>user_id</code>, but we only want to select the most recent record for each <code>user_id</code>. Alternatively, we could select the first record by using <code>ASC</code>:</p>
 
-<p><code>SQL
-SELECT
-    ...
-    ...
-    FROM(
-    SELECT
-        ...
-    ...
-        ,RANK() OVER (PARTITION BY t.user_id ORDER BY t.created_at DESC) AS RANK
-        FROM
-            database.table AS t
-    )
-WHERE RANK = 1
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"></span>
+<span class="w">    </span><span class="p">...</span><span class="w"></span>
+<span class="w">    </span><span class="p">...</span><span class="w"></span>
+<span class="w">    </span><span class="k">FROM</span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="k">SELECT</span><span class="w"></span>
+<span class="w">        </span><span class="p">...</span><span class="w"></span>
+<span class="w">    </span><span class="p">...</span><span class="w"></span>
+<span class="w">        </span><span class="p">,</span><span class="n">RANK</span><span class="p">()</span><span class="w"> </span><span class="n">OVER</span><span class="w"> </span><span class="p">(</span><span class="n">PARTITION</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">user_id</span><span class="w"> </span><span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">created_at</span><span class="w"> </span><span class="k">DESC</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">RANK</span><span class="w"></span>
+<span class="w">        </span><span class="k">FROM</span><span class="w"></span>
+<span class="w">            </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="w">    </span><span class="p">)</span><span class="w"></span>
+<span class="k">WHERE</span><span class="w"> </span><span class="n">RANK</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="round">Round</h3>
 
@@ -213,120 +207,112 @@ WHERE RANK = 1
 
 <p>Try the <code>NTILE</code> function (<a target="_blank" href="https://www.geeksforgeeks.org/ntile-function-in-sql-server/">link</a>).</p>
 
-<p>To get actual deciles you can use a <code>CASE</code> statement:<br />
-<code>SQL
-SELECT 
-    score_decile, 
-    COUNT(score_decile) AS count
-FROM (
-    SELECT
-        *,
-        CASE
-            WHEN score &lt; 10 THEN '0-9'
-            WHEN score &gt; 9 AND score &lt; 20 THEN '10-19'
-            WHEN score &gt; 19 AND score &lt; 30 THEN '20-29'
-            WHEN score &gt; 29 AND score &lt; 40 THEN '30-39'
-            WHEN score &gt; 39 AND score &lt; 50 THEN '40-49'
-            WHEN score &gt; 49 AND score &lt; 60 THEN '50-59'
-            WHEN score &gt; 59 AND score &lt; 70 THEN '60-69'
-            WHEN score &gt; 69 AND score &lt; 80 THEN '70-79'
-            WHEN score &gt; 79 AND score &lt; 90 THEN '80-89'
-            WHEN score &gt; 89 THEN '90-100'
-        END as score_decile
-    FROM database.table
-)
-GROUP BY score_decile
-ORDER BY score_decile
-</code></p>
+<p>To get actual deciles you can use a <code>CASE</code> statement:</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">score_decile</span><span class="p">,</span><span class="w"> </span>
+<span class="w">    </span><span class="k">COUNT</span><span class="p">(</span><span class="n">score_decile</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="k">count</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="k">SELECT</span><span class="w"></span>
+<span class="w">        </span><span class="o">*</span><span class="p">,</span><span class="w"></span>
+<span class="w">        </span><span class="k">CASE</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">10</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;0-9&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">9</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">20</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;10-19&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">19</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">30</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;20-29&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">29</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">40</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;30-39&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">39</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">50</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;40-49&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">49</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">60</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;50-59&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">59</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">70</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;60-69&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">69</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">80</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;70-79&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">79</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">90</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;80-89&#39;</span><span class="w"></span>
+<span class="w">            </span><span class="k">WHEN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">89</span><span class="w"> </span><span class="k">THEN</span><span class="w"> </span><span class="s1">&#39;90-100&#39;</span><span class="w"></span>
+<span class="w">        </span><span class="k">END</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">score_decile</span><span class="w"></span>
+<span class="w">    </span><span class="k">FROM</span><span class="w"> </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
+<span class="p">)</span><span class="w"></span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">score_decile</span><span class="w"></span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">score_decile</span><span class="w"></span>
+</code></pre></div>
 
 <p>A quick trick is to <code>ROUND</code> with <code>-1</code> to approximate deciles if score is in the range from 0-100. This is not exact as your buckets will be <code>0-5</code>, <code>6-15</code>...<code>86-95</code>, <code>96-100</code> so the first and last buckets will be small, but if you are just comparing between two distributions and care less about the absolute distribution, this may be an easy trick.</p>
 
-<p><code>SQL
-SELECT 
-    score_decile_approx, 
-    COUNT(score_decile_approx) AS count
-FROM (
-    SELECT
-        *,
-        ROUND(score, -1) AS score_decile_approx
-    FROM database.table
-)
-GROUP BY score_decile_approx
-ORDER BY score_decile_approx
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">score_decile_approx</span><span class="p">,</span><span class="w"> </span>
+<span class="w">    </span><span class="k">COUNT</span><span class="p">(</span><span class="n">score_decile_approx</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="k">count</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="k">SELECT</span><span class="w"></span>
+<span class="w">        </span><span class="o">*</span><span class="p">,</span><span class="w"></span>
+<span class="w">        </span><span class="n">ROUND</span><span class="p">(</span><span class="n">score</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">score_decile_approx</span><span class="w"></span>
+<span class="w">    </span><span class="k">FROM</span><span class="w"> </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
+<span class="p">)</span><span class="w"></span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">score_decile_approx</span><span class="w"></span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">score_decile_approx</span><span class="w"></span>
+</code></pre></div>
 
 <p>Finally, we may want the <em>rate</em> rather than the count, which we can get with the <code>RATIO_TO_REPORT(count) OVER () AS rate</code> command. This gives <code>rate</code> for each row as a fraction of the sum of count <code>count</code> column.</p>
 
-<p>```SQL<br />
-SELECT<br />
-    score<em>decile</em>approx,<br />
-    COUNT(score<em>decile</em>approx) AS count,<br />
-    RATIO<em>TO</em>REPORT(count) OVER () AS rate<br />
-FROM (<br />
-    SELECT<br />
-        *,<br />
-        ROUND(unmapped<em>score, -1) AS score</em>decile_approx<br />
-    FROM database.table</p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">score_decile_approx</span><span class="p">,</span><span class="w"> </span>
+<span class="w">    </span><span class="k">COUNT</span><span class="p">(</span><span class="n">score_decile_approx</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="k">count</span><span class="p">,</span><span class="w"></span>
+<span class="w">    </span><span class="n">RATIO_TO_REPORT</span><span class="p">(</span><span class="k">count</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">rate</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="k">SELECT</span><span class="w"></span>
+<span class="w">        </span><span class="o">*</span><span class="p">,</span><span class="w"></span>
+<span class="w">        </span><span class="n">ROUND</span><span class="p">(</span><span class="n">unmapped_score</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">score_decile_approx</span><span class="w"></span>
+<span class="w">    </span><span class="k">FROM</span><span class="w"> </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
 
-<p>)<br />
-GROUP BY score<em>decile</em>approx<br />
-ORDER BY score<em>decile</em>approx<br />
-```</p>
+<span class="p">)</span><span class="w"></span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">score_decile_approx</span><span class="w"></span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">score_decile_approx</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="ratio-over-groupby">Ratio over groupby</h3>
 
 <p>Above we use the <code>RATIO_TO_REPORT</code> command to get a ratio rather than count. If we want a time series showing percent, and it is groupe by time (week, month, etc.), this is how you get a rate for each group rather than the whole table:</p>
 
-<p><code>SQL
-    RATIO_TO_REPORT(account_count) OVER(PARTITION BY DATE_TRUNC('month', account_timestamp))
-</code><br />
-or</p>
+<div class="codehilite"><pre><span></span><code><span class="w">    </span><span class="n">RATIO_TO_REPORT</span><span class="p">(</span><span class="n">account_count</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="p">(</span><span class="n">PARTITION</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;month&#39;</span><span class="p">,</span><span class="w"> </span><span class="n">account_timestamp</span><span class="p">))</span><span class="w"></span>
+</code></pre></div>
 
-<p><code>SQL
-    DATE_TRUNC('quarter', account_timestamp) AS x,
-    RATIO_TO_REPORT(account_count) OVER(PARTITION BY x)
-</code></p>
+<p>or</p>
+
+<div class="codehilite"><pre><span></span><code><span class="w">    </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;quarter&#39;</span><span class="p">,</span><span class="w"> </span><span class="n">account_timestamp</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"></span>
+<span class="w">    </span><span class="n">RATIO_TO_REPORT</span><span class="p">(</span><span class="n">account_count</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="p">(</span><span class="n">PARTITION</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">x</span><span class="p">)</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="number-of-items-and-most-recent-in-table">Number of items and most recent in table</h3>
 
-<p><code>SQL
-SELECT 
-    COUNT(*), 
-    MAX(created_at) 
-FROM 
-    database.table
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="k">COUNT</span><span class="p">(</span><span class="o">*</span><span class="p">),</span><span class="w"> </span>
+<span class="w">    </span><span class="k">MAX</span><span class="p">(</span><span class="n">created_at</span><span class="p">)</span><span class="w"> </span>
+<span class="k">FROM</span><span class="w"> </span>
+<span class="w">    </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="rolling-mean">Rolling Mean</h3>
 
-<p><code>SQL
-SELECT 
-    DATE_TRUNC('day', profile_timestamp) AS x,
-    COUNT(DISTINCT account_id) AS new_user_count,
-    AVG(new_user_count) OVER (ORDER BY x ROWS BETWEEN 4 PRECEDING AND CURRENT ROW) AS count_rolling
-FROM 
-    database.table
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;day&#39;</span><span class="p">,</span><span class="w"> </span><span class="n">profile_timestamp</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"></span>
+<span class="w">    </span><span class="k">COUNT</span><span class="p">(</span><span class="k">DISTINCT</span><span class="w"> </span><span class="n">account_id</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">new_user_count</span><span class="p">,</span><span class="w"></span>
+<span class="w">    </span><span class="k">AVG</span><span class="p">(</span><span class="n">new_user_count</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="w"> </span><span class="p">(</span><span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="k">ROWS</span><span class="w"> </span><span class="k">BETWEEN</span><span class="w"> </span><span class="mi">4</span><span class="w"> </span><span class="n">PRECEDING</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="k">CURRENT</span><span class="w"> </span><span class="k">ROW</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">count_rolling</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span>
+<span class="w">    </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="percent-change">Percent Change</h3>
 
 <p>Display the <code>%</code> symbol:</p>
 
-<p><code>SQL
-    CONCAT(ROUND((edw_PLE_months_30_4 - edw_PLE_months_30) / edw_PLE_months_30 * 100, 2),'\%') AS percent_diff
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="w">    </span><span class="n">CONCAT</span><span class="p">(</span><span class="n">ROUND</span><span class="p">((</span><span class="n">edw_PLE_months_30_4</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">edw_PLE_months_30</span><span class="p">)</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">edw_PLE_months_30</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">100</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">),</span><span class="s1">&#39;\%&#39;</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">percent_diff</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="percent-of-total">Percent of Total</h3>
 
-<p><code>SQL
-earned_premium/SUM(earned_premium) OVER () as percent_of_total
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="n">earned_premium</span><span class="o">/</span><span class="k">SUM</span><span class="p">(</span><span class="n">earned_premium</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">percent_of_total</span><span class="w"></span>
+</code></pre></div>
 
 <p>or</p>
 
-<p><code>SQL
-RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="n">RATIO_TO_REPORT</span><span class="p">(</span><span class="n">earned_premium</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">percent_of_total</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="optimize-query">Optimize Query</h3>
 
@@ -334,96 +320,94 @@ RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 
 <h3 id="most-recent-month-end-date">Most Recent Month-End Date</h3>
 
-<p><code>SQL
-SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="n">DATEADD</span><span class="p">(</span><span class="k">DAY</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;month&#39;</span><span class="p">,</span><span class="w"> </span><span class="k">CURRENT_DATE</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">1</span><span class="p">))</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">most_recent_month_end_date</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="creatingupdating-tables">Creating/Updating Tables</h3>
 
-<p>Create table:<br />
-<code>SQL
--- create table
-DROP TABLE IF EXISTS schema.table;
-CREATE TABLE schema.table
-    AS (
-        SELECT * FROM table
-    );
-</code></p>
+<p>Create table:</p>
 
-<p>Update table:<br />
-```SQL<br />
-DELETE<br />
-FROM table<br />
-WHERE source = 'a';</p>
+<div class="codehilite"><pre><span></span><code><span class="c1">-- create table</span>
+<span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="p">;</span><span class="w"></span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
+<span class="w">    </span><span class="k">AS</span><span class="w"> </span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
+<span class="w">    </span><span class="p">);</span><span class="w"></span>
+</code></pre></div>
 
-<p>INSERT INTO table<br />
-SELECT * FROM source_table<br />
-```</p>
+<p>Update table:</p>
 
-<p>Grant usage:<br />
-```SQL<br />
-GRANT USAGE ON SCHEMA <name> TO user;<br />
-GRANT SELECT ON ALL TABLES IN SCHEMA <name TO user;</p>
+<div class="codehilite"><pre><span></span><code><span class="k">DELETE</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
+<span class="k">WHERE</span><span class="w"> </span><span class="k">source</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;a&#39;</span><span class="p">;</span><span class="w"></span>
 
-<p>GRANT USAGE ON SCHEMA <name> TO GROUP readonly;<br />
-GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;<br />
-```</p>
+<span class="k">INSERT</span><span class="w"> </span><span class="k">INTO</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
+<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">source_table</span><span class="w"></span>
+</code></pre></div>
+
+<p>Grant usage:</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">user</span><span class="p">;</span><span class="w"></span>
+<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">user</span><span class="p">;</span><span class="w"></span>
+
+<span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
+<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="view-tables-in-schema">View Tables in Schema</h3>
 
-<p><code>SQL
--- view tables in schema
-SELECT t.table_name
-FROM information_schema.tables t
-WHERE t.table_schema = 'schema' -- put schema name here
-    AND t.table_type = 'BASE TABLE'
-ORDER BY t.table_name;
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="c1">-- view tables in schema</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">tables</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">WHERE</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;schema&#39;</span><span class="w"> </span><span class="c1">-- put schema name here</span>
+<span class="w">    </span><span class="k">AND</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;BASE TABLE&#39;</span><span class="w"></span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="p">;</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="lag-offset-column-by-n-rows">Lag (Offset column by n rows)</h3>
 
-<p><code>sql
-SELECT
-    col
-    LAG(col, 1) OVER (ORDER BY calendar_month ASC) AS col_lag_7
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"></span>
+<span class="w">    </span><span class="n">col</span><span class="w"></span>
+<span class="w">    </span><span class="n">LAG</span><span class="p">(</span><span class="n">col</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">)</span><span class="w"> </span><span class="n">OVER</span><span class="w"> </span><span class="p">(</span><span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">calendar_month</span><span class="w"> </span><span class="k">ASC</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">col_lag_7</span><span class="w"></span>
+</code></pre></div>
 
 <h2 id="dates">Dates</h2>
 
 <h3 id="last-7-days-of-data">Last 7 days of data</h3>
 
-<p><code>SQL
-SELECT 
-    *
-FROM 
-    database.table t
-WHERE
-    t.created_at &gt; GETDATE() - INTERVAL '7 days'
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span>
+<span class="w">    </span><span class="o">*</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span>
+<span class="w">    </span><span class="k">database</span><span class="p">.</span><span class="k">table</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">WHERE</span><span class="w"></span>
+<span class="w">    </span><span class="n">t</span><span class="p">.</span><span class="n">created_at</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">GETDATE</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="nb">INTERVAL</span><span class="w"> </span><span class="s1">&#39;7 days&#39;</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="date_trunc">DATE_TRUNC</h3>
 
 <p>To transform a timestamp into weekly or daily etc. data use <code>DATE_TRUNC()</code>. Available <code>datepart</code>s are listed <a target="_blank" href="http://www.postgresqltutorial.com/postgresql-date_trunc/">here</a>.</p>
 
-<p><code>SQL
-SELECT
-    DATE_TRUNC('day', timestamp) AS day
-</code><br />
-or<br />
-<code>SQL
-SELECT
-    DATE_TRUNC('week', timestamp) AS week
-</code><br />
-or<br />
-<code>SQL
-SELECT
-    DATE_TRUNC('month', timestamp) AS month
-</code><br />
-or<br />
-<code>SQL
-SELECT
-    DATE_TRUNC('quarter', timestamp) AS quarter
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"></span>
+<span class="w">    </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;day&#39;</span><span class="p">,</span><span class="w"> </span><span class="k">timestamp</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="k">day</span><span class="w"></span>
+</code></pre></div>
+
+<p>or </p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"></span>
+<span class="w">    </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;week&#39;</span><span class="p">,</span><span class="w"> </span><span class="k">timestamp</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">week</span><span class="w"></span>
+</code></pre></div>
+
+<p>or</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"></span>
+<span class="w">    </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;month&#39;</span><span class="p">,</span><span class="w"> </span><span class="k">timestamp</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="k">month</span><span class="w"></span>
+</code></pre></div>
+
+<p>or</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"></span>
+<span class="w">    </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;quarter&#39;</span><span class="p">,</span><span class="w"> </span><span class="k">timestamp</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">quarter</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="get-month-offset-from-current-date-also-end-of-month">Get month offset from current date (also end of month)</h3>
 
@@ -433,26 +417,23 @@ SELECT
 <li><code>LAST_DAY</code> to get last day of month</li>
 </ul>
 
-<p><code>SQL
-policy_inception_month = LAST_DAY(DATEADD(MM,-6, CURRENT_DATE))
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="n">policy_inception_month</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LAST_DAY</span><span class="p">(</span><span class="n">DATEADD</span><span class="p">(</span><span class="n">MM</span><span class="p">,</span><span class="o">-</span><span class="mi">6</span><span class="p">,</span><span class="w"> </span><span class="k">CURRENT_DATE</span><span class="p">))</span><span class="w"></span>
+</code></pre></div>
 
 <p><em>or</em></p>
 
-<p><code>SQL
-WHERE prediction_date = LAST_DAY(DATE_ADD('month', -1, CURRENT_DATE))
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">WHERE</span><span class="w"> </span><span class="n">prediction_date</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LAST_DAY</span><span class="p">(</span><span class="n">DATE_ADD</span><span class="p">(</span><span class="s1">&#39;month&#39;</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="k">CURRENT_DATE</span><span class="p">))</span><span class="w"></span>
+</code></pre></div>
 
 <h3 id="current-date">Current Date</h3>
 
-<p><code>sql
-SELECT LEFT(GETDATE(),10)
-</code></p>
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="k">LEFT</span><span class="p">(</span><span class="n">GETDATE</span><span class="p">(),</span><span class="mi">10</span><span class="p">)</span><span class="w"></span>
+</code></pre></div>
 
 <hr />
 
-<p>Created: 2019-06-25<br />
-Updated: 2022-02-13</p>
+<p>Created: <text style="background-color: whitesmoke; color: #23537d;">2019-06-25-Tue</text><br />
+Updated: 2022-02-16-Wed</p>
 
 
 </div>

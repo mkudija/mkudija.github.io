@@ -118,8 +118,8 @@ Decisions: Defined papal infallibility and primacy; condemned errors regarding t
 Decisions: Issued pastoral documents on the renewal and reform of the Church, intending the make the Church more effective in dealing with the contemporary world.
 
 
----
 *[Source](https://www.catholic.com/magazine/print-edition/the-21-ecumenical-councils)*
 
-Created: 2022-02-06
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+---
+Created: [[2022-02-06-Sun]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

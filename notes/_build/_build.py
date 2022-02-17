@@ -74,14 +74,15 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace(']]','</text>')
     
     # replace "updated"
-    updated_at = time.strftime('%Y-%m-%d', time.localtime(os.path.getmtime(pathSource)))
-    mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at)
+    updated_at = time.strftime('%Y-%m-%d-%a', time.localtime(os.path.getmtime(pathSource))) # https://strftime.org/
+    mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at) # old version, can remove eventually
+    mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
 
     # replace "publish"
     mdString = mdString.replace('---\npublish: true\n---','')
 
 
-    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
+    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
 
     template[template.index('#BODY#')] = body

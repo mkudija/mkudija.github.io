@@ -2,7 +2,7 @@
 # [*The Abolition of Man*](https://www.harpercollins.com/products/the-abolition-of-man-c-s-lewis) by [[C. S. Lewis]]
 *or Reflections on Education with Special Reference to the Teaching of English in the Upper Forms of Schools, or a Defense of Objective Truth and Natural Law against Moral Relativism*
 
-<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780060652944_b6f9ccf1-790f-4dc1-9ca5-1272679be81a.jpg?v=1640981719" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780060652944.jpg" width=150>
 
 `(City: HarperCollins, 1943), 128`
 
@@ -49,9 +49,8 @@ _**Summary**: Lewis illustrates the "Abolition of Man"  as the logical end of a 
 
 
 --- 
-**Source**: FT Thomist, Dan G.
+**Source**: [[Dan Gibson]], FT Thomist
 
 ---
-Created: 2022-01-01
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-01-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

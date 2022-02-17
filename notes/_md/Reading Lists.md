@@ -8,3 +8,7 @@ publish: true
 *How to Read a Book* by Mortimer Adler
 
 [[Kid's Books]]
+
+
+Schools with reading lists
+- [The Lyceum – Academics | The Lyceum Reading List](https://www.thelyceum.org/reading-list.html)

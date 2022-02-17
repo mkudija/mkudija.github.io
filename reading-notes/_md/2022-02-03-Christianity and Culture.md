@@ -38,6 +38,5 @@ Lewis, C. S. (1940). Christianity and Culture. *Theology*, 40(237), 166–179. [
 - ***Sehnsucht***: German word meaning longing, specifically longing for some unknown joy
 
 ---
-Created: 2022-02-03
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-02-03-Thu]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

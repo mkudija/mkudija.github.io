@@ -1,5 +1,5 @@
 
-# The Chronicles of Narnia by C.S. Lewis
+# *The Chronicles of Narnia* by [[C. S. Lewis]]
 The Magician's Nephew
 
 * "Digory was the sort of person who wants to know everything." (39)

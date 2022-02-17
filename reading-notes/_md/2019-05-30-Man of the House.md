@@ -1,7 +1,7 @@
 
-# [*Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart*](https://www.amazon.com/Man-House-Handbook-Building-Shelter/dp/1532614772) by C. R. Wiley
+# [*Man of the House: A Handbook for Building a Shelter That Will Last in a World That Is Falling Apart*](https://wipfandstock.com/9781532614774/man-of-the-house/) by C. R. Wiley
 
-<img src="https://m.media-amazon.com/images/I/61vG2b3fZNL._AC_UY436_FMwebp_QL65_.jpg" width=150>
+<img src="https://wipf-stock-us.imgix.net/covers/9781532614774.jpg?auto=format&w=298&dpr=2&q=20" width=150>
 
 `(Eugene: Resource, 2017), 139`
 
@@ -76,16 +76,16 @@
 
 **Bibliography**
 
-- *Nichomachean Ethics*
+- *[[~Nicomachean Ethics]]*
 - *Biblical and Theological Foundations of the Family*
-- Wendell Berry
-- *Shop Class as Soulcraft*
+- [[Wendell Berry]]
+- *[[2018-09-01-Shop Class as Soulcraft]]*
 - *The Household: Informal Order Around the Hearth*
 - *[[~Brave New World]]*
 - *Tribe*
-- *The Abolition of Man*
+- *[[2022-01-01-The Abolition of Man]]*
 - *[[2020-11-18-After Virtue|After Virtue]]*
-- *Leisure: The Basis of Culture*
+- *Leisure: The Basis of Culture* 
 - *Small is Beautiful*
 - *[[~The Lord of the Rings]]*
 

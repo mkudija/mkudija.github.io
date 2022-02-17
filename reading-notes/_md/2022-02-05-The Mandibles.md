@@ -37,6 +37,5 @@
 **Source**: *[[2022-01-22-Aftermath]]*
 
 ---
-Created: 2022-02-05
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-02-05-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

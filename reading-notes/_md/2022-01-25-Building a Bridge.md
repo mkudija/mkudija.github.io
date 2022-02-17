@@ -40,6 +40,5 @@ Chastity and homosexuality from the *[[~Catechism of the Catholic Church]]*:
 >**2359** Homosexual persons are called to chastity. By the virtues of self-mastery that teach them their inner freedom, at times by the support of disinterested friendship, by prayer and sacramental grace, they can and should gradually and resolutely approach Christian perfection.
  
 ---
-Created: 2022-01-27
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-27-Thu]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

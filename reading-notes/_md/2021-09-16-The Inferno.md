@@ -7,9 +7,6 @@
 
 `(New York: Anchor/Penguin, 1320/2000), 694`
 
-I read the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](https://100daysofdante.com/).
-
-
 ### Inferno Canto 1 - *Prologue*
 
 > Midway in the journey of our life
@@ -204,7 +201,7 @@ Epicurus: virtue was to be practiced because it led to happiness (the [[Stoic]]s
 > are lower down, assailed by greater pain
 > –*Inferno* Canto 11. 22-27
 
-[[2021-10-16 Usury]]:
+[[2021-10-16 Question on Usury]]:
 > That human toil, as far as it is able,
 > follows nature, as the pupil does his master,
 > so that it is God's grandchild, as it were.
@@ -288,7 +285,7 @@ St. Jerome's comment on [[Ps-08]]: "Judas offended God more greatly by hanging h
 > –*Inferno* Canto 16. 124-126
 
 
-### Inferno Canto 17 - *[[2021-10-16 Usury]]*
+### Inferno Canto 17 - *[[2021-10-16 Question on Usury]]*
 > Behold the one whose stench afflicts the world!
 > –*Inferno* Canto 17. 3
 
@@ -514,6 +511,8 @@ Satan:
 
 ---
 
+**Source:** [100 Days of Dante](https://100daysofdante.com/)
+
 **New Words**
 
 - **Caduceus**: the staff carried by Hermes in Greek mythology (9. 82-83)
@@ -521,5 +520,5 @@ Satan:
 - **Poultice**: also called a cataplasm, is a paste made of herbs, plants, and other substances with healing properties (437)
 
 ---
-Created: 2021-09-16
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-09-16-Thu]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

@@ -10,6 +10,5 @@
 ?: unbelievable cf black swans
 
 ---
-Created: 2022-01-22
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-22-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

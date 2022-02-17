@@ -31,6 +31,15 @@ code {
     padding: .1rem .3rem .2rem;
 }
 
+pre {
+    color: #777;
+    font-family: monospace;
+    font-size: 14px;
+    background: whitesmoke;
+    border-radius: .2rem;
+    padding: .1rem .3rem .2rem;
+}
+
 a {
     color:#3377b3;
     text-decoration: none;

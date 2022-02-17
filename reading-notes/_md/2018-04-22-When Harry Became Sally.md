@@ -1,4 +1,4 @@
-# *[When Harry Became Sally](https://www.encounterbooks.com/books/when-harry-became-sally-paperback/)* by Ryan T. Anderson
+# *[When Harry Became Sally](https://www.encounterbooks.com/books/when-harry-became-sally-paperback/)* by [[Ryan T. Anderson]]
 
 <img src="https://www.encounterbooks.com/wp-content/uploads/2019/02/When-Harry-Became-Sally_lowres-310x460.jpg" width=150>
 
@@ -80,9 +80,11 @@ The introduction describes what each chapter covers, and provides a good summary
 - 180-181: key point is that neuroplasticity means that allowing social transition only reaffirms dysphoria and prevents the likely natural return to identifying with actual gender 
 
 --- 
-**Source/Topic**: [[Transgender]]
+**Topic**: [[Transgender]]
 
 
 ---
 Created: 2018-04-22
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+
+

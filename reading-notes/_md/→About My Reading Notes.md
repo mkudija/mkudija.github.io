@@ -47,5 +47,5 @@ To publish my notes from Obsidian to my website, [this script](https://github.co
 - [The Fractal-Summary Method: How to Read Great Books](https://johnathanbi.com/essays/fractal-summary-method)
 
 ---
-Created: 2021-09-02
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-09-02-Thu]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

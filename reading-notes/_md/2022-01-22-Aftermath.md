@@ -126,6 +126,5 @@ Shiver ends *The Mandibles* with a revelation by the then oldest member of the f
 
 
 ---
-Created: 2022-01-22
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-22-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

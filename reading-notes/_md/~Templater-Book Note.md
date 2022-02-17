@@ -164,6 +164,8 @@ _**Summary**: _
 _**Summary**: _
 
 --- 
+**Topic**: 
+
 **Source**: 
 
 **Bibliography**
@@ -175,6 +177,5 @@ _**Summary**: _
 - 
 
 ---
-Created: <% tp.file.creation_date("YYYY-MM-DD") %>
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[<% tp.file.creation_date("YYYY-MM-DD-ddd") %>]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

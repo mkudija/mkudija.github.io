@@ -44,6 +44,5 @@
 
 
 ---
-Created: 2022-01-13
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-13-Thu]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

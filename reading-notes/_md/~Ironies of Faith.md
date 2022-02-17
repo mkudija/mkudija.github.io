@@ -16,7 +16,7 @@
 6. ...
 7. *Confessions* by [[St. Augustine]]
 8. *[[~The Divine Comedy]]* by [[Dante Alighieri]]
-9. *Tempest* by [[William Shakespeare]]
+9. *Tempest* by [[Shakespeare]]
 10. *[[~The Tolkien Reader#Leaf by Niggle]]* by [[J.R.R. Tolkien]]
 
 
@@ -175,6 +175,5 @@ _**Summary**: _
 - 
 
 ---
-Created: 2022-02-12
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-02-12-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

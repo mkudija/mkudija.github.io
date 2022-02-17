@@ -7,10 +7,6 @@
 
 `(New York: Anchor/Penguin, 1320/2003), 759`
 
-I read the *[[~The Divine Comedy]]* as part of the [100 Days of Dante](https://100daysofdante.com/).
-
-
-
 ### Purgatorio Canto 1
 > To run its course through smoother water
 > the small bark of my wit now hoists its sail,
@@ -257,51 +253,124 @@ Road to Emmaus [[Lk-24#v13]]:
 > –*Purgatorio* Canto 22. 73
 
 ### Purgatorio Canto 23
-> 
-> –*Purgatorio* Canto 23. x-x
+> For the time we are allowed
+> should be apportioned to a better use
+> –*Purgatorio* Canto 23. 5-6
+<br><br>
+> All these people who weep while they are singing
+> followed their appetites beyond all measure,
+> and here regain, in thirst and hunger, holiness.
+> –*Purgatorio* Canto 23. 64-66
+<br><br>
+> With the blood from His Own veins He made us free
+> –*Purgatorio* Canto 23. 75
 
 ### Purgatorio Canto 24
-> 
-> –*Purgatorio* Canto 24. x-x
+
+cf. [[Rom-06#v23]]:
+> Hearing sins of gluttony
+> that long ago received their wretched wages.
+> –*Purgatorio* Canto 24. 128-129
+<br><br>
+> Blessed are they
+> whom grace so much enlightens that appetite
+> fills not their breasts with gross desires,
+> but leaves them hungering for what is just.
+> –*Purgatorio* Canto 24. 151-154
 
 ### Purgatorio Canto 25
-> 
-> –*Purgatorio* Canto 25. x-x
+> Then they again began to sing,
+> calling on wives and husbands who were chaste,
+> even as virtue and matrimony urge.
+> –*Purgatorio* Canto 25. 133-135
 
 ### Purgatorio Canto 26
-> 
-> –*Purgatorio* Canto 26. x-x
+> Blessed are you, who, to die a better death,
+> there take on board the knowledge that you gain.
+> –*Purgatorio* Canto 26. 74-75
 
 ### Purgatorio Canto 27
-> 
-> –*Purgatorio* Canto 27. x-x
+Having lost the obscuring mantle of sin (614):
+> Only a small space could be seen beyond them,
+> but in that space I saw the stars
+> bigger and brighter than usually they are.
+> –*Purgatorio* Canto 27. 88-90
+<br><br>
+> Desire upon desire so seized me to ascend
+> that with every step
+> I felt that I was growing wings for flight.
+> –*Purgatorio* Canto 27. 121-123
 
 ### Purgatorio Canto 28
 *Reason (Virgil) leads to Wisdom (here), leads to Revelation (Beatrice)*
-> 
-> –*Purgatorio* Canto 28. x-x
+
+> And you should know the holy ground
+> on which you stand is filled with every kind of seed
+> and gives forth fruit that is not plucked on earth.
+> –*Purgatorio* Canto 28. 118-120
 
 ### Purgatorio Canto 29
-> 
-> –*Purgatorio* Canto 29. x-x
+The church triumphant:
+> Then I saw people, clad in white, who followed,
+> as though led by the lights, their garments
+> of a whiteness never seen on earth.
+> –*Purgatorio* Canto 29. 64-66
 
 ### Purgatorio Canto 30
-> 
-> –*Purgatorio* Canto 30. x-x
+> As quickly as from their graves at the last trumpet
+> the blessèd shall arise, their voices
+> rejoined to flesh in joyous Hallelujahs
+> –*Purgatorio* Canto 30. 13-15
 
-### Purgatorio Canto 31
-> 
-> –*Purgatorio* Canto 31. x-x
+### Purgatorio Canto 31 (★)
+[[Confession]]:
+> But when a man's own blushing cheek reveals
+> the condemnation of his sin, in our high court
+> the grindstone dulls the sharp edge of the sword
+> –*Purgatorio* Canto 31. 40-42
+
+<br><br>
+cf. [[Ps-51]] *Asperges me*:
+> The nettle of remorse so stung me then
+> that whatever else ha lured me most to loving
+> had now become for me most hateful
+> <br>
+> Such knowledge of my fault was gnawing at my heart
+> that I was overcome, and what I then became
+> she knows who was the reason for my state.
+> <br>
+> Then, when my heart restored my vital signs,
+> I saw the lady i first found alone above me,
+> saying: 'Hold on to me and hold me fast!'
+> –*Purgatorio* Canto 31. 85-93
 
 ### Purgatorio Canto 32
-> 
-> –*Purgatorio* Canto 32. x-x
+> As, when brought to see the blossoms on the apple-tree
+> that makes the angels hungry for its fruit
+> and celebrates perpetual marriage-feasts in Heaven.
+> –*Purgatorio* Canto 32. 73-75
 
 ### Purgatorio Canto 33
-> 
-> –*Purgatorio* Canto 33. x-x
+> My lady, You know what I lack
+> and exactly how You may provide it.
+> –*Purgatorio* Canto 33. 29-30
+
+<br><br>
+> see that your way is as far from God's 
+> as that highest heaven, which spins the fastest,
+> is distant from the earth
+> –*Purgatorio* Canto 33. 88-90
+
+<br><br>
+> From those most holy waters
+> I came away remade, as are new plants
+> renewed with new-sprung leaves,
+> pure and prepared to rise up to the stars.
+> –*Purgatorio* Canto 33. 142-145
 
 ---
+
+**Source:** [100 Days of Dante](https://100daysofdante.com/)
 
 **New Words**
 
@@ -311,5 +380,5 @@ Road to Emmaus [[Lk-24#v13]]:
 - **Geomancy**: the art of placing or arranging buildings or other sites auspiciously (*Purgatorio* Canto 19. 4)
 
 ---
-Created: 2021-11-26
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-11-26-Fri]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

@@ -130,7 +130,7 @@ _**Summary**: _
 
 
 
-## Chapter 12: The Big Cycle Rise of China and the Renminbi
+## Chapter 12: The Big Cycle Rise of [[China]] and the Renminbi
 _**Summary**: _
 
 
@@ -817,6 +817,5 @@ _**Summary**: _
 - 
 
 ---
-Created: 2022-01-04
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-04-Tue]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

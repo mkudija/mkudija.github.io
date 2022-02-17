@@ -1,6 +1,6 @@
-# [*The History of the Catholic Church: From the Apostolic Age to the Third Millennium*](https://www.ignatius.com/History-of-the-Catholic-Church-P1044.aspx) by James Hitchcock
+# [*The History of the Catholic Church: From the Apostolic Age to the Third Millennium*](https://www.ignatius.com/History-of-the-Catholic-Church-P1044.aspx) by [[James Hitchcock]]
 
-<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fHCCH.jpg&maintainAspectRatio=true" width=150>
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1090/1313/HCCH_r__85639.1617023639.jpg" width=150>
 
 `(San Francisco: Ignatius, 2012), 530`
 

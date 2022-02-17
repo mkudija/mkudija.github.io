@@ -4,8 +4,15 @@
 <img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/Ethics%20of%20Money%20Production_Hulsmann.jpg?itok=-VGAY-ep" width=150>
 
 `(Auburn: Mises Institute, 2008), 256`
+Notes: ■■□□□□□□□□ 20%
+Reflection: ■□□□□□□□□□ 10%
 
 [PDF: The Ethics of Money Production](https://cdn.mises.org/The%20Ethics%20of%20Money%20Production_2.pdf)
+
+
+<details>
+<summary>add to this</summary>
+
 
 write notes:
 - We need re-train ourselves about what money even *is*: tangible commodity value. We can perform all daily activities without ever touching money (or even cash which is fiat paper). Work, numbers show up on the screen, buy things and numbers get smaller and things show up at the door.
@@ -23,8 +30,10 @@ write notes:
 
 ### Bitcoin
 - his objections to bitcoin
-	- A money commodity "must be desired for its nonmonetary services (for its own sake)"
+	- A money commodity "must be desired for its nonmonetary services (for its own sake)" -> see notes below
 	- Do contracts/other attributes of the blockchain give bitcoin intrinsic (though not physical) value?
+
+</details>
 
 # Notes
 
@@ -79,28 +88,54 @@ _**Summary**: Money is everywhere in our lives but is not usually given a proper
 # Part 1: The Natural Production of Money
 
 ## Chapter 1: Monies
-_**Summary**: _
+_**Summary**: Money arises out of the need for a medium of exchange to allow for further division of labor. **Natural Monies** are monies freely chosen when property rights are respected and have intrinsic commodity value prior to monetary usage. **Credit Money** is an IOU for a commodity, while **Paper Money** is forced money without commodity value that has never emerged without coercion or the abuse of property rights._
 - Money is a partial solution to the challenges of barter
 - The **[[Law of Comparative Advantage|Law of Association]]** is the fundamental law of production: joint production yields greater return than isolated production, thus always drawing humans together
 - Commodities with intrinsic value became money for indirect exchange, allowing the division of labor to grow
-- **Money:** a medium of exchange that is *generally accepted* in society. This acceptance comes by virtue of objective physical characteristics and has historically been dominated by the precious metals for their *scarcity, durability, divisibility, distinct look and sound, homogeneity through space and time, malleability, and beauty*
-- A money commodity "must be desired for its nonmonetary services (for its own sake)"
-- 
+- **Money:** a medium of exchange that is *generally accepted* in society. 
+	- This acceptance comes by virtue of objective physical characteristics and has historically been dominated by the precious metals for their *scarcity, durability, divisibility, distinct look and sound, homogeneity through space and time, malleability, and beauty*
+	- **Indirect Exchange** using a **medium of exchange** (money) extends the division of labor
+	- A money commodity "must be desired for its nonmonetary services (for its own sake)". There must be an established price for the commodity arising from its nonmonetary use allowing for an assessment of the future price. Monetary use will increase the demand for the commodity and add a monetary component to the price.
+- **Natural Monies** are monies freely chosen when property rights are respected
+	- Natural money is: 1) valuable *prior* to its monetary use, and 2) physically suitable as a medium of exchange
+	- Property rights are fundamental, and the Christian tradition distinguishes between the *right* to own property and the *moral* obligation to make good use of it (cf. *[[2021-08-12-Summa Theologiae]]* IIa-IIae, q. lxvi, art. 2)
+	- Silver has been the most chosen natural money historically (for everyday payments), along with gold (for larger purchases) and copper (for very small transactions) (46)
+- **Credit Money** is an IOU for a commodity, deriving its value from an expected future redemption into some commodity
+- **Paper Money** is forced money without commodity value, and desired because it is 1) cheaper to produce, 2) easily inflated, and 3) simple to change units
+	- In no period of human history has paper money spontaneously emerged on the free market, and was not even considered a possibility before the eighteenth century
+- **Electronic Money**: "no such money has been produced" (when written in 2008)
 
 
 ## Chapter 2: Money Certificates
-_**Summary**: _
+_**Summary**: Coins are certificates integrated with money and produced by minters, providing ease (and value) beyond bullion. Paper notes redeemable for physical money are disconnected certificates and not typically adopted naturally because of the opportunity for abuse. Both forms of certificates are safeguarded by competition._
+- **Certificate**: A written testimony to the truth of any fact, or a written declaration legally authenticated.
+- *Coins* are **Certificates Physically Integrated with Money**: precious metal with an imprint that certifies its weight
+	- The value depends on the trustworthiness of the certifier/minter, and a trustworthy coin adds value to the bullion weight
+	- Minters could offer an insurance service to trade a used coin for a new one
+	- Competition also helps secure the trustworthiness of minters
+- *Paper notes redeemable for physical money* are **Certificates Physically Disconnected from Money** and feature:
+	- *Intermediation* where a third party holds the money
+	- *Titles* (legal title) is provided to the bearer of the certificate for that amount of money
+	- *Reserves* of real money held
+	- These provide the advantage of lower costs, but come at the expense of abuses (especially in the holding of reserves) which is virtually inevitable
 
 
 
 ## Chapter 3: Money within the Market Process
-_**Summary**: _
-- Notes on [[2021-10-16 Usury]], footnote 10 on 52
+_**Summary**: Production of money reduces is purchasing power, but this happens over time and unevenly (Cantillon effect). In a free market the production of money is part of the general division of labor and several monies circulate in parallel. Money production redistributes real income from later to earlier owners ("distribution effects"), which is often a source of conflict. Coins need to specify but not be identified by their weight to remove confusion. The use of money/banking is consistent with Christianity (cf. [[Mt-25#v26]]-[[Mt-25#v30]])._
+- Money production causes money prices to increase and its purchasing power to decrease
+	- Scarcity (especially of time) is the basic economic fact of human life
+	- [[Law of Diminishing Marginal Value]]: the relative importance of any unit of an economic good diminishes as we come to control a greater overall supply of the good (43)
+	- These effects are spread out over time: the [[Cantillon effect]]
+- In a free market, the production of money is part of the larger division of labor, and several monies circulate in parallel
+- **Distribution Effect**: money production redistributes real income from later to earlier owners of the new money
+- Notes on [[Usury]], defined as "excessively high interest on money lent" (footnote 10 on 52)
 
 
 ## Chapter 4: Utilitarian Considerations on the Production of Money
-_**Summary**: _
+_**Summary**: ==He rebuts common arguments for paper money...==_
 - proverbs pg 72 footnote
+
 
 # Part 2: [[Inflation]]
 ## Chapter 5: General Considerations on Inflation
@@ -239,6 +274,5 @@ _**Summary**: _
 - **vitiate**: To make vicious, faulty, or imperfect; to render defective; to injure the substance or qualities of; to impair; to contaminate; to spoil; as, exaggeration _vitiates_ a style of writing; sewer gas _vitiates_ the air. (14)
 
 ---
-Created: 2022-01-10
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2022-01-10-Mon]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
