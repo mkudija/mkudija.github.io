@@ -19,7 +19,7 @@
 - "It was when you neither believed in systems, nor employed the tools of systems, that systems broke down for good. Look at what had driven inflation, far more than monetary policy: the self-fulfilling social assumption that that dollar was worthless and would be only ore worthless tomorrow." (285)
 - "Maybe one merit of being in a country at all was its boundaries. They drew a line around what was your business." (332)
 - "Across the nation, Americans' mental and physical health had vastly improved...No one had the money, time, or patience for pathology of any sort." (333-334)
-- "*Hoarding* remained a synonym beloved of bureaucrats for retaining your own assets." (338)
+- "*Hoarding* remained a synonym beloved of bureaucrats for retaining your own assets." (338) ^776a05
 - "What do you make of the proposition that the definition of a truly free society is a place where you can still get away with something?" (339)
 - "Young people want money to buy things...Old people want money for one reason and one reason only: to feel safe." (343)
 - "Policing by propaganda is a *money saver*." (379)

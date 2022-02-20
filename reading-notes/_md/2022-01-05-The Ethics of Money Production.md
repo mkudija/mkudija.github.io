@@ -4,7 +4,7 @@
 <img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/Ethics%20of%20Money%20Production_Hulsmann.jpg?itok=-VGAY-ep" width=150>
 
 `(Auburn: Mises Institute, 2008), 256`
-Notes: ■■□□□□□□□□ 20%
+Notes: ■■■■□□□□□□ 40%
 Reflection: ■□□□□□□□□□ 10%
 
 [PDF: The Ethics of Money Production](https://cdn.mises.org/The%20Ethics%20of%20Money%20Production_2.pdf)
@@ -32,6 +32,7 @@ write notes:
 - his objections to bitcoin
 	- A money commodity "must be desired for its nonmonetary services (for its own sake)" -> see notes below
 	- Do contracts/other attributes of the blockchain give bitcoin intrinsic (though not physical) value?
+	- could not survive in a free market (55)
 
 </details>
 
@@ -99,7 +100,7 @@ _**Summary**: Money arises out of the need for a medium of exchange to allow for
 - **Natural Monies** are monies freely chosen when property rights are respected
 	- Natural money is: 1) valuable *prior* to its monetary use, and 2) physically suitable as a medium of exchange
 	- Property rights are fundamental, and the Christian tradition distinguishes between the *right* to own property and the *moral* obligation to make good use of it (cf. *[[2021-08-12-Summa Theologiae]]* IIa-IIae, q. lxvi, art. 2)
-	- Silver has been the most chosen natural money historically (for everyday payments), along with gold (for larger purchases) and copper (for very small transactions) (46)
+	- [[Silver]] has been the most chosen natural money historically (for everyday payments), along with [[Gold]] (for larger purchases) and copper (for very small transactions) (46, 61)
 - **Credit Money** is an IOU for a commodity, deriving its value from an expected future redemption into some commodity
 - **Paper Money** is forced money without commodity value, and desired because it is 1) cheaper to produce, 2) easily inflated, and 3) simple to change units
 	- In no period of human history has paper money spontaneously emerged on the free market, and was not even considered a possibility before the eighteenth century
@@ -134,33 +135,62 @@ _**Summary**: Production of money reduces is purchasing power, but this happens 
 
 ## Chapter 4: Utilitarian Considerations on the Production of Money
 _**Summary**: ==He rebuts common arguments for paper money...==_
-- proverbs pg 72 footnote
+- [[Plato]] proposed outlawing natural money and imposing fiat money
+- The production of money is best left to the free market. Here are the 7 most common erroneous arguments presented against that proposition in favor of paper money:
+1. **Money Supply**: argue that economic growth is only possible with a growth of the money supply
+	- Any quantity of goods and services can be exchanged with virtually any natural monetary supply
+2. **Hoarding**: argue that the amounts of money held relative to alternative ways of investing one's wealth is excessive (cf. hoarding quote from *[[2022-02-05-The Mandibles#^776a05]]*)
+	- "In times of stock market and real-estate booms, it is generally prudent to keep a large amount of one's wealth in cash." (63)
+	- Hoarding is not a good reason to artificially expand the money supply - the market will correct this
+3. **[[Deflation]]**: argue that deflation causes people to postpone buying and creates a banking crisis (cf. *[[2021-12-01-The Price of Tomorrow]]*)
+	- Historically deflation has had no negative impact on aggregate production
+	- Deflation causes consumption to slow only marginally: resources not consumed are saved and therefore available for investment elsewhere (cf. [[Time preference]])
+	- Deflation entails a redistribution of productive assets from old to new owners, but with a net zero impact on production (similar to how it impacts banks), and results in [[Creative destruction]]
+4. **Sticky prices**: argue that manipulating the money supply can reestablish equilibrium especially in the labor market
+	- Pure fallacy that supposes monetary policy makes can always outsmart labor unions
+5. **Cheap money**: argue that paper money decreases the interest rate and promotes economic growth
+	- Investors seek a *real* return, not just a nominal return
+	- Artificially low interest rates lure investors into investments that cannot be completed (cf. [[Lk-14#v28]])
+6. **Monetary stability**: argue that paper money needed to maintain stable *purchasing power of money (**PPM**)*
+	- Stability in purchasing power is arbitrary since different goods/services move with respect to each other, and tremendous power accrues to the person who controls the algorithm to define purchasing power (cf. [[2021-05-24 Article-I’m Trying To Understand Hedonic Adjustments]])
+	- Economic calculation does not require stable absolute PPM since it makes relative comparisons/decisions
+7. **Costs of commodity money**: argue that paper money costs much less to produce than natural money
+	- The costs of paper money need to include the whole system including the large bureaucracies of central banks and monetary authorities
 
 
-# Part 2: [[Inflation]]
+# Part 2: Inflation
 ## Chapter 5: General Considerations on Inflation
-_**Summary**: _
+_**Summary**: [[Inflation]] is money produced through the violation of property rights._
+- Inflation is money produced beyond that demanded by the free market
+	- most people define it to mean the reduction in purchasing power of money
+- Since the [[Free market]] is social cooperation conditioned by the respect of private property rights, inflation extends the money supply through a violation of property rights
 
 
 
 ## Chapter 6: Private Inflation: Counterfeiting Money
-_**Summary**: _
-- [[Matthew]] quote on 92 footnote
+_**Summary**: Counterfeiting can be accomplished through debasement (less metal in a coin than advertised) or fractional-reserve banking. These are never permissible except in a great emergency when the entire community gives its consent._
+- Governments have always played a larger role in debasement than private citizens
+- Fractional-reserve banking is effectively the counterfeiting of bank notes when the banker is not candid about the nature of their reserves
+- Counterfeiting is usually detected and stopped quickly in the free market because people are vigilant 
+- The money-changers in [[Mt-25#v27]]/[[Lk-19#v23]] were likely fractional-reserve bankers
+- [[Nicholas Oresme]]: the function of [[Inflation]] is to enrich the government at the expense of other people
+- [[Ludwig von Mises]]: [[Inflation]] contradicts the principal of popular sovereignty and the only way to keep the government in check is to control its resources
 
 
 ## Chapter 7: Enter the State: Fiat Inflation through Legal Privileges
-_**Summary**: _
-
+_**Summary**: Governments benefit with increased revenues through inflation, or "institutional usury". Fiat inflation causes fiat deflation of other monies._
+- **Fiat inflation** is inflation caused beyond the normal level by governments, and governments are always the main beneficiaries of inflation
+- *State theory of money:* government has the power to impose money on its citizens, through **legal privileges** granted to fiat monies (legalized falsifications, legal monopolies, legal tender laws, and legalized specialization of payments, dealt with in the next sections)
 
 
 ## Chapter 8: Legalized Falsifications
-_**Summary**: _
-
+_**Summary**: Legalizing falsifications of money (usually after the government has already debased the money) tends to not cause significant disruption because of the markets free ability to adjust (such as by hoarding the old, non-debased coins). However, legalized falsification is the foundation for all other monetary privileges such as legal tender laws._
+- The legalization of false certificates permanently increases the risk of being cheated in monetary exchanges.
 
 
 ## Chapter 9: Legal Monopolies
-_**Summary**: _
-
+_**Summary**: Monopolies create inflation of the favored money and deflation of alternatives, and are especially problematic when paired with legal tender laws. Monopolies are condemned because they are against the 8th commandment and the freedom to associate._
+- make note of commandments
 
 
 ## Chapter 10: Legal-Tender Laws
@@ -209,6 +239,8 @@ _**Summary**: _
 
 
 --- 
+**Topics**: [[Gold]], [[Inflation]], [[Economics]]
+
 **Source**: [[Clark Moody]]
 
 **Bibliography**
@@ -272,6 +304,7 @@ _**Summary**: _
 **New Words**
 
 - **vitiate**: To make vicious, faulty, or imperfect; to render defective; to injure the substance or qualities of; to impair; to contaminate; to spoil; as, exaggeration _vitiates_ a style of writing; sewer gas _vitiates_ the air. (14)
+- **dissimulation**: the act of dissembling; a hiding under a false appearance; concealment by feigning; false pretension; hypocrisy (95)
 
 ---
 Created: [[2022-01-10-Mon]]

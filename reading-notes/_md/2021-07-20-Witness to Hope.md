@@ -377,6 +377,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 
 
 --- 
+**Topics**: [[John Paul II]]
 
 **Bibliography**
 

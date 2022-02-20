@@ -3,7 +3,7 @@
 
 <img src="https://pagetwo.com/content/wp-content/uploads/2019/12/Jeff-Booth_F_FrontCover_FINAL_WEB.jpg" width=150>
 
-`(City: Stanley, 2020), 208`
+`(New York: Stanley, 2020), 208`
 
 Booth's thesis is that technology is deflationary and accelerating exponentially, but our economy is propped up with debt and our governments have turned capitalism into crony capitalism by becoming lenders of last resort. I agree with many of his observation and found his summaries of quantitative easing, creative destruction, cognitive biases, energy, and AI to be interesting even if a bit full of cliché. He does not present a compelling solution, however, apart from a vague plea to embrace deflation and adopt [[Bitcoin]].
 
@@ -61,10 +61,10 @@ _**Summary**: Printing money—aka Quantitative Easing—is dysfunctional capita
 
 
 ## Chapter 2: Creative Destruction
-_**Summary**: Schumpeter coined "creative destruction" where innovation destroys existing companies but replaces them with more value and fuels growth (but he also saw this as contributing to its collapse). Minsky foresaw governments always acting as lenders of last resort to bail out the market. Putting the two together, and adding technological deflation, sows the seeds for an unimaginable collapse._
+_**Summary**: Schumpeter coined "[[Creative destruction]]" where innovation destroys existing companies but replaces them with more value and fuels growth (but he also saw this as contributing to its collapse). Minsky foresaw governments always acting as lenders of last resort to bail out the market. Putting the two together, and adding technological deflation, sows the seeds for an unimaginable collapse._
 
 - [[Joseph A. Schumpeter]] coined the term "creative destruction": information not having the same constraints as physical goods is an example of this
-	- But it also portends its collapse: "In breaking down the pre-capitalist ramework of society, capitalism thus broke not only barriers that impeded tis progress but also flying buttresses that prevented its collapse. The capitalist process in much the same way in which it destroyed the institutional framework of feudal society also undermines its own." (62, from *Capitalism, Socialism, and Democracy* by [[Joseph A. Schumpeter]], 139; this is similar to the argument [[Patrick Deneen]] presents in *[[2018-05-29-Why Liberalism Failed]]*)
+	- But it also portends its collapse: "In breaking down the pre-capitalist framework of society, capitalism thus broke not only barriers that impeded its progress but also flying buttresses that prevented its collapse. The capitalist process in much the same way in which it destroyed the institutional framework of feudal society also undermines its own." (62, from *Capitalism, Socialism, and Democracy* by [[Joseph A. Schumpeter]], 139; this is similar to the argument [[Patrick Deneen]] presents in *[[2018-05-29-Why Liberalism Failed]]*)
 - "Forecasting the timing of change and taking advantage of it may be the most important skillsets of a visionary entrepreneur." (50)
 - Today's digital monopolies: "you are either the platform or the arbitrage on the platform...in the long term, there is no in-between" (62, cf. *[[2021-11-30-Ten Arguments for Deleting Your Social Media Accounts Right Now]]*)
 - Hyman Minsky: debt itself does not undermine capitalism, but the socialization of the losses to stabilize an economy to prevent it from collapsing (63)
@@ -124,6 +124,8 @@ _**Summary**: The two mainstream ways forward are either MMT/stimulus, or UBI/we
 - "Allowing abundance without the jobs might actually open an entirely new enlightenment era where we have time to enjoy the benefits that technology brings." (204)
 
 --- 
+**Topics**: [[Economics]], [[Inflation]], [[Deflation]], [[Bitcoin]]
+
 **Source**: [[Cory]], [[2021-11-04 Podcast-Fix the Money Fix The World with Lawrence Lepard]]
 
 **Bibliography**
@@ -147,6 +149,5 @@ _**Summary**: The two mainstream ways forward are either MMT/stimulus, or UBI/we
 - *Exponential Organizations* by Salim Ismail (191) 
 
 ---
-Created: 2021-12-01
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2021-12-01-Wed]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

@@ -122,7 +122,9 @@ Shiver ends *The Mandibles* with a revelation by the then oldest member of the f
 </details>
 
 --- 
-**Source**: *[[2021-04-17-Currency Wars]]*, cf. [[Investing]]
+**Topics**: [[Gold]], [[Investing]], [[Economics]], [[Inflation]]
+
+**Source**: *[[2021-04-17-Currency Wars]]*
 
 
 ---

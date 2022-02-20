@@ -178,7 +178,8 @@
 
 ---
 
-**Books**
+**Bibliography:**
+
 - *Traffic: Why We Drive the Way We Do* by Tom Vanderbilt (18)
 - *The Long Haul* by Finn Murphy (19)
 - *Junkyards, Gearheads, and Rust* by Lucskom (67)
