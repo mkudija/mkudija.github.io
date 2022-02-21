@@ -102,5 +102,8 @@
 *Summary: Everything gains or loses from volatility. Fragility is what loses from volatility and uncertainty.*
 
 ---
+**Topics**: [[Antifragility]]
+
+---
 Created: 2020-12-21
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
