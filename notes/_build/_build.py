@@ -41,7 +41,7 @@ def copy_files_ifPublish(src, dst):
         shutil.copyfile(file, dst+'/{}'.format(file.name))
 
 
-def convert_md_to_html(pathSource, pathTemplate, pathOutput):
+def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     """Converts .md (markdown) files to .html files.
     """
     print('\tConverting: {}'.format(pathSource.name))
@@ -74,7 +74,8 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace(']]','</text>')
     
     # replace "updated"
-    updated_at = time.strftime('%Y-%m-%d-%a', time.localtime(os.path.getmtime(pathSource))) # https://strftime.org/
+    pathSrcSource = src+str(pathSource).split('/')[-1] # use source path rather than md path to get correct updated timestamp
+    updated_at = time.strftime('%Y-%m-%d-%a', time.localtime(os.path.getmtime(pathSrcSource))) # https://strftime.org/
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at) # old version, can remove eventually
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
 
@@ -143,7 +144,8 @@ def main():
     for i in range(len(files)):
         if '~' not in str(files[i]):
             try:
-                convert_md_to_html(pathSource=files[i], 
+                convert_md_to_html(src=src,
+                                   pathSource=files[i], 
                                    pathTemplate=Path('_template.html'), 
                                    pathOutput=Path('../'))
             except:
