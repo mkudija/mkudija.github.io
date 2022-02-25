@@ -9,6 +9,6 @@
     * contact someone you disagreement with and admit you are wrong 
 * a guy lives far from his parents and calls them each week for 30 min and spends a min or two and recalls something significant they were responsible for and thanks them (pg 63)
 
-
+[[Daily Routine]]
 
 

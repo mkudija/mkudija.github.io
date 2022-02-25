@@ -1,5 +1,5 @@
 
-# So Good They Can’t Ignore You by Cal Newport
+# *So Good They Can’t Ignore You* by [[Cal Newport]]
 
 * (full notes in physical copy)
 * "To summarize, if your goal is to love what you do, your first step is to acquire career capital. Your next step is to invest this capital in the traits that define great work. Control is one of the most important targets you can choose for this investment.” 

@@ -19,7 +19,7 @@ Jordan read this in detail and I read parts and focused on her notes. The Montes
 - allow all feelings, but not all behavior (101)
 - for tantrums, important to help them calm down (126)
 - don’t jump in the help too quickly when they are frustrated, the struggle is important (169)
-- she talks about the importance of morning and evening rituals, and even includes elements similar to Michael Hyatt in them, like writing good things that happened today and an “intention” for tomorrow (181)
+- she talks about the importance of morning and evening rituals, and even includes elements similar to [[Michael Hyatt]] in them, like writing good things that happened today and an “intention” for tomorrow (181)
 - when we hear those little feet coming to interrupt try to use it as a reminder of how lucky we are to have our family (181)
 - as a parent it’s important to **slow down**, especially by saying no to some things so we can say yes to our family (185)
 - the role of a parent is not to solve every problem for your child but to support them (186)

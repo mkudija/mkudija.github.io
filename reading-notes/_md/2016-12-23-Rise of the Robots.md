@@ -1,5 +1,5 @@
 
-# Rise of the Robots by Martin Ford
+# *Rise of the Robots* by Martin Ford
 
 * Chapter 1 - overview of some cool robots
 * Chapter 2 - 
@@ -16,7 +16,7 @@
     * Moore's law and s-shaped development curves
     * Comparative advantage leading to specialization, but limited by opportunity cost
 * Chapter 4
-    * WekFusion software automates project management, redicing in house jobs but increasing freelance jobs
+    * WekFusion software automates project management, reducing in house jobs but increasing freelance jobs
     * Genetic algorithms produce results competitive with human engineers and are not constrained by preconceived notions 
     * Suggests collaboration with machines but says how it might not be sustainable if you are training them to replace you 
 * Chapter 5 - higher education
@@ -43,3 +43,19 @@
 
 
 
+--- 
+**Topic**: [[Economics]]
+
+**Source**: [[Cory]], [[Lauren]]
+
+**Bibliography**
+
+- 
+
+**New Words**
+
+- 
+
+---
+Created: [[<% tp.file.creation_date("YYYY-MM-DD-ddd") %>]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

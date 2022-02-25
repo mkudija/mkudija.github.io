@@ -3,8 +3,6 @@
 
 `(New York: Souvenir, 2019), 311`
 
-`Notes Started: 2021-06-19`
-
 
 <details>
  <summary><i>Contents</i></summary>
@@ -44,10 +42,9 @@
 ## Introduction
 - parenting theme: you have less control than you think you do; but you do have *choices*, and those choices are important (xv)
 - optimize not just for the baby, or for yourself, but for the overall family (xvii)
-- **Economics framework for decision-making** (xix): needs to account for all of **costs**, **value of time**, **options**, and **preferences**
+- **Economics framework for decision-making** (xix): needs to account for all of **costs**, **value of time**, **options**, and **preferences** (cf. [[Cal Newport]]'s thinking on the overstated benefits and profound costs of social media use)
 >Too often we focus on the benefits at the expense of thinking about the costs. But benefits can be overstated, and costs can be profound. (xxii)
 
-	- (cf. [[Cal Newport]]'s thinking on the overstated benefits and profound costs of social media use)
 - there are some questions the data can't answer for your --> uncertainty (xxii)
 - **[[Avoiding Cognitive Dissonance]]**: we want our choices to be right, so after we make them we encamp ourselves as advocates of them (xxiii)
 	- I see this all the time in people giving career advice: I want to have made the right decision so you should do what I did
@@ -180,3 +177,14 @@
 
 ## Chapter 21: Growing up and Letting Go
 ***Summary**: "Little kids mean mostly little problems." As your kids get older the problems are fewer, more important, and increasingly outside the realm of empirical analysis. Use the data where it is helpful, and otherwise don't worry about it.*
+
+
+--- 
+**Topic**: [[Parenting]]
+
+**Source**: [[Jordan]]
+
+
+---
+Created: [[2021-06-19-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

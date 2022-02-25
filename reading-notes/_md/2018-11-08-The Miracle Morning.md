@@ -3,7 +3,6 @@
 (?: Hal Elrod, 2016), 135
 
 - he made in incredible comeback from being declared dead at an accident to running an ultra marathon
-- 
 
 
 ## SAVERS of a Miracle Morning
@@ -38,3 +37,6 @@ Some other notes on his miracle morning:
 - Circle of influence
 - Lack of personal development
 - Lack of urgency
+
+
+[[Daily Routine]]

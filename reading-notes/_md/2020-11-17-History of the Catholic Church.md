@@ -232,8 +232,8 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 
 ## 10 Reason and Revolution
 - greatest of all religious conflicts—the Thirty Years’ War (1618-1648). (Location 6715)
-- Descartes began the search for truth by undertaking to doubt everything that could be doubted, so that whatever remained would be certain. (Location 6741)
-- Pascal was almost alone in seeing fully what was involved in the scientific revolution, attempting to overcome skeptical rationalism several generations before that skepticism had fully emerged. (Location 6749)
+- [[Descartes]] began the search for truth by undertaking to doubt everything that could be doubted, so that whatever remained would be certain. (Location 6741)
+- [[Pascal]] was almost alone in seeing fully what was involved in the scientific revolution, attempting to overcome skeptical rationalism several generations before that skepticism had fully emerged. (Location 6749)
 - he strove to formulate a highly original defense of Christianity that by the time of his early death had only reached the stage of aphoristic notes that are usually called simply Pensées (Thoughts). (Location 6756)
 - “Those infinite spaces frighten me.” (Location 6780)
 - There began a search for a religion that transcended theological differences and was accessible to everyone. The term Deism, from the Latin word for God, is now conventionally used for this rational religion, (Location 6809)
@@ -292,7 +292,7 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - In one of the most remarkable episodes in the entire history of the Church, French missionaries discovered a small number of secret Catholics living around Nagasaki, a people who had been preserving their faith without priests for over two hundred years. (Location 9044)
 
 ## 13 The New Nations
-- At that time, and for a long time afterward, the United States was the only country in the world where it was possible for the Church to erect dioceses and parishes, establish charitable and educational institutions, and appoint clergy without at least the formal approval of the government. (Location )9282
+- At that time, and for a long time afterward, the United States was the only country in the world where it was possible for the Church to erect dioceses and parishes, establish charitable and educational institutions, and appoint clergy without at least the formal approval of the government. (Location 9282)
 - People of all religions were presumed to be able to live harmoniously together under a state that was neutral toward specific religions but not toward religion as such.
 - Bookmark - Location 9371 (Location 9403)
 - St. John Nepomucene Neumann (Location 9445)
@@ -312,9 +312,9 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - a group of Catholic university presidents in the United States declared their independence from Church authority. (Location 10752) [i.e. Land-o-Lakes statement, Hesburgh]
 - Feminists, many of them male, were usually the angriest. (Location 10836)
 - innovative in the service of orthodoxy. (Location 10876)
-- The future pope’s ([[John Paul II]]) doctoral dissertation on the mystical theology of St. John of the Cross integrated the latter’s Thomism with his phenomenological descriptions of the mystical state. (Location 10904)
+- The future pope’s ([[John Paul II]]) doctoral dissertation on the mystical theology of [[St. John of the Cross]] integrated the latter’s Thomism with his phenomenological descriptions of the mystical state. (Location 10904)
 - some Catholics were surprised to discover that they had more in common with Evangelicals than with liberal fellow Catholics. (Location 10959)
-- Under Ratzinger, the CDF began to act vigorously to correct questionable teachings, issuing official warnings against several theologians and in some cases ordering them to cease teaching and publishing. Although theologians sometimes complained that they were condemned without being understood, they were in fact being judged by a man whose intelligence and theological attainments were superior to their own. (Location 11117)
+- Under [[Joseph Ratzinger]], the CDF began to act vigorously to correct questionable teachings, issuing official warnings against several theologians and in some cases ordering them to cease teaching and publishing. Although theologians sometimes complained that they were condemned without being understood, they were in fact being judged by a man whose intelligence and theological attainments were superior to their own. (Location 11117)
 - greater use of Latin as a vehicle of tradition and a unifying liturgical language; (Location 11121)
 - Significantly, he expressed belief that the priest at Mass should face **ad orientem**, as head of the congregation facing East toward God, rather than versus populum (toward the people). The ad orientem position, he believed, was more appropriate to the Mass as primarily an act of worship rather than a community celebration. (Location 11469)
 

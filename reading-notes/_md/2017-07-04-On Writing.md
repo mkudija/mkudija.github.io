@@ -1,5 +1,5 @@
 
-# On Writing by Stephen King
+# *On [[Writing]]* by Stephen King
 * Some levels in your writing toolbox:
     * Vocabulary - use the first word that comes to mind (not a more complicated one)
     * Grammar - if you don’t know, it’s too late. “Grammar is not just a pain in the ass, it’s the pole you grab to get your thoughts up on their feed and walking”

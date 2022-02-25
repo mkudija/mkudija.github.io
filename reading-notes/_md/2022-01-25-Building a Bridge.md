@@ -16,7 +16,7 @@
 - **Respect**
 	- The objection that outreach is a tacit agreement with everything the LGBT community does is unfair because it is applied to virtually no other group (e.g. "Catholic business leaders", 33) 
 	- Treat LGBT Catholics as full members of the church by virtue of their baptism (35)
-	- Respect means calling a group what it asks to be called (35)
+	- Respect means calling a group what it asks to be called (35) ^f686c1
 	- LGBT Catholics bring unique gifts to the church (39)
 	- Terminating employment for lack of adherence to church teachings is selectively applied to LGBT people (47-49)
 	- Being respectful of people with whom you disagree is at the heart of the Christian way. (81)
@@ -31,7 +31,7 @@
 	- The CCC's use of "objectively disordered" seems unnecessarily cruel to many LGBT Catholics (74)
 
 --- 
-Chastity and homosexuality from the *[[~Catechism of the Catholic Church]]*:
+[[Chastity]] and [[Homosexuality]] from the *[[~Catechism of the Catholic Church]]*:
 
 >**2357** Homosexuality refers to relations between men or between women who experience an exclusive or predominant sexual attraction toward persons of the same sex. It has taken a great variety of forms through the centuries and in different cultures. It psychological genesis remains largely unexplained. Basing itself on Sacred Scripture, which presents homosexual acts as acts of grave depravity (Cf. Genesis 19:1-29; Romans 1:24-27; 1 Corinthians 6:10; 1 Timothy 1:10), tradition has always declared that “**homosexual acts are intrinsically disordered**.” (Congregation for the Doctrine of the Faith, *Persona humana*, 8). They are contrary to the natural law. They close the sexual act to the gift of life. They do not proceed from a genuine affective and sexual complementarity. Under no circumstances can they be approved.  
 

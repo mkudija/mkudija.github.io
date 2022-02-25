@@ -1,6 +1,5 @@
 
-# The God of Jesus Christ by Joseph Ratzinger
-
+# *The God of Jesus Christ* by [[Joseph Ratzinger]]
 * God
     * God has names
         * we are Vikings in spaceflight (15)

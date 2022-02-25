@@ -1,5 +1,5 @@
 
-# Orthodoxy by G.K. Chesterton 
+# *Orthodoxy* by [[G.K. Chesterton]]
 
 * Chapter 1
     * We need to combine a sense of wonder with a sense of being at home

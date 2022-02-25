@@ -1,7 +1,7 @@
 
-# [*Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals*](https://www.amazon.com/Your-Best-Year-Ever-Achieving/dp/0801075254/ref=sr_1_1?dchild=1&keywords=your+best+year+ever&qid=1609548169&sr=8-1) by Michael Hyatt
+# [*Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals*](https://www.amazon.com/Your-Best-Year-Ever-Achieving/dp/0801075254/ref=sr_1_1?dchild=1&keywords=your+best+year+ever&qid=1609548169&sr=8-1) by [[Michael Hyatt]]
 
-(Grand Rapids: Baker Books, 2018), 255
+`(Grand Rapids: Baker Books, 2018), 255`
 
 ---
 ## Action Plans

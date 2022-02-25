@@ -1,16 +1,16 @@
-# [*Digital Minimalism: Choosing a Focused Life in a Noisy World*](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=sr_1_1?crid=20911MCXTRS4R&keywords=digital+minimalism&qid=1549762018&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by Cal Newport
+# [*Digital Minimalism: Choosing a Focused Life in a Noisy World*](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=sr_1_1?crid=20911MCXTRS4R&keywords=digital+minimalism&qid=1549762018&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by [[Cal Newport]]
 
-(New York: Penguin, 2019), 304
+``(New York: Penguin, 2019), 304``
 
 ## Books Mentioned
 - *Irresistible* by Adam Alter
-- *Lead Yourself First: Inspiring Leadership Through Solitude* by Raymond M. Kethledge, Michael S. Erwin
+- *[[2019-03-10-Lead Yourself First]]* by Raymond M. Kethledge, Michael S. Erwin
 - *Social* by Matthew Lieberman (131)
 - *Reclaiming Conversation* by Sherry Turkle (144)
-- *Nicomachean Ethics* by Aristotle (165)
+- *[[~Nicomachean Ethics]]* by [[Aristotle]] (165)
 - *How to Live on 24 Hours a Day* by Arnold Bennett (174)
 - *Handmade* by Gary Rogowski (178)
-- *Shop Class as Soulcraft* by Matthew Crawford (179-180)
+- *[[2018-09-01-Shop Class as Soulcraft]]* by [[Matthew B. Crawford]] (179-180)
 - *The Revenge of Analog* by David Sax (182)
 - *The Attention Merchants* by Tim Wu (215)
 
@@ -20,11 +20,11 @@
 # Part I - Foundations
 
 ## Chapter 1 - A Lopsided Arms Race
-- recall that the iPhone was originally just designed to be a phone and a music player...the internet connetivity took over later
+- recall that the iPhone was originally just designed to be a phone and a music player...the internet connectivity took over later
 - digital experiences are addictive, especially with respect to *intermittent positive reinforcement* and *the drive for social approval* (17)
 
 ## Chapter 2 - Digital Minimalism
-- **Digital Minimalism** - A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
+- **[[Digital Minimalism]]** - A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
 - minimalist philosophy: work backwards from your deeply held values when deciding how to live your life (31)
 - constantly perform cost-benefit analyses
 - **Principles of Digital Minimalism**:
@@ -46,20 +46,20 @@
 
 ## Chapter 4 - Spend Time Alone (in Solitude)
 - interesting discussion of Lincoln's solitude (away from the White House at the Soldier's Home) which "helped save the nation"
-- *Lead Yourself First: Inspiring Leadership Through Solitude* by Raymond M. Kethledge, Michael S. Erwin
+- *[[2019-03-10-Lead Yourself First]]* by Raymond M. Kethledge, Michael S. Erwin
   - their definition of **solitude**: "a subjective state in which your mind is free from the input from other minds"
   - Newport counters with **solitude deprivation**: a state in which you spend close to zero time alone with your own thoughts and free from the input of other minds (103)
 - "the iPod provided for teh first time the ability to be continuously distracted from your own mind...it's now possible [with smartphones] to completely banish solitude from your life" (100-101)
 - solitude deprivation leads to mental health problems, particularly axiety, as shown by iGen kids who are always connected and never have time alone with their thoughts
 - **Solitude practices**:
   - **Leave your phone at home**: strive for significant periods without your phone most days
-  - **Take long walks**: Thoreau's [*Walking*](https://www.theatlantic.com/magazine/archive/1862/06/walking/304674/), Newport: "I would be lost without my walks because they have become one of my best sources of solitude." (120)
+  - **Take long walks**: Thoreau's *[[2019-02-20-Walking]]*, Newport: "I would be lost without my walks because they have become one of my best sources of solitude." (120)
   - **Write letters to yourself**: keep a notebook for your thoughts
 
 
 ## Chapter 5 - Don't Click 'Like'
 - [2007 Rock Paper Scissors Championships](https://www.youtube.com/watch?v=_eanWnL3FtM)
-  - "our brains can be understood as sophistocated social computers" (130)
+  - "our brains can be understood as sophisticated social computers" (130)
   - --> don't let technology mess with this
 - Book: *Social* by Matthew Lieberman (131): given downtime, our brains think about our social life (133)
 - Social media is like fast food for the brain: lacking in needed substance (136)
@@ -125,6 +125,15 @@
   
   
 **Personal Notes**
-- I need to find a better way of tracking the source and path of ideas. For instance, now I list books I want to read on my Amazon wish list and note who I heard about it from, which helpful especially when recommended from various sources. But I need a comprehensive system for tracking information that comes into my brain, whether it be ideas, book recommendations, articles, etc. This would be particularly useful for evaluating the quality of social media channels. I know I have come across excellent articles and tools on Twitter, but knowing where or who from exactly would be helpful, for instance, in curating the list of people I follow. 
+- I need to find a better way of tracking the source and path of ideas. For instance, now I list books I want to read on my Amazon wish list and note who I heard about it from, which helpful especially when recommended from various sources. But I need a comprehensive system[^obs] for tracking information that comes into my brain, whether it be ideas, book recommendations, articles, etc. This would be particularly useful for evaluating the quality of social media channels. I know I have come across excellent articles and tools on Twitter, but knowing where or who from exactly would be helpful, for instance, in curating the list of people I follow. 
 - I decided while reading this book to modify my method of taking notes when reading a library book I can't write in. Instead of reading with my computer nearby and typing notes into markdown while reading, I folded a piece of paper in half and wrote notes on there which are later transcribed into markdown. I spent a whole evening reading about a third of the book in this manner without touching my phone or computer once. 
-- I culled my Facebook friends down from 534 to 161
+- I culled my Facebook friends down from 534 to 161[^fb]
+
+[^obs]: 2022-02-24 update: [[Obsidian]] is becoming the main tool by which I build and manage this "comprehensive system".
+
+[^fb]: 2022-02-24 update: I deactivated my Facebook account in ~early 2020, and deleted it entirely in ~late 2021, partially inspired by *[[2021-11-30-Ten Arguments for Deleting Your Social Media Accounts Right Now]]*.
+
+
+---
+Created: 2019-02-09
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

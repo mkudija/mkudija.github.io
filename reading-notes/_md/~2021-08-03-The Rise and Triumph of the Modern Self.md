@@ -1,5 +1,5 @@
 
-# [*The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution*](https://www.crossway.org/books/the-rise-and-triumph-of-the-modern-self-hcj/) by Carl. R. Trueman
+# [*The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution*](https://www.crossway.org/books/the-rise-and-triumph-of-the-modern-self-hcj/) by [[Carl. R. Trueman]]
 
 <img src="https://static.crossway.org/studio-files/media/73603c4810775bab0103020211822fbc681b8212.jpg" width=150>
 
@@ -21,7 +21,7 @@
 - That the sentence "I am a woman trapped in a man's body"—so loaded with metaphysical assumptions—can be regarded as coherent and meaningful is the motivation for this book
 - Thesis: the **sexual revolution** cannot be understood apart from the broader transformation in our understanding of **selfhood**
 	- **sexual revolution**: the normalization of sexual phenomena (pornography, homosexuality, etc.) and positive repudiation of traditional sexual mores
-	- **selfhood**: our purpose in life, what constitutes a good life, how I understand myself in relation to others (cf Charles Taylor)
+	- **selfhood**: our purpose in life, what constitutes a good life, how I understand myself in relation to others (cf. [[Charles Taylor]])
 - **"The task of the Christian is not to whine about the moment in which he or she lives but to understand its problems and respond appropriately to them."** (30)
 - "giving an accurate account of one's opponents' views is vital" (30)
 
@@ -101,7 +101,11 @@ _**Summary**: _
 
 
 --- 
-**Source**: Adam, Dan
+**Topics**: 
+
+**Source**: 
+- [[2021-07-08-Thu]] by [[Adam Pasternack]]
+- [[Dan Gibson]]
 
 **Bibliography**
 
@@ -110,7 +114,7 @@ _**Summary**: _
 **New Words**
 
 - 
----
-Created: 2021-08-03
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 
+---
+Created: [[2021-08-03-Tue]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

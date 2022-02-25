@@ -1,6 +1,6 @@
 # [*Rich Dad Poor Dad*](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=sr_1_1?ie=UTF8&qid=1537269805&sr=8-1&keywords=rich+dad+poor+dad) by Robert T. Kiyosaki
 
-(Scottsdale: Plata, 1997), 351
+`(Scottsdale: Plata, 1997), 351`
 
 
 # Introduction
@@ -199,3 +199,12 @@
 
 - Think and Grow Rich (location. 2,795)
 - The key to becoming wealthy is the ability to convert earned income into passive income or portfolio income as quickly as possible. (location. 2,807)
+
+--- 
+**Topic**: [[Investing]]
+
+**Source**: [[Cory]]
+
+---
+Created: 2017-12-10
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

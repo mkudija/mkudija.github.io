@@ -23,7 +23,7 @@
             * high-quality CDs
             * AAA corporate bonds
         * Don't invest in:
-            * utility stocks, junk bonds, stocks, real estate, gold/commodities
+            * utility stocks, junk bonds, stocks, real estate, [[Gold]]/commodities
     * Business
         * cash and cash flow are critical to surviving
         * identify segments you can dominate
@@ -39,3 +39,4 @@
     * Emerging Markets
         * invest in India and Southeast Asia
 
+re [[Economics]], [[Investing]]

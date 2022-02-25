@@ -1,20 +1,20 @@
 
-# The Jesuit Guide to (Almost) Everything by Fr. James Martin, SJ
+# *The Jesuit Guide to (Almost) Everything* by [[James Martin, SJ]]
 
-Chapter 1 - A Way of Proceeding
+## Chapter 1 - A Way of Proceeding
 * Basics of Ignatian Spirituality:
     * Finding God in all things
     * Contemplative in action
     * Incarnational spirituality - God is incarnate
     * Freedom and detachment 
-    * a
 * "No part of life cannot be transformed by God's love…God writes straight with crooked lines" (12).
-* The Spiritual Exercises:
+* The Spiritual Exercises of [[St. Ignatius of Loyola]]:
     * Week 1 - Gratitude for God's gifts, and looking at our sinfulness
     * Week 2 - Meditations from the NT on the life of Jesus
     * Week 3 - Jesus' Passion
     * Week 4 - Jesus' Resurrection
-Chapter 2 - The Six Paths
+
+### Chapter 2 - The Six Paths
 * Answer the question, "How do I find God?"
 * The Six Paths
     * Belief - faith always a part of their lives
@@ -30,7 +30,8 @@ Chapter 2 - The Six Paths
     * believing that God communicates with you through the little things
     * --> requires awareness
     * God is larger than the Church
-Chapter 3 - Desire and the Spiritual Life
+
+## Chapter 3 - Desire and the Spiritual Life
 * naming our desires tells us about who we are and helps us to when we receive their fulfillment
 * desire often has its roots in incompletion; want something more; "Our hearts are restless until they rest in you." - St. Augustine (64).
     * our hearts have a "God-shaped hole"
@@ -38,7 +39,8 @@ Chapter 3 - Desire and the Spiritual Life
 * "Every time that I have gone up in an airplane and looking down have realized that I was free of the ground, I have had the consciousness of a great new discovery.  'I see:' I have thought, 'This was the idea.  And now I understand everything.'" (Out of Africa by Isak Dinesen)
 * "Dying is about becoming more human" (79).
 * "…finding God and being found by God are the same" (80)
-Chapter 4 - Finding God and Letting God Find You
+
+## Chapter 4 - Finding God and Letting God Find You
 * The Examen:
     * Give Thanks
     * Ask for grace to know my sins and rid myself of them
@@ -51,15 +53,18 @@ Chapter 4 - Finding God and Letting God Find You
     * Sorrow: recall your sins
     * Forgiveness: ask for forgiveness for your sins
     * Grace: ask for God's grace for the next day
-Chapter 5 - Beginning to Pray
-Chapter 6 - Friendship With god
+
+## Chapter 5 - Beginning to Pray
+
+## Chapter 6 - Friendship With god
 * "Prayer is the conversation that happens in a personal relationship with God" (115).
 * "Knowing God is more important than knowing about God." (Karl Rahner)
 * If you want to know God, get to know Jesus. 
     * and get to know the saints - "they are a clean window through which the light of God can shine" (120)
 * Aristotle believed we become like the object of our contemplation (140)
 * Preaching to the Converted
-Chapter 7 - God meets you where you are
+
+## Chapter 7 - God meets you where you are
 * Lectio Divina - read, meditate, pray, act
     * what does the text say
     * what is God saying to me through the text?
@@ -71,7 +76,8 @@ Chapter 7 - God meets you where you are
         * quiet down
         * repeat a single word
         * gently return to that word if we become distracted by anything
-Chapter 8 - The Simple Life
+
+## Chapter 8 - The Simple Life
 * simplicity moves us away from disordered attachment
 * Notes from Dean Brackley's "Downward Mobility:"
     * consumer culture is primarily individualistic
@@ -101,7 +107,8 @@ Chapter 8 - The Simple Life
     * First Degree: always obedient to the law of God - live a moral life
     * Second Degree: seek detachment when making decisions in life
     * Third Degree: you actually choose the most humble way in imitation of Christ
-Chapter 9 - Chastity
+
+## Chapter 9 - [[Chastity]]
 * Arrupe quote about falling in love (219)
 * "Love ought to maintain itself more by deeds than words." (Ignatius, 220)
 * love cannot be owned
@@ -112,14 +119,17 @@ Chapter 9 - Chastity
     * love freely
     * forgive
     * pray
-Chapter 10 - Friendship and Love
+
+## Chapter 10 - [[Friendship]] and Love
 * the times when you are most tempted to move away from your friends are precisely the times when you most need those relationships and need to cultivate them (251)
 * good friends know about each other's lives
 * if God is at the center of a relationship there's always more room for others
-Chapter 11 - Obedience
+
+## Chapter 11 - Obedience
 * from latin root meaning to hear
 * "Poverty frees you to live dimly and frees you from worry about material possessions. Chastity frees you to love people freely and move around more easily.  Obedience frees you from excessive self-interest, careerism, and pride and allows you to respond more really to the larger needs of the community" (270)
-Chapter 12 - Making Decisions
+
+## Chapter 12 - Making Decisions
 * The Three Times
     * First Time - decision comes without doubt
     * Second Time - less clear initially
@@ -143,7 +153,8 @@ Chapter 12 - Making Decisions
     * like a false lover
     * like an army commander - attacks the weakest point
 * remember there is no perfect outcome, and we need to be ok with the imperfection
-Chapter 13 - Vocation
+
+## Chapter 13 - Vocation
 * universal call to holiness - everyone has a vocation
 * "Vocation overarches our work, jobs, and career and extends to the kind of person we hope to become.  It is what we are called to do and who we are called to be" (342).
 * desire plays a role - find our vocations through our natural longings
@@ -165,12 +176,14 @@ Chapter 13 - Vocation
     * move away from actions the are sinful and toward ones that make you more compassionate
     * trust that God will help you because he desires the best for you
     * recognize that this is a long process that takes time
-Chapter 14 - The Contemplative in Action
+
+## Chapter 14 - The Contemplative in Action
 * Summary of Ignatian Spirituality: "Contemplatives in action seek to find God in all things by looking at the world in an incarnational way, and , in their quest, they realized their desire for freedom and detachment, which help them move even closer to God" (392)
+
 Books Fr. Martin refers to:
-    * With God in Russia by Walter Ciszek*
+    * With God in Russia by [[Walter J. Ciszek, S.J.]]*
     * A Friendship Like No Other by William A. Barry
-    * The Seven Storey Mountain by Thomas Merton* (first book he read after watching the documentary)
+    * *[[2014-12-10-The Seven Storey Mountain]]* by [[Thomas Merton]]* (first book he read after watching the documentary)
     * Habits of the Heart by Robert Bellah
     * Mariette in Ecstasy
     * The Spiritual Exercises Reclaimed by Katherine Dyckman*
@@ -178,7 +191,7 @@ Books Fr. Martin refers to:
     * The Selfless Way of Christ
     * Nothing to be Frightened Of
     * Guidelines for Mystical Prayer
-    * Surprised by Joy by Lewis
+    * Surprised by Joy by [[C. S. Lewis]]
     * Out of Africa
     * God and you: Prayer as a Personal Relationship
     * How Can I Find God?
@@ -197,7 +210,7 @@ Books Fr. Martin refers to:
     * The Progress Paradox
     * Following Christ in a Consumer Society
     * Together for Mission
-    * Lord of the Rings
+    * *[[~The Lord of the Rings]]*
     * Harry Potter
     * The Discernment of Spirits
     * The Screwtape Letters
@@ -207,7 +220,7 @@ Books Fr. Martin refers to:
     * Stretched for greater glory
     * One Jesuits Spiritual Journey
     * In Pursuit of Love
-    * He Leadeth Me
+    * *[[2021-12-08-He Leadeth Me]]* by [[Walter J. Ciszek, S.J.]]
     * Talking about god
     * why do we suffer
     * The day Christ died
@@ -220,5 +233,8 @@ Books Fr. Martin refers to:
     * why we hate us
     * Power and secret of the Jesuits
 
+---
+Created: 2013-10-21
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
 
 

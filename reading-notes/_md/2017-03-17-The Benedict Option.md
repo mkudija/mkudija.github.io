@@ -1,16 +1,17 @@
 
-# *The Benedict Option: A Strategy for Christians in a Post-Christian Nation* by Rod Dreher
+# *The Benedict Option: A Strategy for Christians in a Post-Christian Nation* by [[Rod Dreher]]
 
 * Introduction - The Awakening
-    * from his previous book: Alasdair MacIntyre, who declared that Western civilization had lost its moorings. The time was coming, said MacIntyre, when men and women of virtue would understand that continued full participation in mainstream society was not possible for those who wanted to live a life of traditional virtue. These people would find new ways to live in community, he said, just as Saint Benedict, the sixth-century father of Western monasticism, responded to the collapse of Roman civilization by founding a monastic order. LOCATION: 61 (cf [[2020-11-18-After Virtue#Ch 18 - After Virtue Nietzsche or Aristotle Trotsky and St Benedict]])
-    * The cultural left—which is to say, increasingly the American mainstream—has no intention of living in postwar peace. It is pressing forward with a harsh, relentless occupation, one that is aided by the cluelessness of Christians who don’t understand what’s happening. LOCATION: 83...Donald Trump has at best given us a bit more time to prepare for the inevitable. LOCATION: 85
+    * from his previous book: [[Alasdair MacIntyre]], who declared that Western civilization had lost its moorings. The time was coming, said MacIntyre, when men and women of virtue would understand that continued full participation in mainstream society was not possible for those who wanted to live a life of traditional virtue. These people would find new ways to live in community, he said, just as Saint Benedict, the sixth-century father of Western monasticism, responded to the collapse of Roman civilization by founding a monastic order. LOCATION: 61 (cf [[2020-11-18-After Virtue#Ch 18 - After Virtue Nietzsche or Aristotle Trotsky and St Benedict]])
+    * The cultural left—which is to say, increasingly the American mainstream—has no intention of living in postwar peace. It is pressing forward with a harsh, relentless occupation, one that is aided by the cluelessness of Christians who don’t understand what’s happening. LOCATION: 83
+    * ...Donald Trump has at best given us a bit more time to prepare for the inevitable. LOCATION: 85
     * we are going to have to be the church, without compromise, no matter what it costs. LOCATION: 89
     * Book outline: 
         * first part of this book, I will define the challenge of post-Christian America as I see it. LOCATION: 100
         * second part, I will discuss how the way of Christian living prescribed by the Rule can be adapted to the lives of modern conservative Christians LOCATION: 103
     * Jesus Christ promised that the gates of Hell would not prevail against His church, but He did not promise that Hell would not prevail against His church in the West. That depends on us, and the choices we make right here, right now. LOCATION: 110
 * Chapter 1 - The Great Flood (where we are today)
-    * Benedict XVI: the spiritual crisis overtaking the West is the most serious since the fall of the Roman Empire LOCATION: 131
+    * [[Pope Benedict XVI]]: the spiritual crisis overtaking the West is the most serious since the fall of the Roman Empire LOCATION: 131
     * [[Moralistic Therapeutic Deism]] (MTD). LOCATION: 162, is the natural religion of a culture that worships the Self and material comfort. LOCATION: 175
         * God created the world
         * God wants people to be good and nice as taught by the bible and other religions
@@ -18,8 +19,9 @@
         * God doesn’t need to be involved in your life except to solve problems
         * Good people go to heaven when they die
     * THESIS OF THE BENEDICT OPTION: Could it be that the best way to fight the flood is to quit piling up sandbags and to build an ark in which to shelter until the water recedes and we can put our feet on dry land again? Rather than wasting energy and resources fighting unwinnable political battles, we should instead work on building communities, institutions, and networks of resistance that can outwit, outlast, and eventually overcome the occupation. LOCATION: 199
-    * City of God: refocused the minds of Christians on the imperishable heavenly kingdom. LOCATION: 214 (Augustine talks about the current City of Man on Earth, as contrasted with the eternal City of God in Heaven) 
-    * in After Virtue, philosopher Alasdair MacIntyre likened the present cultural moment to the fall of the Roman Empire in the West (when City of God was written). Instead of faith and reason, Macintyre says we are governed by emotivism: the idea that all moral choices are nothing more than expressions of what the choosing individual feels is right. LOCATION: 257 This society is a “collection of strangers, each pursuing his or her own interests under minimal constraints”:
+    * City of God: refocused the minds of Christians on the imperishable heavenly kingdom. LOCATION: 214 
+    * ([[St. Augustine]] talks about the current City of Man on Earth, as contrasted with the eternal City of God in Heaven) 
+    * in *[[2020-11-18-After Virtue]]*, philosopher Alasdair MacIntyre likened the present cultural moment to the fall of the Roman Empire in the West (when City of God was written). Instead of faith and reason, Macintyre says we are governed by emotivism: the idea that all moral choices are nothing more than expressions of what the choosing individual feels is right. LOCATION: 257 This society is a “collection of strangers, each pursuing his or her own interests under minimal constraints”:
         * abandon objective moral standards
         * don’t accept a religious narrative outside of yourself unless chosen
         * repudiate memory of the past as irrelevant
@@ -29,13 +31,13 @@
     * There were five landmark events over seven centuries that rocked Western civilization and stripped it of its ancestral faith: LOCATION: 339
         * In the fourteenth century, the loss of belief in the integral connection between God and Creation—or in philosophic terms, transcendent reality and material reality 
         * The collapse of religious unity and religious authority in the Protestant Reformation of the sixteenth century 
-        * The eighteenth-century Enlightenment, which displaced the Christian religion with the cult of Reason, privatized religious life, and inaugurated the age of democracy 
+        * The eighteenth-century [[Enlightenment]], which displaced the Christian religion with the cult of Reason, privatized religious life, and inaugurated the age of democracy 
         * The Industrial Revolution (ca. 1760–1840) and the growth of capitalism in the nineteenth and twentieth centuries 
         * The Sexual Revolution (1960–present) LOCATION: 340
     * in contrasting a medieval worldview from our own: medievals experienced everything in the world sacramentally. LOCATION: 359
         * Yet despite the radical brokenness of their world, medievals carried within their imagination a powerful vision of integration. In the medieval consensus, men construed reality in a way that empowered them to harmonize everything conceptually and find meaning amid the chaos. LOCATION: 378 NOTE: We need to emulate this today
-    * The Discarded Image, C. S. Lewis, LOCATION: 381 (An Introduction to Medieval and Renaissance Literature)
-    * Thomas Aquinas (1225-1274): The core teachings of Scholasticism include the principle that all things exist and have a God-given essential nature independent of human thought. This position is called “metaphysical realism.” LOCATION: 391 
+    * The Discarded Image, [[C. S. Lewis]], LOCATION: 381 (An Introduction to Medieval and Renaissance Literature)
+    * [[St. Thomas Aquinas]] (1225-1274): The core teachings of Scholasticism include the principle that all things exist and have a God-given essential nature independent of human thought. This position is called “metaphysical realism.” LOCATION: 391 
         * The world and everything in it is part of a harmonious whole ordered by God and filled with meaning—and all things are signs pointing to God. 
         * Society is grounded in that higher reality. 
         * The world is charged with spiritual force. LOCATION: 395 
@@ -43,11 +45,11 @@
     * Renaissance does mark a distinct change in European culture, which shifted its focus from the glory of God to the glory of man. LOCATION: 450 
         * Martin Luther challenged the Church’s entire structure of sin, forgiveness, and ecclesial authority LOCATION: 473 
         * “Because Christians disagreed about what they were to believe and do, they disagreed about what the fruits of the Christian life were” (Brad Gregory) 
-    * Enlightenment
+    * [[Enlightenment]]
         * Copernicus (1743-1543): earth is no longer the center LOCATION: 496 
         * Francis Bacon (1561-1626) inventor of the scientific method: nature turns from God to man LOCATION: 503 
         * Isaac Newton (1642-1727): God as the “divine watchmaker" LOCATION: 508 
-        * René Descartes (1596-1650): reduced the scope of what we can accept as true: “I think, therefore I am” and opened the door to the Enlightenment LOCATION: 514
+        * [[Descartes]] (1596-1650): reduced the scope of what we can accept as true: “I think, therefore I am” and opened the door to the Enlightenment LOCATION: 514
         * John Locke (1632-1704): the individual as the fundamental unit of society LOCATION: 538 
             * John Adams: Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other. LOCATION: 554 
     * 19th Century: Democracy, Capitalism, Romanticism
@@ -169,7 +171,7 @@
     * Don’t Kid Yourself About Christian Schools
     * Start Classical Christian Schools
         * CiRCE Institute, a North Carolina–based Christian organization that trains teachers in the classical model, LOCATION: 2372
-        * 1947 essay “The Lost Tools of Learning” LOCATION: 2382 
+        * 1947 essay “[[~The Lost Tools of Learning]]” LOCATION: 2382 
         * Existing under the umbrella of a church offers legal protection not available to other Christian schools. Legal experts say that Christian schools facing antidiscrimination challenges in court have greater protection if they can demonstrate that they are clearly and meaningfully guided by established doctrines of a particular church and can demonstrate that they enforce these doctrines. LOCATION: 2404
         * Association of Classical and Christian Schools (accsedu.org), LOCATION: 2443
         * Institute for Catholic Liberal Education (www.catholicliberaleducation.org) is a resource-rich organization for Catholics and includes on its Web site the educational plan of St. Jerome Academy. LOCATION: 2445
@@ -177,7 +179,7 @@
     * The Benedict Option and the University
         * St. John’s, the one at the University of Illinois at Champaign-Urbana, LOCATION: 2477
     * Go Back to the Classics and Forward to the Future
-        * “A dead thing goes with the stream, but only a living thing goes against it,” said G. K. Chesterton. That quote from The Everlasting Man LOCATION: 2574
+        * “A dead thing goes with the stream, but only a living thing goes against it,” said [[G.K. Chesterton]]. That quote from The Everlasting Man LOCATION: 2574
 * Chapter 8 - Preparing for Hard Labor
     * First of all, the Benedictine model reminds us that work and worship are integrated and that our careers are not separate from our faith. Second, it reminds us that manual labor is a gift—a gift that Christians may have to rediscover if post-Christianity squeezes us out of the professions. Finally, we see work as a gift given back to God and to the community. LOCATION: 2620 
     * Be Prudent
@@ -186,7 +188,7 @@
         * “Our churches need more entrepreneurs, and we need to teach our children how to think entrepreneurially about their futures,” says Calee Lee, an Eastern Orthodox Christian in Irvine, California. LOCATION: 2766 
     * Buy Christian, Even if it Costs More
     * Build Christian Employment Networks
-        * Distributism, an economic model based on Catholic social teaching LOCATION: 2808
+        * [[Distributism]], an economic model based on Catholic social teaching LOCATION: 2808
     * Rediscover the Trades
     * Prepare to be Poorer and More Marginalized
 * Chapter 9 - Eros and the New Christian Counterculture
@@ -260,10 +262,10 @@
         * how far from your house you are comfortable letting your children play alone
         * the range of things you don’t vote on because people take care of them for themselves
 * Womanhood
-    * “Abortion is a dagger twisted into the heart of a woman” (122)
+    * “[[Abortion]] is a dagger twisted into the heart of a woman” (122)
     * home economics and money at the service of the family, lengthy discussion (125)
-    * one of his favorite paintings, The Holy Family with a Bird, 1645-1650, Madrid, Prado Museum by Bartolome Esteban Murillo: https://upload.wikimedia.org/wikipedia/commons/8/8b/Bartolom%C3%A9_Esteban_Perez_Murillo_008.jpg
-* Work
+    * one of his favorite paintings, The Holy Family with a Bird, 1645-1650, Madrid, Prado Museum by Bartolome Esteban Murillo: https://upload.wikimedia.org/wikipedia/commons/8/8b/Bartolom%C3%A9_Esteban_Perez_Murillo_008.jpg ([[Sacred Artwork]])
+* [[Work]]
     * discussion against rent-seekers
 * Play
     * how healthy exercise has been turned into “working out”, removing the play and making it a chore (158)

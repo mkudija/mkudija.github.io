@@ -1,5 +1,5 @@
 
-# Alexander Hamilton by Ron Chernow
+# *Alexander Hamilton* by [[Ron Chernow]]
 
 * “Hamilton was the supreme double threat among the founding fathers, at once thinker and doer, sparking theoretician and masterful executive” (4).
 * A great overview of Hamilton’s life from the prologue: “The magnitude of Hamilton’s feats as treasury secretary has overshadowed many other facets of his life: clerk, college student, youthful poet, essayist, artillery captain, wartime adjutant to Washington, battlefield hero, congressman, abolitionist, Bank of New York founder, state assemblyman, member of the Constitutional Convention and New York Ratifying Convention, orator, lawyer, polemicist, educator, patron saint of the New-York Evening Post, foreign-policy theorist, and major general in the army. Boldly uncompromising, he served as catalyst for the emergence of the first political parties and as the intellectual fountainhead for one of them, the Federalists. He was a pivotal force in four consecutive presidential elections and defined much of America’s political agenda during the Washington and Adams administrations, leaving copious commentary on virtually every salient issue of the day” (5)

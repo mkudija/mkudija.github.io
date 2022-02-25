@@ -1,5 +1,5 @@
 
-# *Reasons to Believe* by Scott Hahn
+# *Reasons to Believe* by [[Scott Hahn]]
 
 - Ch. 1: As St. Peter said, we have a responsibility to develop our ability to defend our faith with reason.
 - Ch. 2:

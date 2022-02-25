@@ -31,9 +31,9 @@ write notes:
 ### Bitcoin
 - his objections to bitcoin
 	- A money commodity "must be desired for its nonmonetary services (for its own sake)" -> see notes below
-	- Do contracts/other attributes of the blockchain give bitcoin intrinsic (though not physical) value?
 	- could not survive in a free market (55)
-
+	- Do contracts/other attributes of the blockchain give bitcoin intrinsic (though not physical) value?
+	- Perhaps Bitcoin is not "perfect" in his definition of money, but it is much better than the prevalent alternative (fiat paper money), and it may prevent us slipping back to a world of barter or only Gold coins?
 </details>
 
 # Notes
@@ -189,8 +189,9 @@ _**Summary**: Legalizing falsifications of money (usually after the government h
 
 
 ## Chapter 9: Legal Monopolies
-_**Summary**: Monopolies create inflation of the favored money and deflation of alternatives, and are especially problematic when paired with legal tender laws. Monopolies are condemned because they are against the 8th commandment and the freedom to associate._
+_**Summary**: Monopolies create inflation of the favored money and deflation of alternatives, and are especially problematic when paired with legal tender laws. Monopolies are condemned because you shall not steal ([[Ten Commandments]] and the freedom to associate._
 - make note of commandments
+- 122: interesting that he labels "You shall not steal" as the Eighth Commandment, when this is typically the Seventh (cf. *[[~Catechism of the Catholic Church|CCC]]*)
 
 
 ## Chapter 10: Legal-Tender Laws

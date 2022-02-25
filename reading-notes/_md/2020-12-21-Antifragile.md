@@ -67,7 +67,7 @@
 *Summary: Taleb gives an autobiographical sketch of his learning to show the weakness of structured learning and the benefits of an autodidactic approach.*
 
 ## Chapter 17: Fat Tony Debates Socrates
-*Summary: Nietzsche's insight that the "unintelligible is not necessarily unintelligent" as a recognition of antifragility. Textbook "knowledge" (a la Socrates) misses a dimension: real decisions are based on risk and reward.*
+*Summary: Nietzsche's insight that the "unintelligible is not necessarily unintelligent" as a recognition of antifragility. Textbook "knowledge" (a la [[Socrates]]) misses a dimension: real decisions are based on risk and reward.*
 
 # Book v: The Nonlinear and the Nonlinear
 
@@ -81,7 +81,7 @@
 # Book VI: Via Negativa
 
 ## Chapter 20: Time and Fragility
-*Summary: Taleb observes how older things are more antifragile than new ones and likely t o be around (**[[The Lindy Effect]]**). He opposes "neomania" or the love of the new for its own sake. So...read old books, learn from history, and you can bet technologies that have been around for a long time are more likely to be around in the future.*
+*Summary: Taleb observes how older things are more antifragile than new ones and likely to be around (**[[Lindy Effect]]**). He opposes "neomania" or the love of the new for its own sake. So...read old books, learn from history, and you can bet technologies that have been around for a long time are more likely to be around in the future.*
 
 ## Chapter 21: Medicine, Convexity, and Opacity
 *Summary: Taleb discusses convexity effects & iatrogenics in medicine. Discussion of how we are suckers for theory, but should instead act like we don't have the full story.*

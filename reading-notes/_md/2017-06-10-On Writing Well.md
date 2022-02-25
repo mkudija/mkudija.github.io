@@ -1,5 +1,5 @@
 
-# On Writing Well by William Zinsser
+# *On [[Writing]] Well* by William Zinsser
 
 * cut cut cut
     * don't use adjectives unnecessarily

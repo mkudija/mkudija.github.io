@@ -1,5 +1,5 @@
 
-# [*Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want*](https://www.amazon.com/Living-Forward-Proven-Plan-Drifting/dp/080101882X/ref=sr_1_1?dchild=1&keywords=living+forward&qid=1609548165&sr=8-1) by Michael Hyatt and Daniel Harkavy
+# [*Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want*](https://www.amazon.com/Living-Forward-Proven-Plan-Drifting/dp/080101882X/ref=sr_1_1?dchild=1&keywords=living+forward&qid=1609548165&sr=8-1) by [[Michael Hyatt]] and Daniel Harkavy
 
 (Grand Rapids: Baker Books, 2016), 203
 

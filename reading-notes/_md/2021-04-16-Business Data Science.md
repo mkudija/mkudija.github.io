@@ -48,7 +48,7 @@
 - **Big Data**: data can be "big" in terms of both *volume* and *complexity*
   - Big (*volume*) Data is where the scale swamps RAM and requires piping by data engineers
   - Big (*complexity*) Data is big *dimension* data where the assumptions of classical statistics break down ("big *p*" problems)
-- **Machine Learning**: automatically build *predictions* from complex data
+- **[[Machine Learning]]**: automatically build *predictions* from complex data
   - Key techniques include **lasso regularized regression**, **random forests**, **neural networks** (295)
   - Focus is to maximize predictive performance on out-of-sample data
   - Limited *structural* interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)
@@ -378,19 +378,22 @@ id10 --> id11
 
 ## Chapter 10: Artificial Intelligence
 *Summary: Artificial Intelligence can replace people for certain tasks. This is achieved by decomposing complex tasks into sub-problems that can be solved with general-purpose machine learning tools, especially deep neural nets.*
-- Let **Artificial Intelligence** be *systems* that ingest human-level knowledge to automate and accelerate tasks previously performed only by humans
+- Let **[[Artificial Intelligence]]** be *systems* that ingest human-level knowledge to automate and accelerate tasks previously performed only by humans
 	- Seeks to solve complex problems by using *domain knowledge* to break them down into simple predictions tasks that can be performed with ML
 	- **"ML has the potential to become a cloud computing commodity. In contrast, the domain knowledge necessary to combine ML components into an end-to-end AI solution will not be commoditized. Those who have expertise that can break complex human business problems into ML-solvable components will succeed in building the next generation of business AI."** (292)
 - Contemporary AI is driven by **General-Purpose Machine Learning**, some key components of which include deep neural nets, OOS validation, stochastic gradient descent for parameter optimization, and GPU hardware for parallelization
 - **Deep Learning** or **Deep Neural Nets** (DNNs) combine restrictive dimension reduction (like parametric models) with flexible function approximation (like nonparametric models) using many layers
 	- Neural networks have a long history (including failed experiments with *wide* neural networks in the 1990s), but *deep* neural nets have been enabled recently by big data and GPUs
 	- DNNs are modular: each layer plays a role and they can be swapped out, including to transfer learning between models
-	- See *Deep Learning* by Goodfellow, Bengio, and Courville; *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)* by Michael Nielsen
+	- See *Deep Learning* by Goodfellow, Bengio, and Courville; *[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)* by [[Michael Nielsen]]
 - **Stochastic Gradient Descent** replaces the actual gradients with estimates of those gradients based on a subset of the data
 - **Reinforcement Learning** (RL) (aka active learning or sequential design of experiments) algorithms choose data consumed to continue learning
 
 
----
+--- 
+**Topic**: [[Data Science Learning]]
+
+**Source**: [[Matt B]]
 
 **Errata**
 - 37: "is then available via Bayes rule" --> "is then available via **Bayes'** rule"
@@ -403,5 +406,6 @@ id10 --> id11
 - 237: "This data originally appear in" --> "**These** data originally appear in" or "This data originally **appears** in"
 
 ---
-Created: 2021-04-16
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-04-16-Fri]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+

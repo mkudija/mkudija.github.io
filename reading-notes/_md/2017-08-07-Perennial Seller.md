@@ -2,7 +2,7 @@
 # *Perennial Seller* by [[Ryan Holiday]]
 
 ## Introduction
-* [[The Lindy Effect]]: every day something lasts, it increases the chances it will continue to last increase (6)
+* [[Lindy Effect]]: every day something lasts, it increases the chances it will continue to last increase (6)
 * “I don’t believe I have created masterpieces that will last a thousand years, but I humbly submit that longevity has been the aim of my work” (9)
 
 ## The Creative Process

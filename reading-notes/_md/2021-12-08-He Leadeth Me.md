@@ -1,5 +1,5 @@
 
-# [*He Leadeth Me: An Extraordinary Testament of Faith*](https://www.penguinrandomhouse.com/books/27850/he-leadeth-me-by-walter-j-ciszek-sj-with-daniel-flaherty-sj/) by Walter J. Ciszek, S.J. & Daniel L. Flaherty, S.J.
+# [*He Leadeth Me: An Extraordinary Testament of Faith*](https://www.penguinrandomhouse.com/books/27850/he-leadeth-me-by-walter-j-ciszek-sj-with-daniel-flaherty-sj/) by [[Walter J. Ciszek, S.J.]] & Daniel L. Flaherty, S.J.
 
 <img src="https://images1.penguinrandomhouse.com/cover/9780804141529" width=150>
 

@@ -37,7 +37,7 @@ Black Swan:
 
 
 ### Books From Taleb 
-- *The Berlin Diaries* by William Shirer (history as it is taking place, 12-13)
+- *The Berlin Diaries* by [[William L. Shirer]] (history as it is taking place, 12-13)
 - *Aversos Mathematicos* by Sextus
 - *Il deserto dei tartari* by Dino Buzzati (92)
 - *Essays* by Montaigne (101)
@@ -135,9 +135,9 @@ Black Swan:
 ### Chapter 10: The Scandal of Prediction
 - "What matters is not how often you are right but what your cumulative errors are" (149)
 - *Tunneling*: neglecting sources of uncertainty outside the plan itself (156)
-- The ease of spreadsheets leads to overly confident long term forecasts (158)
+- The ease of spreadsheets leads to overly confident long term [[Forecasting|forecasts]] (158)
 - Variability matters: don't cross a river that is on avg 4 feet deep (160)
-- Don't forecast for your job, and recognize that you can't forecast (163)
+- Don't [[Forecasting|forecast]] for your job, and recognize that you can't forecast (163)
 
 ### Chapter 11: How to Look for Bird Poop (cosmic microwave background)
 - Popper's argument: to predict historical events you need to predict technological innovation which is impossible (171)

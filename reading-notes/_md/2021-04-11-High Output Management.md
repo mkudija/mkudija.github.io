@@ -389,6 +389,11 @@
 
 - This article is a great summary and extension of much of the thinking in *High Output Management*: [[2021-08-08 Article-Lessons from Keith Rabois Essay 3- How to be an Effective Executive]]
 
+--- 
+**Topic**: [[Leadership]], [[Management]]
+
+**Source**: [[Matt B]]
+
 ---
 Created: 2021-04-11
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

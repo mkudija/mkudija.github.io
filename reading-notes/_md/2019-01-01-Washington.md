@@ -1,6 +1,6 @@
-# [*Washington: A Life (Abridged)*](https://www.amazon.com/Washington-Life-Ron-Chernow/dp/1594202664/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1546391859&sr=8-1) by Ron Chernow
+# [*Washington: A Life (Abridged)*](https://www.amazon.com/Washington-Life-Ron-Chernow/dp/1594202664/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1546391859&sr=8-1) by [[Ron Chernow]]
 
-(New York: Penguin, 2010), 904
+`(New York: Penguin, 2010), 904`
 
 - Real estate was key to his wealth building, though some acquired by questionable means
 - American revolution somewhat different in that it was instigated by wealthy landowners unhappy with economic circumstances (rather than revolting peasants)

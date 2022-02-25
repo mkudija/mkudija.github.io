@@ -2,6 +2,6 @@
 # Wizard: The Life and Times of Nikola Tesla by Marc J. Seifer
 
 * Tesla bladeless turbine
-* First principles but lacking business sense
+* [[First principles thinking]] but lacking business sense
 
 

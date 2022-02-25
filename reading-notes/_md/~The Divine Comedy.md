@@ -23,7 +23,7 @@
 
 **Bibliography**
 
-- see outline and questions in *How to Read a Book* by Mortimer Adler (appendix B, 383)
+- see outline and questions in *How to Read a Book* by [[Mortimer Adler]] (appendix B, 383)
 
 ```jupyter
 for i in range(34):

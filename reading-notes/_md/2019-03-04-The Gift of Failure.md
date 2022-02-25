@@ -1,6 +1,6 @@
 # [*The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed*](https://www.amazon.com/Gift-Failure-Parents-Children-Succeed/dp/0062299255/ref=sr_1_1?crid=20911MCXTRS4R&keywords=the+gift+of+failure&qid=1551727284&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by Jessica Lahey
 
-(New York: Harper, 2015), 243
+``(New York: Harper, 2015), 243``
 
 ## Introduction
 - “there does not seem to be a middle ground any more between having it all and having nothing” (xvi)
@@ -98,3 +98,12 @@
 - let kids have autonomy over their learning
 - beware grading software portals (let your kids own their grades, not you)
 - reinforce failure as opportunity
+
+
+--- 
+**Topic**: [[Parenting]]
+
+
+---
+Created: [[2019-06-17-Mon]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

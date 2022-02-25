@@ -1,7 +1,7 @@
 
-# [*Free to Focus: A Total Productivity System to Achieve More by Doing Less*](https://www.amazon.com/Free-Focus-Productivity-System-Achieve/dp/0801075262/ref=sr_1_2?crid=1SHK3MTM48PXM&dchild=1&keywords=free+to+focus&qid=1602268912&sprefix=women%27s+bath%2Caps%2C214&sr=8-2) by Michael Hyatt
+# [*Free to Focus: A Total Productivity System to Achieve More by Doing Less*](https://www.amazon.com/Free-Focus-Productivity-System-Achieve/dp/0801075262/ref=sr_1_2?crid=1SHK3MTM48PXM&dchild=1&keywords=free+to+focus&qid=1602268912&sprefix=women%27s+bath%2Caps%2C214&sr=8-2) by [[Michael Hyatt]]
 
-(Grand Rapids: Baker Books, 2019), 228
+`(Grand Rapids: Baker Books, 2019), 228`
 
 ## Resources
 - [https://freetofocus.com/tools/](https://freetofocus.com/tools/)
@@ -107,7 +107,7 @@
 # Part 3 - Act
 
 ## Chapter 7 - Consolidate
-- Task switching is costly (cf Cal Newport), so batch (or MegaBatch) your work
+- Task switching is costly (cf [[Cal Newport]]), so batch (or MegaBatch) your work
 - Front stage: tasks you are hired specifically to accomplish
   - There should be significant overlap between front stage and your desire zone
 - Back stage: behind the scenes that enables front stage to happen

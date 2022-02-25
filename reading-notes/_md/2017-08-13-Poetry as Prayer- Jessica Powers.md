@@ -13,5 +13,10 @@
     * Memorize
     * Keep a poetry journal
 
+--- 
+**Topic**: [[Poems]]
 
 
+---
+Created: 2017-08-13
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

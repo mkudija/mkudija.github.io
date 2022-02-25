@@ -1,6 +1,6 @@
-# *The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932* by William Manchester
+# *The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932* by [[William Manchester]]
 
-(New York: Little, Brown, and Company, 1983), 883
+`(New York: Little, Brown, and Company, 1983), 883`
 
 
 
@@ -66,3 +66,12 @@ Elected to parliament at 25 (I'm 27 as I read this), (8)
 Published 56 books (13)
 
 painted and was a bricklayer at Chartwell
+
+
+--- 
+**Topic**: [[Winston Churchill]]
+
+
+---
+Created: 2018-07-11
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

@@ -11,6 +11,8 @@ Tristan Harris: [Joe Rogan Experience #1558 - Tristan Harris - YouTube](https://
 - https://youtu.be/OaTKaHKCAFg?t=8265
 - https://youtu.be/OaTKaHKCAFg?t=8345
 
+See [this from Nat Eliason](https://www.nateliason.com/notes/amusing-death-neil-postman)
+
 
 # Notes
 

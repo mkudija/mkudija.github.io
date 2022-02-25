@@ -1,5 +1,5 @@
 
-# [*The Rise and Fall of the Third Reich: A History of Nazi Germany*](https://www.amazon.com/Rise-Fall-Third-Reich-History-dp-1451642598) by William L. Shirer
+# [*The Rise and Fall of the Third Reich: A History of Nazi Germany*](https://www.amazon.com/Rise-Fall-Third-Reich-History-dp-1451642598) by [[William L. Shirer]]
 
 `(New York: Simon and Schuster, 1960), 1143`
 
@@ -61,3 +61,11 @@
 ## Reference
 - [*Revisiting The Rise and Fall of the Third Reich*](https://www.smithsonianmag.com/history/revisiting-the-rise-and-fall-of-the-third-reich-20231221/)
 
+
+--- 
+**Topic**: [[World War II]]
+
+
+---
+Created: 2019-6-13
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

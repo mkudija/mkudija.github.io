@@ -1,9 +1,8 @@
 
-# [*Hornblower and the Hotspur*](https://www.amazon.com/Hornblower-Hotspur-Publisher-Back-Books/dp/B004S7R9V4) by C.S. Forester
+# [*Hornblower and the Hotspur*](https://www.amazon.com/Hornblower-Hotspur-Publisher-Back-Books/dp/B004S7R9V4) by [[C.S. Forester]]
 
 `(New York: Little Brown, 1962), 394`
 
-`Notes Started: 2021-06-30`
 
 - "But remember this. You'll find it hard to perform your duty unless you risk your ship. There's folly and there's foolhardiness on one side, and there's daring and calculation on the other. Make the right choice, and Ill see you through any trouble that may ensue." (14)
 - "He was going to be a father. For the life of him he could not tell if he were pleased or not." (134)
@@ -19,3 +18,7 @@
 **New Words**
 
 - **invigilation**: diligent watching (126)
+
+---
+Created: [[2021-06-30-Wed]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

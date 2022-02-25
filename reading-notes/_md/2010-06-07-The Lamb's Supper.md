@@ -1,5 +1,5 @@
 
-# *The Lamb's Supper* by Scott Hahn
+# *The Lamb's Supper* by [[Scott Hahn]]
 
 - Melchizedek - Gen 14:18, Heb 7:1 (16).
 - Read Psalm 22 - "Why have you forsaken me" ultimately ends in salvation (33).

@@ -8,15 +8,15 @@
 
 - "Democratic citizenship requires knowledge of war." (xvii)
 - Lewis: "We know from the experience of the last twenty years that a terrified and angry pacifism is one of the roads that leads to war." (xviii)
-- Tolkien and Lewis fight back against "[[The Myth of Progress]]" (2)
+- [[J.R.R. Tolkien]] and [[C. S. Lewis]] fight back against "[[The Myth of Progress]]" (2)
 - Lewis and Tolkien's works both show the historic Christian tradition: "human nature is a tragic mix of nobility and weakness....all stories are ultimately about the fall" (21)
-- The Thirty Years War as a prelude to WWI (27-29)
+- The Thirty Years War as a prelude to [[World War I|WWI]] (27-29)
 - Interesting observation from Lewis: "All those who have the courage to do so and are physically sound, are going off to be shot: those who survive are moral and physical weeds—a fact which does not promise favorably for the next generation." (32)
 - War doesn't guarantee peace: "the forces of evil would not be eradicated by the next battle" (50)
 - Tolkien: the character of the hobbit was a reflection of the ordinary British soldier (75)
 - Lewis had the images of the gruesome nature of war emblazoned in his mind from *The Iliad* (81)
 - *Phantastes: A Faerie Romance* by George MacDonald was immensely influential for Lewis (82)
-- Churchill: "There never was a time when the inherent virtue of human beings required more strong and confident expression in daily life." (100)
+- [[Winston Churchill]]: "There never was a time when the inherent virtue of human beings required more strong and confident expression in daily life." (100)
 - three plagues launched by WWI: the Spanish influenza, atheistic communism, and fascism (111-113)
 - Freudian psychology, the new hedonism, and the loss of faith after WWI (115-120)
 - Owen Barfield convinced Lewis to abandon his "**chronological snobbery**: the assumption that the dominant intellectual fashion of the day makes every mode of thought from the past either suspect or irrelevant" (127)
@@ -35,8 +35,8 @@
 **Bibliography**
 
 - *The Father of us All* by Victor Davis Hanson (xvii)
-- *Empire: The Rise and Demise of the British World Order* by Niall Ferguson
-- *The World Crisis* by Winston Churchill
+- *Empire: The Rise and Demise of the British World Order* by [[Niall Ferguson]]
+- *The World Crisis* by [[Winston Churchill]]
 - *J.R.R. Tolkien: A Biography* by Humphrey Carpenter
 - *The Thirty Years War: Europe's Tragedy* by Peter Wilson (28)
 - *Phantastes: A Faerie Romance* by George MacDonald (82)

@@ -1,6 +1,6 @@
 # [*Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong*](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything/dp/0062416049/ref=sr_1_2?ie=UTF8&qid=1542230570&sr=8-2&keywords=barking+up+the+wrong+tree) by Eric Barker
 
-(New York: HarperCollins, 2017), 268
+`(New York: HarperCollins, 2017), 268`
 
 
 # Chapter 1 - Should we play it safe? 
@@ -41,10 +41,9 @@
 # Chapter 6 - Work life balance
 - track your time
 - talk to your boss
-- don't use to-do lists, schedule everything (Cal Newport)
+- don't use to-do lists, schedule everything ([[Cal Newport]])
 - control your context (environment)
 - end the day right and on time
 
 # Conclusion
-- 
 

@@ -22,19 +22,15 @@
 ***Read for Whim***: let the pleasure of reading be its end (14-16):
 - "...I don't like mixing reading with onerous duties." (14)
 - He uses the memoirs of Richard Rodriguez *Hunger for Memory* as an example of the mental state of reading as obligation he wants to avoid:
-  - On reading Plato: "I needed to keep looking at the book jacket comments to remind myself what the text was about. Nevertheless,...I looked at every word of the text. And by the time I reached the last word, I convinced myself that I had read *The Republic*. In a ceremony of great pride, I solemnly crossed Plato off my list."
+  - On reading [[Plato]]: "I needed to keep looking at the book jacket comments to remind myself what the text was about. Nevertheless,...I looked at every word of the text. And by the time I reached the last word, I convinced myself that I had read *[[~The Republic]]*. In a ceremony of great pride, I solemnly crossed Plato off my list."
 - Rather, Jacobs is committed to *read at whim* which he learned from Randall Jarrell:
   - "To him [reading] wasn't a means to a lecture or article, it was an end; he read not for anything he could get out of it, but for itself. And isn't this what the work of art demands of us?" (15)
-
-- Don't let your reading become page-counting and box-checking (merely "social and ethical hygiene" as he quotes Lewis)..."how depressing" (17)
-- And don't be guided by Harold Bloom and others who preach an authoritative canon because it can only make people feel two ways (18-21):
+- Don't let your reading become page-counting and box-checking (merely "social and ethical hygiene" as he quotes [[C. S. Lewis]])..."how depressing" (17)
+- And don't be guided by [[Harold Bloom]] and others who preach an authoritative canon because it can only make people feel two ways (18-21):
   - Arrogant that "I and a few others like me, read the *proper* works"
   - "How can I be worthy of this high calling?"
-
 - Jacobs discusses pretension and signaling (21-22), which he says is "forgivable and even touching" in youth, but "can be unpleasant in a mature adult" (22)
-
 - His final recommendation? "Read what gives you delight—at least most of the time—and do so without shame. And even if you are that rare sort of person who is delighted chiefly by what some people call Great Books, don't make them your steady intellectual diet, any more that you would eat at the most elegant of restaurants every day. It would be too much. Great books are great in part because of what they ask of their readers: they are not readily encountered, easily assessed." (23)
-
 - He closes (24-25) with a discussion of Walter Kirn and Cathleen Schine, and how they were able to discover their love for *real* reading well after reading as a forced activity
   - Kirn was playing an empty game of "learning as a form of borrowing" and "intelligence as a form of borrowing slyly".
 

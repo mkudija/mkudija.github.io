@@ -1,7 +1,7 @@
 
-# [*American Caesar: Douglas MacArthur 1880 - 1964*](https://www.amazon.com/American-Caesar-Douglas-MacArthur-1880/dp/0316024740/ref=sr_1_1?keywords=american+caesar&qid=1575888083&sr=8-1) by William Manchester
+# [*American Caesar: Douglas MacArthur 1880 - 1964*](https://www.amazon.com/American-Caesar-Douglas-MacArthur-1880/dp/0316024740/ref=sr_1_1?keywords=american+caesar&qid=1575888083&sr=8-1) by [[William Manchester]]
 
-(New York: Dell, 1978), 846
+``(New York: Dell, 1978), 846``
 
 
 You could fill pages with quotes, notes, and thoughts from this book. Since I listened to it my notes are sparse, but some are below: 

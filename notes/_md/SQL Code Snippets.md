@@ -297,6 +297,14 @@ SELECT
 	LAG(col, 1) OVER (ORDER BY calendar_month ASC) AS col_lag_7
 ```
 
+### Development Months and Terms
+`dev_mo` starts at 0, `term` starts at 1:
+
+```sql
+, DATEDIFF('month', policy_effective_month, calendar_month) AS dev_month  
+, dev_month / 6 + 1 AS term
+```
+
 ## Dates
 ### Last 7 days of data
 
@@ -358,4 +366,3 @@ SELECT LEFT(GETDATE(),10)
 ---
 Created: [[2019-06-25-Tue]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
-

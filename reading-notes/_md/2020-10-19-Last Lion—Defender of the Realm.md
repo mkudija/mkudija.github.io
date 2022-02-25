@@ -1,7 +1,6 @@
-# [*The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965*](https://www.amazon.com/Last-Lion-Churchill-Defender-1940-1965/dp/0345548639/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=defender+of+the+realm&qid=1603129875&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) by William Manchester
+# [*The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965*](https://www.amazon.com/Last-Lion-Churchill-Defender-1940-1965/dp/0345548639/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=defender+of+the+realm&qid=1603129875&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) by [[William Manchester]]
 
-(New York: Little, Brown, and Company, 2012), 1053
-
+`(New York: Little, Brown, and Company, 2012), 1053`
 
 
 ## Themes
@@ -30,7 +29,7 @@
 - *Hornblower* (391)
 - Grant's war memoirs (which he read when he was 13!) (519)
 - *Phineas Finn* and *The Duke's Children* (871)
-- *Jane Eyre*, Trollope, *Candide*, *Wuthering Heights*, *1984*, *Phineas Finn*, C.S. Forester (1023), *Death to the French* (1026)
+- *Jane Eyre*, Trollope, *Candide*, *Wuthering Heights*, *1984*, *Phineas Finn*, [[C.S. Forester]] (1023), *Death to the French* (1026)
 - movies (1041)
 
 ## Quotes
@@ -182,6 +181,16 @@
 - Honorary US Citizenship (1051)
 - Dies January 24, 1965 (1052)
 
-## New Words
+
+
+--- 
+**Topic**: [[Winston Churchill]]
+
+**New Words**
+
 - doyen (115)
 - insouciance (900)
+
+---
+Created: 2020-10-19
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

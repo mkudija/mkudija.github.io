@@ -1,7 +1,7 @@
 
 # [*The Conversation: How Seeking and Speaking the Truth about Racism Can Radically Transform Individuals and Organizations*](https://www.amazon.com/Conversation-Radically-Transform-Individuals-Organizations/dp/0593238567/ref=sr_1_1?crid=CEYWC8VZ5JOE&dchild=1&keywords=the+conversation+robert+livingston&qid=1614820585&sprefix=The+Conversation+rob%2Caps%2C182&sr=8-1) by Robert Livingston
 
-(New York: Currency, 2021), 308
+`(New York: Currency, 2021), 308`
 
 Dr. Robert Livingston spoke virtually at Root recently and they mailed us this book to engage in the conversation. I'm glad they did and I'm glad I read it. I find his approach to discussing racism to be honest, humble, patient, realistic, and data-driven in a way that much of the other material I have read is not. He speaks from moral and pragmatic principles in a way that is not politicized but seeks to deeply understand the issue in a way to make productive progress. One part of the book that really struck me was is the importance of having diverse images we see and heroes we look up to. We decided to make a collage at home of saints—black, white, and all shades in between—to put up in our home to emphasize what really matters.
 
@@ -32,7 +32,7 @@ Dr. Robert Livingston spoke virtually at Root recently and they mailed us this b
 
 ## Chapter 1: Do We All Believe That Racism Exists?
 - the "fellas"
-- **Racism credence**: people's beliefs about the existence of racism (6)
+- **[[Racism]] credence**: people's beliefs about the existence of racism (6)
     - Whites believe much less racism than Blacks (8)
 - Cognitive heuristics that impact judgment of racism (11):
     - *Availability heuristic*: overweight information that is readily available (i.e. rich and famous blacks as representative)

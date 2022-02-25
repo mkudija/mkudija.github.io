@@ -1,11 +1,11 @@
 
-# The Well-Educated Mind by Susan Wise Bauer
+# *The Well-Educated Mind* by [[Susan Wise Bauer]]
 
 * Chapter 1 - Training Your Mind
     * From Jefferson: we can fill our “chasms of time” (14) with useful study
-    * Mortimer Adler: reading allows us to participate in the “Great Conversation” of ideas (16)
+    * [[Mortimer Adler]]: reading allows us to participate in the “Great Conversation” of ideas (16)
     * Francis Bacon: “Some books are to be tasted, others to be swallowed, and some few to be chewed and digested” (18)
-    * classical education is divided into three stages, the trivium
+    * [[Classical Education]] is divided into three stages, the trivium
         * grammar: foundational knowledge
         * logic: analyze
         * rhetoric: express your own opinion
@@ -66,5 +66,4 @@
         * Don’t feel bound by the lists: add or subtract to match your interests
             * Also pick how much to focus on each: some to digest
 
-
-
+[[Classical Education]]

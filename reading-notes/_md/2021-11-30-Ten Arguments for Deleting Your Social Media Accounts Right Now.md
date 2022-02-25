@@ -72,6 +72,5 @@
 - You can’t use the internet well until you’ve encountered it on your own terms 
 
 ---
-Created: 2021-11-30
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2021-11-30-Tue]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

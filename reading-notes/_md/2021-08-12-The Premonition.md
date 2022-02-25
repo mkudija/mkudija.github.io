@@ -24,7 +24,7 @@
 - A map/plan is a starting point, even if not perfect it gives you options to keep trying” (125)  
 - the Mann Gulch fire as a metaphor for pandemics (172)  
  - book: *Young Men and Fire* by Norman Maclean (172, 186)  
-- Charity Dean was in Churchill’s position before WWII in Jan 2020 when Sonia Angell blocked her from pandemic preparedness, and she found solace in *Alone* by [[William Manchester]] (198)  
+- Charity Dean was in [[Winston Churchill]]’s position before WWII in Jan 2020 when Sonia Angell blocked her from pandemic preparedness, and she found solace in *Alone* by [[William Manchester]] (198)  
 - fire extinguisher analogy: “the problem with implementing social interventions too late is you get all the downsides and little benefit, so speed it critical” (211)  
 - Charity Dean: “Why doesn’t the United States have the institutions it needs to save itself?” (279, cf. [We Must Found Institutions, Not Just Preserve Them: A Conservatism of Creation - Public Discourse](https://www.thepublicdiscourse.com/2021/02/74242/))  
 - CDC cowardice: *The Swine Flu Affair* smeared David Sencer for his vaccination program in 1976 and sent a message to future public health officials who might stick their necks out (286)

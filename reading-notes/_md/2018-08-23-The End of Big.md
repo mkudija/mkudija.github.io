@@ -8,7 +8,7 @@
 
 ## Chapter 1
 - Technology is not value neutral
-- Postman: techbopoly 
+- [[Neil Postman]]: techbopoly 
 - Nerd disease: tech people making things overly complicated for their benefit. The reality is that most of technology is not (or need not be) that complicated. 
 
 
@@ -17,4 +17,4 @@
 
 
 ## Chapter 7 
-- Memorize poems 
+- Memorize [[Poems]] ([[Memory]])

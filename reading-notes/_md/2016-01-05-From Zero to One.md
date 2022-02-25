@@ -1,5 +1,5 @@
 
-# From Zero to One by Peter Theil
+# *From Zero to One* by [[Peter Thiel]]
 
 * Zero to one means creating something instead of incremental improvement: build something new 
     * Must offer at lest a 10x improvement on what exists to not be just an incremental improvement 

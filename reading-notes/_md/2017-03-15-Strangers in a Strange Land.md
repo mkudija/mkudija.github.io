@@ -5,10 +5,12 @@
 
 `(New York: Henry Holt/Macmillan, 2017), 288`
 
+![[Ex-02#v22]]
+
 
 * Benedict quote, 3
 * *[[2020-11-27-Lord of the World]]* by Robert Hugh Benson (Francis has read this multiple times), 10
-* Discussion of City of God, 12-16
+* Discussion of *[[2017-01-03-The City of God]]*, 12-16
 * Outline:
     * Chapter 2 is history of America 
     * Chapters 3-7 outline where we are now and how we got there
@@ -19,7 +21,7 @@
         * Constitutionalism: single document created new; can change but difficult to lint passions
         * Natural law: moral order 
         * Cultural tradition: greater narrative, humility about our place in the world 
-    * America is a Protestant nation from the beginning without a previous catholic culture. Chesterton: "America has always been a nation that thinks it's a church." (34)
+    * America is a Protestant nation from the beginning without a previous catholic culture. [[G.K. Chesterton]]: "America has always been a nation that thinks it's a church." (34)
     * Rise of Catholics though the world wars mixing patriotism and church, culminating in the rise of JFK
     * Closes with American idealism and stating that America can only endure with its structure as long as there are leaders who embody the philosophy of the founders
 * Chapter 3
