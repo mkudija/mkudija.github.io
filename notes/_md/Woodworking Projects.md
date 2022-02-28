@@ -17,6 +17,13 @@ publish: true
 # Woodworking Projects
 
 
+### 2022-02-27 Icon
+*Cherry*
+
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-02-27-icon.jpg" width="100%"/>
+
+
+
 ### 2021-10-17 Corner Shelves
 *Pine*
 
@@ -370,3 +377,6 @@ publish: true
 ### 2019-05-11 Vise Restoration
 
 <img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2019-05-11-vice-restoration.jpg" width="100%"/>
+
+---
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

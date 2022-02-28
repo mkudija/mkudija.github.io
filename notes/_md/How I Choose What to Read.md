@@ -6,7 +6,7 @@ publish: true
 My reading list is rather flexible, but here are some general principles I tend to follow when choosing what to read next.
 
 ### Great Books
-It doesn't matter how you define a "great" book: there will always be more great books books to read than one could hope to get through in a lifetime. 
+It doesn't matter how you define a "great" book: there will always be more great books to read than one could hope to get through in a lifetime. 
 
 Because I view reading the great books as a lifetime project, rather than identifying a canon of great books and checking them off until I'm done, I prefer to make sure that I'm continually reading, re-reading, and digesting some of the great books. There are many [[Reading Lists]] that can serve as a guide, but each person will have their own list of "great" books.
 
@@ -35,11 +35,11 @@ A book you both have read can be a powerful connection with others. Books that a
 Recommendations from friends or family who know you well can provide a good balance of being something you would both enjoy and be challenged by or offer a different perspective. 
 
 ### For Whim
-At the end of the day, I always leave some room for whim in my reading list. Reading can and often should be a challenge that pushes you to grow, but it should also be enjoyable and provide some room for serendipity. Those new threads to pull on might come from a conversation or the bibliography of book in progress and can little ways to listen to the whispering voice of God[^whisper].
+At the end of the day, I always leave some room for whim in my reading list. Reading can and often should be a challenge that pushes you to grow, but it should also be enjoyable and provide some room for serendipity. Those new threads to pull on might come from a conversation or the bibliography of a book in progress and can be little ways to listen to the whispering voice of God[^whisper].
 
 [^whisper]: cf. [[1 Kgs-19#v12]]
 
-[[Alan Jacobs]], author of *[[2018-04-04-The Pleasures of Reading]]*, also lbooktalks about reading for whim:
+[[Alan Jacobs]], author of *[[2018-04-04-The Pleasures of Reading]]*, also talks about reading for whim:
 
 >Read what gives you delight—at least most of the time—and do so without shame. And even if you are that rare sort of person who is delighted chiefly by what some people call Great Books, don't make them your steady intellectual diet, any more that you would eat at the most elegant of restaurants every day. It would be too much. Great books are great in part because of what they ask of their readers: they are not readily encountered, easily assessed.[^jacobs]
 
@@ -50,12 +50,16 @@ At the end of the day, I always leave some room for whim in my reading list. Rea
 <summary>to add</summary>
 ### Read diversely
 - [[2022-02-08 Article-Deep Bookshelf]]
+- "windows" vs "mirrors" analogy from [Becca's article](https://mail.google.com/mail/u/1/#search/book/FMfcgzGmtrPlpLQrbqnwJCLLpxvgnVrP)
 
 ### Read deeply by topic in "stacks"
-
 - theology/spirituality
 - crypto
 - data science
+
+### Other
+- read for travel (like I did for Joyce and [[Gerard Manley Hopkins]])
+- read what's already on your bookshelf
 
 </details>
 

@@ -1,7 +1,7 @@
 
 # [*Why We Drive: Toward a Philosophy of the Open Road*](https://www.harpercollins.com/products/why-we-drive-matthew-b-crawford) by [[Matthew B. Crawford]]
 
-<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062741974_4d0cefb3-4208-4cd3-9abc-349764af8580.jpg?v=1635857700" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062741974.jpg" width=150>
 
 `(New York: HarperCollins, 2020), 348`
 
@@ -168,7 +168,7 @@
 ## If Google Built Cars
 - customer service: if the exit costs are high enough you don’t need an actual monopoly to get monopoly behavior (298)
 - tech in cars leads to surveillance capitalism (301)
-- read *The Age of Surveillance Capitalism* by Shoshana Zuboff (302+)
+- read *[[~The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (302+)
 - terrifying privacy implications of “smart” devices: sleep number beds, Nest thermostats, roomba vaccines...”dumb” products will cost a premium (305-306)
 - “The surest way to predict behavior is to intervene at its source and shape it” (307)
 
@@ -190,7 +190,7 @@
 - *The Waning of the Middle Ages* by Johan Huizinga (155)
 - *Homo Ludens* by Johan Huizinga (168)
 - *Seeing Like a State* (267)
-- *The Age of Surveillance Capitalism* by Shoshana Zuboff (302+)
+- *[[~The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (302+)
 
 ---
 Created: 2021-03-27

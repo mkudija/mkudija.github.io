@@ -165,7 +165,7 @@
 - *The Triumph of the Therapeutic* by [[Philip Rieff]] (11)
 - *Insatiability* (novel) by Czesław Miłoz (15)
 - *Iron Curtain: The Crushing of Eastern Europe 1944–1956* by Anne Applebaum (28, 220)
-- *The Age of Surveillance Capitalism* by Shoshana Zuboff (76)
+- *[[~The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (76)
 - *Permanent Record* by Edward Snowden (82)
 - *The Unbearable Lightness of Being* by Milan Kundera (91)
 - ["The Power of the Powerless"](https://web.archive.org/web/20120107141633/http://www.vaclavhavel.cz/showtrans.php?cat=clanky&val=72_aj_clanky.html&typ=HTML) by [[Václav Havel]] (97)
