@@ -12,6 +12,9 @@
 
 - "You must keep on shoving all the virtues outward till they are finally located in the circle of fantasy, and all the desirable qualities inward into the Will. It is only in so far as they reach the will and are there embodied in habits that the virtues are really fatal to us." (37)
 
+## VII
+- "The attitude which you want to guard against is that in which **temporal affairs are treated primarily as material for obedience**. Once you have made the World an end, and faith a means, you have almost won your man, and it makes very little difference what kind of worldly end he is pursuing."
+
 
 ## VIII
 

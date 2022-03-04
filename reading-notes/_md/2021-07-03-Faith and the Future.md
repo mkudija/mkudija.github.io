@@ -24,7 +24,7 @@
 
 ## Faith and Philosophy
 - The challenge for faith is that “philosophy no longer exists—only philosophies” (62)
-- Ratziner gives a history of modern theology through Schleiermacher (63), Barth (67)
+- Ratziner gives a history of modern theology through [[Schleiermacher]] (63), Barth (67)
 - "There is no longer a common philosophical certainty, unless it be the certainty, shared by all modern philosophies, that there is no certainty beyond the sphere of the exact sciences (73, c.f. *[[2020-11-18-After Virtue#Ch 1 - A Disquieting Suggestion|After Virtue]]*)
 - The distraction of modern philosophy as a symptom of the attempt to be exact like the physical sciences (75)
 - Marx: man creates truth (77)
@@ -59,7 +59,7 @@
 - *Introduction to Christianity* by [[Joseph Ratzinger]] (34)
 - *The Force of Circumstance* by Simone de Beauvoir (52-55, describing the emptiness of a present without a future)
 - *The Little Prince* by Antoine de Saint-Exupéry (111-112, "seeing with the heart")
-- de Lubac" ["Holiness in Future"](https://github.com/mkudija/notes/blob/master/Holiness%20In%20Future%20by%20de%20Lubac.pdf) in *The Church: Paradox and Mystery* (115)
+- de Lubac" ["Holiness in Future"](https://github.com/mkudija/notes/blob/master/Holiness%20In%20Future%20by%20de%20Lubac.pdf) in *[[~The Church-Paradox and Mystery]]* (115)
 
 ---
 Created: 2021-07-03

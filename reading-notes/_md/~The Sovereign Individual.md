@@ -1,9 +1,9 @@
 
-# [*The Sovereign Individual*]() by author
+# [*The Sovereign Individual*](https://www.simonandschuster.com/books/The-Sovereign-Individual/James-Dale-Davidson/9780684832722) by James Dale Davidson & Lord William Rees-Mogg
 
-<img src="" width=150>
+<img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780684832722/the-sovereign-individual-9780684832722_lg.jpg" width=150>
 
-`(City: Publisher, YYYY), PPP`
+`(New York: Touchstone, 1997), 446`
 
 # Notes
 
@@ -70,98 +70,6 @@ _**Summary**: _
 
 
 
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
 
 --- 
 **Source**: [[Cory]]

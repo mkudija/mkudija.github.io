@@ -1,5 +1,6 @@
-# *Steal Like an Artist* by Austin Kleon
-2018-04-12 (New York: Workman, 2012), 140
+# *Steal Like an Artist* by [[Austin Kleon]]
+
+`(New York: Workman, 2012), 140`
 
 # 1. Steal like and artist
 **How to look at the world (like an artist)**

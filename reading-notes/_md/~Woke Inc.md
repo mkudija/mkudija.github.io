@@ -8,7 +8,7 @@
 
 
 --- 
-**Topic**: [[Classical Education]]
+**Topic**: [[Classical Education]], [[Wokeness]], [[Capitalism]]
 
 **Source**
 - [[2022-02-15-Tue#Heart of Ohio Classical Academy HOCA - Governing Authority Meeting]]

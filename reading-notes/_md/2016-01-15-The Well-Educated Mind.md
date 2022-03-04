@@ -5,13 +5,13 @@
     * From Jefferson: we can fill our “chasms of time” (14) with useful study
     * [[Mortimer Adler]]: reading allows us to participate in the “Great Conversation” of ideas (16)
     * Francis Bacon: “Some books are to be tasted, others to be swallowed, and some few to be chewed and digested” (18)
-    * [[Classical Education]] is divided into three stages, the trivium
+    * [[Classical Education]] is divided into three stages, the [[Trivium]]
         * grammar: foundational knowledge
         * logic: analyze
         * rhetoric: express your own opinion
     * She emphasizes the importance of being deliberate and focused
         * “Engage no the mind in the intense pursuit of too many things at once” - Isaac Watts (20)
-        * Friedrich Schleiermacher described that wide-ranging, unsystematic reading left his mind “like Chaos, before the world was created (21)
+        * Friedrich [[Schleiermacher]] described that wide-ranging, unsystematic reading left his mind “like Chaos, before the world was created (21)
     * Set a time for study
         * morning
         * 4 days per week

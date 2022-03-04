@@ -1,5 +1,4 @@
-# *Show Your Work* by Austin Kleon
-2018-04-04
+# *Show Your Work* by [[Austin Kleon]]
 
 # Introduction
 - you don't find your audience, they find you...but you have to be *findable*

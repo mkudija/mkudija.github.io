@@ -132,7 +132,7 @@
 - *The Drama of Atheist Humanism* by [[Henri de Lubac]] (121)
 - *The Old Regime and the Revolution*  by [[Alexis de Tocqueville]] (121)
 - *[[~Democracy in America]]* by [[Alexis de Tocqueville]] (148)
-- *Domo Deus* by Yuval Noah Harari (129)
+- *Domo Deus* by [[Yuval Noah Harari]] (129)
 - *[[~Brave New World]]* by [[Aldous Huxley]] (130)
 - *The Shape of Things to Come* by H. G. Wells (130)
 - *[[2018-05-29-Why Liberalism Failed]]* by [[Patrick Deneen]] (149)
@@ -154,5 +154,5 @@
 - **Cabal**: a small group of people who work together secretly (193)
 
 ---
-Created: 2021-11-14
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-11-14-Sun]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

@@ -415,7 +415,7 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 Other:
 
 - *Gaudium et Spes* (22 and 24 especially), 846
-- *Brave New World* by Aldous Huxley (12)
+- *[[~Brave New World]]* by [[Aldous Huxley]] (12)
 - *True Devotion to Mary* by St. Louis de Montfort (57)
 - *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)
 - *Metaphysics* by Kazimierz Wais (70)

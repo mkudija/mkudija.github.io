@@ -32,13 +32,12 @@ This book is Ken Follett's response to the tragic fire at Notre Dame in 2019. Th
 	- Hugo is the greatest
 	- *The Chronicles of Barsetshire* by Anthony Trollope
 	- *The Spire* by William Golding
-	- *Murder in the Cathedral* by T. S. Eliot
+	- *Murder in the Cathedral* by [[T. S. Eliot]]
 	- *Cathedral* by Nelson DeMille
 - Cathedrals were never the mastermind of a single person, like the producer of a movie: “for me the cathedral is about what people can achieve when they work together” (60)
 - Cathedrals are like a space launch: it involved the whole of society, spurred technological development, brought economic benefits...and yet when you add up all the practical reasons they’re not quite enough to explain why we did it: has the spiritual element, it was done for the glory of God (61)
  - medieval builders made the unseen parts just as beautiful since they were seen by God  
 
 ---
-Created: 2021-08-30
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Created: [[2021-08-28-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

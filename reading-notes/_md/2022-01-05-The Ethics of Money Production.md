@@ -1,40 +1,68 @@
 
 # [*The Ethics of Money Production*](https://mises.org/library/ethics-money-production) by [[Jörg Guido Hülsmann]]
 
-<img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/Ethics%20of%20Money%20Production_Hulsmann.jpg?itok=-VGAY-ep" width=150>
+<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6101/9781610166812.jpg" width=150>
 
 `(Auburn: Mises Institute, 2008), 256`
-Notes: ■■■■□□□□□□ 40%
-Reflection: ■□□□□□□□□□ 10%
 
-[PDF: The Ethics of Money Production](https://cdn.mises.org/The%20Ethics%20of%20Money%20Production_2.pdf)
+Hülsmann's *The Ethics of Money Production* is a remarkable synthesis of Austrian economics and Catholic thought in the scholastic tradition. 
 
+Reading this book is an exercise in unlearning and then relearning economic principles and history we tend misunderstand and take for granted, namely what money even is and the central role of government in its production.
 
-<details>
-<summary>add to this</summary>
+Most of us understand money roughly as follows: the government prints money (dollars) which we earn when we work and use to buy things. Usually it is intangible: numbers show up on the screen of our bank accounts and disappear when we click the "place order" button. Yet these dollars are not actually money, and the government really has no business producing them.
 
+Hülsmann starts with a description of *natural monies*, or monies freely chosen when property rights are respected. Throughout human history we have used a number of different materials as money but these have most commonly been precious metals. The progression from natural money to government paper money has more steps than you might think and is fraught with moral compromises.
 
-write notes:
-- We need re-train ourselves about what money even *is*: tangible commodity value. We can perform all daily activities without ever touching money (or even cash which is fiat paper). Work, numbers show up on the screen, buy things and numbers get smaller and things show up at the door.
-- private vs fiat inflation (5)
+Silver, gold, and copper have frequently emerged in history as natural monies. Because these monies are scarce, have known value, are easy to work with, and maintain their physical properties over time, people adopt them as a medium of exchange. This indirect exchange allows them to trade money instead of goods or services and extend the division of labor—and therefore total output—of the economy. 
 
-[Mises notes](https://mises.org/library/ethics-money-production):
+Bullion can be hard to work with, though, so we developed *money certificates* that certify the presence of money and simplify transactions. These certificates come in the form of precious metals formed into coins that certify their metal content, or paper certificates for precious metals held in a bank. There is a direct relationship between the *certificate* and the *money*: coin certificates physically contain the money, and paper certificates are a one-to-one IOU for the delivery of the given amount of money held in reserve.
 
->By "money production," the author is speaking not in the colloquial sense of the phrase "making money," but rather the actual production of money as a commodity in the whole economic life. The choice of the money we use in exchange is not something that needs to be established and fixed by government.
+This is where the ethical challenges start. People realize they can *inflate* the money supply by reducing the money held in reserve that paper certificates are redeemed for. If not disclosed to customers, this is a form of counterfeiting because the risk of default on redemption is now higher and the market cannot freely adjust the price of the paper certificates accordingly. This is known as *fractional-reserve banking.*
 
->In fact, his thesis is that a government monopoly on money production and management has no ethical or economic grounding at all. Legal tender laws, bailout guarantees, tax-backed deposit insurance, and the entire apparatus that sustains national monetary systems, has been wholly unjustified. Money, he argues, should be a privately produced good like any other, such as clothing or food.
+The government stands to gain from manipulation of the money supply because it allows them to increase revenues by appropriating wealth from citizens without their consent or knowledge, avoiding unpopular taxes. Governments—who make the rules—then establish special legal privileges that favor these practices. Typically, this first comes in the form of *legal-tender laws* that force citizens to accept as payment specific untrustworthy money certificates they would not accept as payment in a free market. Then comes the legalized *suspension of payments* of the privileged banks issuing these certificates, allowing the banks to default on their creditors and bringing about the "reverse transubstantiation" by which those certificates—in the same form and appearance—undertake a new nature as fiat paper money notes.
 
->In arguing this way, he is disputing centuries of assumptions about money for which an argument is rarely offered. People just assume that government or central banks operating under government control should manage money. Hulsmann explores monetary thought from the ancient world through the Middle Ages to modern times to show that the monopolists are wrong. There is a strong case in both economic and ethical terms for the idea that money production should be wholly private.
+The United States Dollar, the global reserve currency today, followed this progression. It used to be a money certificate note redeemable for gold. Then on August 15, 1971 it became a fiat paper money note when Nixon announced the suspension of payments. What we colloquially call "money" today is in fact not money at all. 
 
->In his normative analysis, the author depends heavily on the monetary writings of 14th-century Bishop Nicole Oresme, whose monetary writings have been overlooked even by historians of economic thought.
+Why is this a moral issue? This creates fiat inflation where the money supply is increased beyond what the free market would produce, accomplished through fraud, imposition, and breech of contract. This violation of private property rights is intrinsically problematic. Furthermore, it produces many evils in our society: governments grow larger than needed against the principle of subsidiarity and become more tyrannical as they are able to pursue their own goals rather than those of their citizens; wars are longer and more brutal because they can be funded by governments without the support of the taxed population; debt balloons as governments escape the natural constraints of future revenues and private citizens attempt to preserve the purchasing power of their notes. The practice of fiat inflation through the production of paper money causes real damage to people and societal institutions.
 
-### Bitcoin
-- his objections to bitcoin
-	- A money commodity "must be desired for its nonmonetary services (for its own sake)" -> see notes below
-	- could not survive in a free market (55)
-	- Do contracts/other attributes of the blockchain give bitcoin intrinsic (though not physical) value?
-	- Perhaps Bitcoin is not "perfect" in his definition of money, but it is much better than the prevalent alternative (fiat paper money), and it may prevent us slipping back to a world of barter or only Gold coins?
-</details>
+The solution, Hülsmann says, is to choose a return to the natural production of money.
+
+### Bitcoin as natural money?
+Can Bitcoin be a natural money replacement for fiat paper money?
+
+Bitcoin was announced in a [white paper](https://bitcoin.org/bitcoin.pdf) in late 2008 and released in 2009. Hülsmann's text, published in 2008, is blind to this historical development but we can apply his arguments in *The Ethics of Money Production* to an evaluation of the nature of Bitcoin.
+
+Hülsmann is initially dismissive of electronic money on the grounds that—as of 2008—only electronic representations of government money have been produced, but no true electronic money has emerged spontaneously on the free market without coercion.[^33] He also suggests that "electronic currencies could not survive in a truly free market agains the competition of commodity monies."[^55]
+
+He argues that for a commodity to become natural money it "must be desired for its nonmonetary services (for its own sake)"[^23] for the purpose of establishing a baseline price to provide confidence in assessing future prices. Further:
+
+>No money can remain in circulation only because it has been in circulation up to now. The ultimate source of its value—the rock bottom of its value—must be something else than the mere fact that, so far, people have been willing to accept it.[^32]
+
+Despite over ten years of price history with generally decreasing volatility,[^volatility] Bitcoin cannot be considered natural money by Hülsmann's criteria. 
+
+If not natural money itself, Bitcoin can still help move us away from our current fiat paper money system and *toward* a future of natural monies. 
+
+It would be hard to walk into a store and pay with gold coins, but Bitcoin is increasingly becoming a viable alternative to fiat paper that can lead the way to the "even better" future Hülsmann envisions.[^242]
+
+Hülsmann repeatedly decries the immoral *nature* of our current fiat paper money system that originated and is sustained by coercion and the violation of property rights and its *effects* including tyranny and conflict.[^172] Bitcoin, while not perfect, offers a viable alternative to opt out of this immoral system. A full return to natural money will require changing the laws that privilege banks and our paper money system,[^241] which we can and should advance. But until that changes we can use technologies like Bitcoin to go around these unjust laws and affect a partial return to natural money.[^si] Doing so will also put pressure on lawmakers to change them.
+
+But the most compelling argument for Bitcoin as a fiat paper replacement is its adoption by the free market. Spontaneous free market adoption is Hülsmann's key criteria for natural money and government compulsion is the central moral issue he finds with fiat paper notes. Hülsmann holds widespread adoption up as validation of the usefulness of natural monies,[^197] and Bitcoin has been naturally adopted across the world.[^global]
+
+Even if not fully natural money itself, Bitcoin is part of the solution to help us return to a natural monetary order, one which Hülsmann agrees will look different from—and better than—than those of the past.[^241-2]
+
+[^33]: Hülsmann, *The Ethics of Money Production*, 33
+[^55]: Hülsmann, *The Ethics of Money Production*, 55
+[^23]: Hülsmann, *The Ethics of Money Production*, 23
+[^32]: Hülsmann, *The Ethics of Money Production*, 32 (citing Benjamin Anderson, *The Value of Money*, chap. 7 "Dodo-Bones", p. 125)
+[^volatility]: See the [Bitcoin Volatility Index](https://www.buybitcoinworldwide.com/volatility-index/)
+[^242]: Hülsmann, *The Ethics of Money Production*, 242: "There is no reason why today we should be unable to accomplish such things, or something even better."
+[^172]: See, for example, a summary of the ethics of paper money on Hülsmann, *The Ethics of Money Production*, 172-173
+[^241]: Hülsmann, *The Ethics of Money Production*, 241
+[^si]: cf. Davidson & Rees-Mogg, *[[~The Sovereign Individual]]*, chap. 6
+[^197]: Hülsmann, *The Ethics of Money Production*, 197: "There is a natural tendency in the market to spread the use of the most useful monies over the entire world." 
+[^global]: See [this map](https://bitnodes.io/) of Bitcoin node distribution
+[^241-2]: Hülsmann, *The Ethics of Money Production*, 241: "We do not recommend simply turning back the clock. A natural monetary order in our day is certainly not identical with what a natural monetary order would have looked like in the sixteenth century."
+
 
 # Notes
 
@@ -45,30 +73,43 @@ write notes:
 - [Preface](#preface)
 - [Introduction](#introduction)
 - [Part 1: The Natural Production of Money](#part-1-the-natural-production-of-money)
-- [Chapter 1: Monies](#chapter-1-monies)
-- [Chapter 2: Money Certificates](#chapter-2-money-certificates)
-- [Chapter 3: Money within the Market Process](#chapter-3-money-within-the-market-process)
-- [Chapter 4: Utilitarian Considerations on the Production of Money](#chapter-4-utilitarian-considerations-on-the-production-of-money)
+	- [Chapter 1: Monies](#chapter-1-monies)
+	- [Chapter 2: Money Certificates](#chapter-2-money-certificates)
+	- [Chapter 3: Money within the Market Process](#chapter-3-money-within-the-market-process)
+	- [Chapter 4: Utilitarian Considerations on the Production of Money](#chapter-4-utilitarian-considerations-on-the-production-of-money)
 - [Part 2: Inflation](#Inflation)
-- [Chapter 5: General Considerations on Inflation](#chapter-5-general-considerations-on-inflation)
-- [Chapter 6: Private Inflation: Counterfeiting Money](#chapter-6-private-inflation-counterfeiting-money)
-- [Chapter 7: Enter the State: Fiat Inflation through Legal Privileges](#chapter-7-enter-the-state-fiat-inflation-through-legal-privileges)
-- [Chapter 8: Legalized Falsifications](#chapter-8-legalized-falsifications)
-- [Chapter 9: Legal Monopolies](#chapter-9-legal-monopolies)
-- [Chapter 10: Legal-Tender Laws](#chapter-10-legal-tender-laws)
-- [Chapter 11: Legalized Suspensions of Payments](#chapter-11-legalized-suspensions-of-payments)
-- [Chapter 12: Paper Money](#chapter-12-paper-money)
-- [Chapter 13: The Cultural and Spiritual Legacy of Fiat Inflation](#chapter-13-the-cultural-and-spiritual-legacy-of-fiat-inflation)
+	- [Chapter 5: General Considerations on Inflation](#chapter-5-general-considerations-on-inflation)
+	- [Chapter 6: Private Inflation: Counterfeiting Money](#chapter-6-private-inflation-counterfeiting-money)
+	- [Chapter 7: Enter the State: Fiat Inflation through Legal Privileges](#chapter-7-enter-the-state-fiat-inflation-through-legal-privileges)
+	- [Chapter 8: Legalized Falsifications](#chapter-8-legalized-falsifications)
+	- [Chapter 9: Legal Monopolies](#chapter-9-legal-monopolies)
+	- [Chapter 10: Legal-Tender Laws](#chapter-10-legal-tender-laws)
+	- [Chapter 11: Legalized Suspensions of Payments](#chapter-11-legalized-suspensions-of-payments)
+	- [Chapter 12: Paper Money](#chapter-12-paper-money)
+	- [Chapter 13: The Cultural and Spiritual Legacy of Fiat Inflation](#chapter-13-the-cultural-and-spiritual-legacy-of-fiat-inflation)
 - [Part 3: Monetary Order and Monetary Systems](#part-3-monetary-order-and-monetary-systems)
-- [Chapter 14: Monetary Order](#chapter-14-monetary-order)
-- [Chapter 15: Fiat Money Systems in the Realm of the Nation-State](#chapter-15-fiat-money-systems-in-the-realm-of-the-nation-state)
-- [Chapter 16: International Banking Systems, 1871–1971](#chapter-16-international-banking-systems-1871%E2%80%931971)
-- [Chapter 17: International Paper-Money Systems, 1971–?](#chapter-17-international-paper-money-systems-1971%E2%80%93)
+	- [Chapter 14: Monetary Order](#chapter-14-monetary-order)
+	- [Chapter 15: Fiat Money Systems in the Realm of the Nation-State](#chapter-15-fiat-money-systems-in-the-realm-of-the-nation-state)
+	- [Chapter 16: International Banking Systems, 1871–1971](#chapter-16-international-banking-systems-1871%E2%80%931971)
+	- [Chapter 17: International Paper-Money Systems, 1971–?](#chapter-17-international-paper-money-systems-1971%E2%80%93)
 - [Conclusion](#conclusion)
 
 <!-- /MarkdownTOC -->
 </details>
 
+
+<details>
+<summary><i>Summary from the [Mises Institute](https://mises.org/library/ethics-money-production):</i></summary>
+
+>By "money production," the author is speaking not in the colloquial sense of the phrase "making money," but rather the actual production of money as a commodity in the whole economic life. The choice of the money we use in exchange is not something that needs to be established and fixed by government.
+
+>In fact, his thesis is that a government monopoly on money production and management has no ethical or economic grounding at all. Legal tender laws, bailout guarantees, tax-backed deposit insurance, and the entire apparatus that sustains national monetary systems, has been wholly unjustified. Money, he argues, should be a privately produced good like any other, such as clothing or food.
+
+>In arguing this way, he is disputing centuries of assumptions about money for which an argument is rarely offered. People just assume that government or central banks operating under government control should manage money. Hulsmann explores monetary thought from the ancient world through the Middle Ages to modern times to show that the monopolists are wrong. There is a strong case in both economic and ethical terms for the idea that money production should be wholly private.
+
+>In his normative analysis, the author depends heavily on the monetary writings of 14th-century Bishop Nicole Oresme, whose monetary writings have been overlooked even by historians of economic thought.
+
+</details>
 
 ## Preface
 _**Summary**: This book is an exposition of monetary theory that applies the tradition of philosophical realism to the analysis of money and banking, with special emphasis on the scholastic tradition of [[Nicholas Oresme]] and [[St. Thomas Aquinas]], as well as [[Austrian School]] as a champion of the realist tradition and free-market policies._
@@ -79,7 +120,7 @@ _**Summary**: This book is an exposition of monetary theory that applies the tra
 _**Summary**: Money is everywhere in our lives but is not usually given a proper moral treatment, at least partially driven by the conflict of interest among economists who are remunerated in some form by the process of fiat inflation. Hülsmann provides an extensive bibliography in the scholastic and Austrian traditions and demonstrates fundamental compatibility between Austrian economics and Christian morals._
 - The problem: money is everywhere in our lives but not given a proper moral treatment (in traditional economics, Catholic social teaching, etc.)
 - Money production is a problem of justice because of the legal institutions that control it, and the inflation they cause is a great evil
-- The introduction (and its copious footnotes) provide extensive additional reading in the [[Austrian School]]
+- The introduction (and its copious footnotes) provide extensive additional reading in the [[Austrian School]]:
 	- [[Nicholas Oresme]]'s *Treatise on the Alteration of Money* is a continual reference point in this text and foundational to the moral treatment of money
 	- Economists in the [[Austrian School]] including: [[Carl Menger]], [[Ludwig von Mises]] (integrated the theory of money and banking within the overall theory of subjective value and pioneered macroeconomic analysis in the realist tradition), [[Murray Rothbard]] (apex of Austrian theory, integration of ethics)
 	- Scholastics and Austrians agree on the *integration* of economics with larger social phenomena
@@ -134,7 +175,7 @@ _**Summary**: Production of money reduces is purchasing power, but this happens 
 
 
 ## Chapter 4: Utilitarian Considerations on the Production of Money
-_**Summary**: ==He rebuts common arguments for paper money...==_
+_**Summary**: He rebuts common arguments for paper money._
 - [[Plato]] proposed outlawing natural money and imposing fiat money
 - The production of money is best left to the free market. Here are the 7 most common erroneous arguments presented against that proposition in favor of paper money:
 1. **Money Supply**: argue that economic growth is only possible with a growth of the money supply
@@ -190,53 +231,112 @@ _**Summary**: Legalizing falsifications of money (usually after the government h
 
 ## Chapter 9: Legal Monopolies
 _**Summary**: Monopolies create inflation of the favored money and deflation of alternatives, and are especially problematic when paired with legal tender laws. Monopolies are condemned because you shall not steal ([[Ten Commandments]] and the freedom to associate._
-- make note of commandments
 - 122: interesting that he labels "You shall not steal" as the Eighth Commandment, when this is typically the Seventh (cf. *[[~Catechism of the Catholic Church|CCC]]*)
 
 
 ## Chapter 10: Legal-Tender Laws
-_**Summary**: _
-
+_**Summary**: Legal-tender laws privilege some monies over others, infringing on the free market and driving those other monies out of circulation. These laws allow governments to raise revenue without taxation through fractional-reserve bank notes and create a link between government and banks._
+- **Legal-tender** is money that must be accepted against the will of one of the exchange partners, overriding private contract
+	- Allows debtors (esp. the government) to gain at the expense of creditors
+	- [[Gresham's Law]]: bad money drives out good money, the opposite of how a free market selects the best money
+- **Bimetallism** is when legal-tender laws establish fiat exchange ratios between metals
+- Legal-tender laws allow governments to generate revenue from debased coins but with several disadvantages leading to a preference for legal-tender banknotes
+- This practice has allowed governments to generate additional revenue without taxation and forged a partnership between governments and banks
+- Legal-tender privileges for fractional-reserve banking leads to business cycles
+- Legal-tender laws create [[Moral Hazard]] since the propagation of bank failures causes others to step in if a bank is in trouble
+- Legal-tender laws cannot be justified, [[Nicholas Oresme]]: "institutional inflation turns a government into a tyrant"
 
 
 ## Chapter 11: Legalized Suspensions of Payments
-_**Summary**: _
+_**Summary**: Suspended payments are a euphemism for governments allowing privileged banks to not repay their creditors._
+- "Bankruptcy fulfills the critically important social function of preserving the available stock of capital....it puts and end to wasteful—and therefore socially undesirable—firms."
+<details>
+<summary>Great quote about bankruptcy on 154</summary>
+<p>In contrast to a fraudulent company, an insolvent company rather unintentionally consumes more resources than it produces. It too impoverishes society, even though in the short run it benefits certain stakeholders of the insolvent company, such as employees and suppliers. The only way an insolvent company can operate for any length of time at all is when it can consume the capital of another entity. Usually this someone is the owner, but sometimes also the creditors. As soon as these people refuse to invest additional funds into it, the insolvent company comes to a standstill. The employees are fired and then work for other firms at lower wage rates; and the machines and other capital goods are sold to other firms for less than their previous book value. This is bankruptcy. It puts an end to wasteful—and therefore socially undesirable—firms, and it forces their stakeholders (laborers, capitalists) to invest their human and material resources in other firms, where the rewards are lower, but which produce more than they consume.</p>
+</details>
+- Against this are **Suspended payments**: a euphemism for allowing privileged banks to not repay their creditors
+- This creates [[Moral Hazard]] by incentivizing the bank to keep fewer reserves
 
 
-
-## Chapter 12: Paper Money
-_**Summary**: _
-
+## Chapter 12: Paper Money (★)
+_**Summary**: Paper money always comes about through "reverse transubstantiation" of property rights to enrich the government, and is by its very nature a form of fiat inflation. Because the paper money producer can create it ex nihilo, moral hazard is inherent as people take unnecessary risks with the knowledge of an unlimited backstop._
+- Paper money is the most important case of fiat inflation. It is never chosen by the free market and comes about by:
+	- First, a monopoly specie system
+	- Then, monopoly legal-tender status to the notes of the privileged fractional-reserve bank
+	- Finally, a suspension of payments for that bank which turns those notes into paper money
+- Suspension of payments is a "reverse transubstantiation" because bank notes keep their external appearance but its nature changes from that of a money certificate to legal tender paper slips
+- The central banks (i.e. the Fed) cannot go bankrupt themselves because they can infinitely print money, constrained only by the danger of hyperinflation
+<details>
+<summary>Straight from the horse's mouth:</summary>
+<p>"Like gold, U.S. dollars have value only to the extent that they are strictly limited in supply. But the U.S. government has a technology, called a printing press (or, today, its electronic equivalent), that allows it to produce as many U.S. dollars as it wishes at essentially no cost. By increasing the number of U.S. dollars in circulation, or even by credibly threatening to do so, the U.S. government can also reduce the value of a dollar in terms of goods and services, which is equivalent to raising the prices in dollars of those goods and services. We conclude that, under a paper-money system, a determined government can always generate higher spending and hence positive inflation." (Ben Bernanke, "Deflation: Making Sure 'It' Doesn't Happen Here" [Remarks before the National Economists Club, Washington, D.C., 21 November 2002))</p>
+</details>
+- Paper money leads to an explosion of public debt:
+	- A private debtor is constrained by current assets and future revenue
+	- A public (money-printing) debtor is not constrained by these because it can create money *ex nihilo* (is this not an example of the hubris of man against God?)
+- "[[Moral Hazard]] is implied in the very existence of paper money. Because a paper-money producer can bail out virtually anybody, the citizens become reckless in their speculations; they count on him to bail them out, especially when many other people do the same thing. To fight such behavior effectively, one must abolish paper money. Regulations merely drive the reckless behavior into new channels...Central planning or hyperinflation (or some mix between the two)—this is what the future holds for an economy under paper money. The only third way is to abolish paper money altogether and to return to a sound monetary order." (172)
 
 
 ## Chapter 13: The Cultural and Spiritual Legacy of Fiat Inflation
-_**Summary**: _
+_**Summary**: Fiat inflation brings evil into society in the form of prolonged war, tyranny, hypercentralized government, weakening of entrepreneurship, higher debt loads, and the weakening of the family._
+- [[Inflation]] is the increase of the money supply through fraud, imposition, and breach of contract. It:
+	- Benefits the perpetrators at the expense of all other money users
+	- Allows the accumulation of debt beyond the level debts could reach on the free market
+	- Reduces the purchasing power of money below the level it would have reached on the free maket
+- Inflation fuels larger central governments, against the principle of [[Subsidiarity]] as formulated by Frédéric LePlay
+- Inflation fuels longer wars by funding governments past their citizen's willingness to continue
+- Inflation causes tyranny by allowing governments to pursue their goals without genuine support of their citizens and confiscate their property without their consent
+- Inflation reduces true entrepreneurship by making credit cheap and it therefore easier to operate with *other* people's money
+- Inflation creates debt yokes by making the taking on of debt to buy appreciating assets a rational economic move to keep from getting left behind
+- It takes thorough financial knowledge, lots of time to manage investments, and luck to protect the purchasing power of your money in an inflationary environment
+- Inflation takes a moral and spiritual toll by forcing you to think more about money than you otherwise would
+- Inflation leads to declining product quality and can even be a threat to truth to the extent that companies lie about their products and it creates a sloppy attitude toward language
+- Inflation and the welfare state are an attack on the family; the welfare state socializes the costs of morally reckless behavior
 
 
 
 # Part 3: Monetary Order and Monetary Systems
 ## Chapter 14: Monetary Order
-_**Summary**: _
-
+_**Summary**: We need to reject inflation and opt for freely produced money, the most useful of which will tend to be a global currency._
+- We should reject inflation because freely produced money is well-known and readily available, and superior in from both an economic and moral point of view.
+- "There is a natural tendency in the market to spread the use of the most useful monies over the entire world."
 
 
 ## Chapter 15: Fiat Money Systems in the Realm of the Nation-State
-_**Summary**: _
-
+_**Summary**: He charts the rise of paper-money in Europe and America._
+- The US Constitution (Article I Section 8 and 10) sought to prevent legal-tender paper money in favor of precious metals
+- Even the classical gold standard before [[World War I|WWI]] was not as good as it seems and inflationary (206, 212)
 
 
 ## Chapter 16: International Banking Systems, 1871–1971
-_**Summary**: _
-
+_**Summary**: He charts the rise and fall of the gold standard and Bretton Woods systems._
+- Issues with the classical gold standard
+	- Fiat deflation of silver from its demonetization
+	- Inflationary in nature (especially the "gold-exchange standard" of 1925-1931 that sought inflation through international cooperation)
+	- Centralized government control over finances of its citizens
+- **Bretton Woods**
+	- Pooled gold reserves with the Fed and created an international cartel of fractional-reserve banks, creating a political dependency on the US
+	- Created the IMF and World Bank to give other world governments some impact on the allocation of inflation
+	- The lack of restraint meant it was just a matter of time until suspension of payments on August 15, 1971, creating a great number of paper monies
+- The IMF and World Bank's mission post-Bretton Woods is now to redistribute wealth from taxpayers in developed countries to governments of developing countries, keeping corrupt and irresponsible governments in power longer than they otherwise would be
 
 
 ## Chapter 17: International Paper-Money Systems, 1971–?
-_**Summary**: _
-
+_**Summary**: He charts the rise of paper money systems and considers their potential outcomes._
+- Global paper money emergence is driven by the quest of governments to get additional funds from abroad, and the paper monies selected are those with legal tender in the nations with the largest capital markets
+- The Euro also emerged as a source of government income
+- "Paper-money producers have a strong incentive to expand their production because they now that their competitors, acting in their own interest, would be likely to assist them whenever they are threatened with a currency crisis. Thus we find the same strong incentive for expansionary collusion between paper-money producers that we have" observed in fractional-reserve banks
+- An international paper-money system would require the political unification of the world
 
 
 ## Conclusion
-_**Summary**: _
+_**Summary**: We need to reform by returning to natural monies._
+- "Paper money and fractional-reserve banking go a long way toward accounting for the excesses for which the capitalist economy is widely chided."
+- Our monetary institutions are in need of reform, and a return to a natural production of money though that may look different than it did in the past.
+- We need to return to a respect for property rights, and change not the *instruments* of money but the *legal rules* of money production
+- There are historical precedents for returning to natural money production:
+	- [[China]] returned to silver and copper coins after experimenting with fractional-reserve banking and paper money
+	- US Constitution ended a century of colonial paper money
+	- President Jackson withdrew legal privileges of fractional-reserve banks and reduced the national debt
 
 
 --- 
@@ -247,6 +347,7 @@ _**Summary**: _
 **Bibliography**
 *a small view of the extensive bibliography of this book*
 
+- [PDF: The Ethics of Money Production](https://cdn.mises.org/The%20Ethics%20of%20Money%20Production_2.pdf)
 - [[Nicholas Oresme]]
 	- ***A Treatise on the Origin, Nature, Law, and Alterations of Money*** (4, 38, 46, 50, 52, 56, 59, 61, 99, 104, 111, 121, 127, 129, 136, 149)
 - [[Ludwig von Mises]]
@@ -306,6 +407,8 @@ _**Summary**: _
 
 - **vitiate**: To make vicious, faulty, or imperfect; to render defective; to injure the substance or qualities of; to impair; to contaminate; to spoil; as, exaggeration _vitiates_ a style of writing; sewer gas _vitiates_ the air. (14)
 - **dissimulation**: the act of dissembling; a hiding under a false appearance; concealment by feigning; false pretension; hypocrisy (95)
+- **specie**: Coin; hard money (141)
+- **tautology**: A repetition of the same meaning in different words; needless repetition of an idea in different words or phrases (162)
 
 ---
 Created: [[2022-01-10-Mon]]
