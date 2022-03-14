@@ -9,6 +9,7 @@ publish: true
 - [Wood Turning Projects](#wood-turning-projects)
 - [Wood Carving Projects](#wood-carving-projects)
 - [Workshop Projects](#workshop-projects)
+- [Inspiration](#inspiration)
 
 <!-- /MarkdownTOC -->
 
@@ -377,6 +378,11 @@ publish: true
 ### 2019-05-11 Vise Restoration
 
 <img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2019-05-11-vice-restoration.jpg" width="100%"/>
+
+# Inspiration
+- [Christopher M. Schwarz](https://christophermschwarz.com/)
+- [Brownell Furniture](https://www.brownellfurniture.com/)
+- [Camino Woodshop](https://caminowoodshop.patternbyetsy.com/shop)
 
 ---
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

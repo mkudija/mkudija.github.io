@@ -2,73 +2,76 @@
 publish: true
 ---
 ## Favorite Kid's Books
-- *Boss Baby*
-- *Bats at the Library* by Brian Lies
-- *Brother Hugo and the Bear* by Katy Beebe
-- *St. Jerome and the Lion* by Margaret Hodges
+- Priddy Baby board books
+- *Goodnight Moon* by Margaret Wise Brown
+- Peggy Rathmann
+	- *10 Minutes till Bedtime*
+	- *Goodnight Gorilla*
+- *Boss Baby* by Marla Frazee
 - Sandra Boynton
     - *Fifteen Animals*
-- Dr Seuss
+- *The Pout Pout Fish* by Deborah Diesen
+- *Goodnight Goodnight, Construction Site* et. al. by Sherri Duskey Rinker
+- *Diggersaurs* by Michael Whaite
+- Jan Brett
+	- *Gingerbread Baby*
+	- *The Mitten*
+- Dr. Seuss:
 	- *Fox in Socks*
 	- *Oh Say Can You Say*
 	- *The Lorax*
-- *Yellow Kayak*
-- *The Jesus Storybook Bible*  
+- *Bats at the Library* by Brian Lies
+- *Yellow Kayak* by Nina Laden
 - Richard Scary 
     - *Cars and Trucks and Things that Go*
-- Where do dump trucks sleep at night  
-- Goodnight Airplanes
-    - Diggers
-    - Steam Trains
+- Brianna Caplan Sayres
+	- Where do Diggers/Jet Planes/Steam Trains Sleep at Night  
 - *Ordinary People Change the World* biographies by Brad Meltzer (series)
 - *The Berenstain Bears* by Stan and Jan Berenstain (series)
 - P.D. Eastman
 	- *Go Dog Go*
 	- *Sam and the Firefly*
-- Jan Brett
-- *Gingerbread Baby*
-	- *The Mitten* by Jan Brett
-- Winnie the Pooh  
-- Pout Pout Fish
-- The Little Engine That Could  
-- Priddy Baby  
-- Curious George  
-- Harold And the Purple Crayon  
-- ==Raccoon that makes vehicles==
-- Madeline
+- A. A. Milne:
+	- *Winnie the Pooh*
+	- *The House at Pooh Corner*
+	- *When We Were Very Young*
+	- *Now We Are Six*
+- *The Little Engine That Could* by Watty Piper
+- *Curious George* by H. A. Rey
+- *Harold And the Purple Crayon* by Crockett Johnson
+- *Madeline* by Ludwig Bemelmans
 - *Stellaluna* by Janell Cannon
-- *Diggersaurs* by Michael Whaite
-- *The Great Adventure of Christopher Columbus* by Fritz & dePaola
 - *The Elephant’s Airplane and Other Machines* by Anne-Marie Dalmais
 - *Mike Milligan and his Steam Shovel* by Virginia Lee Burton
-- *Light of Sunday*
-- *Goodnight Moon*
-- *Goodnight Gorilla*
-- *Jesus, I Adore You* by Sabine Du Mesnil
+- *The Velveteen Rabbit* by Margery Williams
+- *The Fantastic Flying Books of Mr. Morris Lessmore* by William Joyce
+- *Hot-Air Henry* by Mary Calhoun
+- *Tacky the Penguin* by Helen Lester
+- *Frog on a Log?* by Kes Gray
+- *How Murray Saved Christmas* by Mike Reiss
+- *Treasury of Nursery Stories* retold by Susan Price
+- *Cindy Ellen: A Wild Western Cinderella* by Susan Lowell
+- *The Pilot and the Little Prince* by Peter Sis
+- *The Great Adventure of Christopher Columbus* by Fritz & dePaola
+- Stephen Biesty
+	- *Stephen Biesty's Incredible Cross Sections*
 - David Macaulay
 	- *Cathedral*
 	- *Castle*
 	- *Pyramid*
-- *Stephen Biesty's Incredible Cross Sections*
-- *[[~2021-08-03-A is for Angel|A is for Angel]]*
-- *The Velveteen Rabbit*
-- [*Cloud of Witnesses: A Child's First Book of Saints*](https://tanbooks.com/catholic-kids-books/toddler-books/cloud-of-witnesses-a-childs-first-book-of-saints/)
+- *Brother Hugo and the Bear* by Katy Beebe
+- *St. Jerome and the Lion* by Margaret Hodges
+- *Light of Sunday*
+- *Jesus, I Adore You* by Sabine Du Mesnil
 - *Stories of the Saints: Bold and Inspiring Tales of Adventure, Grace, and Courage* by Carey Wallace
-- *The Pilot and the Little Prince* by Peter Sis
-- *The Fantastic Flying Books of Mr. Morris Lessmore* by William Joyce
-- *Frog on a Log?* by Kes Gray
-- *Hot-Air Henry* by Mary Calhoun
-- *Tacky the Penguin* by Helen Lester
-- *How Murray Saved Christmas* by Mike Reiss
-- *Treasury of Nursery Stories* retold by Susan Price
-- *10 Minutes till Bedtime* by Peggy Rathmann
-- *Cindy Ellen: A Wild Western Cinderella* by Susan Lowell
-
+- [*Cloud of Witnesses: A Child's First Book of Saints*](https://tanbooks.com/catholic-kids-books/toddler-books/cloud-of-witnesses-a-childs-first-book-of-saints/)
+- *[[~2021-08-03-A is for Angel|A is for Angel]]*
+- *The Jesus Storybook Bible*  
 
 
 
 ### Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien
-- *The Well-Trained Mind* by Susan Wise Bauer
+- *[[~The Well-Trained Mind]]* by Susan Wise Bauer
 - *The Read Aloud Family*
 - *Honey for a Child's Heart*

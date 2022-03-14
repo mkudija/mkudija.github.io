@@ -1,6 +1,7 @@
 import os
 import time
 import pandas as pd
+import re
 import shutil
 import markdown2
 from markdown2 import markdown_path
@@ -70,8 +71,40 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
 
 
     # style Obsidian links
-    mdString = mdString.replace('[[','<text style="background-color: whitesmoke; color: #23537d;">')
-    mdString = mdString.replace(']]','</text>')
+    ## TODO
+    ## - support for aliases (|)
+    ## - support for sub-links and block links (#)
+    ## - support for transclusions ![[]]
+
+    ## OTHER
+    ## - support for "links to this page"
+    try:
+        # regex help: https://regexr.com/
+        # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160
+        linksRaw = re.findall('(?<=\[\[).*?(?=\]\])', mdString)
+        # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # 
+
+        for i in linksRaw:
+            j = i
+            i = i.replace(' ','-') # replace spaces
+            if i[0:2]=='20': # book notes are in different directory
+                ## FIX: =='20' also catches daily notes, which it should not
+                url = '../reading-notes/'+i+'.html'
+            elif i[0]=='~': # unpublished book notes
+                print('unpublished: {}'.format(i))
+                url = 'https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/'+i+'.md'
+            else:
+                url = i+'.html'
+            i = '<a href="'+url+'">'+j+'</a>' # url
+            j = '[['+j+']]' # only replace links, not all words that have the same title
+            mdString = mdString.replace(j,i)
+    except:
+        print('pass')
+
+    mdString = mdString.replace('[[','')
+    mdString = mdString.replace(']]','')
+    # mdString = mdString.replace('[[','<text style="background-color: whitesmoke; color: #23537d;">')
+    # mdString = mdString.replace(']]','</text>')
     
     # replace "updated"
     pathSrcSource = src+str(pathSource).split('/')[-1] # use source path rather than md path to get correct updated timestamp
@@ -83,7 +116,7 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace('---\npublish: true\n---','')
 
 
-    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
+    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
 
     template[template.index('#BODY#')] = body
