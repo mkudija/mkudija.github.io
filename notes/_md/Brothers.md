@@ -44,7 +44,7 @@ But Harry—in his hands he has flung
 His tear-tricked cheeks of flame  
 For fond love and for shame.  
  Ah Nature, framed in fault,  
-There ’s comfort then, there’s salt;[^salt]  
+There’s comfort then, there’s salt;[^salt]  
 Nature, bad, base, and blind,  
 Dearly thou canst be kind;  
 There dearly thén, deárly,  

@@ -16,6 +16,8 @@ publish: true
 - Jan Brett
 	- *Gingerbread Baby*
 	- *The Mitten*
+- Beatrix Potter
+	- *The Tale of Peter Rabbit*
 - Dr. Seuss:
 	- *Fox in Socks*
 	- *Oh Say Can You Say*
@@ -75,3 +77,7 @@ publish: true
 - *[[~The Well-Trained Mind]]* by Susan Wise Bauer
 - *The Read Aloud Family*
 - *Honey for a Child's Heart*
+
+---
+Created: [[2021-07-16-Fri]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

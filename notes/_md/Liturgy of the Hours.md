@@ -22,6 +22,12 @@ publish: true
 	- ***[Discovering Prayer: An Introduction and Tutorial to the Liturgy of the Hours](https://prayer.rosaryshop.com/discoveringPrayer.pdf)*** by Seth H. Murray
 	- [Catholic Calendar: Liturgical Calendar for The Liturgy of the Hours](https://www.rosaryshop.com/calendar.php?year=this)
 - [#004: How (and Why) to Pray the Liturgy of the Hours - The Burrowshire Podcast](https://burrowshirepodcast.com/liturgy-of-the-hours/)
+	- _[The Everyday Catholic’s Guide to the Liturgy of the Hours](https://www.amazon.com/Everyday-Catholics-Guide-Liturgy-Hours/dp/1616365285/?tag=ththve-20)_ by Daria Sockey
+	- _[A Layman’s Guide to the Liturgy of the Hours](https://www.amazon.com/Laymans-Guide-Liturgy-Hours-Prayers/dp/1682780759/?tag=ththve-20)_ by Fr. Timothy Gallagher
+	- [LiturgyOfTheHours.com](https://www.liturgyofthehours.org/)
+	- [iBreviary online](http://www.ibreviary.com/m2/breviario.php) (pray the LOTH on your computer/phone)
+	- iBreviary app: [Apple](https://apps.apple.com/us/app/ibreviary-ts-plus/id422601705) + [Android](https://play.google.com/store/apps/details?id=com.netguru.ibreviary&hl=en_US)
+	- Video tutorial: [Pray the Liturgy of the Hours using Your Smartphone & iBreviary](https://www.youtube.com/watch?v=7Mo_OyMe8fk)
 - *[[2019-02-18-The Little Oratory]]* by David Clayton & Leila Marie Lawler, page 71
 - Catholic Book Publishing Company: [Liturgy of the Hours (4-volume)](https://catholicbookpublishing.com/product/106)
 - [[Canticle of Zechariah]]

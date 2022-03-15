@@ -4,7 +4,7 @@ publish: true
 *[[Poems]]*
 
 # Marriage of Many Years
-*by [[Dana Gioia]]
+*by [[Dana Gioia]]*
 
 Most of what happens happens beyond words.  
 The lexicon of lip and fingertip  

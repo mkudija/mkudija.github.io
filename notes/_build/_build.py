@@ -85,19 +85,21 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
         # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # 
 
         for i in linksRaw:
-            j = i
-            i = i.replace(' ','-') # replace spaces
+            linkRaw = i
+            i = i.split('#')[0].split('|')[0] # show only aliases if present
+            linkDisplay = i
             if i[0:2]=='20': # book notes are in different directory
                 ## FIX: =='20' also catches daily notes, which it should not
+                i = i.replace(' ','-') # replace spaces (not for ~ only)
                 url = '../reading-notes/'+i+'.html'
             elif i[0]=='~': # unpublished book notes
-                print('unpublished: {}'.format(i))
                 url = 'https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/'+i+'.md'
             else:
+                i = i.replace(' ','-') # replace spaces (not for ~ only)
                 url = i+'.html'
-            i = '<a href="'+url+'">'+j+'</a>' # url
-            j = '[['+j+']]' # only replace links, not all words that have the same title
-            mdString = mdString.replace(j,i)
+            i = '<a href="'+url+'">'+linkDisplay+'</a>' # url
+            linkRaw = '[['+linkRaw+']]' # only replace links, not all words that have the same title
+            mdString = mdString.replace(linkRaw,i)
     except:
         print('pass')
 

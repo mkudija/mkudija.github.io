@@ -76,5 +76,5 @@ publish: true
 - [Yubikey Manager](https://joinroot.askspoke.com/next/knowledge/5de56f0c3122eb00079d0b1d) (so it doesn’t make cccccckvurecrlvudbdrurvbufrihlurtthrbrvclfri when you tap your keys)
 
 ---
-Created: 2021-05-31
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-07-19-Mon]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
