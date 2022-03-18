@@ -115,7 +115,7 @@
 - "All great [[Marriage|marriages]] are first and finally friendships." (232)
 - D. C. Schindler: liberal modernity is "freedom from reality itself" (236-7)
 - [[Henri de Lubac]] reminds us though, that despite all our problems, friendship with God is what really matters: "It is not our mission to make truth triumph, but to testify for it." (238)
-- He closes with a story about the back vs the front of the tapestry of the Apocalypse of St. John ([[Sacred Artwork]]): we rarely see the full effects of the good we do in this life, but one day we'll stand on the other side.
+- He closes with a story about the back vs the front of the tapestry of the Apocalypse of St. John ([[Sacred Art]]): we rarely see the full effects of the good we do in this life, but one day we'll stand on the other side.
 
 
 --- 

@@ -113,3 +113,13 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 > Let holy reading be always at hand. Sleep may fall upon thee as thou lookest thereon, and the sacred page meet the drooping face.<br> —St. Jerome[^jerome]
 
 [^jerome]: [St. Jerome: A Patron for An Angry Time](https://catholicexchange.com/st-jerome-a-patron-for-an-angry-time)
+
+
+>When you come, bring the books!
+>—St. Paul[^paul]
+
+[^paul]: [[2 Tm-04#v13]] (NABRE): When you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments. Source: [[005]]
+
+
+---
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

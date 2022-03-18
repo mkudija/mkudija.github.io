@@ -26,7 +26,7 @@
 	* Jeff Bezos: “focus on the things that don’t change” (31)
 * Short Term vs. Long Term
 * Creativity Is Not a Divine Act. It Is Not a Lightning Strike
-	* Hemingway: “There is nothing to writing. All you do is sit down at a typewriter and bleed” (37)
+	* [[Ernest Hemingway]]: “There is nothing to writing. All you do is sit down at a typewriter and bleed” (37)
 * The Drawdown Period
 	* you need silence; John Boyd called these “drawdown periods”: “an idea must be given space to develop” (40)
 * Test Early, Test Often

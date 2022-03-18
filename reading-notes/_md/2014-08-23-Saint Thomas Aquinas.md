@@ -9,8 +9,9 @@
 * “we must either not argue with a man at all, or we must argue on his grounds and not ours” 108
 * "The theology of a saint is simply the theism of a saint; or rather the theism of all saints. It is less individual, but it is much more intense" (166)
 * ..........."and that there should in that sense less difference between them in theology than in philosophy" (167) 
-* “…that this labeling of Aquinas as a specialist was an obscure depreciation of him as a universalist. For that is a very common trick for the belittling of literary or scientific men.” (202)
+* [[Generalism]]: “…that this labeling of Aquinas as a specialist was an obscure depreciation of him as a universalist. For that is a very common trick for the belittling of literary or scientific men.” (202)
 * Anyone who thinks deeply will see that motion has about it an essential incompleteness…” —> this makes me think about resting with God, and how our inability to do so demonstrates our incompleteness
+* From [[002- Becoming Saints in Our Time - The Burrowshire Podcast]]: "Each generation seeks its saint by instinct; and he is not what the people want, but rather what the people need… **It is the paradox of history that each generation is converted by the saint who contradicts it most**."
 
 ---
 Created: 2021-03-09

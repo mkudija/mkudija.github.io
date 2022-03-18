@@ -7,7 +7,7 @@
 
 Hülsmann's *The Ethics of Money Production* is a remarkable synthesis of Austrian economics and Catholic thought in the scholastic tradition. 
 
-Reading this book is an exercise in unlearning and then relearning economic principles and history we tend misunderstand and take for granted, namely what money even is and the central role of government in its production.
+Reading this book is an exercise in unlearning and then relearning economic principles and history we tend to misunderstand and take for granted, namely what money even is and the central role of government in its production.
 
 Most of us understand money roughly as follows: the government prints money (dollars) which we earn when we work and use to buy things. Usually it is intangible: numbers show up on the screen of our bank accounts and disappear when we click the "place order" button. Yet these dollars are not actually money, and the government really has no business producing them.
 
@@ -180,10 +180,10 @@ _**Summary**: He rebuts common arguments for paper money._
 - The production of money is best left to the free market. Here are the 7 most common erroneous arguments presented against that proposition in favor of paper money:
 1. **Money Supply**: argue that economic growth is only possible with a growth of the money supply
 	- Any quantity of goods and services can be exchanged with virtually any natural monetary supply
-2. **Hoarding**: argue that the amounts of money held relative to alternative ways of investing one's wealth is excessive (cf. hoarding quote from *[[2022-02-05-The Mandibles#^776a05]]*)
+2. **Hoarding**: argue that the amounts of money held relative to alternative ways of investing one's wealth is excessive (cf. hoarding quote from *[[2022-02-05-The Mandibles#^776a05|The Mandibles]]*)
 	- "In times of stock market and real-estate booms, it is generally prudent to keep a large amount of one's wealth in cash." (63)
 	- Hoarding is not a good reason to artificially expand the money supply - the market will correct this
-3. **[[Deflation]]**: argue that deflation causes people to postpone buying and creates a banking crisis (cf. *[[2021-12-01-The Price of Tomorrow]]*)
+3. **[[Deflation]]**: argue that deflation causes people to postpone buying and creates a banking crisis (cf. *[[2021-12-01-The Price of Tomorrow|The Price of Tomorrow]]*)
 	- Historically deflation has had no negative impact on aggregate production
 	- Deflation causes consumption to slow only marginally: resources not consumed are saved and therefore available for investment elsewhere (cf. [[Time preference]])
 	- Deflation entails a redistribution of productive assets from old to new owners, but with a net zero impact on production (similar to how it impacts banks), and results in [[Creative destruction]]
@@ -351,7 +351,7 @@ _**Summary**: We need to reform by returning to natural monies._
 - [[Nicholas Oresme]]
 	- ***A Treatise on the Origin, Nature, Law, and Alterations of Money*** (4, 38, 46, 50, 52, 56, 59, 61, 99, 104, 111, 121, 127, 129, 136, 149)
 - [[Ludwig von Mises]]
-	- *[[~Human Action]]* (10, 22, 59, 70, 78)
+	- *[[~Human Action|Human Action]]* (10, 22, 59, 70, 78)
 	- *Socialism* (22, 26)
 	- *Theory of Money and Credit* (60, 78, 142, 160, 240)
 - [[Murray Rothbard]]
@@ -381,14 +381,14 @@ _**Summary**: We need to reform by returning to natural monies._
 	- *Quadragesimo Anno* (6, 26, 184, 237, 240)
 	- *Mater et Magistra* (76)
 	- *[[Gaudium et Spes]]* (4, 26)
-	- *[[2019-12-23-Centesimus Annus]]* (4, 26, 121, 190, 238)
+	- *[[2019-12-23-Centesimus Annus|Centesimus Annus]]* (4, 26, 121, 190, 238)
 	- *Veritas Splendor* (100)
 	- *Compendium of the Social Doctrine of the Church* (2, 5, 26, 177)
 - "Hard Money and Society in the Bible" by Rousas J. Rushdoony in *Gold Is Money* (3)
 - *Money Manipulation and Social Order* by Fr. Dennis Fahey (7)
 - [[St. Thomas Aquinas]]
 	- books on his monetary thought (8)
-	- *[[2021-08-12-Summa Theologiae]]* (25, 26, 101)
+	- *[[2021-08-12-Summa Theologiae|Summa Theologiae]]* (25, 26, 101)
 	- *On Kingship, To the King of Cyprus* (73)
 	- *Commentary on the [[~Nicomachean Ethics]]* (75)
 - Julius Krishner
@@ -398,7 +398,7 @@ _**Summary**: We need to reform by returning to natural monies._
 	- *[[~Nicomachean Ethics]]* (75)
 - [[Plato]]
 	- *The Laws* (56)
-- *[[2014-03-25-The Wealth of Nations]]* by Adam Smith (24, 38, 122)
+- *[[2014-03-25-The Wealth of Nations|The Wealth of Nations]]* by [[Adam Smith]] (24, 38, 122)
 - *Faust* by [[Goethe]] (191)
 - *The Spirit of Democratic Capitalism* by Michael Novak (64)
 - *Democracy: The God That Failed* by Hans-Hermann Hoppe (176)

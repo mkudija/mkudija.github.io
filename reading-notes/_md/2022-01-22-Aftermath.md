@@ -71,7 +71,7 @@ _**Summary**: The best time to buy gold is now before the next crisis hits._
 
 >How did you go bankrupt?
 >Two ways. Gradually and then suddenly.
->–*The Sun Also Rises* by [[Ernest Hemmingway]]
+>–*The Sun Also Rises* by [[Ernest Hemingway]]
 
 - *[[2022-02-05-The Mandibles]]* by Lionel Shriver or *Our Town* by Thornton Wilder is a more realistic view of what happens after a financial collapse: hyperinflation, barter economy, mass unemployment, rather than something more post-apocalyptic like *[[2021-07-27-The Road]]*
 	- "Those who assume such scenarios won't happen again put too much faith in central banks and too little in the study of history." (293)

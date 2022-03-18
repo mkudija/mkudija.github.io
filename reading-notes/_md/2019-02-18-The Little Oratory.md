@@ -1,4 +1,5 @@
-# [*The Little Oratory: A Beginner's Guide to Praying in the Home*](https://www.amazon.com/Little-Oratory-Beginners-Guide-Praying-ebook/dp/B00JQUCLUW/ref=sr_1_1?ie=UTF8&qid=1550524798&sr=8-1&keywords=the+little+oratory) by David Clayton & Leila Lawler
+# [*The Little Oratory: A Beginner's Guide to Praying in the Home*](https://www.sophiainstitute.com/products/item/the-little-oratory) by David Clayton & Leila Lawler
+<img src="https://www.sophiainstitute.com/images/uploads/products/_small/9781622821761.jpg" width=150>
 
 `(Manchester: Sophia, 2014), 186`
 
@@ -7,7 +8,7 @@
 
 ## Chapter 2 - The Family and the Home
 - The home is the *school of virtue* and a *domestic church* (16)
-- "The habit of praying with visual imagery will develop our instict for what is beautiful" (20) ^f79b10
+- "The habit of praying with visual imagery will develop our instinct for what is beautiful" (20) ^f79b10
 - Some aspects for a home altar: image of Christ at the center, facing east, symmetry, candles (28-29)
 
 ## Chapter 3 - Making the Little Oratory in the Home
@@ -20,9 +21,9 @@
 
 ## Chapter 5 - Learning to Pray with a Breviary
 - don't force something that doesn't work, but give it 30 days try (66)
-- "If a thing's worth doing, it's worth doing badly" - G.K. Chesterton (67)
+- "If a thing's worth doing, it's worth doing badly" - [[G.K. Chesterton]] (67)
 - use the Anglican Ordinariate Breviary to sing (75)
-- Liturgy of the Hours notes [here](https://github.com/mkudija/notes/blob/master/liturgy-of-the-hours.md)
+- see my [[Liturgy of the Hours]] notes
 
 ## Chapter 6 - Getting Closer to God's Word
 - *Lectio* - reading
@@ -81,3 +82,7 @@
 - "Our pattern of prayer will govern the pattern of our lives" (151)
 - Always ask the question, "Is this beautiful?" (160)
 - [Chant the Psalms](http://www.thewayofbeauty.org/psalm-tones)
+
+---
+Created: 2019-06-17
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

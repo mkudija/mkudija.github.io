@@ -264,7 +264,7 @@
 * Womanhood
     * “[[Abortion]] is a dagger twisted into the heart of a woman” (122)
     * home economics and money at the service of the family, lengthy discussion (125)
-    * one of his favorite paintings, The Holy Family with a Bird, 1645-1650, Madrid, Prado Museum by Bartolome Esteban Murillo: https://upload.wikimedia.org/wikipedia/commons/8/8b/Bartolom%C3%A9_Esteban_Perez_Murillo_008.jpg ([[Sacred Artwork]])
+    * one of his favorite paintings, The Holy Family with a Bird, 1645-1650, Madrid, Prado Museum by Bartolome Esteban Murillo: https://upload.wikimedia.org/wikipedia/commons/8/8b/Bartolom%C3%A9_Esteban_Perez_Murillo_008.jpg ([[Sacred Art]])
 * [[Work]]
     * discussion against rent-seekers
 * Play

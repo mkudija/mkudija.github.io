@@ -1,30 +1,11 @@
 import os
 import time
 import pandas as pd
-# import shutil
+import re
 import markdown2
 from markdown2 import markdown_path
 from distutils.dir_util import copy_tree
 from pathlib import Path
-
-
-# df = pd.read_excel('_content.xlsx',
-#         converters={'shortName':str,'title':str,'author':str,'ISBN':str,'yearPublished':str,'yearRead':str})
-# for row in range(df.shape[0]):
-#     shortName       = df.loc[df.index[row],'shortName']
-#     title           = df.loc[df.index[row],'title']
-#     author          = df.loc[df.index[row],'author']
-#     ISBN            = df.loc[df.index[row],'ISBN']
-#     yearPublished   = df.loc[df.index[row],'yearPublished']
-#     yearRead        = df.loc[df.index[row],'yearRead']
-#     build(shortName, title, author, ISBN, yearPublished, yearRead)
-
-
-# def copy_file(src, dst):
-#     """Copy file from src to dst.
-#     """
-
-#     shutil.copyfile(src, dst)
 
 
 def copy_files(src, dst):
@@ -52,24 +33,56 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
         template = [x.strip('\n,') for x in f]
            
     template = [x.strip() for x in template] 
-
-    # for line in range(len(template)):
-    #     template[line] = template[line].replace('#TITLE#', metadata['title'])
-    #     template[line] = template[line].replace('#COOKTIME#', metadata['cookTime'])
-    #     template[line] = template[line].replace('#PREPTIME', metadata['prepTime'])
-    #     template[line] = template[line].replace('#IMAGE#', metadata['image'])
-            
+  
     with open(pathSource) as f:
         md = [x.strip('') for x in f]
     
-
-    # md = md[md.index('\n'):] # drop metadata from article text
     mdString = ''.join(md)
 
 
     # style Obsidian links
+    ## TODO
+    ## - full support for sub-links and block links (#) (link to heading)
+    ## - support for transclusions ![[]]
+    ## - support for "links to this page"
+
+    try:
+        # regex help: https://regexr.com/
+        # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160
+        # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # alt
+        linksRaw = re.findall('(?<=\[\[).*?(?=\]\])', mdString)
+
+        for i in linksRaw:
+            linkRaw = i
+            linkURL = i
+            try: # for aliases (|)
+                linkURL = i.split('#')[0].split('|')[0]
+                i = i.split('#')[0].split('|')[1]
+            except:
+                i = i.split('#')[0].split('|')[0]
+            linkDisplay = i
+            if linkURL[0:2]=='20': # book notes are in different directory
+                ## FIX: =='20' also catches daily notes, which it should not
+                linkURL = linkURL.replace(' ','-') # replace spaces (not for ~ only)
+                url = linkURL+'.html'
+            elif linkURL[0]=='~': # unpublished book notes
+                url = 'https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/'+linkURL+'.md'
+            else:
+                linkURL = '../notes/'+linkURL.replace(' ','-') # replace spaces (not for ~ only)
+                url = linkURL+'.html'
+            i = '<a href="'+url+'">'+linkDisplay+'</a>' # url
+            linkRaw = '[['+linkRaw+']]' # only replace links, not all words that have the same title
+            mdString = mdString.replace(linkRaw,i)
+    except:
+        print('pass')
+
+    mdString = mdString.replace('[[','')
+    mdString = mdString.replace(']]','')
+    # mdString = mdString.replace('[[','<text style="background-color: whitesmoke; color: #23537d;">')
+    # mdString = mdString.replace(']]','</text>')
+
+    # style Obsidian aliases
     mdString = mdString.replace('[[','<text style="background-color: whitesmoke; color: #23537d;">')
-    mdString = mdString.replace(']]','</text>')
     
     # replace "updated"
     updated_at = time.strftime('%Y-%m-%d-%a', time.localtime(os.path.getmtime(pathSource))) # https://strftime.org/
@@ -77,7 +90,7 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
 
 
-    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','target-blank-links','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
+    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
 
     template[template.index('#BODY#')] = body
