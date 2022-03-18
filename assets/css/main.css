@@ -56,20 +56,6 @@ a:hover {
     border-bottom: dotted 1px;
 }
 
-a.mk {
-    color: #777;
-    text-decoration: none;
-    /*border-bottom: dotted 1px;*/
-}
-
-a.mk:hover {
-    color: #5B7894;
-    background: whitesmoke;
-    /*background: #EDCEA8;*/
-    border-radius: 0.1rem;
-    border-bottom: dotted 1px;
-}
-
 h1 {
     border-bottom: 1px solid #ccc;
     padding-bottom: 3px;
@@ -84,6 +70,11 @@ h1.line {
 h2.line {
     text-decoration: underline 5px #D2A054;
     text-decoration-skip-ink: none;
+}
+
+img.profile {
+    /*border-radius: 50%;*/
+    box-shadow: 7px 7px 0px 0px #D2A054;
 }
 
 hr {
@@ -103,7 +94,7 @@ blockquote {
     /*background: whitesmoke;*/
     border: 1px solid #ccc;
     border-left: 4px solid #ccc;
-    border-radius:0.1rem;
+    border-radius: 0.1rem;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
 }
@@ -138,8 +129,6 @@ tr:hover {background-color: #ddd;}
 ul.cols {
     columns: 4;
 }
-
-
 
 
 
@@ -281,12 +270,50 @@ border-top: 0 !important;
 
 /* Header */
 
-#header {
+header {
     border-bottom: solid 5px #5B7894;
-    /*color: #777;*/
+    overflow: hidden;
 }
 
+header a {
+    float: left;
+    color: #444444;
+    padding: .2rem 0.75rem 0 0.75rem;
+    text-decoration: none;
+    border-radius: 0.1rem;
+}
 
+header a.logo {
+    /*font-size: 25px;*/
+    font-weight: bold;
+    color: #777;
+    text-decoration: none;
+    /*border-bottom: dotted 1px;*/
+
+}
+
+header a:hover {
+    background-color: #green;
+    background: whitesmoke;
+    border-radius: 0.2rem;
+    border-bottom: none;
+}
+
+header-right {
+  float: right;
+}
+
+@media screen and (max-width: 500px) {
+  header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  header-right {
+    float: none;
+  }
+}
 
 
 /* Footer */
@@ -306,4 +333,33 @@ border-top: 0 !important;
     color: #5B7894;
     background:whitesmoke;
     text-decoration: none;
+}
+
+
+
+
+/* Change a word on hover */
+
+span[data-spell] {
+  display: inline-block;
+  border-bottom: 1px dotted lightgrey;
+  /*cursor: help;*/
+}
+
+span[data-spell]::before,
+span[data-spell]::after {
+  display: none;
+}
+
+span[data-spell]::before {
+  content: attr(data-spell);
+}
+
+span[data-spell]::after {
+  content: attr(data-original);
+}
+
+span[data-original]:not(:hover)::before,
+span[data-spell]:hover::after {
+  display: block;
 }
