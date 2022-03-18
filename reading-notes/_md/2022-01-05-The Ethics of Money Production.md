@@ -140,7 +140,7 @@ _**Summary**: Money arises out of the need for a medium of exchange to allow for
 	- A money commodity "must be desired for its nonmonetary services (for its own sake)". There must be an established price for the commodity arising from its nonmonetary use allowing for an assessment of the future price. Monetary use will increase the demand for the commodity and add a monetary component to the price.
 - **Natural Monies** are monies freely chosen when property rights are respected
 	- Natural money is: 1) valuable *prior* to its monetary use, and 2) physically suitable as a medium of exchange
-	- Property rights are fundamental, and the Christian tradition distinguishes between the *right* to own property and the *moral* obligation to make good use of it (cf. *[[2021-08-12-Summa Theologiae]]* IIa-IIae, q. lxvi, art. 2)
+	- Property rights are fundamental, and the Christian tradition distinguishes between the *right* to own property and the *moral* obligation to make good use of it (cf. *[[2021-08-12-Summa Theologiae|Summa Theologiae]]* IIa-IIae, q. lxvi, art. 2)
 	- [[Silver]] has been the most chosen natural money historically (for everyday payments), along with [[Gold]] (for larger purchases) and copper (for very small transactions) (46, 61)
 - **Credit Money** is an IOU for a commodity, deriving its value from an expected future redemption into some commodity
 - **Paper Money** is forced money without commodity value, and desired because it is 1) cheaper to produce, 2) easily inflated, and 3) simple to change units
