@@ -21,7 +21,7 @@ Don't be afraid to jump and in read something that is difficult. Even if I only 
 
 >Every age has its own outlook. It is specially good at seeing certain truths and specially liable to make certain mistakes. We all, therefore, need the books that will correct the characteristic mistakes of our own period. And that means the old books.[^screwtape]
 
-[^screwtape]: He also makes this point in *[[C. S. Lewis]], *[[2018-07-21-The Screwtape Letters#^7323f8]]* (New York: Macmillan, 1943), 140: <br>"And since we cannot deceive the whole human race all the time, it is most important thus to cut every generation off from all others; for where learning makes a free commerce between the ages there is always the danger that the characteristic errors of one may be corrected by the characteristic truths of another."
+[^screwtape]: He also makes this point in [[C. S. Lewis]], *[[2018-07-21-The Screwtape Letters#^7323f8]]* (New York: Macmillan, 1943), 140: <br>"And since we cannot deceive the whole human race all the time, it is most important thus to cut every generation off from all others; for where learning makes a free commerce between the ages there is always the danger that the characteristic errors of one may be corrected by the characteristic truths of another."
 
 I don't live up to Lewis' suggestion of one for one, or even one for every three, but I try to ensure there is a regular drip of old books on my list.
 
@@ -39,7 +39,7 @@ At the end of the day, I always leave some room for whim in my reading list. Rea
 
 [^whisper]: cf. [[1 Kgs-19#v12]]
 
-[[Alan Jacobs]], author of *[[2018-04-04-The Pleasures of Reading]]*, also talks about reading for whim:
+[[Alan Jacobs]], author of *[[2018-04-04-The Pleasures of Reading|The Pleasures of Reading in an Age of Distraction]]*, also talks about reading for whim:
 
 >Read what gives you delight—at least most of the time—and do so without shame. And even if you are that rare sort of person who is delighted chiefly by what some people call Great Books, don't make them your steady intellectual diet, any more that you would eat at the most elegant of restaurants every day. It would be too much. Great books are great in part because of what they ask of their readers: they are not readily encountered, easily assessed.[^jacobs]
 

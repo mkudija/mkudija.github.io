@@ -38,7 +38,7 @@ publish: true
 
 ## Notes
 ### Volume I
-- Vol. 1, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue." 
+- Vol. 1, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
 
 ### Volume II
 

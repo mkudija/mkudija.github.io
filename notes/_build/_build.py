@@ -65,38 +65,41 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     with open(pathSource) as f:
         md = [x.strip('') for x in f]
     
-
-    # md = md[md.index('\n'):] # drop metadata from article text
     mdString = ''.join(md)
 
 
     # style Obsidian links
     ## TODO
-    ## - support for aliases (|)
-    ## - support for sub-links and block links (#)
+    ## - full support for sub-links and block links (#) (link to heading)
     ## - support for transclusions ![[]]
-
-    ## OTHER
     ## - support for "links to this page"
+
     try:
         # regex help: https://regexr.com/
         # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160
+        # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # alt
         linksRaw = re.findall('(?<=\[\[).*?(?=\]\])', mdString)
-        # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # 
 
         for i in linksRaw:
             linkRaw = i
-            i = i.split('#')[0].split('|')[0] # show only aliases if present
+            # i = i.split('#')[0].split('|')[0] # show only aliases if present
+            ## NEED TO UPDATE FOR ALIASES (|)
+            linkURL = i
+            try: # for aliases (|)
+                linkURL = i.split('#')[0].split('|')[0]
+                i = i.split('#')[0].split('|')[1]
+            except:
+                i = i.split('#')[0].split('|')[0]
             linkDisplay = i
-            if i[0:2]=='20': # book notes are in different directory
+            if linkURL[0:2]=='20': # book notes are in different directory
                 ## FIX: =='20' also catches daily notes, which it should not
-                i = i.replace(' ','-') # replace spaces (not for ~ only)
-                url = '../reading-notes/'+i+'.html'
-            elif i[0]=='~': # unpublished book notes
-                url = 'https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/'+i+'.md'
+                linkURL = linkURL.replace(' ','-') # replace spaces (not for ~ only)
+                url = '../reading-notes/'+linkURL+'.html'
+            elif linkURL[0]=='~': # unpublished book notes
+                url = 'https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/'+linkURL+'.md'
             else:
-                i = i.replace(' ','-') # replace spaces (not for ~ only)
-                url = i+'.html'
+                linkURL = linkURL.replace(' ','-') # replace spaces (not for ~ only)
+                url = linkURL+'.html'
             i = '<a href="'+url+'">'+linkDisplay+'</a>' # url
             linkRaw = '[['+linkRaw+']]' # only replace links, not all words that have the same title
             mdString = mdString.replace(linkRaw,i)

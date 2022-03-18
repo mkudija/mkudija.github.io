@@ -30,7 +30,7 @@ publish: true
 
 
 ## Books with Reading Lists
-- *[[2016-01-15-The Well-Educated Mind]]* by [[Susan Wise Bauer]]
+- *[[2016-01-15-The Well-Educated Mind|The Well-Educated Mind]]* by [[Susan Wise Bauer]]
 - *[[~The Well-Trained Mind]]* by [[Susan Wise Bauer]]
 - *The Western Canon* by [[Harold Bloom]]
 - *How to Read a Book* by [[Mortimer Adler]]
@@ -44,7 +44,6 @@ publish: true
 - My list of favorite [[Kid's Books]]
 - [*Honey for a Child's Heart*](https://www.amazon.com/Honey-Childs-Heart-Gladys-Hunt/dp/0310242460/ref=sr_1_1?ie=UTF8&qid=1542381620&sr=8-1&keywords=honey+for+a+child%27s+heart) by Gladys Hunt
 
-
-
-
-Schools with reading lists
+---
+Created: [[2021-08-03-Tue]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
