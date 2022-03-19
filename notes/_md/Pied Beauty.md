@@ -6,6 +6,8 @@ publish: true
 # Pied Beauty
 *by [[Gerard Manley Hopkins]]*
 
+*[Video: read by Jonathan Roumie](https://youtu.be/Kn-2GABXeiw)*
+
 Glory be to God for dappled things –  
    For skies of couple-colour as a brinded cow;  
       For rose-moles all in stipple upon trout that swim;  

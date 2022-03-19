@@ -114,11 +114,11 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 
 [^jerome]: [St. Jerome: A Patron for An Angry Time](https://catholicexchange.com/st-jerome-a-patron-for-an-angry-time)
 
-
+<br>
 >When you come, bring the books!
 >—St. Paul[^paul]
 
-[^paul]: [[2 Tm-04#v13]] (NABRE): When you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments. Source: [[005]]
+[^paul]: [[2 Tm-04#v13]] (NABRE): When you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments. Source: [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
 
 
 ---

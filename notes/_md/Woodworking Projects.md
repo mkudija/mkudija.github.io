@@ -337,9 +337,13 @@ publish: true
 
 
 
-# Workshop Projects
+# Workshop Projects & Other
 
 
+
+### [[2022-03-16 Patio Pavers]]
+
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-03-16-patio.jpg" width="100%"/>
 
 
 ### 2020-11-08 Thermometer Cover

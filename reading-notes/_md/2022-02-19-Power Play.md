@@ -18,7 +18,7 @@
 --- 
 **Topic**: [[Elon Musk]]
 
-**Source**: [[Mom]] & [[Dad]] (31st birthday)
+**Source**: [[Mom]] & [[Dad]] (birthday)
 
 ---
 Created: [[2022-02-19-Sat]]

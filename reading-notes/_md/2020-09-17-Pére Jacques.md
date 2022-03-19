@@ -36,7 +36,7 @@
 ---
 **Bibliography**
 
-- *Life of the Curé of Ars* (40)
+- *Life of the Curé of Ars* (40) #wishlist 
 - [[Pascal]]'s *Pensées* (81)
 - *Spiritual Canticle* of [[St. John of the Cross]] (89)
 - the works of [[St. Theresa of Ávila]] (93)

@@ -28,7 +28,7 @@ publish: true
 
 
 [**ScreenBrush**](https://imagestudiopro.com/screenbrush/)
-	- `⌥ + tab` = `option + tab` - draw on screen
+`⌥ + tab` = `option + tab` - draw on screen
 
 ## Chrome
 `⌘ + ⇧ + A` - `cmd + shift + A` - search tabs
