@@ -120,6 +120,13 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 
 [^paul]: [[2 Tm-04#v13]] (NABRE): When you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments. Source: [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
 
+<br>
+>When I get a little money, I buy books. If any is left, I buy food and clothes.
+>—Erasmus[^erasmus]
+
+[^erasmus]: Source: [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
+
+
 
 ---
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

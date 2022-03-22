@@ -29,7 +29,7 @@
 - "And so I discovered that it is not on our forgiveness any more than on our goodness that the world's healing hinges, but on His. When He tells us to love our enemies, He gives, along with the command, the love itself." (248)
 
 --- 
-**Source**: Jordan, Dolores
+**Source**: [[Jordan]], [[Dolores]]
 
 Ref [[World War II]]
 

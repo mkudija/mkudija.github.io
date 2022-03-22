@@ -1,5 +1,5 @@
 
-# *Finding True Happiness* by Fulton Sheen
+# *Finding True Happiness* by [[Fulton Sheen]]
 
 * “The more highly we regard ourselves, the more miserable we become; while the more lowly we regard ourselves in the light of God’s grace, the more content we become.” (11)
 * “It is God you are looking for…No wonder everything short of God disappoints you.” (16)

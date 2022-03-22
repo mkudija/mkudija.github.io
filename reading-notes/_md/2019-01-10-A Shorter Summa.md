@@ -6,7 +6,7 @@
 `(San Francisco: Ignatius, 1993), 162`
 
 
->I could't make any judgment on the *[[2021-08-12-Summa Theologiae|Summa]]*, except to say this: I read it every night before I go to bed. If my mother were to come in during the process and say, "Turn off that light. It's late," I with lifted finger and broad bland beatific expression, would reply, "On the contrary, I answer that the light, being eternal and limitless, cannot be turned off. Shut your eyes," or some such thing. In any case I feel I can personally guarantee that St. Thomas loved God because for the life of me I cannot help loving St. Thomas. <br> —Flannery O'Connor, *The Habit of Being* (quoted in *A Shorter Summa* by Peter Kreeft, 13)
+>I could't make any judgment on the *[[2021-08-12-Summa Theologiae|Summa]]*, except to say this: I read it every night before I go to bed. If my mother were to come in during the process and say, "Turn off that light. It's late," I with lifted finger and broad bland beatific expression, would reply, "On the contrary, I answer that the light, being eternal and limitless, cannot be turned off. Shut your eyes," or some such thing. In any case I feel I can personally guarantee that St. Thomas loved God because for the life of me I cannot help loving St. Thomas. <br> —[[Flannery O'Connor]], *The Habit of Being* (quoted in *A Shorter Summa* by Peter Kreeft, 13)
 
 ^d3088d
 

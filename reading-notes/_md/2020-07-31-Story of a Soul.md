@@ -1,5 +1,5 @@
 
-# [*The Story of a Soul*](https://tanbooks.com/products/books/saints/autobiographies/the-story-of-a-soul-the-autobiography-of-st-therese-of-lisieux/) by Thérèse of Lisieux
+# [*The Story of a Soul*](https://tanbooks.com/products/books/saints/autobiographies/the-story-of-a-soul-the-autobiography-of-st-therese-of-lisieux/) by [[St. Thérèse of Lisieux]]
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51xHHWbn40L._SY291_BO1%2C204%2C203%2C200_QL40_ML2_.jpg&f=1&nofb=1" width=150>
 

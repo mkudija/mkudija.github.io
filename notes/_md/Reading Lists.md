@@ -9,6 +9,8 @@ publish: true
 - [Catholic Classics Reading List](https://www.luc.edu/ccih/CatholicClassicsReadingList.shtml) from The Hank Center For The Catholic Intellectual Heritage
 - [Intellectual Catholic Book List](http://frcoulter.com/books/booklist.html) (For Junior High, High School, College Students, and all Lifelong Learners) by Fr. Gary Coulter
   - [Novels/Literature](http://frcoulter.com/books/novels.html)
+- [[Bishop Barron]]'s [Recommended Books](https://www.wordonfire.org/wp-content/media/bishop-barrons-recommended-books-copy-2.pdf)
+	- Top 5 are: *[[2021-08-12-Summa Theologiae|Summa Theologiae]]*, *[[~The Divine Comedy]]*, *[[2014-12-10-The Seven Storey Mountain|Seven Storey Mountain]]*, *[[~Moby Dick]]*, and *Macbeth*
 - [Best Catholic Books of All-Time](https://brandonvogt.com/best-catholic-books-of-all-time/) by Brandon Vogt
 	- [#005: How to Start a Good Catholic Library - The Burrowshire Podcast](https://burrowshirepodcast.com/library/)
 - [*Read Your Way to Heaven*](https://www.amazon.com/How-Read-Your-Way-Heaven/dp/1622823605/ref=sr_1_1?ie=UTF8&qid=1542381704&sr=8-1&keywords=read+your+way+to+heaven) by Vicki Burbach
