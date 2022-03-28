@@ -17,7 +17,7 @@
 ## Chapter 2: Gentle, Into That Good Night
 **Summary**: How we should think about death and the verdict it passes on the lives we live.
 - We are "subcreators" (cf [[J.R.R. Tolkien]]), and what we build shows what we care about (temples and tombs vs skyscrapers)
-- [[Joseph Ratzinger]] in *Introduction to Christianity*: "Meaning that is self-made is, in the last analysis, no meaning. Meaning cannot be made but only received." (29)
+- [[Joseph Ratzinger]] in *[[~Introduction to Christianity]]*: "Meaning that is self-made is, in the last analysis, no meaning. Meaning cannot be made but only received." (29)
 - "How a culture deals with death reveals how it thinks about the meaning of life and the nature of the human person...[Death] can sharpen our awareness of beauty and intensify our loves." (31)
 - [[Ecclesiastes]] shows us what life looks like without hope in the resurrection
 - The [[Stoic]] view of death (cf. [[Cicero]] and Silicon Valley today): death is either deliverance from the burdens of the material world or everlasting rest

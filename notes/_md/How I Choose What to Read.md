@@ -60,6 +60,9 @@ At the end of the day, I always leave some room for whim in my reading list. Rea
 ### Other
 - read for travel (like I did for Joyce and [[Gerard Manley Hopkins]])
 - read what's already on your bookshelf
+- read from a river, not a bucket
+	- >To return to information overload: this means treating your "to read" pile like a river (a stream that flows past you, and from which you pluck a few choice items, here and there) instead of a bucket (which demands that you empty it). After all, you presumably don't feel overwhelmed by all the unread books in the British Library – and not because there aren't an overwhelming number of them, but because it never occurred to you that it might be your job to get through them all.
+	- [Treat your to-read pile like a river | Oliver Burkeman](https://www.oliverburkeman.com/river) (from Jordan)
 
 </details>
 

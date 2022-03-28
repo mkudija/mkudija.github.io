@@ -278,6 +278,11 @@ GRANT USAGE ON SCHEMA <name> TO GROUP readonly;
 GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;
 ```
 
+```SQL
+GRANT USAGE ON [schema] TO mode_analytics;
+GRANT SELECT ON [schema.table] TO mode_analytics;
+```
+
 
 ### View Tables in Schema
 ```SQL

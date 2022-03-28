@@ -12,7 +12,7 @@ Books mentioned:
 - *Catechism of the Catholic Church*
 - *The Crisis of Western Education* by Christopher Dawson (124)
 - *[[~Democracy in America]]* (157)
-- *The Abolition of Man* by [[C. S. Lewis]] (162)
+- *[[2022-01-01-The Abolition of Man|The Abolition of Man]]* by [[C. S. Lewis]] (162)
 - *Veritatis Splendor*
 - *Familiaris Consortio*
 - *Evangelium Vitae*
@@ -31,7 +31,7 @@ Books mentioned:
 - "Education is the arena where the interests of the State and Family overlap, and also where their interest are most likely to conflict." (55)
 - "By attempting to make the mysterious understandable he robs the child's world of mystery, and makes it not quite so interesting to search for the meaning of things." (117)
 - "The restoration of culture depends upon the restoration of divine order to human affairs." (136)
-- JPII: "I would a thousand times rather have a persecuted Church than a compromised Church." (145)
+- [[John Paul II]]: "I would a thousand times rather have a persecuted Church than a compromised Church." (145)
 - "Unless one is grounded in absolutes, it is very difficult to see the gradual shifting of the center." (224)
 - "The lay person's foremost responsibility in the restoration is to pray persistently for our bishops. *This prayer must be backed up by fasting and sacrifice*." (236)
 

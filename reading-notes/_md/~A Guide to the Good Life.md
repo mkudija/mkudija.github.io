@@ -7,6 +7,8 @@
 
 
 --- 
+**Topic:** [[Stoicism]]
+
 **Source**: [Sivers](https://sive.rs/book/StoicJoy) among others, bought from UA library 2022-02-05
 
 ---

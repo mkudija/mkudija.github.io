@@ -195,7 +195,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 - Medieval culture was not monolithic but had a variety of conflicting strands to understand (166)
 - Christian and pagan elements coexisted in cultures recently emerged from a Heroic society (166)
 - The rediscovery of classical texts made the integration of pagan and Christian virtues a topic of philosophical and theological reflection (167)
-- Discussion of Stoicism and virtue on 168-169, including the Stoic abandonment of a *telos*, which is followed in Europe with emphasis on *law* rather than *virtue*
+- Discussion of [[Stoicism]] and virtue on 168-169, including the Stoic abandonment of a *telos*, which is followed in Europe with emphasis on *law* rather than *virtue*
   - "Whenever the virtues begin to lose their central place, Stoic patterns of thought and action at once reappear. Stoicism remains one of the permanent moral possibilities withing the cultures of the West." (c.f. Ryan Holiday and the secular Stoic movement today?) (170)
 - The virtue of *charity* is new from Christianity: first the *telos* of a final redemption, and second in the evil encountered along the way (175)
 - Medieval view of virtue: allow men to survive evils on their historical journey (176)

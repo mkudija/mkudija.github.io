@@ -12,6 +12,9 @@
 
 
 ---
+**Source**:
+- [[Fr. Dailey]]
+
 **Bibliography**
 
 - Biography of [[Pére Jacques]]: *Pére Jacques: Resplendent in Victory* by Francis J. Murphy

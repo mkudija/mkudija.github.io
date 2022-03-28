@@ -56,7 +56,7 @@
 **Bibliography**
 
 - *The Drama of Atheist Humanism* by [[Henri de Lubac]] (14)
-- *Introduction to Christianity* by [[Joseph Ratzinger]] (34)
+- *[[~Introduction to Christianity]]* by [[Joseph Ratzinger]] (34)
 - *The Force of Circumstance* by Simone de Beauvoir (52-55, describing the emptiness of a present without a future)
 - *The Little Prince* by Antoine de Saint-Exupéry (111-112, "seeing with the heart")
 - de Lubac" ["Holiness in Future"](https://github.com/mkudija/notes/blob/master/Holiness%20In%20Future%20by%20de%20Lubac.pdf) in *[[~The Church-Paradox and Mystery]]* (115)

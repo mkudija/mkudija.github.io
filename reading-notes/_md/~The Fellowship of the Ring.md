@@ -8,6 +8,39 @@
 
 `(New York: Ballantine/Del Rey, 1954/2012), 458`
 
+
+**BOOK I**
+
+1. A Long-expected Party
+2. The Shadow of the Past
+3. Three Is Company
+4. A Short Cut to Mushrooms
+5. A Conspiracy Unmasked
+6. The Old Forest
+7. In the House of Tom Bombadil
+8. Fog on the Barrow-Downs
+9. At the Sign of the Prancing Pony
+10. Strider
+11. A Knife in the Dark
+12. Flight to the Ford
+
+
+
+**BOOK Il**
+
+1. Many Meetings
+2. The Council of Elrond
+3. The Ring Goes South
+4. A Journey in the Dark
+5. The Bridge of Khazad-düm
+6. Lothlorien
+7. The Mirror of Galadriel
+8. Farewell to Lorien
+9. The Great River
+10. The Breaking of the Fellowship
+
+
+
 ### Prologue
 - "The Hobbits name it the Shire...and there in that pleasant corner of the world they plied their well-ordered business of living, and they heeded less and less the world outside where dark things moved." (6)
 - [[Fasting]]: "They were so unwearyingly fond of good things not least because they could, when put to it, do without them." (6)

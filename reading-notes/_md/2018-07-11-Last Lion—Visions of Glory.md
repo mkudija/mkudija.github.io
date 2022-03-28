@@ -7,11 +7,11 @@
 ## Themes
 - man of tradition: 
   - "In a thousand little ways he revealed his preference for the past and his reluctance to part with it." (11)
-  - "I confess myself to be a great admirer of tradition." (11)
+  - "I confess myself to be a great admirer of [[Tradition]]." (11)
   - "Fortune is rightly malignant to those who break with the customs of the past." (11) 
   - "I like to live in the past. I don't think people are going to get much fun in the future." (12)
-  - "The longer you look back, the farther you ca nlook forward." (12)
-- war: he recognized war as a legitimate political instrument and devoted himself to a lifetime study of strategy (15)
+  - [[History]]: "The longer you look back, the farther you can look forward." (12)
+- War: he recognized war as a legitimate political instrument and devoted himself to a lifetime study of strategy (15)
 - strengths:
   - intense concentration on the matter at hand (35-36)
   - renaissance man (35)
@@ -24,7 +24,6 @@
   - depression (23)
   - "He had expensive tastes and he always indulged them." (28)
 - he strove to defeat his enemy entirely but be reasonable in victory (22)
-  - 
 
 
 Before the contents:
@@ -32,7 +31,7 @@ Before the contents:
 > —John F. Kennedy *on Theodore Roosevelt, New York City, December 5, 1961*
 
 
-The Preamble (which ends on page 39) is marvelous. It is worth reading this if nothing else. It gives you a sense of Churchill's life, his importance, and the beauty of his language. Manchester begins by outlining the dire straights England was in at the beginning of the Second World War and who would be needed to help, only to allude to Churchill in a magnificient way: "In London there was such a man." (4)
+The Preamble (which ends on page 39) is marvelous. It is worth reading this if nothing else. It gives you a sense of Churchill's life, his importance, and the beauty of his language. Manchester begins by outlining the dire straights England was in at the beginning of the Second World War and who would be needed to help, only to allude to Churchill in a magnificent way: "In London there was such a man." (4)
 
 
 ## Quotes

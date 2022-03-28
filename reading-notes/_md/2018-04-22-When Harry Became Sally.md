@@ -64,7 +64,7 @@ The introduction describes what each chapter covers, and provides a good summary
 
 ## Chapter 6: Childhood Dysphoria and Desistance
 - again reviews the prescribed plan of transition for children with gender dysphoria as prescribed by transgender activists, and associated risks and outcomes
-- then proposes "a better approach", leaning largely on reserach by Dr. Kenneth Zucker to encourage a theraputic approach to alignment with reality rather than a hormonal/surgical approach the other way around on the authority of a child's feelings
+- then proposes "a better approach", leaning largely on research by Dr. Kenneth Zucker to encourage a therapeutic approach to alignment with reality rather than a hormonal/surgical approach the other way around on the authority of a child's feelings
 
 
 ## Chapter 7: Gender and Culture
@@ -73,10 +73,10 @@ The introduction describes what each chapter covers, and provides a good summary
 
 
 ## Chapter 8: Policy in the Common Interest
-- He focuses on policy concerns surrounding ideology (coercion to the transgender agenda), privacy and security (for non-transgender individuals, especially women), equality (Title IX equality protections for women in danger of reverse, especially for women in sports as the result of competition from transgender "women", who are biological men), redefinition of legal terms by the Obama administration to conform to the transgender agenda, and enforcing transgender orthodoxy through antidiscrimination law
+- He focuses on policy concerns surrounding ideology (coercion to the transgender agenda), privacy and security (for non-transgender individuals, especially women), equality (Title IX equality protections for women in danger of reverse, especially for women in sports as the result of competition from transgender "women", who are biological men), redefinition of legal terms by the Obama administration to conform to the transgender agenda, and enforcing transgender orthodoxy through anti-discrimination law
 
 ## Conclusion
-- "When I told people that I was working on a book about the transgender moment, many asked me why. Why spend precious time on something so silly? Why do diligend research and write carefully reasoned arguments about something that runs on emotion? Why open yourself up to charges of transphobia and bigotry? The simple answer is that I couldn't shake from my mind the stories of people who had detransitioned. They are heartbreaking." (205)
+- "When I told people that I was working on a book about the transgender moment, many asked me why. Why spend precious time on something so silly? Why do diligent research and write carefully reasoned arguments about something that runs on emotion? Why open yourself up to charges of transphobia and bigotry? The simple answer is that I couldn't shake from my mind the stories of people who had detransitioned. They are heartbreaking." (205)
 - 180-181: key point is that neuroplasticity means that allowing social transition only reaffirms dysphoria and prevents the likely natural return to identifying with actual gender 
 
 --- 

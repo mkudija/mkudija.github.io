@@ -34,6 +34,8 @@
 - "He is giving away the days of his life" quite literally with the food he gave away (240)
 
 ---
+**Source:** [[Fr. Dailey]]
+
 **Bibliography**
 
 - *Life of the Curé of Ars* (40) #wishlist 

@@ -360,6 +360,10 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
 </code></pre></div>
 
+<div class="codehilite"><pre><span></span><code><span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="p">[</span><span class="k">schema</span><span class="p">]</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">mode_analytics</span><span class="p">;</span><span class="w"></span>
+<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="p">[</span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="p">]</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">mode_analytics</span><span class="p">;</span><span class="w"></span>
+</code></pre></div>
+
 <h3 id="view-tables-in-schema">View Tables in Schema</h3>
 
 <div class="codehilite"><pre><span></span><code><span class="c1">-- view tables in schema</span>
@@ -447,7 +451,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2022-02-24-Thu</p>
+Updated: 2022-03-24-Thu</p>
 
 
 </div>

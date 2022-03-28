@@ -1,7 +1,7 @@
 # *Silence In the Age of Noise* by Erling Kagge
 2018-02-18
 
-*Borrowed from [[Cory]]*
+
 
 # Introduction
 Story about guy calling his pregnant wife from Everest to choose their child’s name before dying...hits you hard 
@@ -51,3 +51,10 @@ Arthur Aron's 36 questions to fall in love, and staring with your partner
 
 # Chapter 32
 Seek wilderness: You have to find your own South Pole 
+
+---
+
+**Topic**: [[Silence]]
+
+**Source**:
+- *Borrowed from [[Cory]]*

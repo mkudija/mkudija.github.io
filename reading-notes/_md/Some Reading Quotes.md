@@ -47,7 +47,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 <br>
 > Reading should help us to pray by concentrating our attention.<br> —Robert Cardinal Sarah[^sarah]
 
-[^sarah]: Robert Cardinal Sarah, [*The Power of Silence: Against the Dictatorship of Noise*](https://www.amazon.com/Power-Silence-Against-Dictatorship-Noise/dp/1621641910/ref=sr_1_1?ie=UTF8&qid=1549836453&sr=8-1&keywords=robert+cardinal+sarah) (San Francisco: Ignatius, 2017), 31.
+[^sarah]: Robert Cardinal Sarah, *[[The Power of Silence]]* (San Francisco: Ignatius, 2017), 31.
 
 <br>
 > What matters is that it is *your* library, invested with your intellectual capital, and serves as a garden of the mind to which you can return again and again.<br> —James Mattis[^mattis]

@@ -1,10 +1,12 @@
 
-# [*The Mandibles: A Family, 2029-2047*](https://www.harpercollins.com/products/the-mandibles-lionel-shriver?variant=32205656129570) by Lionel Shriver
+# [*The Mandibles: A Family, 2029-2047*](https://www.harpercollins.com/products/the-mandibles-lionel-shriver) by [[Lionel Shriver]]
 
-<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062328281_431b857a-f571-4347-acc6-158630b7f525.jpg?v=1644285330" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062328281.jpg" width=150>
 
 `(New York: HarperCollins, 2016), 432`
 
+[XKCD 512](https://xkcd.com/512/)
+<img src="https://imgs.xkcd.com/comics/alternate_currency.png">
 
 - "The old man was liberal by creed, but she'd never met anyone with money who didn't have conservative *instincts*. One such instinct was to make the morally obvious (if fiscally inconvenient) seem terribly complicated." (11)
 - "As your father, I shouldn't be letting you in on this rather ugly fact of life, but people who follow the rules are almost always punished." (82)

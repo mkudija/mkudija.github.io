@@ -91,6 +91,12 @@ publish: true
 <img src="https://pbs.twimg.com/media/Dv33vB7VsAAqlF1?format=jpg" width=100%>
 *[Madonna and Child Twitter Thread](https://twitter.com/fatherajds/status/1080167038293811201)* (search: Mary Twitter Thread)
 
+### [[2022-03-19-The Silent Knight#Favorite St Joseph Art|Favorite St Joseph Art]]
+
+### Favorite Artists
+- [Daniel Mitsui](https://www.danielmitsui.com/)
+- [Blair Barlow](https://www.blairbarlowart.com/sacredart)
+- [The Modern Saints by Gracie](https://www.themodernsaints.com/)
 
 ---
 Created: [[2021-07-29-Thu]]

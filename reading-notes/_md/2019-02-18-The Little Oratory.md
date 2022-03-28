@@ -45,14 +45,14 @@
   - Sunday: the Resurrection, the Trinity
   - Monday: the Holy Spirit
   - Tuesday: the angels
-  - Wednesday: St. Joseph
+  - Wednesday: [[St. Joseph]]
   - Thursday: the Blessed Sacrament
   - Friday: Christ's Passion
   - Saturday: the Blessed Virgin
 - Devotions throughout the year:
   - January: the Holy Name of Jesus
   - February: the Holy Family
-  - March: St. Joseph
+  - March: [[St. Joseph]]
   - April: the Blessed Sacrament
   - May: our Lady
   - June: the Sacred Heart
