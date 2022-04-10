@@ -11,3 +11,7 @@
 * Book 10, chapter 6
     * "Don't be like everyone else, even if you're the only one"
 
+
+Resources:
+- [Virtual Book Club | The Brothers Karamazov - Jessica Hooten Wilson](https://jessicahootenwilson.com/virtual-book-club-the-brothers-karamazov/)
+

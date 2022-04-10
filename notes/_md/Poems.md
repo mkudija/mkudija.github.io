@@ -29,3 +29,7 @@ publish: true
 
 **Unknown**
 - *[[Unanswered Prayers]]*
+
+**[[James Matthew Wilson]]**
+- *[The Stations of the Cross](https://www.clarionreview.org/2017/03/stations-of-the-cross/)* (in *[[2020-11-19-The Hanging God|The Hanging God]]*)
+- *[Autumn Road](https://www.firstthings.com/article/2017/10/autumn-road)* (in *[[2020-11-19-The Hanging God|The Hanging God]]*)

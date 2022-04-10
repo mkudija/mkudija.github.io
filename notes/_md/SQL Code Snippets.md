@@ -117,6 +117,21 @@ SELECT
 WHERE RANK = 1
 ```
 
+### Cumulative Value `SUM() OVER PARTITION BY`
+In this value, LTV is a monthly value that we want to show cumulative amount:
+
+```SQL
+SELECT
+    ...
+    , SUM(ltv_prod)  
+      OVER (PARTITION BY policy_effective_month  
+      ORDER BY calendar_month ASC ROWS UNBOUNDED PRECEDING) AS ltv_cumulative
+    FROM
+            database.table AS t
+    )
+WHERE RANK = 1
+```
+
 ### Round
 
 `ROUND` rounds the number, and if you don't want the additional `.000` you can `CAST` as an integer:

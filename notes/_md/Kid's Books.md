@@ -41,6 +41,7 @@ publish: true
 - *The Little Engine That Could* by Watty Piper
 - *Curious George* by H. A. Rey
 - *Harold And the Purple Crayon* by Crockett Johnson
+- *The Gruffalo* by Julia Donaldson
 - *Madeline* by Ludwig Bemelmans
 - *Stellaluna* by Janell Cannon
 - *The Elephant’s Airplane and Other Machines* by Anne-Marie Dalmais

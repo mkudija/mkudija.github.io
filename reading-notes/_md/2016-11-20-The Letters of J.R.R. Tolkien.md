@@ -1,5 +1,5 @@
 
-# *The Letters of J.R.R. Tolkien * by [[J.R.R. Tolkien]]
+# *The Letters of J.R.R. Tolkien* by [[J.R.R. Tolkien]]
 
 * But I know only too sadly from efforts to find anything to read even with an 'on demand' subscription at a library that my taste is not normal. -*The Letters of J.R.R. Tolkien*, pg 34, letter 26
 * Letter 43 

@@ -28,6 +28,11 @@ publish: true
 <img src="https://nobility.org/wp-content/uploads/2017/03/Our-Lady-of-the-Most-Blessed-Sacrament.jpg" width=100%>
 
 
+### The Annunciation
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Henry_Ossawa_Tanner%2C_American_%28active_France%29_-_The_Annunciation_-_Google_Art_Project.jpg/2560px-Henry_Ossawa_Tanner%2C_American_%28active_France%29_-_The_Annunciation_-_Google_Art_Project.jpg" width=100%>
+[*The Annunciation*](https://en.wikipedia.org/wiki/The_Annunciation_(Tanner)) (1898),  Henry Ossawa Tanner (American), Oil on canvas, Philadelphia Museum of Art, Philadelphia.
+
 ### Maria, Mater Ecclesiae
 
 <img src="https://farm3.staticflickr.com/2184/2470957957_6b296625c1_z.jpg" width=100%>

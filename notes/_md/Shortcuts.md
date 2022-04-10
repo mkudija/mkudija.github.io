@@ -25,6 +25,7 @@ publish: true
 `⌃ + ⌘ + Q` = `ctrl + cmd + Q` = Lock screen
 `drutil tray eject` - eject CD
 `⌘+Shift+.` - show hidden files in Finder
+`⌘ + ⇧ + 5` = `cmd + shift + 5` = open screenshot tool (save to preview to annotate)
 
 
 [**ScreenBrush**](https://imagestudiopro.com/screenbrush/)
