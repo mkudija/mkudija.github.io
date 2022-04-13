@@ -30,7 +30,7 @@ $ make build
 - Customize theme to your liking.
   - This can be little things like changing the colors and typeface to larger things like adding functionality.
   - You don't need to commit your changes to GitHub to see the results. You can view them locally by right clicking on the file and opening in a web browser. Tip: using Safari you can go to **Develop** > **Enter Responsive Design Mode** to see how your site will look on different screens. This is great for making sure that what you see on a desktop when editing it will work well on mobile.
-  - If you get stuck, it's easy to get help. You can hire someone on Fiverr for as little as $5 ($7 with their fee) to fix an issue on your website. I recommend [musebkhalid](https://www.fiverr.com/musebkhalid/create-remix-update-and-recover-web-pages?ref_ctx_id=1ca3bd97-b64d-4042-90b4-70582610f333).
+  - If you get stuck, it's easy to get help. You can hire someone on Fiverr or Upwork or for as little as $5-10 to fix an issue on your website. I recommend [musebkhalid](https://www.upwork.com/freelancers/~01e618e143f8a4accf).
 - Alternatively, with a little HTML and CSS you can build a simple website yourself from scratch.
 
 ## 3. Set Up Extras
