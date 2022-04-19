@@ -35,6 +35,7 @@ publish: true
 	- [ScreenBrush](https://imagestudiopro.com/screenbrush/)
 		- option-tab to enable
 	- [Boop](https://boop.okat.best/)
+	- [Fig](https://fig.io/)
 - [Signal](https://signal.org/download/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [iTerm2](https://iterm2.com/downloads.html)

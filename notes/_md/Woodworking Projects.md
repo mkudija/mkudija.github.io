@@ -17,6 +17,11 @@ publish: true
 
 # Woodworking Projects
 
+### 2022-03-29 Shabbat
+*Maple*
+
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-03-29-shabbat.jpg" width="100%"/>
+
 
 ### 2022-02-27 Icon
 *Cherry*

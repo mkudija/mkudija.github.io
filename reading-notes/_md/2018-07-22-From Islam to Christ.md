@@ -56,7 +56,7 @@
 - the lack of conversions from Islam is due to servile fear (vs. filiar fear c.f. [[St. Thomas Aquinas]])
 - "until I moved to the West I never heard that Islam was a religion of peace"
   - only peace is when everyone worships Allah
-- on reading [[Karl Marx]]: "just don't do that to yourself!"
+- on reading [[Marx]]: "just don't do that to yourself!"
 - her friend Theresa made her realize that Allah is a very small god: no natural law, no science, no consistency
 - Grand Inquisitor: free will and sin
 - Islam and Protestantism are both very Gnostic: the spiritual and natural worlds never meet

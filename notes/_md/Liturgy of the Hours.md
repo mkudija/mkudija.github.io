@@ -5,6 +5,8 @@ publish: true
 
 # Liturgy of the Hours
 
+<img src="https://cbp-assets.s3.amazonaws.com/products/409-13-1.jpg" width=250>
+
 | Hour (Old)    | Hour (New)          | Time    |
 |---------------|---------------------|---------|
 | Vigils/Matins | Office of Readings  | 12 a.m. |

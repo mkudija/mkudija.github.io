@@ -88,7 +88,7 @@ Sasse's 60-book shelf includes:
 	- *Free to Choose* by Milton and Rose Friedman
 	- *Guns, Germs, and Steel* by Jared Diamond
 - Tyrants
-	- *Communist Manifesto* by [[Karl Marx]]
+	- *Communist Manifesto* by [[Marx]]
 	- *Origins of Totalitarianism* by Hannah Arendt
 	- *The Road to Serfdom* by [[F.A. Hayek]]
 	- *[[~Animal Farm]]* by [[George Orwell]]

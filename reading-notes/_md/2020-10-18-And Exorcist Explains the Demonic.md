@@ -29,6 +29,10 @@
 - "In his will is our peace." (*Divine Comedy - Paradiso*, canto 3, line 85, cited on pg 135)
 - Pascal: "Meditation on hell has filled paradise with saints." (141)
 
+--- 
+**Topic**: [[Exorcism]]
+
+
 ---
 Created: 2020-10-18
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

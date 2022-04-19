@@ -49,7 +49,7 @@ _**Summary**: Wordsworth, Shelley, and Blake_
 
 
 ## Chapter 5: The Emergence of Plastic People
-_**Summary**: [[Friedrich Nietzsche]], [[Karl Marx]], and Darwin_
+_**Summary**: [[Nietzsche]], [[Marx]], and Darwin_
 
 
 
@@ -59,7 +59,7 @@ _**Summary**: Reflections on the Foundations of the Revolution_
 
 # Part 3: Sexualization of the Revolution
 
-## Chapter 6: [[Sigmund Freud]], Civilization, Sex
+## Chapter 6: [[Freud]], Civilization, Sex
 _**Summary**: _
 
 

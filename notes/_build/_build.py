@@ -82,8 +82,6 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
 
         for i in linksRaw:
             linkRaw = i
-            # i = i.split('#')[0].split('|')[0] # show only aliases if present
-            ## NEED TO UPDATE FOR ALIASES (|)
             linkURL = i
             try: # for aliases (|)
                 linkURL = i.split('#')[0].split('|')[0]

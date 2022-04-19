@@ -26,6 +26,7 @@ publish: true
 - *Yellow Kayak* by Nina Laden
 - Richard Scary 
     - *Cars and Trucks and Things that Go*
+- *Lilly and Friends* by Kevin Henkes
 - Brianna Caplan Sayres
 	- Where do Diggers/Jet Planes/Steam Trains Sleep at Night  
 - *Ordinary People Change the World* biographies by Brad Meltzer (series)
@@ -33,6 +34,8 @@ publish: true
 - P.D. Eastman
 	- *Go Dog Go*
 	- *Sam and the Firefly*
+- Matthew Reinhart 
+	- Encyclopedia Prehistorica Dinosaurs : The Definitive Pop-Up
 - A. A. Milne:
 	- *Winnie the Pooh*
 	- *The House at Pooh Corner*
@@ -40,6 +43,7 @@ publish: true
 	- *Now We Are Six*
 - *The Little Engine That Could* by Watty Piper
 - *Curious George* by H. A. Rey
+- *Creepy Carrots* by Aaron Reynolds
 - *Harold And the Purple Crayon* by Crockett Johnson
 - *The Gruffalo* by Julia Donaldson
 - *Madeline* by Ludwig Bemelmans
