@@ -47,4 +47,5 @@ select 0,1 and drag to get 0,1,2,3,etc.
 `⌥ + ⌘ + L` - `option + command + L` - format lines
 `⌃ + G` - `ctrl + G` - command + D sublime equivalent to select next occurrence
 `⌥ + ⇧ + ↑` - `option + shift + up arrow` - move lines up
+`⇧+ ⌥ + ⌘ + select` - `shift + option + command + select` - multi-select
 

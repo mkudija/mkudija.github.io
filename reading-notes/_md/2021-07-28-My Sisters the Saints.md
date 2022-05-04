@@ -11,13 +11,13 @@
 
 - *Saint Theresa of Ávila* by Marcelle Auclair from her dad: "It makes Theresa come alive" (12)
 - her parents read the saints' lives again and again --> we need to be continually uplifted (12)
-- *Autobiography* by Saint Theresa of Ávila (15)
+- *[[~Autobiography of St. Theresa of Ávila]]* (15)
 - It's never too late: Theresa's breakthrouh came when she was 39
-- Persevering in prayer left her with "more trainquility and happiness than at certain other times when I had prayed because I had wanted to." (18)
+- Persevering in prayer left her with "more tranquility and happiness than at certain other times when I had prayed because I had wanted to." (18)
 
 
-## Chapter 2: [[Thérèse of Lixieux]]
-**Summary**: Her deepening life for **Thérèse of Lisieux**’s little way as she saw her father decline with Alzheimer’s, and his increasing joy as he grew closer to God.
+## Chapter 2: [[St. Thérèse of Lisieux]]
+**Summary**: Her deepening love for **Thérèse of Lisieux**’s little way as she saw her father decline with Alzheimer’s, and his increasing joy as he grew closer to God.
 
 - *Therese: A Life Of Therese Of Lisieux* by Dorothy Day (31)
 - Louis Martin: "I know why God has ent me this trial. I never had any humiliation in my life; I needed one." (38)
@@ -67,16 +67,18 @@
 - [[Spiritual Disciplines]]: pray the rosary every day (170)
 
 
-## Chapter 6: Mary
+## Chapter 6: [[Mary]]
 **Summary**: **Mary** is our universal mother, who helped her through her challenging pregnancy.
 
 - [Memorare by Danielle Rose](https://youtu.be/H93HaDeg27c) (173)
 - True devotion to Mary must always lead closer to Christ and remain rooted in Christ (186)
-- Mary's sinless nature made living in our sinful world espeically painful (195)
+- Mary's sinless nature made living in our sinful world especially painful (195)
 - Mary shows us how motherhood requires a willingness to surrender
 
-
 --- 
+**Topic**: 
+
+**Source**: [[Jordan]]
 
 **Bibliography**
 
@@ -89,7 +91,12 @@
 - *On the Dignity and Vocation of Women*, *Letter to Women*, and *The Gospel of Life* by John Paul II (102)
 - *Life in a Jewish Family* by Edith Stein (103)
 - ***Essays on Women*** by Edith Stein (105)
-- *Theology of the Body* by John Paul II (106)
+- *Theology of the Body* by [[John Paul II]] (106)
 - ***The Collected Works of St. John of the Cross*** (139)
 - *Mother Teresa: Come Be My Light: The Private Writings of the Saint of Calcutta* (141)
-- *Daughter Zion* by Pope Benedict XVI (189)
+- *Daughter Zion* by [[Pope Benedict XVI]] (189)
+
+
+---
+Created: [[2021-07-28-Wed]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

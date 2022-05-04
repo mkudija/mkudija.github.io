@@ -10,7 +10,9 @@ It doesn't matter how you define a "great" book: there will always be more great
 
 Because I view reading the great books as a lifetime project, rather than identifying a canon of great books and checking them off until I'm done, I prefer to make sure that I'm continually reading, re-reading, and digesting some of the great books. There are many [[Reading Lists]] that can serve as a guide, but each person will have their own list of "great" books.
 
-Don't be afraid to jump and in read something that is difficult. Even if I only absorb a small percentage of a book, at least my mind is being saturated in something that is true, lovely, and excellent (cf. [[Phil-04#v8]])[^audio].
+Don't be afraid to jump and in read something that is difficult. Even if I only absorb a small percentage of a book, at least my mind is being saturated[^saturate] in something that is true, lovely, and excellent (cf. [[Phil-04#v8]])[^audio].
+
+[^saturate]: c.f. *[[~The Priest at Prayer#^13a81d]]*
 
 [^audio]: This influences my decision making on listening to audiobooks. If my choice is between (a) not getting around to a great book that deserves the attention of a deep reading, or (b) listening to the audiobook version knowing that I'm not getting the full experience, I'll often choose (b), enjoy the brief exposure to truth, loveliness, and excellence, and resolve to return in the future.
 

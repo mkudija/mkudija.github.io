@@ -17,6 +17,12 @@ publish: true
 
 # Woodworking Projects
 
+### 2022-05-01 Various Mounted Prints
+*Walnut, maple*
+
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-05-01-mounted-prints.jpg" width="100%"/>
+
+
 ### 2022-03-29 Shabbat
 *Maple*
 

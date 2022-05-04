@@ -56,6 +56,11 @@ Eating a diet heavy in whole plant foods is not the default setting in America, 
 - [StraightUpFood.com](StraightUpFood.com)
 - [HappyHealthyLonglife.com](HappyHealthyLonglife.com)
 
+--- 
+**Topic**: [[Food]]
+
+**Source**: [[Dad]]
+
 
 ---
 Created: 2021-09-16

@@ -1,22 +1,24 @@
 ---
 publish: true
+aliases: [LOTH]
 ---
+
 *[[Prayer]]*
 
 # Liturgy of the Hours
 
 <img src="https://cbp-assets.s3.amazonaws.com/products/409-13-1.jpg" width=250>
 
-| Hour (Old)    | Hour (New)          | Time    |
-|---------------|---------------------|---------|
-| Vigils/Matins | Office of Readings  | 12 a.m. |
-| Lauds         | Morning Prayer      | 6 a.m.  |
-| Prime         | -                   | 7 a.m.  |
-| Terce         | Midmorning Prayer   | 9 a.m.  |
-| Sext          | Midday Prayer       | 12 p.m. |
-| None          | Midafternoon Prayer | 3 p.m.  |
-| Vespers       | Evening Prayer      | 6 p.m.  |
-| Compline      | Night Prayer        | 9 p.m.  |
+| Hour (Old)         | Hour (New)          | Time    |
+| ------------------ | ------------------- | ------- |
+| Vigils/Matins      | Office of Readings  | 12 a.m. |
+| Lauds              | Morning Prayer      | 6 a.m.  |
+| Prime              | -                   | 7 a.m.  |
+| Terce              | Midmorning Prayer   | 9 a.m.  |
+| Sext               | Midday Prayer       | 12 p.m. |
+| None               | Midafternoon Prayer | 3 p.m.  |
+| Vespers (Evensong) | Evening Prayer      | 6 p.m.  |
+| Compline           | Night Prayer        | 9 p.m.  |
 
 ## Resources
 - Wikipedia: [The Liturgy of the Hours](https://en.wikipedia.org/wiki/Liturgy_of_the_Hours)
@@ -36,13 +38,19 @@ publish: true
 - [[Canticle of Mary (Magnificat)]]
 - Charts of the psalms used: [psalms wide](https://stutler.cc/russ/psalmchart_e.html), [psalms narrow](https://stutler.cc/russ/LOTH_CHART_vert.html), [psalms and canticles](https://stutler.cc/russ/breviary_chart_complete.html)(from [Some Psalter Reviews](https://stutler.cc/russ/psalter_reviews.html)) 
 - A [Liturgy of the Hours, Second Edition](https://www.usccb.org/prayer-and-worship/liturgy-of-the-hours/liturgy-of-the-hours-second-edition) is coming...
+- *[[~The Priest at Prayer]]*, 178-186
 
+### Alternative Versions
+- pre-1970 Roman Breviary: [The Roman Breviary (1961 edition in Latin and English)](https://www.baroniuspress.com/book.php?wid=56&bid=59#tab=tab-1) (online version: [The Roman Breviary](https://breviary.net/index.htm))
+- Ordinariates of English Patrimony (Anglican version): [Divine Worship Daily Office](https://www.ctsbooks.org/product/daily-office/) (video tutorial: [(70) Divine Worship: Daily Office (Commonwealth Edition) - YouTube](https://www.youtube.com/playlist?list=PLvkKbvFiXHk43cTMDyRwb_qtAo2mQ9Xuy))
 
 ## Notes
 ### Volume I
-- Vol. 1, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
+- Vol. I, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
 
 ### Volume II
+- Vol. II, pg. 1794: from the *[[~The Dialogue]]* of [[St. Catherine of Siena]]: "You are a mystery as deep as the sea; the more I search, the more I find, and the more I find the more I search for you. But I can never be satisfied; what I receive will ever leave me desiring more. When you fill my soul I have an even greater hunger, and I grow more famished for your light. I desire above all to see you, the true light, as you really are."
+
 
 ### Volume III
 

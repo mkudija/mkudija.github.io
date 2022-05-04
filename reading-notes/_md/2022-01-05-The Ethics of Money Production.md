@@ -209,7 +209,7 @@ _**Summary**: [[Inflation]] is money produced through the violation of property 
 
 
 ## Chapter 6: Private Inflation: Counterfeiting Money
-_**Summary**: Counterfeiting can be accomplished through debasement (less metal in a coin than advertised) or fractional-reserve banking. These are never permissible except in a great emergency when the entire community gives its consent._
+_**Summary**: Counterfeiting can be accomplished through [[Debasement]] (less metal in a coin than advertised) or fractional-reserve banking. These are never permissible except in a great emergency when the entire community gives its consent._
 - Governments have always played a larger role in debasement than private citizens
 - Fractional-reserve banking is effectively the counterfeiting of bank notes when the banker is not candid about the nature of their reserves
 - Counterfeiting is usually detected and stopped quickly in the free market because people are vigilant 

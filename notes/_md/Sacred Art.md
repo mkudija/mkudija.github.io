@@ -96,6 +96,14 @@ publish: true
 <img src="https://pbs.twimg.com/media/Dv33vB7VsAAqlF1?format=jpg" width=100%>
 *[Madonna and Child Twitter Thread](https://twitter.com/fatherajds/status/1080167038293811201)* (search: Mary Twitter Thread)
 
+
+### Joan of Arc with Battle Standard
+
+<img src="https://cdn.whereyartworks.com/original/Joan_Full_Color_2020-02-03-18-19-02.jpg" width=100%>
+[*Joan of Arc with Battle Standard*](https://whereyartworks.com/shop/saegan-swanson-joan-of-arc-with-battle-standard/7340) (2019), Saegan Swanson (American), Oil on canvas, private collection.
+
+
+
 ### [[2022-03-19-The Silent Knight#Favorite St Joseph Art|Favorite St Joseph Art]]
 
 ### Favorite Artists
