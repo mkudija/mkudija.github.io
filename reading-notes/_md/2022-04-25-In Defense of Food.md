@@ -1,5 +1,5 @@
 
-# [*In Defense of Food: An Eater's Manifesto*](https://www.penguinrandomhouse.com/books/301692/in-defense-of-food-by-michael-pollan/) by Michael Pollan
+# [*In Defense of Food: An Eater's Manifesto*](https://www.penguinrandomhouse.com/books/301692/in-defense-of-food-by-michael-pollan/) by [[Michael Pollan]]
 
 <img src="https://images4.penguinrandomhouse.com/cover/9780143114963" width=150>
 
@@ -89,7 +89,7 @@ He gives some practical tips, but they all boil down to this: **Eat food. Not to
 --- 
 **Topic**: [[Food]]
 
-**Source**: [[Jordan]]
+**Source**: [[Jordan]] (her [notes](https://docs.google.com/document/d/1x0-70vtUNuO66ptL0yWlML41G8qKvD89XrNK3TkA8vo/edit))
 
 **Bibliography**
 

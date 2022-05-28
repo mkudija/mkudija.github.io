@@ -22,6 +22,8 @@ So who was right? Hansell in his belief in precision bombing to target industria
 The Bomber Mafia's vision of precision bombing has been fulfilled beyond their wildest dreams. Today a B-2 flying at 40,000 feet can drop a precision-guided bomb to target not just a single building, but a single *room* in a building. And a UAV piloted by someone sitting halfway around the world can fire a missile and hit a vehicle. The tactics and technology have changed, but the question remains: Do the ends justify the means?
 
 --- 
+**Topic**: [[World War II]], [[End justifies the means]]
+
 **Source**: Mrs. R
 
 **Bibliography**

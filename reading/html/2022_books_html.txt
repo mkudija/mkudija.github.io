@@ -1,7 +1,11 @@
+<li><i>Raven Rock: The Story of the U.S. Government's Secret Plan to Save Itself—While the Rest of Us Die</i> by Garrett M. Graff</li>
+<li><i>Practical Doomsday: A User's Guide to the End of the World</i> by Michal Zalewski</li>
+<li><i>The Omnivore's Dilemma: The Secrets Behind what You Eat</i> by Michael Pollan</li>
 <li><i>Tribe: On Homecoming and Belonging</i> by Sebastian Junger</li>
 <li><i>Paradiso</i> by Dante Alighieri</li>
 <li><i>Orthodoxy</i> by G.K. Chesterton</li>
 <li><i>In Defense of Food: An Eater's Manifesto</i> by Michael Pollan</li>
+<li><i>A Sound of Thunder</i> by Ray Bradbury, <i>The Other Death</i> by Jorge Luis Borges, and <i>The Past</i> by Ralph Waldo Emerson<i></i></li>
 <li><i>Life Out of Death: Meditations on the Paschal Mystery</i> by Hans Urs von Balthasar</li>
 <li><i>How to Destroy Western Civilization and Other Ideas from the Cultural Abyss</i> by Peter Kreeft</li>
 <li><i>The Silent Knight: A History of St. Joseph as Depicted in Art</i> by Elizabeth Lev</li>

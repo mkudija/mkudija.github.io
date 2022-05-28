@@ -108,6 +108,9 @@ Chesterton's style is incomparable: so playful, so full of common sense, always 
 
 ## Chapter 9: Authority and the Adventurer
 - "Catholic doctrine and discipline may be walls; but they are the walls of a playground." (350)
+- [[Miracles]] 355+
+- "The very time when I was most under a woman's authority, I was most full of flame and adventure." (360)
+- "I simply conclude that I am wrong, and the church right." (361)
 - "When they say '[[Enlightenment|enlightened]]' they man darkened with incurable despair." (364)
 - "There was some one thing that was too great for God to show us when He walked upon our earth; and I have sometimes fancied that it was His mirth." (366)
 

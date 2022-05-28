@@ -47,6 +47,14 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <h1 id="sql-code-snippets">SQL Code Snippets</h1>
 
+<h3 id="search-for-column-names">Search for Column Names</h3>
+
+<div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w">  </span>
+<span class="k">FROM</span><span class="w"> </span><span class="n">INFORMATION_SCHEMA</span><span class="p">.</span><span class="n">COLUMNS</span><span class="w">  </span>
+<span class="k">WHERE</span><span class="w"> </span><span class="k">COLUMN_NAME</span><span class="w"> </span><span class="k">LIKE</span><span class="w"> </span><span class="s1">&#39;%search%&#39;</span><span class="w">  </span>
+<span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="k">TABLE_NAME</span><span class="p">;</span><span class="w"></span>
+</code></pre></div>
+
 <h3 id="joins">Joins</h3>
 
 <p><code>on</code></p>
@@ -339,12 +347,32 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <p>If you run the query with <code>EXPLAIN</code> on top it will give you the query plan and how costly each step is.</p>
 
+<h3 id="pivot-table">Pivot Table</h3>
+
+<p>You can pivot, but you need to manually specify the column values:</p>
+
+<div class="codehilite"><pre><span></span><code><span class="k">WITH</span><span class="w"> </span><span class="n">pre</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="p">(</span><span class="w">  </span>
+<span class="w">    </span><span class="k">SELECT</span><span class="w"> </span><span class="k">state</span><span class="w">  </span>
+<span class="w">         </span><span class="p">,</span><span class="w"> </span><span class="n">amount</span><span class="w">  </span>
+<span class="w">         </span><span class="p">,</span><span class="w"> </span><span class="k">month</span><span class="w">  </span>
+<span class="w">    </span><span class="k">FROM</span><span class="w"> </span><span class="n">state_mgt</span><span class="p">.</span><span class="n">planned_rate</span><span class="w">  </span>
+<span class="p">)</span><span class="w">  </span>
+<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w">  </span>
+<span class="k">FROM</span><span class="w"> </span><span class="n">pre</span><span class="w"> </span><span class="n">PIVOT</span><span class="p">(</span><span class="k">SUM</span><span class="p">(</span><span class="n">amount</span><span class="p">)</span><span class="w"> </span><span class="k">FOR</span><span class="w"> </span><span class="k">MONTH</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="p">(</span><span class="s1">&#39;2022-02-28&#39;</span><span class="p">,</span><span class="s1">&#39;2022-03-30&#39;</span><span class="p">,</span><span class="s1">&#39;2022-04-30&#39;</span><span class="p">));</span><span class="w"></span>
+</code></pre></div>
+
 <h3 id="most-recent-month-end-date">Most Recent Month-End Date</h3>
 
 <div class="codehilite"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="n">DATEADD</span><span class="p">(</span><span class="k">DAY</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">DATE_TRUNC</span><span class="p">(</span><span class="s1">&#39;month&#39;</span><span class="p">,</span><span class="w"> </span><span class="k">CURRENT_DATE</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">1</span><span class="p">))</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">most_recent_month_end_date</span><span class="w"></span>
 </code></pre></div>
 
-<h3 id="creatingupdating-tables">Creating/Updating Tables</h3>
+<h3 id="create-update-tables">Create &amp; Update Tables</h3>
+
+<p>Create schema:</p>
+
+<div class="codehilite"><pre><span></span><code><span class="c1">-- create schema</span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="n">my_schema</span><span class="p">;</span><span class="w"></span>
+</code></pre></div>
 
 <p>Create table:</p>
 
@@ -416,6 +444,11 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <span class="w">    </span><span class="n">t</span><span class="p">.</span><span class="n">created_at</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">GETDATE</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="nb">INTERVAL</span><span class="w"> </span><span class="s1">&#39;7 days&#39;</span><span class="w"></span>
 </code></pre></div>
 
+<h3 id="date_diff">DATE_DIFF</h3>
+
+<div class="codehilite"><pre><span></span><code><span class="n">DATE_DIFF</span><span class="p">(</span><span class="s1">&#39;month&#39;</span><span class="p">,</span><span class="w"> </span><span class="n">start_month</span><span class="p">,</span><span class="w"> </span><span class="n">calendar_month</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">age</span><span class="w"></span>
+</code></pre></div>
+
 <h3 id="date_trunc">DATE_TRUNC</h3>
 
 <p>To transform a timestamp into weekly or daily etc. data use <code>DATE_TRUNC()</code>. Available <code>datepart</code>s are listed <a href="http://www.postgresqltutorial.com/postgresql-date_trunc/">here</a>.</p>
@@ -466,7 +499,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2022-03-28-Mon</p>
+Updated: 2022-05-18-Wed</p>
 
 
 </div>

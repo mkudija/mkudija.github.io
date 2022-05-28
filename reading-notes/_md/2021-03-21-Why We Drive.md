@@ -103,7 +103,7 @@
 
 ## Folk Engineering
 - **“A fully free relationship to technology is one that neither shuns it as alienating magic nor accepts uncritically the agenda that is sealed inside the black box.”** (129)
-- [[to-watch]]: *Fastest Car* on Netflix
+- [[Films to Watch]]: *Fastest Car* on Netflix
 - “To go deep into any technical field is to make progress in independence of mind (reject authority and believe your own eyes like Galileo), and feel. Freedoms to maneuver that grows in proportion with ones powers.” (153)
 - “This is why you end up buying a metal lathe and a milling machine. It’s just easier to make some parts than it is to hack a bureaucracy. Plus, you get to replace a frustrating activity with an enjoyable one.” (155)
 - he holds up this Enlightenment idea of knowledge (standard measurement unit accessible to everyone) as opposed to the medieval, but notes this is our caricature of the medieval, see rather *The Waning of the Middle Ages* by Johan Huizinga (155)

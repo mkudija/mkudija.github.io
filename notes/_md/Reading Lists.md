@@ -36,6 +36,7 @@ publish: true
 - *[[~The Well-Trained Mind]]* by [[Susan Wise Bauer]]
 - *The Western Canon* by [[Harold Bloom]]
 - *How to Read a Book* by [[Mortimer Adler]]
+- *[[2017-11-01-The Vanishing American Adult#Chapter 8 Build a Bookshelf|The Vanishing American Adult, Chapter 8: Build a Bookshelf]]*
 
 
 ## Philosophy

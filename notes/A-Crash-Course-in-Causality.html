@@ -1,0 +1,374 @@
+<!DOCTYPE HTML>
+
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+
+<html lang="en">
+<head>
+<title>Matthew Kudija | Notes</title>
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico"/>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="https://matthewkudija.com/" class="logo">Matthew Kudija</a>
+<div class="header-right">
+<a href="https://matthewkudija.com/">Home</a>
+<a href="https://matthewkudija.com/about">About</a>
+<a href="https://matthewkudija.com/notes/">Notes</a>
+<a href="https://matthewkudija.com/reading-notes/">Reading Notes</a>
+</div>
+</header>
+
+<!-- Content -->
+
+<h1 id="a-crash-course-in-causality">A Crash Course in Causality</h1>
+
+<p><em><a href="https://www.coursera.org/learn/crash-course-in-causality/home/week/1">A Crash Course in Causality: Inferring Causal Effects from Observational Data - Welcome and Introduction to Causal Effects | Coursera</a></em></p>
+
+<p>by <a href="https://pets.rutgers.edu/people/jason-roy/">Dr. Jason Roy</a> from <a href="https://www.cceb.med.upenn.edu/cci">UPenn Center for Causal Inference</a></p>
+
+<p><details><br />
+ <summary><i>Contents</i></summary><br />
+<!-- MarkdownTOC autolink="true" --></p>
+
+<ul>
+<li><a href="#welcome-and-introduction-to-causal-effects">Welcome and Introduction to Causal Effects</a><br />
+<ul><br />
+<li><a href="#confusion-over-causality">Confusion over causality</a></li><br />
+<li><a href="#potential-outcomes-and-counterfactuals">Potential outcomes and counterfactuals</a></li><br />
+<li><a href="#hypothetical-interventions">Hypothetical interventions</a><br /><br />
+<ul><br /><br />
+<li><a href="#causal-effects">Causal effects</a></li><br /><br />
+</ul></li><br />
+<li><a href="#causal-assumptions">Causal assumptions</a></li><br />
+<li><a href="#stratification">Stratification</a></li><br />
+<li><a href="#incident-user-and-active-comparator-designs">Incident user and active comparator designs</a></li><br />
+</ul></li>
+<li><a href="#confounding-and-directed-acyclic-graphs-dags">Confounding and Directed Acyclic Graphs (DAGs)</a><br />
+<ul><br />
+<li><a href="#confounding">Confounding</a></li><br />
+<li><a href="#causal-graphs">Causal graphs</a></li><br />
+<li><a href="#relationship-between-dags-and-probability-distributions">Relationship between DAGs and probability distributions</a></li><br />
+<li><a href="#paths-and-associations">Paths and associations</a></li><br />
+<li><a href="#conditional-independence-d-separation">Conditional independence (d-separation)</a></li><br />
+<li><a href="#confounding-revisited">Confounding revisited</a></li><br />
+<li><a href="#backdoor-path-criterion">Backdoor path criterion</a></li><br />
+<li><a href="#disjunctive-cause-criterion">Disjunctive cause criterion</a></li><br />
+</ul></li>
+</ul>
+
+<p><!-- /MarkdownTOC --><br />
+</details></p>
+
+<h1 id="welcome-and-introduction-to-causal-effects">Welcome and Introduction to Causal Effects</h1>
+
+<h2 id="confusion-over-causality">Confusion over causality</h2>
+
+<ul>
+<li><strong>Spurious Correlation</strong>: causally unrelated variables that might happen to be highly correlated with each other over some period of time (i.e. divorce correlated with margarine consumption)</li>
+<li><strong>Anecdotes</strong>: might be confident in our anecdotes but might not be correct</li>
+<li><strong>Science reporting</strong>: this is "linked" to that: linked is ambiguous</li>
+<li>Causal inference or causal modeling attempts to clear these problems up by:<br />
+<ul><br />
+<li>formal definitions of causal effects</li><br />
+<li>assumptions necessary to identify causal effects from data</li><br />
+<li>sensitivity analysis to determine impact of violations of assumptions on conclusions</li><br />
+</ul></li>
+<li>Course focuses on <strong>observational studies</strong> and <strong>natural experiments</strong></li>
+<li><strong>Assumptions</strong>: requires making untestable assumptions (can't check with the data)</li>
+</ul>
+
+<h2 id="potential-outcomes-and-counterfactuals">Potential outcomes and counterfactuals</h2>
+
+<ul>
+<li>Treatment $A$ on outcome $Y$</li>
+<li>$Y^a$ is the outcome observed if treatment is $a$</li>
+<li><strong>Counterfactual outcomes</strong> are ones that would have been observed had the treatment been different<br />
+<ul><br />
+<li>if treatment was $A=1$, counterfactual is $Y^0$</li><br />
+</ul></li>
+</ul>
+
+<h2 id="hypothetical-interventions">Hypothetical interventions</h2>
+
+<ul>
+<li><strong>Intervention</strong>: causal effects of variables that can be manipulated</li>
+<li><strong>Immutable variables</strong>: variables you can't manipulate (race/gender/age)<br />
+<ul><br />
+<li>but can do creative things like different name on resume, or focus on outcome of something you can control (like decision to have surgery rather than obesity)</li><br />
+</ul></li>
+<li>This course focuses on <strong>interventions</strong> since they are actionable</li>
+<li><strong>Causal effect</strong> occurs on $Y$ if $Y^1 \ne Y^0$</li>
+<li>The <strong>Fundamental Problem of Causal Inference</strong> is that we can only observe one potential outcome for each person, so need to look at a population</li>
+</ul>
+
+<h3 id="causal-effects">Causal effects</h3>
+
+<ul>
+<li><strong>Average Causal Effect</strong>: hypothetical difference between the whole population getting different treatments<br />
+<ul><br />
+<li>$ACE = E(Y^1-Y^0)$</li><br />
+<li>Example: suppose $E(Y^1-Y^0)=-0.1$, meaning if 1000 people were to have surgery, 100 fewer would have complications with this treatment</li><br />
+</ul></li>
+<li>Conditioning (given, or conditional on a variable):<br />
+<ul><br />
+<li>$E(Y^1-Y^0) \ne E(Y|A=1) - E(Y|A=0)$</li><br />
+<li>$E(Y|A=1)$: expected value of $Y$ given $A=1$, this restricts to a subpopulation of people who got $A=1$</li><br />
+<li>$E(Y^1)$ is the mean of the whole population treated with $A=1$</li><br />
+<li>Populations may be different in important ways</li><br />
+</ul></li>
+<li>We might be interested in other causal effects:<br />
+<ul><br />
+<li>$E(Y^1/Y^0)$: Causal relative risk</li><br />
+<li>$E(Y^1-Y^0|A=1)$: Causal effect of treatment on the treated population</li><br />
+<li>$E(Y^1-Y^0|V=v)$: Average causal effect in a subpopulation</li><br />
+</ul></li>
+<li><em>How do we use observed data to link observed outcomes to potential outcomes?</em><br />
+<ul><br />
+<li>Need to make assumptions, focus of this course</li><br />
+</ul></li>
+</ul>
+
+<h2 id="causal-assumptions">Causal assumptions</h2>
+
+<ul>
+<li><strong>Identifiability</strong> requires making untestable, causal assumptions<br />
+<ul><br />
+<li>assumptions are about the observed data: $Y$, $A$, and $X$</li><br />
+</ul></li>
+<li><strong>Stable Unit Treatment Value Assumption (SUTVA)</strong><br />
+<ul><br />
+<li>Units do not interfere with each other: treatment assignment of one unit does not affect that outcome of another unit</li><br />
+<li>One version of treatment</li><br />
+</ul></li>
+<li><strong>Consistency</strong><br />
+<ul><br />
+<li>The potential outcome under treatment $A=a$, $Y^a$ is equal to the observed outcome if the actual treatment received is $A=a$</li><br />
+<li>Links potential outcomes to observed outcomes</li><br />
+</ul></li>
+<li><strong>Ignorability</strong> (no unknown measures confounder assumptions)<br />
+<ul><br />
+<li>Given pre-treatment covariates $X$, treatment assignment is independent from the potential outcomes: $Y^0,Y^1 \mathbin{\perp\kern-11mu\perp} A|X$ (read as: potential outcomes $Y^0$ and $Y^1$ are independent of treatment variable $A$ conditional on $X$)</li><br />
+<li>Among people with the same values of $X$, we can think of treatment $A$ as being randomly assigned</li><br />
+<li>Random = independent of outcomes, might not be random in another sense</li><br />
+</ul></li>
+<li><strong>Positivity</strong><br />
+<ul><br />
+<li>For every set of values for $X$, treatment assignment was not deterministic: $P(A=a|X=x)&gt;0$ for all $a$ and $x$</li><br />
+<li>Helps define who the population of interest is, excludes those who could never receive the treatment</li><br />
+</ul></li>
+<li><strong>Example</strong><br />
+<ul><br />
+<li>$E(Y|A=a,X=x)$ involves only observed data ($Y$, $A$, and $X$)</li><br />
+<li>$E(Y|A=a,X=x) = E(Y^a|A=x,X=x)$ by <strong>consistency</strong>, goes from just observed data ($Y|A=a$) to something that involves outcomes ($Y^a$)</li><br />
+<li>$E(Y|A=a,X=x) = E(Y^a|X=x)$ by <strong>ignorability</strong>, allows us to drop the conditioning on treatment, conditioning on $A$ doesn't provide any additional information</li><br />
+<li>For a marginal causal effect, we can average over $X$</li><br />
+</ul></li>
+</ul>
+
+<h2 id="stratification">Stratification</h2>
+
+<ul>
+<li>Stratification aka Standardization: stratify on important variables and average over the distribution of those variables<br />
+<ul><br />
+<li>composed of <em>conditioning</em> and <em>marginalizing</em>, or <em>stratifying</em> and then <em>averaging</em>, weighted by the probability (size)</li><br />
+</ul></li>
+<li>Suppose single categorical $X$ variable, then average over the distribution of $X$, a standardized mean which is the average potential outcome:<br />
+<ul><br />
+<li>$E(Y^a)=\sum_{x}{E(Y|A=a,X=x)P(X=x)}$</li><br />
+</ul></li>
+</ul>
+
+<p><strong>Example</strong>: treatment Saxa for MACE:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Treatment</th>
+  <th>MACE=yes</th>
+  <th>MACE=no</th>
+  <th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Saxa=yes</td>
+  <td>350</td>
+  <td>3650</td>
+  <td>4000</td>
+</tr>
+<tr>
+  <td>Saxa=no</td>
+  <td>500</td>
+  <td>6500</td>
+  <td>7000</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>Probability of MACE given Saxa=yes: $350/4000=0.088$</li>
+<li>Probability of MACE given Saxa=no: $500/7000=0.071$</li>
+<li>→ raw data makes Saxa look worse, but might be because it was assigned to patients who were worse off initially</li>
+<li>So we stratify/standardize on the $X$ variable (prior OAD use):</li>
+</ul>
+
+<p>Prior OAD use=no:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Treatment</th>
+  <th>MACE=yes</th>
+  <th>MACE=no</th>
+  <th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Saxa=yes</td>
+  <td>50</td>
+  <td>950</td>
+  <td>1000</td>
+</tr>
+<tr>
+  <td>Saxa=no</td>
+  <td>200</td>
+  <td>3800</td>
+  <td>4000</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>Probability of MACE given Saxa=yes: $50/1000=0.050$</li>
+<li>Probability of MACE given Saxa=no: $200/4000=0.050$</li>
+</ul>
+
+<p>Prior OAD use=yes:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Treatment</th>
+  <th>MACE=yes</th>
+  <th>MACE=no</th>
+  <th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Saxa=yes</td>
+  <td>300</td>
+  <td>2700</td>
+  <td>3000</td>
+</tr>
+<tr>
+  <td>Saxa=no</td>
+  <td>300</td>
+  <td>2700</td>
+  <td>3000</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>Probability of MACE given Saxa=yes: $300/3000=0.100$</li>
+<li>Probability of MACE given Saxa=no: $300/3000=0.100$</li>
+<li>→ in either group the risk of MACE is the same regardless of Saxa use</li>
+<li>Next compute mean potential outcome for Saxa:<br />
+<ul><br />
+<li>$E(Y^{saxa}) = E(Y|A=saxa,X=OAD<em>{yes})P(OAD</em>{yes})+E(Y|A=saxa,X=OAD<em>{no})P(OAD</em>{no})$</li><br />
+<li>$E(Y^{saxa}) = (300/3000)(6000/11000)+(50/1000)(5000/11000)$</li><br />
+<li>$E(Y^{saxa}) = 0.077$ is the probability of MACE if everyone had been assigned Saxa</li><br />
+</ul></li>
+<li>Next compute mean potential outcome for alternate<br />
+<ul><br />
+<li>$E(Y^{not-saxa}) = (300/3000)(6000/11000)+(200/4000)(5000/11000)$</li><br />
+<li>$E(Y^{not-saxa}) = 0.077$ is the probability of MACE if everyone had <em>not</em> been assigned Saxa (same for both groups)</li><br />
+</ul></li>
+<li>Challenges: often you need many $X$ variables to achieve ignorability and will have many empty cells in this example, so need alternatives to standardization (matching, inverse probability of treatment weighting, propensity score methods, instrumental variable methods—cf. <em><a href="../reading-notes/2021-04-16-Business-Data-Science.html">2021-04-16-Business Data Science</a></em>)</li>
+</ul>
+
+<h2 id="incident-user-and-active-comparator-designs">Incident user and active comparator designs</h2>
+
+<ul>
+<li><strong>Incident user design</strong> (aka new user design): restrict the treated population to those newly initiating treatment (so as to not confound people who tried the treatment in the past and are still benefitting from the treatment)<br />
+<ul><br />
+<li>or realign time index for each user for when they started treatment</li><br />
+</ul></li>
+<li><strong>Active comparator design</strong>: include people with similar treatments in the treatment group: leads to less confounding but makes the causal inference apply to other treatments</li>
+<li>Can combine incident user and active comparator designs</li>
+</ul>
+
+<h1 id="confounding-and-directed-acyclic-graphs-dags">Confounding and Directed Acyclic Graphs (DAGs)</h1>
+
+<h2 id="confounding">Confounding</h2>
+
+<h2 id="causal-graphs">Causal graphs</h2>
+
+<h2 id="relationship-between-dags-and-probability-distributions">Relationship between DAGs and probability distributions</h2>
+
+<h2 id="paths-and-associations">Paths and associations</h2>
+
+<h2 id="conditional-independence-d-separation">Conditional independence (d-separation)</h2>
+
+<h2 id="confounding-revisited">Confounding revisited</h2>
+
+<h2 id="backdoor-path-criterion">Backdoor path criterion</h2>
+
+<h2 id="disjunctive-cause-criterion">Disjunctive cause criterion</h2>
+
+<hr />
+
+<p>Created: <a href="../reading-notes/2022-05-23-Mon.html">2022-05-23-Mon</a><br />
+Updated: 2022-05-25-Wed</p>
+
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<script src="../assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+</body>
+<hr>
+<footer id="footer" align="center">
+<center>
+<img src="../images/kudija_family_shield.png" width=100px>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</footer>
+</html>

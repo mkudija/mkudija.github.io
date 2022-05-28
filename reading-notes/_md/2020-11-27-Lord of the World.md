@@ -55,11 +55,17 @@ I thought it was appropriate in 2020 to read some apocalyptic literature: *Fathe
 - Mabel's question to Father Francis (the apostate) about 'Why do Catholics believe in God?' and his response on 270+
   - **"The Incarnation is really the point. Everything else flows from that. And, once a man believes that, I must confess that all the rest follows."** (271)
 
+--- 
+**Topic**: [[Apocalyptic literature]]
 
----
+**Source**: [[Dolores]]
 
 **New Words**
 - ***invidious*** (98): Tending to rouse ill will, animosity, or resentment. Offensive and unfair.
 - ***peroration*** (130): The concluding part of an oration; especially, a final summing up and enforcement of an argument.
 - ***credence*** (256): a small table where the bread and wine rest before consecration
 - ***predella*** (257): the platform or step on which an altar stands
+
+---
+Created: 2020-11-27
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

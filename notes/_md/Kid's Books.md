@@ -23,6 +23,7 @@ publish: true
 	- *Oh Say Can You Say*
 	- *The Lorax*
 - *Bats at the Library* by Brian Lies
+- *Library Lion* by Michelle Knudsen
 - *Yellow Kayak* by Nina Laden
 - Richard Scary 
     - *Cars and Trucks and Things that Go*

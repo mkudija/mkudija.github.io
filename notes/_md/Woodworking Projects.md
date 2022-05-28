@@ -351,8 +351,12 @@ publish: true
 # Workshop Projects & Other
 
 
+### 2022-05-07 Can Storage
 
-### [[2022-03-16 Patio Pavers]]
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-05-13_can-storage.jpg" width="100%"/>
+
+
+### [[Build Log-Patio Pavers|2022-03-16 Patio Pavers]]
 
 <img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-03-16-patio.jpg" width="100%"/>
 

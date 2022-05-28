@@ -35,9 +35,9 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 [^tibbon]: 12th century Judaic scholar Judah ibn Tibbon, quoted in David Sax, [*The Revenge of Analog*](https://www.amazon.com/Revenge-Analog-Real-Things-Matter/dp/1610398211/ref=sr_1_1?ie=UTF8&qid=1523234526&sr=8-1&keywords=the+revenge+of+analog&dpID=61fE-QEXQdL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Perscus Books, 2016), 121.
 
 <br>
-> Can a dwelling place without books ever truly be a home?  <br> —Michael D. O'Brien[^obrien]
+> Can a dwelling place without books ever truly be a home?  <br> —[[Michael D. O'Brien]][^obrien]
 
-[^obrien]: Michael D. O'Brien, [*The Island of the World*](https://www.amazon.com/Island-World-Michael-D-OBrien/dp/1586174908/ref=sr_1_1?ie=UTF8&qid=1526629279&sr=8-1&keywords=island+of+the+world) (San Francisco: Ignatius, 2007), 777.
+[^obrien]: [[Michael D. O'Brien]], [*The Island of the World*](https://www.amazon.com/Island-World-Michael-D-OBrien/dp/1586174908/ref=sr_1_1?ie=UTF8&qid=1526629279&sr=8-1&keywords=island+of+the+world) (San Francisco: Ignatius, 2007), 777.
 
 <br>
 > If you cannot read all your books, at any rate handle, or, as it were, fondle them—peer into them, let them fall open where they will, read from the first sentence that arrests the eye, set them back on their shelves with your own hands, arrange them on your own plan so that if you do not know what is in them, you will at least know where they are. Let them be your friends; let them at any rate be your acquaintances.<br> —Winston S. Churchill[^manchester]
@@ -47,7 +47,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 <br>
 > Reading should help us to pray by concentrating our attention.<br> —Robert Cardinal Sarah[^sarah]
 
-[^sarah]: Robert Cardinal Sarah, *[[The Power of Silence]]* (San Francisco: Ignatius, 2017), 31.
+[^sarah]: Robert Cardinal Sarah, *[[~The Power of Silence|The Power of Silence]]* (San Francisco: Ignatius, 2017), 31.
 
 <br>
 > What matters is that it is *your* library, invested with your intellectual capital, and serves as a garden of the mind to which you can return again and again.<br> —James Mattis[^mattis]
@@ -67,7 +67,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 <br>
 > The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull. He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with "Wow! Signore *professore dottore* Eco, what a library you have! How many of these books have you read?" and the others—a very small minority—who get the point that a private library is not an ego-boosting appendage but a research tool. Read books are far less valuable than unread ones. The library should contain as much of *what you do not know* as your financial means, mortgage rates, and the currently tight real-estate market allow you to put there. You will accumulate more knowledge and more books as you grow older, and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an *antilibrary*. <br> —Nassim Nicholas Taleb[^taleb]
 
-[^taleb]: [[Nassim Nicholas Taleb]], *[[2020-05-12-The Black Swan]]* (New York: Random House, 2007), 1.
+[^taleb]: [[Nassim Nicholas Taleb]], *[[2020-05-12-The Black Swan|The Black Swan]]* (New York: Random House, 2007), 1.
 
 <br>
 > Let the floor go unswept if necessary; simplify your meals; but make time for reading, studying and thinking. <br> —South Dakota Farmer[^farmer1]
@@ -107,7 +107,7 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 <br>
 > What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one.<br> —Neil Postman[^postman]
 
-[^postman]: [[Neil Postman]], *[[~2021-11-12-Amusing Ourselves to Death]]* (New York: Penguin, 1985/2005), xix.
+[^postman]: [[Neil Postman]], *[[~2021-11-12-Amusing Ourselves to Death|Amusing Ourselves to Death]]* (New York: Penguin, 1985/2005), xix.
 
 <br>
 > Let holy reading be always at hand. Sleep may fall upon thee as thou lookest thereon, and the sacred page meet the drooping face.<br> —St. Jerome[^jerome]
@@ -126,6 +126,11 @@ to be read wholly, and with diligence and attention.  <br> —Francis Bacon[^bac
 
 [^erasmus]: Source: [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
 
+<br>
+>I put good books into the hands of people. Perhaps good thoughts are born in their minds.
+>—[[Michael D. O'Brien]][^obrien2]
+
+[^obrien2]:  [[Michael D. O'Brien]], *[[~Father Elijah|Father Elijah]]* (San Francisco: Ignatius, 1998), 255.
 
 
 ---

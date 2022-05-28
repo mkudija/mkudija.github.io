@@ -3,6 +3,14 @@ publish: true
 ---
 # SQL Code Snippets
 
+### Search for Column Names
+```sql
+SELECT *  
+FROM INFORMATION_SCHEMA.COLUMNS  
+WHERE COLUMN_NAME LIKE '%search%'  
+ORDER BY TABLE_NAME;
+```
+
 ### Joins
 `on`
 ```SQL
@@ -258,12 +266,33 @@ RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 ### Optimize Query
 If you run the query with `EXPLAIN` on top it will give you the query plan and how costly each step is.
 
+### Pivot Table
+You can pivot, but you need to manually specify the column values:
+```SQL
+WITH pre AS (  
+    SELECT state  
+         , amount  
+         , month  
+    FROM state_mgt.planned_rate  
+)  
+SELECT *  
+FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30'));
+```
+
 ### Most Recent Month-End Date
 ```SQL
 SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
 ```
 
-### Creating/Updating Tables
+
+### Create & Update Tables
+Create schema:
+```SQL
+-- create schema
+CREATE SCHEMA my_schema;
+```
+
+
 Create table:
 ```SQL
 -- create table
@@ -336,6 +365,12 @@ FROM
 WHERE
     t.created_at > GETDATE() - INTERVAL '7 days'
 ```
+
+### DATE_DIFF
+```SQL
+DATE_DIFF('month', start_month, calendar_month) AS age
+```
+
 
 ### DATE_TRUNC
 
