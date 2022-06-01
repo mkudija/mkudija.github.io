@@ -24,7 +24,7 @@ The scale of the doomsday preparation for "Continuance of Government" during the
 
 <details>
 <summary><em>The Night Watch</em> by Rembrandt</summary>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/2560px-The_Night_Watch_-_HD.jpg"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/2560px-The_Night_Watch_-_HD.jpg" width="100%"></p>
 </details>
 
 - They ran mock drills where officials would sit in for the president and they always were so hesitant to launch a nuclear attack, even in a drill setting: "No one would ever press the button" (246)
@@ -33,7 +33,7 @@ The scale of the doomsday preparation for "Continuance of Government" during the
 
 <details>
 <summary><em>Ginevra de' Benci</em> by da Vinci</summary>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg/1920px-Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg/1920px-Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg" width="100%"></p>
 </details>
 
 - City escape: one official parked kept two motorcycles in his garage and a trailer at a campsite 85 miles out of town knowing the roads would be clogged but you could probably get there on motorcycle. (299)

@@ -2,7 +2,7 @@
 publish: true
 ---
 
-*Back to: [[Woodworking Projects]]*
+*Back to [[Woodworking Projects]]*
 
 # Build Log: Front Patio Pavers
 <img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2022-03-16-patio.jpg" width="100%"/>

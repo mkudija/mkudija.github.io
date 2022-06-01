@@ -17,6 +17,13 @@ publish: true
 
 # Woodworking Projects
 
+
+### [[Build Log-Kitchen Bench|2022-05-30 Kitchen Bench]]
+*Birch plywood, pine, ambrosia maple*
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/2022-05-30_kitchen-bench/15.jpg" width="100%"/>
+
+
 ### 2022-05-01 Various Mounted Prints
 *Walnut, maple*
 
