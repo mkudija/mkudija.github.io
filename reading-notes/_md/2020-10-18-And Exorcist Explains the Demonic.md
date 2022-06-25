@@ -1,5 +1,5 @@
 
-# [*An Exorcist Explains the Demonic: The Antics of Satan and His Army of Fallen Angels*](https://www.sophiainstitute.com/products/item/an-exorcist-explains-the-demonic) by Fr. Gabriele Amorth
+# [*An Exorcist Explains the Demonic: The Antics of Satan and His Army of Fallen Angels*](https://www.sophiainstitute.com/products/item/an-exorcist-explains-the-demonic) by [[Fr. Gabriele Amorth]]
 
 <img src="https://www.sophiainstitute.com/images/uploads/products/9781622823451.jpg" width=150>
 

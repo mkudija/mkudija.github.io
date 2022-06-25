@@ -417,6 +417,9 @@ WHERE prediction_date = LAST_DAY(DATE_ADD('month', -1, CURRENT_DATE))
 SELECT LEFT(GETDATE(),10)
 ```
 
+## Resources
+- [SQLBolt - Learn SQL](https://sqlbolt.com/)
+- 
 
 ---
 Created: [[2019-06-25-Tue]]

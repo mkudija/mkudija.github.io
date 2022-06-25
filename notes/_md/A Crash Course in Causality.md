@@ -7,6 +7,8 @@ publish: true
 
 by [Dr. Jason Roy](https://pets.rutgers.edu/people/jason-roy/) from [UPenn Center for Causal Inference](https://www.cceb.med.upenn.edu/cci)
 
+[Root Data Science Book Club Notes | Confluence](https://joinroot.atlassian.net/wiki/spaces/DS/pages/2104918017/Data+Science+Book+Clubs)
+
 
 <details>
  <summary><i>Contents</i></summary>
@@ -29,6 +31,16 @@ by [Dr. Jason Roy](https://pets.rutgers.edu/people/jason-roy/) from [UPenn Cente
 	- [Confounding revisited](#confounding-revisited)
 	- [Backdoor path criterion](#backdoor-path-criterion)
 	- [Disjunctive cause criterion](#disjunctive-cause-criterion)
+- [Matching](#matching)
+	- [Observational studies](#observational-studies)
+	- [Overview of matching](#overview-of-matching)
+	- [Matching directly on confounders](#matching-directly-on-confounders)
+	- [Greedy \(nearest-neighbor\) matching](#greedy-nearest-neighbor-matching)
+	- [Optimal matching](#optimal-matching)
+	- [Assessing balance](#assessing-balance)
+	- [Analyzing data after matching](#analyzing-data-after-matching)
+	- [Sensitivity analysis](#sensitivity-analysis)
+	- [Data example in R](#data-example-in-r)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -159,20 +171,309 @@ Prior OAD use=yes:
 # Confounding and Directed Acyclic Graphs (DAGs)
 
 ## Confounding
+- Related to ignorability assumption: if we make the treatment population homogeneous enough we can think of the treatment assignment as ignorable
+- **Confounders** are variables that affect both treatment and the outcome
+- Confounder control
+	- Identify a set of variables $X$ that will make the ignorability assumption hold and ensure random treatment assignment
+	- Causal graphs help us choose these variables
 
 ## Causal graphs
+- Causal graphs help us identify which variables we need to control for and make our assumptions explicit
+- Directed graph: $A \rightarrow Y$, $A$ affects $Y$
+- Undirected graph: $A — Y$, $A$ and $Y$ are related
+- $A$ and $Y$ are *nodes* or *vertices* or variables
+- Links between notes are *edges*
+- Variables connected by an edge are *adjacent*
+- A *path* is a way to get from one vertex to another by traveling along edges
+- **Directed Acyclic Graphs**
+	- no undirected paths
+	- no cycles
+
+```mermaid
+graph LR
+
+A --> Z
+Z --> B
+Z --> D
+B --> D
+```
+
 
 ## Relationship between DAGs and probability distributions
+- DAG tells us which variables are independent, conditionally independent, etc.
+- Example: $C, D \rightarrow A \rightarrow B$
+```mermaid
+graph LR
+
+D --> A
+A --> B
+C
+
+```
+- this example implies:
+	- $P(C|A,B,D)=P(C)$, C is independent of all variables
+	- $P(B|A,C,D)=P(B|A)$, $B \mathbin{\perp\kern-11mu\perp} D, C|A$,  i.e. $B$ only depends on $A$
+	- $P(B|D) \ne P(B$), $B$ and $D$ are marginally dependent
+	- $P(D|A,B,C)=P(D|A)$
+- Example:
+```mermaid
+graph LR
+
+D --> A
+D --> B
+B --> C
+
+```
+- this example implies:
+	- $P(A|B,C,D)=P(A|D)$
+	- $P(D|A,B,C) = P(D|A,B)$
+- Example:
+```mermaid
+graph LR
+
+D --> A
+D --> B
+B --> C
+A --> C
+
+```
+- this example implies:
+	- $P(A|B,C,D)=P(A|C,D)$
+	- $P(D|A,B,C)=P(D|A,B)$
+- **Decomposition of Joint Distribution**
+	- start with roots (nodes with no parents)
+	- proceed down descendent line
+- Example:
+```mermaid
+graph LR
+
+D --> A
+D --> B
+B --> C
+
+```
+- this example implies:
+	- $P(A,B,C,D)=P(C)P(D)P(A|D)P(B|A)$, gives joint distribution implied by the DAG
+- Example:
+```mermaid
+graph LR
+
+D --> A
+D --> B
+B --> C
+
+```
+- this example implies:
+	- $P(A,B,C,D)=P(D)P(A|D)P(B|D)P(C|B)$
+- The probability function and the DAG are **compatible**
+- DAGs that are compatible with a probability function are not necessarily unique:
+	- For example, $A \rightarrow B$ and $B \rightarrow A$
+	- $P(A,B) \ne P(A)P(B)$ is true for both
+
 
 ## Paths and associations
+- Types of paths
+	- **Forks**: $D \leftarrow E \rightarrow F$
+	- **Chains**: $D \rightarrow E \rightarrow F$
+	- **Inverted Forks**: $D \rightarrow E \leftarrow F$
+- If nodes are on the ends of a path, they are associated via the path 
+	- if some information flows to both of them
+	- if information from one makes it to the other
+	- i.e. $D \leftarrow E \rightarrow F$ implies that $D$ and $F$ are not independent
+	- i.e. $D \rightarrow E \leftarrow F$ implies that $E$ is a *collider*: information does not flow from $E$ to either $D$ or $F$
+
 
 ## Conditional independence (d-separation)
+- **Blocking**: paths can be blocked by conditioning on nodes in the path
+	- Blocking on a chain: $A \rightarrow G \rightarrow B$, if we condition on $G$, we block the path from $A$ to $B$
+	- Blocking on a fork: $A \leftarrow G \rightarrow B$, if we condition on $G$, the path from $A$ to $B$ is blocked
+- **Colliders** are the opposite condition
+	- $A \rightarrow G \leftarrow B$, if we condition on $G$ you create an association between $A$ and $B$
+	- Example: Suppose $A$ and $B$ is on/off switches, and $G$ is whether the lightbulb is lit, $G$ only lit if both $A$ and $B$ are on
+		- $A$ and $B$ are independent
+		- But $A$ and $B$ are dependent, given G
+- Before conditioning on $G$:
+```mermaid
+graph LR
+
+A --> G
+B --> G
+
+```
+- After conditioning on $G$ (if you block $G$ you open up a new path between $A$ and $G$):
+```mermaid
+graph LR
+
+A --> G{G}
+B --> G{G}
+A -.- B
+
+```
+- A path is **d-separated** (independent) by a set of nodes $C$ (nodes we will control for) if:
+	- it contains a chain and the middle part is in $C$
+	- if it contains a fork and the middle part is in $C$
+	- if it contains an inverted fork and the middle part is not in $C$, nor are any descendants of it
+- Two nodes are **d-separated** by $C$ if $C$ blocks every path between them
+	- recall the **Ignorability** assumption: the motivation is to identify variables that create conditional independence between $A$ and the potential outcomes
+
 
 ## Confounding revisited
+- **Confounders** are variables that affect both the treatment and outcome
+- In this example, $X$ is confounding between $A$ and $Y$
+```mermaid
+graph LR
+X --> A
+X --> Y
+A --> Y
+```
+- In this example, $V$ is confounding between $A$ and $Y$, indirectly
+```mermaid
+graph LR
+V --> A
+V --> W
+A --> Y
+W --> Y
+```
+- A **Frontdoor path** from $A$ to $Y$ begins with an arrow from A
+	- $A \rightarrow Y$ and $A \rightarrow Z \rightarrow Y$ are front doors because direction of arrow out of A
+	- don't worry about frontdoor paths because they show affects of treatment (don't want to block or control for anything on a frontdoor path, i.e $Z$ above)
+	- But in a **causal mediation analysis** you would want to quantify the effect of treatment through intermediate variables, i.e. $Z$
+- **Backdoor paths** from treatment $A$ to $Y$ travel through $A$, confound the relationship between $A$ and $Y$ and we want to block these
+	- In $A \leftarrow X \rightarrow Y$, we want to separate out treatment effect from confounding effect of $X$
+	- if we block all backdoor paths then we have **Ignorability**
+
 
 ## Backdoor path criterion
+- To use the backdoor path criterion, you need to know and use the DAG
+- A set of variables $X$ is sufficient to control for confounding if:
+	- it blocks all backdoor paths from treatment to outcome
+	- it does not include any descendants of treatment
+```mermaid
+graph LR
+V --> A
+V --> W
+A --> Y
+W --> Y
+```
+- Example above: one backdoor path from $A$ to $Y$, so need to block $V$, or you could control for $W$, or you could control for both $V$ and $W$
+```mermaid
+graph TD
+V --> M
+V --> A
+A --> Y
+W --> M
+W --> Y
+```
+- Example above: the backdoor path is clocked the the collider $M$ so no confounding
+```mermaid
+graph TD
+V --> M{M}
+V --> A
+A --> Y
+W --> M{M}
+W --> Y
+V -.- W
+```
+- Example above: But if you control for M, you open a path between $V$ and $W$, so the variables to control for confounding include: {},{V},{W},{M,W},{M,V},{M,V,W} but not just {M}
+```mermaid
+graph LR
+V --> Z
+Z --> A
+V --> Y
+W --> Z
+W --> A
+A --> Y
+```
+- Example above: two backdoor paths from $A$ to $Y$
+	- $A \leftarrow Z \leftarrow V \rightarrow Y$
+		- no colliders, so control for either Z or V
+	- $A \leftarrow W \rightarrow Z \leftarrow V \rightarrow Y$
+		- $Z$ is a collider, so controlling for $Z$ opens a path between $V$ and $W$, can block this with {V}, {W}, {Z,V}, {Z,W}
+	- The following sets are sufficient to control for confounding:
+		- {V}, {V,Z}, {Z,W}, {V,Z,W}, but not {Z} or {W} alone
+
 
 ## Disjunctive cause criterion
+- If you know less information than the whole DAG, you can use the **Disjunctive cause criterion**: control for all (observed) causes of the exposure, the outcome, or both
+	- don't always select the smallest set of variables
+	- but it is conceptually simpler
+- Example:
+	- Given:
+		- Observed pre-treatment variables: {M,W,V}
+		- Unobserved pre-treatment variables: {$U_1, U_2$}
+		- We know that W and V are causes of A, Y, or both
+		- We know that M is not a cause of either A or Y
+	- Could use everything: {M,W,V}
+	- Could use the disjunctive cause criterion: {W, V}
+```mermaid
+graph LR
+V --> M
+V --> W
+V --> A
+W --> Y
+A --> Y
+```
+-  Example above:
+	- use all pre-treatment variables {M, W, V}
+	- use variables based on DCC {W,V}
+```mermaid
+graph TD
+V --> M
+V --> A
+A --> Y
+W --> M
+W --> Y
+```
+- Example above:
+	- use all pre-treatment variables {M, W, V}
+	- use variables based on DCC {W,V}
+- There are situations where there are no variables you can control for to satisfy the backdoor path criterion
+
+
+<details>
+<summary>Quiz:</summary>
+1. ==3==, ==2==, ==4==, ==1==, ==0==
+2. ==2==, 1
+3. yes
+4. no
+5. 2
+6. ==2==, ==3==, ==1==, ==0==, 4
+7. 2
+8. b & g
+9. yes
+10. ==c,b,g,h==, ==g,h==, ==g,b==, b,g,h
+11. no
+</details>
+
+
+
+# Matching
+
+## Observational studies
+- Randomized trial: randomly select people for treatment, distribution of $X$ is the same in both treatment groups (balance)
+- Observational study: distribution of $X$ will differ between treatment groups
+- **Matching**: attempt to make observational study more like a randomized trial by matching individual in the treated group ($A=1$) to individual in the control group ($A=0$) on the covariates $X$
+
+## Overview of matching
+- Single covariate: find best matches you can and ignore non-matches
+- Many covariates: can't match exactly, but try to find stochastic balance
+- 
+
+## Matching directly on confounders
+
+## Greedy (nearest-neighbor) matching
+
+## Optimal matching
+
+## Assessing balance
+
+## Analyzing data after matching
+
+## Sensitivity analysis
+
+## Data example in R
+
+
 
 ---
 Created: [[2022-05-23-Mon]]

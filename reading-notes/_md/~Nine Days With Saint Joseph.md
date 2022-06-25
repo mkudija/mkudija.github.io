@@ -5,9 +5,13 @@
 
 `(Yonkers: Magnificat, 2021), 71`
 
-Source: Holy Family Church 2021-09-02
+
+--- 
+**Topic**: [[St. Joseph]]
+
+**Source**: Holy Family Church
 
 ---
-Created: 2021-09-02
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-09-02-Thu]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
 

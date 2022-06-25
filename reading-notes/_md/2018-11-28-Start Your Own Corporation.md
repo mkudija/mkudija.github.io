@@ -1,4 +1,4 @@
-# [*Start Your Own Corporation: Why the Rich Own Their Own Companies and Everyone Else Works for Them*](https://www.amazon.com/Start-Your-Own-Corporation-Companies/dp/1937832007/ref=sr_1_1?ie=UTF8&qid=1543451250&sr=8-1&keywords=start+your+own+corporation) by Garrett Sutton
+# [*Start Your Own Corporation: Why the Rich Own Their Own Companies and Everyone Else Works for Them*](https://www.amazon.com/Start-Your-Own-Corporation-Companies/dp/1937832007/ref=sr_1_1?ie=UTF8&qid=1543451250&sr=8-1&keywords=start+your+own+corporation) by [[Garrett Sutton]]
 
 `(Scottsdale: RDA, 2001), 250`
 

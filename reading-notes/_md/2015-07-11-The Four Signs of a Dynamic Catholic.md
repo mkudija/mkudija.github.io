@@ -1,5 +1,5 @@
 
-# The Four Signs of a Dynamic Catholic by Matthew Kelly
+- # *The Four Signs of a Dynamic Catholic* by [[Matthew Kelly]]
 
 * Introduction
     * Work advice:

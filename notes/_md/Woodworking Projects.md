@@ -17,6 +17,17 @@ publish: true
 
 # Woodworking Projects
 
+### 2022-06-23 Wooden Spoon
+*Maple*
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/woodworking-projects/2022-06-23-wooden-spoon.jpg" width="100%"/>
+
+
+### 2022-06-05 Diptych
+*Oak*
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/woodworking-projects/2022-06-05-Diptych_Dailey.png" width="100%"/>
+
 
 ### [[Build Log-Kitchen Bench|2022-05-30 Kitchen Bench]]
 *Birch plywood, pine, ambrosia maple*
@@ -65,6 +76,12 @@ publish: true
 *maple, cherry, resin; see [original](https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary_of_Mercy)*
 
 <img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2021-07-11-Mercedarian-shield.jpg" width="100%"/>
+
+
+### [[Build Log-Dovetails|2021-07-06 Dovetails]]
+*oak*
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/2021-07-06_dovetails/dovetails6.jpg" width="100%">
 
 
 ### 2021-07-01 Cutting Boards
@@ -356,6 +373,10 @@ publish: true
 
 
 # Workshop Projects & Other
+
+### [[Build Log-Garden Gate|2022-06-24 Garden Gate]]
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/woodworking-projects/2022-06-24-garden-gate.jpg" width="100%"/>
 
 
 ### 2022-05-07 Can Storage

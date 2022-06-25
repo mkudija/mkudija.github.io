@@ -6,7 +6,7 @@
 `(New York: Harper, 1961/1983), 163`
 
 
-Against the modern myth of a backward, unintelligent, and superstitious Medieval society, Gimpel tells of the cathedral builders who believed in progress, harmony, and faith in God. The majestic cathedrals they left behind bear testament to the heights of human achievement when supported by a stable society and ordered toward an eternal end.
+Against the modern myth of a backward, unintelligent, and superstitious Medieval society, Gimpel tells of the cathedral builders who believed in progress, harmony, and God. The majestic cathedrals they left behind bear testament to the heights of human achievement when supported by a stable society and ordered toward an eternal end.
 
 It has taken active study of history and architecture on my part to unravel this myth of Medieval society in my own mind formed through elementary education and cultural osmosis. In one telling, this myth originated in the hubris of the Renaissance with its eager return to classical roots and denigration of everything in the "middle" period separating the two[^renaissance].
 

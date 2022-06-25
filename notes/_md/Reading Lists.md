@@ -16,6 +16,12 @@ publish: true
 - [*Read Your Way to Heaven*](https://www.amazon.com/How-Read-Your-Way-Heaven/dp/1622823605/ref=sr_1_1?ie=UTF8&qid=1542381704&sr=8-1&keywords=read+your+way+to+heaven) by Vicki Burbach
 - [#CathLIT](https://www.carrotsformichaelmas.com/2018/12/19/a-reading-challenge-for-catholics-in-2019-cathlit/) by Haley Stewart
 - [Nick Senger's Catholic Reading List](http://nicksenger.com/onecatholiclife/books/nicks-catholic-classics-reading-list) (in which he surveys 16 other reading lists) 
+- Lenten Reading lists
+	- [A Lent of the Lord of the Rings | Reading Tolkien's "The Lord of the Rings" over the Season of Lent](https://lentenlordoftherings.wordpress.com/)
+	- [Lenten Reading List: CatholicVote Staff Picks! - CatholicVote org](https://catholicvote.org/lenten-reading-list-catholicvote-staff-picks/)
+- [[Peter Kreeft]]
+	- [The 10 Books Nobody Should Be Allowed to Die Without Reading](https://www.youtube.com/watch?app=desktop&v=bLm5RggbhlE)
+	- [Books Every Catholic Should Read](https://www.youtube.com/watch?app=desktop&v=ND0g6zYvjz4)
 
 ## Classics
 *[[Classical Education]]*

@@ -5,6 +5,9 @@
 
 `(New York: Penguin, 2007), 480`
 
+>You make the grass grow for the cattle and plants for people's work to bring forth food from the earth
+>–[[Ps-104#v14]]
+
 - **The Omnivore's Dilemma**: we are omnivores and can eat just about anything, but what *should* we eat? (100)
 - This book traces four meals:
 	- Industrial: food from corn

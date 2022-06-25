@@ -1,5 +1,5 @@
-# *Perfectly Yourself* by Matthew Kelly
-2018-04-30 (North Palm Beach: Beacon, 2006), 218
+# *Perfectly Yourself* by [[Matthew Kelly]]
+`(North Palm Beach: Beacon, 2006), 218`
 
 
 ## 1. Are You Making Progress?

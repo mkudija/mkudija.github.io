@@ -1,5 +1,5 @@
 
-# *Rediscovering Catholicism* by Matthew Kelly
+# *Rediscovering Catholicism* by [[Matthew Kelly]]
 
 - "'What is the most I can do?' For this is the question of the lover" (26).
 - "Freedom without discipline is impossible" (28).

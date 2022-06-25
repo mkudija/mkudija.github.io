@@ -5,7 +5,7 @@ Welcome to my reading notes page.
 
 These notes serve as a map for myself to navigate some ideas and information I have encountered in my intellectual adventures. A note is a lightweight way to revisit what I have previously read and what I am therefore unfortunately and continually forgetting[^Bayard]. I enjoy revisiting ideas and  comparing them across works—[Obsidian](https://obsidian.md/) is particularly well suited for this and now the home of all my reading notes. Taking notes, especially summarizing or reflecting on a work, is an opportunity to think more deeply about what I read.
 
-[^Bayard]: cf. Pierre Bayard, *[How to Talk About Books You Haven't Read](https://matthewkudija.com/reading-notes/2021-06-01-How-to-Talk-About-Books-You-Haven't-Read.html)* *[[[2021-06-01-How to Talk About Books You Haven't Read]]]* (New York: Bloomsbury, 2007)
+[^Bayard]: cf. Pierre Bayard, *[How to Talk About Books You Haven't Read](https://matthewkudija.com/reading-notes/2021-06-01-How-to-Talk-About-Books-You-Haven't-Read.html)* *[[2021-06-01-How to Talk About Books You Haven't Read]]]* (New York: Bloomsbury, 2007)
 
 Why bother sharing these notes online? My primary audience is my future self and it's handy to be able to reference these notes from anywhere with a web browser. It's also convenient to share a note with a friend with a URL. Finally, if you stumble across these and find them useful that's great! [Here](https://github.com/mkudija/mkudija.github.io/tree/master/reading#others-with-book-lists) are some others who share their notes and reading lists on the internet.
 

@@ -46,7 +46,7 @@
 --- 
 **Topic**: [[Economics]]
 
-**Source**: [[Cory]], [[Lauren]]
+**Source**: [[Cory]], [[Lauren Norelli]]
 
 **Bibliography**
 

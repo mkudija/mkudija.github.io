@@ -1,6 +1,6 @@
 # [*50 Money-Saving Tips for Every Landlord: A Practical Guide to Maintaining Short-Term Rental Properties*](https://www.amazon.com/Money-Saving-Tips-Every-Landlord-Maintaining/dp/0757003524/ref=sr_1_1?ie=UTF8&qid=1542287413&sr=8-1&keywords=50+money-saving+tips+landlord) by Mike McLean
 
-(New York: Square One, 2010), 114
+`(New York: Square One, 2010), 114`
 
 # Legal Protection
 - **Tip 1** - Insulate yourself with a great lease
@@ -94,3 +94,15 @@
 - **Tip 48** - Make tenants responsible for oil heaters
 - **Tip 49** - Switch to cheaper plywood
 - **Tip 50** - Patch concrete sidewalks before inspection
+
+
+
+--- 
+**Topic**: [[Real Estate Investing]]
+
+**Source**: UA Library
+
+
+---
+Created: 2018-11-15
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

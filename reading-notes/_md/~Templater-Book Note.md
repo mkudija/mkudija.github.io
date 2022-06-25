@@ -170,7 +170,10 @@ _**Summary**: _
 
 **Bibliography**
 
-- 
+```query
+[[bib]] file:(<%tp.file.title%>)
+```
+ 
 
 **New Words**
 
