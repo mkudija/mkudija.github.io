@@ -17,6 +17,12 @@ publish: true
 
 # Woodworking Projects
 
+### [[Build Log-Irish Stick Chair|2022-07-05 Irish Stick Chair]]
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/01.jpg?raw=true" width="100%">
+
+
 ### 2022-06-23 Wooden Spoon
 *Maple*
 

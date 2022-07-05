@@ -10,7 +10,7 @@ publish: true
 ## Summary
 - **Cost**: ~$175
 - **Time**: ~3 days
-- **Completed**: 2022-06-24
+- **Completed**: [[2022-06-24-Fri]]
 
 
 

@@ -100,11 +100,13 @@ Of course it is naive to idolize the past, and Medieval society was far from per
 - Religious weakness and waning faith, economic stagnation, the Hundred Years War all contributed to the end of the Cathedral era
 
 --- 
+**Topic**: [[Gothic Architecture]]
+
 **Source**: *[[2015-12-31-The Pillars of the Earth]]* and *[[2021-08-28-Notre Dame]]* by Ken Follett
 
 **Related Books**
 
-- *Heaven in Stone and Glass* by [[Bishop Barron]]
+- *[[~Heaven in Stone and Glass]]* by [[Bishop Barron]]
 - *The Medieval Machine* by [[Jean Gimpel]]
 
 **Bibliography**

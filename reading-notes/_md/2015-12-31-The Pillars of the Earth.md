@@ -34,6 +34,8 @@ Visiting these great cathedrals is something that can only be experienced, somet
 >Gothic churches display, in a way that Romanesque does not, an overarching vision: a sense of wholeness and coherence. <br> - Philip Ball
 
 ---
+**Topic**: [[Gothic Architecture]]
+
 Created: 2021-09-06
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 

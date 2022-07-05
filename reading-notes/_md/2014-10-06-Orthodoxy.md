@@ -173,10 +173,6 @@ From [[Dan Gibson]] [[2021-12-17-Fri]]:
 
 - *Robinson Crusoe* by Daniel Defoe (267)
 
-**New Words**
-
-- 
-
 ---
 Created: 2014-10-06
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

@@ -110,6 +110,7 @@ publish: true
 - [Daniel Mitsui](https://www.danielmitsui.com/)
 - [Blair Barlow](https://www.blairbarlowart.com/sacredart)
 - [The Modern Saints by Gracie](https://www.themodernsaints.com/)
+- [Kate Scimeca](https://www.katescimecaart.com/shop)
 
 ---
 Created: [[2021-07-29-Thu]]

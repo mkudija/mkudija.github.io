@@ -419,7 +419,9 @@ SELECT LEFT(GETDATE(),10)
 
 ## Resources
 - [SQLBolt - Learn SQL](https://sqlbolt.com/)
-- 
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Query Order of Execution](https://www.sisense.com/blog/sql-query-order-of-operations/)
+- [Database Design for Mere Mortals](https://www.pearson.com/store/p/database-design-for-mere-mortals-25th-anniversary-edition/P100002994160/9780136788041)
 
 ---
 Created: [[2019-06-25-Tue]]
