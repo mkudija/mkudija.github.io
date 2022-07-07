@@ -79,7 +79,7 @@ I can't let the goal of "reading" get in the way of spending some time with a bo
 
 
 ## Chapter 8: Encounters With Someone You Love
-*Summary: The Film Groundhog Day to illustrate how our understanding of books are really fragments reworked by our private fantasies.*
+*Summary: The Film [[Groundhog Day]] to illustrate how our understanding of books are really fragments reworked by our private fantasies.*
 
 - True: "In becoming interested in others, he himself becomes interesting"
 
@@ -117,7 +117,7 @@ I can't let the goal of "reading" get in the way of spending some time with a bo
 - *Essays* of Montaigne
 - *The Name of the Rose* by Umberto Eco
 - *Hamlet*
-- Film: *Groundhog Day*
+- Film: *[[Groundhog Day]]*
 
 **New words**
 

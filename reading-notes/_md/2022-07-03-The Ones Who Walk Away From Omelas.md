@@ -4,7 +4,7 @@
 Omelas is a city of happiness and prosperity, but to enable this a child is locked up in a basement and neglected. Everyone knows about this and they frequently visit, but some choose to leave.
 
 --- 
-**Topic**: [[Short Stories]], [[Utilitarianism]]
+**Topic**: [[Short Stories]], [[Utilitarianism]], [[Apocalyptic literature|Dystopian Fiction]]
 
 **Source**: [[Becca]]
  

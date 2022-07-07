@@ -1,5 +1,5 @@
 
-# Into Thin Air by Jon Krakauer
+# *Into Thin Air* by Jon Krakauer
 
 * I agree that readers are often poorly served when an author writes as an act of catharsis, (pg. Location: 154)
 * Waugh bestowed the name Mount Everest on Peak XV, in honor of Sir George Everest, his predecessor as surveyor general. (pg. 13)
@@ -12,4 +12,6 @@
 * Breashears, who had worked around many helicopters during the course of a long and distinguished film career, immediately found a landing pad bordered by two gaping crevasses at 19,860 feet. I tied a silk kata to a bamboo wand to serve as a wind indicator, while Breashears—using a bottle of red Kool-Aid as dye—marked a giant X in the snow at the center of the landing zone. A few minutes later Makalu Gau appeared having been dragged down the glacier on a piece of plastic by a half-dozen Sherpas. A moment after that we heard the THWOCK-THWOCK-THWOCK of a helicopter’s rotors thrashing furiously at the thin air. Piloted by Lieutenant Colonel Madan Khatri Chhetri of the Nepalese army, the olive-drab B2 Squirrel helicopter—stripped of all unnecessary fuel and equipment—made two passes, but on each occasion aborted at the last moment. On Madan’s third attempt, however, he settled the Squirrel shakily onto the glacier with its tail hanging over a bottomless crevasse. Keeping the rotors revving at full power, never taking his eyes off the control panel, Madan raised a single finger, indicating that he could take only one passenger; at this altitude, any additional weight might cause him to crash while taking off. (pg. 329)
 
 
+---
 
+**Topic**: [[Exploration]]

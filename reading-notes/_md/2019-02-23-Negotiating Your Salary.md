@@ -195,3 +195,6 @@ Just remember:
 
 ## Chapter 12 - Practice and Coaching
 
+---
+
+**Topic**: [[Negotiation]]

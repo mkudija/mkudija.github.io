@@ -1,5 +1,5 @@
 
-# The 48 Laws of Power by Robert Greene
+# *The 48 Laws of Power* by [[Robert Greene]]
 
 1. Never eclipse your superiors – Always reinforce their comfortable sense of superiority. They are probably acutely aware of their defects and incompetence, and alert to any threat from below. If you make them look bad, they will crush you, stymie you and make you miserable. Prove your usefulness. Never outshine them.
 2. Do not trust allies, but understand the utility of enemies – Friends will betray you out of envy. They have a regrettable tendency to expect too much of you because of your friendship and to become demanding nuisances. Don’t hire or appoint friends. Hire enemies. The enemy whom you forgive will always feel that he has to prove his loyalty. If you have no enemies, get to work making a few good ones.

@@ -7,7 +7,7 @@
 
 [Economic Principles website](https://economicprinciples.org/) (additional information beyond the book)
 
->Every chaos is a transition. In the end disorder cures and balances itself with dictatorship; old obstacles are roughly cleared away, and fresh growth is free. Revolution, like death and style, is the removal of rubbish, the surgery of the superfluous; it comes only when there are many things ready to die. China has died many times before; and many times she has been reborn. <br>—*[[~2021-06-17-The Story of Civilization]]: Our Oriental Heritage* by Will Durant, 823
+>Every chaos is a transition. In the end disorder cures and balances itself with dictatorship; old obstacles are roughly cleared away, and fresh growth is free. Revolution, like death and style, is the removal of rubbish, the surgery of the superfluous; it comes only when there are many things ready to die. China has died many times before; and many times she has been reborn. <br>—*[[~2021-06-17-The Story of Civilization|The Story of Civilization]]: Our Oriental Heritage* by Will Durant, 823
 
 
 - Dalio changing world order take-aways:
@@ -73,81 +73,81 @@
 # Part I: How the World Works
 
 ## Chapter 1: The Big Cycle in a Tiny Nutshell
-_**Summary**: _
+
 
 Chart on pg 41 shows that education, technology, and competitiveness tend to be leading indicators of power, while reserve status is trailing:
 <img src="https://12valuestocks.com/wp-content/uploads/2020/04/rise-and-decline-by-factor.png" width=100%>
 
 
 ## Chapter 2: The Determinants
-_**Summary**: _
+
 
 
 
 ## Chapter 3: The Big Cycle of Money, Credit, Debt, and Economic Activity
-_**Summary**: _
+
 
 
 
 ## Chapter 4: The Changing Value of Money
-_**Summary**: _
+
 
 
 
 ## Chapter 5: The Big Cycle of Internal Order and Disorder
-_**Summary**: _
+
 
 
 
 ## Chapter 6: The Big Cycle of External Order and Disorder
-_**Summary**: _
+
 
 
 
 ## Chapter 7: Investing in Light of the Big Cycle
-_**Summary**: _
+
 
 
 # Part II: How the World Has Worked Over the Last 500 Years.
 
 ## Chapter 8: The Last 500 Years In a Tiny Nutshell
-_**Summary**: _
+
 
 
 
 ## Chapter 9: The Big Cycle Rise and Decline of the Dutch Empire and the Guilder
-_**Summary**: _
+
 
 
 
 ## Chapter 10: The Big Cycle Rise and Decline of the British Empire and the Pound
-_**Summary**: _
+
 
 
 
 ## Chapter 11: The Big Cycle Rise and Decline of the United States and the Dollar
-_**Summary**: _
+
 
 
 
 ## Chapter 12: The Big Cycle Rise of [[China]] and the Renminbi
-_**Summary**: _
+
 
 
 
 ## Chapter 13: US-China Relations and Wars
-_**Summary**: _
+
 
 
 # Part III: The Future
 
 ## Chapter 14: The Future
-_**Summary**: _
+
 
 
 
 ## Appendix: Computer Analysis of the Conditions of, and Prospects for, the World's Leading Countries
-_**Summary**: _
+
 
 # Kindle Highlights
 *598 Highlight(s) | 31 Notes*
@@ -812,9 +812,6 @@ _**Summary**: _
 
 - *[[~Principles for Navigating Big Debt Crises]] by [[Ray Dalio]]
 
-**New Words**
-
-- 
 
 ---
 Created: [[2022-01-04-Tue]]

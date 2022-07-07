@@ -184,7 +184,7 @@ finished
 - *Thou Dost Smile* by Peter Lippert
 - *The Last Day* by Léon Bloy
 - *What is Science?* by René Vallery-Radot
-- *The Mystery of Simeon* by Charles Péguy
+- *The Mystery of Simeon* by [[Charles Péguy]]
 - *Shall Berlin be Christian?* by Carl Sonnenschein
 - *The Commandment of Love* by Max Scheler
 - *Action* by Peter Wust

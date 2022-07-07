@@ -36,7 +36,7 @@
 - "But if you try to escape from this world merely by leaving the city and hiding yourself in solitude, you will only take the city with you into solitude: and yet you can be entirely out of the world while remaining in the midst of it, if you let God set you free from your own selfishness and if you live for love alone. **For the flight from the world is nothing else but the flight from selfishness.** And the man who locks himself up in private with his own selfishness has put himself into a position where the evil within him will either possess him like a devil or drive hi out of his head. That is why it is dangerous to go into solitude merely because you happen to like to be alone." (57)
 - "We look for solitude in order to grow there in love for God and in love for other men." (58)
 
-### 6. Solitude
+### 6. [[Solitude]]
 - "Solitude is an abyss opening up in the center of your own soul." (59)
 - Avoid consumption: "Do everything you can to avoid the amusements and the noise and the business of men...Do not read their newspapers, if you can help it...Do not complicate your life by looking at the pictures in their magazines. Keep your eyes clean and your ears quiet and your mind serene. Breathe God's air. Work, if you can, under His sky....But if you have to live in a city and work among machines...do not be upset, but accept it as the love of God and as a seed of solitude planted in your soul, and be glad of this suffering: for it will keep you alive to the next opportunity to escape from them and be alone in the healing silence of recollection and in the untroubled presence of God." (60-61) 
 

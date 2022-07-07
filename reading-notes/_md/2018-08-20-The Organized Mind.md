@@ -128,3 +128,12 @@ Say we decide to take the test a second time (assuming that test results are ind
 - Fundamental principle of organization: “shift the burden of organizing from our brains to the external world” (370)
 - For remembering names, you need to give yourself 5 seconds to encode the information (374)
 - The 21 century information issue is one of selection
+
+
+--- 
+**Topic**: [[Personal Knowledge Management|PKM]]
+
+
+---
+Created: 2018-08-20
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

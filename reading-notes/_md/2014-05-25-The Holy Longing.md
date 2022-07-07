@@ -71,7 +71,7 @@
         * Sex always needs the protection of a healthy chastity (the appropriateness of any experience)
     * “In heaven…our sexuality will finally be able to embrace everyone.” (206)
     * “Solitude….is being alone, but it is being alone in such a way that our very incompleteness is a source of quiet strength and not of anxious dissipation.” (207)
-    * Henri Nouwen’s four steps to turn restless incompleteness into restful solitude
+    * [[Henri Nouwen]]’s four steps to turn restless incompleteness into restful [[solitude]]
         * Own your pain and incompleteness
         * Give up false messianic expectations
         * Go inward

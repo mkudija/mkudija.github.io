@@ -1,6 +1,5 @@
 
-# Essentialism
-
+# *Essentialism: The Disciplined Pursuit of Less* by [[Greg McKeown]]
 
 * Essentialism: less but better 
 * Life is essentially trade offs. We need to recognize this and make the trade offs
@@ -28,6 +27,3 @@
 * Make a routine to enshrine the essential (206)
 * To change habits, we need to focus on the cue and use that as a trigger for the desired habit (210) 
 * WIN - What's important now? Spend your energy on the present, not obsessing over past failures or wording about future problems (215)
-
-
-

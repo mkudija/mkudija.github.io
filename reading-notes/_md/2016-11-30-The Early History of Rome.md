@@ -1,7 +1,7 @@
 
-# The Early History of Rome by Livy
+# *The Early History of Rome* by Livy
 
-BOOK I - Rome Under the Kings
+## BOOK I - Rome Under the Kings
 * “The study of history is the best medicine for a sick mind; for in history you have a record of the infinite variety of human experience plainly set out for all to see; and in that record you can find for yourself and your country both examples and warnings; fine things to take as models, base things, rotten through and through, to avoid.” (30)
 * sounds familiar… “Of late years wealth has made us greedy, and self-indulgence has brought us, through every form of sensual excel, to be, if I and so put it, in love with weather both individual and collective.” (30)
 * starts with Trojans and Latins being joined
@@ -13,7 +13,7 @@ BOOK I - Rome Under the Kings
 * Servius Tullius was son of refugee and raised in the palace, king attacked with axe and pretended he was still alive while he grabbed power, census with classes, 
 * Tarquinius Superbus (the proud), married Tullia (after they killed their spouses), ousted the king, stood up visiting senators, ruled as a dictator, rape and suicide of Lucretia
 
-BOOK II - The Beginnings of the Republic
+## BOOK II - The Beginnings of the Republic
 * Brutus conscripted new senators to replace those killed by Tarquin
 * Anther Tarquin, Collantinus, came to power but exiled himself out of fear of retribution 
 * Publius Valerius became consul, 
@@ -26,3 +26,13 @@ BOOK II - The Beginnings of the Republic
 * But they stated a siege, Marcius tried to kill the king but actually got his secretary but was released for his bravery and the king sued for peace (2.13)
 * Consuls: Publius Lucretius and Publius Valerius
 
+
+--- 
+**Topic**: [[History]]
+
+**Source**: C.C. Pecknold (when asked what to read before *[[2017-01-03-The City of God|The City of God]]*)
+
+
+---
+Created: 2016-11-30
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

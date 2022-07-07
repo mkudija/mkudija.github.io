@@ -1,5 +1,5 @@
 
-# Never Split the Difference by Chris Voss
+# *Never Split the Difference* by Chris Voss
 
 * Chapter 1 - 
     * Ask open ended ("calibrated") questions: buys you time and gives them the sense of control
@@ -158,3 +158,7 @@
         * Prepare a list of noncash items possessed by your counterpart that would be valuable 
         * What could they give us that would get us to do this for free? 
 
+
+---
+
+**Topic**: [[Negotiation]]

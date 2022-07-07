@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+
+<html lang="en">
+<head>
+<title>Matthew Kudija | Notes</title>
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico"/>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="https://matthewkudija.com/" class="logo">Matthew Kudija</a>
+<div class="header-right">
+<a href="https://matthewkudija.com/">Home</a>
+<a href="https://matthewkudija.com/about">About</a>
+<a href="https://matthewkudija.com/notes/">Notes</a>
+<a href="https://matthewkudija.com/reading-notes/">Reading Notes</a>
+</div>
+</header>
+
+<!-- Content -->
+
+<p><em><a href="Woodworking.html">Woodworking</a>, <a href="Chairmaking.html">Chairmaking</a></em></p>
+
+<h1 id="chair-angle-calculator">Chair Angle Calculator</h1>
+
+<h3 id="background">Background</h3>
+
+<p>The legs of a chair are often angled from the vertical. The side-to-side and front-to-back components of these angles are called <em>splay</em> and <em>rake</em>, and are easy to measure off a photograph of a chair. But when making a chair, it is easier to resolve the splay and rake into a single <em>resultant</em> angle along the <em>sightline</em>. <a href="Christopher-Schwarz.html">Christopher Schwarz</a> talks about this in <em><a href="https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/~The Stick Chair Book.md">The Stick Chair Book</a></em> (<a href="https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf">PDF excerpt</a>):</p>
+
+<blockquote>
+  <p>If you know the rake and splay that you want for your legs, you can use trigonometry to convert that to sightlines and resultants. There are equations, tables and calculators out there to guide you on that math path. (155)</p>
+</blockquote>
+
+<p>A derivation is not provided, so I attempt one here.</p>
+
+<h3 id="derivation">Derivation</h3>
+
+<p>In the diagram below, we are given the angles of <em>splay</em> (<em>s</em>) and <em>rake</em> (<em>r</em>), and we will compute the sightline angle ($\theta$) and the resultant angle ($\phi$). </p>
+
+<p><img src="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" width="100%"><br />
+<center><a href="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" target="_blank"><i>Larger image</i></a></center></p>
+
+<p>Recall the trigonometric relationships of <a href="https://www.mathsisfun.com/algebra/sohcahtoa.html">SOH, CAH, TOA</a>. </p>
+
+<p>From Figure 1, we see that:<br />
+$$x = \sin(r)$$</p>
+
+<p>From Figure 2, we see that:<br />
+$$y = \sin(s)$$</p>
+
+<p>From Figure 3, we see that:<br />
+$$\tan(\theta) = \frac{x}{y}$$<br />
+Solving for $\theta$ and substituting the equations above for $x$ and $y$, we have a formula for the sightline angle $\theta$:<br />
+$$\boxed{sightline = \theta = \tan^{-1} \left( \frac{\sin(r)}{\sin(s)} \right)}$$</p>
+
+<p>To compute the resultant angle $\phi$, first we need an expression for $A$ from Figure 3:<br />
+$$A = \frac{x}{sin(\theta)} = \frac{y}{cos(\theta)}$$</p>
+
+<p>From Figure 4, which is the cross section along our sightline showing the resultant angle, we see that:<br />
+$$\sin(\phi) = \frac{A}{1} = A$$<br />
+Rearranging and substituting for $A$:<br />
+$$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{x}{\sin(\theta)}  \right)=\sin^{-1}\left( \frac{\sin(r)}{\sin(\theta)}  \right)$$<br />
+$$\boxed{resultant=\phi=\sin^{-1}\left( \frac{\sin(r)}{\sin(\theta)}  \right)}$$<br />
+or<br />
+$$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{y}{\cos(\theta)}  \right)=\sin^{-1}\left( \frac{\sin(s)}{\cos(\theta)}  \right)$$</p>
+
+<p>$$\boxed{resultant=\phi =\sin^{-1}\left( \frac{\sin(s)}{\cos(\theta)}  \right)}$$</p>
+
+<p>This is implemented in the following sheet: <a href="https://docs.google.com/spreadsheets/d/1h0Ls0Vrd2oCE3AtCu19jd7lndnfqP5E0VC9R6khPpXU/edit#gid=0">Chair Angle Calculator - Google Sheets</a></p>
+
+<h3 id="resources">Resources</h3>
+
+<ul>
+<li><a href="https://blog.lostartpress.com/2020/10/04/coming-soon-the-chairpanzee/">Coming Soon: The Chairpanzee – Lost Art Press</a></li>
+<li><a href="https://blog.lostartpress.com/2020/10/29/new-video-how-to-use-the-chairpanzee/">New Video: How to Use the Chairpanzee – Lost Art Press</a></li>
+<li><a href="https://blog.lostartpress.com/2020/10/27/new-in-the-store-the-chairpanzee/">New in the Store: The Chairpanzee – Lost Art Press</a></li>
+<li><a href="https://tinyshopww.blogspot.com/2020/05/resultant-and-sightline-angle-calculator.html">Woodworking in a Tiny Shop: Resultant and Sightline Angle Calculator</a></li>
+</ul>
+
+<hr />
+
+<p>Created: <a href="../reading-notes/2022-07-05-Tue.html">2022-07-05-Tue</a><br />
+Updated: 2022-07-06-Wed</p>
+
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="../assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+</body>
+<hr>
+<footer id="footer" align="center">
+<center>
+<img src="../images/kudija_family_shield.png" width=100px>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</footer>
+</html>

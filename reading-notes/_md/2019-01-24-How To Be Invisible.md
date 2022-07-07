@@ -1,6 +1,6 @@
 # [*How to Be Invisible: Protect Your Home, Your Children, Your Assets, and Your Life*](https://www.amazon.com/How-Be-Invisible-Protect-Children/dp/1250010454/ref=sr_1_3?ie=UTF8&qid=1548359852&sr=8-3&keywords=how+to+be+invisible) by J. J. Luna
 
-(New York: St. Martin's, 2012), 294
+`(New York: St. Martin's, 2012), 294`
 
 
 - with enough money, anyone can track you, so your goal is to make it harder and more expensive (5)
@@ -30,3 +30,5 @@
   - *How to Disappear* by Frank Ahearn
   - anything by Kevin Mitnick
   - *Social Engineering* by Christopher Hadnagy
+
+**Topic**: [[Internet Privacy]]

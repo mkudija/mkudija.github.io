@@ -1,6 +1,7 @@
-# *Essentialism: The Disciplined Pursuit of Less* by Greg McKeown
+# *Essentialism: The Disciplined Pursuit of Less* by [[Greg McKeown]]
 2018-02-17
 
+*prior notes: [[2015-08-02-Essentialism]]*
 
 ## Themes
 - Only a few things really matter
@@ -20,7 +21,7 @@
 - J&J credo in stone
 - “There are no solutions, only trade-offs”...”don’t ask what I have to give up, ask what I want to go big on”
 
-## Chapter 5: Escape (Solitude)
+## Chapter 5: Escape ([[Solitude]])
 - Deliberately set aside distraction free time in distraction free space to think 
 - He wrote this book 5 am- 1pm 5 days per week
 - Read classic literature for the first 20 min of the day: Zen, Reason of unreason, Bible, Ghandi, Walden, Mormon, Marcus Aurelius, Upanishads 

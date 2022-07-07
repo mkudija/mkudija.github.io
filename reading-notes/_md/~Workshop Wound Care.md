@@ -76,7 +76,7 @@ These are a type of puncture wound where the puncturing object is the air and wh
 The eye deserves special attention as there is risk of permanent vision loss with some types of injuries. This chapter gives consideration to corneal abrasions, metal and organic foreign bodies, and puncture wounds/open globes.
 
 --- 
-**Topic**: 
+**Topic**: [[Woodworking]]
 
 **Source**: 
 

@@ -39,10 +39,10 @@
   - thorough work and superior performance always stands out
 
 
-## On Thinking and Writing Well
+## On Thinking and [[Writing]] Well
 - *"The process of writing is your most valuable single tool for developing better ideas. The process of writing is the dominant source of intellectual creativity."* (55)
 14. Basic writing toolkit:
-  - *The Elements of Style* by Strunk and White and then *On Writing Well* by Zinsser
+  - *The Elements of Style* by Strunk and White and then *[[2017-06-10-On Writing Well|On Writing Well]]* by Zinsser
   - Dictionary and Thesaurus: an exactly right word can transform a sentence
   - References on usage including: 
     - [Common Errors in English Usage](https://s3.wp.wsu.edu/uploads/sites/1350/2017/05/errorsRTF.txt) by Paul Brians
@@ -64,7 +64,7 @@
 
 ## On the Formation of Who You Are
 - *Or ways to make your 20's transformative...*
-20. Don't let your parents prolong your adolescence (cf. *The Vanishing American Adult*)
+20. Don't let your parents prolong your adolescence (cf. *[[2017-11-01-The Vanishing American Adult|The Vanishing American Adult]]*)
 21. Recalibrate your perspective on time.
   - starting your career at 30 vs. 25 does not have much impact in the long run
   - being too eager overlooks the importance of apprenticeship for building expertise
@@ -91,7 +91,7 @@
   - fame and wealth are trivial to a life well-lived
 31. Take religion seriously
   - taking religion seriously means homework and study
-  - "a good way to jar yourself out of unreflective atheism is to read about contemporary science": the 20th century did wonders
+  - "a good way to jar yourself out of unreflective [[atheism]] is to read about contemporary science": the 20th century did wonders
   - "the more you are around people who are seriously religious, the harder it is to think there's nothing to it"
 32. Take the clichés about marriage seriously
   - marry someone with similar tastes and preferences
@@ -99,6 +99,6 @@
   - you must really really like your spouse
   - a good marriage is the best thing that can ever happen to you
 33. Be open to a startup marriage instead of a merger marriage
-34. Watch *Groundhog Day* repeatedly
-  - You should read and reflect on Aristotle's *Nichomachean Ethics*, but since you won't, you should watch *Groundhog Day* to learn what it means to be happy
+34. Watch *[[Groundhog Day]]* repeatedly
+  - You should read and reflect on Aristotle's *[[~Nicomachean Ethics|Nicomachean Ethics]]*, but since you won't, you should watch *Groundhog Day* to learn what it means to be happy
 
