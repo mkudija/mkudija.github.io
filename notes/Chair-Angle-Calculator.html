@@ -57,40 +57,35 @@ O clemens, O pia, O dulcis Virgo Maria. -->
   <p>If you know the rake and splay that you want for your legs, you can use trigonometry to convert that to sightlines and resultants. There are equations, tables and calculators out there to guide you on that math path. (155)</p>
 </blockquote>
 
-<p>A derivation is not provided, so I attempt one here.</p>
+<p>A derivation is not provided, so I provide one here. Thanks to <a href="https://tinyshopww.blogspot.com/2020/05/resultant-and-sightline-angle-calculator.html">Woodworking in a Tiny Shop</a> for providing his work which helped me catch an error in my first version.</p>
 
 <h3 id="derivation">Derivation</h3>
 
-<p>In the diagram below, we are given the angles of <em>splay</em> (<em>s</em>) and <em>rake</em> (<em>r</em>), and we will compute the sightline angle ($\theta$) and the resultant angle ($\phi$). </p>
+<p>In the diagram below, we are given the angles of <em>splay</em> (<em>s</em>) and <em>rake</em> (<em>r</em>), and we will compute the sightline angle ($\alpha$) and the resultant angle ($\theta$). </p>
 
 <p><img src="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" width="100%"><br />
 <center><a href="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" target="_blank"><i>Larger image</i></a></center></p>
 
 <p>Recall the trigonometric relationships of <a href="https://www.mathsisfun.com/algebra/sohcahtoa.html">SOH, CAH, TOA</a>. </p>
 
-<p>From Figure 1, we see that:<br />
-$$x = \sin(r)$$</p>
+<p>First we need expressions for $x$ and $y$:<br />
+$$\tan(s) = \frac{x}{h} \rightarrow \boxed{x=h\tan(s)}$$<br />
+$$\tan(r) = \frac{y}{h} \rightarrow \boxed{y=h\tan(r)}$$<br />
+Then we write an expression for the sightline angle $\alpha$:</p>
 
-<p>From Figure 2, we see that:<br />
-$$y = \sin(s)$$</p>
+<p>$$\tan(\alpha)=\frac{y}{x}=\frac{h\tan(r)}{h\tan(s)}$$<br />
+$$\text{sightline: } \boxed{\alpha=\tan^{-1}\left(\frac{\tan(r)}{\tan(s)} \right)}$$</p>
 
-<p>From Figure 3, we see that:<br />
-$$\tan(\theta) = \frac{x}{y}$$<br />
-Solving for $\theta$ and substituting the equations above for $x$ and $y$, we have a formula for the sightline angle $\theta$:<br />
-$$\boxed{sightline = \theta = \tan^{-1} \left( \frac{\sin(r)}{\sin(s)} \right)}$$</p>
-
-<p>To compute the resultant angle $\phi$, first we need an expression for $A$ from Figure 3:<br />
-$$A = \frac{x}{sin(\theta)} = \frac{y}{cos(\theta)}$$</p>
-
-<p>From Figure 4, which is the cross section along our sightline showing the resultant angle, we see that:<br />
-$$\sin(\phi) = \frac{A}{1} = A$$<br />
-Rearranging and substituting for $A$:<br />
-$$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{x}{\sin(\theta)}  \right)=\sin^{-1}\left( \frac{\sin(r)}{\sin(\theta)}  \right)$$<br />
-$$\boxed{resultant=\phi=\sin^{-1}\left( \frac{\sin(r)}{\sin(\theta)}  \right)}$$<br />
-or<br />
-$$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{y}{\cos(\theta)}  \right)=\sin^{-1}\left( \frac{\sin(s)}{\cos(\theta)}  \right)$$</p>
-
-<p>$$\boxed{resultant=\phi =\sin^{-1}\left( \frac{\sin(s)}{\cos(\theta)}  \right)}$$</p>
+<p>Next to compute the resultant angle $\theta$, we need an expression for $z$:<br />
+$$x^2+y^2=z^2$$<br />
+$$z=\sqrt{x^2+y^2}$$<br />
+Substituting for $x$ and $y$ from above:<br />
+$$z=\sqrt{h^2\tan^2(r)+h^2\tan^2(s)}=h\sqrt{\tan^2(r)+\tan^2(s)}$$<br />
+Now we can write an expression for $\theta$ and substitute in the above:<br />
+$$\tan(\theta)=\frac{z}{h}$$<br />
+$$\tan(\theta)=\frac{h\sqrt{\tan^2(r)+\tan^2(s)}}{h}$$<br />
+$$\tan(\theta)=\sqrt{\tan^2(r)+\tan^2(s)}$$<br />
+$$\text{resultant: } \boxed{\theta=\tan^{-1}\left( \sqrt{\tan^2(r)+\tan^2(s)} \right)}$$</p>
 
 <p>This is implemented in the following sheet: <a href="https://docs.google.com/spreadsheets/d/1h0Ls0Vrd2oCE3AtCu19jd7lndnfqP5E0VC9R6khPpXU/edit#gid=0">Chair Angle Calculator - Google Sheets</a></p>
 
@@ -106,7 +101,7 @@ $$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{y}{\cos(\theta)}  \right)=\sin^{-1}\
 <hr />
 
 <p>Created: <a href="../reading-notes/2022-07-05-Tue.html">2022-07-05-Tue</a><br />
-Updated: 2022-07-06-Wed</p>
+Updated: 2022-07-07-Thu</p>
 
 
 </div>

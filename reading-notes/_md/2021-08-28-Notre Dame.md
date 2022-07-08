@@ -39,5 +39,7 @@ This book is Ken Follett's response to the tragic fire at Notre Dame in 2019. Th
  - medieval builders made the unseen parts just as beautiful since they were seen by God  
 
 ---
+**Topic**: [[Gothic Architecture]]
+
 Created: [[2021-08-28-Sat]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

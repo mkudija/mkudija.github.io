@@ -11,42 +11,40 @@ The legs of a chair are often angled from the vertical. The side-to-side and fro
 
 >If you know the rake and splay that you want for your legs, you can use trigonometry to convert that to sightlines and resultants. There are equations, tables and calculators out there to guide you on that math path. (155)
 
-A derivation is not provided, so I attempt one here.
+A derivation is not provided, so I provide one here. Thanks to [Woodworking in a Tiny Shop](https://tinyshopww.blogspot.com/2020/05/resultant-and-sightline-angle-calculator.html) for providing his work which helped me catch an error in my first version.
 
 
 
 ### Derivation
 
-In the diagram below, we are given the angles of *splay* (*s*) and *rake* (*r*), and we will compute the sightline angle ($\theta$) and the resultant angle ($\phi$). 
+In the diagram below, we are given the angles of *splay* (*s*) and *rake* (*r*), and we will compute the sightline angle ($\alpha$) and the resultant angle ($\theta$). 
+
+==DIAGRAM NEEDS TO BE REVISED==
 
 <img src="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" width="100%">
 <center><a href="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" target="_blank"><i>Larger image</i></a></center>
 
 Recall the trigonometric relationships of [SOH, CAH, TOA](https://www.mathsisfun.com/algebra/sohcahtoa.html). 
 
-From Figure 1, we see that:
-$$x = \sin(r)$$
+First we need expressions for $x$ and $y$:
+$$\tan(s) = \frac{x}{h} \rightarrow \boxed{x=h\tan(s)}$$
+$$\tan(r) = \frac{y}{h} \rightarrow \boxed{y=h\tan(r)}$$
+Then we write an expression for the sightline angle $\alpha$:
 
-From Figure 2, we see that:
-$$y = \sin(s)$$
+$$\tan(\alpha)=\frac{y}{x}=\frac{h\tan(r)}{h\tan(s)}$$
+$$\text{sightline: } \boxed{\alpha=\tan^{-1}\left(\frac{\tan(r)}{\tan(s)} \right)}$$
 
-From Figure 3, we see that:
-$$\tan(\theta) = \frac{x}{y}$$
-Solving for $\theta$ and substituting the equations above for $x$ and $y$, we have a formula for the sightline angle $\theta$:
-$$\boxed{sightline = \theta = \tan^{-1} \left( \frac{\sin(r)}{\sin(s)} \right)}$$
 
-To compute the resultant angle $\phi$, first we need an expression for $A$ from Figure 3:
-$$A = \frac{x}{sin(\theta)} = \frac{y}{cos(\theta)}$$
-
-From Figure 4, which is the cross section along our sightline showing the resultant angle, we see that:
-$$\sin(\phi) = \frac{A}{1} = A$$
-Rearranging and substituting for $A$:
-$$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{x}{\sin(\theta)}  \right)=\sin^{-1}\left( \frac{\sin(r)}{\sin(\theta)}  \right)$$
-$$\boxed{resultant=\phi=\sin^{-1}\left( \frac{\sin(r)}{\sin(\theta)}  \right)}$$
-or
-$$\phi = \sin^{-1}(A)=\sin^{-1}\left( \frac{y}{\cos(\theta)}  \right)=\sin^{-1}\left( \frac{\sin(s)}{\cos(\theta)}  \right)$$
-
-$$\boxed{resultant=\phi =\sin^{-1}\left( \frac{\sin(s)}{\cos(\theta)}  \right)}$$
+Next to compute the resultant angle $\theta$, we need an expression for $z$:
+$$x^2+y^2=z^2$$
+$$z=\sqrt{x^2+y^2}$$
+Substituting for $x$ and $y$ from above:
+$$z=\sqrt{h^2\tan^2(r)+h^2\tan^2(s)}=h\sqrt{\tan^2(r)+\tan^2(s)}$$
+Now we can write an expression for $\theta$ and substitute in the above:
+$$\tan(\theta)=\frac{z}{h}$$
+$$\tan(\theta)=\frac{h\sqrt{\tan^2(r)+\tan^2(s)}}{h}$$
+$$\tan(\theta)=\sqrt{\tan^2(r)+\tan^2(s)}$$
+$$\text{resultant: } \boxed{\theta=\tan^{-1}\left( \sqrt{\tan^2(r)+\tan^2(s)} \right)}$$
 
 This is implemented in the following sheet: [Chair Angle Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1h0Ls0Vrd2oCE3AtCu19jd7lndnfqP5E0VC9R6khPpXU/edit#gid=0)
 
