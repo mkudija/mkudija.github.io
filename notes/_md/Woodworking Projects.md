@@ -17,6 +17,12 @@ publish: true
 
 # Woodworking Projects
 
+### 2022-07-09 Phone Rack
+*Walnut, birch plywood*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-07-09-phone-holder.jpg?raw=true" width="100%">
+
+
 ### [[Build Log-Irish Stick Chair|2022-07-05 Irish Stick Chair]]
 *Walnut*
 
