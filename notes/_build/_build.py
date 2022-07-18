@@ -121,13 +121,12 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at) # old version, can remove eventually
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
 
-    # remove publish
-    mdString = mdString.replace('---\npublish: true\n---','')
-    # remove metadata (this is problematic for tables, etc...)
-    # mdStringSplit = mdString.split('---')
-    # if len(mdStringSplit)>3:
-    #     print('\t\tHas metadata')
-    #     mdString = mdStringSplit[2]
+    # remove metadata
+    if mdString[:3]=='---':
+        print('\t\tHas metadata')
+        mdStringSplit = mdString.split('---')
+        mdString = '---'.join(mdStringSplit[2:])
+
 
     body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]

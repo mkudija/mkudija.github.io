@@ -90,11 +90,10 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
 
     # remove metadata
-    mdString = mdString.replace('---\npublish: true\n---','')
-    mdStringSplit = mdString.split('---')
-    if len(mdStringSplit)>3:
+    if mdString[:3]=='---':
         print('\t\tHas metadata')
-        mdString = mdStringSplit[2]
+        mdStringSplit = mdString.split('---')
+        mdString = '---'.join(mdStringSplit[2:])
 
 
     body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
