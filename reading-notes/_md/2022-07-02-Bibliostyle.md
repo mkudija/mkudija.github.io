@@ -1,4 +1,15 @@
-
+---
+aliases: [Bibliostyle]
+title: Bibliostyle
+author: Nina Freudenberger, Sadie Stein
+category: House & Home
+publisher: Clarkson Potter
+total_page: 270
+cover_url: https://books.google.com/books/content?id=-qqxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2018
+isbn10: 0525575448
+isbn13: 9780525575443
+---
 # [*Bibliostyle: How We Live at Home with Books*](https://www.penguinrandomhouse.com/books/576323/bibliostyle-by-nina-freudenberger/) by Nina Freudenberger
 
 <img src="https://images1.penguinrandomhouse.com/cover/9780525575443" width=150>
@@ -11,7 +22,6 @@
 - I don't want to sound pretentious but I don't understand people who don't have books. <br> —Emmanuel de Bayser (59)
 - I cannot live without a library, and I cannot live without a garden. A garden is where we negotiate with nature—a place between the wild and the tame—and a library is where we confront everything. <br> —Vik Muniz (99)
 - There's more to life than books, you know. But not much more. <br> —Coralie Bickford-Smith (205)
-- 
 
 --- 
 **Topic**: [[Reading]], [[Libraries]]
@@ -24,11 +34,6 @@
 [[bib]] file:(2022-07-02-Bibliostyle)
 ```
  
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-07-02-Sat]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

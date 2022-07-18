@@ -1,5 +1,5 @@
 
-# For Better by Tara Parker-Pope
+# *For Better* by Tara Parker-Pope
 
 * Compatibility: excessively worrying about compatibility is a danger sign for the relationship. Compatibility is important, but plenty of happy couples aren't ideally compatible, and plenty of compatible couples aren't happy.
 * Arguments
@@ -26,3 +26,4 @@
     * Have sex - even if not in the mood your brain releases chemicals after 5 minutes
     * Reignite romance
 
+**Topic**: [[Marriage]]

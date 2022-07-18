@@ -20,7 +20,7 @@
 - "When a man is faced with alternatives he chooses one at the expense of the others." (98, cf. *[[2022-06-06-Four Thousand Weeks|Four Thousand Weeks]]*)
 - "The heterogeneous census of the authors whom I continually reread is made up of [[Schopenhauer]], De Quincey, Stevenson, Mauthner, Shaw, [[G.K. Chesterton]], Léon Bloy." (106)
 - "The truth is that we all live by leaving behind." (113)
-- [[Note Taking]]: "To think is to forget a difference, to generalize, to abstract. In the overly replete world of Funes there were nothing but details, almost contiguous details." (115)
+- [[Notetaking]]: "To think is to forget a difference, to generalize, to abstract. In the overly replete world of Funes there were nothing but details, almost contiguous details." (115)
 - "What one man does is something done, in some measure, by all men. For that reason a disobedience committed in a garden contaminates the human race; for that reason it is not unjust that the crucifixion of a single Jew suffices to save it." (120-121)
 - [[Generalism]]: strive to not be this man: "The man does not exist who, outside his own speciality, is not credulous." (144)
 - [[Forecasting]]: "reality does not tend to coincide with forecasts about it." (144-145)

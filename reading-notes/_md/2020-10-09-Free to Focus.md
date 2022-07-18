@@ -1,5 +1,19 @@
+---
+aliases: [Free to Focus]
+title: Free to Focus
+author: Michael Hyatt
+category: Business & Economics
+publisher: Baker Books
+total_page: 256
+cover_url: https://books.google.com/books/content?id=eplkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2019
+isbn10: 1493409549
+isbn13: 9781493409549
+---
 
-# [*Free to Focus: A Total Productivity System to Achieve More by Doing Less*](https://www.amazon.com/Free-Focus-Productivity-System-Achieve/dp/0801075262/ref=sr_1_2?crid=1SHK3MTM48PXM&dchild=1&keywords=free+to+focus&qid=1602268912&sprefix=women%27s+bath%2Caps%2C214&sr=8-2) by [[Michael Hyatt]]
+# [*Free to Focus: A Total Productivity System to Achieve More by Doing Less*]([Free to Focus | Baker Publishing Group](http://bakerpublishinggroup.com/books/free-to-focus/385330)) by [[Michael Hyatt]]
+
+<img src="http://cdn.bakerpublishinggroup.com/processed/books/covers/listing/9780801075261.jpg?1564035943" width=150px>
 
 `(Grand Rapids: Baker Books, 2019), 228`
 
@@ -146,3 +160,13 @@
   - declutter your workspace
   - increase your frustration tolerance
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2020-10-09-Free%20to%20Focus/images/220.jpg" width="50%" height="50%"></p>
+
+
+--- 
+**Topic**: [[Productivity]]
+
+**Source**: [[Fr. Raymund]]
+
+---
+Created: 2020-10-09
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

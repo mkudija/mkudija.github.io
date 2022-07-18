@@ -33,9 +33,9 @@ For **electronic books** on Kindle or in a PDF I highlight while reading and the
 I mentioned my [template file](https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading-notes/_md/~Templater-Book%20Note.md) which has a few standard elements:
 - metadata: title, author, publisher, year published, number of pages, image
 - before "notes" I will add a personal summary or reflection for books I engage with the most
-- the tables of contents is populated using a Sublime Text plugin for longer notes (and enclosed in and HTML `<details>` tag to collapse it)
+- the table of contents is populated using a Sublime Text plugin for longer notes (and enclosed in and HTML `<details>` tag to collapse it)
 - chapter dividers, with a summary section for each
-- a section for bibliography and new words to track the most important or interesting books referenced as well as the definition of any new words I come across in the text
+- a section for bibliography and new words to track the most important or interesting books referenced as well as the definition of any new words I come across in the text (as of 2022-06 my bibliography consists of a simple query like `[[bib]] file:(<%tp.file.title%>)` which allows me to note referenced works sprinkled throughout the note and see a consolidated list in this section)
 
 Since moving my reading note markdown files to Obsidian I have started engaging with them much more deeply than before by linking related ideas across books. I have also revisited notes more frequently and added to them as I read more related topics. This is still new to me and I'm excited to see how these connections organically emerge over time. 
 
@@ -44,7 +44,7 @@ To publish my notes from Obsidian to my website, [this script](https://github.co
 
 **Resources**
 
-- [The Fractal-Summary Method: How to Read Great Books](https://johnathanbi.com/essays/fractal-summary-method)
+- [ ] ⏫ #read [The Fractal-Summary Method: How to Read Great Books](https://johnathanbi.com/essays/fractal-summary-method)
 
 ---
 Created: [[2021-09-02-Thu]]

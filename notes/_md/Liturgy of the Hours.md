@@ -21,6 +21,7 @@ aliases: [LOTH]
 | Compline           | Night Prayer        | 9 p.m.  |
 
 ## Resources
+- **[Sing the Hours - YouTube](https://www.youtube.com/c/SingtheHours?app=desktop)** and [Sing the Hours | Liturgy of the Hours](https://singthehours.org/) ^0e58df
 - Wikipedia: [The Liturgy of the Hours](https://en.wikipedia.org/wiki/Liturgy_of_the_Hours)
 - Great resources from [Rosary Shop](https://prayer.rosaryshop.com/)
 	- ***[Discovering Prayer: An Introduction and Tutorial to the Liturgy of the Hours](https://prayer.rosaryshop.com/discoveringPrayer.pdf)*** by Seth H. Murray
@@ -39,7 +40,7 @@ aliases: [LOTH]
 - Charts of the psalms used: [psalms wide](https://stutler.cc/russ/psalmchart_e.html), [psalms narrow](https://stutler.cc/russ/LOTH_CHART_vert.html), [psalms and canticles](https://stutler.cc/russ/breviary_chart_complete.html)(from [Some Psalter Reviews](https://stutler.cc/russ/psalter_reviews.html)) 
 - A [Liturgy of the Hours, Second Edition](https://www.usccb.org/prayer-and-worship/liturgy-of-the-hours/liturgy-of-the-hours-second-edition) is coming...
 - *[[~The Priest at Prayer]]*, 178-186
-- [Sing the Hours - YouTube](https://www.youtube.com/c/SingtheHours?app=desktop) and [Sing the Hours | Liturgy of the Hours](https://singthehours.org/) ^0e58df
+- [Overwhelmed by the Liturgy of the Hours? Start With Night Prayer](https://catholicexchange.com/overwhelmed-by-the-liturgy-of-the-hours-start-with-night-prayer/)
 
 ### Alternative Versions
 - pre-1970 Roman Breviary: [The Roman Breviary (1961 edition in Latin and English)](https://www.baroniuspress.com/book.php?wid=56&bid=59#tab=tab-1) (online version: [The Roman Breviary](https://breviary.net/index.htm))

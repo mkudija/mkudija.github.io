@@ -1,4 +1,15 @@
-
+---
+aliases: [How to Destroy Western Civilization]
+title: How to Destroy Western Civilization and Other Topics
+author: Peter Kreeft, Ph.D.
+category: Religion
+publisher: Ignatius Press
+total_page: 182
+cover_url: https://books.google.com/books/content?id=lt4oEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2021
+isbn10: 1621642682
+isbn13: 9781621642688
+---
 # [*How to Destroy Western Civilization and Other Ideas from the Cultural Abyss*](https://ignatius.com/how-to-destroy-western-civilization-and-other-ideas-from-the-cultural-abyss-hdwcp/) by [[Peter Kreeft]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1802/1994/HDWCP_r__94120.1617024113.jpg?c=1" width=150>
@@ -179,7 +190,7 @@ _**Summary**: Reflections on judgement._
 **Bibliography**
 
 - ***[[~Brave New World]]*** (10, 19, 89, 112, 141, 145)
-- [[Films to Watch]]: *The Godfather* (158)
+- [[Films to Watch]]: *[[The Godfather]]* (158)
 
 **New Words**
 

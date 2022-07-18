@@ -51,3 +51,7 @@ select 0,1 and drag to get 0,1,2,3,etc.
 `⌥ + ⇧ + ↑` - `option + shift + up arrow` - move lines up
 `⇧ + ⌥ + ⌘ + select` - `shift + option + command + select` - multi-select
 
+
+## Gmail
+`category:social , older_than:2y `
+`a` - reply all

@@ -1,3 +1,16 @@
+---
+aliases: [The World Beyond Your Head]
+title: The World Beyond Your Head
+author: Matthew B. Crawford
+category: Philosophy
+publisher: Farrar, Straus and Giroux
+total_page: 320
+cover_url: https://books.google.com/books/content?id=uyilBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2015
+isbn10: 0374708444
+isbn13: 9780374708443
+---
+
 # [*The World Beyond Your Head: On Becoming an Individual in an Age of Distraction*](https://us.macmillan.com/books/9780374535919/the-world-beyond-your-head) by [[Matthew B. Crawford]]
 
 <img src="https://mpd-biblio-covers.imgix.net/9780374535919.jpg?w=900" width=150>
@@ -172,7 +185,7 @@ In telling the story of the Enlightenment in this sequence, I want to suggest th
 
 EMPOWERMENT THROUGH SUBMISSION (location. Page: 128)
 
-Michael Polanyi wrote, “An art which cannot be specified in detail cannot be transmitted by prescription, since no prescription for it exists. It can be passed on only by example from master to apprentice. (location. Page: 134)
+[[Michael Polanyi]] wrote, “An art which cannot be specified in detail cannot be transmitted by prescription, since no prescription for it exists. It can be passed on only by example from master to apprentice. (location. Page: 134)
 
 In the second half of his life he took up philosophy in an effort to understand his own experience of scientific discovery. (location. Page: 134)
 

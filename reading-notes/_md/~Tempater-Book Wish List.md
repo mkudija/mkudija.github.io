@@ -1,13 +1,7 @@
 
-# [*title*]() by author
-#wishlist
-
-<img src="" width=150>
-
-`(City: Publisher, YYYY), PPP`
-
 
 --- 
+#wishlist
 **Topic**: 
 
 **Source**

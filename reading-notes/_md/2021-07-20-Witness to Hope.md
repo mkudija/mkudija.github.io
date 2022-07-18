@@ -1,3 +1,15 @@
+---
+aliases: [Witness to Hope]
+title: Witness to Hope
+author: George Weigel
+category: Biography & Autobiography
+publisher: Harper Collins
+total_page: 1016
+cover_url: https://books.google.com/books/content?id=77cuew4gnM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 1999
+isbn10: 0060932864
+isbn13: 9780060932862
+---
 # [*Witness to Hope: The Biography of Pope John Paul II*](https://www.amazon.com/Witness-Hope-Biography-Pope-John/dp/006018793X) by [[George Weigel]]
 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51QJmr6e4nL._SY291_BO1%2C204%2C203%2C200_QL40_.jpg&f=1&nofb=1" width=150>
@@ -377,7 +389,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 
 
 --- 
-**Topics**: [[John Paul II]]
+**Topic**: [[John Paul II]]
 
 **Bibliography**
 
@@ -397,7 +409,7 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 - *Redemptor Hominis* (288)
 - *Familiaris Consortio* (385)
 - ***Laborem Exercens*** (419, 618)
-- *Salvifici Doloris* (475)
+- *[[~Salvifici Doloris|Salvifici Doloris]]* (475)
 - *Christifideles Laici* (553)
 - *Redemptoris Mater* and ***Mulieris Dignitatem*** (578)
 - *Centesimus Annus* (612)
@@ -453,5 +465,5 @@ Other:
 - 156: "spot **when** Jesus had died" to "spot **where** Jesus had died"
 
 ---
-Created: 2021-07-20
+Created: [[2021-07-20-Tue]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

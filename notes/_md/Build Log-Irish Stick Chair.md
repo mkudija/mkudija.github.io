@@ -8,27 +8,26 @@ publish: true
 <img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/01.jpg?raw=true" width="100%">
 
 ## Summary
-- **Cost**: ~$30-60
-- **Time**: ~16 hr
+- **Cost**: ~$50-80
+- **Time**: ~18 hr
 - **Completed**: 
 	- 2022-07-02 - rough assembly
 	- 2022-07-05 - complete less finish
-	- 2022-07-? - finish
+	- 2022-07-13 - finish
 
 
 ## Design
-This is the first chair I've build, so I went for simple. It is patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[~The Stick Chair Book]]*.
+This is the first chair I've build, so I went with a simple design. It is patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[~The Stick Chair Book|The Stick Chair Book]]*.
 
-I purposefully built this before reading *[[~The Stick Chair Book]]* so that I'll have some practical knowledge to throw the theory up against. I learned what I needed to know to build this chair from various resources on the [Lost Art Press Blog](https://blog.lostartpress.com/):
-
-- Patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[~The Stick Chair Book]]*
+I built this before reading *[[~The Stick Chair Book|The Stick Chair Book]]* so that I'll have some practical knowledge to throw the theory up against. I learned what I needed to know to build this chair from various resources on the [Lost Art Press Blog](https://blog.lostartpress.com/):
+- Patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[~The Stick Chair Book|The Stick Chair Book]]*
 	- [Irish Chair No. 2: Simple, but Better – Lost Art Press](https://blog.lostartpress.com/2021/02/15/irish-chair-no-2-simple-but-better/)
-	- [Irish-Chair-stats.jpg](https://blog.lostartpress.com/wp-content/uploads/2021/02/Irish-Chair-stats.jpg) (has angles and cut list, this was my primary shop reference while building)
+	- [Irish-Chair-stats.jpg](https://blog.lostartpress.com/wp-content/uploads/2021/02/Irish-Chair-stats.jpg) (has angles and cut list: this was my primary shop reference while building and the only change I would make is to cut the legs longer)
 - Compare with the Curved-back Irish-American armchair: 
 	- [Irish Chair No. 3: By the Numbers – Lost Art Press](https://blog.lostartpress.com/2021/02/17/irish-chair-no-3-by-the-numbers/)
-	- Plans and chapter from *[[~The Stick Chair Book]]*: [Curved-Back-Armchair.pdf](https://blog.lostartpress.com/wp-content/uploads/2022/02/Curved-Back-Armchair.pdf)
+	- Plans and chapter from *[[~The Stick Chair Book|The Stick Chair Book]]*: [Curved-Back-Armchair.pdf](https://blog.lostartpress.com/wp-content/uploads/2022/02/Curved-Back-Armchair.pdf)
 	- [For Sale: Irish(ish) Stick Chair in European Oak – Lost Art Press](https://blog.lostartpress.com/2022/04/12/for-sale-irishish-stick-chair-in-european-oak/)
-- Full-Size Patterns from *[[~The Stick Chair Book]]*: [Link](https://lostartpress.com/collections/books/products/full-size-patterns-from-the-stick-chair-book)
+- Full-Size Patterns from *[[~The Stick Chair Book|The Stick Chair Book]]*: [Link](https://lostartpress.com/collections/books/products/full-size-patterns-from-the-stick-chair-book)
 
 <img src="https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2021/02/green-irish-ortho-IMG_4024.jpg?w=1280&ssl=1" width="100%">
 
@@ -40,10 +39,11 @@ I purposefully built this before reading *[[~The Stick Chair Book]]* so that I'l
 
 ## Materials Required
 
-| Material      | Quantity       | Description                                                                              |
-| ------------- | -------------- | ---------------------------------------------------------------------------------------- |
-| **Walnut**    | ~15 board-feet | ~$20–50, used walnut I had on hand, one 7'x6" 8/4 board and a couple of 6'x7" 4/4 boards |
-| **Hide Glue** | 1 bottle       | $10, Titebond Liquid Hide Glue, 8-Ounces #5013                                           |
+| Material      | Quantity             | Description                                                                                                     |
+| -- | -- | -- |
+| **Walnut**    | ~15 board-feet       | ~$20–50, used walnut I had on hand, one 7'x6" 8/4 board and a couple of 6'x7" 4/4 boards                        |
+| **Hide Glue** | 1 bottle             | $10, Titebond Liquid Hide Glue, 8-Ounces #5013                                                                  |
+| **Finish**    | 1 pint (tiny amount) | $25, [Tried & True Original Wood Finish](https://www.triedandtruewoodfinish.com/products/original-wood-finish/) |
 
 I probably paid a total of $20–50 for the wood used when I bought a number of scraps from a millworks and cabinet shop. This would have been more like $100–200 if I had bought it by itself new.
 
@@ -59,7 +59,7 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 - New chairmanning tools:
 	- Grizzly Industrial H7693 - Deep Plug Cutter 6 Pc. Set, [Link](https://www.amazon.com/gp/product/B000E305CQ)
 	- BOSCH Daredevil DSBE1012 12-Inch Drill Bit Extension, [Link](https://www.amazon.com/gp/product/B002BYOWKM)
-	- Deburring External Chamfer Tool, [Link](https://www.amazon.com/gp/product/B07S1G5WH4) (don't recommend, just use a belt sander and drawknife)
+	- Deburring External Chamfer Tool, [Link](https://www.amazon.com/gp/product/B07S1G5WH4) (I don't recommend this as it is too small to do much good, just use a belt sander and drawknife)
 
 ## Build Notes
 ### Time Log
@@ -77,7 +77,8 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 - [[2022-07-04-Mon]] - 1 hr plug hole in backrest doubler and glue up, make stick wedges
 - [[2022-07-04-Mon]] - 30 min final glue up
 - [[2022-07-05-Tue]] - 30 min trim and chisel armrest tenons
-- 2022-07-? - finish...
+- [[2022-07-09-Sat]] - 1 hr install pins, hand sand
+- [[2022-07-13-Wed]] - 1 hr finish
 
 
 ### Process Notes
@@ -129,10 +130,36 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 	- Glue up sticks, armrests, backrest; install wedges
 	- Flush cut wedges on back underside
 	- Cut armrest wedges/tenons proud; clean up with chisel
-- Finish
-	- ...
+- Hand sand with a 380 grid disc pad
+- Finish with Tried & True Original Traditionnel applied with an old t-shirt
 
 
+Joining the seat:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/02.jpg?raw=true" width="100%">
+
+Octagonalizing the sticks:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/03.jpg?raw=true" width="100%">
+
+Prepping for tenons:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/04.jpg?raw=true" width="100%">
+
+Cutting tenons:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/05.jpg?raw=true" width="100%">
+
+Oops!
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/06.jpg?raw=true" width="100%">
+
+Laying out the arms:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/07.jpg?raw=true" width="100%">
+
+Leveling:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/08.jpg?raw=true" width="100%">
+
+Back doubler with plug:
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/09.jpg?raw=true" width="100%">
+
+This earned me my [‘Stick Chair Merit Badge’](https://blog.lostartpress.com/2022/06/25/earn-your-stick-chair-merit-badge/):
+<img src="https://github.com/mkudija/img/blob/main/2022-06-29_irish-stick-chair/10.jpg?raw=true" width="100%">
 
 
 ---

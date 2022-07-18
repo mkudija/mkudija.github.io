@@ -1,4 +1,15 @@
-
+---
+aliases: [The Silent Knight]
+title: The Silent Knight
+author: Elizabeth Lev
+category: Religion
+publisher: Sophia
+total_page: 256
+cover_url: https://books.google.com/books/content?id=Sx-GzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2020
+isbn10: 1644135744
+isbn13: 9781644135747
+---
 # [*The Silent Knight: A History of St. Joseph as Depicted in Art*](https://www.sophiainstitute.com/products/item/the-silent-knight) by [[Elizabeth Lev]]
 
 <img src="https://www.sophiainstitute.com/images/uploads/products/_small/9781644135747.jpg" width=150>
@@ -41,7 +52,7 @@
 *Joseph, Universal Patron*, Guiseppe Rollini. Cited in *[[2022-03-19-The Silent Knight|The Silent Knight]]*, 175.
 
 ### St. Joseph and the Christ Child
-<img src="https://thumbs.dreamstime.com/b/ossuccio-italy-may-fresco-st-joseph-church-sacro-monte-della-beata-vergine-del-soccorso-f-grandi-end-cent-ossuccio-150469594.jpg" width=100%>
+<img src="https://64.media.tumblr.com/6c521ee44eb2751d90c821b366477e60/aeecccf6707d6321-61/s1280x1920/29bc6aa61ec0af201b85e763e51daa2bbb0f65dd.jpg" width=100%>
 *St. Joseph and the Christ Child*, Francesco Grandi. Cited in *[[2022-03-19-The Silent Knight|The Silent Knight]]*, 179.
 
 ### Holy Family

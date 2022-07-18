@@ -28,7 +28,7 @@ Short of a full built-in window seat, we decided to do a simpler rectangular ben
 ## Materials Required
 
 | Material                | Quantity                     | Description                                                                                                                                                        |
-| ----------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -- | -- | -- |
 | **3/4" Birch Plywood**  | 1x 4'x8' sheet               | $85, main structure, [link](https://www.homedepot.com/p/Columbia-Forest-Products-3-4-in-x-4-ft-x-8-ft-PureBond-Birch-Plywood-165921/100077837)                     |
 | **1x2 Pine**            | 3x 6' boards                 | $15, battens, [link](https://www.homedepot.com/p/1-in-x-2-in-x-6-ft-Select-Pine-Board-921494/202535799)                                                            |
 | **3/4" Ambrosia Maple** | 6 board feed (~24"x48"x3/4") | top, assorted dining table scrap                                                                                                                                   |
@@ -36,7 +36,7 @@ Short of a full built-in window seat, we decided to do a simpler rectangular ben
 | **White Paint**         | ~1 quart                     | Sherwin Williams Harmony Interior Acrylic Latex, Extra White                                                                                                       |
 | **Top Coat**            | ~1 quart                     | $20, Minwax  Polycrylic Clear Satin Water-Based Polyurethane, [link](https://www.lowes.com/pd/Minwax-Polycrylic-32-fl-oz-Satin-Water-based-Polyurethane/999913687) |
 | **Wipe-on Poly**        |                              | clear finish for wood top                                                                                                                                          |
-| **Spring Hinges**       | 2                            | $15, [link](https://www.amazon.com/gp/product/B085NDGW2H?psc=1)                                                                                                    |
+| **Spring Hinges**       | 4                            | $30, [link](https://www.amazon.com/gp/product/B085NDGW2H?psc=1)                                                                                                    |
 
 ## Tools Used
 - Circular saw
@@ -79,10 +79,11 @@ Short of a full built-in window seat, we decided to do a simpler rectangular ben
 - Spray poly top coat (2 coats)
 - Install hinges
 - Wipe-on poly top (~5 coats)
+- Build block and install supplemental hinges in middle so lid stays open
 
 **To Improve**
 - Two coats of paint and more time between sprayed poly coats
-- Stronger spring hinges
+
 
 <img src="https://raw.githubusercontent.com/mkudija/img/main/2022-05-30_kitchen-bench/05.jpg" width="100%"/>
 
@@ -109,6 +110,8 @@ Short of a full built-in window seat, we decided to do a simpler rectangular ben
 
 
 <img src="https://raw.githubusercontent.com/mkudija/img/main/2022-05-30_kitchen-bench/14.jpg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/2022-05-30_kitchen-bench/16.jpg" width="100%"/>
 
 
 

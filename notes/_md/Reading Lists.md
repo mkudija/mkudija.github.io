@@ -29,6 +29,9 @@ publish: true
 - [Nick Senger's Classics Reading List](http://nicksenger.com/onecatholiclife/books/nicks-summary-of-great-books-lists) (in which he surveys 16 other reading lists) 
 - [Tommy Collison Great Books Program](https://tommycollison.com/greatbooks)
 - [Books of Titans](https://www.booksoftitans.com/great-books/)
+- [Nat's Great Books Tracking](https://docs.google.com/spreadsheets/d/1ZWA_9v8ZouHYdcatG4ETjokV5N97-VXAPj16EZ2WIX4/htmlview#)
+- [Great Conversation Reading Group - Ten Year Reading Plan](http://danbecker.info/books/GreatConversation-TenYearReadingPlan.html)
+- [[2022-07-13 Article-Jessica Hooten Wilson-10 Books You Need to Read Before You Graduate College|Jessica Hooten Wilson-10 Books You Need to Read Before You Graduate College]] ([link](https://jessicahootenwilson.com/10-books-you-need-to-read-before-you-graduate-college-2/))
 - Schools:
 	- [Program of Liberal Studies](https://pls.nd.edu/requirements-and-courses/great-books-seminars/) of Notre Dame
 	- [Great Books Curriculum](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) of St. John's College

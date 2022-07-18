@@ -1,5 +1,5 @@
 
-# For Better Forever: A Catholic Guide to Lifelong Marriage by Gregory K. Popcak
+# *For Better Forever: A Catholic Guide to Lifelong Marriage* by Gregory K. Popcak
 
 * Chapter 1
     * Christian evangelization —> “Look at those Christians. See how they love.”
@@ -66,7 +66,7 @@
         * mutually satisfying solution
         * follow the rules of engagement: certain lines you never cross
         * five-to-one ratio of positivity to negativity
-    * 15 Commandements of Arguments
+    * 15 Commandments of Arguments
         * know when to hold them and know when to fold them
         * begin with the end in mind
         * get your thinking cap on straight
@@ -97,6 +97,6 @@
         * approach each other in prayer
 * Chapter 11
     * “If I do not make myself abundantly present to my children, how will they ever learn to appreciate the eternal presence of their heavenly Father?” (221)
-    * “Marriage is perhaps the most beautiful prayer in the world.” (222)
+    * “[[Marriage]] is perhaps the most beautiful prayer in the world.” (222)
     * Love in marriage leads others to God
 

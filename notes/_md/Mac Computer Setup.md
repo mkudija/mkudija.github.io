@@ -11,7 +11,7 @@ publish: true
 	- [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
 	- [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/)
 	- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
-	- [Copy as Markdown](https://addons.mozilla.org/en-GB/firefox/addon/copy-as-markdown/)
+	- [Copy as Markdown](https://addons.mozilla.org/en-GB/firefox/addon/copy-as-markdown/) (supplemented by [[Obsidian#obsidian-auto-link-title https github com zolrath obsidian-auto-link-title]] plugin)
 	- [LaTeX in Slack](https://addons.mozilla.org/en-US/firefox/addon/latex-in-slack/)
 	- [Minimal Twitter](https://addons.mozilla.org/en-GB/firefox/addon/min-twitter/)
 	- [Disable Javascript](https://addons.mozilla.org/en-GB/firefox/addon/disable-javascript/)
@@ -23,7 +23,7 @@ publish: true
 	- [Espanso](https://espanso.org/install/) 
 		- [[Espanso default.yml]] (access via `espanso path` or `espanso edit`) ([example 1](https://github.com/Lissy93/espanso-config/blob/master/utils.yml), [example 2](https://github.com/ekiel/espanso/blob/master/default.yml))
 		- *need to [install brew](https://stackoverflow.com/questions/66666134/how-to-install-homebrew-on-m1-mac)*
-		- double tap option (⌥) to enable/disable espanso (can turn this toggle key behavior off-[link](https://espanso.org/docs/next/configuration/options/))
+		- double tap option (⌥) to enable/disable Espanso (can turn this toggle key behavior off-[link](https://espanso.org/docs/next/configuration/options/))
 		- ~~[[Keyboard Maestro]]~~ (replaced by Espanso)
 	- [Spectacle](https://www.spectacleapp.com/)
 	- [Shortcat](https://shortcatapp.com/) ([how to use](https://superuser.com/questions/93937/keyboard-shortcut-to-right-click-in-mac-os-x/715116))
@@ -42,6 +42,9 @@ publish: true
 	- Set up iTerm2 shortcut keys: [Link](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line#10485061)
 - [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac)
 - [Sublime text](https://www.sublimetext.com/download)
+- [TexShop](https://pages.uoregon.edu/koch/texshop/obtaining.html)
+	- requires [MacTeX - TeX Users Group](https://tug.org/mactex/mactex-download.html) (`MacTeX.pkg`, did not work with basic version)
+	- then download - [Latest TeXShop, Version 4.76](https://pages.uoregon.edu/koch/texshop/texshop-64/texshop.zip) for Intel and Arm on Sierra and higher (55.6 MB)
 - [Fig](https://fig.io/)
 - Python
 	- Install Homebrew

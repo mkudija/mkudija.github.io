@@ -19,7 +19,6 @@ A derivation is not provided, so I provide one here. Thanks to [Woodworking in a
 
 In the diagram below, we are given the angles of *splay* (*s*) and *rake* (*r*), and we will compute the sightline angle ($\alpha$) and the resultant angle ($\theta$). 
 
-==DIAGRAM NEEDS TO BE REVISED==
 
 <img src="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" width="100%">
 <center><a href="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/chair-angles.png" target="_blank"><i>Larger image</i></a></center>

@@ -1,3 +1,6 @@
+---
+aliases: [The Brothers Karamazov]
+---
 
 # *The Brothers Karamazov* by [[Fyodor Dostoevsky]]
 
@@ -13,5 +16,5 @@
 
 
 Resources:
-- [Virtual Book Club | The Brothers Karamazov - Jessica Hooten Wilson](https://jessicahootenwilson.com/virtual-book-club-the-brothers-karamazov/)
-
+- [[The Brothers Karamazov Book Club by Jessica Hooten Wilson]]
+- #read [The Greatest Christian Novel by Gary Saul Morson | First Things](https://www.firstthings.com/article/2021/05/the-greatest-christian-novel)

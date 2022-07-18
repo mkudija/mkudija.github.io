@@ -86,6 +86,13 @@ publish: true
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/JEAN-FRAN%C3%87OIS_MILLET_-_El_%C3%81ngelus_%28Museo_de_Orsay%2C_1857-1859._%C3%93leo_sobre_lienzo%2C_55.5_x_66_cm%29.jpg/2560px-JEAN-FRAN%C3%87OIS_MILLET_-_El_%C3%81ngelus_%28Museo_de_Orsay%2C_1857-1859._%C3%93leo_sobre_lienzo%2C_55.5_x_66_cm%29.jpg" width=100%>
 [*The Angelus*](https://en.wikipedia.org/wiki/The_Angelus_(painting)) (1857-9), Jean-François Millet (French), Oil on canvas, Musée d'Orsay, Paris.
 
+### The Blessing of the Wheat in Artois
+
+<img src="https://uploads6.wikiart.org/images/jules-breton/the-blessing-of-the-wheat-in-artois-1857.jpg!Large.jpg" width=100%>
+[*The Blessing of the Wheat in Artois*](https://www.wikiart.org/en/jules-breton/the-blessing-of-the-wheat-in-artois-1857) (1857), Jules Breton (French), Oil on canvas.
+
+
+
 
 ### Interior of the Cathedral of Amiens
 

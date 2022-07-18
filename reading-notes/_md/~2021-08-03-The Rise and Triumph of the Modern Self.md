@@ -1,7 +1,19 @@
+---
+aliases: [The Rise and Triumph of the Modern Self]
+title: The Rise and Triumph of the Modern Self
+author: Carl R. Trueman
+category: Religion
+publisher: Crossway
+total_page: 432
+cover_url: https://books.google.com/books/content?id=6pf9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2020
+isbn10: 1433556367
+isbn13: 9781433556364
+---
+# [*The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution*](https://www.crossway.org/books/the-rise-and-triumph-of-the-modern-self-hcj/) by [[Carl R. Trueman]]
 
-# [*The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution*](https://www.crossway.org/books/the-rise-and-triumph-of-the-modern-self-hcj/) by [[Carl. R. Trueman]]
+<img src="https://books.google.com/books/content?id=6pf9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-<img src="https://static.crossway.org/studio-files/media/73603c4810775bab0103020211822fbc681b8212.jpg" width=150>
 
 `(Wheaton: Crossway, 2020), 407`
 

@@ -15,7 +15,7 @@ publish: true
 
 
 
-# Woodworking Projects
+# [[Woodworking]] Projects
 
 ### 2022-07-09 Phone Rack
 *Walnut, birch plywood*
@@ -263,11 +263,11 @@ publish: true
 
 ### 2019-11-03 Height Chart
 
-<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/height-chart/height-chart1.jpg" width="50%"/>
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/height-chart/height-chart1.jpg" width="75%"/>
 
 ### 2019-10-05 Bassinet Stand
 
-<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2019-10-05-bassinet-stand.jpg" width="50%"/>
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/wood-projects/2019-10-05-bassinet-stand.jpg" width="100%"/>
 
 ### 2019-05-30 Console Table
 

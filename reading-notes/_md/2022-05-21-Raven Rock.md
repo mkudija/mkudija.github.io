@@ -1,4 +1,15 @@
-
+---
+aliases: [Raven Rock]
+title: Raven Rock
+author: Garrett M. Graff
+category: History
+publisher: Simon and Schuster
+total_page: 560
+cover_url: https://books.google.com/books/content?id=pGYNCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2017
+isbn10: 147673545X
+isbn13: 9781476735450
+---
 # [*Raven Rock: The Story of the U.S. Government's Secret Plan to Save Itself—While the Rest of Us Die*](https://www.simonandschuster.com/books/Raven-Rock/Garrett-M-Graff/9781476735429) by [[Garrett M. Graff]]
 
 <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476735429/raven-rock-9781476735429_lg.jpg" width=150>

@@ -55,7 +55,7 @@ publish: true
 - *The Fantastic Flying Books of Mr. Morris Lessmore* by William Joyce
 - *Hot-Air Henry* by Mary Calhoun
 - *Tacky the Penguin* by Helen Lester
-- *Frog on a Log?* by Kes Gray
+- *[[~Frog on a Log?|Frog on a Log?]]* by Kes Gray
 - *How Murray Saved Christmas* by Mike Reiss
 - *Treasury of Nursery Stories* retold by Susan Price
 - *Cindy Ellen: A Wild Western Cinderella* by Susan Lowell
@@ -80,10 +80,12 @@ publish: true
 
 ### Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien
-- *[[~The Well-Trained Mind]]* by Susan Wise Bauer
+- *[[~The Well-Trained Mind|The Well-Trained Mind]]* by Susan Wise Bauer
 - *The Read Aloud Family*
 - *Honey for a Child's Heart*
 
 ---
+**Topic**: [[Reading]]
+
 Created: [[2021-07-16-Fri]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

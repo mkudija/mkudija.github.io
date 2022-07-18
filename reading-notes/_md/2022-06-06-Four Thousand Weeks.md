@@ -1,4 +1,15 @@
-
+---
+aliases: [Four Thousand Weeks]
+title: Four Thousand Weeks
+author: Oliver Burkeman
+category: Self-Help
+publisher: Farrar, Straus and Giroux
+total_page: 288
+cover_url: https://books.google.com/books/content?id=WFP2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2021
+isbn10: 0374715246
+isbn13: 9780374715243
+---
 # [*Four Thousand Weeks: Time Management for Mortals*](https://us.macmillan.com/books/9780374159122/four-thousand-weeks) by [[Oliver Burkeman]]
 
 <img src="https://mpd-biblio-covers.imgix.net/9780374159122.jpg?w=900" width=150>
@@ -77,7 +88,7 @@ _**Summary**: There is more to do than could ever be done, and thinking we can g
 	- Efficiency technologies always fail us because they increase the size of your to-do list (47)
 	- The things you get done when you don't account for the opportunity cost of doing them tend to be unimportant things that are important to *other* people rather than yourself: you need to start with the important things and be ok with the accumulation of other things that won't get done (49)
 - **Existential overwhelm**: the modern world provides an inexhaustible supply of things that seem worth doing, so there will always be an inevitable gap between what you'd like to do and what you actually can do (45)
-- [ ] "How else are we to get to know this place where we have been set, apart from tending to it?" (*[Musings on an inefficient life | Topology Magazine](http://www.topologymagazine.org/essay/throwback/musings-on-an-inefficient-life/)* by Sylvia Keesmaat [[bib]], 55) read 📅 2022-06-10
+- "How else are we to get to know this place where we have been set, apart from tending to it?" ([[2022-07-12 Article-Musings on an inefficient life|Musings on an inefficient life]] (*[link](http://www.topologymagazine.org/essay/throwback/musings-on-an-inefficient-life/)*) by Sylvia Keesmaat [[bib]], 55, which I love for the same reason I love Jordan's shirt that says "The Grass is greenest where you water it.") 
 
 
 
