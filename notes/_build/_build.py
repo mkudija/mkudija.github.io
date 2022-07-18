@@ -41,6 +41,12 @@ def copy_files_ifPublish(src, dst):
     for file in filesPublish:
         shutil.copyfile(file, dst+'/{}'.format(file.name))
 
+    print('{} of {} files published ({}%)'.format(
+        len(filesPublish), 
+        len(files),
+        round(len(filesPublish) / len(files) * 100,1)
+        ))
+
 
 def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     """Converts .md (markdown) files to .html files.
@@ -115,9 +121,12 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at) # old version, can remove eventually
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
 
-    # replace "publish"
+    # remove metadata
     mdString = mdString.replace('---\npublish: true\n---','')
-
+    mdStringSplit = mdString.split('---')
+    if len(mdStringSplit)>3:
+        print('\t\tHas metadata')
+        mdString = mdStringSplit[2]
 
     body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
