@@ -243,17 +243,17 @@ _**Summary**: Most emergencies are slow and boring: have books and board games._
 
 # Part IV: Active Self-Defense
 ## Chapter 24: The Politics of Putting Up a Fight
-_**Summary**: Review of self-defense laws._
+_**Summary**: An introduction to the complex realities of self-defense._
 
 
 
 ## Chapter 25: Standing Up for Your Belongings
-_**Summary**: Discussion of force (and lesser means) of defending your property._
+_**Summary**: Developing a realistic and lawful plan of responding to burglaries, muggings, and so forth._
 
 
 
 ## Chapter 26: Fighting for Your Life
-_**Summary**: Discussion of self defense._
+_**Summary**: When there is no other choice: improving the odds of prevailing in a fight._
 - [[Sun Tzu]]: "the greatest victories are the ones that require no battle" (203)
 	- Sometimes the surest way to avoid violence is to make it clear that you mean business and aren't an easy mark (204)
 - Legitimate self-defense: innocence, imminent harm, proportionality, duty to retreat
@@ -262,14 +262,13 @@ _**Summary**: Discussion of self defense._
 
 
 ## Chapter 27: Understanding Firearms
-_**Summary**: Discussion of firearms and ammunition for self defense._
+_**Summary**: Making sense of gun laws, understanding safety rules, and deciding whether to own a firearm._
 
 
 --- 
 **Topic**: [[Self-sufficiency]], [[Emergency Planning]]
 
-**Source**
-- my list of example websites, ordered [[2022-05-04-Wed]] after [[Dolores]]
+**Source**: my list of example websites, ordered 2022-05-04-Wed after Dolores
 
 
 **Bibliography**
