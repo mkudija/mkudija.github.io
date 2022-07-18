@@ -24,14 +24,6 @@ I appreciate the emphasis throughout the book on your notes being a means to you
 A few key concepts from the book include the CODE method to describe what a Second Brain does (capture, organize, distill, and express), and the PARA method of organization into categories of projects, [responsibility] areas, resources, and archives. Finally, there is a chapter on checklists and routines. 
 
 
-actions from this book:
-- [x] set up email system and task system with todoist in obsidian cf [[2022-07-08 Article-One-Touch to Inbox Zero]] ✅ 2022-07-16
-- [ ] import old notes from Evernote to Obsidian ([Export Evernote as Text Formats](https://www.bitrecover.com/blog/export-evernote-as-text/)) 📅 2022-07-17
-- [ ] [[qq-PARA]]
-- [ ] Obsidian conventions for organizing projects / archives
-- [ ] share with Fr. Stephen/Raymond/Platek 📅 2022-07-15
-
-
 # Notes
 
 <details>
