@@ -1,5 +1,20 @@
+---
+aliases: [Happy City: Transforming Our Lives Through Urban Design]
+title: Happy City: Transforming Our Lives Through Urban Design
+author: Charles Montgomery
+category: Business & Economics
+publisher: Macmillan
+total_page: 358
+cover_url: https://books.google.com/books/content?id=8eR0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2013
+isbn10: 0374168237
+isbn13: 9780374168230
+---
+# *[Happy City: Transforming Our Lives Through Urban Design]()* by [[Charles Montgomery]]
 
-# Happy City by Charles Montgomery
+<img src="https://books.google.com/books/content?id=8eR0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Macmillan, 2013), 358`
 
 * 1. The Mayor of Happy City
     * 20th century’s dual urban legacy: 
@@ -81,3 +96,5 @@
 * Chapter 13 - Save Your City, Save Yourself
     * that the meeting place, the agora, and the village square are not trivial. They are not civic decoration or merely recreational. The life of a community is incomplete without them, just as the life of the individual is weaker and sicker without face-to-face encounters with other people.*Read more at location 4772
 
+---
+**Topic**: [[Architecture]], [[Urban Planning]]

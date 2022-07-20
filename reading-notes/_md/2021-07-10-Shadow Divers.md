@@ -1,10 +1,23 @@
+---
+aliases: [Shadow Divers]
+title: Shadow Divers
+author: Robert Kurson
+category: History
+publisher: Random House Trade Paperbacks
+total_page: 432
+cover_url: https://books.google.com/books/content?id=u6WAVi4SGAoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2005
+isbn10: 0375760989
+isbn13: 9780375760983
+---
+# [*Shadow Divers: The True Adventure of Two Americans who Risked Everything to Solve One of the Last Mysteries of World War II*](https://www.amazon.com/Shadow-Divers-Adventure-Americans-Everything/dp/0375760989) by [[Robert Kurson]]
 
-# [*Shadow Divers: The True Adventure of Two Americans who Risked Everything to Solve One of the Last Mysteries of World War II*](https://www.amazon.com/Shadow-Divers-Adventure-Americans-Everything/dp/0375760989) by Robert Kurson
+<img src="https://books.google.com/books/content?id=u6WAVi4SGAoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Random House, 2004), 348`
 
 ## Ch 4  
-- Chatterton’s Vietnam medic mentor: “How will I want to feel about this decision when I’m an old man? That’s the question for making important decisions.”  
+- [[John Chatterton]]’s Vietnam medic mentor: “How will I want to feel about this decision when I’m an old man? That’s the question for making important decisions.”  
 - Chatterton's principles from Vietnam (from [[Dad]] 2021-08-14):
 	- if easy, someone else already would have done it; if you follow in another's footsteps you miss the problems really worth solving
 	- excellence is born of preparation, dedication, focus, and tenacity: compromise on any of these and you become average

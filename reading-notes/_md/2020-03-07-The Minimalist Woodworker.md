@@ -1,5 +1,18 @@
-
+---
+aliases: [The Minimalist Woodworker]
+title: The Minimalist Woodworker
+author: Vic Tesolin
+category: Crafts & Hobbies
+publisher: 
+total_page: 160
+cover_url: https://books.google.com/books/content?id=XRZRrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2015
+isbn10: 1940611350
+isbn13: 9781940611358
+---
 # [*The Minimalist Woodworker*](https://www.amazon.com/Minimalist-Woodworker-Essential-Tools-Building/dp/1940611350/ref=sr_1_1?keywords=the+minimalist+woodworker&qid=1583632850&sr=8-1) by Vic Telolin
+
+<img src="https://books.google.com/books/content?id=XRZRrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(Nashville: Spring House, 2015), 151`
 
@@ -69,3 +82,5 @@
 ---
 
 **Topic**: [[Woodworking]]
+
+**Source**: *[[2020-02-23-Good Clean Fun|Good Clean Fun]]*

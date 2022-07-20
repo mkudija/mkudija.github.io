@@ -53,5 +53,7 @@
 - "Jesus, my Love, I have at last found my vocation; *it is love*!" (199, cf 1 Cor. 12:31)
 
 ---
+**Topic**: [[Spiritual Classics]]
+
 Created: 2019-06-17
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

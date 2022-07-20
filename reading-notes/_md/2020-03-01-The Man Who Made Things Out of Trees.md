@@ -20,7 +20,7 @@
 --- 
 **Topic**: [[Woodworking]]
 
-**Source**: UA Library
+**Source**: UA Library, *[[2020-02-23-Good Clean Fun|Good Clean Fun]]*
 
 ---
 Created: 2020-03-01

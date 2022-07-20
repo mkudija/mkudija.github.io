@@ -2,7 +2,7 @@
 
 (New York: Random House, 2015), 262
 
-- this book is the story of John Chatterton and John Mattera's search for the *Golden Fleece*, a 17th century pirate ship captained by Joseph Bannister
+- this book is the story of [[John Chatterton]] and John Mattera's search for the *Golden Fleece*, a 17th century pirate ship captained by Joseph Bannister
 - John Chatterton's principles for living from his time as a medic in Vietnam (86, 100):
   - If an undertaking was easy, someone else already would have done it.
   - If you follow in another's footsteps, you miss the problems really worth solving.

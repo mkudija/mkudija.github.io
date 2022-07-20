@@ -7,6 +7,8 @@
 
 
 ---
+**Topic**: [[Spiritual Classics]]
+
 Created: 2021-11-16
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 

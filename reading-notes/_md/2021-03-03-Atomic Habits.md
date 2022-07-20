@@ -1,4 +1,15 @@
-
+---
+aliases: [Atomic Habits]
+title: Atomic Habits
+author: James Clear
+category: Business & Economics
+publisher: Penguin
+total_page: 320
+cover_url: https://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2018
+isbn10: 0735211299
+isbn13: 9780735211292
+---
 # [*Atomic Habits*](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by [[James Clear]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51CPNIRSWeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width=150>

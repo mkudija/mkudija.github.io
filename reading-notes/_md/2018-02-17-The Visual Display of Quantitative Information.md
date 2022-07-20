@@ -1,6 +1,20 @@
-# *The Visual Display of Quantitative Information* by Edward R. Tufte
-2018-02-17
+---
+aliases: [The Visual Display of Quantitative Information]
+title: The Visual Display of Quantitative Information
+author: Edward R. Tufte
+category: Mathematics
+publisher: 
+total_page: 197
+cover_url: https://books.google.com/books/content?id=GTd5oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2000
+isbn10: 0961392142
+isbn13: 9780961392147
+---
+# *[The Visual Display of Quantitative Information]()* by [[Edward R. Tufte]]
 
+<img src="https://books.google.com/books/content?id=GTd5oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
+
+`(New York: , 2000), 197`
 
 # Part I: Graphical Practice
 ## Chatper 1: Graphical Excellence

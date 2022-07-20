@@ -1,9 +1,8 @@
-# [*The Hobbit*](https://www.amazon.com/Hobbit-J-R-Tolkien/dp/054792822X/ref=sr_1_3?s=books&ie=UTF8&qid=1536843406&sr=1-3&keywords=the+hobbit&refinements=p_n_feature_browse-bin%3A2656022011) by J.R.R. Tolkien
+# [*The Hobbit*](https://www.amazon.com/Hobbit-J-R-Tolkien/dp/054792822X/ref=sr_1_3?s=books&ie=UTF8&qid=1536843406&sr=1-3&keywords=the+hobbit&refinements=p_n_feature_browse-bin%3A2656022011) by [[J.R.R. Tolkien]]
 
-(New York: Houghton Mifflin, 1937), 300
+`(New York: Houghton Mifflin, 1937), 300`
 
 ## Some of my favorite quotes from *The Hobbit*
-
 - “Good Morning!” said Bilbo, and he meant it. The sun was shining, and the grass was very green. But Gandalf looked at him from under long bushy eyebrows that stuck out further than the brim of his shady hat. “What do you mean?” he said. “Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?” “All of them at once,” said Bilbo. (Page: 2)
 - We are plain quiet folk and have no use for adventures. Nasty disturbing uncomfortable things! Make you late for dinner! (Page: 3)
 - He liked visitors, but he liked to know them before they arrived, and he preferred to ask them himself. (Page: 5)
@@ -25,7 +24,7 @@
 - His rage passes description—the sort of rage that is only seen when rich folk that have more than they can enjoy suddenly lose something that they have long had but have never before used or wanted. (Page: 163)
 - “Never laugh at live dragons, Bilbo you fool!” he said to himself, and it became a favourite saying of his later, and passed into a proverb. (Page: 169)
 - Some courage and some wisdom, blended in measure. If more of us valued food and cheer and song above hoarded gold, it would be a merrier world. (Page: 217)
-- “I wish now only to be in my own armchair!” he said. (Page: 221)
+- “I wish now only to be in my own [[Build Log-Irish Stick Chair|armchair]]!” he said. (Page: 221)
 
 
 *Note: these highlights from the 75th anniversary Kindle edition*

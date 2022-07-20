@@ -1,5 +1,5 @@
 
-# Vipers’ Tangle by Françios Mauriac
+# *Vipers’ Tangle* by Françios Mauriac
 
 * avoid arrogance: “Besides, you had that particular arrogance that takes the form of never looking at other people and is tantamount to denying their existence.” (36)
 * avoid a ritual, automatic marriage - it should always be intentional (68-69, 181)
@@ -11,5 +11,6 @@
 * “It would mean happiness for me if I could reach the heart of one single being before I died.” (261)
 * “One must have the courage to look at what one hates full in the face…” (268)
 
-
+---
+**Source**: [[ND Vision]]
 

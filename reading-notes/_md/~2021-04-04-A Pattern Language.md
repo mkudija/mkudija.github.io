@@ -1,5 +1,18 @@
+---
+aliases: [A Pattern Language]
+title: A Pattern Language
+author: Christopher Alexander
+category: Architecture
+publisher: Oxford University Press
+total_page: 
+cover_url: https://books.google.com/books/content?id=FTpxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2018
+isbn10: 0190050357
+isbn13: 9780190050351
+---
+# [*A Pattern Language: Towns, Buildings, Construction*](https://global.oup.com/academic/product/a-pattern-language-9780195019193) by [[Christopher Alexander]], Sara Ishikawa, and Murray Silverstein
 
-# [*A Pattern Language: Towns, Buildings, Construction*](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199) by Christopher Alexander, Sara Ishikawa, and Murray Silverstein
+<img src="https://books.google.com/books/content?id=FTpxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Oxford University Press, 1977), 1171`
 
@@ -18,6 +31,7 @@
 
 
 --- 
+**Topic**: [[Architecture]], [[Urban Planning]]
 
 **Bibliography**
 - *The Timeless Way of Building* (same authors, Part I of a single work of which the present work is Part II)

@@ -1,4 +1,15 @@
-
+---
+aliases: [No Rules Rules]
+title: No Rules Rules
+author: Reed Hastings, Erin Meyer
+category: Corporate culture
+publisher: Virgin Books
+total_page: 320
+cover_url: https://books.google.com/books/content?id=j5LBwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2020
+isbn10: 075355366X
+isbn13: 9780753553664
+---
 # [*No Rules Rules: Netflix and the Culture of Reinvention*](https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/) by Reed Hastings & Erin Meyer
 
 <img src="https://images3.penguinrandomhouse.com/cover/9781984877864" width=150>
@@ -104,6 +115,8 @@ See [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-h
 - Add "adaptability" to your candor model
 
 --- 
+**Topic**: [[Management]]
+
 **Source**: [[Lauren G]], [[Matt B]]
 
 ---

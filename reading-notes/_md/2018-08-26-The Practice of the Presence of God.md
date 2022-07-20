@@ -28,3 +28,6 @@
 ## Ninth letter
 
 - “One must be acquainted with a person before loving him. To be acquainted with God, one must think often about Him; and when we do love Him, we will also think very often about Him, for our heart is where our treasure is.” (74)
+
+--- 
+**Topic**: [[Spiritual Classics]]
