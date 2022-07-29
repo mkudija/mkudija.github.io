@@ -1,20 +1,21 @@
 ---
-aliases: [Confessions of an Economic Hit Man]
-title: The New Confessions of an Economic Hit Man
-author: John Perkins
-category: Biography & Autobiography
-publisher: Berrett-Koehler Publishers
-total_page: 384
-cover_url: https://books.google.com/books/content?id=p2vgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publish_date: 2016
-isbn10: 1626566763
-isbn13: 9781626566767
+aliases: [The Road to Serfdom]
+title: The Road to Serfdom
+author: Friedrich August Hayek
+category: Business & Economics
+publisher: 
+total_page: 274
+cover_url: https://books.google.com/books/content?id=1QyQwvLDLycC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1993
+isbn10: 0226320618
+isbn13: 9780226320618
 ---
-# *[The New Confessions of an Economic Hit Man]()* by [[John Perkins]]
+# *[The Road to Serfdom]()* by [[F.A. Hayek]]
 
-<img src="https://books.google.com/books/content?id=p2vgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://books.google.com/books/content?id=1QyQwvLDLycC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Berrett-Koehler Publishers, 2016), 384`
+`(New York: , 1993), 274`
+
 
 
 # Notes
@@ -26,6 +27,8 @@ isbn13: 9781626566767
 <!-- /MarkdownTOC -->
 </details>
 
+## Preface
+- [ ] #prPreface 
 
 ## Chapter 1:
 _**Summary**: _
@@ -176,18 +179,21 @@ _**Summary**: _
 _**Summary**: _
 
 --- 
-**Topic**: [[Economics]]
+**Topic**: [[Socialism]], [[Economics]], [[Politics]]
 
 **Source**: 
 
 **Bibliography**
 
-- 
+```query
+[[bib]] file:(~The Road to Serfdom)
+```
+ 
 
 **New Words**
 
 - 
 
 ---
-Created: [[2022-03-25-Fri]]
+Created: [[2022-07-28-Thu]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

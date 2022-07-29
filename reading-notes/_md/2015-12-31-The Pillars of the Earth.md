@@ -1,4 +1,21 @@
 ---
+aliases: [The Pillars of the Earth]
+title: The Pillars of the Earth
+author: Ken Follett
+category: Fiction
+publisher: Penguin
+total_page: 1008
+cover_url: https://books.google.com/books/content?id=VB7IAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2010
+isbn10: 1101442190
+isbn13: 9781101442197
+---
+# *[The Pillars of the Earth]()* by [[Ken Follett]]
+
+<img src="https://books.google.com/books/content?id=VB7IAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Penguin, 2010), 1008`
+---
 aliases: ["The Pillars of the Earth"]
 ---
 
@@ -16,7 +33,7 @@ As the novel opens, Tom Builder—without work and destitute—finds himself at 
 
 In the preface to *Pillars*, Ken Follett describes some of the detailed research he undertook to write the novel, which included reading the likes of [[Jean Gimpel]], the French historian and medievalist, and [[Nikolaus Pevsner]], the German-born British historian of architecture. Starting with these, I went on to read Gimpel's [*The Medieval Machine: The Industrial Revolution of the Middle Ages*](https://www.amazon.com/Medieval-Machine-Industrial-Revolution-Middle/dp/0760735832) and Pevsner's classic [*An Outline of European Architecture*](https://www.amazon.com/Outline-European-Architecture-Penguin-Art/dp/0140135243), both of which are excellent for putting the Medieval period and architecture, respectively, in broader context. *The Medieval Machine* reviews the impressive range of technologies developed in the period that enabled cathedral building as well as providing for the general prosperity that made them economically feasible. Pevsner gives a broad history of architecture in Europe, moving from classical to Romanesque, Gothic, Renaissance, Baroque, Romantic, and Modern: this serves to situate the Gothic cathedrals in the larger sweep of architectural development. 
 
-My interest in several works I have read since *Pillars* has its roots in the story of the Kingsbridge cathedral. [*Cathedral: The Story of Its Construction* by David Macaulay](https://www.amazon.com/Cathedral-Story-Construction-David-Macaulay/dp/0395316685) is a children's book with excellent illustrations that help build an understanding of Gothic cathedral design and construction. [*How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Dennis R. McNamara](https://www.amazon.com/How-Read-Churches-Ecclesiastical-Architecture/dp/0847835987) is a short overview of the history and elements of church buildings, also with excellent illustrations. The twin themes of Medieval monastic life and architectural development led me to Umberto Eco's [*The Name of the Rose*](https://www.amazon.com/Name-Rose-Umberto-Eco/dp/0544176561), a mystery set in a 12th century Italian abbey, and Campbell's [*The Library: A World History*](https://www.amazon.com/Library-James-W-P-Campbell/dp/022609281X), a tour of libraries through the ages accompanied by stunning photographs. Finally, *[[2017-01-23-Universe of Stone]]* by Philip Ball gives a colorful introduction to Gothic architecture by focusing on one of its gems: Notre Dame de Chartres. Still on my list to continue learning about Gothic architecture are *[[2021-08-29-The Cathedral Builders]] by [[Jean Gimpel]], [*The Gothic Cathedral* by Christopher Wilson](https://www.amazon.com/Gothic-Cathedral-Christopher-Wilson/dp/0500276811), and [*Understanding Architecture* by Leland M. Roth and Amanda C. Roth Clark](https://www.amazon.com/Understanding-Architecture-Elements-History-Meaning/dp/0813349036).
+My interest in several works I have read since *Pillars* has its roots in the story of the Kingsbridge cathedral. [*Cathedral: The Story of Its Construction* by David Macaulay](https://www.amazon.com/Cathedral-Story-Construction-David-Macaulay/dp/0395316685) is a children's book with excellent illustrations that help build an understanding of Gothic cathedral design and construction. [*How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Dennis R. McNamara](https://www.amazon.com/How-Read-Churches-Ecclesiastical-Architecture/dp/0847835987) is a short overview of the history and elements of church buildings, also with excellent illustrations. The twin themes of Medieval monastic life and architectural development led me to Umberto Eco's [*The Name of the Rose*](https://www.amazon.com/Name-Rose-Umberto-Eco/dp/0544176561), a mystery set in a 12th century Italian abbey, and Campbell's [*The Library: A World History*](https://www.amazon.com/Library-James-W-P-Campbell/dp/022609281X), a tour of libraries through the ages accompanied by stunning photographs. Finally, *[[2017-01-23-Universe of Stone|Universe of Stone]]* by Philip Ball gives a colorful introduction to Gothic architecture by focusing on one of its gems: Notre Dame de Chartres. Still on my list to continue learning about Gothic architecture are *[[2021-08-29-The Cathedral Builders|The Cathedral Builders]] by [[Jean Gimpel]], [*The Gothic Cathedral* by Christopher Wilson](https://www.amazon.com/Gothic-Cathedral-Christopher-Wilson/dp/0500276811), and [*Understanding Architecture* by Leland M. Roth and Amanda C. Roth Clark](https://www.amazon.com/Understanding-Architecture-Elements-History-Meaning/dp/0813349036).
 
 The Gothic style is made distinctive by three main elements: pointed arches, flying buttresses, and rib vaults. However, Pevsner notes that "The features which make up the Gothic style are well enough known, too well in fact, because most people forget that a style is not an aggregate of features, but an integral whole".[^pevsner] The "integral whole" Pevsner speaks of is what makes Gothic architecture—and the culture that produced it—so impressive. Christian society in the High Middle Ages comes to life and remains with us today in the great Gothic cathedrals. Light breaks through immense stained glass windows, literally shining through the saints to illuminate the darkness within. Starting with the main piers, large as trees, moving upward into the brightness of the clerestory, and extending to the highest point in the vaulted ceiling, the eye is drawn upward to heaven. As Philip Ball explains, “Gothic churches display, in a way that Romanesque does not, an overarching vision: a sense of wholeness and coherence.”[^ball] Walking through a Gothic church is a sacramental experience.
 
@@ -31,10 +48,10 @@ The next day I journeyed to Notre Dame de Chartres, a masterpiece of Gothic arch
 
 Visiting these great cathedrals is something that can only be experienced, something I hope to do many more times. Short of this, Ken Follett in *Pillars of the Earth* approaches the grandeur of their existence. 
 
->Gothic churches display, in a way that Romanesque does not, an overarching vision: a sense of wholeness and coherence. <br> - Philip Ball
+>Gothic churches display, in a way that Romanesque does not, an overarching vision: a sense of wholeness and coherence. <br> - [[Philip Ball]]
 
 ---
-**Topic**: [[Gothic Architecture]]
+**Topic**: [[Architecture]], [[Gothic Architecture]]
 
 Created: 2021-09-06
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

@@ -1,3 +1,6 @@
+---
+aliases: [Confessions]
+---
 
 # [*Confessions*]() by [[St. Augustine]]
 
@@ -7,7 +10,7 @@
 
 
 --- 
-**Topic**: 
+**Topic**: [[Spiritual Classics]]
 
 **Source**: 
 

@@ -1,7 +1,23 @@
+---
+aliases: [Finding Darwin's God]
+title: Finding Darwin's God
+author: Kenneth R. Miller
+category: Science
+publisher: HarperCollins
+total_page: 352
+cover_url: https://books.google.com/books/content?id=bgBiQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1999
+isbn10: 0060175931
+isbn13: 9780060175931
+---
+# *[Finding Darwin's God]()* by [[Kenneth R. Miller]]
 
-# Finding Darwin’s God by Kenneth R. Miller
+<img src="https://books.google.com/books/content?id=bgBiQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-Note: this book does a great job 
+`(New York: HarperCollins, 1999), 352`
+
+
+Note: this book does a great job of:
     1) explaining evolution, seen in chapters 1-2; 
     2) defending the science of evolution against various attacks (including illogical religious ones), seen in chapter 3-5, and 
     3) beautifully connecting a scientific understanding of evolution with the Christian God, seen in chapters 7-9
@@ -26,3 +42,5 @@ Note: this book does a great job
     * “Each and every increase in our understanding of the natural world should be a step towards God, and not, as many people assume, a step away. If faith and reason are both gifts from God, they they should play complementary, not conflicting roles in our struggle to understand the world around us.” (267)
     * “In biological terms, evolution is the only way a Creator could have made us the creatures we are-free beings in a world of authentic and meaningful moral and spiritual choices.” (291)
 
+---
+**Topic**: [[Faith and Science]]

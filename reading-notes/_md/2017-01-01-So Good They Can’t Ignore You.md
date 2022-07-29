@@ -1,5 +1,20 @@
+---
+aliases: [So Good They Can't Ignore You]
+title: So Good They Can't Ignore You
+author: Cal Newport
+category: Business & Economics
+publisher: Grand Central Publishing
+total_page: 288
+cover_url: https://books.google.com/books/content?id=ZW_coFi_h1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2012
+isbn10: 1455509108
+isbn13: 9781455509102
+---
+# *[So Good They Can't Ignore You]()* by [[Cal Newport]]
 
-# *So Good They Can’t Ignore You* by [[Cal Newport]]
+<img src="https://books.google.com/books/content?id=ZW_coFi_h1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Grand Central Publishing, 2012), 288`
 
 * (full notes in physical copy)
 * "To summarize, if your goal is to love what you do, your first step is to acquire career capital. Your next step is to invest this capital in the traits that define great work. Control is one of the most important targets you can choose for this investment.” 

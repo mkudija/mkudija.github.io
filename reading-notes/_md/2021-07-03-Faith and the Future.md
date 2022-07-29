@@ -1,4 +1,15 @@
-
+---
+aliases: [Faith and the Future]
+title: Faith and the Future
+author: Pope Benedict XVI, Joseph Cardinal Ratzinger
+category: Religion
+publisher: Ignatius Press
+total_page: 118
+cover_url: https://books.google.com/books/content?id=t4dHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2008
+isbn10: 1681491680
+isbn13: 9781681491684
+---
 # [*Faith and the Future*](https://www.ignatius.com/Faith-and-the-Future-P3447.aspx) by [[Joseph Ratzinger]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/2939/3088/FAFP_r__95264.1617024851.jpg" width=150>
@@ -45,7 +56,7 @@
 - **"The future of the Church can and will issue from those whose roots are deep and who live from the pure fullness of their faith. It will not issue from those who accommodate themselves merely to the passing moment or from those who merely criticize others and assume that they themselves are infallible measuring rods; nor will it issue from those who take the easier road, who sidestep the passion of faith, declaring false and obsolete, tyrannous and legalistic, all that makes demands upon men, that hurts them and compels them to sacrifice themselves. To put this more positively: the future of the Church once again as always, will be reshaped by saints, by men, that is, whose minds probe deeper than the slogans of the day, who see more than others see, because their lives embrace a wider reality. Unselfishness, which makes men free, is attained only through the patience of small daily acts of self-denial. By this daily passion, which alone reveals to a man in how many ways he is enslaved by his own ego, by this daily passion and by it alone, a man's eyes are slowly opened."** (114)
 	- see "the magnificent exposition by [[Henri de Lubac]]: ["Holiness in Future"](https://github.com/mkudija/notes/blob/master/Holiness%20In%20Future%20by%20de%20Lubac.pdf) in *The Church: Paradox and Mystery*
 - "From the crisis of today the Church of tomorrow will emerge—a Church that has lost much. She will become small and will have to start afresh more or less from the beginning. She will no longer be able to inhabit many of the edifices she built in prosperity. As the number of her adherents diminishes, so will she lose many of her social privileges...As a small society, she will make much bigger demands on the initiative of her individual members." (116)
-- "Men in a totally planned world will find themselves unspeakably lonely. If they have completely lost sight of God, they will feel the whole horror of their poverty. Then they will discover the little flock of believers as something wholly new. They will discover it as a hope that is meant from them, and answer for which they have always been searching in secret." (118)
+- "Men in a totally planned world will find themselves unspeakably lonely. If they have completely lost sight of God, they will feel the whole horror of their poverty. Then they will discover the little flock of believers as something wholly new. They will discover it as a hope that is meant from them, and answer for which they have always been searching in secret." (118) ^c1bc2a
 - "And so it seems certain to me that the Church is facing very hard times. The real crisis has scarcely begun. We will have to count on terrific upheavals. But I am equally certain about what will remain at the end: not the Church of the political cult...but the Church of faith. She may well no longer be the dominant social power to the extent that she was until recently; but she will enjoy a fresh blossoming and be seen as man's home, where he will find life and hope beyond death." (118)
 
 

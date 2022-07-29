@@ -1,4 +1,15 @@
-
+---
+aliases: [Ironies of Faith]
+title: Ironies of Faith
+author: Anthony Esolen
+category: Religion
+publisher: Open Road Media
+total_page: 350
+cover_url: https://books.google.com/books/content?id=tktcAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2014
+isbn10: 1497635764
+isbn13: 9781497635760
+---
 # [*Ironies of Faith: The Laughter at the Heart of Christian Literature*](https://www.scribd.com/book/218529839/Ironies-of-Faith-The-Laughter-at-the-Heart-of-Christian-Literature) by [[Anthony Esolen]]
 
 <img src="https://imgv2-1-f.scribdassets.com/img/word_document/218529839/original/432x574/cfacba43b1/1617782548?v=1" width=150>
@@ -14,7 +25,7 @@
 
 ## Part Two: The Irony of Time
 6. ...
-7. *Confessions* by [[St. Augustine]]
+7. *[[~Confessions|Confessions]]* by [[St. Augustine]]
 8. *[[~The Divine Comedy]]* by [[Dante Alighieri]]
 9. *Tempest* by [[Shakespeare]]
 10. *[[~The Tolkien Reader#Leaf by Niggle]]* by [[J.R.R. Tolkien]]
@@ -34,137 +45,12 @@
 
 
 ## Part Five: The Mighty Child
-18. *[[2014-12-20-The Brothers Karamazov]]* by [[Fyodor Dostoevsky]]
+18. *[[2014-12-20-The Brothers Karamazov|The Brothers Karamazov]]* by [[Fyodor Dostoevsky]]
 19. *A Christmas Carol* by [[Charles Dickens]]
 20. *Pearl*
 
-
-
-## Chapter 6:
-_**Summary**: _
-
-
-
-## Chapter 7:
-_**Summary**: _
-
-
-
-## Chapter 8:
-_**Summary**: _
-
-
-
-## Chapter 9:
-_**Summary**: _
-
-
-
-## Chapter 10:
-_**Summary**: _
-
-
-
-## Chapter 11:
-_**Summary**: _
-
-
-
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
-
 --- 
-**Source**: UA Library 2022-02-12
+**Source**: UA Library [[2022-02-12-Sat]]
 
 **Bibliography**
 

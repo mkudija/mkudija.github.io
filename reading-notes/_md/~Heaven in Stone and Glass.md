@@ -1,170 +1,23 @@
-
-# [*Heaven in Stone and Glass*]() by [[Bishop Barron]]
-
-<img src="" width=150>
-
-`(City: Publisher, YYYY), PPP`
-
-# Notes
-
-<details>
- <summary><i>Contents</i></summary>
-<!-- MarkdownTOC autolink="true" -->
-
-<!-- /MarkdownTOC -->
-</details>
-
-
-## Chapter 1:
-_**Summary**: _
-
-
-
-## Chapter 2:
-_**Summary**: _
-
-
-
-## Chapter 3:
-_**Summary**: _
-
-
-
-## Chapter 4:
-_**Summary**: _
-
-
-
-## Chapter 5:
-_**Summary**: _
-
-
-
-## Chapter 6:
-_**Summary**: _
-
-
-
-## Chapter 7:
-_**Summary**: _
-
-
-
-## Chapter 8:
-_**Summary**: _
-
-
-
-## Chapter 9:
-_**Summary**: _
-
-
-
-## Chapter 10:
-_**Summary**: _
-
-
-
-## Chapter 11:
-_**Summary**: _
-
-
-
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
+---
+aliases: [Heaven in Stone and Glass]
+title: Heaven in Stone and Glass
+author: Robert Barron
+category: Architecture
+publisher: Crossroad
+total_page: 128
+cover_url: https://books.google.com/books/content?id=wumfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1999
+isbn10: 
+isbn13:
+---
+# *[Heaven in Stone and Glass]()* by [[Bishop Barron|Robert Barron]]
+
+<img src="https://books.google.com/books/content?id=wumfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
+
+`(New York: Crossroad, 1999), 128`
 
 --- 
-**Topic**: [[Gothic Architecture]]
+**Topic**: [[Architecture]], [[Gothic Architecture]]
 
 **Source**: 
 

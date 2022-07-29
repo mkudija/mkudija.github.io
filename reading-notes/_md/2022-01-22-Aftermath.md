@@ -1,4 +1,15 @@
-
+---
+aliases: [Aftermath]
+title: Aftermath
+author: James Rickards
+category: Business & Economics
+publisher: Penguin
+total_page: 336
+cover_url: https://books.google.com/books/content?id=rEGfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2019
+isbn10: 0735216959
+isbn13: 9780735216952
+---
 # [*Aftermath: Seven Secrets of Wealth Preservation in the Coming Chaos*](https://www.penguinrandomhouse.com/books/554830/aftermath-by-james-rickards/) by [[James Rickards]]
 
 <img src="https://images3.penguinrandomhouse.com/cover/9780735216952" width=150>

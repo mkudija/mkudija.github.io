@@ -1,3 +1,6 @@
+---
+aliases: [The Imitation of Christ]
+---
 
 # [*The Imitation of Christ*]() by [[Thomas à Kempis]]
 

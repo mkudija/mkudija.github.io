@@ -1,10 +1,23 @@
-# *Modern Physics and Ancient Faith* by Stephen M. Barr
-2018-02-19
+---
+aliases: [Modern Physics and Ancient Faith]
+title: Modern Physics and Ancient Faith
+author: Stephen M. Barr
+category: Religion
+publisher: University of Notre Dame Pess
+total_page: 328
+cover_url: https://books.google.com/books/content?id=A1cFDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2003
+isbn10: 0268158053
+isbn13: 9780268158057
+---
+# *[Modern Physics and Ancient Faith]()* by [[Stephen M. Barr]]
 
-*Read in preparation for a lecture at U. Cincinnati that I was unable to attend.*
+<img src="https://books.google.com/books/content?id=A1cFDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: University of Notre Dame Pess, 2003), 328`
 
 
-# Part I: The Conflict between Religion and Materialism (Introduction)
+# Part I: The Conflict between Religion and [[Materialism]] (Introduction)
 ## Chapter 1: Religion and Materialism
 - the battle is not between religion and science, but between religion and materialism (1)
 - this chapter gives an overview of the materialist's position
@@ -13,20 +26,20 @@
 - continues to summarize the materialist's position and show the extent to which is relies on a faith of its own
 - separation of realms between the natural and supernatural
 - discussion of mystery (14+)
-  - "A religious 'mystery' is not a statement that reality is in itself unintelligible. On the contrary, belief in God is bound up with the idea that reality is *completely* rational and intelligibile. This is akin to the scientist's faih that his own questions about the natural world have rational and intelligible answers. This attitude of the scientist is *also* a form of faith, for the scientist is convinced in advance that the intelligible answer exists, even though he is not yet in posession of it." (14)
+  - "A religious 'mystery' is not a statement that reality is in itself unintelligible. On the contrary, belief in God is bound up with the idea that reality is *completely* rational and intelligible. This is akin to the scientist's faith that his own questions about the natural world have rational and intelligible answers. This attitude of the scientist is *also* a form of faith, for the scientist is convinced in advance that the intelligible answer exists, even though he is not yet in possession of it." (14)
 
 ## Chapter 3: Scientific Materialism and Nature
 - discusses the scientific materialist's view on nature, and responds
 - provides a summary of the book:
   1. Big Bang and the beginning of time (chapters 4-8)
   2. The Argument from Design (chapters 9-13)
-  3. Anthropic Coinciences (chapters 14-18)
+  3. Anthropic Coincidences (chapters 14-18)
   4. Is the mind a computer? (chapters 19-23)
   5. Free will, determinism, and quantum mechanics (chapters 24-26)
 
 He concludes this chapter with two great anecdotes about intellectual discovery:
-- "G. K. Chesterton once compared his own intellectual development to the voyage of an English yachtsman 'who slightly miscalculated his course and discovered England under the impression that is was a new island in the South Seas.' The Yachtsman of his story 'landed (armed to the teeth and talking by signs) to plant the Bitish flag on that barbaric temple which turned out to be the Pavilion at Brighton.'" (28)
-- "We shall not cease from exploration and the end of all our exploring will be to arrive where we started and know the place for the first time." - T.S. Eliot, "Little Gidding"
+- "[[G.K. Chesterton]] (in *[[2014-10-06-Orthodoxy|Orthodoxy]]*) once compared his own intellectual development to the voyage of an English yachtsman 'who slightly miscalculated his course and discovered England under the impression that is was a new island in the South Seas.' The Yachtsman of his story 'landed (armed to the teeth and talking by signs) to plant the British flag on that barbaric temple which turned out to be the Pavilion at Brighton.'" (28)
+- "We shall not cease from exploration and the end of all our exploring will be to arrive where we started and know the place for the first time." - [[T. S. Eliot]], *[[~Four Quartets|Four Quartets]], *"Little Gidding"
 
 # Part II: In the Beginning
 ## Chapter 4: The Expectations
@@ -129,12 +142,28 @@ He concludes this chapter with two great anecdotes about intellectual discovery:
 
 ## Chapter 25: Alternatives to Traditional Quantum Theory
 ### Modifying Quantum Theory
-### Reintepreting Quantum Theory: The "Many-Worlds" Idea
+### Reinterpreting Quantum Theory: The "Many-Worlds" Idea
 
-## Chapter 26: Is a Pettern Emerging?
+## Chapter 26: Is a Pattern Emerging?
 
 
-# New Words
-- **apodictic** (16): clearly established or beyond dispute
+--- 
+**Topic**: [[Faith and Science]]
 
+**Source**: Read in preparation for a lecture at U. Cincinnati that I was unable to attend.
+
+**Bibliography**
+
+```query
+[[bib]] file:(2018-02-19-Modern Physics and Ancient Faith)
+```
+ 
+
+**New Words**
+
+- **apodictic**: clearly established or beyond dispute (16)
+
+---
+Created: 2018-02-19
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
 

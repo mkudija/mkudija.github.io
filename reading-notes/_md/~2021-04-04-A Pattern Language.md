@@ -12,7 +12,7 @@ isbn13: 9780190050351
 ---
 # [*A Pattern Language: Towns, Buildings, Construction*](https://global.oup.com/academic/product/a-pattern-language-9780195019193) by [[Christopher Alexander]], Sara Ishikawa, and Murray Silverstein
 
-<img src="https://books.google.com/books/content?id=FTpxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://global.oup.com/academic/covers/pdp/9780195019193" width=150>
 
 `(New York: Oxford University Press, 1977), 1171`
 

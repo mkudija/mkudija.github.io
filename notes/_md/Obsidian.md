@@ -28,6 +28,7 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 - `![[Link]]` to fully transclude that note!
 - `[[Link]]` + `#` to reference a section
 - `[[Link]]` + `^` to reference a block
+- `[[^^...]]` to reference blocks across the vault (regardless of note)
 
 ## Plugins
 *These are some of the plugins I use, ordered approximately by frequency or importance of use.*
@@ -41,11 +42,11 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 
 ### [Templater](https://github.com/SilentVoid13/Templater)
 - [[Templater-Ben Newton Daily Note Template]]
+	- Ben Newton's [daily note template](https://gist.githubusercontent.com/bennewton999/62b4a034445a24532591bc4c55a52cf5/raw/83cb9636f00f724042905774f5bbb2def5331ee8/dailyNoteTemplate.txt) ([email 2021-08-17](https://mail.google.com/mail/u/0/?pli=1#inbox/KtbxLwghgcJtBxGpfJmfkQBDQmfMfcMmgq))
 - [[Templater-Created & Updated]]
-- [[Templater-Person]]
+- [[Templater-Person-Detailed]]
 - [[Templater-Aliases]]
 - [Docs](https://silentvoid13.github.io/Templater/)
-- Ben Newton's [daily note template](https://gist.githubusercontent.com/bennewton999/62b4a034445a24532591bc4c55a52cf5/raw/83cb9636f00f724042905774f5bbb2def5331ee8/dailyNoteTemplate.txt) ([email 2021-08-17](https://mail.google.com/mail/u/0/?pli=1#inbox/KtbxLwghgcJtBxGpfJmfkQBDQmfMfcMmgq))
 
 ### [obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin)
 - Paired with the Todoist browser plugin, this forms part of my capture from email to Obsidian: emails are batch processed and tasks and consume later are moved to Obsidian with the plugin
@@ -104,10 +105,13 @@ df=pd.read_html('https://en.wikipedia.org/wiki/List_of_Catholic_saints')
 print(df[2].head())
 ```
 
+### [obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) (auto-complete)
+
 ### Plugins to try out?
 - [obsidian-query-language](https://github.com/jplattel/obsidian-query-language), can control order of search ([link](https://canburaks.gitbook.io/webmeister-s-wiki/code/apps-api/obsidian/obsidian-search))
 - [Fleeting Notes | A scratchpad for connected notes](https://fleetingnotes.app/)
 - [How to Create a BookShelf To Track Books in Obsidian | by Prakash Joshi Pax | May, 2022 | Medium](https://beingpax.medium.com/how-to-create-a-bookshelf-to-track-books-in-obsidian-f5130555be44)
+- 
 
 
 ## Obsidian Publish
@@ -163,4 +167,4 @@ Obsidian
 - [Linking Your Thinking Resources](https://forum.obsidian.md/t/linking-your-thinking-resources/6177)
 - [Andy Matuschak Notes](https://notes.andymatuschak.org/About_these_notes)
 - [Jamie Todd Rubin](https://www.jamierubin.net/2021/01/31/notes-with-obsidian-my-initial-impressions/) (has lots of Obsidian commentary)
-- [ ] finish #watch for meta templater for all categories of article/book/etc. [3 Amazing Obsidian Plugins [[DataView]], [[Outliner]], & [[Templater]] - YouTube](https://youtu.be/2234DXKbNgM?t=2935)
+- [ ] finish #watch (1 hr) for meta templater for all categories of article/book/etc. [3 Amazing Obsidian Plugins [[DataView]], [[Outliner]], & [[Templater]] - YouTube](https://youtu.be/2234DXKbNgM?t=2935)

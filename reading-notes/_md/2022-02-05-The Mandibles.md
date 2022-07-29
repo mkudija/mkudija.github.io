@@ -1,4 +1,15 @@
-
+---
+aliases: [The Mandibles]
+title: The Mandibles
+author: Lionel Shriver
+category: Fiction
+publisher: HarperCollins
+total_page: 432
+cover_url: https://books.google.com/books/content?id=mKzrCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2016
+isbn10: 0062328263
+isbn13: 9780062328267
+---
 # [*The Mandibles: A Family, 2029-2047*](https://www.harpercollins.com/products/the-mandibles-lionel-shriver) by [[Lionel Shriver]]
 
 <img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062328281.jpg" width=150>
@@ -6,7 +17,7 @@
 `(New York: HarperCollins, 2016), 432`
 
 [XKCD 512](https://xkcd.com/512/)
-<img src="https://imgs.xkcd.com/comics/alternate_currency.png">
+<img src="https://imgs.xkcd.com/comics/alternate_currency.png"> 
 
 - "The old man was liberal by creed, but she'd never met anyone with money who didn't have conservative *instincts*. One such instinct was to make the morally obvious (if fiscally inconvenient) seem terribly complicated." (11)
 - "As your father, I shouldn't be letting you in on this rather ugly fact of life, but people who follow the rules are almost always punished." (82)
@@ -36,7 +47,7 @@
 
 
 --- 
-**Source**: *[[2022-01-22-Aftermath]]*
+**Source**: *[[2022-01-22-Aftermath|Aftermath]]*
 
 ---
 Created: [[2022-02-05-Sat]]

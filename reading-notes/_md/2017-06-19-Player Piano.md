@@ -1,5 +1,20 @@
+---
+aliases: [Player Piano]
+title: Player Piano
+author: Kurt Vonnegut
+category: Dystopias
+publisher: 
+total_page: 320
+cover_url: 
+publish_date: 1973
+isbn10: 0440070376
+isbn13: 9780440070375
+---
+# *[Player Piano]()* by [[Kurt Vonnegut]]
 
-# Player Piano by Kurt Vonnegut
+<img src="https://books.google.com/books/content?id=vCmxARuaIFYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: , 1973), 320`
 
 * First Industrial Revolution devalued muscle work, then the second one devalued routine mental work. (pg. 14)
 * That would be the third revolution, I guess—machines that devaluate human thinking. Some of the big computers like EPICAC do that all right, in specialized fields.” “Uh-huh,” said Katharine thoughtfully. She rattled a pencil between her teeth. “First the muscle work, then the routine work, then, maybe, the real brainwork.” “I hope I’m not around long enough to see that final step. (pg. 15)
@@ -26,4 +41,14 @@
 * It was as though the giving or withholding of official recognition were life or death to ideas. (pg. 310)
 * step backward, after making a wrong turn, is a step in the right direction.” (pg. 312)
 * We’ll rediscover the two greatest wonders of the world, the human mind and hand.” (pg. 336)
+
+--- 
+**Topic**: [[Apocalyptic literature|Dystopian Fiction]]
+
+**Source**: [[Cory]]
+
+---
+Created: [[2021-03-06-Sat]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+
 

@@ -1,4 +1,15 @@
-
+---
+aliases: [The Cathedral Builders]
+title: The Cathedral Builders
+author: Jean Gimpel
+category: Architecture
+publisher: Perennial
+total_page: 163
+cover_url: https://books.google.com/books/content?id=yqVNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1983
+isbn10: 
+isbn13:
+---
 # [*The Cathedral Builders*](https://www.amazon.com/Cathedral-Builders-Harper-colophon-books/dp/0060911581) by [[Jean Gimpel]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61D8whmyiYL._SX338_BO1,204,203,200_.jpg" width=150>
@@ -100,13 +111,13 @@ Of course it is naive to idolize the past, and Medieval society was far from per
 - Religious weakness and waning faith, economic stagnation, the Hundred Years War all contributed to the end of the Cathedral era
 
 --- 
-**Topic**: [[Gothic Architecture]]
+**Topic**: [[Architecture]], [[Gothic Architecture]]
 
-**Source**: *[[2015-12-31-The Pillars of the Earth]]* and *[[2021-08-28-Notre Dame]]* by Ken Follett
+**Source**: *[[2015-12-31-The Pillars of the Earth|The Pillars of the Earth]]* and *[[2021-08-28-Notre Dame]]* by Ken Follett
 
 **Related Books**
 
-- *[[~Heaven in Stone and Glass]]* by [[Bishop Barron]]
+- *[[~Heaven in Stone and Glass|Heaven in Stone and Glass]]* by [[Bishop Barron]]
 - *The Medieval Machine* by [[Jean Gimpel]]
 
 **Bibliography**

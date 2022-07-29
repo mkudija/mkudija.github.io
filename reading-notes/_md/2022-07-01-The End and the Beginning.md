@@ -1,3 +1,15 @@
+---
+aliases: [The End and the Beginning]
+title: The End and the Beginning
+author: George Weigel
+category: Biography & Autobiography
+publisher: Image
+total_page: 590
+cover_url: https://books.google.com/books/content?id=1-YpAOF3kFsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2011
+isbn10: 0385524803
+isbn13: 9780385524803
+---
 # [*The End and the Beginning: Pope John Paul II—The Victory of Freedom, the Last Years, the Legacy*](https://www.amazon.com/End-Beginning-II-Victory-Freedom/dp/0385524803) by [[George Weigel]]
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469900l/7939034.jpg" width=150>

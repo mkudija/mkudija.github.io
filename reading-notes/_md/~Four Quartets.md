@@ -1,3 +1,6 @@
+---
+aliases: [Four Quartets]
+---
 
 # [*Four Quartets*]() by [[T. S. Eliot]]
 

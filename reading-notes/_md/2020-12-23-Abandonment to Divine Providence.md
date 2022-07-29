@@ -1,9 +1,9 @@
 # [*Abandonment to Divine Providence*](https://www.amazon.com/Abandonment-Divine-Providence-Jean-Pierre-Caussade/dp/0895552264/ref=sr_1_3?dchild=1&keywords=Jean+Pierre+de+Caussade&qid=1608746102&sr=8-3) by Jean Pierre de Caussade
 
-(New York: Doubleday, 1750, 1975), 119
+`(New York: Doubleday, 1750, 1975), 119`
 
 
-Fr. Raymund mentioned this the first time we had him over and then again and the guy's night I went to, and I have enjoyed reading it slowly and allowing it to be a point of prayer in my day. This reminds me a lot of *The Practice of the Presence of God*, and is a wonderful daily devotional also like *[[~The Imitation of Christ]]*. Abandonment is such a simple concept, and so full of meaning to unpack.
+[[Fr. Raymund]] mentioned this the first time we had him over and then again and the guy's night I went to, and I have enjoyed reading it slowly and allowing it to be a point of prayer in my day. This reminds me a lot of *The Practice of the Presence of God*, and is a wonderful daily devotional also like *[[~The Imitation of Christ]]*. Abandonment is such a simple concept, and so full of meaning to unpack.
 
 
 ## Introduction

@@ -1,9 +1,20 @@
-
+---
+aliases: [Ultralearning]
+title: Ultralearning
+author: Scott Young
+category: Business & Economics
+publisher: HarperCollins
+total_page: 304
+cover_url: https://books.google.com/books/content?id=jyV2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2019
+isbn10: 0062852744
+isbn13: 9780062852748
+---
 # [*Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [[Scott Young]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg" width=150>
 
-`(New York: Harper, 2019), 275`
+`(New York: HarperCollins, 2019), 304`
 
 Scott Young gives a tour of ultralearning projects (including his own) to outline nine principles of how to best pursue self-directed and intense ultralearing projects:
 
@@ -80,7 +91,7 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 
 ## Chapter 5: Focus
 **Summary**: *Cultivate (through small incremental wins) the ability to concentrate and schedule time for your learning*. 
-- Anti-procrastination crutches: get over just the first few minutes, pomodoro timer
+- Anti-procrastination crutches: get over just the first few minutes, Pomodoro timer
 - Sources of distraction: your environment, tasks and medium (avoid “reading hypnosis”), and your mind
 - Don’t worry about flow when learning
 
@@ -94,8 +105,8 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 	- Thorndike and Woodworth (1901) attacked the idea that the brain is a muscle and exercising it generally makes it better at all tasks: the ability to transfer is much narrower than we assume
 - Young’s hypothesis: there is more opportunity for transfer in a real environment because real environments have more similarities than fake academic environments (so if you are going to do something other than the thing you want to actually do, at least do something *real*)
 - The cognitive features of the skill you want to master and the way you practice it should be substantially similar
-- Learning directly is hard, but gives you a competitive advantage if you pursue it (cf. *[[2017-01-01-So Good They Can’t Ignore You]]*)
-- If you want to learn about something more abstract (example of military history), it’s helpful to set for yourself a deliverable like a paper (which I want to do on the topic of [[Feminism|Christian Feminism]]
+- Learning directly is hard, but gives you a competitive advantage if you pursue it (cf. *[[2017-01-01-So Good They Can’t Ignore You|So Good They Can’t Ignore You]]*)
+- If you want to learn about something more abstract (example of military history), it’s helpful to set for yourself a deliverable like a paper (which I want to do on the topic of [[Feminism|Christian Feminism]])
 - Strategies to be direct including: project-based learning (create something), immersive learning (language), "flight sim method" (approximate as closely as possible), and  “overkill method” (ensure your desired skill level is fully contained in the training set)
 - Direct practice also forces you to use the skills you actually need, rather than those that are related but not required (128 in chapter on retrieval)
   
@@ -133,14 +144,14 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 - Spacing: cramming doesn't work, spaced repetition is effective
 - Prodceduralization (making a skill automatic): more durable, so use for the core skills you want to retain, and it may be effective to proceduralize a few key skills rather than lighter learning on many skills
 - Over learning: go beyond the desired level of retention to make that easier to remember
-- Mnemonics: Rajveer Meena knows $\pi$  to 70,000 digits (!!)
+- Mnemonics: Rajveer Meena knows $\pi$ to 70,000 digits (!!)
 
 
 ## Chapter 11: Intuition: Dig Deep Before Building Up
 **Summary**: *Deep intuition is the core to true understanding and only comes with lots of practice and hard work*.
 - Richard Feynman  
 - Rule 1 - Don't give up on hard problems easily: "struggle timer" to push yourself 10 more minutes beyond the point you want to give up
-- Ruls 2 - Prove things to understand them (esp. by [[Writing]])
+- Rule 2 - Prove things to understand them (esp. by [[Writing]])
 - Rule 3 - Start with concrete example
 - Rule 4 - Don’t fool yourself: ask lots of questions, even if "dumb"
 - Feynman technique: on a piece of paper, explain the concept as you would when teaching it to someone
@@ -153,16 +164,16 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 
 
 --- 
-**Source**: audiobook perusing, also related to *The Only Skill that Matters* by Jonathan Levi
+**Source**: audiobook perusing, also related to *[[2022-07-26-The Only Skill that Matters|The Only Skill that Matters]]* by [[Jonathan Levi]]
 
 **Bibliography**
 
-- *Average is Over* by Tyler Cowen (27)
+- *Average is Over* by [[Tyler Cowen]] (27)
 - *The Unschooled Mind* by Howard Gardner (95)
 - *Autobiography* by Benjamin Franklin (107)
-- *Moonwalking with Einstein* by Joshua Foer (174)
+- *[[~Moonwalking with Einstein]]* by Joshua Foer (174)
 - *Raise a Genius!* by László Polgár (242)
 
 ---
-Created: 2021-09-09
+Created: [[2021-09-09-Thu]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
