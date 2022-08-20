@@ -17,6 +17,14 @@ publish: true
 
 # [[Woodworking]] Projects
 
+
+
+### 2022-08-07 Bishop Fernandes Shield
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-08-08-shield_Fernandes.jpg?raw=true" width="100%">
+
+
 ### 2022-07-09 Phone Rack
 *Walnut, birch plywood*
 

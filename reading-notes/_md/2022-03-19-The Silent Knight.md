@@ -52,6 +52,7 @@ isbn13: 9781644135747
 *Joseph, Universal Patron*, Guiseppe Rollini. Cited in *[[2022-03-19-The Silent Knight|The Silent Knight]]*, 175.
 
 ### St. Joseph and the Christ Child
+*tu eris super domum meam, you will be over my house*
 <img src="https://64.media.tumblr.com/6c521ee44eb2751d90c821b366477e60/aeecccf6707d6321-61/s1280x1920/29bc6aa61ec0af201b85e763e51daa2bbb0f65dd.jpg" width=100%>
 *St. Joseph and the Christ Child*, Francesco Grandi. Cited in *[[2022-03-19-The Silent Knight|The Silent Knight]]*, 179.
 

@@ -171,7 +171,7 @@ Scott Young gives a tour of ultralearning projects (including his own) to outlin
 - *Average is Over* by [[Tyler Cowen]] (27)
 - *The Unschooled Mind* by Howard Gardner (95)
 - *Autobiography* by Benjamin Franklin (107)
-- *[[~Moonwalking with Einstein]]* by Joshua Foer (174)
+- *[[~Moonwalking with Einstein|Moonwalking with Einstein]]* by Joshua Foer (174)
 - *Raise a Genius!* by László Polgár (242)
 
 ---

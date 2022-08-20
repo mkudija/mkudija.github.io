@@ -1,4 +1,15 @@
-
+---
+aliases: [Building a Bridge]
+title: Building a Bridge
+author: James Martin
+category: Religion
+publisher: HarperCollins
+total_page: 208
+cover_url: https://books.google.com/books/content?id=hKxLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2018
+isbn10: 006287344X
+isbn13: 9780062873446
+---
 # [*Building a Bridge: How the Catholic Church and the LGBT Community Can Enter into a Relationship of Respect, Compassion, and Sensitivity*](https://www.harpercollins.com/products/building-a-bridge-james-martin?variant=32117748236322) by [[James Martin, SJ]]
 
 <img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062837530.jpg?v=1641494022" width=150>
@@ -28,10 +39,10 @@
 - **Sensitivity**
 	- Jesus focused on *community* first, and *conversion* second (71)
 	- Sensitivity is based on encounter, accompaniment, and friendship (72)
-	- The CCC's use of "objectively disordered" seems unnecessarily cruel to many LGBT Catholics (74)
+	- The CCC's use of "objectively disordered" seems unnecessarily cruel to many LGBT Catholics (74) ^038312
 
 --- 
-[[Chastity]] and [[Homosexuality]] from the *[[~Catechism of the Catholic Church]]*:
+[[Chastity]] and [[Homosexuality]] from the *[[~Catechism of the Catholic Church|Catechism of the Catholic Church]]*:
 
 >**2357** Homosexuality refers to relations between men or between women who experience an exclusive or predominant sexual attraction toward persons of the same sex. It has taken a great variety of forms through the centuries and in different cultures. It psychological genesis remains largely unexplained. Basing itself on Sacred Scripture, which presents homosexual acts as acts of grave depravity (Cf. Genesis 19:1-29; Romans 1:24-27; 1 Corinthians 6:10; 1 Timothy 1:10), tradition has always declared that “**homosexual acts are intrinsically disordered**.” (Congregation for the Doctrine of the Faith, *Persona humana*, 8). They are contrary to the natural law. They close the sexual act to the gift of life. They do not proceed from a genuine affective and sexual complementarity. Under no circumstances can they be approved.  
 

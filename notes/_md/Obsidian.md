@@ -61,6 +61,9 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 
 ### [omnisearch](https://github.com/scambier/obsidian-omnisearch)
 
+### [quick-switcher++](https://github.com/darlal/obsidian-switcher-plus)
+- `⌘ + H` - search by heading
+
 ### [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian)
 
 ### [obsidian-excel-to-markdown-table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
@@ -168,3 +171,5 @@ Obsidian
 - [Andy Matuschak Notes](https://notes.andymatuschak.org/About_these_notes)
 - [Jamie Todd Rubin](https://www.jamierubin.net/2021/01/31/notes-with-obsidian-my-initial-impressions/) (has lots of Obsidian commentary)
 - [ ] finish #watch (1 hr) for meta templater for all categories of article/book/etc. [3 Amazing Obsidian Plugins [[DataView]], [[Outliner]], & [[Templater]] - YouTube](https://youtu.be/2234DXKbNgM?t=2935)
+- You can embed a webpage with an iframe:
+	- `<iframe height=500 width=100% src="http://geo-fs.com/geofs.php">`

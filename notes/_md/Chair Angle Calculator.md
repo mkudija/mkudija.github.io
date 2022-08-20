@@ -11,7 +11,11 @@ The legs of a chair are often angled from the vertical. The side-to-side and fro
 
 >If you know the rake and splay that you want for your legs, you can use trigonometry to convert that to sightlines and resultants. There are equations, tables and calculators out there to guide you on that math path. (155)
 
-A derivation is not provided, so I provide one here. Thanks to [Woodworking in a Tiny Shop](https://tinyshopww.blogspot.com/2020/05/resultant-and-sightline-angle-calculator.html) for providing his work which helped me catch an error in my first version.
+Schwartz cites [[Drew Langsner]]'s *[[~The Chairmaker's Workshop|The Chairmaker's Workshop]]* as giving the best description of sightlines and resultants. This book provides an overview of the method, the diagram below showing how these angles are laid out on a chair seat (from page 291), and tables of the computed sightline and resultant given the rake and splay which is helpful for checking my calculations below.
+
+<img src="https://raw.githubusercontent.com/mkudija/img/main/2022-07-06_chair-angles/sightline-resultant.jpg" width="100%">
+
+A derivation is not provided in either of these sources, so I provide one here. Thanks to [Woodworking in a Tiny Shop](https://tinyshopww.blogspot.com/2020/05/resultant-and-sightline-angle-calculator.html) for providing his solution which helped me catch an error in my first version.
 
 
 

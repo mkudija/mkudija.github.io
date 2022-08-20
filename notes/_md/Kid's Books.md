@@ -52,6 +52,7 @@ publish: true
 - *The Elephant’s Airplane and Other Machines* by Anne-Marie Dalmais
 - *Mike Milligan and his Steam Shovel* by Virginia Lee Burton
 - *The Velveteen Rabbit* by Margery Williams
+- *The Country Bunny and the Little Gold Shoes* by Du Bose Heyward
 - *The Fantastic Flying Books of Mr. Morris Lessmore* by William Joyce
 - *Hot-Air Henry* by Mary Calhoun
 - *Tacky the Penguin* by Helen Lester

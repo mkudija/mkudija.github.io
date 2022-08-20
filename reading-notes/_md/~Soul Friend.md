@@ -1,20 +1,21 @@
 ---
-aliases: [The Fulfillment of All Desire]
-title: The Fulfillment of All Desire
-author: Ralph Martin
-category: Spiritual life
-publisher: Emmaus Road Publishing
-total_page: 473
-cover_url: https://books.google.com/books/content?id=g1_s8xB9G4gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publish_date: 2005
-isbn10: 1931018367
-isbn13: 9781931018364
+aliases: [Soul Friend]
+title: Soul Friend
+author: Kenneth Leech
+category: Religion
+publisher: Harper San Francisco
+total_page: 250
+cover_url: https://books.google.com/books/content?id=7L5-ihLj4UcC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1980
+isbn10: 0060652144
+isbn13: 9780060652142
 ---
-# [*The Fulfillment of All Desire: A Guidebook for the Journey to God Based on the Wisdom of the Saints*](https://stpaulcenter.com/product/the-fulfillment-of-all-desire/) by [[Ralph Martin]]
+# *[Soul Friend: An Invitation to Spiritual Direction]()* by [[Kenneth Leech]]
 
-<img src="https://stpaulcenter.com/wp-content/uploads/2017/06/9781931018364.jpg" width=150>
+<img src="https://books.google.com/books/content?id=7L5-ihLj4UcC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(Steubenville: Emmaus Road Publishing, 2005), 473`
+`(New York: Harper San Francisco, 1980), 250`
+
 
 # Notes
 
@@ -25,10 +26,13 @@ isbn13: 9781931018364
 <!-- /MarkdownTOC -->
 </details>
 
-## Introduction
-*[Introduction Link](https://www.catholiceducation.org/en/religion-and-philosophy/spiritual-life/the-fulfillment-of-all-desire.html) (Catholic Education Resource Center)*
-- 
+## Introduction by [[Henri Nouwen]]
+- [[Spiritual Direction]] is at the core of Christian ministry, a "training program in prayer"
+	- Like [[Dante Alighieri|Dante]], we need a Beatrice
+- This has been influence recently by counseling and psychotherapy: Freud, Jung, Rogers, Frankl, Mays
 
+## Preface
+- "The spiritual director is first and foremost a *pneumatophoros*, a carrier, or vehicle, of the spirit"
 
 ## Chapter 1:
 _**Summary**: _
@@ -42,7 +46,7 @@ _**Summary**: _
 
 ## Chapter 3:
 _**Summary**: _
-- [[Phrases to use]]: ***Fiat voluntas tua** (your will be done)* (23)
+
 
 
 ## Chapter 4:
@@ -177,24 +181,23 @@ _**Summary**: _
 
 ## Chapter 30:
 _**Summary**: _
+
 --- 
-**Topic**: 
+**Topic**: [[Spiritual Direction]]
 
-**Source**
-- [[2022-03-26 Video-Bishop Barron and Fr. Mike Schmitz Interview (2021 Good News Conference)]]
-- [[2022-06-17 Video-Ralph Martin The State of the Church]]
-
+**Source**: 
 
 **Bibliography**
 
-- 
+```query
+[[bib]] file:(~Soul Friend)
+```
+ 
 
 **New Words**
 
 - 
 
 ---
-Created: [[2022-07-12-Tue]]
+Created: [[2022-07-29-Fri]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
-
-

@@ -99,7 +99,30 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <ul><br />
 <li>Set up iTerm2 shortcut keys: <a href="https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line#10485061">Link</a></li><br />
 </ul></li>
-<li><a href="https://www.jetbrains.com/pycharm/download/#section=mac">PyCharm</a></li>
+<li><a href="https://www.jetbrains.com/pycharm/download/#section=mac">PyCharm</a><br />
+<ul><br />
+<li><a href="https://black.readthedocs.io/en/stable/getting_started.html#installation">Black</a> code formatter setup in PyCharm:<br /><br />
+<ul><br /><br />
+<li>Install: <code>pip install black</code></li><br /><br />
+<li>Set up in PyCharm: PyCharm &gt; Preferences &gt; Tools &gt; External tools<br /><br /><br />
+<ul><br /><br /><br />
+<li>Name: <code>Black</code></li><br /><br /><br />
+<li>Description: <code>The uncompromising code formatter</code></li><br /><br /><br />
+<li>Program: <code>/Users/matthewkudija/.pyenv/versions/3.10.0/lib/python3.10/site-packages/black</code> (install in some base environment that won't get touched)</li><br /><br /><br />
+<li>Arguments: <code>"$FilePath$"</code></li><br /><br /><br />
+<li>Working Directory: <code>$ProjectFileDir$</code></li><br /><br /><br />
+</ul></li><br /><br />
+<li>Change Black file permissions (so PyCharm can execute it):<br /><br /><br />
+<ul><br /><br /><br />
+<li><code>chmod ugo+ x /Users/matthewkudija/.pyenv/versions/3.10.0/lib/python3.10/site-packages/black</code><br /><br /><br /><br />
+<ul><br /><br /><br /><br />
+<li>user, group, other, + x can execute </li><br /><br /><br /><br />
+</ul></li><br /><br /><br />
+</ul></li><br /><br />
+<li>Set up PyCharm shortcur: PyCharm &gt; Preferences &gt; Keymap &gt; shift + command + ;</li><br /><br />
+<li>Usage: </li><br /><br />
+</ul></li><br />
+</ul></li>
 <li><a href="https://www.sublimetext.com/download">Sublime text</a></li>
 <li><a href="https://pages.uoregon.edu/koch/texshop/obtaining.html">TexShop</a><br />
 <ul><br />
@@ -107,6 +130,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li>then download - <a href="https://pages.uoregon.edu/koch/texshop/texshop-64/texshop.zip">Latest TeXShop, Version 4.76</a> for Intel and Arm on Sierra and higher (55.6 MB)</li><br />
 </ul></li>
 <li><a href="https://fig.io/">Fig</a></li>
+<li>Flycut</li>
 <li>Python<br />
 <ul><br />
 <li>Install Homebrew<br /><br />
@@ -138,6 +162,14 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li><a href="Manage-pipenv-environments.html">Manage pipenv environments</a></li><br /><br />
 <li>install packages, i.e. <code>pip install pandas</code></li><br /><br />
 </ul></li><br />
+<li>Manage versions<br /><br />
+<ul><br /><br />
+<li><code>pyenv versions</code> - see available versions</li><br /><br />
+<li><code>pyenv install 3.10.0</code> - install version</li><br /><br />
+<li><code>pyenv shell &lt;version&gt;</code>- select version just for current shell session</li><br /><br />
+<li><code>pyenv local &lt;version&gt;</code>- automatically select whenever you are in the current directory (or its subdirectories)</li><br /><br />
+</ul></li><br />
+<li><code>pyenv global &lt;version&gt;</code>- select globally for your user account</li><br />
 </ul></li>
 <li>Old/other<br />
 <ul><br />
@@ -162,7 +194,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <hr />
 
 <p>Created: <a href="../reading-notes/2021-07-19-Mon.html">2021-07-19-Mon</a><br />
-Updated: 2022-07-16-Sat</p>
+Updated: 2022-08-15-Mon</p>
 
 
 </div>

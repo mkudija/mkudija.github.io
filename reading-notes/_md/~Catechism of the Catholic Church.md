@@ -1,5 +1,5 @@
 ---
-aliases: [CCC]
+aliases: [Catechism of the Catholic Church, CCC]
 ---
 
 # [*Catechism of the Catholic Church*](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)

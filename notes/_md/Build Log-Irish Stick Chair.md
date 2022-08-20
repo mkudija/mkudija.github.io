@@ -79,6 +79,7 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 - [[2022-07-05-Tue]] - 30 min trim and chisel armrest tenons
 - [[2022-07-09-Sat]] - 1 hr install pins, hand sand
 - [[2022-07-13-Wed]] - 1 hr finish
+- [[2022-08-06-Sat]] - 30 min glue front post
 
 
 ### Process Notes
@@ -132,6 +133,7 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 	- Cut armrest wedges/tenons proud; clean up with chisel
 - Hand sand with a 380 grid disc pad
 - Finish with Tried & True Original Traditionnel applied with an old t-shirt
+- On [[2022-08-06-Sat]] I realized that the right (when seated) front post was not glued into the seat! I was able to back it out most of the way, get some glue in there, tap it back in, and clamp it down.
 
 
 Joining the seat:

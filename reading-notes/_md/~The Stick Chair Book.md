@@ -1,4 +1,15 @@
-
+---
+aliases: [The Stick Chair Book]
+title: The Stick Chair Book
+author: Christopher Schwarz
+category: 
+publisher: 
+total_page: 
+cover_url: 
+publish_date: 2021
+isbn10: 1954697031
+isbn13: 9781954697034
+---
 # [*The Stick Chair Book*](https://lostartpress.com/products/the-stick-chair-book) by [[Christopher Schwarz]]
 
 <img src="https://cdn.shopify.com/s/files/1/0306/3197/products/SCB_cover_whitebackgroundIMG_0905_1728x.jpg?v=1636639107" width=150>
@@ -91,7 +102,7 @@ I used the [PDF Excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/0
 
 ## Leg-to-Seat Joinery 
 - **Rake** (front to back) and **Splay** (side to side)
-- ref *The Chairmaker's Workshop* by Drew Langsner [[bib]] for **sightlines** and **resultant angles** (150) 
+- ref *[[~The Chairmaker's Workshop|The Chairmaker's Workshop]]* by Drew Langsner [[bib]] for **sightlines** and **resultant angles** (150) 
 - Most vernacular chairs have cylindrical mortises and cylindrical tenons rather than tapered ones (158)
 - Tapered mortises and tenons have the advantage of being more forgiving to cut, you can correct the angle while reaming (161)
 
