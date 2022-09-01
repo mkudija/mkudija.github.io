@@ -41,19 +41,19 @@ publish: true
 - [iTerm2](https://iterm2.com/downloads.html)
 	- Set up iTerm2 shortcut keys: [Link](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line#10485061)
 - [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac)
-	- [Black](https://black.readthedocs.io/en/stable/getting_started.html#installation) code formatter setup in PyCharm:
+	- [Black](https://black.readthedocs.io/en/stable/getting_started.html#installation) code formatter setup in PyCharm: ^573833
 		- Install: `pip install black`
-		- Set up in PyCharm: PyCharm > Preferences > Tools > External tools
+		- Set up in PyCharm ([Black docs](https://black.readthedocs.io/en/stable/integrations/editors.html#pycharm-intellij-idea)): PyCharm > Preferences > Tools > External tools
 			- Name: `Black`
 			- Description: `The uncompromising code formatter`
 			- Program: `/Users/matthewkudija/.pyenv/versions/3.10.0/lib/python3.10/site-packages/black` (install in some base environment that won't get touched)
 			- Arguments: `"$FilePath$"`
 			- Working Directory: `$ProjectFileDir$`
 		- Change Black file permissions (so PyCharm can execute it):
-			- `chmod ugo+ x /Users/matthewkudija/.pyenv/versions/3.10.0/lib/python3.10/site-packages/black`
+			- `chmod ugo+x /Users/matthewkudija/.pyenv/versions/3.10.0/lib/python3.10/site-packages/black`
 				- user, group, other, + x can execute 
-		- Set up PyCharm shortcur: PyCharm > Preferences > Keymap > shift + command + ;
-		- Usage: 
+		- Set up PyCharm shortcut: PyCharm > Preferences > Keymap > `shift + command + ;`
+		- Usage: `black <path_to_file>`
 - [Sublime text](https://www.sublimetext.com/download)
 - [TexShop](https://pages.uoregon.edu/koch/texshop/obtaining.html)
 	- requires [MacTeX - TeX Users Group](https://tug.org/mactex/mactex-download.html) (`MacTeX.pkg`, did not work with basic version)

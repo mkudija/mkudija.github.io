@@ -1,4 +1,5 @@
 # [*The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965*](https://www.amazon.com/Last-Lion-Churchill-Defender-1940-1965/dp/0345548639/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=defender+of+the+realm&qid=1603129875&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) by [[William Manchester]]
+*[[~The Last Lion|The Last Lion]]*
 
 `(New York: Little, Brown, and Company, 2012), 1053`
 

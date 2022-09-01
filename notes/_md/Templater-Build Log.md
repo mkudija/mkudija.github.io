@@ -4,7 +4,7 @@ publish: true
 
 *Back to [[Woodworking Projects]]*
 
-# Build Log: 
+# <%* tR += title %>
 <img src="https://raw.githubusercontent.com/mkudija/img/main/" width="100%">
 
 ## Summary

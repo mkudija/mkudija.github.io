@@ -1,6 +1,6 @@
 
 # *The Fellowship of the Ring* by [[J.R.R. Tolkien]]
-*[[~The Lord of the Rings]]*
+*[[~The Lord of the Rings|The Lord of the Rings]]*
 
 >One Ring to rule the mall, One Ring to find them,
 >One Ring to bring the mall and in the darkness bind them

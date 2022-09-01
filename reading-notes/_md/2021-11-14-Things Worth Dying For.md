@@ -129,7 +129,7 @@
 - *The Warriors: Reflections on Men in Battle* by J. Glenn Gray (97)
 - *We* by Yevgeny Zamyatin (115)
 - *The Church and Totalitarian Democracy* John Courtney Murray (118)
-- *The Drama of Atheist Humanism* by [[Henri de Lubac]] (121)
+- *[[~The Drama of Atheist Humanism|The Drama of Atheist Humanism]]* by [[Henri de Lubac]] (121)
 - *The Old Regime and the Revolution*  by [[Alexis de Tocqueville]] (121)
 - *[[~Democracy in America]]* by [[Alexis de Tocqueville]] (148)
 - *Domo Deus* by [[Yuval Noah Harari]] (129)

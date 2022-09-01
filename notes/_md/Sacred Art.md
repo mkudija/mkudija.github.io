@@ -109,6 +109,15 @@ publish: true
 <img src="https://cdn.whereyartworks.com/original/Joan_Full_Color_2020-02-03-18-19-02.jpg" width=100%>
 [*Joan of Arc with Battle Standard*](https://whereyartworks.com/shop/saegan-swanson-joan-of-arc-with-battle-standard/7340) (2019), Saegan Swanson (American), Oil on canvas, private collection.
 
+### Advent
+
+<img src="https://static.wixstatic.com/media/2ed4e0_be1fe801576743c0a01ce61ebb132b9c~mv2_d_6175_8575_s_4_2.jpg" width=100%>
+[*Advent*](https://www.amberknorrart.com/portfolio?pgid=k98tmsym-39acbda7-6297-4d7c-9157-771cf41b0a44) (2017), Amber Knorr (American), Oil on canvas, private collection.
+
+### Home
+
+<img src="https://www.visualgrace.org/wp-content/uploads/2018/04/Hearts_final-6_logoweb.jpg" width=100%>
+[*Home*]([HOME | Visual Grace (Kate Capato)](https://www.visualgrace.org/portfolio-item/home/)), Kate Capato (American), Oil on linen, private collection.
 
 
 ### [[2022-03-19-The Silent Knight#Favorite St Joseph Art|Favorite St Joseph Art]]
@@ -118,6 +127,7 @@ publish: true
 - [Blair Barlow](https://www.blairbarlowart.com/sacredart)
 - [The Modern Saints by Gracie](https://www.themodernsaints.com/)
 - [Kate Scimeca](https://www.katescimecaart.com/shop)
+- [Amber Knorr](https://www.amberknorrart.com/portfolio)
 
 ---
 Created: [[2021-07-29-Thu]]

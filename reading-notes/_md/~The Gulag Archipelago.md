@@ -1,4 +1,15 @@
-
+---
+aliases: [The Gulag Archipelago]
+title: The Gulag Archipelago 1918-1956 Abridged
+author: Aleksandr I. Solzhenitsyn
+category: Biography & Autobiography
+publisher: Harper Perennial Modern Classics
+total_page: 528
+cover_url: https://books.google.com/books/content?id=T8XTswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2007
+isbn10: 0061253804
+isbn13: 9780061253805
+---
 # [*The Gulag Archipelago*](https://www.harpercollins.com/products/the-gulag-archipelago-aleksandr-i-solzhenitsyn?variant=39307360632866) by [[Aleksandr Solzhenitsyn]]
 *translated by Thomas P. Whitney and Harry Willetts, abridged by Edward E. Ericson Jr.*
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Gulag_Archipelago.jpg" width=150>

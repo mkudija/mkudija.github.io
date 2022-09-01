@@ -19,6 +19,12 @@ publish: true
 
 
 
+### [[Build Log-Travel Map|2022-08-22 Travel Map]]
+### 2022-08-22 Travel Map
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-08-22-travel-map.jpg?raw=true" width="100%">
+
+
 ### 2022-08-07 Bishop Fernandes Shield
 *Walnut*
 

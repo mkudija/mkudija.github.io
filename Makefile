@@ -5,6 +5,7 @@ help:
 	@echo 'Makefile to update matthewkudija.com                                      '
 	@echo '                                                                          '
 	@echo 'Commands:                                                                 '
+	@echo '   make notes               update notes                                  '
 	@echo '   make readNotes           update reading notes                          '
 	@echo '   make read                update reading log                            '
 	@echo '   make build               readNotes and read                            '
@@ -15,6 +16,9 @@ read:
 
 readNotes:
 	cd reading-notes/_build; python _build.py
+
+notes:
+	cd notes/_build; python _build.py
 
 build:
 	cd notes/_build; python _build.py

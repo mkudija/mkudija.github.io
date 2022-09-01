@@ -78,7 +78,8 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li><code>!&lt;a href="Link.html"&gt;Link&lt;/a&gt;</code> to fully transclude that note!</li>
 <li><code>&lt;a href="Link.html"&gt;Link&lt;/a&gt;</code> + <code>#</code> to reference a section</li>
 <li><code>&lt;a href="Link.html"&gt;Link&lt;/a&gt;</code> + <code>^</code> to reference a block</li>
-<li><code>&lt;a href="^^....html"&gt;^^...&lt;/a&gt;</code> to reference blocks across the vault (regardless of note)</li>
+<li><code>##...</code> to reference headers across the vault (regardless of note)</li>
+<li><code>^^...</code> to reference blocks across the vault (regardless of note)</li>
 </ul>
 
 <h2 id="plugins">Plugins</h2>
@@ -100,13 +101,13 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <h3 id="templaterhttpsgithubcomsilentvoid13templater"><a href="https://github.com/SilentVoid13/Templater">Templater</a></h3>
 
 <ul>
-<li><a href="Templater-Ben-Newton-Daily-Note-Template.html">Templater-Ben Newton Daily Note Template</a><br />
+<li>Templater-Ben Newton Daily Note Template<br />
 <ul><br />
 <li>Ben Newton's <a href="https://gist.githubusercontent.com/bennewton999/62b4a034445a24532591bc4c55a52cf5/raw/83cb9636f00f724042905774f5bbb2def5331ee8/dailyNoteTemplate.txt">daily note template</a> (<a href="https://mail.google.com/mail/u/0/?pli=1#inbox/KtbxLwghgcJtBxGpfJmfkQBDQmfMfcMmgq">email 2021-08-17</a>)</li><br />
 </ul></li>
-<li><a href="Templater-Created-&amp;-Updated.html">Templater-Created &amp; Updated</a></li>
-<li><a href="Templater-Person-Detailed.html">Templater-Person-Detailed</a></li>
-<li><a href="Templater-Aliases.html">Templater-Aliases</a></li>
+<li>Templater-Created &amp; Updated</li>
+<li>Templater-Person-Detailed</li>
+<li>Templater-Aliases</li>
 <li><a href="https://silentvoid13.github.io/Templater/">Docs</a></li>
 </ul>
 
@@ -127,7 +128,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <h3 id="obsidian-book-search-pluginhttpsgithubcomanpigonobsidian-book-search-plugin"><a href="https://github.com/anpigon/obsidian-book-search-plugin">obsidian-book-search-plugin</a></h3>
 
 <ul>
-<li>Starting <a href="../reading-notes/2022-07-15-Fri.html">2022-07-15-Fri</a> this is how I populate metadata for my <a href="→About-My-Reading-Notes.html">Reading Notes</a></li>
+<li>Starting 2022-07-15-Fri this is how I populate metadata for my →About My Reading Notes|Reading Notes</li>
 </ul>
 
 <h3 id="omnisearchhttpsgithubcomscambierobsidian-omnisearch"><a href="https://github.com/scambier/obsidian-omnisearch">omnisearch</a></h3>
@@ -142,6 +143,12 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <h3 id="obsidian-excel-to-markdown-tablehttpsgithubcomganesshkumarobsidian-excel-to-markdown-table"><a href="https://github.com/ganesshkumar/obsidian-excel-to-markdown-table">obsidian-excel-to-markdown-table</a></h3>
 
+<h3 id="meld-calchttpsgithubcommeld-cpobsidian-calc"><a href="https://github.com/meld-cp/obsidian-calc">meld-calc</a></h3>
+
+<ul>
+<li><code>⌘ + ⇧ + C</code> - evaluate expression (ending in "="</li>
+</ul>
+
 <h3 id="obsidian-dataviewhttpsgithubcomblacksmithguobsidian-dataview"><a href="https://github.com/blacksmithgu/obsidian-dataview">obsidian-dataview</a></h3>
 
 <ul>
@@ -149,7 +156,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 </ul>
 
 <pre><code>
-dv.taskList(dv.pages().file.tasks.where(t =&gt; !t.completed &amp;&amp; t.text.includes("&lt;a href="Dana.html"&gt;Dana&lt;/a&gt;")))
+dv.taskList(dv.pages().file.tasks.where(t =&gt; !t.completed &amp;&amp; t.text.includes("Dana")))
 </code></pre>
 
 <p>Last updated:</p>
@@ -189,13 +196,14 @@ print(df[2].head())
 
 <ul>
 <li><a href="https://github.com/jplattel/obsidian-query-language">obsidian-query-language</a>, can control order of search (<a href="https://canburaks.gitbook.io/webmeister-s-wiki/code/apps-api/obsidian/obsidian-search">link</a>)</li>
-<li><a href="https://fleetingnotes.app/">Fleeting Notes | A scratchpad for connected notes</a><br />
-<h2 id="-how-to-create-a-bookshelf-to-track-books-in-obsidian-by-prakash-joshi-pax-may-2022-mediumhttpsbeingpaxmediumcomhow-to-create-a-bookshelf-to-track-books-in-obsidian-f5130555be44">- <a href="https://beingpax.medium.com/how-to-create-a-bookshelf-to-track-books-in-obsidian-f5130555be44">How to Create a BookShelf To Track Books in Obsidian | by Prakash Joshi Pax | May, 2022 | Medium</a></h2></li>
+<li><a href="https://fleetingnotes.app/">Fleeting Notes | A scratchpad for connected notes</a></li>
+<li><a href="https://beingpax.medium.com/how-to-create-a-bookshelf-to-track-books-in-obsidian-f5130555be44">How to Create a BookShelf To Track Books in Obsidian | by Prakash Joshi Pax | May, 2022 | Medium</a></li>
+<li><a href="https://tfthacker.medium.com/dashboard-a-simple-organization-and-navigation-method-for-obsidian-vaults-2b1982d023a0">Dashboard ++</a></li>
 </ul>
 
 <h2 id="obsidian-publish">Obsidian Publish</h2>
 
-<p><a href="https://obsidian.md/publish">Obsidian Publish</a> is a paid service to publish part of your vault online. I use my own pair of scripts for <a href="https://github.com/mkudija/mkudija.github.io/blob/master/notes/_build/_build.py">notes</a> and <a href="https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_build/_build.py">reading notes</a> to publish from my vault with limited functionality, and I am tracking <a href="Obsidian-Publish-Alternatives.html">Obsidian Publish Alternatives</a> with an eye toward adding more functionality in the future.</p>
+<p><a href="https://obsidian.md/publish">Obsidian Publish</a> is a paid service to publish part of your vault online. I use my own pair of scripts for <a href="https://github.com/mkudija/mkudija.github.io/blob/master/notes/_build/_build.py">notes</a> and <a href="https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_build/_build.py">reading notes</a> to publish from my vault with limited functionality, and I am tracking Obsidian Publish Alternatives with an eye toward adding more functionality in the future.</p>
 
 <h2 id="callouts">Callouts</h2>
 
@@ -264,7 +272,7 @@ print(df[2].head())
 <li><a href="https://forum.obsidian.md/t/linking-your-thinking-resources/6177">Linking Your Thinking Resources</a></li>
 <li><a href="https://notes.andymatuschak.org/About_these_notes">Andy Matuschak Notes</a></li>
 <li><a href="https://www.jamierubin.net/2021/01/31/notes-with-obsidian-my-initial-impressions/">Jamie Todd Rubin</a> (has lots of Obsidian commentary)</li>
-<li>[ ] finish #watch (1 hr) for meta templater for all categories of article/book/etc. <a href="https://youtu.be/2234DXKbNgM?t=2935">3 Amazing Obsidian Plugins &lt;a href=&quot;DataView.html&quot;&gt;DataView&lt;/a&gt;, &lt;a href=&quot;Outliner.html&quot;&gt;Outliner&lt;/a&gt;, &amp; &lt;a href=&quot;Templater.html&quot;&gt;Templater&lt;/a&gt; - YouTube</a></li>
+<li>[ ] finish #watch (1 hr) for meta templater for all categories of article/book/etc. <a href="https://youtu.be/2234DXKbNgM?t=2935">3 Amazing Obsidian Plugins DataView, Outliner, &amp; Templater - YouTube</a></li>
 <li>You can embed a webpage with an iframe:<br />
 <ul><br />
 <li><code>&lt;iframe height=500 width=100% src="http://geo-fs.com/geofs.php"&gt;</code></li><br />

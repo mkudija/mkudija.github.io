@@ -28,6 +28,7 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 - `![[Link]]` to fully transclude that note!
 - `[[Link]]` + `#` to reference a section
 - `[[Link]]` + `^` to reference a block
+- `[[##...]]` to reference headers across the vault (regardless of note)
 - `[[^^...]]` to reference blocks across the vault (regardless of note)
 
 ## Plugins
@@ -67,6 +68,9 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 ### [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian)
 
 ### [obsidian-excel-to-markdown-table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
+
+### [meld-calc](https://github.com/meld-cp/obsidian-calc)
+- `⌘ + ⇧ + C` - evaluate expression (ending in "="
 
 ### [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - Dataview query on each person's page for next meeting (from [here](https://medium.com/@benenewton/how-i-use-obsidian-to-track-topics-for-my-one-on-one-meetings-35b1907526ff))
@@ -114,7 +118,7 @@ print(df[2].head())
 - [obsidian-query-language](https://github.com/jplattel/obsidian-query-language), can control order of search ([link](https://canburaks.gitbook.io/webmeister-s-wiki/code/apps-api/obsidian/obsidian-search))
 - [Fleeting Notes | A scratchpad for connected notes](https://fleetingnotes.app/)
 - [How to Create a BookShelf To Track Books in Obsidian | by Prakash Joshi Pax | May, 2022 | Medium](https://beingpax.medium.com/how-to-create-a-bookshelf-to-track-books-in-obsidian-f5130555be44)
-- 
+- [Dashboard ++](https://tfthacker.medium.com/dashboard-a-simple-organization-and-navigation-method-for-obsidian-vaults-2b1982d023a0)
 
 
 ## Obsidian Publish

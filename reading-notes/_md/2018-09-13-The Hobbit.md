@@ -2,10 +2,12 @@
 
 `(New York: Houghton Mifflin, 1937), 300`
 
+*second page reference from 2012 Del Rey Mass Market Edition*
+
 ## Some of my favorite quotes from *The Hobbit*
-- “Good Morning!” said Bilbo, and he meant it. The sun was shining, and the grass was very green. But Gandalf looked at him from under long bushy eyebrows that stuck out further than the brim of his shady hat. “What do you mean?” he said. “Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?” “All of them at once,” said Bilbo. (Page: 2)
-- We are plain quiet folk and have no use for adventures. Nasty disturbing uncomfortable things! Make you late for dinner! (Page: 3)
-- He liked visitors, but he liked to know them before they arrived, and he preferred to ask them himself. (Page: 5)
+- “Good Morning!” said Bilbo, and he meant it. The sun was shining, and the grass was very green. But Gandalf looked at him from under long bushy eyebrows that stuck out further than the brim of his shady hat. “What do you mean?” he said. “Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?” “All of them at once,” said Bilbo. (Page: 2, 4)
+- We are plain quiet folk and have no use for adventures. Nasty disturbing uncomfortable things! Make you late for dinner! (Page: 3, 4)
+- He liked visitors, but he liked to know them before they arrived, and he preferred to ask them himself. (Page: 5, 8)
 - As they sang the hobbit felt the love of beautiful things made by hands and by cunning and by magic moving through him, a fierce and a jealous love, the desire of the hearts of dwarves. (Page: 11)
 - He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul’s head clean off with a wooden club. It sailed a hundred yards through the air and went down a rabbit-hole, and in this way the battle was won and the game of Golf invented at the same moment. (Page: 13)
 - There is a lot more in him than you guess, and a deal more than he has any idea of himself. (Page: 14)

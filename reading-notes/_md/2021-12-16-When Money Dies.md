@@ -13,7 +13,7 @@ Inflation is not the only part of the story, but does indeed play a central role
 
 In many ways [[World War I]] and [[World War II]] were part of the same unresolved conflict, and Germany's inflation is a chain that binds them together. Indeed it is difficult to imagine the the rise of Hitler and the Holocaust in an alternate history with sound money and reasonable monetary policy. Inflation aggravates all evils and is a principal agent of moral decay.
 
-When reading about Chamberlain in *[[2020-10-19-Last Lion—Defender of the Realm]]* it is difficult to not feel a great sadness at how easily the calamity of [[World War II]] could have been averted. One leaves a reading of *When Money Dies* with a similar feeling about Havenstein's monetary policy and Poincaré's vengeance.
+When reading about Chamberlain in *[[2020-10-19-Defender of the Realm]]* it is difficult to not feel a great sadness at how easily the calamity of [[World War II]] could have been averted. One leaves a reading of *When Money Dies* with a similar feeling about Havenstein's monetary policy and Poincaré's vengeance.
 
 # Notes
 

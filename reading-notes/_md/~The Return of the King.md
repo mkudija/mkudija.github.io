@@ -1,6 +1,6 @@
 
 # *The Return of the King* by [[J.R.R. Tolkien]]
-*[[~The Lord of the Rings]]*
+*[[~The Lord of the Rings|The Lord of the Rings]]*
 
 **BOOK V**
 

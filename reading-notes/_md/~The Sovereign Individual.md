@@ -1,4 +1,15 @@
-
+---
+aliases: [The Sovereign Individual]
+title: The Sovereign Individual
+author: James Dale Davidson, Lord William Rees-Mogg
+category: Business & Economics
+publisher: Simon and Schuster
+total_page: 454
+cover_url: https://books.google.com/books/content?id=gxDADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2020
+isbn10: 1439144737
+isbn13: 9781439144732
+---
 # [*The Sovereign Individual*](https://www.simonandschuster.com/books/The-Sovereign-Individual/James-Dale-Davidson/9780684832722) by James Dale Davidson & Lord William Rees-Mogg
 
 <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780684832722/the-sovereign-individual-9780684832722_lg.jpg" width=150>

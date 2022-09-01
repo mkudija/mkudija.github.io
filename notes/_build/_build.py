@@ -7,7 +7,7 @@ import markdown2
 from markdown2 import markdown_path
 from distutils.dir_util import copy_tree
 from pathlib import Path
-
+import pprint
 
 
 def copy_files_ifPublish(src, dst):
@@ -27,16 +27,15 @@ def copy_files_ifPublish(src, dst):
     
     # get files to publish
     filesPublish = []
-    i = 0
-    for f in files:
+    for i, f in enumerate(files):
         if f.suffix=='.md':
             with open(f, 'r+') as f:
                 line1 = f.readline()
                 line2 = f.readline()
                 if line2=='publish: true\n':
                     filesPublish.append(files[i])
-                i+=1
-
+    # pprint.pprint(filesPublish)
+    
     # copy files
     for file in filesPublish:
         shutil.copyfile(file, dst+'/{}'.format(file.name))
