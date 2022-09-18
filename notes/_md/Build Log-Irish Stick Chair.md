@@ -80,6 +80,7 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 - [[2022-07-09-Sat]] - 1 hr install pins, hand sand
 - [[2022-07-13-Wed]] - 1 hr finish
 - [[2022-08-06-Sat]] - 30 min glue front post
+- [[2022-09-14-Wed]] - 30 min add coat of finish
 
 
 ### Process Notes

@@ -17,10 +17,20 @@ publish: true
 
 # [[Woodworking]] Projects
 
+### [[Build Log-Shelf|2022-09-14 Shelf]]
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-09-14-shelf.jpg?raw=true" width="100%">
+
+
+
+### 2022-09-02 Skyline
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-09-02-Skyline_Kevin.jpg?raw=true" width="100%">
+
+
 
 
 ### [[Build Log-Travel Map|2022-08-22 Travel Map]]
-### 2022-08-22 Travel Map
 
 <img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-08-22-travel-map.jpg?raw=true" width="100%">
 
