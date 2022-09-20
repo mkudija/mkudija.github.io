@@ -1,5 +1,6 @@
 ---
 publish: true
+aliases: [Poetry]
 ---
 # Poems
 

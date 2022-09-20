@@ -79,7 +79,7 @@ _[[John Paul II|Karol Wojtyła]]'s worldview against communism._
 - [[government waste is theft from its citizens]]: "Yet for all the pressure and the intense surveillance (which involved a vast expenditure of state resources, and thus constituted a form of theft from civil society)..."
 - [[you must understand the enemy on their terms, not yours]]: ..."Stalin-era Polish communism never quite "got" the Catholic Church. Raw intelligence is only as good as the analysis that filters and explains the data." (37)
 - [[Cardinal Wyszyński]] was a master of [[prudence]] and skillfully bought the Church time against the communist regime (38)
-	- [[financial independence is a form of resistance against political oppression]], a needed component of [[Self-sufficiency]]/[[Emergency Planning]]: "Parents were threatened with loss of employment if they didn't send their children to communist schools and youth groups." (39)
+	- [[financial independence is a form of resistance against political oppression]], a needed component of [[self-competence]]/[[Emergency Planning]]: "Parents were threatened with loss of employment if they didn't send their children to communist schools and youth groups." (39)
 - In his first rural assignment, Fr. [[John Paul II|Karol Wojtyła]] visited his five villages by horse cart (not unlike Gandalf in *[[~The Lord of the Rings|The Lord of the Rings]]*)
 - Below quotes inspired from [[2021-05-31 Article-In a World Gone Mad, What Would St. John Paul Do?]]
 	- "He organized off-campus seminars where students could read [[St. Thomas Aquinas]] and the other greats of Catholic intellectual life as an antidote to the Marxists intellectual rubbish to which they were subjected at school." (41)
@@ -200,7 +200,7 @@ _**Summary**: A view of the life of John Paul II through the lens of the virtues
 	- "The supernatural is the real" (cf. *Men at Arms* by [[Evelyn Waugh]] [[bib]])
 - "[[John Paul II]] lived beyond optimism and pessimism, in a world of Christian realism infused with Christian hope." (408)
 - "You can decide because you are capable of understanding the truth." (412)
-- [ ] [[Fatherhood]]: #wishlist "Reflections on Fatherhood" in *The Collected Plays and Writings on Theater* by [[John Paul II|Karol Wojtyła]] [[bib]] (Berkeley: UC Press, 1987), pg 368 (412) (check on [inter-library loan](https://14229.account.worldcat.org/account/requests))  📅 2022-09-05
+- [[Fatherhood]]: "Reflections on Fatherhood" in *The Collected Plays and Writings on Theater* by [[John Paul II|Karol Wojtyła]] [[bib]] (Berkeley: UC Press, 1987), pg 368 [[bib]] (412)
 - "He was a man of disciplined personal habits, who cared little for food (except dessert)" (414)
 - [[Bob Dylan]] performed before the Pope spoke at the 1997 Italian National Eucharistic Congress (416)
 - [[St. Gregory of Nyssa]]: "The goal of a [[Virtues|virtuous]] life is to become like God." (417)

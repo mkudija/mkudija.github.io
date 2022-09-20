@@ -266,7 +266,7 @@ _**Summary**: Making sense of gun laws, understanding safety rules, and deciding
 
 
 --- 
-**Topic**: [[Self-sufficiency]], [[Emergency Planning]]
+**Topic**: [[self-competence]], [[Emergency Planning]]
 
 **Source**: my list of example websites, ordered 2022-05-04-Wed after Dolores
 

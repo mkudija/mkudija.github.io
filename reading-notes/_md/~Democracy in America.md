@@ -1,3 +1,6 @@
+---
+aliases: [Democracy in America]
+---
 
 # [*Democracy in America*]() by [[Alexis de Tocqueville]]
 

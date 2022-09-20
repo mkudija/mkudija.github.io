@@ -33,6 +33,8 @@ isbn13: 9780190050351
 --- 
 **Topic**: [[Architecture]], [[Urban Planning]]
 
+**Source**: [[Simon Sarris]]
+
 **Bibliography**
 - *The Timeless Way of Building* (same authors, Part I of a single work of which the present work is Part II)
 

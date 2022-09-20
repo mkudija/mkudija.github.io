@@ -4,11 +4,13 @@
 `(Manchester: Sophia, 2014), 186`
 
 ## Chapter 1 - The Christian Life
-- "The good life is the liturgical life." (9)
+- "[[The Good Life|The good life]] is the liturgical life." (9)
 
 ## Chapter 2 - The Family and the Home
 - The home is the *school of virtue* and a *domestic church* (16)
+- [[Parenting]]: "The best way for a person to learn real [[Virtues|virtue]] is by living with good people who love him." (17) 
 - "The habit of praying with visual imagery will develop our instinct for what is beautiful" (20) ^f79b10
+- "There is hardly a place in the house that isn't enhanced by the use of shelving." (23)
 - Some aspects for a home altar: image of Christ at the center, facing east, symmetry, candles (28-29)
 
 ## Chapter 3 - Making the Little Oratory in the Home

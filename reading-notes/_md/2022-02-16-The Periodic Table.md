@@ -25,7 +25,7 @@
 - [[Hope]]: "one must after all put one's hope in someone or something" (39)
 - "curious [[Mimetic]] talent" (41)
 - [[Antifragility]]: "the more storms and hunger he suffered the happier and healthier he was."
-- [[Self-sufficiency]]: "What mattered was to know his limitations, to test and improve himself; more obscurely, he felt the need to prepare himself for an iron future, drawing closer month by month." (45)
+- [[self-competence]]: "What mattered was to know his limitations, to test and improve himself; more obscurely, he felt the need to prepare himself for an iron future, drawing closer month by month." (45)
 - "I am one of those people to whom many things are told." (68)
 - "They knew (even too well) the value of [[Gold]]" (81, 85)
 	- "There's no point in having [[Gold]] and carrying it on your back, with the continuous terror that at night or during a drinking bout someone will steal it from you." (88)

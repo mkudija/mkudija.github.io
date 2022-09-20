@@ -1,3 +1,7 @@
+---
+aliases: [City of God]
+---
+
 # [*City of God*](https://www.penguinrandomhouse.com/books/293752/city-of-god-by-augustine-of-hippo/9780140448948) by [[St. Augustine]]
 
 <img src="https://images4.penguinrandomhouse.com/cover/9780140448948" width=150>
