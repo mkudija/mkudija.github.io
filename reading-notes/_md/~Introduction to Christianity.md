@@ -1,6 +1,6 @@
 
 # [*Introduction to Christianity*]() by [[Joseph Ratzinger]]
-#wishlist
+
 
 <img src="" width=150>
 

@@ -17,6 +17,16 @@ publish: true
 
 # [[Woodworking]] Projects
 
+### 2022-09-25 Bookshelf
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-09-25-bookshelf.jpg?raw=true" width="100%">
+
+
+### 2022-09-04 Kneeler
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-09-24-kneeler.jpg?raw=true" width="100%">
+
+
 ### [[Build Log-Shelf|2022-09-14 Shelf]]
 
 <img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-09-14-shelf.jpg?raw=true" width="100%">

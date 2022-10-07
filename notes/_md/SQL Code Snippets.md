@@ -423,6 +423,7 @@ SELECT LEFT(GETDATE(),10)
 - [SQL Query Order of Execution](https://www.sisense.com/blog/sql-query-order-of-operations/)
 - [Database Design for Mere Mortals](https://www.pearson.com/store/p/database-design-for-mere-mortals-25th-anniversary-edition/P100002994160/9780136788041)
 - [The SQL Murder Mystery](https://mystery.knightlab.com/)
+- [spyql: Query data on the command line with SQL-like SELECTs powered by Python expressions](https://github.com/dcmoura/spyql)
 
 ---
 Created: [[2019-06-25-Tue]]

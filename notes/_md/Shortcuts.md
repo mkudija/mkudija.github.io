@@ -54,7 +54,7 @@ publish: true
 - `⌥ + ⇧ + ↑` - `option + shift + up arrow` - move lines up
 - `⇧ + ⌥ + ⌘ + select` - `shift + option + command + select` - multi-select
 - `shift + command + ;` - run [[Mac Computer Setup#^573833|Black]] formatting
-- option + shift + R to run
+- control + shift + R to run
 - control + J twice to pull up docs for function
 - Launch jupyter notebook: right click on project folder > new > jupyter notebook
 - click red dot in gutter for debugging break point

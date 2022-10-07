@@ -27,160 +27,136 @@ isbn13: 9780898704433
 <!-- /MarkdownTOC -->
 </details>
 
+##  Foreword
+*by [[Hans Urs von Balthasar]]*
 
-## Chapter 1:
+## Preface 
+
+# Part One: Atheistic Humanism
+## Chapter 1: [[Feuerbach]] and [[Nietzsche]]
+_**Summary**: _
+
+### 1. A Tragic Misunderstanding
+*Christianity puts forth a radical (to the ancients) view of man: both low in his fallenness and great in his redemption. But this liberation eventually started to feel like a yoke, leading to the atheism (really anti-theism) of absolute humanism.*
+
+### 2. [[Feuerbach]] and the Religious Illusion
+*[[Feuerbach]] is the link from [[Hegel]] to [[Marx]]. For him God is only the sum of the attributes of the greatness of man, and is then cast off. His goal is to reveal man's essence to give him faith in himself. [[Marx]] then takes the religious ideas of Feuerback and applies them to the social and political order, which has no God because it seeks to restore divinity to man.*
+
+### 3. [[Nietzsche]] and the "Death of God"
+*[[Nietzsche]] proclaimed the death of God as an act of the will—a murder—that urges man to greatness.*
+
+### 4. The Dissolution of Man 
+
+## Chapter 2: [[Nietzsche]] and [[Kierkegaard]]
+_**Summary**: _
+
+### 1. The Birth of Tragedy
+
+### 2. Myth and Mystery
+
+### 3. "Deeper Immersion in Existence"
+
+
+## Chapter 3: The Spiritual Battle
+_**Summary**: _
+
+### 1. The Battlefield
+
+
+### 2. The Spirit of Christianity 
+
+
+# Part Two: [[Auguste Compte|Auguste Compte]] and Christianity
+
+## Chapter 1: The Meaning of Comtian Atheism 
+_**Summary**: _
+
+### 1. The Law of the Three States 
+
+### 2. The Monotheistic Transition 
+
+### 3. Beyond Atheism 
+
+### 4. God Excluded and Replaced 
+
+
+## Chapter 2: Christianity and Catholicism
+_**Summary**: _
+
+### 1. Antisocial Christianity 
+
+### 2. Jesus and Saint Paul 
+
+### 3. The Work of the Catholic Priesthood 
+
+### 4. A Holy Alliance 
+
+
+## Chapter 3: Positivist Transpositions
+_**Summary**: _
+
+### 1. The True Catholicism
+
+### 2. The Priesthood of the Scientists 
+
+### 3. Spiritual Despotism 
+
+### 4. Sociocracy
+
+### Conclusion 
+
+
+# Part Three: [[Fyodor Dostoevsky|Dostoevsky]] As Prophet 
+
+## Chapter 1: Comparison with [[Nietzsche]]
+_**Summary**: _
+
+### 1. Hostile Brothers 
+
+### 2. The Torment of God 
+
+### 3. In the Presence of Jesus 
+
+
+## Chapter 2: The Bankruptcy of Atheism
+_**Summary**: _
+
+### 1. The Man-God 
+
+### 2. The Tower of Babel 
+
+### 3. The Palace of Glass 
+
+
+## Chapter 3: Experience of Eternity 
+_**Summary**: _
+
+### 1. Ambiguous Experiences 
+
+### 2. Dualisms and Symbols 
+
+### 3. The New Birth 
+
+### Conclusion
+
+
+# Mystical Confrontations
+## Chapter 1: The Search for a New Man
 _**Summary**: _
 
 
 
-## Chapter 2:
+## Chapter 2: [[Nietzsche]] as Mystic
 _**Summary**: _
 
 
-
-## Chapter 3:
-_**Summary**: _
-
-
-
-## Chapter 4:
-_**Summary**: _
-
-
-
-## Chapter 5:
-_**Summary**: _
-
-
-
-## Chapter 6:
-_**Summary**: _
-
-
-
-## Chapter 7:
-_**Summary**: _
-
-
-
-## Chapter 8:
-_**Summary**: _
-
-
-
-## Chapter 9:
-_**Summary**: _
-
-
-
-## Chapter 10:
-_**Summary**: _
-
-
-
-## Chapter 11:
-_**Summary**: _
-
-
-
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
 
 --- 
 **Topic**: [[Atheism]]
 
 **Source**: 
-- Madj, Christmas 2021
+- Madj, Christmas 2021 
+- [[Brenden Rhatican]]
 
 **Bibliography**
 

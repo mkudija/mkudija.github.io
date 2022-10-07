@@ -69,6 +69,7 @@ publish: true
 	- *Castle*
 	- *Pyramid*
 - *Brother Hugo and the Bear* by Katy Beebe
+- *[[~The Weight of a Mass|The Weight of a Mass]]* by Josephine Nobisso
 - *St. Jerome and the Lion* by Margaret Hodges
 - *Light of Sunday*
 - *Jesus, I Adore You* by Sabine Du Mesnil

@@ -200,7 +200,7 @@ _**Summary**: A view of the life of John Paul II through the lens of the virtues
 	- "The supernatural is the real" (cf. *Men at Arms* by [[Evelyn Waugh]] [[bib]])
 - "[[John Paul II]] lived beyond optimism and pessimism, in a world of Christian realism infused with Christian hope." (408)
 - "You can decide because you are capable of understanding the truth." (412)
-- [[Fatherhood]]: "Reflections on Fatherhood" in *The Collected Plays and Writings on Theater* by [[John Paul II|Karol Wojtyła]] [[bib]] (Berkeley: UC Press, 1987), pg 368 [[bib]] (412)
+- [[Fatherhood]]: "[[~The Collected Plays and Writings on Theater#Reflections on Fatherhood|Reflections on Fatherhood]]" in *[[~The Collected Plays and Writings on Theater|The Collected Plays and Writings on Theater]]* by [[John Paul II|Karol Wojtyła]] [[bib]] (Berkeley: UC Press, 1987), pg 368 [[bib]] (412)
 - "He was a man of disciplined personal habits, who cared little for food (except dessert)" (414)
 - [[Bob Dylan]] performed before the Pope spoke at the 1997 Italian National Eucharistic Congress (416)
 - [[St. Gregory of Nyssa]]: "The goal of a [[Virtues|virtuous]] life is to become like God." (417)
@@ -230,7 +230,7 @@ _**Summary**: An evaluation of the accomplishments and shortcomings of John Paul
 - **Ecumenical Imperative**: doctrine of justification was no longer a dividing issue 
 - **Culture of life**: democracy can only sustain itself over time if it is built on a culture of life (465)
 - **Christian [[Feminism]]**: the "feminine genius" as told in *Redemptoris Mater* and *Mulieris Dignitatem* [[bib]] (471)
-- [[Joseph Ratzinger|Ratzinger]]: "*Redemptor Hominis* [[bib]] is really a synthesis of [[[John Paul II]]]'s thinking" (548
+- [[Joseph Ratzinger|Ratzinger]]: "*Redemptor Hominis* [[bib]] is really a synthesis of [[John Paul II]]'s thinking" (548
 - [[John Paul II]] "trusted his own instincts because those instincts had been refined by prayer" (481)
 - Themes (481):
 

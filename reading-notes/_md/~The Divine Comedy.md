@@ -1,3 +1,6 @@
+---
+aliases: [The Divine Comedy]
+---
 
 # *The Divine Comedy* by [[Dante Alighieri]]
 *translated by Robert & Jean Hollander*

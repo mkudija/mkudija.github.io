@@ -1,5 +1,5 @@
 ---
-aliases: [Consecration to St. Joseph: Year of St. Joseph Commemorative Edition]
+aliases: [Consecration to St. Joseph]
 title: Consecration to St. Joseph: Year of St. Joseph Commemorative Edition
 author: Donald H Calloway MIC, Donald H. Calloway
 category: Religion
