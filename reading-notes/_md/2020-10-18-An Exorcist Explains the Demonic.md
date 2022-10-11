@@ -1,4 +1,15 @@
-
+---
+aliases: [An Exorcist Explains the Demonic]
+title: An Exorcist Explains the Demonic
+author: Gabriele Amorth
+category: Religion
+publisher: 
+total_page: 145
+cover_url: http://books.google.com/books/content?id=kmJizQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2016
+isbn10: 1622823451
+isbn13: 9781622823451
+---
 # [*An Exorcist Explains the Demonic: The Antics of Satan and His Army of Fallen Angels*](https://www.sophiainstitute.com/products/item/an-exorcist-explains-the-demonic) by [[Fr. Gabriele Amorth]]
 
 <img src="https://www.sophiainstitute.com/images/uploads/products/9781622823451.jpg" width=150>
@@ -26,8 +37,8 @@
   - [[John Paul II]]
   - The Angels
 - "Our life, our earthly pilgrimage, and our suffering are not the fruit of a blind randomness; rather they are ordered for our greater good and definitive friendship with God." (133)
-- "In his will is our peace." (*Divine Comedy - Paradiso*, canto 3, line 85, cited on pg 135)
-- Pascal: "Meditation on hell has filled paradise with saints." (141)
+- "In his will is our peace." (*[[2022-02-16-Paradiso|Divine Comedy - Paradiso]]*, canto 3, line 85, cited on pg 135)
+- [[Pascal]]: "Meditation on hell has filled paradise with saints." (141)
 
 --- 
 **Topic**: [[Exorcism]]

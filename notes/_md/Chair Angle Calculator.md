@@ -7,7 +7,7 @@ publish: true
 # Chair Angle Calculator
 
 ### Background
-The legs of a chair are often angled from the vertical. The side-to-side and front-to-back components of these angles are called *splay* and *rake*, and are easy to measure off a photograph of a chair. But when making a chair, it is easier to resolve the splay and rake into a single *resultant* angle along the *sightline*. [[Christopher Schwarz]] talks about this in *[[~The Stick Chair Book|The Stick Chair Book]]* ([PDF excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf)):
+The legs of a chair are often angled from the vertical. The side-to-side and front-to-back components of these angles are called *splay* and *rake*, and are easy to measure off a photograph of a chair. But when making a chair, it is easier to resolve the splay and rake into a single *resultant* angle along the *sightline*. [[Christopher Schwarz]] talks about this in *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]* ([PDF excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf)):
 
 >If you know the rake and splay that you want for your legs, you can use trigonometry to convert that to sightlines and resultants. There are equations, tables and calculators out there to guide you on that math path. (155)
 

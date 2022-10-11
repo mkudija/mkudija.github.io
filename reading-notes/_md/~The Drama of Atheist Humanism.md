@@ -24,6 +24,56 @@ isbn13: 9780898704433
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
+- [Foreword](#foreword)
+- [Preface](#preface)
+- [Part One: Atheistic Humanism](#part-one-atheistic-humanism)
+- [Chapter 1:](#Feuerbach and Nietzsche)
+    - [1. A Tragic Misunderstanding](#1-a-tragic-misunderstanding)
+    - [2. \[[Feuerbach\]] and the Religious Illusion](#2-feuerbach-and-the-religious-illusion)
+    - [3. \[[Nietzsche\]] and the "Death of God"](#3-nietzsche-and-the-death-of-god)
+    - [4. The Dissolution of Man](#4-the-dissolution-of-man)
+- [Chapter 2:](#Nietzsche and Kierkegaard)
+    - [1. The Birth of Tragedy](#1-the-birth-of-tragedy)
+    - [2. Myth and Mystery](#2-myth-and-mystery)
+    - [3. "Deeper Immersion in Existence"](#3-deeper-immersion-in-existence)
+- [Chapter 3: The Spiritual Battle](#chapter-3-the-spiritual-battle)
+    - [1. The Battlefield](#1-the-battlefield)
+    - [2. The Spirit of Christianity](#2-the-spirit-of-christianity)
+- [Part Two: \[[Auguste Compte|Auguste Compte\]] and Christianity](#part-two-auguste-compte%7Cauguste-compte-and-christianity)
+- [Chapter 1: The Meaning of Comtian Atheism](#chapter-1-the-meaning-of-comtian-atheism)
+    - [1. The Law of the Three States](#1-the-law-of-the-three-states)
+    - [2. The Monotheistic Transition](#2-the-monotheistic-transition)
+    - [3. Beyond Atheism](#3-beyond-atheism)
+    - [4. God Excluded and Replaced](#4-god-excluded-and-replaced)
+- [Chapter 2: Christianity and Catholicism](#chapter-2-christianity-and-catholicism)
+    - [1. Antisocial Christianity](#1-antisocial-christianity)
+    - [2. Jesus and Saint Paul](#2-jesus-and-saint-paul)
+    - [3. The Work of the Catholic Priesthood](#3-the-work-of-the-catholic-priesthood)
+    - [4. A Holy Alliance](#4-a-holy-alliance)
+- [Chapter 3: Positivist Transpositions](#chapter-3-positivist-transpositions)
+    - [1. The True Catholicism](#1-the-true-catholicism)
+    - [2. The Priesthood of the Scientists](#2-the-priesthood-of-the-scientists)
+    - [3. Spiritual Despotism](#3-spiritual-despotism)
+    - [4. Sociocracy](#4-sociocracy)
+    - [Conclusion](#conclusion)
+- [Part Three: \[[Fyodor Dostoevsky|Dostoevsky\]] As Prophet](#part-three-fyodor-dostoevsky%7Cdostoevsky-as-prophet)
+- [Chapter 1: Comparison with](#Nietzsche)
+    - [1. Hostile Brothers](#1-hostile-brothers)
+    - [2. The Torment of God](#2-the-torment-of-god)
+    - [3. In the Presence of Jesus](#3-in-the-presence-of-jesus)
+- [Chapter 2: The Bankruptcy of Atheism](#chapter-2-the-bankruptcy-of-atheism)
+    - [1. The Man-God](#1-the-man-god)
+    - [2. The Tower of Babel](#2-the-tower-of-babel)
+    - [3. The Palace of Glass](#3-the-palace-of-glass)
+- [Chapter 3: Experience of Eternity](#chapter-3-experience-of-eternity)
+    - [1. Ambiguous Experiences](#1-ambiguous-experiences)
+    - [2. Dualisms and Symbols](#2-dualisms-and-symbols)
+    - [3. The New Birth](#3-the-new-birth)
+    - [Conclusion](#conclusion-1)
+- [Mystical Confrontations](#mystical-confrontations)
+- [Chapter 1: The Search for a New Man](#chapter-1-the-search-for-a-new-man)
+- [Chapter 2: \[[Nietzsche\]] as Mystic](#chapter-2-nietzsche-as-mystic)
+
 <!-- /MarkdownTOC -->
 </details>
 
@@ -46,25 +96,30 @@ _**Summary**: _
 *[[Nietzsche]] proclaimed the death of God as an act of the will—a murder—that urges man to greatness.*
 
 ### 4. The Dissolution of Man 
+*Where there is no God, there is no man. There is no longer any man because there is no longer anything that is greater than man.*
 
 ## Chapter 2: [[Nietzsche]] and [[Kierkegaard]]
 _**Summary**: _
 
 ### 1. The Birth of Tragedy
+*Nietzsche wrote his first work,* The Birth of Tragedy, *against the "myth-destroying" rationalism of [[Socrates]]. Man starved of myths is a man without roots.*
 
 ### 2. Myth and Mystery
+*The Church affirms Nietzsche's intuition that we need something deeper than cold rationalism, but rejects his pagan myth for Christian mystery as explained by [[Péguy]].*
 
 ### 3. "Deeper Immersion in Existence"
+*Nietzsche and Kierkegaard both reject the rationalist "historicism" of [[Hegel]]. Kierkegaard is quite Socratic and he sees Christianity as a paradox (though he cannot be considered a teacher of the faith).*
 
 
 ## Chapter 3: The Spiritual Battle
-_**Summary**: _
+_**Summary**: Today's problems are spiritual in nature, and involve the very concept of man._
 
 ### 1. The Battlefield
+*Nietzsche directly rejected Christian ethics and a Christian concept of man. His attack is spiritual, and leads to the neopaganism of our age.*
 
 
-### 2. The Spirit of Christianity 
-
+### 2. The Spirit of Christianity  (★)
+*We must recognize our own shortcomings in living the Christian life and return to the spirit of Christianity: The Gospels.*
 
 # Part Two: [[Auguste Compte|Auguste Compte]] and Christianity
 
@@ -72,6 +127,7 @@ _**Summary**: _
 _**Summary**: _
 
 ### 1. The Law of the Three States 
+*Compte's whole system can be viewed as the transition from the theological (fictitious) state, to the metaphysical (abstract) state, to the scientific (positive) state. This was his "law of intellectual evolution." This reduces man to no more than the subject of sociology.*
 
 ### 2. The Monotheistic Transition 
 
@@ -152,7 +208,7 @@ _**Summary**: _
 
 
 --- 
-**Topic**: [[Atheism]]
+**Topic**: [[Atheism]], [[Humanism]]
 
 **Source**: 
 - Madj, Christmas 2021 

@@ -7,7 +7,10 @@
 
 ![[2019-01-10-A Shorter Summa#^d3088d]]
 
-## Text
+## Resources
+*Topical outline:*
+- [Summa Theologica Index](https://sacred-texts.com/chr/aquinas/summa/index.htm)
+
 *Physical text:*
 - [*Summa Theologiae*: Aquinas Institute, St. Paul Center](https://stpaulcenter.com/product/summa-theologiae-complete-set/)
 

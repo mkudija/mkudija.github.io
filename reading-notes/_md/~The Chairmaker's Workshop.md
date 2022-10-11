@@ -57,7 +57,7 @@ Attractive chairs in this book:
 --- 
 **Topic**: [[Chairmaking]], [[Woodworking]]
 
-**Source**: *[[~The Stick Chair Book|The Stick Chair Book]]*, Cincinnati Public Library #883
+**Source**: *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]*, Cincinnati Public Library #883
 
 ---
 Created: [[2022-08-20-Sat]]

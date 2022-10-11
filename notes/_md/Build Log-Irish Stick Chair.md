@@ -17,17 +17,17 @@ publish: true
 
 
 ## Design
-This is the first chair I've build, so I went with a simple design. It is patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[~The Stick Chair Book|The Stick Chair Book]]*.
+This is the first chair I've build, so I went with a simple design. It is patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]*.
 
-I built this before reading *[[~The Stick Chair Book|The Stick Chair Book]]* so that I'll have some practical knowledge to throw the theory up against. I learned what I needed to know to build this chair from various resources on the [Lost Art Press Blog](https://blog.lostartpress.com/):
-- Patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[~The Stick Chair Book|The Stick Chair Book]]*
+I built this before reading *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]* so that I'll have some practical knowledge to throw the theory up against. I learned what I needed to know to build this chair from various resources on the [Lost Art Press Blog](https://blog.lostartpress.com/):
+- Patterned off the "Simple Irish-y Armchair" by [[Christopher Schwarz]] from *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]*
 	- [Irish Chair No. 2: Simple, but Better – Lost Art Press](https://blog.lostartpress.com/2021/02/15/irish-chair-no-2-simple-but-better/)
 	- [Irish-Chair-stats.jpg](https://blog.lostartpress.com/wp-content/uploads/2021/02/Irish-Chair-stats.jpg) (has angles and cut list: this was my primary shop reference while building and the only change I would make is to cut the legs longer)
 - Compare with the Curved-back Irish-American armchair: 
 	- [Irish Chair No. 3: By the Numbers – Lost Art Press](https://blog.lostartpress.com/2021/02/17/irish-chair-no-3-by-the-numbers/)
-	- Plans and chapter from *[[~The Stick Chair Book|The Stick Chair Book]]*: [Curved-Back-Armchair.pdf](https://blog.lostartpress.com/wp-content/uploads/2022/02/Curved-Back-Armchair.pdf)
+	- Plans and chapter from *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]*: [Curved-Back-Armchair.pdf](https://blog.lostartpress.com/wp-content/uploads/2022/02/Curved-Back-Armchair.pdf)
 	- [For Sale: Irish(ish) Stick Chair in European Oak – Lost Art Press](https://blog.lostartpress.com/2022/04/12/for-sale-irishish-stick-chair-in-european-oak/)
-- Full-Size Patterns from *[[~The Stick Chair Book|The Stick Chair Book]]*: [Link](https://lostartpress.com/collections/books/products/full-size-patterns-from-the-stick-chair-book)
+- Full-Size Patterns from *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]*: [Link](https://lostartpress.com/collections/books/products/full-size-patterns-from-the-stick-chair-book)
 
 <img src="https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2021/02/green-irish-ortho-IMG_4024.jpg?w=1280&ssl=1" width="100%">
 

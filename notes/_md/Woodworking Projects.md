@@ -17,6 +17,13 @@ publish: true
 
 # [[Woodworking]] Projects
 
+
+
+### 2022-10-11 Serving Tray
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-10-11-serving-tray_Rhatican.jpg?raw=true" width="100%">
+
 ### 2022-09-25 Bookshelf
 
 <img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2022-09-25-bookshelf.jpg?raw=true" width="100%">
