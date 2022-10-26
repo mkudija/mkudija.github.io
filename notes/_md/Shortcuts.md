@@ -41,6 +41,7 @@ publish: true
 - `⌘ + ⇧ + F` - `cmd + shift + F` - filter
 - select 0,1 and drag to get 0,1,2,3,etc.
 - `⇧ + fn + F9` = `shift + function + F9` - calculate sheet
+- `⌘ + ⇧ + T` = `cmd + shift + T` - auto-sum column
 
 
 ## Google Sheets

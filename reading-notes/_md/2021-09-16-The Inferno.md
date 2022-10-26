@@ -1,3 +1,15 @@
+---
+aliases: [The Inferno]
+title: The Inferno
+author: Dante
+category: Poetry
+publisher: Anchor
+total_page: 736
+cover_url: http://books.google.com/books/content?id=LF5pl4_M7BQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2002-01-08
+isbn10: 0385496982
+isbn13: 9780385496988
+---
 *[[~The Divine Comedy]]*
 
 # [*The Inferno*](https://www.penguinrandomhouse.com/books/225152/the-inferno-by-dante-alighieri-a-verse-translation-by-robert-hollander-and-jean-hollander/) by [[Dante Alighieri]]

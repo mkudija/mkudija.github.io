@@ -3,8 +3,8 @@ aliases: [The Stick Chair Book]
 title: The Stick Chair Book
 author: Christopher Schwarz
 category: 
-publisher: 
-total_page: 
+publisher: Lost Art Press
+total_page: 632
 cover_url: 
 publish_date: 2021
 isbn10: 1954697031
@@ -16,13 +16,11 @@ isbn13: 9781954697034
 
 `(Covington: Lost Art Press, 2021), 632`
 
-*[PDF Excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf)*
 
-I used the [PDF Excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf) and a bunch of [[Lost Art Press]] blog posts to build my [[Build Log-Irish Stick Chair|first chair]]. 
-- read most of this in my stick chair 
-- dead-straight grain 
-- use the tools you have 
-- humor 
+I've wanted to build a chair for awhile, and the opportunity to earn a [Stick Chair Merit Badge](https://blog.lostartpress.com/2022/06/25/earn-your-stick-chair-merit-badge/) was the nudge I needed to get started. I used the [PDF Excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf) and a bunch of [[Lost Art Press]] blog posts to build my [[Build Log-Irish Stick Chair|first chair]]. Then I got *The Stick Chair Book* and read most of it while sitting in my new chair. 
+
+*The Stick Chair Book* is now one of my favorite books: it is a beautiful book in both content and physical construction. I learned a lot and I can't wait to keep referring back to it as I build more chairs. Chris Schwartz tells you how it is and has fun doing so. So get some straight-grain wood and take the tools you have and go build a stick chair! 
+
 
 # Notes
 
@@ -74,6 +72,8 @@ I used the [PDF Excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/0
 
 <!-- /MarkdownTOC -->
 </details>
+
+*[PDF Excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf)*
 
 ## Helpful Diagrams and Images 
 - Chair anatomy (3-5)

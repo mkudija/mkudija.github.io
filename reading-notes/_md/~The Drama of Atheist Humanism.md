@@ -84,7 +84,6 @@ isbn13: 9780898704433
 
 # Part One: Atheistic Humanism
 ## Chapter 1: [[Feuerbach]] and [[Nietzsche]]
-_**Summary**: _
 
 ### 1. A Tragic Misunderstanding
 *Christianity puts forth a radical (to the ancients) view of man: both low in his fallenness and great in his redemption. But this liberation eventually started to feel like a yoke, leading to the atheism (really anti-theism) of absolute humanism.*
@@ -99,7 +98,6 @@ _**Summary**: _
 *Where there is no God, there is no man. There is no longer any man because there is no longer anything that is greater than man.*
 
 ## Chapter 2: [[Nietzsche]] and [[Kierkegaard]]
-_**Summary**: _
 
 ### 1. The Birth of Tragedy
 *Nietzsche wrote his first work,* The Birth of Tragedy, *against the "myth-destroying" rationalism of [[Socrates]]. Man starved of myths is a man without roots.*
@@ -124,58 +122,67 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 # Part Two: [[Auguste Compte|Auguste Compte]] and Christianity
 
 ## Chapter 1: The Meaning of Comtian Atheism 
-_**Summary**: _
 
 ### 1. The Law of the Three States 
 *Compte's whole system can be viewed as the transition from the theological (fictitious) state, to the metaphysical (abstract) state, to the scientific (positive) state. This was his "law of intellectual evolution." This reduces man to no more than the subject of sociology.*
 
 ### 2. The Monotheistic Transition 
+*Monotheism is deplorable to Compte, and he mourns the "Western malady" that has occurred. Rather, he celebrates the "underlying kinship between positivism and fetishism."*
 
 ### 3. Beyond Atheism 
+*Compte leaves the "inadequate emancipation" of atheism behind: it is a purely negative system that cannot satisfy the moral and social needs the faith is denies does. We are left with the only one absolute principle: "everything is relative."*
 
 ### 4. God Excluded and Replaced 
+*God must be replaced if you don't want him to come back. Positivism replaces God with Humanity: it is the "Religion of Humanity."*
 
 
 ## Chapter 2: Christianity and Catholicism
-_**Summary**: _
 
 ### 1. Antisocial Christianity 
+*Christian anthropology—the human person made in the image and likeness of God—makes the individual more important than the community.*
 
 ### 2. Jesus and Saint Paul 
+*Compte disparaged Jesus at every opportunity, but was enamored with "the incomparable Saint Paul."*
 
 ### 3. The Work of the Catholic Priesthood 
+*Compte admired the "social genius" of Catholicism, for example how the Catholic priesthood allowed for the separation of temporal and spiritual power. He saw Catholicism, in its "divinization" of man, as paving the way for Positivism as the Religion of Humanity.*
 
 ### 4. A Holy Alliance 
+*Compte saw Catholicism as an ally against, for example, Protestantism. He attempted—no joke—to lure some Jesuits into a coup against the Church.*
 
 
 ## Chapter 3: Positivist Transpositions
-_**Summary**: _
 
 ### 1. The True Catholicism
+*Compte admired aspects of Catholicism and modeled certain aspects of his Positivism after it. This cannot be taken seriously, however, as it grew out of his senility and his fundamental misunderstanding of the Gospel.*
 
 ### 2. The Priesthood of the Scientists 
+*Compte sought to create a Positive Priesthood—a "Priesthood of Humanity"—composed of scientists who would establish his order.*
 
 ### 3. Spiritual Despotism 
+*Compte saw no place of anything but blind faith and veneration from the followers of his Positivism, who would submit to any doctrine from his Priests, and ultimately to whatever he thought himself.*
 
 ### 4. Sociocracy
+*In Compte's Positivism, politics and religion are combined into a single "Sociocracy", with no concept of rights and all spiritual and temporal power concentrated. Interestingly, his primary men of action are to be bankers.*
 
 ### Conclusion 
+*"The Positivism formula spells total tyranny."*
 
 
 # Part Three: [[Fyodor Dostoevsky|Dostoevsky]] As Prophet 
 
 ## Chapter 1: Comparison with [[Nietzsche]]
-_**Summary**: _
 
 ### 1. Hostile Brothers 
+*Dostoevsky and Nietzsche both descended to the same depths of despair, and their response is what determines which of them is the real prophet of our time. It was Dostoevsky who chose God, and who's questions shake us out of our complacency and help us to understand him more fully.*
 
 ### 2. The Torment of God 
+*Dostoevsky enters into the depths of atheist doubt, as illustrated by his reaction to Holbein's painting of the [dead Christ](https://www.artstor.org/2019/07/17/dostoevsky-and-the-challenge-of-hans-holbeins-dead-christ/). He enters the depths of denial as with the [[Problem of Evil]] from the mouth of Ivan in [[2014-12-20-The Brothers Karamazov|The Brothers Karamazov]], and while he does not provide answers, he shows how Jesus entered into our suffering and took evil upon his shoulders.*
 
 ### 3. In the Presence of Jesus 
-
+*While Nietzsche was jealous of Jesus to the point of madness, Dostoevsky encountered Christ in the Gospel in prison through knowing him comes to a deep understanding of the human person.*
 
 ## Chapter 2: The Bankruptcy of Atheism
-_**Summary**: _
 
 ### 1. The Man-God 
 
