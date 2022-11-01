@@ -168,7 +168,7 @@ _**Summary**: The dark days of world and personal suffering._
 	- "those who receive holy communion are time travelers": the Eucharist takes us out of time into eternity, it unites heaven and earth (322)
 - *Ecclesia in Europa* [[bib]] is analysis of the issues of modern secularism in Europe and a call to return to its Christian roots (337)
 	- [[having lots of kids]]: Not having children shows something "awry in the realm of the human spirit", a loss of hope in the future (338)
-	- Ideas have consequences, and "atheistic humanism" has lethal consequences (cf. *[[~The Drama of Atheist Humanism|The Drama of Atheist Humanism]]* [[bib]]) (338)
+	- Ideas have consequences, and "atheistic humanism" has lethal consequences (cf. *[[2022-10-31-The Drama of Atheist Humanism|The Drama of Atheist Humanism]]* [[bib]]) (338)
 	- "It is from the biblical conception of man [that] Europe drew the best of its humanistic culture" (339)
 	- "If the Europe of the future were to prosper in a genuinely humane way, it had to be, not simply a free society, but a free and [[Virtues|virtuous]] society—a society in which the moral structure of freedom was well understood, such that European culture and society were safeguarded both from the totalitarian Utopia of freedom without truth which goes hand in hand with a false concept of tolerance." (340)
 	- "Europe is not guaranteed a future. Europe must choose to have a future. That would mean choosing to have children. That would mean choosing a firmer foundation for Europe's human rights commitments than pragmatism or utilitarianism." (341)

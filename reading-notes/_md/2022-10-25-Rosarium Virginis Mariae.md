@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=O3pdAAAACAAJ&printsec=frontc
 publish_date: 2002
 isbn10: 1860821790
 isbn13: 9781860821790
+started: 2022-10-22
+finished: 2022-10-25
 ---
 # *[Rosarium Virginis Mariae](https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html)* by [[John Paul II]] 
 

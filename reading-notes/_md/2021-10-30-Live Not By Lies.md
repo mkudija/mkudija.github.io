@@ -1,4 +1,15 @@
-
+---
+aliases: [Live Not by Lies]
+title: Live Not by Lies
+author: Rod Dreher
+category: Religion
+publisher: Penguin
+total_page: 258
+cover_url: http://books.google.com/books/content?id=JqfiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2020-09-29
+isbn10: 0593087402
+isbn13: 9780593087404
+---
 # [*Live Not by Lies: A Manual for Christian Dissidents*](https://www.penguinrandomhouse.com/books/622436/live-not-by-lies-by-rod-dreher/9780593087398) by [[Rod Dreher]]
 
 <img src="https://images2.penguinrandomhouse.com/cover/9780593087398" width=150>

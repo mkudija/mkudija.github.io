@@ -6,15 +6,17 @@ category: Religion
 publisher: Ignatius Press
 total_page: 539
 cover_url: https://books.google.com/books/content?id=IIqMDWYFXugC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publish_date: 1994
+publish_date: 1944
 isbn10: 089870443X
 isbn13: 9780898704433
+started: 2022-10-01
+finished: 2022-10-31
 ---
 # *[The Drama of Atheist Humanism](https://ignatius.com/the-drama-of-atheist-humanism-dahp/)* by [[Henri de Lubac]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/602/845/DAHP_r__45349.1617023332.jpg?c=1" width=150>
 
-`(San Francisco: Ignatius Press, 1994), 539`
+`(San Francisco: Ignatius Press, 1944/1994), 539`
 
 
 
