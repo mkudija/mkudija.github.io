@@ -187,34 +187,53 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 ## Chapter 2: The Bankruptcy of Atheism
 
 ### 1. The Man-God 
+*Against the man-God (Jesus), Dostoevsky represents the god-man—the practitioner of atheist humanism—in characters such as Kirillov who kills himself to kill the fear of death and thus to kill God.*
 
 ### 2. The Tower of Babel 
+*The Tower of Babel represents atheist [[socialism]]. Against this, Dostoevsky shows that social systems with no Christian basis inevitable become systems of violence and slavery.*
 
 ### 3. The Palace of Glass 
-
+*Atheism built a "Palace of Glass", the universe of reason. But this inevitably becomes instead a palace a dark jail, and Dostoevsky ridicules those who allow themselves to become the slaves of science or philosophy. The "subterranean man" from _Notes from Underground_ shows man's freedom against the determinism of scientism. Man cannot live without God.*
 
 ## Chapter 3: Experience of Eternity 
-_**Summary**: _
 
 ### 1. Ambiguous Experiences 
+*Dostoevsky's holiness is ambiguous? This section didn't really click with me...*
 
 ### 2. Dualisms and Symbols 
+*Dostoevsky places parts of himself in his characters, and this along with his ambiguity is important to understand him.*
 
 ### 3. The New Birth 
+*Dostoevsky is profoundly Orthodox and shows how the ways in which God reaches man are a mystery. [[2014-12-20-The Brothers Karamazov|The Brothers Karamazov]] has the mysticism of the Resurrection.*
 
 ### Conclusion
+*From [his near execution] onward, [Doestoevsky] saw the world from the standpoint of death, that is to say, from the standpoint of eternity...He remained in our world as a man come from elsewhere.*
 
 
 # Mystical Confrontations
 ## Chapter 1: The Search for a New Man
-_**Summary**: _
-
-
+*How does a Christian respond to all the world's hope for a "new man"?*
+- 1: "Christianity [and Christian humanism] cannot be a 'fashionable' doctrine: that is the difference between it and doctrines that come and go." 
+- 2: Modern science is ordered toward the possession of the world and the transformation of society. 
+- 3 (★): "Don't throw the baby out with the bath water", or unilateral criticism is lazy. "The life of anyone who wants to be faithful will, until the end of time, be 'contradiction and struggle.'" We should reject false or absolute conceptions of science, but science itself is a tool that allows us to act in the image of God as creator. We need to practice careful discernment. 
+	- [[Christian appropriation]]: "We will not let ourselves be manipulated by the adversary to the point of blindly taking the opposite position of his in everything, leaving him thus the full benefit of the sound ideas that he mixes in with his rebellion." (419)
+	- "Time is given to man to in order to perfect himself within the temporal order." (419)
+- 4: "In order to understand time and the world, it is necessary to focus beyond." (429)
+- 5: Marxism aims to return the possession of man to himself by freeing him from the transcendent. Marxism is a complete doctrine: you can't just pick and choose from it without unintended consequences. 
+- 6: A misunderstanding of man is our greatest temptation and the most terrible threat, and the cause of this is spiritual.
+- 7: Christianity, with its conception of man, comes to give hope to the world. 
+	- "The universe has a meaning to which man is the key...We must here on earth serve our apprenticeship for our future condition." (452-3)
+	- The ills of man come not from politics, but from *sin*—man will not be liberated by some intellectual, political, or economic process
+- 8: We must take responsibility for the work we do, but then receive as a gift from God the  Day of the Lord 
+	- [[St. Augustine]] is at the origin of our [[Progress & History|progressive philosophies of history ]] (464)
 
 ## Chapter 2: [[Nietzsche]] as Mystic
-_**Summary**: _
-
-
+*Nietzsche's thought is everywhere today, but even in his tragic blindness he is a prophet*
+- He is quite bombastic and sees himself as the rival and successor to Jesus. This leads to his Eternal Return (effectively his attempt at a "European Buddhism")
+- Despite his confidence in himself, some questions arise: How did he trick himself into thinking his ideas were new? How did he not see how oppressive they are? How did he not see their contradictions when he is so good at pointing those out in others? 
+- Nietzsche wants to kill God but knows he must put something in his place: hence the Eternal Return: "he who refuses to believe that the universe is marked by a circular process is constrained to believe in a sovereign absolute God" (496)
+- "Since he was not able to be Christ, [[Nietzsche|he]] blasphemed against Christ...His doctrine is that of the weak who aspire to be strong, but certainly not of the strong who are truly so in reality!" 
+- The cries of Zarathustra are merely the cries of human confusion: Nietzsche destroys himself.
 
 --- 
 **Topic**: [[Atheism]], [[Humanism]]

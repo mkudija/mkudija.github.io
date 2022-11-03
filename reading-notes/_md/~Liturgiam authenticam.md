@@ -33,10 +33,21 @@ isbn13: 9781574554281
 ## Part II: ON THE TRANSLATION OF LITURGICAL TEXTS INTO VERNACULAR LANGUAGES
 
 ### 1. General principles applicable to all translation 
-- [ ] keep #read 
- - 
+ - "The words of the Sacred Scriptures, as well as the other words spoken in liturgical celebrations, especially in the celebration of the Sacraments, are not intended primarily to be a sort of mirror of the interior dispositions of the faithful; rather, they express truths that transcend the limits of time and space." (19)
+	 - cf. ![[qq-The Bible in a Year (with Fr. Mike Schmitz)#^30b73d]]
+ - "the original text, insofar as possible, must be translated integrally and in the most exact manner, without omissions or additions in terms of their content, and without paraphrases or glosses." (20)
+ - "the new translations must be made directly from the original texts, namely the Latin, as regards the texts of ecclesiastical composition, or the Hebrew, Aramaic, or Greek, as the case may be, as regards the texts of Sacred Scripture." (24)
+ - "The liturgical texts’ character as a very powerful instrument for instilling in the lives of the Christian faithful the elements of faith and Christian morality" (26)
+ - "Consideration should also be given to including in the vernacular editions at least some texts in the Latin language, especially those from the priceless treasury of Gregorian chant, which the Church recognizes as proper to the Roman Liturgy, and which, all other things being equal, is to be given pride of place in liturgical celebrations." (28)
+ - 29: don't take up a progressive political agenda in translating; education should be kept to the homilist or catechist 
+ - 30 on gender-inclusive pronouns: "the Church herself must freely decide upon the system of language that will serve her doctrinal mission most effectively, and should not be subject to externally imposed linguistic norms that are detrimental to that mission."
+ - 31: Refer to God as "He", maintain "Son of Man" and "fathers", refer to the Church as "she"
+ - 32: Don't refer to academic style manuals, but do refer to the classics for reference 
 
 ### 2. Other norms pertaining to the translation of the Sacred Scriptures and the preparation of Lectionaries
+ - Stability to [[Memorize Scripture]]: "In order that the faithful may be able to commit to memory at least the more important texts of the Sacred Scriptures and be formed by them even in their private prayer, it is of the greatest importance that the translation of the Sacred Scriptures intended for liturgical use be characterized by a certain uniformity and stability, such that in every territory there should exist only one approved translation, which will be employed in all parts of the various liturgical books." (36)
+ - 
+- [ ] 31 keep #read 📅 2022-11-01
 
 #### A. Vocabulary
 
