@@ -1,4 +1,15 @@
-
+---
+aliases: [The Bitcoin Standard]
+title: The Bitcoin Standard
+author: Saifedean Ammous
+category: Business & Economics
+publisher: John Wiley & Sons
+total_page: 304
+cover_url: http://books.google.com/books/content?id=Sw5TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2018-03-23
+isbn10: 1119473918
+isbn13: 9781119473916
+---
 # [*The Bitcoin Standard: The Decentralized Alternative to Central Banking*](https://saifedean.com/thebitcoinstandard/) by [[Saifedean Ammous]]
 
 <img src="https://media.wiley.com/product_data/coverImage300/61/11194738/1119473861.jpg" width=150>

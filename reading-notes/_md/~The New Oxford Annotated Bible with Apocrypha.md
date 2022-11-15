@@ -17,6 +17,16 @@ translation: New Revised Standard Version
 
 `(New York: Oxford University Press, 2018), 2440`
 
+## 4 Maccabees
+- Author's thesis: **devout reason is sovereign over the emotions**
+- Eleazar and the seven brothers and their mother (cf. [[2 Mc-07]]) demonstrate how reason controls the emotions
+- Wonderful image: "Just as pleasure and pain are two plants growing from the body and the soul, so there are many offshoots of these plants, each of which the master cultivator, reason, weeds and prunes and ties up and waters and thoroughly irrigates, and so tames the jungle of habits and emotions. For reason is the guide of the [[virtues]], but over the emotions it is sovereign." (4 Mc 1:28-30, NRSV)
+- The [[Chastity]] of [[Joseph (OT)]]: "It is for this reason, certainly, that the temperate Joseph is praised, because by mental effort he overcame sexual desire. For when he was young and in his prime for intercourse, by his reason he nullified the frenzy of the passions." (4 Mc 2:2-3, cf. [[Gn-39#v7]])
+- We correct those we love: "It is superior to love for one's wife, so that one rebukes her when she breaks the law. It takes precedence over love for children, so that one punishes them for misdeeds. It is sovereign over the relationship of friends, so that one rebukes friends when they act wickedly." (4 Mc 2:11-13)
+- "Now when God fashioned man, he planted in him emotions and inclinations, but at the same time he enthroned the mind among the senses as a sacred governor over them all." (4 Mc 2:21-22)
+- 
+- [ ] keep #read at ch 3 📅 2022-11-07 
+
 --- 
 
 **Topic**: [[The Bible]]

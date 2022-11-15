@@ -1,8 +1,10 @@
+<li><i>Saint Dominic and the Order of Preachers</i> by Simon Tugwell, O.P.</li>
+<li><i>The Hope of Salvation for Infants who Die Without Being Baptized</i> by International Theological Commission</li>
 <li><i>The Drama of Atheist Humanism</i> by Henri de Lubac</li>
 <li><i>Rosarium Virginis Mariae</i> by Pope John Paul II</li>
 <li><i>Charlotte's Web</i> by E. B. White</li>
 <li><i>Diary of an American Exorcist</i> by Fr. Stephen Rossetti</li>
-<li><i>The Stick Chair Book</i> by Christopher Schwartz</li>
+<li><i>The Stick Chair Book</i> by Christopher Schwartz (<a href="https://matthewkudija.com/reading-notes/2022-10-11-The-Stick-Chair-Book.html">Notes</a>)</li>
 <li><i>In the Eye of the Storm: A Biography of Gregory the Great</i> by Sigrid Grabner</li>
 <li><i>The Only Skill that Matters</i> by Jonathan Levi</li>
 <li><i>Hornblower During the Crisis</i> by C. S. Forester</li>

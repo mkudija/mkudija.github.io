@@ -121,7 +121,7 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 ### 2. The Spirit of Christianity  (★)
 *We must recognize our own shortcomings in living the Christian life and return to the spirit of Christianity: The Gospels.*
 
-# Part Two: [[Auguste Compte|Auguste Compte]] and Christianity
+# Part Two: [[Auguste Comte|Auguste Compte]] and Christianity
 
 ## Chapter 1: The Meaning of Comtian Atheism 
 

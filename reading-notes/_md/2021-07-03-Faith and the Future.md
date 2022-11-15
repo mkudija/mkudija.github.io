@@ -17,7 +17,7 @@ isbn13: 9781681491684
 `(San Francisco: Ignatius, 1970/2009), 118`
 
 ## Faith and Knowledge
-- [[Auguste Compte]]: "man can live without God, but he cannot live without religion" (14)
+- [[Auguste Comte]]: "man can live without God, but he cannot live without religion" (14)
 - “The days in which we live are very much characterized by a yearning for faith: the world of planned economy, of research, of exact calculation and experiment is quite obviously not enough to satisfy people.” (25-26)
 - [[Scientism]]: "The renunciation of truth itself and a reliance upon what is verifiable and upon the correctness of methods are typical of the modern natural scientific outlook. Man now operates only within his own shell...it has made him the prisoner of his own methods, of himself." (27)
 - "Christian faith is not: I believe something, but I believe *you*." (30)

@@ -64,6 +64,8 @@ publish: true
 ## Gmail
 *[Keyboard shortcuts for Gmail](https://support.google.com/mail/answer/6594?hl=en&co=GENIE.Platform=Desktop#zippy=%2Capplication%2Cnavigation%2Cactions)*
 - search: `category:social , older_than:2y `
+- search: `larger:10M after:2021/11/3 before:2023/11/4 `
+- search: `size:25mb older_than:1y `
 - `a` - reply all
 - `shift + u` - mark as unread
 - `u` - return to inbox

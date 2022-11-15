@@ -26,63 +26,65 @@ isbn13: 9781439144732
 </details>
 
 
-## Chapter 1:
+## Chapter 1: The Transition of the Year 2000: The Fourth Stage of Human Society
 _**Summary**: _
 
 
 
-## Chapter 2:
+## Chapter 2: Megapolitical Transformations in Historic Perspective
 _**Summary**: _
 
 
 
-## Chapter 3:
+## Chapter 3: East of Eden: The Agricultural Revolution and the Sophistication of Violence
 _**Summary**: _
 
 
 
-## Chapter 4:
+## Chapter 4: The Last Days of Politics: Parallels Between the Senile Decline of the Holy Mother Church and the Nanny State
 _**Summary**: _
 
 
 
-## Chapter 5:
+## Chapter 5: The Life and Death of the Nation-State: Democracy and Nationalism as Resource Strategies in the Age of Violence
 _**Summary**: _
 
 
 
-## Chapter 6:
+## Chapter 6: The Megapolitics of the Information Age: The Triumph of Efficiency over Power
 _**Summary**: _
 
 
 
-## Chapter 7:
+## Chapter 7: Transcending Locality: The Emergence of the Cybereconomy
 _**Summary**: _
 
 
 
-## Chapter 8:
+## Chapter 8: The End of Egalitarian Economics: The Revolution in Earnings Capacity in a World Without Jobs
 _**Summary**: _
 
 
 
-## Chapter 9:
+## Chapter 9: Nationalism, Reaction, and the New Luddites
 _**Summary**: _
 
 
 
-## Chapter 10:
+## Chapter 10: The Twilight of Democracy
 _**Summary**: _
 
 
 
-## Chapter 11:
+## Chapter 11: Morality and Crime in the "Natural Economy" of the Information Age
 _**Summary**: _
 
 
 
 
 --- 
+**Topic**: [[Politics]]
+
 **Source**: [[Cory]]
 
 **Bibliography**
@@ -94,6 +96,6 @@ _**Summary**: _
 - 
 
 ---
-Created: 2022-02-04
+Created: [[2022-02-04-Fri]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
 

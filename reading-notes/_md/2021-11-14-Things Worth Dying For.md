@@ -75,7 +75,7 @@
 - **Science and technology**: video games and reproductive technology
 - **Hostility to the idea of a family**: 
 	- [[Marx]] saw the family as perpetuating bad historical forces
-	- [[Auguste Compte]] (founder of [[Positivism]]): man is an object of study like any other object and scientific fact is the only true knowledge
+	- [[Auguste Comte]] (founder of [[Positivism]]): man is an object of study like any other object and scientific fact is the only true knowledge
 	- As a result, social sciences are really a branch of moral philosophy (cf. [[Neil Postman]])
 	- [[Shulamith Firestone]] (radical [[Feminism|feminist]]) and [[Wilhelm Reich]] illustrate [[Why extreme ideas matter]]: they "embody the purest logic of an argument and signal it's end result, force the borders of acceptable discourse to extend, and make previously excessive views seem more reasonable" (155)
 	- [[Christopher Lasch]] in *Heaven in a Heartless World: The Family Besieged*: parental influence has declined in recent decades through the "medicalization of society" imposing on what happens in the home. This hints at a similar skepticism of "professional family experts" as that presented in *[[2021-11-16-Hunt, Gather, Parent]]*

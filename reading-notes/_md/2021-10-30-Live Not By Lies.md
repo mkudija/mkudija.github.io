@@ -73,7 +73,7 @@ isbn13: 9780593087404
 - [[Progress & History]]: rather than a cyclical view of progress, Hebrew religion moves in a linear direction from creation to redemption.
 	- But, this doesn't imply that all changes improve upon the past inevitably
 	- Modern progressivism originates in the [[Enlightenment]] with the replacement of faith in God with faith in science and technology, or [[Positivism]]: science is the source of all authoritative knowledge
-	- [[Positivism]] expounded by[[Henri de Saint-Simon]] and [[Auguste Compte]], incorporated into classical liberal political tradition by [[John Stuart Mill]] and therefore the foundation of the American dream
+	- [[Positivism]] expounded by[[Henri de Saint-Simon]] and [[Auguste Comte]], incorporated into classical liberal political tradition by [[John Stuart Mill]] and therefore the foundation of the American dream
 	- Left and Right today is really a disagreement between radical progressives and conservative progressives over the rate and details of change
 - Dissent from Progress in the form of *thoughtcrimes* make accusation and guilt the same thing
 	- Similarly, individual deeds and actions are replaced with social class and status in determining guilt or innocence

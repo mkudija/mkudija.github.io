@@ -47,6 +47,9 @@ _**Summary**: Lewis illustrates the "Abolition of Man"  as the logical end of a 
 - ...this all reminds me of *[[2017-06-19-Player Piano]]*
 
 
+Other:
+- "Evil can be undone, but it cannot 'develop' into good. Time does not heal it. The spell must be unwound, bit by bit, 'with backward mutters of disservering power'—or else not." (from [[2022-11-06 Article-Mankowski on Inclusive Language]])
+
 
 --- 
 **Source**: [[Dan Gibson]], FT Thomist
