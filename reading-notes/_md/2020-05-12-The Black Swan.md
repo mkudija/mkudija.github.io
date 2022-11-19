@@ -102,7 +102,7 @@ Black Swan:
 - The turkey problem = the problem of induction = Hume's problem = the problem of generalizing from available information
 
 ### Chapter 5: Confirmation Shmonfirmation!
-- we naturally look to confirm our story—*confirmation bias*—"but disconfirming instances are far more powerful in establishing truth" (58)
+- we naturally look to confirm our story—*[[confirmation bias]]*—"but disconfirming instances are far more powerful in establishing truth" (58)
 - Karl Popper: "understanding how to act under conditions of incomplete information is the highest and most urgent human pursuit"
   - form a bold conjecture, and look for what would prove you wrong
 

@@ -1,5 +1,18 @@
-
+---
+aliases: [Cribsheet]
+title: Cribsheet
+author: Emily Oster
+category: Parenting
+publisher: 
+total_page: 322
+cover_url: http://books.google.com/books/content?id=ba-RyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2020-04-02
+isbn10: 1788164490
+isbn13: 9781788164498
+---
 # [*Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool*](https://www.amazon.com/Cribsheet-Data-Driven-Relaxed-Parenting-Preschool/dp/0525559272) by Emily Oster
+
+<img src="http://books.google.com/books/content?id=ba-RyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: Souvenir, 2019), 311`
 
@@ -46,7 +59,7 @@
 >Too often we focus on the benefits at the expense of thinking about the costs. But benefits can be overstated, and costs can be profound. (xxii)
 
 - there are some questions the data can't answer for your --> uncertainty (xxii)
-- **[[Avoiding Cognitive Dissonance]]**: we want our choices to be right, so after we make them we encamp ourselves as advocates of them (xxiii)
+- **[[Avoiding Cognitive Dissonance]]** or [[Choice-supportive bias]]: we want our choices to be right, so after we make them we encamp ourselves as advocates of them (xxiii)
 	- I see this all the time in people giving career advice: I want to have made the right decision so you should do what I did
 	- This misses the point that your choices can be right for you but not other people. That's ok; people's constraints differ
 
