@@ -1,4 +1,15 @@
-
+---
+aliases: [The Deficit Myth]
+title: The Deficit Myth
+author: Stephanie Kelton
+category: Business & Economics
+publisher: PublicAffairs
+total_page: 336
+cover_url: http://books.google.com/books/content?id=JcWWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2020-06-09
+isbn10: 1541736206
+isbn13: 9781541736207
+---
 # [*The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*](https://www.hachettebookgroup.com/titles/stephanie-kelton/the-deficit-myth/9781541736207/) by [[Stephanie Kelton]]
 
 <img src="https://www.hachettebookgroup.com/wp-content/uploads/2019/05/DefecitMyth.jpg?fit=435%2C675" width=150>
@@ -112,5 +123,6 @@ Cory recommended this to learn the "playbook" so I approached it with that goal.
 - discretionary vs automatic spending: have the budget respond automatically to changing conditions 
 
 ---
-Created: 2021-03-05
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-03-05-Fri]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+

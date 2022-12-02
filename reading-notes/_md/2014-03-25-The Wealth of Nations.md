@@ -1,5 +1,8 @@
+---
+aliases: [The Wealth of Nations]
+---
 
-# The Wealth of Nations by Adam Smith
+# *The Wealth of Nations* by Adam Smith
 
 * electronic version: http://www2.hn.psu.edu/faculty/jmanis/adam-smith/wealth-nations.pdf
 
@@ -53,3 +56,6 @@
     * Chapter I - OF THE PRINCIPLE OF THE COMMERCIAL OR MERCANTILE SYSTEM
         * makes argument against protectionist tariffs and large gold reserve
 
+---
+Created: 2014-03-25
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

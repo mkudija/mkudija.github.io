@@ -48,6 +48,7 @@ publish: true
 - *Harold And the Purple Crayon* by Crockett Johnson
 - *The Gruffalo* by Julia Donaldson
 - *Madeline* by Ludwig Bemelmans
+- *A Bad Case of Stripes* by David Shannon
 - *Stellaluna* by Janell Cannon
 - *The Elephant’s Airplane and Other Machines* by Anne-Marie Dalmais
 - *Mike Milligan and his Steam Shovel* by Virginia Lee Burton

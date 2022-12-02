@@ -24,8 +24,10 @@ translation: New Revised Standard Version
 - The [[Chastity]] of [[Joseph (OT)]]: "It is for this reason, certainly, that the temperate Joseph is praised, because by mental effort he overcame sexual desire. For when he was young and in his prime for intercourse, by his reason he nullified the frenzy of the passions." (4 Mc 2:2-3, cf. [[Gn-39#v7]])
 - We correct those we love: "It is superior to love for one's wife, so that one rebukes her when she breaks the law. It takes precedence over love for children, so that one punishes them for misdeeds. It is sovereign over the relationship of friends, so that one rebukes friends when they act wickedly." (4 Mc 2:11-13)
 - "Now when God fashioned man, he planted in him emotions and inclinations, but at the same time he enthroned the mind among the senses as a sacred governor over them all." (4 Mc 2:21-22)
+- "No one of us can eradicate that kind of desire, but reason can provide a way for us not to be enslaved by desire." (4 Mc 3:2, cf [[2 Sm-23#v15]]/[[1 Chr-11#v17]] using the example of David refusing water to demonstrate this)
+- [[Eleazar]]: "To transgress the law in matters either small or great is of equal seriousness, for in either case the law is equally despised" (4 Mc 5:20-21)
 - 
-- [ ] keep #read at ch 3 📅 2022-11-07 
+- [ ] keep #read at ch 6 📅 2022-11-19
 
 --- 
 

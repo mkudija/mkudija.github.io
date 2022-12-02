@@ -20,7 +20,7 @@ isbn13: 9780735216952
 ## Introduction
 - [[Inflation]] is a psychological phenomenon based on expectations: money supply can lead to inflation but inflation requires a catalyst (4)
 	- "[[Inflation]] is always and everywhere a psychological phenomenon. When citizens lose confidence in a form of money, velocity takes off." (8)
-- *[[2021-03-05-The Deficit Myth]]*: "Contrary to the leanings of modern monetary theorists like Professor [[Stephanie Kelton]], the Fed does not have an unlimited capacity to monetize debt. The constraint is not legal, but psychological. There is an invisible confidence boundary on the size of the Fed's balance sheet. The Fed cannot cross this boundary without destroying confidence in the central bank and the dollar...A central bank will find out the hard way instantaneously when they cross it." (11)
+- *[[2021-03-05-The Deficit Myth|The Deficit Myth]]*: "Contrary to the leanings of modern monetary theorists like Professor [[Stephanie Kelton]], the Fed does not have an unlimited capacity to monetize debt. The constraint is not legal, but psychological. There is an invisible confidence boundary on the size of the Fed's balance sheet. The Fed cannot cross this boundary without destroying confidence in the central bank and the dollar...A central bank will find out the hard way instantaneously when they cross it." (11)
 - [[Gerald Ford]]'s two great contributions were 1) the [[Helsinki Accords]] which recognized human right and freedom in Soviet States, setting the stage for [[John Paul II]]'s activities in Poland, among others; and 2) the legalization of the owning of gold: "Freedom to own gold means freedom from inflation, freedom from banks, and freedom from digital surveillance and hacking...Americans can create a personal gold standard thanks to the emancipation from fiat money afforded by [[Gerald Ford]]." (15-17) 
 
 
@@ -84,12 +84,12 @@ _**Summary**: The best time to buy gold is now before the next crisis hits._
 >Two ways. Gradually and then suddenly.
 >–*The Sun Also Rises* by [[Ernest Hemingway]]
 
-- *[[2022-02-05-The Mandibles]]* by [[Lionel Shriver]] or *[[~Our Town]]* by [[Thornton Wilder]] is a more realistic view of what happens after a financial collapse: hyperinflation, barter economy, mass unemployment, rather than something more post-apocalyptic like *[[2021-07-27-The Road]]*
+- *[[2022-02-05-The Mandibles|The Mandibles]]* by [[Lionel Shriver]] or *[[~Our Town|Our Town]]* by [[Thornton Wilder]] is a more realistic view of what happens after a financial collapse: hyperinflation, barter economy, mass unemployment, rather than something more post-apocalyptic like *[[2021-07-27-The Road|The Road]]*
 	- "Those who assume such scenarios won't happen again put too much faith in central banks and too little in the study of history." (293)
 	- The novel demonstrates the importance of rural community and practical skills for surviving a collapse
 	- "A farm is more important than a college degree"...wealth consists of tangible assets and practical skills..."hard assets and hard work are the only stores of value" (295)
 
-### Conclusion excerpt about *[[2022-02-05-The Mandibles]]* (292-296):
+### Conclusion excerpt about *[[2022-02-05-The Mandibles|The Mandibles]]* (292-296):
 
 The best depiction of life after a financial collapse is found in *The Mandibles*, a brilliant 2016 novel by the award-winning author Lionel Shriver. The novel offers details of an economic collapse in 2029, but is mostly concerned with the lives of everyday people living in the aftermath, Like Anthony Burgess, Shriver invents words and phrases as needed to convey the unfamiliar. She uses Stone Age to describe a power-grid collapse that preceded the financial crash, and Dryout to describe water scarcity in urban areas.
 
@@ -120,7 +120,7 @@ This is not to say that one should not hold stocks and bonds today alongside har
 Shiver ends *The Mandibles* with a revelation by the then oldest member of the family, who rescues the clan with a gift of the one form of money that survived the chaos against all odds, hidden in a box. I won't ruin the surprise by saying what's in the box. But, if you know my writings, you can probably guess.
 
 
-[[2022-02-05-The Mandibles#^737790]]
+*[[2022-02-05-The Mandibles#^737790|The Mandibles]]*
 <details>
  <summary><i>(Spoiler Alert)</i></summary>
 "Right answer," Nollie said, lifting her feet from the box. She peeled off the tired packing tape, folded back the flaps, and removed the top stacks of banded printouts to the floor. She fingered up a pool of can-died kumquat drool from the laminated tabletop and moved the Bountiful House goblet out of the way. Struggling even using both hands, from the middle of the carton she withdrew a boxed manuscript titled <i>Better Late Than</i>. When she plunked it on the table, the tequila glasses rattled. She slipped off the top of the mimeo-paper box and removed about fifty pages. "There," she said. "Capital." 
@@ -131,7 +131,7 @@ Shiver ends *The Mandibles* with a revelation by the then oldest member of the f
 --- 
 **Topics**: [[Gold]], [[Investing]], [[Economics]], [[Inflation]]
 
-**Source**: *[[2021-04-17-Currency Wars]]*
+**Source**: *[[2021-04-17-Currency Wars|Currency Wars]]*
 
 
 ---

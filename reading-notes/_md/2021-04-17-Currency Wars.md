@@ -1,4 +1,15 @@
-
+---
+aliases: [Currency Wars]
+title: Currency Wars
+author: James Rickards
+category: Business & Economics
+publisher: Penguin
+total_page: 318
+cover_url: http://books.google.com/books/content?id=0tEuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2012-08-28
+isbn10: 1591845564
+isbn13: 9781591845560
+---
 # [*Currency Wars: The Making of the Next Global Crisis*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564) by [[James Rickards]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51JSyLEs4YL._SX324_BO1,204,203,200_.jpg" width=150>

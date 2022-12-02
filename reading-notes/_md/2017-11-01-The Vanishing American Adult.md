@@ -1,11 +1,22 @@
-
+---
+aliases: [The Vanishing American Adult]
+title: The Vanishing American Adult
+author: Ben Sasse
+category: Political Science
+publisher: St. Martin's Griffin
+total_page: 352
+cover_url: http://books.google.com/books/content?id=0FVFDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2017-05-16
+isbn10: 1250114411
+isbn13: 9781250114419
+---
 # [*The Vanishing American Adult: Our Coming-of-Age Crisis--and How to Rebuild a Culture of Self-Reliance*](https://us.macmillan.com/books/9781250181206/the-vanishing-american-adult) by [[Ben Sasse]]
 
 <img src="https://mpd-biblio-covers.imgix.net/9781250181206.jpg?w=900" width=150>
 
 `(New York: St. Martin's, 2017), 320`
 
-*I lent my copy of this with my notes to an acquiaintance and never received it back. These are partial notes from perusal in 2022-03.*
+*I lent my copy of this with my notes to an acquaintance and never received it back. These are partial notes from perusal in 2022-03.*
 
 # Part I: Our Passivity Problem
 
@@ -53,8 +64,8 @@ Sasse's 60-book shelf includes:
 	- [[Genesis]]
 	- [[Matthew]]
 	- [[Romans]]
-	- *Commentary on Galatians* by Luther
-	- *The Institutes of the Christian Religion* by Calvin
+	- *Commentary on Galatians* by [[Martin Luther|Luther]]
+	- *The Institutes of the Christian Religion* by [[John Calvin|Calvin]]
 - Greek roots
 	- *Ethics* by [[Aristotle]]
 	- *Crito* by [[Plato]]
@@ -62,7 +73,7 @@ Sasse's 60-book shelf includes:
 	- *History of the Peloponnesian War* by Thucydides
 	- *Three Thebian Plays* by Sophocles
 - Homesick Souls
-	- *[[~Confessions]]* by [[St. Augustine]]
+	- *[[~Confessions|Confessions]]* by [[St. Augustine]]
 	- *Why God Became Man* by Anselm of Canterbury
 	- *Bondage of the Will* by Luther
 	- *[[2021-08-12-Summa Theologiae|Summa Theologiae]]* by [[St. Thomas Aquinas]]
@@ -78,12 +89,12 @@ Sasse's 60-book shelf includes:
 	- *The Declaration of Independence*
 	- *The Constitution*
 	- *The Federalist Papers*
-	- *[[~Democracy in America]]* by [[Alexis de Tocqueville]]
+	- *[[~Democracy in America|Democracy in America]]* by [[Alexis de Tocqueville]]
 	- *Narrative of the Life of Frederick Douglass*
 	- *Lincoln-Douglas Debates of 1858*
 - Markets
 	- *Politics* by [[Aristotle]]
-	- *[[2014-03-25-The Wealth of Nations]]* by Adam Smith
+	- *[[2014-03-25-The Wealth of Nations|The Wealth of Nations]]* by Adam Smith
 	- *The Market Revolution* by Charles Sellers
 	- *Free to Choose* by Milton and Rose Friedman
 	- *Guns, Germs, and Steel* by Jared Diamond
@@ -91,16 +102,16 @@ Sasse's 60-book shelf includes:
 	- *Communist Manifesto* by [[Marx]]
 	- *Origins of Totalitarianism* by Hannah Arendt
 	- *The Road to Serfdom* by [[F.A. Hayek]]
-	- *[[~Animal Farm]]* by [[George Orwell]]
-	- *[[~1984]]* by [[George Orwell]]
-	- *[[~Brave New World]]* by [[Aldous Huxley]]
+	- *[[~Animal Farm|Animal Farm]]* by [[George Orwell]]
+	- *[[~1984|1984]]* by [[George Orwell]]
+	- *[[~Brave New World|Brave New World]]* by [[Aldous Huxley]]
 - The Nature of Things
 	- *On the Nature of Things* by Lucretius
-	- *Structure of Scientific Revolutions* by Thomas Kuhn
+	- *[[~The Structure of Scientific Revolutions|The Structure of Scientific Revolutions]]* by Thomas Kuhn
 	- *Elements of Geometry* by Euclid
 - American Fiction
 	- *Huckleberry Finn* by Mark Twain
-	- *[[2020-01-10-Death Comes for the Archbishop]]* and *O, Pioneers!* by Willa Cather
+	- *[[2020-01-10-Death Comes for the Archbishop|Death Comes for the Archbishop]]* and *O, Pioneers!* by Willa Cather
 	- *Grapes of Wrath* by John Steinbeck
 	- *Go Tell It on the Mountain* by James Baldwin
 	- *Invisible Man* by Ralph Ellison
