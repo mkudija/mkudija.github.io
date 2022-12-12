@@ -1,4 +1,15 @@
-
+---
+aliases: [Living the Truth in Love]
+title: Living the Truth in Love
+author: Janet Smith, Ph.D.
+category: Religion
+publisher: Ignatius Press
+total_page: 357
+cover_url: http://books.google.com/books/content?id=ZgLkCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2015-10-05
+isbn10: 1621640604
+isbn13: 9781621640608
+---
 # [*# Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction*](https://ignatius.com/living-the-truth-in-love-litlp/) edited by Janet Smith & Father Paul Check
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1573/1774/LITLP_r__55503.1617023967.jpg?c=1" width=150>
@@ -43,7 +54,7 @@
 --- 
 **Topic**: [[Homosexuality]] (this book uses the term same-sex attraction or SSA)
 
-**Source**: St. Patrick book sale
+**Source**: [[St. Pat's KoC Book Sale]] 2021
 
 **Bibliography**
 

@@ -1,0 +1,240 @@
+<!DOCTYPE HTML>
+
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+
+<html lang="en">
+<head>
+<title>Matthew Kudija | Reading Notes</title>
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico"/>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="https://matthewkudija.com/" class="logo">Matthew Kudija</a>
+<div class="header-right">
+<!-- <a href="https://matthewkudija.com/">Home</a> -->
+<a href="https://matthewkudija.com/about">About</a>
+<a href="https://matthewkudija.com/notes/">Notes</a>
+<a href="https://matthewkudija.com/reading-notes/">Reading Notes</a>
+<a href="https://matthewkudija.com/reading">Reading List</a>
+</div>
+</header>
+
+<!-- Content -->
+
+<h1 id="mastering-bitcoin-programming-on-the-open-blockchainhttpswwworeillycomlibraryviewmastering-bitcoin-2nd9781491954379-by-a-hrefnotesandreas-m-antonopouloshtmlandreas-m-antonopoulosa"><em><a href="https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/">Mastering Bitcoin: Programming on the Open Blockchain</a></em> by <a href="../notes/Andreas-M.-Antonopoulos.html">Andreas M. Antonopoulos</a></h1>
+
+<p><img src="https://learning.oreilly.com/library/cover/9781491954379/250w/" width=150></p>
+
+<p><code>(Boston: O'Reilly, 2014/2017), 416</code></p>
+
+<p>This book is, as it claims to be in the preface (xviii), the <strong><em>the definitive technical book on cryptocurrencies and bitcoin</em></strong>. "Mastering" bitcoin requires more than the introductory read I gave this, but that introductory read is quite helpful for understanding the concepts and a second pass through the examples in the book is a good next step. </p>
+
+<p>Read the book on Github here: <a href="https://github.com/bitcoinbook/bitcoinbook">GitHub - bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain</a></p>
+
+<h1 id="notes">Notes</h1>
+
+<p><details><br />
+ <summary><i>Contents</i></summary><br />
+<!-- MarkdownTOC autolink="true" --></p>
+
+<ul>
+<li><a href="#preface">Preface</a></li>
+<li><a href="#chapter-1-introduction">Chapter 1: Introduction</a></li>
+<li><a href="#chapter-2-how-bitcoin-works">Chapter 2: How Bitcoin Works</a></li>
+<li><a href="#chapter-3-bitcoin-core-the-reference-implementation">Chapter 3: Bitcoin Core: The Reference Implementation</a></li>
+<li><a href="#chapter-4-keys-addresses">Chapter 4: Keys, Addresses</a></li>
+<li><a href="#chapter-5-wallets">Chapter 5: Wallets</a></li>
+<li><a href="#chapter-6-transactions">Chapter 6: Transactions</a></li>
+<li><a href="#chapter-7-advanced-transactions-and-scripting">Chapter 7: Advanced Transactions and Scripting</a></li>
+<li><a href="#chapter-8-the-bitcoin-network">Chapter 8: The Bitcoin Network</a></li>
+<li><a href="#chapter-9-the-blockchain">Chapter 9: The Blockchain</a></li>
+<li><a href="#chapter-10-mining-and-consensus">Chapter 10: Mining and Consensus</a></li>
+<li><a href="#chapter-11-bitcoin-security">Chapter 11: Bitcoin Security</a></li>
+<li><a href="#chapter-12-blockchain-applications">Chapter 12: Blockchain Applications</a></li>
+</ul>
+
+<p><!-- /MarkdownTOC --><br />
+</details></p>
+
+<h2 id="preface">Preface</h2>
+
+<ul>
+<li>this book intended for coders: learn how cryptocurrencies work, how to use them, and how to develop software that works with them (xiii)</li>
+<li>ants on the cover because leafcutter ants form complex, decentralized societies</li>
+<li>"<a href="../notes/Writing.html">Writing</a> 500 words a week for four years gave me enough experience to eventually consider becoming an author." (xix)</li>
+<li>"I owe my love of words and books to my mother, Theresa, who raised me in a house with books lining every wall. My mother also bought me my first computer in 1982, despite being a self-described technophobe. My father, Menelaos, a civil engineer who just published his first book at 80 years old, was the one who taught me logical and analytical thinking and a love of science and engineering." (xx)</li>
+</ul>
+
+<h2 id="chapter-1-introduction">Chapter 1: Introduction</h2>
+
+<p><em><strong>Summary</strong>: Bitcoin provides the technologies (protocol, blockchain, consensus rules, Proof-of-work) to issue currency and validate transactions in a decentralized manner.</em></p>
+
+<ul>
+<li><a href="../notes/Bitcoin.html">Bitcoin</a> is "a collection of concepts and technologies that form the basis of a digital money ecosystem." (1), consisting of:<br />
+<ul><br />
+<li>A decentralized peer-to-peer network (the bitcoin protocol)</li><br />
+<li>A public transaction ledger (the blockchain)</li><br />
+<li>A set of rules for independent transaction validation and currency issuance (consensus rules)</li><br />
+<li>A mechanism for reaching global decentralized consensus on the valid blockchain (Proof-of-work algorithm)</li><br />
+</ul></li>
+<li>Users of bitcoin own keys that allow them to prove ownership of bitcoin in the bitcoin network </li>
+<li>Bitcoin mining decentralizes the currency-issuance and clearing functions of a central bank and replaces the need for any central bank</li>
+<li>A wallet is to bitcoin, as a browser is to the internet<br />
+<ul><br />
+<li>A wallet is simply a collection of addresses and the keys that unlock the funds within</li><br />
+</ul></li>
+</ul>
+
+<h2 id="chapter-2-how-bitcoin-works">Chapter 2: How Bitcoin Works</h2>
+
+<p><em><strong>Summary</strong>: An overview of the basic concepts of bitcoin by following a simple transaction.</em></p>
+
+<ul>
+<li>A <strong>transaction</strong> tells the network that the owner of some bitcoin has authorized the transfer to another owner. "Spending" is signing a transaction that transfers value.<br />
+<ul><br />
+<li>Transaction inputs cannot be divided, so the "change" is returned to a new address.</li><br />
+</ul></li>
+<li>The transaction is propagated to the network and validated when a new block is <strong>mined</strong> and added to the blockchain<br />
+<ul><br />
+<li>Mining uses a proof-of-work algorithm that is asymmetrically hard to solve but easy to verify (generating a SHA256 hash that meets requirements of a number of leading zeroes)</li><br />
+</ul></li>
+</ul>
+
+<h2 id="chapter-3-bitcoin-core-the-reference-implementation">Chapter 3: Bitcoin Core: The Reference Implementation</h2>
+
+<p><em><strong>Summary</strong>: This is a technical chapter for getting setup with a bitcoin developer environment.</em><br />
+- Bitcoin is open source software: <a href="https://github.com/bitcoin/bitcoin">GitHub - bitcoin/bitcoin: Bitcoin Core</a></p>
+
+<h2 id="chapter-4-keys-addresses">Chapter 4: Keys, Addresses</h2>
+
+<p><em><strong>Summary</strong>: A random number is the private key used to sign transactions, from which is generated a public key that can generate multiple addresses to receive funds.</em></p>
+
+<ul>
+<li>"Ownership of bitcoin is established through digital keys, bitcoin addresses, and digital signatures. The digital keys are not actually stored in the network, but are instead created and stored by users in a file, or simple database, called a wallet." (55)</li>
+<li>Bitcoin uses <a href="../notes/Elliptic-curve-point-multiplication.html">Elliptic curve point multiplication</a> (56)</li>
+<li>Bitcoin uses public key cryptography to create a key pair (56):<br />
+<ul><br />
+<li><strong>public key (K)</strong>: used to receive funds</li><br />
+<li><strong>private key (k)</strong>: used to sign transactions that spend funds, a number picked at random</li><br />
+<li><strong>address (A)</strong>: generated with hash from public key, displayed in <strong>Base58</strong> (a format developed for bitcoin) or <strong>Base58check</strong> (which includes extra data for error checking)<br /><br />
+<ul><br /><br />
+<li>start with <code>1</code> for standard addresses </li><br /><br />
+<li>start with <code>3</code> for Pay-to-Script Hash (P2SH, i.e. multisig)</li><br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
+
+<p><img src="https://github.com/bitcoinbook/bitcoinbook/raw/develop/images/mbc2_0401.png" width="100%"></p>
+
+<h2 id="chapter-5-wallets">Chapter 5: Wallets</h2>
+
+<p><em><strong>Summary</strong>: A wallet is simply a container for private keys.</em></p>
+
+<ul>
+<li>Wallets do not contain coins, but rather the keys that allow for the signing of transactions that spend the coins present on the blockchain </li>
+<li><strong>Nondeterministic wallet</strong>: each key is independently generated from a random number (must be backed up frequently)</li>
+<li><strong>Deterministic wallet</strong>: all the keys are derived from a single master key (the <em>seed</em>, encoded as a set of <em>mnemonic code words</em>)<br />
+<ul><br />
+<li><strong>HD Wallets</strong>: have a tree structure and can produce public keys without the corresponding private key (to create issue a different public key for each transaction)</li><br />
+</ul></li>
+</ul>
+
+<h2 id="chapter-6-transactions">Chapter 6: Transactions</h2>
+
+<h2 id="_summary-_">_<strong>Summary</strong>: _</h2>
+
+<h2 id="chapter-7-advanced-transactions-and-scripting">Chapter 7: Advanced Transactions and Scripting</h2>
+
+<p>_<strong>Summary</strong>: _</p>
+
+<h2 id="chapter-8-the-bitcoin-network">Chapter 8: The Bitcoin Network</h2>
+
+<p>_<strong>Summary</strong>: _</p>
+
+<h2 id="chapter-9-the-blockchain">Chapter 9: The Blockchain</h2>
+
+<p>_<strong>Summary</strong>: _</p>
+
+<h2 id="chapter-10-mining-and-consensus">Chapter 10: Mining and Consensus</h2>
+
+<p>_<strong>Summary</strong>: _</p>
+
+<h2 id="chapter-11-bitcoin-security">Chapter 11: Bitcoin Security</h2>
+
+<p>_<strong>Summary</strong>: _</p>
+
+<h2 id="chapter-12-blockchain-applications">Chapter 12: Blockchain Applications</h2>
+
+<p>_<strong>Summary</strong>: _</p>
+
+<hr />
+
+<p><strong>Topic</strong>: <a href="../notes/Bitcoin.html">Bitcoin</a></p>
+
+<h2 id="source"><strong>Source</strong></h2>
+
+<p><strong>Bibliography</strong></p>
+
+<pre><code>&lt;a href="../notes/bib.html"&gt;bib&lt;/a&gt; file:(2022-12-08-Mastering Bitcoin)
+</code></pre>
+
+<p><strong>New Words</strong></p>
+
+<ul>
+- 
+</ul>
+
+<hr />
+
+<p>Created: <a href="2022-03-22-Tue.html">2022-03-22-Tue</a><br />
+Updated: 2022-12-11-Sun</p>
+
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<script src="../assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+</body>
+<hr>
+<footer id="footer" align="center">
+<center>
+<img src="../images/kudija_family_shield.png" width=100px>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</footer>
+</html>

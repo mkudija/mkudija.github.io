@@ -1,18 +1,20 @@
-# *[From Islam to Christ](https://www.ignatius.com/From-Islam-to-Christ-P1287.aspx)* by Derya Little
+---
+aliases: [From Islam to Christ]
+title: From Islam to Christ
+author: Derya Little
+category: Religion
+publisher: Ignatius Press
+total_page: 204
+cover_url: http://books.google.com/books/content?id=0nEuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2017-06-19
+isbn10: 1681497700
+isbn13: 9781681497709
+---
+# *[From Islam to Christ: One Woman's Path through the Riddles of God](https://www.ignatius.com/From-Islam-to-Christ-P1287.aspx)* by Derya Little
 
-<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fISCHP.jpg&maintainAspectRatio=true" width=150>
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1330/1541/ISCHP_r__19212.1617023804.jpg?c=1" width=150>
 
 `(San Francisco: Ignatius, 2017), 204`
-
-
-## Books she references
-- *Price to Pay* by Joseph Fadelle (25)
-- *What's Wrong With the World* by [[G.K. Chesterton]] (85)
-- *By What Authority?: An Evangelical Discovers Catholic Tradition* by Mark Shea (140)
-- *Principles of Catholic Theology* by [[Joseph Ratzinger]]
-- *Without Roots* by [[Joseph Ratzinger]]
-- *The Apostasy That Wasn't: The Extraordinary Story of the Unbreakable Early Church* by Rod Bennett
-- *The Everlasting Man* by [[G.K. Chesterton]]
 
 
 ## On Islam
@@ -22,16 +24,16 @@
 
 
 ## On Christianity
-- "In Christian culture, the grace of God mainfested through the sacrifice of Christ mitigates against the tendency of men to dominate those physically weaker than themselves, in other words, women and children." (28)
-- "everyone who takees his religion seriously is naturally a missionary" (81)
+- "In Christian culture, the grace of God manifested through the sacrifice of Christ mitigates against the tendency of men to dominate those physically weaker than themselves, in other words, women and children." (28)
+- "everyone who takes his religion seriously is naturally a missionary" (81)
 - "Thankfully the Holy Spirit is more stubborn than I am" (95)
-- The Grand Inquisitor (*[[2014-12-20-The Brothers Karamazov]]*): "There is both beauty and misery hidden within freedom. It is not that God lets us down; it is that we let Him down." (101)
+- The Grand Inquisitor (*[[2014-12-20-The Brothers Karamazov|The Brothers Karamazov]]*): "There is both beauty and misery hidden within freedom. It is not that God lets us down; it is that we let Him down." (101)
 - "Refusing to forgive is like drinking poison and hoping that the other person will die" (130)
 - What the priest in Ankara told her to do when she was confused about whether to become Catholic (157-158):
   - Pray
   - Paint (she likes drawing/painting)
   - Come to mass
-- Interesting discussion about resurgence of Islam in the modern world: "Everything that makes the West attractive, hoever, is a mere echo of its Christian past...what does the West have to offer without Christ? Not much, actually." (196)
+- Interesting discussion about resurgence of Islam in the modern world: "Everything that makes the West attractive, however, is a mere echo of its Christian past...what does the West have to offer without Christ? Not much, actually." (196)
 - Her tips (200-204):
   - Learn the faith
   - Pray
@@ -64,6 +66,22 @@
 - Islam is a disease > you get attacked when your immunity is down; watered down Christianity and secularism don't have anything substantial to offer to people look at Islam
   - "the only thing that will save the West is a strong Catholic Church"
 
+
+--- 
+**Topic**: [[Conversion Story]]
+
+**Source**
+- 
+
+**Bibliography**
+- *Price to Pay* by Joseph Fadelle (25)
+- *What's Wrong With the World* by [[G.K. Chesterton]] (85)
+- *By What Authority?: An Evangelical Discovers Catholic Tradition* by Mark Shea (140)
+- *Principles of Catholic Theology* by [[Joseph Ratzinger]]
+- *Without Roots* by [[Joseph Ratzinger]]
+- *The Apostasy That Wasn't: The Extraordinary Story of the Unbreakable Early Church* by Rod Bennett
+- *The Everlasting Man* by [[G.K. Chesterton]]
+
 ---
 Created: 2018-07-22
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

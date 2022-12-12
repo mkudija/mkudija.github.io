@@ -1,5 +1,5 @@
 ---
-aliases: [Ignatius Catholic Bible]
+aliases: [Ignatius Catholic Bible, Compact Ignatius Catholic Bible, Zipper Ignatius Catholic Bible]
 title: Ignatius Catholic Bible
 author: 
 category: Bibles

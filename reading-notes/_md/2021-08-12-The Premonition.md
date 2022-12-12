@@ -1,5 +1,5 @@
 
-# [*The Premonition: A Pandemic Story*](https://www.amazon.com/Premonition-Pandemic-Story-Michael-Lewis/dp/0393881555) by Michael Lewis
+# [*The Premonition: A Pandemic Story*](https://www.amazon.com/Premonition-Pandemic-Story-Michael-Lewis/dp/0393881555) by [[Michael Lewis]]
 
 `(New York: Norton, 2021), 301`
 

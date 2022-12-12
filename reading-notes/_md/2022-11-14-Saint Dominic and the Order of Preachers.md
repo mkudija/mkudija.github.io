@@ -37,7 +37,7 @@ finished: 2022-11-14
 **Topic**: [[St. Dominic]]
 
 **Source**: 
-- St. Patrick book sale 2021-12 
+- [[St. Pat's KoC Book Sale]] 2021
 - [[Fr. Stephen Alcott]]
 
 **Bibliography**

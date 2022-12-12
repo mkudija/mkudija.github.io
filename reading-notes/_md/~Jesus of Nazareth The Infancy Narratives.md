@@ -1,9 +1,22 @@
+---
+aliases: [Jesus of Nazareth: The Infancy Narratives]
+title: Jesus of Nazareth: The Infancy Narratives
+author: Pope Benedict XVI
+category: Religion
+publisher: Image
+total_page: 146
+cover_url: http://books.google.com/books/content?id=SJ1DlQfJwdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2012-11-21
+isbn10: 0385346409
+isbn13: 9780385346405
+started: 2022-12-04
+finished: 
+---
+# *[Jesus of Nazareth: The Infancy Narratives]()* by [[Pope Benedict XVI]]
 
-# [*title*]() by author
+<img src="http://books.google.com/books/content?id=SJ1DlQfJwdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-<img src="" width=150>
-
-`(City: Publisher, YYYY), PPP`
+`(New York: Image, 2012-11-21), 146`
 
 # Notes
 
@@ -14,6 +27,9 @@
 <!-- /MarkdownTOC -->
 </details>
 
+
+- [ ] abbreviations 
+- [ ] RSV
 
 ## Chapter 1:
 _**Summary**: _
@@ -172,7 +188,7 @@ _**Summary**: _
 **Bibliography**
 
 ```query
-[[bib]] file:(<%tp.file.title%>)
+[[bib]] file:(~Jesus of Nazareth The Infancy Narratives)
 ```
  
 
@@ -181,5 +197,5 @@ _**Summary**: _
 - 
 
 ---
-Created: [[<% tp.file.creation_date("YYYY-MM-DD-ddd") %>]]
+Created: [[2022-12-04-Sun]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

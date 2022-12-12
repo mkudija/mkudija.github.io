@@ -47,12 +47,14 @@ aliases: [LOTH]
 - Ordinariates of English Patrimony (Anglican version): [Divine Worship Daily Office](https://www.ctsbooks.org/product/daily-office/) (video tutorial: [(70) Divine Worship: Daily Office (Commonwealth Edition) - YouTube](https://www.youtube.com/playlist?list=PLvkKbvFiXHk43cTMDyRwb_qtAo2mQ9Xuy))
 
 ## Notes
+
 ### Volume I
+- Vol. I, pg. 831 Evening Prayer of Monday of the Second Week of Advent: "When you took on flesh, Lord Jesus, you made a marriage of mankind with God." 
+- Vol. 1, pg. 902 Evening Prayer of Friday of the Second Week of Advent: "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)
 - Vol. I, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
 
 ### Volume II
 - Vol. II, pg. 1794: from the *[[~The Dialogue|The Dialogue]]* of [[St. Catherine of Siena]]: "You are a mystery as deep as the sea; the more I search, the more I find, and the more I find the more I search for you. But I can never be satisfied; what I receive will ever leave me desiring more. When you fill my soul I have an even greater hunger, and I grow more famished for your light. I desire above all to see you, the true light, as you really are."
-
 
 ### Volume III
 - Vol. III, pg. 1573: from the catechetical instructions by [[St. John Vianney]]: "The Christian's treasure is not on earth but in heaven. Our thoughts, then, ought to be directed to where our treasure is.[^treasure] This is the glorious duty of man: to pray and to love. If you pray and love, that is where a man's happiness lies. [[Prayer]] is nothing else but union with God...We had become unworthy to pray, but God in his goodness allowed us to speak with him. Our prayers are incense that gives him the greatest pleasure. My little children, your hearts are small, but prayer stretches them and makes them capable of loving God. Through prayer we receive a foretaste of heaven and something of paradise comes down upon us. Prayer never leaves us without sweetness. It is honey that flows into the soul and makes all things sweet.[^honey] When we pray properly, sorrows disappear like snow before the sun."

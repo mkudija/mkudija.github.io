@@ -1,7 +1,18 @@
+---
+aliases: [The Spirit of the Liturgy -- Commemorative Edition]
+title: The Spirit of the Liturgy -- Commemorative Edition
+author: Joseph Ratzinger, Romano Guardini
+category: Religion
+publisher: Ignatius Press
+total_page: 378
+cover_url: http://books.google.com/books/content?id=Idn9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2018-10-12
+isbn10: 1621642585
+isbn13: 9781621642589
+---
+# [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by [[Joseph Ratzinger]]
 
-# [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by Joseph Ratzinger
-
-<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fSPLCEH.jpg&maintainAspectRatio=true" width=150>
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/3112/3585/SPLCEH__45948.1633452573.jpg?c=1" width=150>
 
 `(San Francisco: Ignatius, 2000/2018), 271`
 
@@ -177,6 +188,7 @@ I'm glad they included the original that Ratzinger's more recent book was based 
 - the basis of all genuine and healthy life is a contemplative one (362)
 
 ---
+**Topic**: [[Theology]], [[Liturgy]]
 
 **New words**
 

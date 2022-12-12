@@ -26,7 +26,7 @@ Passages listed for both the first and second editions of the RSV-CE
 
 ## Introduction
 - "The [[Bible Translations#RSV|Revised Standard Version (RSV)]] of the Bible is a venerable Protestant translation, which ought to 'embody the best results of modern scholarship as to the meaning of the Scriptures.'"  ^29e4d0
-- "Then in 1966, in accordance with *[[Dei Verbum]]* and with ecclesial approval, the Catholic Biblical Association of Great Britain produced and published a Catholic edition of the Revised Standard Version ([[Bible Translations#RSVCE|RSV-CE]]). Ever since its original publication, the RSV-CE has become the translation of choice for Scripture scholars and beginners alike. In fact, the RSV-CE is exclusively used in the English edition of the Catechism of the Catholic Church and as the basis for Scripture quotes used in English translations of Magisterial documents." ^98280a
+- "Then in 1966, in accordance with *[[2022-12-03-Dei Verbum]]* and with ecclesial approval, the Catholic Biblical Association of Great Britain produced and published a Catholic edition of the Revised Standard Version ([[Bible Translations#RSVCE|RSV-CE]]). Ever since its original publication, the RSV-CE has become the translation of choice for Scripture scholars and beginners alike. In fact, the RSV-CE is exclusively used in the English edition of the Catechism of the Catholic Church and as the basis for Scripture quotes used in English translations of Magisterial documents." ^98280a
 - "The [[Bible Translations#RSV2CE|second edition]], published in 2006, aligns the translation more closely with traditional Catholic renderings of particular verses." (i.e. *virgin* vs *young woman* in [[Is-07#v14]]) ^aceb32
 
 

@@ -129,7 +129,8 @@ _**Summary**: _
 --- 
 **Topic**: [[Atheism]]
 
-**Source**: [[St. Patrick Church]] book sale, [[2021-12-04-Sat]]
+**Source**: 
+- [[St. Pat's KoC Book Sale]] 2021
 
 **Bibliography**
 

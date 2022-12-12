@@ -1,3 +1,15 @@
+---
+aliases: [Shop Class as Soulcraft]
+title: Shop Class as Soulcraft
+author: Matthew B. Crawford
+category: Business & Economics
+publisher: Penguin
+total_page: 246
+cover_url: http://books.google.com/books/content?id=LdfEDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2010
+isbn10: 0143117467
+isbn13: 9780143117469
+---
 # [*Shop Class as Soulcraft: An Inquiry into the Value of Work*](https://www.penguinrandomhouse.com/books/301618/shop-class-as-soulcraft-by-matthew-b-crawford/) by [[Matthew B. Crawford]]
 
 <img src="https://images1.penguinrandomhouse.com/cover/9780143117469" width=150>
