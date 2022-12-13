@@ -11,6 +11,15 @@ WHERE COLUMN_NAME LIKE '%search%'
 ORDER BY TABLE_NAME;
 ```
 
+### Get Tables in Schema 
+```sql
+select t.table_name
+from information_schema.tables t
+where t.table_schema = 'schema_name'  -- put schema name here
+      and t.table_type = 'BASE TABLE'
+order by t.table_name;
+```
+
 ### Joins
 `on`
 ```SQL

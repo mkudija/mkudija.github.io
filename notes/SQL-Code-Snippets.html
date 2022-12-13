@@ -57,6 +57,17 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 </code></pre>
 </div>
 
+<h3 id="get-tables-in-schema">Get Tables in Schema</h3>
+
+<div class="codehilite">
+<pre><span></span><code><span class="k">select</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="w"></span>
+<span class="k">from</span><span class="w"> </span><span class="n">information_schema</span><span class="p">.</span><span class="n">tables</span><span class="w"> </span><span class="n">t</span><span class="w"></span>
+<span class="k">where</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_schema</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;schema_name&#39;</span><span class="w">  </span><span class="c1">-- put schema name here</span>
+<span class="w">      </span><span class="k">and</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="n">table_type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;BASE TABLE&#39;</span><span class="w"></span>
+<span class="k">order</span><span class="w"> </span><span class="k">by</span><span class="w"> </span><span class="n">t</span><span class="p">.</span><span class="k">table_name</span><span class="p">;</span><span class="w"></span>
+</code></pre>
+</div>
+
 <h3 id="joins">Joins</h3>
 
 <p><code>on</code></p>
@@ -585,7 +596,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2022-09-22-Thu</p>
+Updated: 2022-12-13-Tue</p>
 
 
 </div>
