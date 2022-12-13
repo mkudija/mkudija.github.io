@@ -80,16 +80,16 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li>Reading this (colored pants in department store for instance) makes me think about principles of visualization and how our minds categorize information. </li>
 <li>To not lose things, have a designated place </li>
 <li>Key point/strategy: use the environment to offload items out of your mind </li>
-<li>How to organize your home:<br />
-<ol><br />
-<li>Define categories that are meaningful to you</li><br />
-<li>Avoid putting too many different things in the same category, unless a misc item</li><br />
+<li>How to organize your home:
+<ol>
+<li>Define categories that are meaningful to you</li>
+<li>Avoid putting too many different things in the same category, unless a misc item</li>
 </ol></li>
-<li>Organization rules:<br />
-<ol><br />
-<li>A mislabeled item is worse than a not labeled item</li><br />
-<li>If there is an existing standard, use it</li><br />
-<li>Don’t keep what you can’t use </li><br />
+<li>Organization rules:
+<ol>
+<li>A mislabeled item is worse than a not labeled item</li>
+<li>If there is an existing standard, use it</li>
+<li>Don’t keep what you can’t use </li>
 </ol></li>
 <li>Digital home: Have a separate device (computer) dedicated to different activities, with different background, etc to make it recognizable </li>
 <li>Declare “email bankruptcy” and delete/archive everything and start over </li>
@@ -114,11 +114,11 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li>Eat the frog: do the worst task first thing in the day </li>
 <li>Being outside in nature replenishes self-regulatory mechanisms in the brain</li>
 <li>Successful people don’t subscribe to a faulty belief that life should be easy</li>
-<li>To focus:<br />
-<ol><br />
-<li>Write everything you need to do down to get it off your mind</li><br />
-<li>Take a break and exercise </li><br />
-<li>5-minute rule for little tasks </li><br />
+<li>To focus:
+<ol>
+<li>Write everything you need to do down to get it off your mind</li>
+<li>Take a break and exercise </li>
+<li>5-minute rule for little tasks </li>
 </ol></li>
 </ul>
 
@@ -129,11 +129,11 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li>Bayes: "Organizing our decisions requires that we combine the base rate information with other relevant diagnostic information" (229)...Base rates and representativeness hueristic </li>
 <li>Applying Bayes to decisions about your medical treatment </li>
 <li>Our brains easily notice co-occurrence of events, but not lack of occurrences </li>
-<li>Parking ticket example:<br />
-<ul><br />
-<li>Parking costs $20</li><br />
-<li>Parking ticket costs $50, and there is a 25% chance you get a parking ticket</li><br />
-<li>Therefore, the expected value of paying for parking is -$20, and the expected value of not paying for parking is 25% * -$50 = -$12.50. So you shouldn't pay for parking.</li><br />
+<li>Parking ticket example:
+<ul>
+<li>Parking costs $20</li>
+<li>Parking ticket costs $50, and there is a 25% chance you get a parking ticket</li>
+<li>Therefore, the expected value of paying for parking is -$20, and the expected value of not paying for parking is 25% * -$50 = -$12.50. So you shouldn't pay for parking.</li>
 </ul></li>
 </ul>
 
@@ -149,16 +149,58 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <p>Here is our four-fold table:</p>
 
-<p>| | Test (Positive) | Test (Negative) |<br />
-| --- | --- | --- |<br />
-| Disease (Yes) | Correct ID | False Negative |<br />
-| Disease (No) | False Positives | Correct rejections | </p>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Test (Positive)</th>
+  <th>Test (Negative)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Disease (Yes)</td>
+  <td>Correct ID</td>
+  <td>False Negative</td>
+</tr>
+<tr>
+  <td>Disease (No)</td>
+  <td>False Positives</td>
+  <td>Correct rejections</td>
+</tr>
+</tbody>
+</table>
 
-<p>| | Test (Positive) | Test (Negative) | <strong>Totals</strong> |<br />
-| --- | --- | --- | --- |<br />
-| Disease (Yes) | 1 (1-0)| 0 (1 * 2%) | <strong>1</strong> |<br />
-| Disease (No) | 200 (9,999 * 2%) | 9,799 (9,999-200) | <strong>9,999</strong> |<br />
-| <strong>Totals</strong> | 201 | 9,799 | <strong>10,000</strong> | </p>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Test (Positive)</th>
+  <th>Test (Negative)</th>
+  <th><strong>Totals</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Disease (Yes)</td>
+  <td>1 (1-0)</td>
+  <td>0 (1 * 2%)</td>
+  <td><strong>1</strong></td>
+</tr>
+<tr>
+  <td>Disease (No)</td>
+  <td>200 (9,999 * 2%)</td>
+  <td>9,799 (9,999-200)</td>
+  <td><strong>9,999</strong></td>
+</tr>
+<tr>
+  <td><strong>Totals</strong></td>
+  <td>201</td>
+  <td>9,799</td>
+  <td><strong>10,000</strong></td>
+</tr>
+</tbody>
+</table>
 
 <p>Now, to answer our question: what is the probability I have the disease given that I tested positive?</p>
 
@@ -166,11 +208,36 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <p>Say we decide to take the test a second time (assuming that test results are independent):</p>
 
-<p>| | Test (Positive) | Test (Negative) | <strong>Totals</strong> |<br />
-| --- | --- | --- | --- |<br />
-| Disease (Yes) | 1 (1-0)| 0 (1 * 2%) | <strong>1</strong> |<br />
-| Disease (No) | 4 (200 * 2%) | 196 (200-4) | <strong>200</strong> |<br />
-| <strong>Totals</strong> | 5 | 196 | <strong>201</strong> | </p>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Test (Positive)</th>
+  <th>Test (Negative)</th>
+  <th><strong>Totals</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Disease (Yes)</td>
+  <td>1 (1-0)</td>
+  <td>0 (1 * 2%)</td>
+  <td><strong>1</strong></td>
+</tr>
+<tr>
+  <td>Disease (No)</td>
+  <td>4 (200 * 2%)</td>
+  <td>196 (200-4)</td>
+  <td><strong>200</strong></td>
+</tr>
+<tr>
+  <td><strong>Totals</strong></td>
+  <td>5</td>
+  <td>196</td>
+  <td><strong>201</strong></td>
+</tr>
+</tbody>
+</table>
 
 <p><em>p(You have the disease | You tested positive twice)</em> = 1/5 = 20%</p>
 

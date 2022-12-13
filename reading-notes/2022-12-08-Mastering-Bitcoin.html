@@ -96,18 +96,18 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em><strong>Summary</strong>: Bitcoin provides the technologies (protocol, blockchain, consensus rules, Proof-of-work) to issue currency and validate transactions in a decentralized manner.</em></p>
 
 <ul>
-<li><a href="../notes/Bitcoin.html">Bitcoin</a> is "a collection of concepts and technologies that form the basis of a digital money ecosystem." (1), consisting of:<br />
-<ul><br />
-<li>A decentralized peer-to-peer network (the bitcoin protocol)</li><br />
-<li>A public transaction ledger (the blockchain)</li><br />
-<li>A set of rules for independent transaction validation and currency issuance (consensus rules)</li><br />
-<li>A mechanism for reaching global decentralized consensus on the valid blockchain (Proof-of-work algorithm)</li><br />
+<li><a href="../notes/Bitcoin.html">Bitcoin</a> is "a collection of concepts and technologies that form the basis of a digital money ecosystem." (1), consisting of:
+<ul>
+<li>A decentralized peer-to-peer network (the bitcoin protocol)</li>
+<li>A public transaction ledger (the blockchain)</li>
+<li>A set of rules for independent transaction validation and currency issuance (consensus rules)</li>
+<li>A mechanism for reaching global decentralized consensus on the valid blockchain (Proof-of-work algorithm)</li>
 </ul></li>
 <li>Users of bitcoin own keys that allow them to prove ownership of bitcoin in the bitcoin network </li>
 <li>Bitcoin mining decentralizes the currency-issuance and clearing functions of a central bank and replaces the need for any central bank</li>
-<li>A wallet is to bitcoin, as a browser is to the internet<br />
-<ul><br />
-<li>A wallet is simply a collection of addresses and the keys that unlock the funds within</li><br />
+<li>A wallet is to bitcoin, as a browser is to the internet 
+<ul>
+<li>A wallet is simply a collection of addresses and the keys that unlock the funds within</li>
 </ul></li>
 </ul>
 
@@ -116,20 +116,23 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em><strong>Summary</strong>: An overview of the basic concepts of bitcoin by following a simple transaction.</em></p>
 
 <ul>
-<li>A <strong>transaction</strong> tells the network that the owner of some bitcoin has authorized the transfer to another owner. "Spending" is signing a transaction that transfers value.<br />
-<ul><br />
-<li>Transaction inputs cannot be divided, so the "change" is returned to a new address.</li><br />
+<li>A <strong>transaction</strong> tells the network that the owner of some bitcoin has authorized the transfer to another owner. "Spending" is signing a transaction that transfers value. 
+<ul>
+<li>Transaction inputs cannot be divided, so the "change" is returned to a new address.</li>
 </ul></li>
-<li>The transaction is propagated to the network and validated when a new block is <strong>mined</strong> and added to the blockchain<br />
-<ul><br />
-<li>Mining uses a proof-of-work algorithm that is asymmetrically hard to solve but easy to verify (generating a SHA256 hash that meets requirements of a number of leading zeroes)</li><br />
+<li>The transaction is propagated to the network and validated when a new block is <strong>mined</strong> and added to the blockchain
+<ul>
+<li>Mining uses a proof-of-work algorithm that is asymmetrically hard to solve but easy to verify (generating a SHA256 hash that meets requirements of a number of leading zeroes)</li>
 </ul></li>
 </ul>
 
 <h2 id="chapter-3-bitcoin-core-the-reference-implementation">Chapter 3: Bitcoin Core: The Reference Implementation</h2>
 
-<p><em><strong>Summary</strong>: This is a technical chapter for getting setup with a bitcoin developer environment.</em><br />
-- Bitcoin is open source software: <a href="https://github.com/bitcoin/bitcoin">GitHub - bitcoin/bitcoin: Bitcoin Core</a></p>
+<p><em><strong>Summary</strong>: This is a technical chapter for getting setup with a bitcoin developer environment.</em></p>
+
+<ul>
+<li>Bitcoin is open source software: <a href="https://github.com/bitcoin/bitcoin">GitHub - bitcoin/bitcoin: Bitcoin Core</a></li>
+</ul>
 
 <h2 id="chapter-4-keys-addresses">Chapter 4: Keys, Addresses</h2>
 
@@ -138,15 +141,15 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <ul>
 <li>"Ownership of bitcoin is established through digital keys, bitcoin addresses, and digital signatures. The digital keys are not actually stored in the network, but are instead created and stored by users in a file, or simple database, called a wallet." (55)</li>
 <li>Bitcoin uses <a href="../notes/Elliptic-curve-point-multiplication.html">Elliptic curve point multiplication</a> (56)</li>
-<li>Bitcoin uses public key cryptography to create a key pair (56):<br />
-<ul><br />
-<li><strong>public key (K)</strong>: used to receive funds</li><br />
-<li><strong>private key (k)</strong>: used to sign transactions that spend funds, a number picked at random</li><br />
-<li><strong>address (A)</strong>: generated with hash from public key, displayed in <strong>Base58</strong> (a format developed for bitcoin) or <strong>Base58check</strong> (which includes extra data for error checking)<br /><br />
-<ul><br /><br />
-<li>start with <code>1</code> for standard addresses </li><br /><br />
-<li>start with <code>3</code> for Pay-to-Script Hash (P2SH, i.e. multisig)</li><br /><br />
-</ul></li><br />
+<li>Bitcoin uses public key cryptography to create a key pair (56):
+<ul>
+<li><strong>public key (K)</strong>: used to receive funds</li>
+<li><strong>private key (k)</strong>: used to sign transactions that spend funds, a number picked at random</li>
+<li><strong>address (A)</strong>: generated with hash from public key, displayed in <strong>Base58</strong> (a format developed for bitcoin) or <strong>Base58check</strong> (which includes extra data for error checking) 
+<ul>
+<li>start with <code>1</code> for standard addresses </li>
+<li>start with <code>3</code> for Pay-to-Script Hash (P2SH, i.e. multisig)</li>
+</ul></li>
 </ul></li>
 </ul>
 
@@ -159,9 +162,9 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <ul>
 <li>Wallets do not contain coins, but rather the keys that allow for the signing of transactions that spend the coins present on the blockchain </li>
 <li><strong>Nondeterministic wallet</strong>: each key is independently generated from a random number (must be backed up frequently)</li>
-<li><strong>Deterministic wallet</strong>: all the keys are derived from a single master key (the <em>seed</em>, encoded as a set of <em>mnemonic code words</em>)<br />
-<ul><br />
-<li><strong>HD Wallets</strong>: have a tree structure and can produce public keys without the corresponding private key (to create issue a different public key for each transaction)</li><br />
+<li><strong>Deterministic wallet</strong>: all the keys are derived from a single master key (the <em>seed</em>, encoded as a set of <em>mnemonic code words</em>)
+<ul>
+<li><strong>HD Wallets</strong>: have a tree structure and can produce public keys without the corresponding private key (to create issue a different public key for each transaction)</li>
 </ul></li>
 </ul>
 
@@ -174,23 +177,23 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li><strong>UTXO</strong> or <em>unspent transaction outputs</em> are how bitcoin is "received", and are indivisible once created </li>
 <li>A user's "balance" is the sum of all UTXO that the user's wallet can spend </li>
 <li>The <strong>coinbase transaction</strong> is the first transaction in each block that mints bitcoin for the miner of the block </li>
-<li>Transaction inputs consist of:<br />
-<ul><br />
-<li><code>vin</code>: giving the UTXO(s) that "fund" the transaction; for each, the transaction that UTXO came from, its index, and a <code>scriptSig</code> which satisfies the conditions placed on the UTXO to unlock it for spending</li><br />
+<li>Transaction inputs consist of:
+<ul>
+<li><code>vin</code>: giving the UTXO(s) that "fund" the transaction; for each, the transaction that UTXO came from, its index, and a <code>scriptSig</code> which satisfies the conditions placed on the UTXO to unlock it for spending</li>
 </ul></li>
-<li>Transaction outputs consist of:<br />
-<ul><br />
-<li><code>value</code>: amount of bitcoin, in <em>satoshis</em></li><br />
-<li><code>scriptPubKey</code>: the <em>locking script</em> or <em>witness script</em> which is the cryptographic puzzle determining the conditions required to spend the output </li><br />
+<li>Transaction outputs consist of:
+<ul>
+<li><code>value</code>: amount of bitcoin, in <em>satoshis</em></li>
+<li><code>scriptPubKey</code>: the <em>locking script</em> or <em>witness script</em> which is the cryptographic puzzle determining the conditions required to spend the output </li>
 </ul></li>
-<li>Transaction fees are computed based on the size of the transaction in kilobytes (not the value)<br />
-<ul><br />
-<li>Fees are the difference between the sum of the inputs and outputs </li><br />
+<li>Transaction fees are computed based on the size of the transaction in kilobytes (not the value)
+<ul>
+<li>Fees are the difference between the sum of the inputs and outputs </li>
 </ul></li>
-<li><em>Script</em> is the bitcoin transaction script language (stack-based RPN)<br />
-<ul><br />
-<li><strong>Locking script</strong>: a spending condition placed on an output </li><br />
-<li><strong>Unlocking script</strong>: a script that satisfies the locking script and allows the output to be spent </li><br />
+<li><em>Script</em> is the bitcoin transaction script language (stack-based RPN)
+<ul>
+<li><strong>Locking script</strong>: a spending condition placed on an output </li>
+<li><strong>Unlocking script</strong>: a script that satisfies the locking script and allows the output to be spent </li>
 </ul></li>
 <li>Bitcoin uses <strong>digital signatures</strong>, consisting of an algorithm for creating the signature using a private key, and a algorithm that allows anyone to verify the signature given the public key </li>
 </ul>
@@ -201,10 +204,10 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <ul>
 <li>A bug in CHECKMULTISIG requires an extra zero: <code>0 &lt;Signature B&gt; &lt;Signature C&gt;</code></li>
-<li>P2SH means: "pay to a script matching this hash, a script that will be presented later when this output is spent"<br />
-<ul><br />
-<li>complex scripts replaced by shorter fingerprints </li><br />
-<li>shifts complexity to the recipient from the sender </li><br />
+<li>P2SH means: "pay to a script matching this hash, a script that will be presented later when this output is spent" 
+<ul>
+<li>complex scripts replaced by shorter fingerprints </li>
+<li>shifts complexity to the recipient from the sender </li>
 </ul></li>
 </ul>
 
@@ -214,10 +217,10 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <ul>
 <li>A <em>Bitcoin Relay Network</em> minimizes latency for miners </li>
-<li><strong>SPV</strong> (Simplified Payment Verification) nodes are lightweight nodes that download only the block headers<br />
-<ul><br />
-<li>A privacy risk arises because an SPV node must download certain transactions to verify them </li><br />
-<li>This risk is mitigated with a <strong>Bloom Filter</strong>, a probabilistic search filter that describe a pattern without specifying it exactly</li><br />
+<li><strong>SPV</strong> (Simplified Payment Verification) nodes are lightweight nodes that download only the block headers 
+<ul>
+<li>A privacy risk arises because an SPV node must download certain transactions to verify them </li>
+<li>This risk is mitigated with a <strong>Bloom Filter</strong>, a probabilistic search filter that describe a pattern without specifying it exactly</li>
 </ul></li>
 <li>The <strong>Mempool</strong>, or transaction pool, is the set of unconfirmed transactions </li>
 </ul>
@@ -308,10 +311,10 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <ul>
 <li>The Genesis block, being the common ancestor of all blocks, can't help but remind me of <a href="../notes/Apostolic-succession.html">Apostolic succession</a></li>
-<li>The <strong>Merkle Root</strong> is a hashed summary of all transactions in the block<br />
-<ul><br />
-<li>this provides an efficient way to determine if a transaction is in a block </li><br />
-<li>SPV nodes use merkle paths to verify transactions without downloading full blocks </li><br />
+<li>The <strong>Merkle Root</strong> is a hashed summary of all transactions in the block 
+<ul>
+<li>this provides an efficient way to determine if a transaction is in a block </li>
+<li>SPV nodes use merkle paths to verify transactions without downloading full blocks </li>
 </ul></li>
 <li>Bitcoin has other blockchains for testing (testnet, segnet, regtest)</li>
 </ul>
@@ -327,9 +330,9 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li>The first transaction in each block is the <strong>coinbase transaction</strong> that rewards the miner and creates new bitcoin </li>
 <li>Mining is the process of hashing the block header repeatedly, changing the nonce, until the resulting hash meets the difficulty target </li>
 <li>The difficulty is adjusted every 2,016 blocks </li>
-<li>When multiple forks of the blockchain exist, mining nodes "vote" with their computing power by choosing which chain to extend by mining the next block<br />
-<ul><br />
-<li>Bitcoin's block interval of 10 minutes is a compromise between fast confirmation and settlement times vs higher probability of forks </li><br />
+<li>When multiple forks of the blockchain exist, mining nodes "vote" with their computing power by choosing which chain to extend by mining the next block 
+<ul>
+<li>Bitcoin's block interval of 10 minutes is a compromise between fast confirmation and settlement times vs higher probability of forks </li>
 </ul></li>
 </ul>
 
@@ -362,7 +365,8 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <p><strong>Topic</strong>: <a href="../notes/Bitcoin.html">Bitcoin</a></p>
 
-<h2 id="source"><strong>Source</strong></h2>
+<p><strong>Source</strong><br />
+- </p>
 
 <p><strong>Bibliography</strong></p>
 

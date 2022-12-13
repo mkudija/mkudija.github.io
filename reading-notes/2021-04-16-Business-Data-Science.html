@@ -93,33 +93,33 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em>Code for this section is <a href="https://github.com/mkudija/taddy-business-data-science/tree/main/00-introduction">here</a>.</em></p>
 
 <ul>
-<li>The Goal: produce an <em>interpretable</em> model that translates raw data into information relevant to decision-making; project information into a low-dimensional space that contains key insights for decision making (3-4)<br />
-<ul><br />
-<li>Motivating example: visualized CAPM outputs give a richer view for decisions making than just a messy plot of returns (Figure I.3, <a href="https://github.com/mkudija/taddy-business-data-science/blob/main/0-introduction/3-stock-returns/0-introduction_stock-returns.ipynb">reproduced here</a>)</li><br />
+<li>The Goal: produce an <em>interpretable</em> model that translates raw data into information relevant to decision-making; project information into a low-dimensional space that contains key insights for decision making (3-4)
+<ul>
+<li>Motivating example: visualized CAPM outputs give a richer view for decisions making than just a messy plot of returns (Figure I.3, <a href="https://github.com/mkudija/taddy-business-data-science/blob/main/0-introduction/3-stock-returns/0-introduction_stock-returns.ipynb">reproduced here</a>)</li>
 </ul></li>
-<li>"Modern methods" are distinguished by <em>big data</em> and <em>machine learning</em><br />
-<ul><br />
-<li>Data Science ≈ statistics + BD + ML</li><br />
-<li>Business Data Science ≈ statistics + BD + ML + economics + econometrics + business context</li><br />
+<li>"Modern methods" are distinguished by <em>big data</em> and <em>machine learning</em>
+<ul>
+<li>Data Science ≈ statistics + BD + ML</li>
+<li>Business Data Science ≈ statistics + BD + ML + economics + econometrics + business context</li>
 </ul></li>
-<li><strong>Big Data</strong>: data can be "big" in terms of both <em>volume</em> and <em>complexity</em><br />
-<ul><br />
-<li>Big (<em>volume</em>) Data is where the scale swamps RAM and requires piping by data engineers</li><br />
-<li>Big (<em>complexity</em>) Data is big <em>dimension</em> data where the assumptions of classical statistics break down ("big <em>p</em>" problems)</li><br />
+<li><strong>Big Data</strong>: data can be "big" in terms of both <em>volume</em> and <em>complexity</em>
+<ul>
+<li>Big (<em>volume</em>) Data is where the scale swamps RAM and requires piping by data engineers</li>
+<li>Big (<em>complexity</em>) Data is big <em>dimension</em> data where the assumptions of classical statistics break down ("big <em>p</em>" problems)</li>
 </ul></li>
-<li><strong><a href="../notes/Machine-Learning.html">Machine Learning</a></strong>: automatically build <em>predictions</em> from complex data<br />
-<ul><br />
-<li>Key techniques include <strong>lasso regularized regression</strong>, <strong>random forests</strong>, <strong>neural networks</strong> (295)</li><br />
-<li>Focus is to maximize predictive performance on out-of-sample data</li><br />
-<li>Limited <em>structural</em> interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)</li><br />
-<li><em>Structural analysis</em> refers to building analytically from theory, as compared with the pragmatic, black-box <em>prediction</em> of machine learning</li><br />
-<li>Good data science then is having an overall understanding of the domain to know the appropriate <em>prediction</em> tasks to throw at ML, and the <em>structural</em> problems to address with classical economics and statistics</li><br />
-<li>"A policy-maker who can deploy ML to solve the many prediction tasks that they face will be able to automate and accelerate their decision process." (7)</li><br />
-<li>ML prediction tools should be part of a larger system with goals beyond pure prediction</li><br />
+<li><strong><a href="../notes/Machine-Learning.html">Machine Learning</a></strong>: automatically build <em>predictions</em> from complex data
+<ul>
+<li>Key techniques include <strong>lasso regularized regression</strong>, <strong>random forests</strong>, <strong>neural networks</strong> (295)</li>
+<li>Focus is to maximize predictive performance on out-of-sample data</li>
+<li>Limited <em>structural</em> interpretability: black box for making predictions when the future follows the same patterns as the past (with the implicit warning about the danger of changing patterns)</li>
+<li><em>Structural analysis</em> refers to building analytically from theory, as compared with the pragmatic, black-box <em>prediction</em> of machine learning</li>
+<li>Good data science then is having an overall understanding of the domain to know the appropriate <em>prediction</em> tasks to throw at ML, and the <em>structural</em> problems to address with classical economics and statistics</li>
+<li>"A policy-maker who can deploy ML to solve the many prediction tasks that they face will be able to automate and accelerate their decision process." (7)</li>
+<li>ML prediction tools should be part of a larger system with goals beyond pure prediction</li>
 </ul></li>
-<li><strong>Computation</strong><br />
-<ul><br />
-<li>This book uses R, but the key point is that "anyone working with data will need to continue learning and updating their computational (and methodological) skills"; best way to learn is by doing (11)</li><br />
+<li><strong>Computation</strong>
+<ul>
+<li>This book uses R, but the key point is that "anyone working with data will need to continue learning and updating their computational (and methodological) skills"; best way to learn is by doing (11)</li>
 </ul></li>
 </ul>
 
@@ -128,12 +128,16 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em>Summary: This chapter introduces <strong>nonparametric</strong> ("data driven", frequentist) and <strong>parametric</strong> ("theoretical", Bayesian) approaches to quantifying uncertainty. <strong>The Bootstrap</strong> is a flexible nonparametric method that works by resampling with replacement. The <strong>Benjamini-Hochberg</strong> algorithm provides a method of selecting variables by ranked p-value based on the desired false discovery rate. Finally, we learn about the <strong>Bayesian</strong> framework for combining assumptions with evidence.</em></p>
 
 <ul>
-<li><strong>Parametric</strong> vs <strong>Nonparametric</strong><br />
-<ul><br />
-<li><strong>Parametric</strong>: "theoretical"</li><br />
-<li>conditional on assumed true model</li><br />
-<li><strong>Nonparametric</strong>: "data driven"</li><br />
-<li>allows for model misspecification</li><br />
+<li><strong>Parametric</strong> vs <strong>Nonparametric</strong>
+<ul>
+<li><strong>Parametric</strong>: "theoretical"
+<ul>
+<li>conditional on assumed true model</li>
+</ul></li>
+<li><strong>Nonparametric</strong>: "data driven"
+<ul>
+<li>allows for model misspecification</li>
+</ul></li>
 </ul></li>
 </ul>
 
@@ -177,39 +181,43 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 </table>
 
 <ul>
-<li><strong>Frequentist</strong> vs <strong>Bayesian</strong><br />
-<ul><br />
-<li><strong>Frequentist</strong>: classical uncertainty</li><br />
-<li><em>"If I were able to see a new sample of data generated by the same processes and scenarios as my current data, how would my estimates change?"</em></li><br />
-<li><strong>Bayesian</strong>: mathematical framework of beliefs (more below)</li><br />
-<li><em>"If you believe A and then you observe B, you should update your beliefs to C."</em></li><br />
+<li><strong>Frequentist</strong> vs <strong>Bayesian</strong>
+<ul>
+<li><strong>Frequentist</strong>: classical uncertainty
+<ul>
+<li><em>"If I were able to see a new sample of data generated by the same processes and scenarios as my current data, how would my estimates change?"</em></li>
+</ul></li>
+<li><strong>Bayesian</strong>: mathematical framework of beliefs (more below)
+<ul>
+<li><em>"If you believe A and then you observe B, you should update your beliefs to C."</em></li>
+</ul></li>
 </ul></li>
 <li><strong>Central Limit Theorem</strong> (CLT): the average of independent random variables becomes normally distributed if your sample size is large enough</li>
-<li><strong>The Bootstrap</strong>: uses resampling (<em>with replacement</em>) from your current sample to mimic the sampling distribution and introduce variability<br />
-<ul><br />
-<li>use the Bootstrap because theoretical Gaussian distributions derived from the CLT are not valid for many complex settings (i.e. number of model parameters large relative to number of observations)</li><br />
-<li>the Bootstrap will work in many settings where theory is either unavailable or incorrect (if the Bootstrap fails, there probably isn't a good theoretical replacement)</li><br />
-<li>an alternative is the <strong>Parametric Bootstrap</strong>: generate new data by drawing from a fitted model (the results are sensitive to how well the model represents reality, but this is a practical option when more robust procedures are impossible)</li><br />
+<li><strong>The Bootstrap</strong>: uses resampling (<em>with replacement</em>) from your current sample to mimic the sampling distribution and introduce variability
+<ul>
+<li>use the Bootstrap because theoretical Gaussian distributions derived from the CLT are not valid for many complex settings (i.e. number of model parameters large relative to number of observations)</li>
+<li>the Bootstrap will work in many settings where theory is either unavailable or incorrect (if the Bootstrap fails, there probably isn't a good theoretical replacement)</li>
+<li>an alternative is the <strong>Parametric Bootstrap</strong>: generate new data by drawing from a fitted model (the results are sensitive to how well the model represents reality, but this is a practical option when more robust procedures are impossible)</li>
 </ul></li>
-<li><strong><em>p</em>-values</strong>: represents how rare or strange your sample would be if the null hypothesis is true<br />
-<ul><br />
-<li>the proportion of times that you would wrongly reject your safe null if the test statistic you've observed is enough to lead you to adopt the alternative</li><br />
-<li>measures the probability mass in the tails past your observed test statistic</li><br />
+<li><strong><em>p</em>-values</strong>: represents how rare or strange your sample would be if the null hypothesis is true
+<ul>
+<li>the proportion of times that you would wrongly reject your safe null if the test statistic you've observed is enough to lead you to adopt the alternative</li>
+<li>measures the probability mass in the tails past your observed test statistic</li>
 </ul></li>
-<li><strong>Benjamini-Hochberg (BH) FDR Control</strong>: controls your false discovery rate (FDR) by defining a cutoff on the ranked list of <em>p</em>-values from your model<br />
-<ul><br />
-<li>$FDR=\mathop{\mathbb{E}} \left[ \frac{FalsePositives}{TestsCalledSignificant} \right]$</li><br />
-<li>Select your target $FDR$ of $q$, and keep all <em>p</em>-values such that $p \leq q\frac{k}{N}$</li><br />
-<li>Gives a decent (often conservative) guess at FDR</li><br />
+<li><strong>Benjamini-Hochberg (BH) FDR Control</strong>: controls your false discovery rate (FDR) by defining a cutoff on the ranked list of <em>p</em>-values from your model
+<ul>
+<li>$FDR=\mathop{\mathbb{E}} \left[ \frac{FalsePositives}{TestsCalledSignificant} \right]$</li>
+<li>Select your target $FDR$ of $q$, and keep all <em>p</em>-values such that $p \leq q\frac{k}{N}$</li>
+<li>Gives a decent (often conservative) guess at FDR</li>
 </ul></li>
-<li><strong>Bayesian Inference</strong>: the mathematical framework of beliefs<br />
-<ul><br />
-<li>characterizes probabilities over models and parameters by appealing to the idea of subjective beliefs rather than repeated trials</li><br />
-<li>quantification of risks and expected rewards is inherently Bayesian</li><br />
-<li>"If you believe <em>A</em> and then you observe <em>B</em>, you should update your beliefs to <em>C</em>."</li><br />
-<li>provides a framework for combining <em>assumptions</em> with <em>evidence</em></li><br />
-<li>mechanically works with combination of <em>prior distributions</em> and <em>likelihood</em> (the probability of the data you have observed given a fixed set of mode parameters)</li><br />
-<li>inherently <em>parametric</em> since you specify a model and then update view of uncertainty based on new data</li><br />
+<li><strong>Bayesian Inference</strong>: the mathematical framework of beliefs
+<ul>
+<li>characterizes probabilities over models and parameters by appealing to the idea of subjective beliefs rather than repeated trials</li>
+<li>quantification of risks and expected rewards is inherently Bayesian</li>
+<li>"If you believe <em>A</em> and then you observe <em>B</em>, you should update your beliefs to <em>C</em>."</li>
+<li>provides a framework for combining <em>assumptions</em> with <em>evidence</em></li>
+<li>mechanically works with combination of <em>prior distributions</em> and <em>likelihood</em> (the probability of the data you have observed given a fixed set of mode parameters)</li>
+<li>inherently <em>parametric</em> since you specify a model and then update view of uncertainty based on new data</li>
 </ul></li>
 </ul>
 
@@ -220,91 +228,93 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em>Code for this chapter is <a href="https://github.com/mkudija/taddy-business-data-science/tree/main/02-regression">here</a>.</em></p>
 
 <ul>
-<li><strong>Linear models</strong> work with <em>averages</em> and <em>lines</em>: consider simple linear regression of the form $y = \alpha + x\beta$, or logarithmic: $\log(y) = \alpha + \beta \log(x) + \epsilon$<br />
-<ul><br />
-<li>The log-log model is intuitive: $y$ increases by $\beta$% for every 1% increase in $x$, where $\beta$ is the <em>elasticity</em></li><br />
+<li><strong>Linear models</strong> work with <em>averages</em> and <em>lines</em>: consider simple linear regression of the form $y = \alpha + x\beta$, or logarithmic: $\log(y) = \alpha + \beta \log(x) + \epsilon$
+<ul>
+<li>The log-log model is intuitive: $y$ increases by $\beta$% for every 1% increase in $x$, where $\beta$ is the <em>elasticity</em></li>
 </ul></li>
-<li>This is how to understand the coefficients of the <code>glm</code> object:<br />
-<ul><br />
-<li><code>reg = glm(log(sales) ~ log(price) + brand, data=data)</code></li><br />
-<li><code>beta &lt;- coef(reg)</code></li><br />
-<li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li><br />
-<li><code>beta[2]</code> = $\beta$ (slope)</li><br />
-<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li><br />
-<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li><br />
+<li>This is how to understand the coefficients of the <code>glm</code> object:
+<ul>
+<li><code>reg = glm(log(sales) ~ log(price) + brand, data=data)</code></li>
+<li><code>beta &lt;- coef(reg)</code></li>
+<li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li>
+<li><code>beta[2]</code> = $\beta$ (slope)</li>
+<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li>
+<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li>
 </ul></li>
-<li>This is how to understand the coefficients of the <code>glm</code> object with interactions:<br />
-<ul><br />
-<li><code>reg_interact = glm(log(sales) ~ log(price)*brand, data=data)</code></li><br />
-<li><code>beta &lt;- coef(reg_interact)</code></li><br />
-<li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li><br />
-<li><code>beta[2]</code> = $\beta$ (slope for base: <code>brand=dominicks</code>)</li><br />
-<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li><br />
-<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li><br />
-<li><code>beta[5]</code> = $\beta<em>{mm}$ (incremental slope for <code>brand=tropicana</code>)</li><br />
-<li><code>beta[6]</code> = $\beta</em>{t}$ (incremental slope for <code>brand=tropicana</code>)</li><br />
+<li>This is how to understand the coefficients of the <code>glm</code> object with interactions:
+<ul>
+<li><code>reg_interact = glm(log(sales) ~ log(price)*brand, data=data)</code></li>
+<li><code>beta &lt;- coef(reg_interact)</code></li>
+<li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li>
+<li><code>beta[2]</code> = $\beta$ (slope for base: <code>brand=dominicks</code>)</li>
+<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li>
+<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li>
+<li><code>beta[5]</code> = $\beta<em>{mm}$ (incremental slope for <code>brand=tropicana</code>)</li>
+<li><code>beta[6]</code> = $\beta</em>{t}$ (incremental slope for <code>brand=tropicana</code>)</li>
 </ul></li>
-<li><strong>Logistic Regression</strong> <em>(page 50-53)</em> uses the <em>logit</em> link function to scale probabilities between 0 and 1:<br />
-<ul><br />
-<li>$p(y=1|x) = \frac{e^{x' \hat{\beta}}}{1 + e^{x' \hat{\beta}}}$</li><br />
-<li>Logistic regression is a linear model for log odds (where odds = probability it happens over probability it doesn't):</li><br />
-<li>$\log \left[ \frac{p}{1-p} \right] = \beta<em>{0} + \beta</em>{1}x<em>{1}... + \beta</em>{p}x<em>{p}$<br /><br />
-<ul><br /><br />
-<li>Use <code>family='binomial'</code> for logistic regression</li><br /><br />
-<li>"<code>y ~ .</code>" to regress y on to all variables in the data</li><br /><br />
-</ul></li><br />
-<li>Interpreting coefficients: $e^{\beta k}$ is the <em>multiplicative effect for a unit increase in $x</em>{k}$ on the odds for the event</em> $y=1$.</li><br />
-<li>When predicting, call <code>type='response'</code> to run predictions through the logit link as $e^{x' \hat{\beta}} / (1 + e^{x' \hat{\beta}})$.</li><br />
+<li><strong>Logistic Regression</strong> <em>(page 50-53)</em> uses the <em>logit</em> link function to scale probabilities between 0 and 1:
+<ul>
+<li>$p(y=1|x) = \frac{e^{x' \hat{\beta}}}{1 + e^{x' \hat{\beta}}}$</li>
+<li>Logistic regression is a linear model for log odds (where odds = probability it happens over probability it doesn't):</li>
+<li>$\log \left[ \frac{p}{1-p} \right] = \beta<em>{0} + \beta</em>{1}x<em>{1}... + \beta</em>{p}x<em>{p}$
+<ul>
+<li>Use <code>family='binomial'</code> for logistic regression</li>
+<li>"<code>y ~ .</code>" to regress y on to all variables in the data</li>
 </ul></li>
-<li><strong>Deviance and Likelihood</strong> <em>(page 53-57)</em><br />
-<ul><br />
-<li><em>Likelihood</em> is the probability of your data given parameters (want as big as possible).</li><br />
-<li><em>Deviance</em> measures the distance between data and fit (want as small as possible: the <em>cost to be minimized</em>).<br /><br />
-<ul><br /><br />
-<li>$Deviance = -2\log{Likelihood} + C$</li><br /><br />
-<li>$C$ represents the <em>fully saturated</em> model where you have as many parameters as observations.</li><br /><br />
-</ul></li><br />
-<li><em>Maximum likelihood estimation</em> (MLE): to minimize deviance in the equation below we need to minimize the sum of squared errors, so MLE = OLS (ordinary least squares):<br /><br />
-<ul><br /><br />
-<li>$dev(\beta) \propto \sum<em>{i=1}^{n}(y</em>{i}-x^{'}_{i}\beta)^{2}$</li><br /><br />
-</ul></li><br />
-<li><em>Residual deviance</em>: $D=dev(\hat{\beta})$ is deviance to fitted model.</li><br />
-<li><em>Null deviance</em>: $D<em>{0}=dev(\beta=0)$ is deviance for null (basic) model where all $\hat{y}</em>{i}=\bar{y}$</li><br />
-<li>The difference between $D$ and $D<em>{0}$ is due to information contained in the covariates. $R^{2}$ is the <em>proportion of deviance explained by $x$</em>:<br /><br />
-<ul><br /><br />
-<li>$R^{2} = \frac{D<em>{0}-D}{D</em>{0}} = 1 - \frac{D}{D</em>{0}}$</li><br /><br />
-<li>This general form allows you to compute $R^{2}$ for almost any machine learning model (rather than the form specific to the linear regression: $R^{2} = \frac{SSE}{SST}$).</li><br /><br />
-</ul></li><br />
+<li>Interpreting coefficients: $e^{\beta k}$ is the <em>multiplicative effect for a unit increase in $x</em>{k}$ on the odds for the event</em> $y=1$.</li>
+<li>When predicting, call <code>type='response'</code> to run predictions through the logit link as $e^{x' \hat{\beta}} / (1 + e^{x' \hat{\beta}})$.</li>
 </ul></li>
-<li>Other R summary output parameters:<br />
-<ul><br />
-<li><em>Dispersion parameter</em>: measure of variability around the fitted conditional means, estimate for error variance $\sigma^{2}$.</li><br />
-<li><em>Degrees of freedom</em>: actually <em>residual degrees of freedom</em>, or <em>number of observations less number of parameters</em></li><br />
-<li><em>Degrees of freedom</em> for the rest of the book refers to <em>model degrees of freedom</em>, or <em>number of parameters in the model</em></li><br />
+<li><strong>Deviance and Likelihood</strong> <em>(page 53-57)</em>
+<ul>
+<li><em>Likelihood</em> is the probability of your data given parameters (want as big as possible).</li>
+<li><em>Deviance</em> measures the distance between data and fit (want as small as possible: the <em>cost to be minimized</em>).
+<ul>
+<li>$Deviance = -2\log{Likelihood} + C$</li>
+<li>$C$ represents the <em>fully saturated</em> model where you have as many parameters as observations.</li>
 </ul></li>
-<li><strong>Regression Uncertainty</strong> <em>(page 58-61)</em><br />
-<ul><br />
-<li>Since "standard" standard errors are sensitive to misspecification, we can use <em>nonparametric</em> methods to better estimate uncertainty</li><br />
-<li>The <strong>Bootstrap</strong>: resample with replacement and use the uncertainty across samples as an estimate of actual sampling variance</li><br />
-<li><strong>Sandwich</strong> variance estimator to get HC standard errors (<em>heteroskedastic consistent</em> rather than assuming <em>homoskedastic</em>), use the R <code>AER</code> package</li><br />
-<li>For OLS, HC standard errors approximate and are a fast alternative to bootstrapping</li><br />
+<li><em>Maximum likelihood estimation</em> (MLE): to minimize deviance in the equation below we need to minimize the sum of squared errors, so MLE = OLS (ordinary least squares):
+<ul>
+<li>$dev(\beta) \propto \sum<em>{i=1}^{n}(y</em>{i}-x^{'}_{i}\beta)^{2}$</li>
 </ul></li>
-<li><strong>Space and Time</strong> <em>(page 61-67)</em><br />
-<ul><br />
-<li>Previous discussion assumes independence between observations. </li><br />
-<li>Since that's not the case, we can include variables behind dependence in the same GLM framework.</li><br />
-<li>Rather than building by hand, include many variables and use later Regularization and Model Selection chapters to select the appropriate ones to use.</li><br />
-<li>When adding variables, <em>proceed hierarchically</em>: include larger (year, state) variables for any smaller ones (month, city)</li><br />
-<li><strong>Autocorrelation</strong> occurs frequently with time series data that has local dependence. The autocorrelation function (ACF) tracks lag correlations.<br /><br />
-<ul><br /><br />
-<li>Model this type of data with a <em>Random Walk</em> (a form of <em>autoregressive</em> (AR) model), first order form of $AR(1)$:</li><br /><br />
-<li>$AR(1): y<em>{t} = \beta</em>{0}+\beta{1}y<em>{t-1}+\epsilon</em>{t}$</li><br /><br />
-<li>if $|\beta<em>{1}| = 1$, random walk (model with <em>returns</em> rather than <em>values</em> like the stock market)</li><br /><br />
-<li>if $|\beta</em>{1}| &gt; 1$, series explodes (you might be missing a trend variable, otherwise challenging)</li><br /><br />
-<li>if $|\beta_{1}| &lt; 1$, series reverts to mean (common and useful)</li><br /><br />
-<li>You can use $AR(p)$ for higher lags and model selection methods to choose the appropriate lag.</li><br /><br />
-<li><em>Spatial autoregressive</em> (SAR) models to include spatial neighbors (similar to temporal neighbors)</li><br /><br />
-</ul></li><br />
+<li><em>Residual deviance</em>: $D=dev(\hat{\beta})$ is deviance to fitted model.</li>
+<li><em>Null deviance</em>: $D<em>{0}=dev(\beta=0)$ is deviance for null (basic) model where all $\hat{y}</em>{i}=\bar{y}$</li>
+<li>The difference between $D$ and $D<em>{0}$ is due to information contained in the covariates. $R^{2}$ is the <em>proportion of deviance explained by $x$</em>:
+<ul>
+<li>$R^{2} = \frac{D<em>{0}-D}{D</em>{0}} = 1 - \frac{D}{D</em>{0}}$</li>
+<li>This general form allows you to compute $R^{2}$ for almost any machine learning model (rather than the form specific to the linear regression: $R^{2} = \frac{SSE}{SST}$).</li>
+</ul></li>
+</ul></li>
+<li>Other R summary output parameters:
+<ul>
+<li><em>Dispersion parameter</em>: measure of variability around the fitted conditional means, estimate for error variance $\sigma^{2}$.</li>
+<li><em>Degrees of freedom</em>: actually <em>residual degrees of freedom</em>, or <em>number of observations less number of parameters</em></li>
+<li><em>Degrees of freedom</em> for the rest of the book refers to <em>model degrees of freedom</em>, or <em>number of parameters in the model</em></li>
+</ul></li>
+<li><strong>Regression Uncertainty</strong> <em>(page 58-61)</em>
+<ul>
+<li>Since "standard" standard errors are sensitive to misspecification, we can use <em>nonparametric</em> methods to better estimate uncertainty</li>
+<li>The <strong>Bootstrap</strong>: resample with replacement and use the uncertainty across samples as an estimate of actual sampling variance</li>
+<li><strong>Sandwich</strong> variance estimator to get HC standard errors (<em>heteroskedastic consistent</em> rather than assuming <em>homoskedastic</em>), use the R <code>AER</code> package</li>
+<li>For OLS, HC standard errors approximate and are a fast alternative to bootstrapping</li>
+</ul></li>
+<li><strong>Space and Time</strong> <em>(page 61-67)</em>
+<ul>
+<li>Previous discussion assumes independence between observations. </li>
+<li>Since that's not the case, we can include variables behind dependence in the same GLM framework.</li>
+<li>Rather than building by hand, include many variables and use later Regularization and Model Selection chapters to select the appropriate ones to use.</li>
+<li>When adding variables, <em>proceed hierarchically</em>: include larger (year, state) variables for any smaller ones (month, city)</li>
+<li><strong>Autocorrelation</strong> occurs frequently with time series data that has local dependence. The autocorrelation function (ACF) tracks lag correlations.
+<ul>
+<li>Model this type of data with a <em>Random Walk</em> (a form of <em>autoregressive</em> (AR) model), first order form of $AR(1)$:</li>
+<li>$AR(1): y<em>{t} = \beta</em>{0}+\beta{1}y<em>{t-1}+\epsilon</em>{t}$
+<ul>
+<li>if $|\beta<em>{1}| = 1$, random walk (model with <em>returns</em> rather than <em>values</em> like the stock market)</li>
+<li>if $|\beta</em>{1}| &gt; 1$, series explodes (you might be missing a trend variable, otherwise challenging)</li>
+<li>if $|\beta_{1}| &lt; 1$, series reverts to mean (common and useful)</li>
+<li>You can use $AR(p)$ for higher lags and model selection methods to choose the appropriate lag.</li>
+<li><em>Spatial autoregressive</em> (SAR) models to include spatial neighbors (similar to temporal neighbors)</li>
+</ul></li>
+</ul></li>
 </ul></li>
 </ul>
 
@@ -313,38 +323,38 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em>Summary: <strong>Regularization</strong> allows us to develop candidate models and select the best model for OOS performance. We add a penalty term and then minimize the penalized deviance; a common penalty construction is the <strong>Lasso</strong>. Then we can select the optimal penalty weight—$\lambda$—using <strong>cross validation</strong> or <strong>information criteria</strong> as our model selection process. Finally, we can approximate the uncertainty of such a model using a <strong>parametric bootstrap</strong> or <strong>subsampling</strong>.</em></p>
 
 <ul>
-<li><strong>Regularization</strong> context: provides a framework when working with high-dimensional data to develop <em>candidate models</em> and then <em>select</em> the best model to minimize error on out-of-sample data (needed to avoid <em>overfit</em>)<br />
-<ul><br />
-<li>Regularization penalizes model complexity to stabilize the system, minimizes <em>penalized</em> deviance</li><br />
-<li>"Regularization is the key to modern statistics" (77)</li><br />
-<li>"Regularization is trading variance (noise) for bias" (91)</li><br />
+<li><strong>Regularization</strong> context: provides a framework when working with high-dimensional data to develop <em>candidate models</em> and then <em>select</em> the best model to minimize error on out-of-sample data (needed to avoid <em>overfit</em>)
+<ul>
+<li>Regularization penalizes model complexity to stabilize the system, minimizes <em>penalized</em> deviance</li>
+<li>"Regularization is the key to modern statistics" (77)</li>
+<li>"Regularization is trading variance (noise) for bias" (91)</li>
 </ul></li>
-<li>The only $R^{2}$ we care about is <em>out-of-sample</em> $R^{2}$<br />
-<ul><br />
-<li>In-sample $R^{2}$ is always increased with more variables, making it look artificially good (it can even produce a <em>negative</em> out-of-sample $R^{2}$, or model that performs worse than no model at all)</li><br />
+<li>The only $R^{2}$ we care about is <em>out-of-sample</em> $R^{2}$
+<ul>
+<li>In-sample $R^{2}$ is always increased with more variables, making it look artificially good (it can even produce a <em>negative</em> out-of-sample $R^{2}$, or model that performs worse than no model at all)</li>
 </ul></li>
-<li><strong>Cross validation</strong>: use out-of-sample experiments to choose the best model<br />
-<ul><br />
-<li>Use data to select the best model</li><br />
-<li><em>K</em>-fold out-of-sample cross-validation: split data into <em>K</em> folds, fit coefficients on everything except <em>k</em>th fold, then record $R^{2}$ for the left-out <em>k</em>th fold</li><br />
+<li><strong>Cross validation</strong>: use out-of-sample experiments to choose the best model
+<ul>
+<li>Use data to select the best model</li>
+<li><em>K</em>-fold out-of-sample cross-validation: split data into <em>K</em> folds, fit coefficients on everything except <em>k</em>th fold, then record $R^{2}$ for the left-out <em>k</em>th fold</li>
 </ul></li>
-<li><strong>Backward stepwise regression</strong>: start with full model and cut it back to size<br />
-<ul><br />
-<li>Start with full model, cut back variables below $\alpha$ using BH FDR control</li><br />
-<li>This is generally <em>not</em> ideal because it does not handle <em>multicollinearity</em> (correlation between inputs) well</li><br />
+<li><strong>Backward stepwise regression</strong>: start with full model and cut it back to size
+<ul>
+<li>Start with full model, cut back variables below $\alpha$ using BH FDR control</li>
+<li>This is generally <em>not</em> ideal because it does not handle <em>multicollinearity</em> (correlation between inputs) well</li>
 </ul></li>
 <li><strong>Forward stepwise regression</strong>: build from simplicity to complexity, <em>greedy</em> search strategy, fast and stable, stable</li>
-<li>Regularization minimizes <em>penalized</em> deviance:<br />
-<ul><br />
-<li>$\hat{\beta} = \mbox{argmin} \left{-\frac{2}{n} \log \mbox{lhd} (\beta) + \lambda \sum<em>{k}{c(\beta</em>{k})} \right}$ where $\lambda \sum<em>{k}{c(\beta</em>{k})}$ is the penalty term and $c(\beta_{k})$ is the cost on the size of the coefficient</li><br />
-<li>This accounts for both the <em>estimation cost</em> (deviance, distance between data and model) and the <em>testing cost</em> (cost of $\beta \neq 0$) </li><br />
+<li>Regularization minimizes <em>penalized</em> deviance:
+<ul>
+<li>$\hat{\beta} = \mbox{argmin} \left{-\frac{2}{n} \log \mbox{lhd} (\beta) + \lambda \sum<em>{k}{c(\beta</em>{k})} \right}$ where $\lambda \sum<em>{k}{c(\beta</em>{k})}$ is the penalty term and $c(\beta_{k})$ is the cost on the size of the coefficient</li>
+<li>This accounts for both the <em>estimation cost</em> (deviance, distance between data and model) and the <em>testing cost</em> (cost of $\beta \neq 0$) </li>
 </ul></li>
-<li>The <strong>lasso</strong> has $c(\beta<em>{k})=|\beta|$<br />
-<ul><br />
-<li>Default because least bias on large signals while retaining the stability of a convex penalty, also automatic variable screening since some $\beta$ will be exactly zero</li><br />
-<li>Provides an enumeration of candidate models (different values of $\lambda$), then use model selection to choose the best $\lambda$</li><br />
-<li>Lasso regularization path: start with $\lambda$ such that $\hat\beta</em>{1}=0$, then shrink $\lambda$ to reduce the penalty on $\beta$ and iteratively add complexity to the model</li><br />
-<li>$\lambda$ operates on all $\beta$, so typically scale by $\mbox{sd}(x)$ so that the penalty on $\beta$ is measured on the scale of 1 standard deviation change in $x$</li><br />
+<li>The <strong>lasso</strong> has $c(\beta<em>{k})=|\beta|$
+<ul>
+<li>Default because least bias on large signals while retaining the stability of a convex penalty, also automatic variable screening since some $\beta$ will be exactly zero</li>
+<li>Provides an enumeration of candidate models (different values of $\lambda$), then use model selection to choose the best $\lambda$</li>
+<li>Lasso regularization path: start with $\lambda$ such that $\hat\beta</em>{1}=0$, then shrink $\lambda$ to reduce the penalty on $\beta$ and iteratively add complexity to the model</li>
+<li>$\lambda$ operates on all $\beta$, so typically scale by $\mbox{sd}(x)$ so that the penalty on $\beta$ is measured on the scale of 1 standard deviation change in $x$</li>
 </ul></li>
 </ul>
 
@@ -352,16 +362,16 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <ul>
 <li>Recall: $\lambda$ is the penalty weight (signal-to-noise filter like a radio squelch)</li>
-<li><strong><em>K</em>-Fold CV Lasso</strong>: obtain candidate models from lasso, fit lasso path on data except <em>k</em>th fold and calculate deviance on <em>k</em>th fold, and choose $\lambda$ by either <strong>CV-min</strong> (recommended) or <strong>CV-1se</strong> (more conservative)<br />
-<ul><br />
-<li>Cross validation answers: <em>"Which model does best in predicting unseen data?"</em></li><br />
-<li>CV is a computational experiment to approximate OOS errors</li><br />
+<li><strong><em>K</em>-Fold CV Lasso</strong>: obtain candidate models from lasso, fit lasso path on data except <em>k</em>th fold and calculate deviance on <em>k</em>th fold, and choose $\lambda$ by either <strong>CV-min</strong> (recommended) or <strong>CV-1se</strong> (more conservative)
+<ul>
+<li>Cross validation answers: <em>"Which model does best in predicting unseen data?"</em></li>
+<li>CV is a computational experiment to approximate OOS errors</li>
 </ul></li>
-<li><strong>Information Criteria (IC)</strong>: analytic approximation of OOS errors, many flavors (AICc, AIC, BIC, etc.)<br />
-<ul><br />
-<li><em>Akaike's criterion</em>: $\mbox{AIC} = \mbox{deviance} + 2df$ where deviance is calculated in-sample and $df$ are your model degrees of freedom; true for low-dimensional models</li><br />
-<li><em>Corrected AIC</em>: $\mbox{AICc} = \mbox{deviance} + 2df \frac{n}{n-df-1}$, should always be used over AIC: works where AIC doesn't and provides the same answer where it does</li><br />
-<li><em>Bayes criterion</em>: $\mbox{BIC} = \mbox{deviance} + \log(n) \times df$, attempts to get at the "true" model and is more conservative</li><br />
+<li><strong>Information Criteria (IC)</strong>: analytic approximation of OOS errors, many flavors (AICc, AIC, BIC, etc.)
+<ul>
+<li><em>Akaike's criterion</em>: $\mbox{AIC} = \mbox{deviance} + 2df$ where deviance is calculated in-sample and $df$ are your model degrees of freedom; true for low-dimensional models</li>
+<li><em>Corrected AIC</em>: $\mbox{AICc} = \mbox{deviance} + 2df \frac{n}{n-df-1}$, should always be used over AIC: works where AIC doesn't and provides the same answer where it does</li>
+<li><em>Bayes criterion</em>: $\mbox{BIC} = \mbox{deviance} + \log(n) \times df$, attempts to get at the "true" model and is more conservative</li>
 </ul></li>
 <li>If you have time and answer is important, do CV. AICc is fast and stable. Typically use a combination of the two.</li>
 </ul>
@@ -370,13 +380,13 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <ul>
 <li>Uncertainty quantification not easy because of penalty term and high-dimensional objects, but can use <strong>parametric bootstrap</strong>, <strong>subsampling</strong>, or <strong>sample splitting</strong> (ch 6)</li>
-<li><strong>Parametric Bootstrap</strong>: rather than resampling with replacement (as in nonparametric bootstrap, which will overfit), generate <em>new</em> data from a model with less bias, say $\bar\lambda \approx \lambda/4$<br />
-<ul><br />
-<li>Drawback: relies upon the correctness of your data generating process</li><br />
+<li><strong>Parametric Bootstrap</strong>: rather than resampling with replacement (as in nonparametric bootstrap, which will overfit), generate <em>new</em> data from a model with less bias, say $\bar\lambda \approx \lambda/4$
+<ul>
+<li>Drawback: relies upon the correctness of your data generating process</li>
 </ul></li>
-<li><strong>Subsampling</strong>: re-estimate your target using <em>without-replacement</em> subsamples<br />
-<ul><br />
-<li>Estimates are based on smaller sample than you actually have, so must assume a <em>learning rate</em> to adjust a size-<em>m</em> uncertainty for size-<em>n</em> sample estimate (typically $\sqrt{n}$)</li><br />
+<li><strong>Subsampling</strong>: re-estimate your target using <em>without-replacement</em> subsamples
+<ul>
+<li>Estimates are based on smaller sample than you actually have, so must assume a <em>learning rate</em> to adjust a size-<em>m</em> uncertainty for size-<em>n</em> sample estimate (typically $\sqrt{n}$)</li>
 </ul></li>
 <li>Both are approximation tools that should be treated with skepticism</li>
 </ul>
@@ -386,36 +396,36 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <p><em>Summary: <strong>K-Nearest Neighbors</strong> is a common classification algorithm but not suitable for large datasets. For practical applications we focus on predicting *probabilities</em> using either <strong>Multinomial Logistic Regression</strong>, or <strong>Distributed Multinomial Regression</strong> which uses a Poisson distribution to enable distributed computation.*</p>
 
 <ul>
-<li><em>K</em>-Nearest Neighbors: what is the most common class for observations around <strong><em>x</em></strong>?<br />
-<ul><br />
-<li>Drawbacks: units matter (can scale), results unstable as a function of <em>K</em>, cross validation doesn't work well, computationally expensive</li><br />
-<li>Therefore, we will focus on methods and models for <em>probability</em></li><br />
+<li><em>K</em>-Nearest Neighbors: what is the most common class for observations around <strong><em>x</em></strong>?
+<ul>
+<li>Drawbacks: units matter (can scale), results unstable as a function of <em>K</em>, cross validation doesn't work well, computationally expensive</li>
+<li>Therefore, we will focus on methods and models for <em>probability</em></li>
 </ul></li>
-<li>Decisions have costs: probabilities allow us to compute <em>expected loss</em><br />
-<ul><br />
-<li>$FPR = \text{False Positive Rate} = \frac{\text{expected # false positives}}{\text{# classified positive}}$</li><br />
-<li>$FNR = \text{False Negative Rate} = \frac{\text{expected # false negatives}}{\text{# classified negative}}$</li><br />
-<li><strong>Sensitivity</strong>: proportion of true $y=1$ classified as such</li><br />
-<li><strong>Specificity</strong>: proportion of true $y=0$ classified as such</li><br />
-<li><strong>ROC Curve</strong> plots $sensitivity$ vs $1-specificity$</li><br />
+<li>Decisions have costs: probabilities allow us to compute <em>expected loss</em>
+<ul>
+<li>$FPR = \text{False Positive Rate} = \frac{\text{expected # false positives}}{\text{# classified positive}}$</li>
+<li>$FNR = \text{False Negative Rate} = \frac{\text{expected # false negatives}}{\text{# classified negative}}$</li>
+<li><strong>Sensitivity</strong>: proportion of true $y=1$ classified as such</li>
+<li><strong>Specificity</strong>: proportion of true $y=0$ classified as such</li>
+<li><strong>ROC Curve</strong> plots $sensitivity$ vs $1-specificity$</li>
 </ul></li>
-<li>Great quote (114):<br />
-<ul><br />
-<li>&gt;It is dangerous to make changes to future behavior based on a naive analysis of past data.</li><br />
+<li>Great quote (114):
+<ul>
+<li>&gt;It is dangerous to make changes to future behavior based on a naive analysis of past data.</li>
 </ul></li>
-<li><strong>Multinomial Logistic Regression</strong> uses the multinomial logit or <em>softmax</em> function: $e^{z<em>{j}} / \sum</em>{k} e^{z<em>{k}}$ --> can predict with this using <code>cv.glmnet(...family="multinomial")</code><br />
-<ul><br />
-<li>$e^{x'\beta</em>{k}}$ acts as an <em>intensity</em> for each class</li><br />
+<li><strong>Multinomial Logistic Regression</strong> uses the multinomial logit or <em>softmax</em> function: $e^{z<em>{j}} / \sum</em>{k} e^{z<em>{k}}$ --> can predict with this using <code>cv.glmnet(...family="multinomial")</code>
+<ul>
+<li>$e^{x'\beta</em>{k}}$ acts as an <em>intensity</em> for each class</li>
 </ul></li>
-<li><strong>Distributed Multinomial Regression</strong> uses a Poisson distribution (<em>count</em> data) to improve the performance of MLR<br />
-<ul><br />
-<li>Using Poisson distribution allows you to improve prediction performance by setting a different $\lambda<em>{k}$ for each class, and compute each $\hat{\beta</em>{k}}$ in parallel (R's <code>parallel</code> library)</li><br />
+<li><strong>Distributed Multinomial Regression</strong> uses a Poisson distribution (<em>count</em> data) to improve the performance of MLR
+<ul>
+<li>Using Poisson distribution allows you to improve prediction performance by setting a different $\lambda<em>{k}$ for each class, and compute each $\hat{\beta</em>{k}}$ in parallel (R's <code>parallel</code> library)</li>
 </ul></li>
-<li><strong>Distribution &amp; Big Data</strong><br />
-<ul><br />
-<li><em>parallel</em> if algorithm can do many computations at once</li><br />
-<li><em>distributed</em> when each computation can work with a subset of data </li><br />
-<li><em>MapReduce (MR)</em> can be applied to DMR</li><br />
+<li><strong>Distribution &amp; Big Data</strong>
+<ul>
+<li><em>parallel</em> if algorithm can do many computations at once</li>
+<li><em>distributed</em> when each computation can work with a subset of data </li>
+<li><em>MapReduce (MR)</em> can be applied to DMR</li>
 </ul></li>
 </ul>
 
@@ -425,28 +435,28 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <ul>
 <li>Experiments allow us to predict a future that is <em>different</em> from the past (because you take actions to make it different, i.e. <em>counterfactuals</em>).</li>
-<li><strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard for estimating counterfactuals<br />
-<ul><br />
-<li>AA tests are good practice to ensure no issues with randomization (you expect results to be the same)</li><br />
-<li>AB tests are completely random so it is easy to estimate the <strong>Average Treatment Effect (ATE)</strong> on the response, given as the mean difference in response: $ATE = \mathbb{E}[y|d=1] - \mathbb{E}[y|d=0] = \bar{y<em>{1}} - \bar{y</em>{0}}$</li><br />
-<li>You can <em>reweight</em> your sample if certain sample segments are underrepresented relative to the population</li><br />
-<li>Common issues with randomized trials include: <em>imperfect randomization</em> and <em>dependence between units/observations</em></li><br />
+<li><strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard for estimating counterfactuals
+<ul>
+<li>AA tests are good practice to ensure no issues with randomization (you expect results to be the same)</li>
+<li>AB tests are completely random so it is easy to estimate the <strong>Average Treatment Effect (ATE)</strong> on the response, given as the mean difference in response: $ATE = \mathbb{E}[y|d=1] - \mathbb{E}[y|d=0] = \bar{y<em>{1}} - \bar{y</em>{0}}$</li>
+<li>You can <em>reweight</em> your sample if certain sample segments are underrepresented relative to the population</li>
+<li>Common issues with randomized trials include: <em>imperfect randomization</em> and <em>dependence between units/observations</em></li>
 </ul></li>
 <li><strong>Difference-in-difference</strong> and <strong>Regression discontinuity</strong> allow you to recover causal treatments in situations where you can't perform a randomized trial</li>
 <li><strong>Difference-in-difference</strong> (diff-in-diff) applies when you can isolate pretreatment differences, as in different markets. This is only as reliable as the two group are comparable.</li>
-<li><strong>Regression discontinuity</strong> applies where treatment is determined by an arbitrary threshold and we can observe observations on either side of the threshold (i.e. grate thresholds, income thresholds, etc.)<br />
-<ul><br />
-<li>Make a continuity assumption and extrapolate on either side of the threshold</li><br />
-<li>Fit regression models on either side of the threshold and observe the difference in their predictions at the threshold to show impact of the treatment</li><br />
-<li><strong>Instrumental Variables</strong> are upstream sources of randomness that can mimic the effect of an experiment to demonstrate causality<br /><br />
-<ul><br /><br />
-<li><em>endogeneity</em>: when the policy (treatment) and error are correlated, the "omitted variable bias" requiring the use of instrumental variables</li><br /><br />
-<li>example: relationship between airline prices and demand, both of which are high during the holidays</li><br /><br />
-</ul></li><br />
+<li><strong>Regression discontinuity</strong> applies where treatment is determined by an arbitrary threshold and we can observe observations on either side of the threshold (i.e. grate thresholds, income thresholds, etc.)
+<ul>
+<li>Make a continuity assumption and extrapolate on either side of the threshold</li>
+<li>Fit regression models on either side of the threshold and observe the difference in their predictions at the threshold to show impact of the treatment
+<ul>
+<li><strong>Instrumental Variables</strong> are upstream sources of randomness that can mimic the effect of an experiment to demonstrate causality</li>
+<li><em>endogeneity</em>: when the policy (treatment) and error are correlated, the "omitted variable bias" requiring the use of instrumental variables</li>
+<li>example: relationship between airline prices and demand, both of which are high during the holidays</li>
+</ul></li>
 </ul></li>
 </ul>
 
-<pre><code>graph LR
+<pre class="mermaid-pre"><div class="mermaid">graph LR
 
 id1(z=IV)
 id2(x=observed covariate)
@@ -460,14 +470,14 @@ id5 --&gt; id3
 id5 --&gt; id4
 id3 --&gt; id4
 id2 --&gt; id4
-</code></pre>
+</div></pre>
 
 <ul>
-<li>Use <strong>two-stage least squares (2SLS)</strong> to recover causal effects from IV variation: $\mathbb{E}[y|z]=\gamma\mathbb{E}[p|z]$<br />
-<ul><br />
-<li>First fit OLS for <em>p</em> on <em>x</em> and <em>z</em></li><br />
-<li>Next fit OLS for response onto the predicted policy and the covariates to estimate $\mathbb{E}[y|\hat{p}<em>{i},x</em>{i}]=\alpha<em>{y}+\hat{p}</em>{i}\gamma + x'<em>{i}\beta</em>{y}$ where $\gamma$ is the causal effect of <em>p</em> on <em>y</em></li><br />
-<li>in R, use <code>ivreg</code> function in <code>AER</code> package, with <code>|</code> to separate first and second stage inputs</li><br />
+<li>Use <strong>two-stage least squares (2SLS)</strong> to recover causal effects from IV variation: $\mathbb{E}[y|z]=\gamma\mathbb{E}[p|z]$
+<ul>
+<li>First fit OLS for <em>p</em> on <em>x</em> and <em>z</em></li>
+<li>Next fit OLS for response onto the predicted policy and the covariates to estimate $\mathbb{E}[y|\hat{p}<em>{i},x</em>{i}]=\alpha<em>{y}+\hat{p}</em>{i}\gamma + x'<em>{i}\beta</em>{y}$ where $\gamma$ is the causal effect of <em>p</em> on <em>y</em></li>
+<li>in R, use <code>ivreg</code> function in <code>AER</code> package, with <code>|</code> to separate first and second stage inputs</li>
 </ul></li>
 </ul>
 
@@ -477,26 +487,26 @@ id2 --&gt; id4
 
 <ul>
 <li>When we can't run experiments, we can use on <strong>observational studies</strong> which depends upon the assumption of <strong>conditional ignorability</strong> (CI): that you have controlled for all variables that influence both the treatment and response</li>
-<li><strong>Linear Treatment Effects</strong> (LTE) model: if <em>x</em> contains all variables that influence <em>d</em> and <em>y</em>, then $\gamma$ can be interpreted causally<br />
-<ul><br />
-<li>$y = d\gamma + x'\beta + \varepsilon$, $\varepsilon|d, x = 0$</li><br />
-<li>$d = x'\tau + v$, $v|x=0$</li><br />
+<li><strong>Linear Treatment Effects</strong> (LTE) model: if <em>x</em> contains all variables that influence <em>d</em> and <em>y</em>, then $\gamma$ can be interpreted causally
+<ul>
+<li>$y = d\gamma + x'\beta + \varepsilon$, $\varepsilon|d, x = 0$</li>
+<li>$d = x'\tau + v$, $v|x=0$</li>
 </ul></li>
 <li>Adapt lasso and CV for causal inference under CI for high-dimension problems: <strong>LTE Lasso Regression</strong> or <strong>Propensity Models</strong> for binary treatments</li>
 <li>Use <strong>Sample Splitting</strong> (or Orthogonal Machine Learning) for inference and uncertainty quantification: split sample into two pieces, model selection on one and standard inference on the second</li>
-<li><strong>Heterogeneous Treatment Effects</strong> (HTE) deals with the problem of treatment being different for different subjects<br />
-<ul><br />
-<li>price elasticity is a common use case of this type model (see beer sales example)</li><br />
+<li><strong>Heterogeneous Treatment Effects</strong> (HTE) deals with the problem of treatment being different for different subjects
+<ul>
+<li>price elasticity is a common use case of this type model (see beer sales example)</li>
 </ul></li>
-<li><strong>Synthetic Controls</strong> allow us to estimate the impact of a treatment by comparing one region to other regions that did did not have the treatment<br />
-<ul><br />
-<li>You need to assume independence between regions and stationary structural relationships, and this can be used in conjunction with observed controls</li><br />
-<li>You can predict each of the unchanged regions (placebos) as a means of approximating the error</li><br />
+<li><strong>Synthetic Controls</strong> allow us to estimate the impact of a treatment by comparing one region to other regions that did did not have the treatment
+<ul>
+<li>You need to assume independence between regions and stationary structural relationships, and this can be used in conjunction with observed controls</li>
+<li>You can predict each of the unchanged regions (placebos) as a means of approximating the error</li>
 </ul></li>
-<li>Some strategies to deal with <strong>missing data</strong> include:<br />
-<ul><br />
-<li>create new category for missing values (categorical variables)</li><br />
-<li>impute missing values with the mean or with zero (numeric variables)</li><br />
+<li>Some strategies to deal with <strong>missing data</strong> include:
+<ul>
+<li>create new category for missing values (categorical variables)</li>
+<li>impute missing values with the mean or with zero (numeric variables)</li>
 </ul></li>
 </ul>
 
@@ -505,33 +515,33 @@ id2 --&gt; id4
 <p><em>Summary: Data Science is effectively *dimension reduction</em>, and factorization is one tool for breaking the expectation for each <strong>x</strong> into the sum of a small number of factors. <strong>Principal Component Analysis</strong> is a primary tool for factorization which projects the data onto orthogonal dimensions with decreasing variance.*</p>
 
 <ul>
-<li>Clustering (including <strong><em>K</em>-Means</strong>) collects observations into groups<br />
-<ul><br />
-<li><em>K</em>-means can generate different answers each time you run it (there can be multiple local minimums), so treat it more as an exploratory tool</li><br />
+<li>Clustering (including <strong><em>K</em>-Means</strong>) collects observations into groups
+<ul>
+<li><em>K</em>-means can generate different answers each time you run it (there can be multiple local minimums), so treat it more as an exploratory tool</li>
 </ul></li>
-<li><strong>Principal Component Analysis</strong> (PCA) identifies the dimensions with the highest variance<br />
-<ul><br />
-<li>Think about PCA as:<br /><br />
-<ul><br /><br />
-<li>repeatedly fitting a regression onto the best possible factors to explain the current residuals</li><br /><br />
-<li>rotating the axes of the data for the projections with the highest variance</li><br /><br />
-</ul></li><br />
-<li>You can summarize most of the variation with the first <em>K</em> components</li><br />
-<li>Use <code>prcomp(x, scale=TRUE)</code> to compute PCA in R</li><br />
-<li>PCA can provide (approximate) interpretable results</li><br />
+<li><strong>Principal Component Analysis</strong> (PCA) identifies the dimensions with the highest variance 
+<ul>
+<li>Think about PCA as:
+<ul>
+<li>repeatedly fitting a regression onto the best possible factors to explain the current residuals</li>
+<li>rotating the axes of the data for the projections with the highest variance</li>
 </ul></li>
-<li><strong>Principal Component (Lasso) Regression</strong> (PCR)<br />
-<ul><br />
-<li>Instead of regressing <em>y</em> onto <strong><em>x</em></strong>, regress <em>y</em> onto <strong><em>v</em></strong> from the PCA</li><br />
-<li>This is beneficial because PCA reduces dimension, PCs are independent (removes multicollinearity), and you can use the results of unsupervised PCA on a large bank of unlabeled data on a smaller supervised regression</li><br />
-<li>Use Lasso regression and then you can regress <em>y</em> onto both <strong><em>x</em></strong> and <strong><em>v</em></strong></li><br />
+<li>You can summarize most of the variation with the first <em>K</em> components</li>
+<li>Use <code>prcomp(x, scale=TRUE)</code> to compute PCA in R</li>
+<li>PCA can provide (approximate) interpretable results</li>
 </ul></li>
-<li>Sometimes <strong><em>v</em></strong> is not relevant to both <strong><em>x</em></strong> and <em>y</em>, so make this true using <strong>Partial Least Squares</strong> (PLS):<br />
-<ul><br />
-<li>This is a special case of <strong>Marginal Regression</strong> (MR), a strategy for supervised learning in ultra-high ($p\gg n$) dimensions: regress <em>y</em> on to each dimension of <strong><em>x</em></strong> independently and use the resulting coefficients to map from <strong><em>x</em></strong> to <em>v</em></li><br />
-<li>PLS repeats MR for multiple iterations ("boosted marginal regression")</li><br />
-<li><strong>Boosting</strong>: repeatedly apply residuals from the previous fit of a simple algorithm</li><br />
-<li>PLS often offers greater interpretability than Lasso</li><br />
+<li><strong>Principal Component (Lasso) Regression</strong> (PCR)
+<ul>
+<li>Instead of regressing <em>y</em> onto <strong><em>x</em></strong>, regress <em>y</em> onto <strong><em>v</em></strong> from the PCA</li>
+<li>This is beneficial because PCA reduces dimension, PCs are independent (removes multicollinearity), and you can use the results of unsupervised PCA on a large bank of unlabeled data on a smaller supervised regression</li>
+<li>Use Lasso regression and then you can regress <em>y</em> onto both <strong><em>x</em></strong> and <strong><em>v</em></strong></li>
+</ul></li>
+<li>Sometimes <strong><em>v</em></strong> is not relevant to both <strong><em>x</em></strong> and <em>y</em>, so make this true using <strong>Partial Least Squares</strong> (PLS):
+<ul>
+<li>This is a special case of <strong>Marginal Regression</strong> (MR), a strategy for supervised learning in ultra-high ($p\gg n$) dimensions: regress <em>y</em> on to each dimension of <strong><em>x</em></strong> independently and use the resulting coefficients to map from <strong><em>x</em></strong> to <em>v</em></li>
+<li>PLS repeats MR for multiple iterations ("boosted marginal regression")</li>
+<li><strong>Boosting</strong>: repeatedly apply residuals from the previous fit of a simple algorithm</li>
+<li>PLS often offers greater interpretability than Lasso</li>
 </ul></li>
 </ul>
 
@@ -558,7 +568,7 @@ id2 --&gt; id4
 <li><strong>Decision Trees</strong> use a hierarchical series of ordered steps (decision nodes) to map inputs to outcomes</li>
 </ul>
 
-<pre><code>graph LR
+<pre class="mermaid-pre"><div class="mermaid">graph LR
 
 id1(Wake Up)
 id2(&gt;70% Rain)
@@ -583,19 +593,19 @@ id5 --&gt; id8
 id8 --&gt; id9
 id3 --&gt; id10
 id10 --&gt; id11
-</code></pre>
+</div></pre>
 
 <ul>
-<li><strong>Classification and Regression Tree</strong> (CART) is a method of fitting trees to minimize a loss function (rather than based on $x'\beta$ like linear models, predicted $\hat{y}$ is defined via thresholds on splitting the dimensions of $x$)<br />
-<ul><br />
-<li>Split recursively until you reach a node of a specified minimum size</li><br />
+<li><strong>Classification and Regression Tree</strong> (CART) is a method of fitting trees to minimize a loss function (rather than based on $x'\beta$ like linear models, predicted $\hat{y}$ is defined via thresholds on splitting the dimensions of $x$)
+<ul>
+<li>Split recursively until you reach a node of a specified minimum size</li>
 </ul></li>
-<li><strong>Random Forests</strong> perform <em>bagging</em> (bootstrap aggregating) to effectively average a large number of trees: "nothing performs better out of the box on big data prediction problems"<br />
-<ul><br />
-<li>Forest predictions are the average of individual tree predictions</li><br />
-<li>Uncertainty bounds (defined as the min/max of individual trees) are adaptive based on how far apart individual trees are in different regions</li><br />
-<li>You lose the interpretability of single trees, but can get some intuition around <em>variable importance</em> calculated as the increase in error that occurs when a variable is not used to define tree splits</li><br />
-<li>Random forests can be computed efficiently using <strong>Empirical Bayesian Forests</strong> which keep the same trunk (first several splits) for all trees and only allow variation lower down</li><br />
+<li><strong>Random Forests</strong> perform <em>bagging</em> (bootstrap aggregating) to effectively average a large number of trees: "nothing performs better out of the box on big data prediction problems"
+<ul>
+<li>Forest predictions are the average of individual tree predictions</li>
+<li>Uncertainty bounds (defined as the min/max of individual trees) are adaptive based on how far apart individual trees are in different regions</li>
+<li>You lose the interpretability of single trees, but can get some intuition around <em>variable importance</em> calculated as the increase in error that occurs when a variable is not used to define tree splits</li>
+<li>Random forests can be computed efficiently using <strong>Empirical Bayesian Forests</strong> which keep the same trunk (first several splits) for all trees and only allow variation lower down</li>
 </ul></li>
 <li>"<strong>More data always wins</strong>...For prediction tasks, never reduce the amount of data you can work with to fit some fancy but computationally costly model—you're better off with a simple but flexible model fit to as much data as you can get your hands on." (279)</li>
 <li><strong>Causal Trees</strong> are a tree-based model that is well-suited for modeling heterogeneous treatment effects in each child node</li>
@@ -608,17 +618,17 @@ id10 --&gt; id11
 <p><em>Summary: Artificial Intelligence can replace people for certain tasks. This is achieved by decomposing complex tasks into sub-problems that can be solved with general-purpose machine learning tools, especially deep neural nets.</em></p>
 
 <ul>
-<li>Let <strong><a href="../notes/Artificial-Intelligence.html">Artificial Intelligence</a></strong> be <em>systems</em> that ingest human-level knowledge to automate and accelerate tasks previously performed only by humans<br />
-<ul><br />
-<li>Seeks to solve complex problems by using <em>domain knowledge</em> to break them down into simple predictions tasks that can be performed with ML</li><br />
-<li><strong>"ML has the potential to become a cloud computing commodity. In contrast, the domain knowledge necessary to combine ML components into an end-to-end AI solution will not be commoditized. Those who have expertise that can break complex human business problems into ML-solvable components will succeed in building the next generation of business AI."</strong> (292)</li><br />
+<li>Let <strong><a href="../notes/Artificial-Intelligence.html">Artificial Intelligence</a></strong> be <em>systems</em> that ingest human-level knowledge to automate and accelerate tasks previously performed only by humans
+<ul>
+<li>Seeks to solve complex problems by using <em>domain knowledge</em> to break them down into simple predictions tasks that can be performed with ML</li>
+<li><strong>"ML has the potential to become a cloud computing commodity. In contrast, the domain knowledge necessary to combine ML components into an end-to-end AI solution will not be commoditized. Those who have expertise that can break complex human business problems into ML-solvable components will succeed in building the next generation of business AI."</strong> (292)</li>
 </ul></li>
 <li>Contemporary AI is driven by <strong>General-Purpose Machine Learning</strong>, some key components of which include deep neural nets, OOS validation, stochastic gradient descent for parameter optimization, and GPU hardware for parallelization</li>
-<li><strong>Deep Learning</strong> or <strong>Deep Neural Nets</strong> (DNNs) combine restrictive dimension reduction (like parametric models) with flexible function approximation (like nonparametric models) using many layers<br />
-<ul><br />
-<li>Neural networks have a long history (including failed experiments with <em>wide</em> neural networks in the 1990s), but <em>deep</em> neural nets have been enabled recently by big data and GPUs</li><br />
-<li>DNNs are modular: each layer plays a role and they can be swapped out, including to transfer learning between models</li><br />
-<li>See <em>Deep Learning</em> by Goodfellow, Bengio, and Courville; <em><a href="http://neuralnetworksanddeeplearning.com/index.html">Neural Networks and Deep Learning</a></em> by <a href="../notes/Michael-Nielsen.html">Michael Nielsen</a></li><br />
+<li><strong>Deep Learning</strong> or <strong>Deep Neural Nets</strong> (DNNs) combine restrictive dimension reduction (like parametric models) with flexible function approximation (like nonparametric models) using many layers
+<ul>
+<li>Neural networks have a long history (including failed experiments with <em>wide</em> neural networks in the 1990s), but <em>deep</em> neural nets have been enabled recently by big data and GPUs</li>
+<li>DNNs are modular: each layer plays a role and they can be swapped out, including to transfer learning between models</li>
+<li>See <em>Deep Learning</em> by Goodfellow, Bengio, and Courville; <em><a href="http://neuralnetworksanddeeplearning.com/index.html">Neural Networks and Deep Learning</a></em> by <a href="../notes/Michael-Nielsen.html">Michael Nielsen</a></li>
 </ul></li>
 <li><strong>Stochastic Gradient Descent</strong> replaces the actual gradients with estimates of those gradients based on a subset of the data</li>
 <li><strong>Reinforcement Learning</strong> (RL) (aka active learning or sequential design of experiments) algorithms choose data consumed to continue learning</li>
