@@ -22,7 +22,7 @@ isbn13: 9781621640608
 - "All pastoral approaches must be grounded in an authentic anthropology, and authentic understanding of the human person." (14)
 
 ## Introduction
-*by Fr.. Paul Check*
+*by Fr. Paul Check*
 
 # Theoretical
 
@@ -37,7 +37,7 @@ isbn13: 9781621640608
 - He does not use the "language of the world" (cf. [[James Martin, SJ]] in *[[2022-01-25-Building a Bridge#^f686c1]]*): "Only what is true can ultimately be pastoral." (162 cf. 1986 *[Letter to the Bishops of the Catholic Church on the Pastoral Care of Homosexual Persons](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_en.html)* by the Congregation For The Doctrine Of The Faith)
 	- "No one is rightly called gay, lesbian, or any other letter in the alphabet soup of sexual identities. These labels stem from an impoverished and polluted view of human sexuality.", and "they do not describe persons with the fullness and richness that the Church recognizes and respects in every man or woman. Instead, 'gay' and 'lesbian' are often cultural definitions for people and movements that have accepted homosexual acts and behaviors as morally good." (165, second part from *[Pastoral Ministry to Young People with Same-Sex Attraction](https://truthandlove.com/wp-content/uploads/2017/06/ministry-ssa_en.pdf)* from the Episcopal Commission for Doctrine of the Canadian Conference of Catholic Bishops)
 	- See also 2006 *[Ministry to Persons with a Homosexual Inclination: Guidelines for Pastoral Care](https://www.usccb.org/issues-and-action/human-life-and-dignity/homosexuality/upload/minstry-persons-homosexual-inclination-2006.pdf)* from USCCB
-- [[Pope Benedict XVI]]: "To disregard [the nature of the human being as man and woman] would be the self-destruction of man himself, and hence the destruction of God's own work." (164 [Christmas greetings to the members of the Roman Curia and Prelature (December 22, 2008)](https://www.vatican.va/content/benedict-xvi/en/speeches/2008/december/documents/hf_ben-xvi_spe_20081222_curia-romana.html))
+- [[Joseph Ratzinger|Pope Benedict XVI]]: "To disregard [the nature of the human being as man and woman] would be the self-destruction of man himself, and hence the destruction of God's own work." (164 [Christmas greetings to the members of the Roman Curia and Prelature (December 22, 2008)](https://www.vatican.va/content/benedict-xvi/en/speeches/2008/december/documents/hf_ben-xvi_spe_20081222_curia-romana.html))
 - "God brings loneliness into our lives so that we will know that only he, and he alone, can satisfy us." (169)
 - The section **Abandonment in the Face of Addictions** is a beautiful meditation on [[Chastity]]:
 	- [[Thomas Merton]] in *Life and Holiness*: "We become saints not by violently overcoming our own weakness, but by letting the Lord give us the strength and purity of his Spirit in exchange for our weakness and misery."

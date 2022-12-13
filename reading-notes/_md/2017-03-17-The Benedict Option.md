@@ -11,7 +11,7 @@
         * second part, I will discuss how the way of Christian living prescribed by the Rule can be adapted to the lives of modern conservative Christians LOCATION: 103
     * Jesus Christ promised that the gates of Hell would not prevail against His church, but He did not promise that Hell would not prevail against His church in the West. That depends on us, and the choices we make right here, right now. LOCATION: 110
 * Chapter 1 - The Great Flood (where we are today)
-    * [[Pope Benedict XVI]]: the spiritual crisis overtaking the West is the most serious since the fall of the Roman Empire LOCATION: 131
+    * [[Joseph Ratzinger|Pope Benedict XVI]]: the spiritual crisis overtaking the West is the most serious since the fall of the Roman Empire LOCATION: 131
     * [[Moralistic Therapeutic Deism]] (MTD). LOCATION: 162, is the natural religion of a culture that worships the Self and material comfort. LOCATION: 175
         * God created the world
         * God wants people to be good and nice as taught by the bible and other religions

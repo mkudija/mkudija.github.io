@@ -120,7 +120,7 @@ _**Summary**: Practice [[Spaced repetition]] to keep cement memories._
 - **[[Spaced repetition]]** goes back to [[Hermann Ebbinghaus]] who wrote *Memory: A Contribution to Experimental Psychology* [[bib]] which describes the exponential loss of memory (106)
 - Knowing this "forgetting curve", practice overlearning, and spaced repetition (using tools such as a Leitner box, Anki, Memrise, Brainscape, or Obsidian plugins)
 	- [ ] #watch (1.5 hr) [The Absolute State of [[Spaced Repetition]] In Obsidian](https://youtu.be/OqVs1Sw-Ahg)
-	- [ ] create Readwise-like functionality in Obsidian to practice spaced repetition with my reading notes 📅 2022-07-27
+	- [ ] create Readwise-like functionality in Obsidian to practice spaced repetition with my reading notes 
 - *Fluen Forever* by Gabriel Wyner [[bib]] combines spaced repetition with photos
 
 

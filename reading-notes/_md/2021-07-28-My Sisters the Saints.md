@@ -94,7 +94,7 @@
 - *Theology of the Body* by [[John Paul II]] (106)
 - ***The Collected Works of St. John of the Cross*** (139)
 - *Mother Teresa: Come Be My Light: The Private Writings of the Saint of Calcutta* (141)
-- *Daughter Zion* by [[Pope Benedict XVI]] (189)
+- *Daughter Zion* by [[Joseph Ratzinger|Pope Benedict XVI]] (189)
 
 
 ---

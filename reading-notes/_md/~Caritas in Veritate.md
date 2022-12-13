@@ -2,7 +2,7 @@
 aliases: [Caritas in Veritate, Charity in Truth]
 ---
 
-# [*Caritas in Veritate (Charity in Truth)*]() by [[Pope Benedict XVI]]
+# [*Caritas in Veritate (Charity in Truth)*]() by [[Joseph Ratzinger|Pope Benedict XVI]]
 
 <img src="" width=150>
 

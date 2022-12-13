@@ -12,7 +12,7 @@ isbn13: 9780385346405
 started: 2022-12-04
 finished: 
 ---
-# *[Jesus of Nazareth: The Infancy Narratives]()* by [[Pope Benedict XVI]]
+# *[Jesus of Nazareth: The Infancy Narratives]()* by [[Joseph Ratzinger|Pope Benedict XVI]]
 
 <img src="http://books.google.com/books/content?id=SJ1DlQfJwdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

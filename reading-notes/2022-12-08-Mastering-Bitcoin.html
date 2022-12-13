@@ -76,6 +76,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li><a href="#chapter-10-mining-and-consensus">Chapter 10: Mining and Consensus</a></li>
 <li><a href="#chapter-11-bitcoin-security">Chapter 11: Bitcoin Security</a></li>
 <li><a href="#chapter-12-blockchain-applications">Chapter 12: Blockchain Applications</a></li>
+<li><a href="#the-bitcoin-whitepaper-by-satoshi-nakamoto">The Bitcoin Whitepaper by Satoshi Nakamoto</a></li>
 </ul>
 
 <p><!-- /MarkdownTOC --><br />
@@ -166,31 +167,196 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <h2 id="chapter-6-transactions">Chapter 6: Transactions</h2>
 
-<h2 id="_summary-_">_<strong>Summary</strong>: _</h2>
+<p><em><strong>Summary</strong>: Transactions (data structures that encode the transfer of value publicly on the blockchain) are the most important feature of bitcoin.</em></p>
+
+<ul>
+<li>Transaction outputs are the fundamental building block of bitcoin transactions. </li>
+<li><strong>UTXO</strong> or <em>unspent transaction outputs</em> are how bitcoin is "received", and are indivisible once created </li>
+<li>A user's "balance" is the sum of all UTXO that the user's wallet can spend </li>
+<li>The <strong>coinbase transaction</strong> is the first transaction in each block that mints bitcoin for the miner of the block </li>
+<li>Transaction inputs consist of:<br />
+<ul><br />
+<li><code>vin</code>: giving the UTXO(s) that "fund" the transaction; for each, the transaction that UTXO came from, its index, and a <code>scriptSig</code> which satisfies the conditions placed on the UTXO to unlock it for spending</li><br />
+</ul></li>
+<li>Transaction outputs consist of:<br />
+<ul><br />
+<li><code>value</code>: amount of bitcoin, in <em>satoshis</em></li><br />
+<li><code>scriptPubKey</code>: the <em>locking script</em> or <em>witness script</em> which is the cryptographic puzzle determining the conditions required to spend the output </li><br />
+</ul></li>
+<li>Transaction fees are computed based on the size of the transaction in kilobytes (not the value)<br />
+<ul><br />
+<li>Fees are the difference between the sum of the inputs and outputs </li><br />
+</ul></li>
+<li><em>Script</em> is the bitcoin transaction script language (stack-based RPN)<br />
+<ul><br />
+<li><strong>Locking script</strong>: a spending condition placed on an output </li><br />
+<li><strong>Unlocking script</strong>: a script that satisfies the locking script and allows the output to be spent </li><br />
+</ul></li>
+<li>Bitcoin uses <strong>digital signatures</strong>, consisting of an algorithm for creating the signature using a private key, and a algorithm that allows anyone to verify the signature given the public key </li>
+</ul>
 
 <h2 id="chapter-7-advanced-transactions-and-scripting">Chapter 7: Advanced Transactions and Scripting</h2>
 
-<p>_<strong>Summary</strong>: _</p>
+<p><em><strong>Summary</strong>: Presents some advanced notes on transactions.</em></p>
+
+<ul>
+<li>A bug in CHECKMULTISIG requires an extra zero: <code>0 &lt;Signature B&gt; &lt;Signature C&gt;</code></li>
+<li>P2SH means: "pay to a script matching this hash, a script that will be presented later when this output is spent"<br />
+<ul><br />
+<li>complex scripts replaced by shorter fingerprints </li><br />
+<li>shifts complexity to the recipient from the sender </li><br />
+</ul></li>
+</ul>
 
 <h2 id="chapter-8-the-bitcoin-network">Chapter 8: The Bitcoin Network</h2>
 
-<p>_<strong>Summary</strong>: _</p>
+<p><em><strong>Summary</strong>: The "Bitcoin network" is simply the collection of nodes running the bitcoin P2P protocol.</em></p>
+
+<ul>
+<li>A <em>Bitcoin Relay Network</em> minimizes latency for miners </li>
+<li><strong>SPV</strong> (Simplified Payment Verification) nodes are lightweight nodes that download only the block headers<br />
+<ul><br />
+<li>A privacy risk arises because an SPV node must download certain transactions to verify them </li><br />
+<li>This risk is mitigated with a <strong>Bloom Filter</strong>, a probabilistic search filter that describe a pattern without specifying it exactly</li><br />
+</ul></li>
+<li>The <strong>Mempool</strong>, or transaction pool, is the set of unconfirmed transactions </li>
+</ul>
 
 <h2 id="chapter-9-the-blockchain">Chapter 9: The Blockchain</h2>
 
-<p>_<strong>Summary</strong>: _</p>
+<p>_<strong>Summary</strong>: The blockchain is the public ledger of all blocks, going back to the Genesis block. _</p>
+
+<p><strong>Block Structure</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th>Size</th>
+  <th>Field</th>
+  <th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>4 bytes</td>
+  <td><strong>Block Size</strong></td>
+  <td>The size of the block, in bytes, following this field</td>
+</tr>
+<tr>
+  <td>80 bytes</td>
+  <td><strong>Block Header</strong></td>
+  <td>Several fields form the block header</td>
+</tr>
+<tr>
+  <td>1&#x2013;9 bytes (VarInt)</td>
+  <td><strong>Transaction Counter</strong></td>
+  <td>How many transactions follow</td>
+</tr>
+<tr>
+  <td>Variable</td>
+  <td><strong>Transactions</strong></td>
+  <td>The transactions recorded in this block</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<p><strong>Block Header</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th>Size</th>
+  <th>Field</th>
+  <th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>4 bytes</td>
+  <td><strong>Version</strong></td>
+  <td>A version number to track software/protocol upgrades</td>
+</tr>
+<tr>
+  <td>32 bytes</td>
+  <td><strong>Previous Block Hash</strong></td>
+  <td>A reference to the hash of the previous (parent) block in the chain</td>
+</tr>
+<tr>
+  <td>32 bytes</td>
+  <td><strong>Merkle Root</strong></td>
+  <td>A hash of the root of the merkle tree of this block's transactions</td>
+</tr>
+<tr>
+  <td>4 bytes</td>
+  <td><strong>Timestamp</strong></td>
+  <td>The approximate creation time of this block (in seconds elapsed since Unix Epoch)</td>
+</tr>
+<tr>
+  <td>4 bytes</td>
+  <td><strong>Difficulty Target</strong></td>
+  <td>The Proof-of-Work algorithm difficulty target for this block</td>
+</tr>
+<tr>
+  <td>4 bytes</td>
+  <td><strong>Nonce</strong></td>
+  <td>A counter used for the Proof-of-Work algorithm</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>The Genesis block, being the common ancestor of all blocks, can't help but remind me of <a href="../notes/Apostolic-succession.html">Apostolic succession</a></li>
+<li>The <strong>Merkle Root</strong> is a hashed summary of all transactions in the block<br />
+<ul><br />
+<li>this provides an efficient way to determine if a transaction is in a block </li><br />
+<li>SPV nodes use merkle paths to verify transactions without downloading full blocks </li><br />
+</ul></li>
+<li>Bitcoin has other blockchains for testing (testnet, segnet, regtest)</li>
+</ul>
 
 <h2 id="chapter-10-mining-and-consensus">Chapter 10: Mining and Consensus</h2>
 
-<p>_<strong>Summary</strong>: _</p>
+<p><em><strong>Summary</strong>: "Mining is the invention that makes bitcoin special."</em></p>
+
+<ul>
+<li>"<strong>Mining</strong> secures the bitcoin system and enables the emergence of network-wide consensus without a central authority." (213)</li>
+<li>"The reward of newly minted coins and transaction fees is an incentive scheme that aligns the actions of miners with the security of the network while simultaneously implementing the monetary supply." (213)</li>
+<li>"Consensus is an emergent artifact of the asynchronous interaction of thousands of independent nodes." (217)</li>
+<li>The first transaction in each block is the <strong>coinbase transaction</strong> that rewards the miner and creates new bitcoin </li>
+<li>Mining is the process of hashing the block header repeatedly, changing the nonce, until the resulting hash meets the difficulty target </li>
+<li>The difficulty is adjusted every 2,016 blocks </li>
+<li>When multiple forks of the blockchain exist, mining nodes "vote" with their computing power by choosing which chain to extend by mining the next block<br />
+<ul><br />
+<li>Bitcoin's block interval of 10 minutes is a compromise between fast confirmation and settlement times vs higher probability of forks </li><br />
+</ul></li>
+</ul>
 
 <h2 id="chapter-11-bitcoin-security">Chapter 11: Bitcoin Security</h2>
 
-<p>_<strong>Summary</strong>: _</p>
+<p><em><strong>Summary</strong>: "You’ve probably heard the expression, "Possession is nine-tenths of the law." Well, in bitcoin, possession is ten-tenths of the law." (269)</em></p>
+
+<ul>
+<li>The core principle in bitcoin is decentralization</li>
+<li>"Bitcoin’s decentralized security model puts a lot of power in the hands of the users. With that power comes responsibility for maintaining the secrecy of the keys." (270)</li>
+<li>"To take advantage of bitcoin’s unique decentralized security model, you have to avoid the temptation of centralized architectures that might feel familiar but ultimately subvert bitcoin’s security." (271)</li>
+<li>"I personally keep the vast majority of my bitcoin (99% or more) stored on paper wallets, encrypted with BIP-38, with multiple copies locked in safes." (273)</li>
+<li>Practice diversification in your bitcoin storage</li>
+</ul>
 
 <h2 id="chapter-12-blockchain-applications">Chapter 12: Blockchain Applications</h2>
 
-<p>_<strong>Summary</strong>: _</p>
+<p><em><strong>Summary</strong>: An overview of some applications that can be built on top of bitcoin.</em></p>
+
+<ul>
+<li>"Colored coins" are certificates of ownership </li>
+<li>Payment channels are a trustless mechanisms for exchanging bitcoin transactions outside of the blockchain (i.e. Lightning) </li>
+<li>Has Time Lock Contract (HTLC) allows parties to commit funds to a redeemable secret with an expiration </li>
+<li>The Lightning Network allows for payments between parties who do not share a payment channel using intermediaries </li>
+</ul>
+
+<h2 id="the-bitcoin-whitepaper-by-satoshi-nakamoto">The Bitcoin Whitepaper by Satoshi Nakamoto</h2>
 
 <hr />
 
@@ -203,16 +369,10 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <pre><code>&lt;a href="../notes/bib.html"&gt;bib&lt;/a&gt; file:(2022-12-08-Mastering Bitcoin)
 </code></pre>
 
-<p><strong>New Words</strong></p>
-
-<ul>
-- 
-</ul>
-
 <hr />
 
 <p>Created: <a href="2022-03-22-Tue.html">2022-03-22-Tue</a><br />
-Updated: 2022-12-11-Sun</p>
+Updated: 2022-12-12-Mon</p>
 
 
 </div>

@@ -10,7 +10,7 @@ publish_date: 2006-01-01
 isbn10: 1586171429
 isbn13: 9781586171421
 ---
-# *[Christianity and the Crisis of Cultures](https://ignatius.com/christianity-and-the-crisis-of-cultures-digital-chcre/)* by [[Pope Benedict XVI]]
+# *[Christianity and the Crisis of Cultures](https://ignatius.com/christianity-and-the-crisis-of-cultures-digital-chcre/)* by [[Joseph Ratzinger|Pope Benedict XVI]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/387/638/CHCRE_r__97514.1617023192.jpg?c=1" width=150>
 

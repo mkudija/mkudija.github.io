@@ -33,6 +33,17 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 - `[[##...]]` to reference headers across the vault (regardless of note)
 - `[[^^...]]` to reference blocks across the vault (regardless of note)
 
+## Embed Queries
+- [Search Docs](https://help.obsidian.md/Plugins/Search)
+	- Search examples: [Twitter](https://twitter.com/heymichellemac/status/1585980871248867328)
+- Requested feature for [sort](https://forum.obsidian.md/t/explicit-sort-parameter-in-query-syntax/11074/15) in queries
+- Example query for `Obsidian`:
+
+```query
+"example query"
+```
+
+
 ## Plugins
 *These are some of the plugins I use, ordered approximately by frequency or importance of use.*
 
@@ -156,15 +167,6 @@ print(df[2].head())
 ## Custom CSS
 - `⌥⌘+I` = `Option+Command+I` = Open inspector (for CSS, etc.)
 - How to find elements to adjust ([link](https://forum.obsidian.md/t/identifying-css-selectors/31577))
-
-## Embed searches/queries
-- [Search Docs](https://help.obsidian.md/Plugins/Search)
-- Requested feature for [sort](https://forum.obsidian.md/t/explicit-sort-parameter-in-query-syntax/11074/15) in queries
-- Example query for `Obsidian`:
-
-```query
-Obsidian
-```
 
 ## Graph View
 - filter path: `path:"Reading Notes"` or `-path:"Daily Notes" -path:"NABRE"`

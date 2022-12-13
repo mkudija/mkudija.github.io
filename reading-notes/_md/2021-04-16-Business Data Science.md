@@ -1,7 +1,7 @@
 
-# [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.mhprofessional.com/9781260452778-usa-business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-accelerate-business-decisions-group) by Matt Taddy
+# [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.mhprofessional.com/business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-9781260452778-usa) by Matt Taddy
 
-<img src="https://www.mhprofessional.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/e/temp_6351_1_5705_1_8318_1_21613.jpg" width=150>
+<img src="https://www.mhprofessional.com/media/catalog/product/cache/84c63a40cf0771f03c9446b22a7e0f08/9/7/9781260452778_228.jpeg" width=150>
 
 `(New York: McGraw Hill, 2019), 331`
 
@@ -128,7 +128,7 @@
 	-   `beta[3]` = $\alpha_{mm}$ (incremental intercept for `brand=minute.maid`)
 	-   `beta[4]` = $\alpha_{t}$ (incremental intercept for `brand=tropicana`)
 	-   `beta[5]` = $\beta_{mm}$ (incremental slope for `brand=tropicana`)
-	-   `beta[6]` = $\beta_{t}$ (incremental slopee for `brand=tropicana`)
+	-   `beta[6]` = $\beta_{t}$ (incremental slope for `brand=tropicana`)
 - **Logistic Regression** *(page 50-53)* uses the *logit* link function to scale probabilities between 0 and 1:
 	- $p(y=1|x) = \frac{e^{x' \hat{\beta}}}{1 + e^{x' \hat{\beta}}}$
 	- Logistic regression is a linear model for log odds (where odds = probability it happens over probability it doesn't):

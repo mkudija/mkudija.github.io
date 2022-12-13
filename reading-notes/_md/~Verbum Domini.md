@@ -10,7 +10,7 @@ publish_date: 2010
 isbn10: 1593251939
 isbn13: 9781593251932
 ---
-# [*Verbum Domini: The Word of God in the Life and Mission of the Church*]() by [[Pope Benedict XVI]]
+# [*Verbum Domini: The Word of God in the Life and Mission of the Church*]() by [[Joseph Ratzinger|Pope Benedict XVI]]
 
 <img src="http://books.google.com/books/content?id=SNA_YgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
