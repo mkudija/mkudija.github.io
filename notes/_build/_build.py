@@ -72,6 +72,14 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     
     mdString = ''.join(md)
 
+    # add scirpts for latex and mermaid if required
+    if 'latex: true' in mdString.lower():
+        scriptText = '<!-- Script: Latex (Included) --> <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script> MathJax = { tex: { inlineMath: [[\'$\', \'$\'], [\'\\\\(\', \'\\\\)\']]} }; </script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"> </script>'
+        template[template.index('<!-- Script: Latex -->')] = scriptText
+    if 'mermaid: true' in mdString.lower():
+        scriptText = '<!-- Script: Mermaid (Included) --> <script type="module" defer> import mermaid from \'https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.esm.min.mjs\'; mermaid. Initialize({ securityLevel: \'loose\', startOnLoad: true }); let observer = new MutationObserver(mutations => { for(let mutation of mutations) { mutation.target.style.visibility = "visible"; } }); document.querySelectorAll("pre.mermaid-pre div.mermaid").forEach(item => { observer.observe(item, {  attributes: true,  attributeFilter: [\'data-processed\'] }); }); </script>'
+        template[template.index('<!-- Script: Mermaid -->')] = scriptText
+
 
     # style Obsidian links
     ## TODO
