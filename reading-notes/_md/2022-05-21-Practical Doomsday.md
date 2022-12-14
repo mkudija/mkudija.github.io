@@ -9,6 +9,7 @@ cover_url: https://books.google.com/books/content?id=6Ng7EAAAQBAJ&printsec=front
 publish_date: 2022
 isbn10: 1718502133
 isbn13: 9781718502130
+latex: true
 ---
 
 # [*Practical Doomsday: A User's Guide to the End of the World*](https://lcamtuf.coredump.cx/prep/) by [[Michal Zalewski]]

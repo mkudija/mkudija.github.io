@@ -9,6 +9,7 @@ cover_url: https://books.google.com/books/content?id=jyV2DwAAQBAJ&printsec=front
 publish_date: 2019
 isbn10: 0062852744
 isbn13: 9780062852748
+latex: true
 ---
 # [*Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [[Scott Young]]
 

@@ -1,5 +1,6 @@
 ---
 publish: true
+latex: true
 ---
 
 *[[Woodworking]], [[Chairmaking]]*

@@ -1,8 +1,27 @@
-# *Biostatistics for Dummies* by John C. Pezzullo, PhD
+---
+aliases: [Biostatistics For Dummies]
+title: Biostatistics For Dummies
+author: John Pezzullo
+category: Medical
+publisher: John Wiley & Sons
+total_page: 425
+cover_url: http://books.google.com/books/content?id=QYcQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2013-07-29
+isbn10: 1118553985
+isbn13: 9781118553985
+started: 
+finished: 
+latex: true
+---
+# *[Biostatistics For Dummies]()* by [[John Pezzullo]]
+
+<img src="http://books.google.com/books/content?id=QYcQAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: John Wiley & Sons, 2013-07-29), 425`
 
 I want to read this book for a couple of reasons:
 1. Some of this is relevant to work
-2. *How Not To Die* cited a bunch of clinical studies, and I want to understand the math behind "showed a 34% reduction in cancer risk" or whatever
+2. *[[2018-01-01-How Not to Die|How Not To Die]]* cited a bunch of clinical studies, and I want to understand the math behind "showed a 34% reduction in cancer risk" or whatever
 3. Epidemeological data
 4. General stats knowledge
 
@@ -120,7 +139,7 @@ Chapter 18: Straight-Line Regression
 - a: intercept
 - b: slope
 
-To fit, we solve SSQ = (a + bX - Y)^2 by setting the partial derivatives of SSQ with respect to a and b equal to 0.
+To fit, we solve $SSQ = (a + bX - Y)^2$ by setting the partial derivatives of SSQ with respect to a and b equal to 0.
 
 $R^2$: coefficient of determination, what percent of the total variability in the dependent variable is explained by the model
 
@@ -156,3 +175,7 @@ Chapter 25: Ten Distributions Worth Knowing
 
 Chapter 26: Ten Easy Ways to Estimate How Many Subjects You Need
 
+
+---
+Created: 2017-12-06
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

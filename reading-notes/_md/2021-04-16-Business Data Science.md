@@ -1,5 +1,20 @@
-
-# [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.mhprofessional.com/business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-9781260452778-usa) by Matt Taddy
+---
+aliases: [Business Data Science, BDS, Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions]
+title: Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions
+author: Matt Taddy
+category: Business & Economics
+publisher: McGraw Hill Professional
+total_page: 384
+cover_url: http://books.google.com/books/content?id=yPOUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2019-08-23
+isbn10: 1260452786
+isbn13: 9781260452785
+started: 
+finished: 
+latex: true
+mermaid: true
+---
+# [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.mhprofessional.com/business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-9781260452778-usa) by [[Matt Taddy]]
 
 <img src="https://www.mhprofessional.com/media/catalog/product/cache/84c63a40cf0771f03c9446b22a7e0f08/9/7/9781260452778_228.jpeg" width=150>
 
@@ -396,14 +411,14 @@ id10 --> id11
 **Source**: [[Matt B]]
 
 **Errata**
-- 37: "is then available via Bayes rule" --> "is then available via **Bayes'** rule"
-- 78: "in some data-dependent matter" --> "in some data-dependent **manner**"
-- 116: "We can then call `cv.gamlr`" --> "We can then call **`cv.glmnet`**"
-- 135: "it has increased from 0.055 to 0.64" --> "it has increased from 0.055 to **0.064**"
-- 211: "repeatedly fitting regression" --> "repeatedly fitting **a** regression"
-- 222: "This show makes me feelfeel...." --> "This show makes me **feel**...."
-- 222: "I find this showfeel...." --> "I find this **show**...."
-- 237: "This data originally appear in" --> "**These** data originally appear in" or "This data originally **appears** in"
+- 37: "is then available via Bayes rule" → "is then available via **Bayes'** rule"
+- 78: "in some data-dependent matter" → "in some data-dependent **manner**"
+- 116: "We can then call `cv.gamlr`" → "We can then call **`cv.glmnet`**"
+- 135: "it has increased from 0.055 to 0.64" → "it has increased from 0.055 to **0.064**"
+- 211: "repeatedly fitting regression" → "repeatedly fitting **a** regression"
+- 222: "This show makes me feelfeel...." → "This show makes me **feel**...."
+- 222: "I find this showfeel...." → "I find this **show**...."
+- 237: "This data originally appear in" → "**These** data originally appear in" or "This data originally **appears** in"
 
 ---
 Created: [[2021-04-16-Fri]]
