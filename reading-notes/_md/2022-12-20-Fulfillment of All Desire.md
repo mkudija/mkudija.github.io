@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=g1_s8xB9G4gC&printsec=front
 publish_date: 2005
 isbn10: 1931018367
 isbn13: 9781931018364
+started: 2022-07-26
+finished: 2022-12-20
 ---
 # [*The Fulfillment of All Desire: A Guidebook for the Journey to God Based on the Wisdom of the Saints*](https://stpaulcenter.com/product/the-fulfillment-of-all-desire/) by [[Ralph Martin]]
 
@@ -181,7 +183,7 @@ _**Summary**: _
 **Topic**: 
 
 **Source**
-- [[2022-03-26 Video-Bishop Barron and Fr. Mike Schmitz Interview (2021 Good News Conference)]]
+- [[2022-03-26 Video-Bishop Barron and Fr. Mike Schmitz Interview (2021 Good News Conference)]] ([link](https://youtu.be/T4mcgqnspKw?t=690))
 - [[2022-06-17 Video-Ralph Martin The State of the Church]]
 
 

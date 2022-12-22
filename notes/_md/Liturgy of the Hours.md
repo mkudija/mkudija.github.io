@@ -61,7 +61,7 @@ aliases: [LOTH]
 
 [^treasure]: cf. [[Mt-06#v21]]: "For where your treasure is, there also will your heart be."
 
-[^honey]: cf. [[St. Bernard of Clairvaux]]: "Jesus to me is honey in the mouth, music in the ear, a song in the heart." ([[St. Bernard of Clairvaux|Bernard of Clairvaux]], *On the Song of Songs*, vol. I, sermon 15, no. 6, quoted in [[Ralph Martin]], *[[~Fulfillment of All Desire|The Fulfillment of All Desire]]*, 136)
+[^honey]: cf. [[St. Bernard of Clairvaux]]: "Jesus to me is honey in the mouth, music in the ear, a song in the heart." ([[St. Bernard of Clairvaux|Bernard of Clairvaux]], *On the Song of Songs*, vol. I, sermon 15, no. 6, quoted in [[Ralph Martin]], *[[2022-12-20-Fulfillment of All Desire|The Fulfillment of All Desire]]*, 136)
 
 ### Volume IV
 - Vol. IV, pg. 960: "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."

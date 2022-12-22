@@ -1,6 +1,5 @@
 
 # [*Our Town*]() by [[Thornton Wilder]]
-#wishlist
 
 <img src="" width=150>
 

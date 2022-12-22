@@ -9,10 +9,10 @@
 ## Chapter 1: [[St. Theresa of Ávila]]
 **Summary**: She feels lost and empty in her life of college debauchery and secular feminism, but starts reading **Theresa of Ávila** over Christmas break and sees how it’s never too late (and we’re never too far gone) to turn back to God.
 
-- *Saint Theresa of Ávila* by Marcelle Auclair from her dad: "It makes Theresa come alive" (12)
+- *[[~Saint Teresa of Avila|Saint Teresa of Avila]]* by [[Marcelle Auclair]] from her dad: "It makes Theresa come alive" (12)
 - her parents read the saints' lives again and again --> we need to be continually uplifted (12)
-- *[[~Autobiography of St. Theresa of Ávila]]* (15)
-- It's never too late: Theresa's breakthrouh came when she was 39
+- *[[~Autobiography of St. Theresa of Ávila|Autobiography of St. Theresa of Ávila]]* (15)
+- It's never too late: Theresa's breakthrough came when she was 39
 - Persevering in prayer left her with "more tranquility and happiness than at certain other times when I had prayed because I had wanted to." (18)
 
 
@@ -40,7 +40,7 @@
 - John Paul II's writings on women (102):
 	- *On the Dignity and Vocation of Women*, *Letter to Women*, and *The Gospel of Life* by John Paul II
 - Edith Stein saw her conversion to Catholicism as a fulfillment, not repudiation, of her Jewish heritage, and "read her way into the Church" (104)
-- She devoured Theresa of Ávila's *Autobiography* in one night and declared: "This is the truth." (104, cf *[[2021-07-20-Witness to Hope]]* 538)
+- She devoured Theresa of Ávila's *Autobiography* in one night and declared: "This is the truth." (104, cf *[[2021-07-20-Witness to Hope|Witness to Hope]]* 538)
 - Edith Stein's solution for misdirected love of God (111, [[Spiritual Disciplines]]):
 	- 1. **Thoroughly objective work**: forces us to submit to laws outside ourselves and escape our obsessive focus on ourselves, helps us develop self-control
 	- 2. **Structure your day to be open to God's grace** ([[Daily Routine]]): Fidelity to Christ requires stamina, which perishes if not refreshed by the wellspring of grace (Confession, Eucharist, Adoration)
@@ -84,7 +84,7 @@
 
 - *Saint Theresa of Ávila* by Marcelle Auclair (12)
 - ***Autobiography*** by Saint Theresa of Ávila (15)
-- *Confessions* by Saint Augustine (17)
+- *[[~Confessions|Confessions]]* by Saint Augustine (17)
 - *Therese: A Life Of Therese Of Lisieux* by Dorothy Day (31)
 - *Memory and Identity* by John Paul II (68)
 - ***Diary: Divine Mercy in My Soul*** by Maria Faustina Kowalska (68)

@@ -16,6 +16,8 @@ publish: true
 	- [Minimal Twitter](https://addons.mozilla.org/en-GB/firefox/addon/min-twitter/)
 	- [Disable Javascript](https://addons.mozilla.org/en-GB/firefox/addon/disable-javascript/)
 	- [Font Finder](https://addons.mozilla.org/en-GB/firefox/addon/font-inspect/)
+- Safari
+	- [Vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
 - [[Obsidian]] ([link](https://obsidian.md/))
 - Utilities
 	- [Bitwarden](https://bitwarden.com/)

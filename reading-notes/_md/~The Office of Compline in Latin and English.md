@@ -21,11 +21,10 @@ isbn13: 9781586174552
 by [[Archbishop Raymond Burke]]
 
 --- 
-#wishlist
 **Topic**: [[Liturgy of the Hours]]
 
 **Source**
-- 
+- [[Jordan]] Birthday 2022
 
 
 **Bibliography**

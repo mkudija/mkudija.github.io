@@ -26,15 +26,24 @@ translation: New Revised Standard Version
 - "Now when God fashioned man, he planted in him emotions and inclinations, but at the same time he enthroned the mind among the senses as a sacred governor over them all." (4 Mc 2:21-22)
 - "No one of us can eradicate that kind of desire, but reason can provide a way for us not to be enslaved by desire." (4 Mc 3:2, cf [[2 Sm-23#v15]]/[[1 Chr-11#v17]] using the example of David refusing water to demonstrate this)
 - [[Eleazar]]: "To transgress the law in matters either small or great is of equal seriousness, for in either case the law is equally despised" (4 Mc 5:20-21)
-- 
-- [ ] keep #read at ch 6 📅 2022-11-19
+- "You know, O God, that though I might have saved myself, I am dying in burning torments for the sake of the law. Be merciful to your people, and let our punishment suffice for them. Make my blood their purification, and take my life in exchange for theirs." (4 Mc 6:27-29)
+- "Such should be those who are administrators of the law, shielding it with their own blood and noble sweat in sufferings even to death." (4 Mc 7:8)
+- "By your deeds you made your words of divine philosophy credible." (4 Mc 7:9)
+- "But as many as attend to religion with a whole heart, these alone are able to control the passions of the flesh, since they believe that they, like our patriarchs Abraham and Isaac and Jacob, do not die to God, but live to God." (4 Mc 7:18-19)
+- "[The seven brothers] opposed the tyrant with their own philosophy, and by their right reasoning nullified his tyranny." (4 Mc 8:15)
+- Second brother: "Do you not think, you most savage tyrant, that you are being tortured more than I, as you see the arrogant design of your tyranny being defeated by our endurance for the sake of religion?" (4 Mc 9:30)
+- Chapters 8-17 tell the story of the seven brothers who were martyred, cf. [[2 Mc-07]]
+- "Brothers, let us die like brothers for the sake of the law; let us imitate the three youths in Assyria who despised the same ordeal of the furnace." (4 Mc 13:9, cf. [[Dn-03]])
+- "O Israelite children, offspring of the seed of Abraham, obey this law and exercise piety in every way, knowing that devout reason is master of all emotions, not only of sufferings from within, but also of those from without." (4 Mc 18:1-2)
+- 4 Mc 18:14 quotes [[Is-43#v2]]: "when you walk through fire you shall not be burned, and the flame shall not consume you."
+
 
 --- 
 
 **Topic**: [[The Bible]]
 
 **Source**
-- Madj
+- [[Madj]]
 
 
 **Bibliography**

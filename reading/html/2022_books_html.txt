@@ -1,3 +1,5 @@
+<li><i>The Resurrection of God Incarnate</i> by Richard Swinburne</li>
+<li><i>Hamlet</i> by William Shakespeare</li>
 <li><i>Mastering Bitcoin</i> by Andreas M. Antonopoulos</li>
 <li><i>Dei Verbum</i></li>
 <li><i>2001: A Space Odyssey</i> by Arthur C. Clarke</li>

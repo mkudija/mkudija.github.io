@@ -1,4 +1,5 @@
 # [*Measure What Matters*](https://www.penguinrandomhouse.com/books/546304/measure-what-matters-by-john-doerr-foreword-by-larry-page/) by [[John Doerr]]
+
 <img src="https://images1.penguinrandomhouse.com/cover/9780525536222" width=150>
 
 `(New York: Penguin, 2018), 287`
@@ -26,10 +27,9 @@
 - Andy Grove taught Doerr OKRs at Intel and he has been an OKR evangelist since
 
 --- 
-**Topic**: [[Management]]
+**Topic**: [[Management]], [[OKRs]]
 
 **Source**: ?, [[Matt B]] [[2022-05-03-Tue]]
-
 
 ---
 Created: 2018-12-08

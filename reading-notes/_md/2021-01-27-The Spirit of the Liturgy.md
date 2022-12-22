@@ -1,5 +1,5 @@
 ---
-aliases: [The Spirit of the Liturgy -- Commemorative Edition]
+aliases: [The Spirit of the Liturgy, The Spirit of the Liturgy—Commemorative Edition]
 title: The Spirit of the Liturgy -- Commemorative Edition
 author: Joseph Ratzinger, Romano Guardini
 category: Religion

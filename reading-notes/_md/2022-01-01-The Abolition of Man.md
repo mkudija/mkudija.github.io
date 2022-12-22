@@ -45,7 +45,6 @@ _**Summary**: Lewis illustrates the "Abolition of Man"  as the logical end of a 
 - Against [[Scientism]] Lewis hints at a "regenerate science": "It might be going too far to say that the modern scientific movement was tainted from its birth: but I think it would be true to say that it was born in an unhealthy neighborhood at an inauspicious hour. Its triumphs may have been too rapid and purchased at too high a price: reconsideration, and something like repentance, may be required." (729)
 - [[Progress & History]]: "the fatal serialism of the modern imagination—the image of infinite unilinear progression which so haunts our minds..." (730)
 - ...this all reminds me of *[[2017-06-19-Player Piano|Player Piano]]*
-- [ ] find quote about going directly to the source... 📅 2022-11-24
 
 
 Other:

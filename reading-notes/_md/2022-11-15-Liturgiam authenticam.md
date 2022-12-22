@@ -28,7 +28,7 @@ Notes
 - Requires "liturgical books marked by sound doctrine, which are exact in wording, free from all ideological influence" (3) 
 - Eastern Churches: "The Council asked that the traditions of each of these particular Churches be preserved whole and intact." (4)
 	- "the same vigilance is required for the safeguarding ..the Latin Church"
-- [[Roman Missal]]: "sign and instrument of the integrity and unity of the Roman Rite" (4)
+- [[~Roman Missal]]: "sign and instrument of the integrity and unity of the Roman Rite" (4)
 - "For the Roman Rite is marked by a signal capacity for assimilating into itself spoken and sung texts, gestures and rites derived from the customs and the genius of diverse nations and particular Churches – both Eastern and Western – into a harmonious unity that transcends the boundaries of any single region. This characteristic is particularly evident in its orations, which exhibit a capacity to transcend the limits of their original situation so as to become the prayers of Christians in any time or place." (5)
 - In some cases, translation errors "have impeded the progress of the inculturation that actually should have taken place" (6)
 - "The norms set forth in this Instruction are to be substituted for all norms previously published on the matter, with the exception of the Instruction _Varietates legitimae_" (8)
