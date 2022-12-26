@@ -1,4 +1,17 @@
-
+---
+aliases: [Principles for Dealing with the Changing World Order]
+title: Principles for Dealing with the Changing World Order
+author: Ray Dalio
+category: Business & Economics
+publisher: Simon and Schuster
+total_page: 594
+cover_url: http://books.google.com/books/content?id=AifhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2021-11-30
+isbn10: 1982164794
+isbn13: 9781982164799
+started: 
+finished: 
+---
 # [*Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail*](https://www.simonandschuster.com/books/Principles-for-Dealing-with-the-Changing-World-Order/Ray-Dalio/9781982160272) by [[Ray Dalio]]
 
 <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982160272/principles-for-dealing-with-the-changing-world-order-9781982160272_lg.jpg" width=150>
@@ -810,7 +823,7 @@ Chart on pg 41 shows that education, technology, and competitiveness tend to be 
 
 **Bibliography**
 
-- *[[~Principles for Navigating Big Debt Crises]] by [[Ray Dalio]]
+- *[[~Principles for Navigating Big Debt Crises|Principles for Navigating Big Debt Crises]]* by [[Ray Dalio]]
 
 
 ---

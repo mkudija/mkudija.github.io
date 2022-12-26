@@ -11,6 +11,7 @@ isbn10: 1933184310
 isbn13: 9781933184319
 started: 2022-12-18
 finished: 
+latex: true 
 ---
 # *[Fit for Eternal Life](https://www.sophiainstitute.com/products/item/fit-for-eternal-life)* by [[Kevin Vost]]
 
@@ -95,27 +96,39 @@ finished:
 
 
 ## Chapter 9: Order Makes Workouts Shorter
-_**Summary**: _
-
+- The squat is the "king of all exercises" because it stimulates so many muscles 
+- Perform the most demanding exercises with the highest indirect impact first: 
+	- Hips, glutes, thighs
+	- Chest or back 
+	- Shoulders 
+	- Arms 
+	- Abs and lower back 
+	- Calves 
 
 
 # Part III: Fortitude Endures: Principles of Aerobic Training
 
 ## Chapter 10: Heart, Soul, and Lungs: Formal Aerobic Exercise
-_**Summary**: _
-
+- *Progression* with aerobic exercise is measured in increased speed and duration 
+- *Intensity* should get the heart rate to 65-85% of maximum 
+	- $\text{Max} ≈ 220 - \text{age}$
+	- At age 30, max is 190 and aerobic training range is 124-161
+- *Duration* is 12 min min, but more likely 30-60 min 
+- *Frequency* should be about 3x per week 
+- *Rest*: less is required because of lower intensity 
 
 
 ## Chapter 11: Real Work Works: The Value of Normal Daily Activities
-_**Summary**: _
-
+- Everyday activities can provide good exercise, cf. *Fitness Without Exercise* by Bryant Stamford [[bib]]
+- So put on some religious music and do some chores
 
 
 # Part IV: [[Temperance]]: Dietary Self-Mastery
 
 ## Chapter 12: Habit, Not Diet
-_**Summary**: _
-
+- Good eating habits consist of proper portion size and reasonable quantity of overall daily food intake 
+- Diets are like heresies that overemphasize some small truth at the expense of the whole (cf. [[G.K. Chesterton]])
+- We need moderate, temperate, daily habits for eating 
 
 
 ## Chapter 13: Goodbye to Gluttony

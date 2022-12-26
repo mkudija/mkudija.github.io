@@ -59,6 +59,7 @@ publish: true
 - control + J twice to pull up docs for function
 - Launch jupyter notebook: right click on project folder > new > jupyter notebook
 - click red dot in gutter for debugging break point
+- When editing HTML: View > Open In Browser
 
 
 ## Gmail

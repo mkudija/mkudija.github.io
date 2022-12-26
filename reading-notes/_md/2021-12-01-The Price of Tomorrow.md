@@ -1,5 +1,18 @@
-
-# [*The Price of Tomorrow: Why Deflation is the Key to an Abundant Future*](https://pagetwo.com/book/the-price-of-tomorrow/) by Jeff Booth
+---
+aliases: [The Price of Tomorrow]
+title: The Price of Tomorrow
+author: Jeff Booth
+category: 
+publisher: Stanley Press
+total_page: 234
+cover_url: http://books.google.com/books/content?id=dFftywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2020-01-14
+isbn10: 1999257405
+isbn13: 9781999257408
+started: 
+finished: 
+---
+# [*The Price of Tomorrow: Why Deflation is the Key to an Abundant Future*](https://pagetwo.com/book/the-price-of-tomorrow/) by [[Jeff Booth]]
 
 <img src="https://pagetwo.com/content/wp-content/uploads/2019/12/Jeff-Booth_F_FrontCover_FINAL_WEB.jpg" width=150>
 

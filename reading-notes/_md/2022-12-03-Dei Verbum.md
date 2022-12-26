@@ -29,7 +29,8 @@ finished:
 - "It is clear, therefore, that sacred tradition, Sacred Scripture and the teaching authority of the Church, in accord with God's most wise design, are so linked and joined together that one cannot stand without the others, and that all together and each in its own way under the action of the one Holy Spirit contribute effectively to the salvation of souls." (10)
 - "no less serious attention must be given to the content and unity of the whole of Scripture if the meaning of the sacred texts is to be correctly worked out." (12)
 - The books of the Old Testament "contain a store of sublime teachings about God, sound wisdom about human life, and a wonderful treasury of prayers, and in them the mystery of our salvation is present in a hidden way." (15)
-- "God, the inspirer and author of both Testaments, wisely arranged that **the New Testament be hidden in the Old and the Old be made manifest in the New.**" (16)
+- "God, the inspirer and author of both Testaments, wisely arranged that **the New Testament be hidden in the Old and the Old be made manifest in the New.**" (16) ^b3aa81
+	- "The New Testament lies hidden in the Old and the Old Testament is unveiled in the New." (*[[~Catechism of the Catholic Church|CCC]]* 129, cf. [[St. Augustine|Augustine]])
 - "The Church has always venerated the divine Scriptures just as she venerates the body of the Lord" (21)
 - "Sacred theology rests on the written word of God, together with sacred tradition, as its primary and perpetual foundation." (24)
 - "The sacred synod also earnestly and especially urges all the Christian faithful, especially Religious, to learn by frequent reading of the divine Scriptures the "excellent knowledge of Jesus Christ" (Phil. 3:8). **"For ignorance of the Scriptures is ignorance of Christ."** (25)

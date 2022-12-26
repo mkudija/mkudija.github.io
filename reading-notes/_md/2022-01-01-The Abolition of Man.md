@@ -2,7 +2,7 @@
 # [*The Abolition of Man*](https://www.harpercollins.com/products/the-abolition-of-man-c-s-lewis) by [[C. S. Lewis]]
 *or Reflections on Education with Special Reference to the Teaching of English in the Upper Forms of Schools, or a Defense of Objective Truth and Natural Law against Moral Relativism*
 
-<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780060652944_2fb2e143-cdf4-4589-a018-79852bf27d11.jpg?v=1668298654&width=350" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780060652944.jpg?v=1671156070&width=350" width=150>
 
 `(New York: HarperCollins, 1943), 128`
 

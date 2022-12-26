@@ -5,8 +5,6 @@
 
 `(New York: Sterling / Union Square, 2019), 192`
 
-#wishlist 
-
 - "[[Gothic Architecture]]...aimed at being at the same time colossal and light." (Jean Bony, Art Historian, x)
 - Quotes from [[Victor Hugo]]'s *[[Reading Notes/~The Hunchback of Notre Dame|The Hunchback of Notre Dame]]*
 	- "The human race has never conceived an important thought that it has not written down in stone." (11)
@@ -25,6 +23,7 @@ ix: _Notre Dame, Paris._ Watercolor drawing by Victor Lundy, 1949 January 18.  [
 <img src="https://uploads0.wikiart.org/00380/images/jacques-louis-david/coronation-of-emperor-napoleon-i-and-coronation-of-the-empress-josephine-in-notre-dame-de-paris.jpg!Large.jpg" width="100%">
 
 --- 
+#wishlist 
 **Topic**: [[Architecture]], [[Gothic Architecture]], [[Notre Dame de Paris]]
 
 **Source**: UA Library

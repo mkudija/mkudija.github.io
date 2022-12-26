@@ -13,7 +13,7 @@
 - "I cannot imagine the universe without the interjection of [[Edgar Allan Poe]]" (50)
 - "My general memory of *Don Quixote*, simplified by forgetfulness and indifference, is much the same as the imprecise, anterior image of a book not yet written." (51, cf. *[[2021-06-01-How to Talk About Books You Haven't Read|How to Talk About Books You Haven't Read]]*)
 - "To think, analyze and invent are not anomalous acts, but the normal respiration of the intelligence." (54)
-- *[[2021-09-16-The Inferno]]* Canto X [[bib]] (74)
+- *[[2021-09-16-The Inferno|The Inferno]]* Canto X [[bib]] (74)
 - "Of the various pleasures offered by literature, the greatest is invention." (78)
 - "From my weakness I drew strength that never left me." (92)
 - "A volume whose last page would be the same as the first and so have the possibility of continuing indefinitely." (97)

@@ -69,6 +69,7 @@ publish: true
 	- *Cathedral*
 	- *Castle*
 	- *Pyramid*
+- *The True Story of Stanta Claus* by Paul Prokop
 - *Brother Hugo and the Bear* by Katy Beebe
 - *[[~The Weight of a Mass|The Weight of a Mass]]* by Josephine Nobisso
 - *St. Jerome and the Lion* by Margaret Hodges
@@ -77,7 +78,7 @@ publish: true
 - *Stories of the Saints: Bold and Inspiring Tales of Adventure, Grace, and Courage* by Carey Wallace
 - [*Cloud of Witnesses: A Child's First Book of Saints*](https://tanbooks.com/catholic-kids-books/toddler-books/cloud-of-witnesses-a-childs-first-book-of-saints/)
 - *[[~2021-08-03-A is for Angel|A is for Angel]]*
-- *The Jesus Storybook Bible*  
+- *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*  
 
 
 

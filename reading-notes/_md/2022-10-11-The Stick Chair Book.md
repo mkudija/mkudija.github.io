@@ -12,7 +12,7 @@ isbn13: 9781954697034
 ---
 # [*The Stick Chair Book*](https://lostartpress.com/products/the-stick-chair-book) by [[Christopher Schwarz]]
 
-<img src="https://cdn.shopify.com/s/files/1/0306/3197/products/SCB_cover_whitebackgroundIMG_0905_1728x.jpg?v=1636639107" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0306/3197/products/SCB_cover_whitebackgroundIMG_0905_1080x.jpg?v=1636639107" width=150>
 
 `(Covington: Lost Art Press, 2021), 632`
 

@@ -1,22 +1,23 @@
 ---
-aliases: [Jesus of Nazareth: The Infancy Narratives]
-title: Jesus of Nazareth: The Infancy Narratives
-author: Pope Benedict XVI
-category: Religion
-publisher: Image
-total_page: 146
-cover_url: http://books.google.com/books/content?id=SJ1DlQfJwdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publish_date: 2012-11-21
-isbn10: 0385346409
-isbn13: 9780385346405
-started: 2022-12-04
+aliases: [The Great Story of Israel]
+title: The Great Story of Israel
+author: Robert Barron
+category: Scripture
+publisher: Word on Fire
+total_page: 352
+cover_url: 
+publish_date: 2022
+isbn10: 
+isbn13: 9781685780197
+started: 
 finished: 
 ---
-# *[Jesus of Nazareth: The Infancy Narratives]()* by [[Joseph Ratzinger|Pope Benedict XVI]]
+# *[The Great Story of Israel: Election, Freedom, Holiness](https://bookstore.wordonfire.org/products/the-great-story-of-israel)* by [[Bishop Barron]]
 
-<img src="http://books.google.com/books/content?id=SJ1DlQfJwdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0005/3195/5769/products/The-Great-Story-of-Israel-Shopify-Front_750x750.png?v=1669663472" width=150>
 
-`(New York: Image, 2012-11-21), 146`
+`(Park Ridge: Word on Fire, 2022), 352`
+
 
 # Notes
 
@@ -27,9 +28,6 @@ finished:
 <!-- /MarkdownTOC -->
 </details>
 
-
-- [ ] abbreviations 
-- [ ] RSV
 
 ## Chapter 1:
 _**Summary**: _
@@ -180,15 +178,15 @@ _**Summary**: _
 _**Summary**: _
 
 --- 
-**Topic**: 
+**Topic**: [[The Bible]]
 
 **Source**: 
-- 
+- [[Mom]], Christmas 2022
 
 **Bibliography**
 
 ```query
-[[bib]] file:(~Jesus of Nazareth The Infancy Narratives)
+[[bib]] file:(~The Story of Israel)
 ```
  
 
@@ -197,5 +195,5 @@ _**Summary**: _
 - 
 
 ---
-Created: [[2022-12-04-Sun]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Created: [[2022-12-25-Sun]]
+Updated: NaN

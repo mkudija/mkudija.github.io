@@ -175,7 +175,7 @@ _**Summary**: _
 _**Summary**: _
 
 
-- [ ] after this *[[2022-12-20-Fulfillment of All Desire]]* [[2022-06-17 Video-Ralph Martin The State of the Church#^c5ab52]]
+- [ ] after this *[[2022-12-20-The Fulfillment of All Desire]]* [[2022-06-17 Video-Ralph Martin The State of the Church#^c5ab52]]
 
 --- 
 **Topic**: 

@@ -90,7 +90,7 @@ finished: 2022-10-31
 ### 1. A Tragic Misunderstanding
 *Christianity puts forth a radical (to the ancients) view of man: both low in his fallenness and great in his redemption. But this liberation eventually started to feel like a yoke, leading to the atheism (really anti-theism) of absolute humanism.*
 
-### 2. [[Feuerbach]] and the Religious Illusion
+### 2. Feuerbach and the Religious Illusion
 *[[Feuerbach]] is the link from [[Hegel]] to [[Marx]]. For him God is only the sum of the attributes of the greatness of man, and is then cast off. His goal is to reveal man's essence to give him faith in himself. [[Marx]] then takes the religious ideas of Feuerback and applies them to the social and political order, which has no God because it seeks to restore divinity to man.*
 
 ### 3. [[Nietzsche]] and the "Death of God"
@@ -239,7 +239,7 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 **Topic**: [[Atheism]], [[Humanism]]
 
 **Source**: 
-- Madj, Christmas 2021 
+- [[Madj]], Christmas 2021 
 - [[Brenden Rhatican]]
 
 **Bibliography**
