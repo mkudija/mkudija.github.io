@@ -161,7 +161,7 @@ _**Summary**: The answer of the twelve year old Jesus in the temple shows how he
 **Bibliography**
 
 ```query
-[[bib]] file:(~Jesus of Nazareth The Infancy Narratives)
+[[bib]] file:(2022-12-25-Jesus of Nazareth The Infancy Narratives)
 ```
  
 ---

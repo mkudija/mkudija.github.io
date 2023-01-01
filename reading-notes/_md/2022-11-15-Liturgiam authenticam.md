@@ -41,7 +41,7 @@ Notes
 
 ### 1. General principles applicable to all translation 
  - "The words of the Sacred Scriptures, as well as the other words spoken in liturgical celebrations, especially in the celebration of the Sacraments, are not intended primarily to be a sort of mirror of the interior dispositions of the faithful; rather, they **express truths that transcend the limits of time and space**." (19)
-	 - cf. ![[qq-The Bible in a Year (with Fr. Mike Schmitz)#^30b73d]]
+	 - cf. ![[2022-12-31-The Bible in a Year (with Fr. Mike Schmitz)#^30b73d]]
  - "**the original text, insofar as possible, must be translated integrally and in the most exact manner**, without omissions or additions in terms of their content, and without paraphrases or glosses." (20)
  - "the **new translations must be made directly from the original texts**, namely the Latin, as regards the texts of ecclesiastical composition, or the Hebrew, Aramaic, or Greek, as the case may be, as regards the texts of Sacred Scripture." (24)
  - "The liturgical texts’ character as a very powerful instrument for instilling in the lives of the Christian faithful the elements of faith and Christian morality" (26)

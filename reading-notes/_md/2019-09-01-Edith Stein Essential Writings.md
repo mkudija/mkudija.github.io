@@ -3,7 +3,7 @@
 
 `(Maryknoll: Orbis, 2002), 158`
 
-Somehow reading Edith Stein feels like I'm reading someone much *older* than her, perhaps [[St. Theresa of Ávila]] who she looked up to so much.
+Somehow reading Edith Stein feels like I'm reading someone much *older* than her, perhaps [[St. Teresa of Ávila]] who she looked up to so much.
 
 - "Be patient with yourself; God is." (11)
 - "One can find God *in* the world by bringing God *to* the world." (23)

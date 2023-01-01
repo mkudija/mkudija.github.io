@@ -96,7 +96,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 - "rite": the practical arrangements made by the community, in tame and space, for the basic type of worship received from God in faith (174)
 - individual rites have a relationship to the places where Christianity originated and the apostles preached (177)
 - rites are forms of apostolic tradition (178)
-- "With the radicalization of the historical-critical method, it has become very clear today that the *sola scriptura* principle cannot provide a foundation for the Church and the commonality of her faith." (181)
+- "With the radicalization of the [[historical-critical method]], it has become very clear today that the *[[sola scriptura]]* principle cannot provide a foundation for the Church and the commonality of her faith." (181)
 - focus on tradition over creativity (182-183)
 
 ### Chapter 2 - The Body and the Liturgy

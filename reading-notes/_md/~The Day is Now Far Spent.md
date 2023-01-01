@@ -28,6 +28,7 @@ isbn13: 9781621643241
 </details>
 
 # Part I: Spiritual and Religious Collapse
+
 ## Chapter 1: The Crisis of Faith
 _**Summary**: _
 
@@ -48,6 +49,7 @@ _**Summary**: _
 
 
 # Part II: Man Belittled
+
 ## Chapter 5: Hatred of Man
 _**Summary**: _
 
@@ -59,6 +61,7 @@ _**Summary**: _
 
 
 # Part III: The Fall of Truth, Moral Decadence, and Bad Political Habits
+
 ## Chapter 7: Where Is the World Headed?
 _**Summary**: _
 
@@ -110,6 +113,7 @@ _**Summary**: _
 
 
 # Part IV: Rediscovering Hope: The Practice of the Christian [[Virtues]]
+
 ## Chapter 17: God Opens His Hand
 _**Summary**: _
 

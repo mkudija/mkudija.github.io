@@ -1,3 +1,6 @@
+---
+aliases: [Brave New World]
+---
 
 # [*Brave New World*]() by [[Aldous Huxley]]
 

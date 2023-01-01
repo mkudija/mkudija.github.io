@@ -1,9 +1,12 @@
+---
+aliases: [Abandonment to Divine Providence]
+---
 # [*Abandonment to Divine Providence*](https://www.amazon.com/Abandonment-Divine-Providence-Jean-Pierre-Caussade/dp/0895552264/ref=sr_1_3?dchild=1&keywords=Jean+Pierre+de+Caussade&qid=1608746102&sr=8-3) by Jean Pierre de Caussade
 
 `(New York: Doubleday, 1750, 1975), 119`
 
 
-[[Fr. Raymund]] mentioned this the first time we had him over and then again and the guy's night I went to, and I have enjoyed reading it slowly and allowing it to be a point of prayer in my day. This reminds me a lot of *The Practice of the Presence of God*, and is a wonderful daily devotional also like *[[~The Imitation of Christ]]*. Abandonment is such a simple concept, and so full of meaning to unpack.
+[[Fr. Raymund]] mentioned this the first time we had him over and then again and the guy's night I went to, and I have enjoyed reading it slowly and allowing it to be a point of prayer in my day. This reminds me a lot of *[[2018-08-26-The Practice of the Presence of God|The Practice of the Presence of God]]*, and is a wonderful daily devotional also like *[[~The Imitation of Christ|The Imitation of Christ]]*. Abandonment is such a simple concept, and so full of meaning to unpack.
 
 
 ## Introduction
@@ -167,6 +170,19 @@
 #### (11) To the abandoned soul God is visible even in the proud souls who oppose him. Every creature, whether good or evil, reveals God to him.
 
 #### (12) To all his faithful souls, God promises a glorious victory over the powers of the world and of hell.
+
+
+--- 
+**Topic**: [[Spiritual Classics]], [[Divine Providence]]
+
+**Source**: 
+- [[Fr. Raymund]]
+
+**Bibliography**
+
+```query
+[[bib]] file:(2020-12-23-Abandonment to Divine Providence)
+```
 
 ---
 Created: 2020-12-23

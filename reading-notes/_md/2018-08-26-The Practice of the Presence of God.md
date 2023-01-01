@@ -1,3 +1,6 @@
+---
+aliases: [The Practice of the Presence of God]
+---
 # [*The Practice of the Presence of God*](https://www.amazon.com/dp/1557256942/?psc=0) by Brother Lawrence & Hal M. Helms (Editor), Robert J. Edmonson (Translator)
 
 `(Brewster, MA: Paraclete, 1693/2010), 127`

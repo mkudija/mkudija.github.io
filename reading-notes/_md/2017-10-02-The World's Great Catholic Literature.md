@@ -123,7 +123,7 @@ finished
 - *Judgment Day* by Blessed John Ruysbroeck
 - *Address to the Beloved* by Rámon Lull
 - *Questions* by Rámon Lull
-- *Hope in the Mercy of God* by St. Theresa of Avila
+- *Hope in the Mercy of God* by St. Teresa of Avila
 - *On the Distribution of Alms* by St. Ignatius of Loyola
 - *Michelangelo and Religious Art* by Francisco de Hollanda
 - *Leonardo da Vinci* by Giorgio Vasari

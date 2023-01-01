@@ -64,10 +64,6 @@ isbn13: 9780786722709
 ```
  
 
-**New Words**
-
-- 
-
 ---
 Created: [[2021-03-06-Sat]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

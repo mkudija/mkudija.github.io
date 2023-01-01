@@ -19,7 +19,7 @@ finished:
 `(New York: Fordham University Press, 1953), 457`
 
 --- 
-**Topic**: [[St. Theresa of Ávila]]
+**Topic**: [[St. Teresa of Ávila]]
 
 **Source**
 - [[St. Pat's KoC Book Sale]] 2021

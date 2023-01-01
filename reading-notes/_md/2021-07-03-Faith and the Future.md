@@ -35,7 +35,7 @@ isbn13: 9781681491684
 
 ## Faith and Philosophy
 - The challenge for faith is that “philosophy no longer exists—only philosophies” (62)
-- Ratziner gives a history of modern theology through [[Schleiermacher]] (63), Barth (67)
+- Ratzinger gives a history of modern theology through [[Schleiermacher]] (63), Barth (67)
 - "There is no longer a common philosophical certainty, unless it be the certainty, shared by all modern philosophies, that there is no certainty beyond the sphere of the exact sciences (73, c.f. *[[2020-11-18-After Virtue#Ch 1 - A Disquieting Suggestion|After Virtue]]*)
 - The distraction of modern philosophy as a symptom of the attempt to be exact like the physical sciences (75)
 - Marx: man creates truth (77)
@@ -60,18 +60,16 @@ isbn13: 9781681491684
 - "And so it seems certain to me that the Church is facing very hard times. The real crisis has scarcely begun. We will have to count on terrific upheavals. But I am equally certain about what will remain at the end: not the Church of the political cult...but the Church of faith. She may well no longer be the dominant social power to the extent that she was until recently; but she will enjoy a fresh blossoming and be seen as man's home, where he will find life and hope beyond death." (118)
 
 
-
-
 --- 
 
 **Bibliography**
 
 - *[[2022-10-31-The Drama of Atheist Humanism|The Drama of Atheist Humanism]]* by [[Henri de Lubac]] (14)
-- *[[~Introduction to Christianity]]* by [[Joseph Ratzinger]] (34)
+- *[[~Introduction to Christianity|Introduction to Christianity]]* by [[Joseph Ratzinger]] (34)
 - *The Force of Circumstance* by [[Simone de Beauvoir]] (52-55, describing the emptiness of a present without a future)
 - *The Little Prince* by [[Antoine de Saint-Exupéry]] (111-112, "seeing with the heart")
 - [[Henri de Lubac]]: ["Holiness in Future"](https://github.com/mkudija/notes/blob/master/Holiness%20In%20Future%20by%20de%20Lubac.pdf) in *[[~The Church-Paradox and Mystery|The Church-Paradox and Mystery]]* (115)
 
 ---
-Created: 2021-07-03
+Created: [[2021-07-03-Sat]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>

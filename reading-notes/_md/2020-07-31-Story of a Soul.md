@@ -1,4 +1,17 @@
-
+---
+aliases: [The Story of a Soul]
+title: The Story of a Soul
+author: St. Therese of Lisieux, Saint Thérèse (de Lisieux)
+category: Biography & Autobiography
+publisher: Tan Books & Pub
+total_page: 244
+cover_url: http://books.google.com/books/content?id=xJYvCRtu7XMC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1997
+isbn10: 0895555484
+isbn13: 9780895555489
+started: 
+finished: 
+---
 # [*The Story of a Soul*](https://tanbooks.com/products/books/saints/autobiographies/the-story-of-a-soul-the-autobiography-of-st-therese-of-lisieux/) by [[St. Thérèse of Lisieux]]
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51xHHWbn40L._SY291_BO1%2C204%2C203%2C200_QL40_ML2_.jpg&f=1&nofb=1" width=150>
@@ -14,7 +27,7 @@
 - First Communion: "I had to renew my ardor and fill my heart with freshly gathered flowers...I wanted all the flowers on earth to cradle Jesus in my heart." (49)
 - "I would not tell you everything, even if I could, for there are certain things which lose their fragrance in the open air" (51)
 - re Jesus, her desire to "disappear like a drop of water lost in the mighty ocean." (52)
-- She loved *[[~The Imitation of Christ]]* (54) and as a child was called the "little doctor" (55)
+- She loved *[[~The Imitation of Christ|The Imitation of Christ]]* (54) and as a child was called the "little doctor" (55)
 - "Here, in the silence, I found my one consolation: Jesus, my only friend." (61)
 
 ## Chapter 5 - Christmas Grace and After

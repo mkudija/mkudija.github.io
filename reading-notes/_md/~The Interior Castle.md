@@ -1,9 +1,23 @@
+---
+aliases: [The Interior Castle]
+title: The Interior Castle
+author: Saint Teresa (of Avila)
+category: Religion
+publisher: Paulist Press
+total_page: 250
+cover_url: http://books.google.com/books/content?id=8sZ_ATrXYG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 1979
+isbn10: 0809122545
+isbn13: 9780809122547
+started: 
+finished: 
+---
+# [*The Interior Castle*]() by [[St. Teresa of Ávila]]
 
-# [*The Interior Castle*]() by [[St. Theresa of Ávila]]
+<img src="http://books.google.com/books/content?id=8sZ_ATrXYG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-<img src="" width=150>
+`(New York: Paulist Press, 1979), 250`
 
-`(City: Publisher, YYYY), PPP`
 
 # Notes
 

@@ -19,7 +19,7 @@ finished:
 `(San Francisco: Ignatius Press, 1989), 378`
 
 --- 
-**Topic**: [[St. John of the Cross]], [[St. Theresa of Ávila]], [[Prayer]]
+**Topic**: [[St. John of the Cross]], [[St. Teresa of Ávila]], [[Prayer]]
 
 **Source**
 - [[St. Pat's KoC Book Sale]] 2021

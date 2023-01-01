@@ -11,17 +11,19 @@ isbn10: 1945179414
 isbn13: 9781945179419
 translation: Revised Standard Version Second Catholic Edition
 ---
-# *[The Great Adventure Catholic Bible]()* by [[Jeff Cavins, Mary Healy, Peter Williamson]]
+# *[The Great Adventure Catholic Bible](https://ascensionpress.com/collections/the-great-adventure-bible)* by [[Jeff Cavins, Mary Healy, Peter Williamson]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/3163/3281/HBP_r__04772.1617024994.jpg?c=1" width=150>
 
 `(Baltimore: Ascension Press, 2018), `
 
+- [The Bible Timeline Chart](https://ascensionpress.com/products/great-adventure-bible-timeline-chart)
+
 --- 
 **Topic**: [[The Bible]]
 
 **Source**
-- [[qq-The Bible in a Year (with Fr. Mike Schmitz)]]
+- [[2022-12-31-The Bible in a Year (with Fr. Mike Schmitz)]]
 - Russels Birthday 2022
 
 

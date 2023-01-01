@@ -245,7 +245,7 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 **Bibliography**
 
 ```query
-[[bib]] file:(~The Drama of Atheist Humanism)
+[[bib]] file:(2022-10-31-The Drama of Atheist Humanism)
 ```
  
 

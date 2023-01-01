@@ -278,7 +278,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 ## Chapter 15: Forward to Basics
 *Freedom Ordered to the Dignity of Duty*
 - Truth: **(1) The reconstruction of society through culture is the prerequisite for economic and political change. (2) Information is the key to effective resistance through culture. (3) The Church is a sanctuary of truth telling in a world dominated by lies.** (529)
-- Beatification of [[Edith Stein]], and how she read *[[~Autobiography of St. Theresa of Ávila]]* one night and pronounced: "This is the truth." (538)
+- Beatification of [[Edith Stein]], and how she read *[[~Autobiography of St. Teresa of Ávila]]* one night and pronounced: "This is the truth." (538)
 	- [[Edith Stein]] was a "paradigmatic figure": modern women and proto-feminist, intellectual and converted skeptic, contemplative with an active life, defied force with faith (540)
 - Did John Paul II pass through (or more likely fly over) [[Paso Robles, CA]] while traveling from LA to Monterey in 1987
 - John Paul II on the American experiment: "An experience of ordered freedom is truly a cherished part of the history of this land...The only true freedom, the only freedom that can truly satisfy is...the freedom to live the truth of what we are and who we are before God." (551)

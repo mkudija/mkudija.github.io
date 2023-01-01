@@ -10,7 +10,7 @@
 - "Saint Joseph reminds us that those who appear hidden or in the shadows can play an incomparable role in the history of salvation. A word of recognition and of gratitude is due to them all."
 1. **A beloved father**
 	- Joseph concretely expressed his fatherhood “by making his life a sacrificial service
-	- [[St. Theresa of Ávila]]: "Go to Joseph"
+	- [[St. Teresa of Ávila]]: "Go to Joseph"
 	- Joseph stands at the crossroads between the Old and New Testaments
 2. **A tender and loving father**
 	- "Joseph, then, teaches us that faith in God includes believing that he can work even through our fears, our frailties and our weaknesses. He also teaches us that amid the tempests of life, we must never be afraid to let the Lord steer our course. At times, we want to be in complete control, yet God always sees the bigger picture."

@@ -22,7 +22,7 @@ isbn13: 9780156762489
 **Topic**: [[Psalms]]
 
 **Source**
-- [[qq-The Bible in a Year (with Fr. Mike Schmitz)]]
+- [[2022-12-31-The Bible in a Year (with Fr. Mike Schmitz)]]
 
 
 **Bibliography**

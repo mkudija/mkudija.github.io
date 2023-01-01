@@ -115,7 +115,7 @@ _**Summary**: Around the Reformation, Joseph was lifted up as a model husband._
 
 ## Chapter 8: St. Joseph Goes for Baroque
 _**Summary**: After [[Council of Trent|Trent]], Joseph was also emphasized as a model of [[Fatherhood]]._
-- [[St. Theresa of Ávila]]: "I have not known anyone truly devoted to him, and rendering him special services, who has not advanced more in virtue." (114)
+- [[St. Teresa of Ávila]]: "I have not known anyone truly devoted to him, and rendering him special services, who has not advanced more in virtue." (114)
 - Jesus seems to say in *St. Joseph and the Child Jesus* by Bartolomé Esteban Murillo: **"I trusted Joseph in times of danger. Shouldn't you?"**
 
 

@@ -1,5 +1,5 @@
 ---
-aliases: [The Great Story of Israel]
+aliases [The Great Story of Israel]
 title: The Great Story of Israel
 author: Robert Barron
 category: Scripture
@@ -9,7 +9,7 @@ cover_url:
 publish_date: 2022
 isbn10: 
 isbn13: 9781685780197
-started: 
+started: 2022-12-26
 finished: 
 ---
 # *[The Great Story of Israel: Election, Freedom, Holiness](https://bookstore.wordonfire.org/products/the-great-story-of-israel)* by [[Bishop Barron]]
@@ -25,157 +25,134 @@ finished:
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
+- [Introduction](#introduction)
+- [](#Genesis)
+- [](#Exodus)
+- [](#Leviticus)
+- [](#Numbers)
+- [](#Deuteronomy)
+- [](#Joshua)
+- [](#Judges)
+- [](#Ruth(b)|Ruth)
+- [](#1 Samuel)
+- [](#2 Samuel)
+- [](#1 Kings)
+- [](#2 Kings)
+- [](#Ezra and Nehemiah)
+- [](#Tobit)
+- [](#Judith)
+- [](#Esther)
+- [](#1 Maccabees|1 and 2 Maccabees)
+
 <!-- /MarkdownTOC -->
 </details>
 
 
-## Chapter 1:
+## Introduction
+- Virtues of the [[historical-critical method]] of Biblical scholarship:
+	- It takes seriously how the Bible is grounded in history 
+	- It blocks the temptation to "hermeneutical whimsy", i.e. irresponsibly speculative interpretations of biblical texts
+	- Respects the incarnational principle of God cooperating with his creatures (human authors) to write the Bible by stressing the role of the human author
+- Limitations of the [[historical-critical method]] of Biblical scholarship:
+	- Loses sight of God as the principal author of the Bible by stressing the role of the human author 
+	- Eliminates the coherence of the Bible as a whole by atomizing individual books 
+		- Instead, look to the "canonical approach" that gives a unified reading of the Bible as a whole by scholars such as [[N.T. Wright]]
+	- Relegates the Bible to the past rather than focusing on its universal value 
+	- Sees the theological tradition as a distorting overlay rather than a clarifying lens (a set of *[[sola scriptura]]* assumptions)
+		- Instead, look to [[John Henry Newman|Newman]]: theology represents a development and a clarification of themes and ideas present in the scriptural texts (xi, cf. *[[~An Essay on the Development of Christian Doctrine|An Essay on the Development of Christian Doctrine]]* [[bib]])
+- This commentary then:
+	- Not a work of historical criticism, but draws upon the findings of that method 
+	- Is a "theological interpretation"
+	- Assumes throughout that the prime author of the Scriptures is the Holy Spirit 
+	- Takes for granted a deep coherence between the various biblical texts 
+	- Respects the spiritual and theological tradition 
+	- Assumes a mutually enhancing relationship between doctrine and exegesis (with [[Joseph Ratzinger|Ratzinger]])
+	- Reads the Old Testament consistently in light of Christ ([[St. Augustine|Augustine]]'s "the New Testament lies hidden in the Old and the Old Testament is unveiled in the New", cf. *[[2022-12-03-Dei Verbum|Dei Verbum]]* 16 and [[~Catechism of the Catholic Church|CCC]] 129)
+
+
+## [[Genesis]]
 _**Summary**: _
 
 
 
-## Chapter 2:
+## [[Exodus]]
 _**Summary**: _
 
 
 
-## Chapter 3:
+## [[Leviticus]]
 _**Summary**: _
 
 
 
-## Chapter 4:
+## [[Numbers]]
 _**Summary**: _
 
 
 
-## Chapter 5:
+## [[Deuteronomy]]
 _**Summary**: _
 
 
 
-## Chapter 6:
+## [[Joshua]]
 _**Summary**: _
 
 
 
-## Chapter 7:
+## [[Judges]]
 _**Summary**: _
 
 
 
-## Chapter 8:
+## [[Ruth(b)|Ruth]]
 _**Summary**: _
 
 
 
-## Chapter 9:
+## [[1 Samuel]]
 _**Summary**: _
 
 
 
-## Chapter 10:
+## [[2 Samuel]]
 _**Summary**: _
 
 
 
-## Chapter 11:
+## [[1 Kings]]
 _**Summary**: _
 
 
 
-## Chapter 12:
+## [[2 Kings]]
 _**Summary**: _
 
 
 
-## Chapter 13:
+## [[Ezra]] and [[Nehemiah]]
 _**Summary**: _
 
 
 
-## Chapter 14:
+## [[Tobit]]
 _**Summary**: _
 
 
 
-## Chapter 15:
+## [[Judith]]
 _**Summary**: _
 
 
 
-## Chapter 16:
+## [[Esther]]
 _**Summary**: _
 
 
 
-## Chapter 17:
+## [[1 Maccabees|1]] and [[2 Maccabees]]
 _**Summary**: _
 
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
 
 --- 
 **Topic**: [[The Bible]]
@@ -196,4 +173,4 @@ _**Summary**: _
 
 ---
 Created: [[2022-12-25-Sun]]
-Updated: NaN
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

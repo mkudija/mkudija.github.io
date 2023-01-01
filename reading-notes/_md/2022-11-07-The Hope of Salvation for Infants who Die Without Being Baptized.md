@@ -110,7 +110,7 @@ _**2.2. The Universality of Sin and the Universal Need of Salvation**_
 
 **_3.5. Lex Orandi, Lex Credendi_**
 - "The _Roman Missal_ now has a funeral Mass for a child who died before Baptism, and there are also special prayers for such a situation in the _Ordo Exsequiarum_" (100)
-	- [ ] look this up 📅 2022-12-26
+	- Entrance antiphon: "[God] will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning nor crying nor pain any more, for the former things have passed away." ([[Rv-21#v4]], *[[~Roman Missal|The Roman Missal]]*, 1379)
 - "In the Greek Catholic Church there is only one funeral rite for infants whether baptised or not yet baptised, and the Church prays for all deceased infants that they may be received into the bosom of Abraham where there is no sorrow or anguish but only eternal life." (100)
 
 **_3.6. Hope_**

@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=wqfAzQEACAAJ&printsec=front
 publish_date: 2020
 isbn10: 164585048X
 isbn13: 9781645850489
+started: 2022-12-27
+finished: 
 ---
 # [*A Church in Crisis: Pathways Forward*](https://stpaulcenter.com/product/a-church-in-crisis-pathways-forward/) by [[Ralph Martin]]
 
@@ -25,157 +27,81 @@ isbn13: 9781645850489
 <!-- /MarkdownTOC -->
 </details>
 
+## Introduction 
+[A Crisis of Truth (PDF) | Renewal Ministries](https://www.renewalministries.net/shop/product/a_crisis_of_truth_pdf)
 
-## Chapter 1:
+# Part I: A Church in Crisis
+
+## Chapter 1: A Time of Confusion and Division
 _**Summary**: _
 
 
 
-## Chapter 2:
+## Chapter 2: Is There a Solid Place to Stand?
 _**Summary**: _
 
 
 
-## Chapter 3:
+## Chapter 3: Is It All a Game? The Fog of [[Universalism]]
 _**Summary**: _
 
 
 
-## Chapter 4:
+## Chapter 4: The Revolution Continues
 _**Summary**: _
 
 
 
-## Chapter 5:
+## Chapter 5: How Long Will You Straddle the Issue?
 _**Summary**: _
 
 
 
-## Chapter 6:
+## Chapter 6: Is Anyone Responsible?
 _**Summary**: _
 
 
 
-## Chapter 7:
+# Part II: Pathways Forward
+
+## Chapter 7: Seeing and Not Seeing
 _**Summary**: _
 
 
 
-## Chapter 8:
+## Chapter 8: Powers, Principalities, and Organizations 
 _**Summary**: _
 
 
 
-## Chapter 9:
+## Chapter 9: Pastoral Passivity: Good Shepherds and Bad
 _**Summary**: _
 
 
 
-## Chapter 10:
+## Chapter 10: The Signs of the Times: Pointing toward Judgment
 _**Summary**: _
 
 
 
-## Chapter 11:
+## Chapter 11: A Time for Repentance
 _**Summary**: _
 
 
 
-## Chapter 12:
+## Chapter 12: A Time for Action
 _**Summary**: _
 
 
 
-## Chapter 13:
+## Chapter 13: The Inexhaustible Riches of Jesus: Participating in the Prophetic Mission of Jesus 
 _**Summary**: _
 
 
 
-## Chapter 14:
-_**Summary**: _
 
 
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
-
-
-- [ ] after this *[[2022-12-20-The Fulfillment of All Desire]]* [[2022-06-17 Video-Ralph Martin The State of the Church#^c5ab52]]
+- [ ] after this *[[2022-12-30-The Fulfillment of All Desire]]* [[2022-06-17 Video-Ralph Martin The State of the Church#^c5ab52]]
 
 --- 
 **Topic**: 

@@ -71,6 +71,7 @@ publish: true
 	- *Pyramid*
 - *The True Story of Stanta Claus* by Paul Prokop
 - *Brother Hugo and the Bear* by Katy Beebe
+- *[[~The Holy Mass|The Holy Mass (Lego)]]* by Kevin and Mary O’Neill
 - *[[~The Weight of a Mass|The Weight of a Mass]]* by Josephine Nobisso
 - *St. Jerome and the Lion* by Margaret Hodges
 - *Light of Sunday*

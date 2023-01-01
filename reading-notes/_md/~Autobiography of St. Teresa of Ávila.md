@@ -1,5 +1,8 @@
+---
+aliases: [Autobiography of St. Teresa of Ávila]
+---
 
-# [*Autobiography*]() by [[St. Theresa of Ávila]]
+# [*Autobiography*]() by [[St. Teresa of Ávila]]
 
 <img src="" width=150>
 

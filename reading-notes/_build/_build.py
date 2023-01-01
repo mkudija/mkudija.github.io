@@ -53,6 +53,9 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     ## - support for transclusions ![[]]
     ## - support for "links to this page"
 
+    # remove [[bib]]
+    mdString = mdString.replace('[[bib]] ','')
+
     try:
         # regex help: https://regexr.com/
         # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160

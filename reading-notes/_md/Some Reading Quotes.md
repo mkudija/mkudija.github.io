@@ -1,6 +1,6 @@
 > Nothing makes a man more reverent than a library. <br> –Winston S. Churchill[^churchill]
 
-[^churchill]: [[Winston Churchill]], [*Painting as a Pastime*](https://www.amazon.com/Painting-as-Pastime-Winston-Churchilll/dp/B00KF43MF6/ref=sr_1_2?ie=UTF8&qid=1523223509&sr=8-2&keywords=painting+as+a+pastime&dpID=615Ovsq-oWL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) (New York: Cornerstone Library Publications, 1965), 11.
+[^churchill]: [[Winston Churchill]], *[[2017-11-30-Painting as a Pastime|Painting as a Pastime]]* (New York: Cornerstone Library Publications, 1965), 11.
 
 <br>
 > I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book! When I have a house of my own, I shall be miserable if I have not an excellent library. <br> –Jane Austen[^austen]
@@ -118,7 +118,7 @@ to be read wholly, and with diligence and attention.  <br> –Francis Bacon[^bac
 >When you come, bring the books!
 >–St. Paul[^paul]
 
-[^paul]: [[2 Tm-04#v13]] (NABRE): When you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments. Source: [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
+[^paul]: [[2 Tm-04#v13]] (NABRE): "When you come, bring the cloak I left with Carpus in Troas, the papyrus rolls, and especially the parchments." Source: [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
 
 <br>
 >When I get a little money, I buy books. If any is left, I buy food and clothes.

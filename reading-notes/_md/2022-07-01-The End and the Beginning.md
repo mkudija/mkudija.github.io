@@ -57,7 +57,7 @@ Finally, John Paul II always said that "You must decide!" (42, 412). And so it i
 
 ## Prologue: The Millennial Pope 
 - He described himself as a "[[2021-07-20-Witness to Hope|Witness to Hope]]" to the UN in 1995 (2)
-- His friend/mentor Jan Tyranowski was "a lay mystic and autodidact specialist in the works of [[St. John of the Cross]] and [[St. Theresa of Ávila]]" (6)
+- His friend/mentor Jan Tyranowski was "a lay mystic and autodidact specialist in the works of [[St. John of the Cross]] and [[St. Teresa of Ávila]]" (6)
 	- → not a bad goal to strive for!
 - [[John Paul II]] held the conviction that "the [[Enlightenment]] theories of ethics, which locked moral obligation inside human consciousness, were one source of the cultural, and ultimately political, crises of the late twentieth century." (10)
 - Under his leadership, the Diocese of Krakow published a summary of the documents of [[Vatican II]]: *Sources of Renewal* [[bib]] (11)

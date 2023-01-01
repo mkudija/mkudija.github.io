@@ -119,14 +119,14 @@
 
 
 --- 
-**Source**: *[[~The Power of Silence]]*
+**Source**: *[[~The Power of Silence|The Power of Silence]]*
 
 **Bibliography**
 
-- *[[2014-01-25-Penseés|Penseés]]* by [[Blaise Pascal]] (13)
+- *[[2014-01-25-Penseés|Penseés]]* by [[Pascal]] (13)
 - *Cautelas* and *Avisos* by [[St. John of the Cross]] (13)
 - *Meditationes* by Guigo the Carthusian (13)
-- *[[~The Imitation of Christ]]* by Kempis (13)
+- *[[~The Imitation of Christ|The Imitation of Christ]]* by Kempis (13)
 
 **New Words**
 
