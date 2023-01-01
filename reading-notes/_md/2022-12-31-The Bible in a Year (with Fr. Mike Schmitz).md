@@ -8,6 +8,7 @@
 - [The Bible Timeline](#the-bible-timeline)
 - [Resources](#resources)
 - [Some Themes and Take-aways](#some-themes-and-take-aways)
+- [Progress](#progress)
 - [Notes](#notes)
 	- [Early World](#early-world)
 	- [The Patriarchs](#the-patriarchs)
@@ -58,6 +59,11 @@
 - We are always tempted to idolatry (usually making good things ultimate things) 
 - Be faithful to the Lord, always
 
+## Progress
+
+Just for fun, the chart below shows my progress in 2022. I started listening to the Bible in a Year podcast late in February (see [Inspiration for "Bible in a Year"](#inspiration-for-bible-in-a-year)), so I was already 35 days behind. The straight segments are stretches of not listening, which were especially bad from May to July. I kicked it into high gear in October to finish by the the end of the year. 
+
+<img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/2022-Bible-in-a-year/2022-Bible-in-a-year.jpg" width="100%">
 
 
 # Notes 
