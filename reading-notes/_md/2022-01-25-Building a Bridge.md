@@ -10,7 +10,7 @@ publish_date: 2018
 isbn10: 006287344X
 isbn13: 9780062873446
 ---
-# [*Building a Bridge: How the Catholic Church and the LGBT Community Can Enter into a Relationship of Respect, Compassion, and Sensitivity*](https://www.harpercollins.com/products/building-a-bridge-james-martin?variant=32117748236322) by [[James Martin, SJ]]
+# [*Building a Bridge: How the Catholic Church and the LGBT Community Can Enter into a Relationship of Respect, Compassion, and Sensitivity*](https://www.harpercollins.com/products/building-a-bridge-james-martin?variant=32117748236322) by [[Fr. James Martin, SJ]]
 
 <img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062837530.jpg?v=1641494022" width=150>
 

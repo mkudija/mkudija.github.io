@@ -1,4 +1,17 @@
-
+---
+aliases: [Summa Theologiae]
+title: Summa Theologiae
+author: Thomas Aquinas
+category: Religion
+publisher: Latin-English Opera Omnia
+total_page: 5256
+cover_url: http://books.google.com/books/content?id=LbrbkwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2012-12-12
+isbn10: 1623400147
+isbn13: 9781623400149
+started: 
+finished: 
+---
 # [*Summa Theologiae*](https://stpaulcenter.com/product/summa-theologiae-complete-set/) by [[St. Thomas Aquinas]]
 
 <img src="https://stpaulcenter.com/wp-content/uploads/2018/05/9781623400149_FC-768x682.jpg" width=150>

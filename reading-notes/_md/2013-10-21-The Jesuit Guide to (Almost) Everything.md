@@ -1,5 +1,5 @@
 
-# *The Jesuit Guide to (Almost) Everything* by [[James Martin, SJ]]
+# *The Jesuit Guide to (Almost) Everything* by [[Fr. James Martin, SJ]]
 
 ## Chapter 1 - A Way of Proceeding
 * Basics of Ignatian Spirituality:

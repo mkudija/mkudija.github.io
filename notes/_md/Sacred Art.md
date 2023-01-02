@@ -117,7 +117,7 @@ publish: true
 ### Home
 
 <img src="https://www.visualgrace.org/wp-content/uploads/2018/04/Hearts_final-6_logoweb.jpg" width=100%>
-[*Home*]([HOME | Visual Grace (Kate Capato)](https://www.visualgrace.org/portfolio-item/home/)), Kate Capato (American), Oil on linen, private collection.
+[*Home*](https://www.visualgrace.org/portfolio-item/home/), Kate Capato (American), Oil on linen, private collection.
 
 
 ### [[2022-03-19-The Silent Knight#Favorite St Joseph Art|Favorite St Joseph Art]]
@@ -128,6 +128,10 @@ publish: true
 - [The Modern Saints by Gracie](https://www.themodernsaints.com/)
 - [Kate Scimeca](https://www.katescimecaart.com/shop)
 - [Amber Knorr](https://www.amberknorrart.com/portfolio)
+- [Gratia Design](https://www.etsy.com/shop/GratiaDesignCoShop)
+- [Portraits of Saints](https://www.etsy.com/shop/PortraitsofSaints)
+- [Santa Clara Design](https://www.etsy.com/shop/SantaClaraDesign)
+- [Kozak Workshop](https://www.etsy.com/shop/Kozakworkshop)
 
 ---
 Created: [[2021-07-29-Thu]]

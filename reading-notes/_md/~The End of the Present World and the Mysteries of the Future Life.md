@@ -16,7 +16,7 @@ finished:
 
 <img src="http://books.google.com/books/content?id=waiQAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Sophia Institute Press, 2008), 310`
+`(Manchester: Sophia Institute Press, 2008), 310`
 
 --- 
 **Topic**: [[Spiritual Classics]]

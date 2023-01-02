@@ -14,7 +14,7 @@ isbn13: 9781622821822
 
 <img src="http://books.google.com/books/content?id=Ke-ZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Sophia Institute Press, 2014-08-01), 193`
+`(Manchester: Sophia Institute Press, 2014-08-01), 193`
 
 
 

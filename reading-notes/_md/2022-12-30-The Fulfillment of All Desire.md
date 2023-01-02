@@ -121,8 +121,8 @@ In summary:
 _**Summary**: We are all called to holiness, and we need to choose now!_
 
 - Jesus summed up his teaching as: "You, therefore, must be perfect, as your heavenly Father is perfect." ([[Mt-05#v48]])
-       - This is a universal call to holiness (cf. [[John Paul II]], *[[~Novo Millennio Ineunte|Novo Millennio Ineunte]]*)
-       - [[St. Teresa of Ávila|Teresa of Avila]]: Holiness is bringing our wills into union with God's will 
+	- This is a universal call to holiness (cf. [[John Paul II]], *[[~Novo Millennio Ineunte|Novo Millennio Ineunte]]*)
+	- [[St. Teresa of Ávila|Teresa of Avila]]: Holiness is bringing our wills into union with God's will 
 - [[John Paul II]]'s four principles of the mystical tradition (*[[~Novo Millennio Ineunte|Novo Millennio Ineunte]]*)
        1. We are totally dependent on God's grace, but with him all things are possible
        2. Our effort is indispensable to dispose us to receive God's grace 

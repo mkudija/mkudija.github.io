@@ -50,6 +50,10 @@ _**Summary**: _
 ## Chapter 4: The Revolution Continues
 _**Summary**: _
 
+**The German Factor**
+- The German church is *rich* because Catholic-registered taxpayers pay 8-9% of their income to the church
+- The German church is *powerful* because—due to its riches—it funds churches in many poorer countries, who seek to please their benefactor 
+- The German church is *progressive* because it is not at risk as are churches that are not state-supported in other developed countries, and because it seeks to be "updated" in the eyes of an increasingly secular populous 
 
 
 ## Chapter 5: How Long Will You Straddle the Issue?

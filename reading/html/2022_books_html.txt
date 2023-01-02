@@ -2,6 +2,7 @@
 <li><i>The New Oxford Annotated Bible with Apocrypha NRSV (4 Maccabees)</i></li>
 <li><i>The House At Pooh Corner</i> by A. A. Milne</li>
 <li><i>Jesus of Nazareth: The Infancy Narratives</i> by Pope Benedict XVI</li>
+<li><i>The Fulfillment of All Desire: A Guidebook for the Journey to God Based on the Wisdom of the Saints</i> by Ralph Martin (<a href="https://matthewkudija.com/reading-notes/2022-12-30-The-Fulfillment-of-All-Desire.html">Notes</a>)</li>
 <li><i>The Resurrection of God Incarnate</i> by Richard Swinburne</li>
 <li><i>Hamlet</i> by William Shakespeare</li>
 <li><i>Mastering Bitcoin</i> by Andreas M. Antonopoulos</li>
