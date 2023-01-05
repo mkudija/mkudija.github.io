@@ -1,8 +1,8 @@
-
 --- 
 **Topic**: 
 
 **Source**: 
+- 
 
 **Bibliography**
 
@@ -11,7 +11,7 @@
 ```
  
 
-**New Words**
+**[[New Words]]**
 
 - 
 

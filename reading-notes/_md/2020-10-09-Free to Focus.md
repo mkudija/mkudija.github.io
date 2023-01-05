@@ -55,7 +55,7 @@ isbn13: 9781493409549
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2020-10-09-Free%20to%20Focus/images/49.jpg" width="50%" height="50%"></p>
 - Freedom Compass
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2020-10-09-Free%20to%20Focus/images/55.jpg" width="50%" height="50%"></p>
-- Don't let your midset limit your productivity
+- Don't let your mindset limit your productivity
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/reading/notes/2020-10-09-Free%20to%20Focus/images/63.jpg" width="50%" height="50%"></p>
 
 

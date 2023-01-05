@@ -1,8 +1,20 @@
-
+---
+aliases: [How to Talk About Books You Haven't Read]
+title: How to Talk About Books You Haven't Read
+author: Pierre Bayard
+category: Literary Collections
+publisher: Bloomsbury Publishing USA
+total_page: 208
+cover_url: http://books.google.com/books/content?id=msd_IpOg62gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2010-08-10
+isbn10: 1596917148
+isbn13: 9781596917149
+started: 
+finished: 
+---
 # [*How to Talk About Books You Haven't Read*](https://www.amazon.com/Talk-About-Books-Havent-Read/dp/1596914696) by Pierre Bayard
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/4146nLhC8uL._SX323_BO1,204,203,200_.jpg" width=150>
-
 
 `(New York: Bloomsbury, 2007), 185`
 
@@ -13,7 +25,7 @@ Books are just containers for ideas, and it is the ideas that matter much more t
 
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/2021-06-01_reading-process.png" width="100%" height="100%"></p>
 
-I can't let the goal of "reading" get in the way of spending some time with a book to get to know it and place it alongside other books in the collective library. My notes will transform into more "evergreen" notes for books that are started as early in the process as possible and record thoughts throughout the journey. I don't have use for cheeky premise of this book to handle delicate social situations surrounding books, but it has certainly transformed my relationship to books and reading.
+I can't let the goal of "reading" get in the way of spending some time with a book to get to know it and place it alongside other books in the collective library. My notes will transform into more "evergreen" notes for books that are started as early in the process as possible and record thoughts throughout the journey. I don't have use for the cheeky premise of this book to handle delicate social situations surrounding books, but it has certainly transformed my relationship to books and reading.
 
 ---
 
@@ -111,17 +123,18 @@ I can't let the goal of "reading" get in the way of spending some time with a bo
 - "Wilde's Paradox": a book stimulates our thinking but can also separate him from what is most original (178). I disagree: read good books and don't worry about being original.
 
 ---
+**Topic**: [[Reading]]
 
 **Bibliography**
 
-- *Essays* of Montaigne
+- *Essays* of [[Montaigne]]
 - *The Name of the Rose* by Umberto Eco
 - *Hamlet*
 - Film: *[[Groundhog Day]]*
 
 **New words**
 
-- **Metonymy**: *A figure of speech in which one word or phrase is substituted for another with which it is closely associated, as in the use of Washington for the United States government or of the sword for military power.*
+- **Metonymy**: A figure of speech in which one word or phrase is substituted for another with which it is closely associated, as in the use of Washington for the United States government or of the sword for military power.
 
 ---
 Created: 2021-06-01

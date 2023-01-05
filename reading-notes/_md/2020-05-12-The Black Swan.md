@@ -1,4 +1,17 @@
-
+---
+aliases: [The Black Swan]
+title: The Black Swan
+author: Nassim Nicholas Taleb
+category: Business & Economics
+publisher: Random House
+total_page: 481
+cover_url: http://books.google.com/books/content?id=gWW4SkJjM08C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2007-04-17
+isbn10: 1588365832
+isbn13: 9781588365835
+started: 
+finished: 
+---
 # [*The Black Swan: The Impact of the Highly Improbable*](https://www.penguinrandomhouse.com/books/176226/the-black-swan-second-edition-by-nassim-nicholas-taleb/) by [[Nassim Nicholas Taleb]]
 
 <img src="https://images2.penguinrandomhouse.com/cover/9780812973815" width=150>
@@ -7,7 +20,7 @@
 
 ## General
 
-Black Swan:
+**Black Swans are**
 - rare
 - have extreme impact
 - are predictable only in retrospect
@@ -16,7 +29,6 @@ Black Swan:
 ### Summary / Themes
 - "Small bets on tail risk are an excellent insurance policy on the standard financial model" (Cory, 4/25/2020)
 - Mediocristan vs Extremistan
-
 
 ### Thinkers Taleb Respects 
 - Benoît Mandelbrot
@@ -34,16 +46,6 @@ Black Swan:
 - Marx (xxv)
 - Adam Smith (xxv)
 - Steven Pinker
-
-
-### Books From Taleb 
-- *The Berlin Diaries* by [[William L. Shirer]] (history as it is taking place, 12-13)
-- *Aversos Mathematicos* by Sextus
-- *Il deserto dei tartari* by Dino Buzzati (92)
-- *Essays* by Montaigne (101)
-- *Lost Illusions* by Lucien Chardon (104)
-- *The Hedgehog and the Fox* by Isiah Berlin (153) (be a fox with an open mind)
-- Plutarch, Livy, Suetonius, Diodorus, Siculus, Gibbon, Carlyle, Renan, Michelet (198)
 
 ### Anecdotes & Life Lessons
 - "You can afford to be compassionate, lax, and courteous if, once in a while, when it is least expected of you, but completely justified, you sue someone, or savage an enemy, just to show that you can walk the walk." (7)
@@ -65,16 +67,22 @@ Black Swan:
 
 ### Prologue
 - Black Swans are (xxii):
-  - rare
-  - have extreme impact
-  - are predictable only in retrospect
+	- rare
+	- have extreme impact
+	- are predictable only in retrospect
 - Free markets work because they allow people to be *lucky*—tinker as much as possible and try to collect Black Swan opportunities (xxv)
 - **Platonicity**: what makes us think that we understand more than we actually do (xxx)
 - **Platonic Fold**: where our representation of reality ceases to apply, where Black Swans happen (19)
 
 
 ## Part One: Umberto Eco's Antilibrary, or How We Seek Validation
-- "Read books are far less valuable than unread ones." (and other great quotes on 1)
+- The antilibrary:  
+	- [The Japanese call this practice tsundoku, and it may provide lasting benefits - Big Think](https://bigthink.com/neuropsych/do-i-own-too-many-books/)
+
+>The writer Umberto Eco belongs to that small class of scholars who are encyclopedic, insightful, and nondull. He is the owner of a large personal library (containing thirty thousand books), and separates visitors into two categories: those who react with "Wow! Signore *professore dottore* Eco, what a library you have! How many of these books have you read?" and the others—a very small minority—who get the point that a private library is not an ego-boosting appendage but a research tool. **Read books are far less valuable than unread ones.** The library should contain as much of what you do not know as your financial means, mortgage rates, and the currently tight real-estate market allow you to put there. You will accumulate more knowledge and more books as you grow older; and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an ***antilibrary***. 
+>
+>We tend to treat our knowledge as personal property to be protected and defended. It is an ornament that allows us to rise in the pecking order. So this tendency to offend Eco's library sensibility by focusing on the known is a human bias that extends to our mental operations. People don't walk around with anti-résumés telling you what they have not studied or experienced (it's the job of their competitors to do that), but it Would be nice if they did. Just as we need to stand library logic on its head, We will work on standing knowledge itself on its head.
+
 
 ### Chapter 1: The Apprenticeship of an Empirical Skeptic
 - **Triplet of Opacity** (issues with our minds coming up against history, 8):
@@ -188,7 +196,6 @@ Black Swan:
 ## Postscript Essay: On Robustness and Fragility, Deeper Philosophical and Empirical Reflections
 
 ### One: Learning from Mother Nature, the Oldest and the Wisest
-- 
 
 ### Two: Why I Do All This Walking, or How Systems Become Fragile
 
@@ -206,6 +213,25 @@ Black Swan:
 
 ### Nine: Amor Fati: How to Become Indestructible (*love of fate*)
 
+
+--- 
+**Topic**: [[Probability]]
+
+**Source**: 
+- [[Root]] reading group
+- [[Cory]]
+
+**Bibliography**
+
+- *[[~Berlin Diary|Berlin Diary]]* by [[William L. Shirer]] (history as it is taking place, 12-13)
+- *Aversos Mathematicos* by Sextus
+- *Il deserto dei tartari* by Dino Buzzati (92)
+- *Essays* by [[Montaigne]] (101)
+- *Lost Illusions* by Lucien Chardon (104)
+- *The Hedgehog and the Fox* by Isiah Berlin (153) (be a fox with an open mind)
+- Plutarch, Livy, Suetonius, Diodorus, Siculus, Gibbon, Carlyle, Renan, Michelet (198)
+
+
 ---
 Created: 2020-05-12
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

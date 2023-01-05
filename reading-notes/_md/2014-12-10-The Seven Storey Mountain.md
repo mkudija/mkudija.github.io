@@ -1,7 +1,20 @@
+---
+aliases: [The Seven Storey Mountain]
+title: The Seven Storey Mountain
+author: Thomas Merton
+category: Christian biography
+publisher: 
+total_page: 0
+cover_url: http://books.google.com/books/content?id=OyT9oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2014-12
+isbn10: 028107366X
+isbn13: 9780281073665
+started: 
+finished: 
+---
+# [*The Seven Storey Mountain*](https://harperone.com/9780156010863/the-seven-storey-mountain/) by [[Thomas Merton]]
 
-# [*The Seven Storey Mountain*](https://www.hmhbooks.com/shop/books/the-seven-storey-mountain/9780156010863) by [[Thomas Merton]]
-
-<img src="https://www.hmhbooks.com/shop/books/assets/product/9780156010863_lres.gif" width=150>
+<img src="https://i.harperapps.com/covers/9780156010863/x300.jpg" width=150>
 
 `(New York: Harcourt, 1947), 462`
 

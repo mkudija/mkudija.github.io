@@ -1,5 +1,5 @@
 ---
-aliases: [Jesus of Nazareth: The Infancy Narratives]
+aliases: [Jesus of Nazareth—The Infancy Narratives, The Infancy Narratives]
 title: Jesus of Nazareth: The Infancy Narratives
 author: Pope Benedict XVI
 category: Religion
