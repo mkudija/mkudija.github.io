@@ -3,7 +3,7 @@ aliases: [Modern Physics and Ancient Faith]
 title: Modern Physics and Ancient Faith
 author: Stephen M. Barr
 category: Religion
-publisher: University of Notre Dame Pess
+publisher: University of Notre Dame Press
 total_page: 328
 cover_url: https://books.google.com/books/content?id=A1cFDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 publish_date: 2003

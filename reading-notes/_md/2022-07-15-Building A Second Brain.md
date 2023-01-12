@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=G5BOEAAAQBAJ&printsec=front
 publish_date: 2022
 isbn10: 1982167408
 isbn13: 9781982167400
+started: 2022-07-02
+finished: 2022-07-02
 ---
 
 # [*Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential*](https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387) by [[Tiago Forte]]

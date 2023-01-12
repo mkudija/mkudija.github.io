@@ -82,13 +82,13 @@
             * *****Should this theology come from theologians or scientists/engineers?
     * THE HOMILY
         * "The homily is the touchstone for judging a pastor’s closeness and ability to communicate to his people." (135)
-        * a love of words: "Dialogue is much more than the com- munication of a truth. It arises from the en- joyment of speaking and it enriches those who express their love for one another through the medium of words." (142)
+        * a love of words: "Dialogue is much more than the communication of a truth. It arises from the enjoyment of speaking and it enriches those who express their love for one another through the medium of words." (142)
         * synthesis: "Where your synthesis is, there lies your heart." (143)
     * PREPARING TO PREACH
         * we must let the Word permeate our lives: "He needs to approach the word with a docile and prayerful heart so that it may deeply penetrate his thoughts and feelings and bring about a new outlook in him”." (149)
         * don't respond to questions that nobody asks (155)
     * EVANGELIZATION AND THE DEEPER UNDERSTANDING OF THE KERYGMA
-        * truth, goodness, and beauty: "Every expression of true beauty can thus be ac- knowledged as a path leading to an encounter with the Lord Jesus. This has nothing to do with fostering an aesthetic relativism which would downplay the inseparable bond between truth, goodness and beauty, but rather a renewed esteem for beauty as a means of touching the human heart and enabling the truth and goodness of the Risen Christ to radiate within it." (167)
+        * truth, goodness, and beauty: "Every expression of true beauty can thus be acknowledged as a path leading to an encounter with the Lord Jesus. This has nothing to do with fostering an aesthetic relativism which would downplay the inseparable bond between truth, goodness and beauty, but rather a renewed esteem for beauty as a means of touching the human heart and enabling the truth and goodness of the Risen Christ to radiate within it." (167)
         * accompaniment (169)
         * we need to listen (171)
         * Scripture is the basis of evangelization, so we must be continually instructed in Scripture (171)
@@ -97,16 +97,16 @@
     * COMMUNAL AND SOCIETAL REPERCUSSIONS OF THE KERYGMA
         * definition of evangelization: "To evangelize is to make the kingdom of God present in our world." (176)
         * must accept the guidance of the creativity of the Holy Spirit (end of 178)
-        * religion can't be private: "It is no longer possible to claim that religion should be restricted to the private sphere and that it exists only to prepare souls for heaven. We know that God wants his children to be happy in this world too, even though they are called to fulfilment in eternity, for he has created all things “for our enjoyment” (1 Tim 6:17)" (182)
+        * religion can't be private: "It is no longer possible to claim that religion should be restricted to the private sphere and that it exists only to prepare souls for heaven. We know that God wants his children to be happy in this world too, even though they are called to fulfillment in eternity, for he has created all things “for our enjoyment” (1 Tim 6:17)" (182)
         * authentic faith: "An authentic faith – which is never comfortable or completely personal – always involves a deep desire to change the world, to transmit values, to leave this earth somehow better that we found it." (183)
         * the Pope doesn't have a monopoly on solutions to social problems (184)
         * the two biggest problems: "In what follows I intend to concentrate on two great issues which strike me as fundamental at this time in history...I believe that they will shape the future of humanity. These issues are first, the inclusion of the poor in society, and second, peace and social dialogue." (185)
     * THE INCLUSION OF THE POOR IN SOCIETY
         * solidarity affects our relationship with God: "A lack of solidarity towards his or her needs will directly affect our relationship with God" (187)
-        * our work: "In this context we can understand Jesus’ com- mand to his disciples: “You yourselves give them something to eat!” (Mk 6:37): it means working to eliminate the structural causes of poverty and to promote the integral development of the poor, as well as small daily acts of solidarity in meeting the real needs which we encounter." (188)
+        * our work: "In this context we can understand Jesus’ command to his disciples: “You yourselves give them something to eat!” (Mk 6:37): it means working to eliminate the structural causes of poverty and to promote the integral development of the poor, as well as small daily acts of solidarity in meeting the real needs which we encounter." (188)
         * private property and justice: "The private ownership of goods is justified by the need to protect and increase them, so that they can better serve the common good; for this reason, solidarity must be lived as the decision to restore to the poor what belongs to them." (189)
         * the rich: "“the more fortunate should renounce some of their rights so as to place their goods more generously at the service of others”" (190)
-        * a poor Church: "This is why I want a Church which is poor and for the poor. They have much to teach us. Not only do they share in the sensus fidei, but in their difficul- ties they know the suffering Christ. We need to let ourselves be evangelized by them." (198)
+        * a poor Church: "This is why I want a Church which is poor and for the poor. They have much to teach us. Not only do they share in the *sensus fidei*, but in their difficulties they know the suffering Christ. We need to let ourselves be evangelized by them." (198)
         * "True love is always contemplative." (199)
         * the preferential option for the poor includes religious care of the Church (200)
         * need to reject autonomy of financial markets, and "Inequality is the root of all social ills" (202)

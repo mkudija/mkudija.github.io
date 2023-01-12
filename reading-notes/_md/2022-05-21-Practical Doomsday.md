@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=6Ng7EAAAQBAJ&printsec=front
 publish_date: 2022
 isbn10: 1718502133
 isbn13: 9781718502130
+started: 2022-05-07
+finished: 2022-05-20
 latex: true
 ---
 

@@ -16,7 +16,7 @@
 <li><i>Structures: Or Why Things Don't Fall Down</i> by J. E. Gordon</li>
 <li><i>St. Maria Goretti: In Garments All Red</i> by Fr. Godfrey Poage, C.P.</li>
 <li><i>The 48 Laws of Power</i> by Robert Greene</li>
-<li><i>YOUCAT</i> by uth Catechism of the Catholic Church)</li>
+<li><i>YOUCAT</i> by (Youth Catechism of the Catholic Church)</li>
 <li><i>A Concise Guide to the Documents of Vatican II</i> by Edward P. Hahnenberg</li>
 <li><i>The Hitchhiker’s Guide to the Galaxy</i> by Douglas Adams</li>
 <li><i>The Holy Longing: The Search for a Christian Spirituality</i> by Ronald Rolheiser</li>

@@ -9,14 +9,18 @@ cover_url: https://books.google.com/books/content?id=wqfAzQEACAAJ&printsec=front
 publish_date: 2020
 isbn10: 164585048X
 isbn13: 9781645850489
-started: 2022-12-27
-finished: 
+started: [2022-12-27]
+finished: []
 ---
 # [*A Church in Crisis: Pathways Forward*](https://stpaulcenter.com/product/a-church-in-crisis-pathways-forward/) by [[Ralph Martin]]
 
 <img src="https://stpaulcenter.com/wp-content/uploads/2020/08/front-cover.jpg" width=150>
 
 `(Steubenville: Emmaus Road Publishing, 2020), 528`
+
+- add to the chapter on culpability as an example of the thinking Martin criticizes 
+	- [[2023-01-11 Article-The Sweetness of the Yoke of Christ]]
+	- note that it quotes a lot of encyclicals, but no scripture 
 
 # Notes
 

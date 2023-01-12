@@ -1,7 +1,17 @@
 ---
 aliases: [Catechism of the Catholic Church, CCC]
+title: Catechism of the Catholic Church
+author: U.S. Catholic Church
+category: Religion
+publisher: Image
+total_page: 850
+cover_url: http://books.google.com/books/content?id=GOygNkdfF7oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2003-03-04
+isbn10: 0385508190
+isbn13: 9780385508193
+started: 
+finished: 
 ---
-
 # [*Catechism of the Catholic Church*](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Emblem_of_the_Catechism_of_the_Catholic_Church.jpg" width=150>
@@ -119,41 +129,73 @@ aliases: [Catechism of the Catholic Church, CCC]
 
 
 - [Read Online (Vatican)](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
-- [Read Online (USCCB)](https://www.usccb.org/sites/default/files/flipbooks/catechism/)
+- [Read Online (USCCB)](https://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/catechism-of-the-catholic-church)
   
 
 # [PROLOGUE](https://www.vatican.va/archive/ENG0015/__P1.HTM)
 
 - [I. The life of man - to know and love God](https://www.vatican.va/archive/ENG0015/__P2.HTM)
+>1 God, infinitely perfect and blessed in himself, in a **plan of sheer goodness** freely created man to make him share in his own blessed life. For this reason, at every time and in every place, God draws close to man. He calls man to seek him, to know him, to love him with all his strength. He calls together all men, scattered and divided by sin, into the unity of his family, the Church. To accomplish this, when the fullness of time had come, God sent his Son as Redeemer and Savior. In his Son and through him, he invites men to become, in the Holy Spirit, his adopted children and thus heirs of his blessed life.
+
 - [II. Handing on the Faith: Catechesis](https://www.vatican.va/archive/ENG0015/__P3.HTM)
 - [III. The Aim and Intended Readership of the Catechism](https://www.vatican.va/archive/ENG0015/__P4.HTM)
 - [IV. Structure of this Catechism](https://www.vatican.va/archive/ENG0015/__P5.HTM)
 - [V. Practical Directions for Using this Catechism](https://www.vatican.va/archive/ENG0015/__P6.HTM)
 - [VI. Necessary Adaptations](https://www.vatican.va/archive/ENG0015/__P7.HTM)  
+From the *Roman Catechism* [[bib]] (25):
+>The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love.
+
 
 
 # PART ONE: THE PROFESSION OF FAITH
 ## [SECTION ONE "I BELIEVE" - "WE BELIEVE"](https://www.vatican.va/archive/ENG0015/__P8.HTM)
 ### CHAPTER ONE MAN'S CAPACITY FOR GOD
 - [I. The Desire for God](https://www.vatican.va/archive/ENG0015/__P9.HTM)
+	- "[[Faith]] is man's desire for God" (26)
+	- "27 The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for"
+		- "For if man exists it is because God has created him through love, and through love continues to hold him in existence." (cf. *[[Gaudium et Spes]]* [[bib]])
+	- "you have made us for yourself, and our heart is restless until it rests in you." (cf. *[[~Confessions|Confessions]]* [[bib]])
 - [II. Ways of Coming to Know God](https://www.vatican.va/archive/ENG0015/__PA.HTM)
+	- Proofs for the existence of God are like converging and convincing arguments (not scientific proofs) (31)
+	- We can approach God from the world (creation) and the human person 
+	- "The proofs of God's existence can predispose one to faith and help one to see that faith is not opposed to reason" (35)
 - [III. The Knowledge of God According to the Church](https://www.vatican.va/archive/ENG0015/__PB.HTM)
+	-  "God can be known with certainty from the created world by the natural light of human reason." (36)
+	- Pius XII warns: "Men in such matters easily persuade themselves that what they would not like to be true is false or at least doubtful." (37)
 - [IV. How Can We Speak about God?](https://www.vatican.va/archive/ENG0015/__PC.HTM)
+	- "We can name God by taking his creatures" perfections as our starting point" (41)
+	- "Our human words always fall short of the mystery of God." (42)
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PD.HTM)  
+	- "_When I am completely united to you, there will be no more sorrow or trials; entirely full of you, my life will be complete_" (45, cf. *[[~Confessions|Confessions]]*)
 
 
 ### [CHAPTER TWO GOD COMES TO MEET MAN](https://www.vatican.va/archive/ENG0015/__PE.HTM)
 #### Article 1 THE REVELATION OF GOD
+"God has fully revealed this plan by sending us his beloved Son, our Lord Jesus Christ, and the Holy Spirit." (50)
 - [I. God Reveals His "Plan of Loving Goodness"](https://www.vatican.va/archive/ENG0015/__PF.HTM)
+	- "By revealing himself God wishes to make them capable of responding to him, and of knowing him and of loving him far beyond their own natural capacity." (52)
+	- "God communicates himself to man gradually." (53)
 - [II. The Stages of Revelation](https://www.vatican.va/archive/ENG0015/__PG.HTM)
+	- "The covenant with Noah after the flood gives expression to the principle of the divine economy toward the "nations"" (56)
+	- Israel is "the root on to which the Gentiles would be grafted" (60)
 - [III. Christ Jesus -- "Mediator and Fullness of All Revelation"](https://www.vatican.va/archive/ENG0015/__PH.HTM)
+	- "Christ, the Son of God made man, is the Father's one, perfect and unsurpassable Word." (65)
+	- "no new public revelation is to be expected before the glorious manifestation of our Lord Jesus Christ"...yet "it remains for Christian faith gradually to grasp its full significance over the course of the centuries" (66)
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PI.HTM)  
 
 
 #### [Article 2 THE TRANSMISSION OF DIVINE REVELATION](https://www.vatican.va/archive/ENG0015/__PJ.HTM)
+*God "desires all men to be saved and to come to the knowledge of the truth" (74, cf. [[1 Tm-02#v4]])*
 - [I. The Apostolic Tradition](https://www.vatican.va/archive/ENG0015/__PK.HTM)
+	- The Gospel is handed on two ways: *orally*, and *in writing* (76)
+	- Tradition is the "living transmission, accomplished in the Holy Spirit" (78)
 - [II. The Relationship Between Tradition and Sacred Scripture](https://www.vatican.va/archive/ENG0015/__PL.HTM)
+	- "Both Scripture and Tradition must be accepted and honored with equal sentiments of devotion and reverence." (82, cf. *[[2022-12-03-Dei Verbum|DV]]*)
+	- The church came before the scriptures! "the New Testament itself demonstrates the process of living Tradition" (83)
 - [III. The Interpretation of the Heritage of Faith](https://www.vatican.va/archive/ENG0015/__PM.HTM)
+	- "The apostles entrusted the "Sacred deposit" of the faith (the *depositum fidei*) contained in Sacred Scripture and Tradition, to the whole of the Church." (84)
+	- "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone." (85)
+	- [ ] ==keep going==
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PN.HTM)  
 
 

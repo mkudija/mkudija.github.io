@@ -1,4 +1,17 @@
-
+---
+aliases: [In Defense of Food]
+title: In Defense of Food
+author: Michael Pollan
+category: Health & Fitness
+publisher: Penguin
+total_page: 258
+cover_url: http://books.google.com/books/content?id=K9ea3Ebv7LkC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2008-01-01
+isbn10: 1101147385
+isbn13: 9781101147382
+started: 2022-04-23
+finished: 2022-04-24
+---
 # [*In Defense of Food: An Eater's Manifesto*](https://www.penguinrandomhouse.com/books/301692/in-defense-of-food-by-michael-pollan/) by [[Michael Pollan]]
 
 <img src="https://images4.penguinrandomhouse.com/cover/9780143114963" width=150>

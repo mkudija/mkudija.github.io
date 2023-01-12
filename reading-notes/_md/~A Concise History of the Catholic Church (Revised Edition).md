@@ -9,7 +9,7 @@ cover_url: http://books.google.com/books/content?id=DISK1e7JXA8C&printsec=frontc
 publish_date: 2007-12-18
 isbn10: 0307423484
 isbn13: 9780307423481
-started: 2022-11-04
+started: 
 finished: 
 ---
 # *[A Concise History of the Catholic Church (Revised Edition)](https://www.penguinrandomhouse.com/books/15597/a-concise-history-of-the-catholic-church-revised-edition-by-thomas-bokenkotter/)* by [[Thomas Bokenkotter]]

@@ -9,10 +9,10 @@ cover_url: http://books.google.com/books/content?id=OnTWAAAAMAAJ&printsec=frontc
 publish_date: 1965
 isbn10: 
 isbn13: 
-started: 
-finished: 
+started: 2022-11-21
+finished: 2022-12-03
 ---
-# *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* by [[Pope Paul VI.]]
+# *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* by [[Pope Paul VI]]
 *Dogmatic Constitution on Divine Revelation*
 
 <img src="http://books.google.com/books/content?id=OnTWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>

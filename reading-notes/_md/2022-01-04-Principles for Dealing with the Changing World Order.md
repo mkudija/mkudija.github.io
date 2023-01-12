@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=AifhDwAAQBAJ&printsec=frontc
 publish_date: 2021-11-30
 isbn10: 1982164794
 isbn13: 9781982164799
-started: 
-finished: 
+started: 2022-01-03
+finished: 2022-01-17
 ---
 # [*Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail*](https://www.simonandschuster.com/books/Principles-for-Dealing-with-the-Changing-World-Order/Ray-Dalio/9781982160272) by [[Ray Dalio]]
 

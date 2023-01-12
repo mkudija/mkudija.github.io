@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=mdJVzgEACAAJ&printsec=front
 publish_date: 2021
 isbn10: 1644134675
 isbn13: 9781644134672
+started: 2022-10-05
+finished: 2022-10-07
 ---
 # *[Diary of an American Exorcist](https://www.sophiainstitute.com/products/item/diary-of-an-american-exorcist)* by [[Fr. Stephen Rossetti]]
 

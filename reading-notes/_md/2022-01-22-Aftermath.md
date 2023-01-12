@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=rEGfDwAAQBAJ&printsec=front
 publish_date: 2019
 isbn10: 0735216959
 isbn13: 9780735216952
+started: 2022-01-22
+finished: 2022-01-23
 ---
 # [*Aftermath: Seven Secrets of Wealth Preservation in the Coming Chaos*](https://www.penguinrandomhouse.com/books/554830/aftermath-by-james-rickards/) by [[James Rickards]]
 

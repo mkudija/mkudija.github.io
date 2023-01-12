@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=pGYNCgAAQBAJ&printsec=front
 publish_date: 2017
 isbn10: 147673545X
 isbn13: 9781476735450
+started: 2022-05-13
+finished: 2022-05-22
 ---
 # [*Raven Rock: The Story of the U.S. Government's Secret Plan to Save Itself—While the Rest of Us Die*](https://www.simonandschuster.com/books/Raven-Rock/Garrett-M-Graff/9781476735429) by [[Garrett M. Graff]]
 

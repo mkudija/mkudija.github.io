@@ -12,6 +12,7 @@ aliases: [The Divine Comedy]
 # *[[2021-11-26-Purgatorio|Purgatorio]]*
 
 # *[[2022-02-16-Paradiso|Paradiso]]*
+
 --- 
 **Resources**
 

@@ -1,4 +1,17 @@
-
+---
+aliases: [Orthodoxy]
+title: Orthodoxy
+author: Gilbert Keith Chesterton
+category: (n)AAE-2329
+publisher: 
+total_page: 308
+cover_url: http://books.google.com/books/content?id=X0awV1-QwogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 1908
+isbn10: 
+isbn13: 
+started: 2022-04-20
+finished: 2022-04-30
+---
 # *[Orthodoxy](https://ignatius.com/the-collected-works-of-g-k-chesterton-vol-1-81p/)* by [[G.K. Chesterton]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/1280x1280/products/1007/1233/81P_r__64705.1617023586.jpg?c=1" width=150>

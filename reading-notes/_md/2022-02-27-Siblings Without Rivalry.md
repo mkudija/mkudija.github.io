@@ -1,4 +1,17 @@
-
+---
+aliases: [Siblings Without Rivalry: How to Help Your Children Live Together So You Can Live Too]
+title: Siblings Without Rivalry
+author: Adele Faber, Elaine Mazlish
+category: Family & Relationships
+publisher: W. W. Norton & Company
+total_page: 256
+cover_url: http://books.google.com/books/content?id=gD0uZSYi54AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2012-04-09
+isbn10: 039334326X
+isbn13: 9780393343267
+started: 2022-02-21
+finished: 2022-02-26
+---
 # [*Siblings Without Rivalry: How to Help Your Children Live Together So You Can Live Too*](https://wwnorton.com/books/9780393342215) by Adele Faber & Elaine Mazlish
 
 <img src="https://cdn2.wwnorton.com/wwnproducts/TRADE/5/1/9780393342215/9780393342215_300.jpeg" width=150>
@@ -67,7 +80,7 @@
 	- Allow time for rebuttal
 	- Invite everyone to suggest as many solutions as possible
 	- Decide on the solutions you can live with
-- How t ogive support to the child who asks for it without taking sides:
+- How to give support to the child who asks for it without taking sides:
 	- State each child's side
 	- State the value or rule
 	- Leave the doorway open for the possibility of negotiation

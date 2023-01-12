@@ -10,7 +10,7 @@ publish_date: 2002-01-08
 isbn10: 0385496982
 isbn13: 9780385496988
 ---
-*[[~The Divine Comedy]]*
+*[[~The Divine Comedy|The Divine Comedy]]*
 
 # [*The Inferno*](https://www.penguinrandomhouse.com/books/225152/the-inferno-by-dante-alighieri-a-verse-translation-by-robert-hollander-and-jean-hollander/) by [[Dante Alighieri]]
 *translated by Robert & Jean Hollander*

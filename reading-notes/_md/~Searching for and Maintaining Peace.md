@@ -26,7 +26,7 @@ isbn13: 9780818909061
 <!-- /MarkdownTOC -->
 </details>
 
-- [ ] transcribe notes 📅 2022-11-06
+- [ ] #process  notes 
 
 
 --- 

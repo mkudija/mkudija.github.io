@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=eRFSzAEACAAJ&printsec=front
 publish_date: 2018
 isbn10: 1544504357
 isbn13: 9781544504353
+started: 2022-07-23
+finished: 2022-07-26
 ---
 # *[The Only Skill that Matters](https://lioncrest.com/books/the-only-skill-that-matters-jonathan-levi/)* by [[Jonathan Levi]]
 

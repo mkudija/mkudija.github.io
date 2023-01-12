@@ -3,7 +3,7 @@ aliases: [The Office of Compline in Latin and English]
 title: The Office of Compline in Latin and English
 author: Catholic Church, Samuel F. Weber
 category: Religion
-publisher: Ignatius
+publisher: Ignatius Press
 total_page: 133
 cover_url: https://books.google.com/books/content?id=hrdFYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 publish_date: 2009

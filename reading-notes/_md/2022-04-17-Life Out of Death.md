@@ -1,4 +1,17 @@
-
+---
+aliases: [Life Out of Death]
+title: Life Out of Death
+author: Hans Urs von Balthasar
+category: Religion
+publisher: Ignatius Press
+total_page: 90
+cover_url: http://books.google.com/books/content?id=GYhHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2012-01-01
+isbn10: 1681492962
+isbn13: 9781681492964
+started: 2022-04-09
+finished: 2022-04-17
+---
 # [*Life Out Of Death: Meditations on the Paschal Mystery*](https://ignatius.com/life-out-of-death-loodp/) by [[Hans Urs von Balthasar]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1603/1803/LOODP_r__79322.1617023986.jpg?c=1" width=150>

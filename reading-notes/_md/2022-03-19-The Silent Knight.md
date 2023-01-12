@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=Sx-GzgEACAAJ&printsec=front
 publish_date: 2020
 isbn10: 1644135744
 isbn13: 9781644135747
+started: 2022-03-19
+finished: 2022-03-26
 ---
 # [*The Silent Knight: A History of St. Joseph as Depicted in Art*](https://www.sophiainstitute.com/products/item/the-silent-knight) by [[Elizabeth Lev]]
 

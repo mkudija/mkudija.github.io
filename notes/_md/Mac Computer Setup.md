@@ -7,7 +7,7 @@ publish: true
 ## Applications
 - Firefox
 	- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-	- [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
+	- [Vimium-FF](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
 	- [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
 	- [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/)
 	- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)

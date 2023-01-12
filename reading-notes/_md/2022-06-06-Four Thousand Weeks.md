@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=WFP2DwAAQBAJ&printsec=front
 publish_date: 2021
 isbn10: 0374715246
 isbn13: 9780374715243
+started: 2022-06-01
+finished: 2022-06-07
 ---
 # [*Four Thousand Weeks: Time Management for Mortals*](https://us.macmillan.com/books/9780374159122/four-thousand-weeks) by [[Oliver Burkeman]]
 

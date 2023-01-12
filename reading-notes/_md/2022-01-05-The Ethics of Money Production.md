@@ -1,4 +1,17 @@
-
+---
+aliases: [The Ethics of Money Production]
+title: The Ethics of Money Production
+author: Jorg Guido Hulsmann
+category: 
+publisher: 
+total_page: 294
+cover_url: http://books.google.com/books/content?id=4OcRtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2018-01-31
+isbn10: 1610166817
+isbn13: 9781610166812
+started: 2022-01-21
+finished: 2022-02-09
+---
 # [*The Ethics of Money Production*](https://mises.org/library/ethics-money-production) by [[Jörg Guido Hülsmann]]
 
 <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6101/9781610166812.jpg" width=150>

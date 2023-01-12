@@ -1,5 +1,5 @@
 ---
-aliases: [Word on Fire Bible, Word on Fire Bible: The Gospels]
+aliases: [Word on Fire Bible, Word on Fire Bible-The Gospels, Word on Fire Bible-Vol I]
 title: Word on Fire Bible
 author: Word on Fire
 category: Bible

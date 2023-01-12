@@ -11,13 +11,13 @@ isbn10: 0898706408
 isbn13: 9780898706406
 ---
 # *[Salt of the Earth: The Church at the End of the Millennium](https://ignatius.com/salt-of-the-earth-digital-soee/)* by [[Joseph Ratzinger]] 
-*An intervie with [[Peter Seewald]]*
+*An interview with [[Peter Seewald]]*
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/2376/2550/SOEE_r__49503.1617024476.jpg?c=1" width=150>
 
 `(San Frncisco: Ignatius Press, 1997), 181`
 
-- [ ] read *The Situation in Germany* (154) 📅 2022-12-05
+- [ ] #read *The Situation in Germany* (154)
 
 --- 
 **Topic**: 

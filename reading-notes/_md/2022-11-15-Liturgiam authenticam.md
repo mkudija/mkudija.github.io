@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=g5ijdEJLho0C&printsec=frontc
 publish_date: 2001
 isbn10: 157455428X
 isbn13: 9781574554281
-started: 2022-10-28
-finished: 
+started: 2022-11-15
+finished: 2022-11-15
 ---
 # *[Liturgiam authenticam](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20010507_liturgiam-authenticam_en.html)* by [[Congregation for Divine Worship]]
 *ON THE USE OF VERNACULAR LANGUAGES IN THE PUBLICATION OF THE BOOKS OF THE ROMAN LITURGY*

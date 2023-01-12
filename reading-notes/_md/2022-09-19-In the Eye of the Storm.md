@@ -9,6 +9,8 @@ cover_url:
 publish_date: 2020
 isbn10: 1642291838
 isbn13: 9781642291834
+started: 2022-08-01
+finished: 2022-08-01
 ---
 # *[In the Eye of the Storm: A Biography of Gregory the Great](https://ignatius.com/in-the-eye-of-the-storm-iesp/)* by [[Sigrid Grabner]]
 

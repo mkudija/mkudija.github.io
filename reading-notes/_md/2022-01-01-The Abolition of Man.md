@@ -1,4 +1,17 @@
-
+---
+aliases: [The Abolition of Man]
+title: The Abolition of Man
+author: C. S. Lewis
+category: Religion
+publisher: Harper Collins
+total_page: 128
+cover_url: http://books.google.com/books/content?id=ST87o-KSzp0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2009-06-09
+isbn10: 0061949132
+isbn13: 9780061949135
+started: 2021-12-31
+finished: 2022-01-01
+---
 # [*The Abolition of Man*](https://www.harpercollins.com/products/the-abolition-of-man-c-s-lewis) by [[C. S. Lewis]]
 *or Reflections on Education with Special Reference to the Teaching of English in the Upper Forms of Schools, or a Defense of Objective Truth and Natural Law against Moral Relativism*
 

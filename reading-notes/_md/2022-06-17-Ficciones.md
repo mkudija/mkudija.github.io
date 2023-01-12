@@ -1,4 +1,17 @@
-
+---
+aliases: [Ficciones]
+title: Ficciones
+author: Jorge Luis Borges
+category: Fiction
+publisher: Grove/Atlantic, Inc.
+total_page: 180
+cover_url: http://books.google.com/books/content?id=E1SCCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2015-05-12
+isbn10: 0802190731
+isbn13: 9780802190734
+started: 2022-05-27
+finished: 2022-06-12
+---
 # [*Ficciones*](https://groveatlantic.com/book/ficciones/) by [[Jorge Luis Borgues]]
 
 <img src="https://groveatlantic.com/core/wp-content/uploads/2017/04/ficciones-340x509.jpg" width=150>

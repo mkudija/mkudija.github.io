@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=1-YpAOF3kFsC&printsec=front
 publish_date: 2011
 isbn10: 0385524803
 isbn13: 9780385524803
+started: 2022-06-03
+finished: 2022-07-01
 ---
 # [*The End and the Beginning: Pope John Paul II—The Victory of Freedom, the Last Years, the Legacy*](https://www.amazon.com/End-Beginning-II-Victory-Freedom/dp/0385524803) by [[George Weigel]]
 

@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=mKzrCgAAQBAJ&printsec=front
 publish_date: 2016
 isbn10: 0062328263
 isbn13: 9780062328267
+started: 2022-01-26
+finished: 2022-02-06
 ---
 # [*The Mandibles: A Family, 2029-2047*](https://www.harpercollins.com/products/the-mandibles-lionel-shriver) by [[Lionel Shriver]]
 

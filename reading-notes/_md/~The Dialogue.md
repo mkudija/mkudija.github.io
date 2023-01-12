@@ -9,7 +9,7 @@ cover_url: http://books.google.com/books/content?id=bsGXhNZyUSgC&printsec=frontc
 publish_date: 1980
 isbn10: 0809122332
 isbn13: 9780809122332
-started: 2014
+started: 
 finished: 
 ---
 # [*The Dialogue*]() by [[St. Catherine of Siena]]

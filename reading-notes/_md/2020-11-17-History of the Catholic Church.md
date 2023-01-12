@@ -1,10 +1,24 @@
+---
+aliases: [History of the Catholic Church]
+title: History of the Catholic Church
+author: James Hitchcock
+category: Religion
+publisher: Ignatius Press
+total_page: 581
+cover_url: http://books.google.com/books/content?id=8nt_n7wuugAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2012-01-01
+isbn10: 1586176641
+isbn13: 9781586176648
+started: 
+finished: 
+---
 # [*The History of the Catholic Church: From the Apostolic Age to the Third Millennium*](https://www.ignatius.com/History-of-the-Catholic-Church-P1044.aspx) by [[James Hitchcock]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1090/1313/HCCH_r__85639.1617023639.jpg" width=150>
 
 `(San Francisco: Ignatius, 2012), 530`
 
-I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey sung its praises and encouraged me to read it when he was over for dinner. The history of the Church is also in large part the history of Western civilization in terms of religion, culture, politics, art, and other domains of life. Hitchcock undertakes the impossible task of condensing 2000 years of history into a manageable volume and doing so in a way that seeks the truth with the eyes of faith. He is fair in his treatment of the great sin and failings of its leaders and members but also places these—and history itself—in the context of eternity. Indeed, as he concludes: "for Christians, there can be no final understanding of history in this life" (527).
+I was grateful to inherit this book when Fr. Romano passed away, and [[Fr. Dailey]] sung its praises and encouraged me to read it when he was over for dinner. The history of the Church is also in large part the history of Western civilization in terms of religion, culture, politics, art, and other domains of life. Hitchcock undertakes the impossible task of condensing 2000 years of history into a manageable volume and doing so in a way that seeks the truth with the eyes of faith. He is fair in his treatment of the great sin and failings of its leaders and members but also places these—and history itself—in the context of eternity. Indeed, as he concludes: "for Christians, there can be no final understanding of history in this life" (527).
 
 
 
@@ -31,9 +45,9 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - At the end of the Eucharist, some of the consecrated hosts (a name for a sacrificial victim) were reserved for the sick, but some could also be given to the congregation, who took them to their homes and consumed them each day, before taking any other food or drink. (Location 782)
 - From Revelation came the symbols of the four Evangelists: the man for Matthew, who elaborated the human genealogy of Jesus; the ox for Luke, who began with Zechariah’s sacrifice in the Temple; the lion for Mark, who began with John the Baptist in the wilderness; and the soaring eagle for John, whose writings elevated readers to the Eternal Word. (Location 793)
 - levels of exegesis (pg 46)
-  - typological
-  - allegorical
-  - anagogical
+	- typological
+	- allegorical
+	- anagogical
 - The catechumenate was ordinarily a three-year period of instruction and probation, with emphasis on Scripture and the ethical teachings of Christianity, in order to judge whether the candidates were worthy of baptism. (Location 822)
 - **Origen**, whose father was a martyr, was an extreme ascetic, considered to be excessively rigorous in his moral teachings—according to legend he castrated himself because of Jesus’ admonition “If your right eye causes you to sin, pluck it out” (Mt 5:29; see Mt 18:9). (Location 844)
 - The Empire underwent a long crisis that was military and financial in nature but also moral—a loss of patriotism that made citizens unwilling to assume their traditional duties, a prosperity that rendered them indolent and hedonistic, and a series of despotic rulers who made citizenship meaningless. In the Greco-Roman world, citizenship—full participation in the life of society—was considered the highest duty. (Location 848)
@@ -315,8 +329,9 @@ I was grateful to inherit this book when Fr. Romano passed away, and Fr. Dailey 
 - The future pope’s ([[John Paul II]]) doctoral dissertation on the mystical theology of [[St. John of the Cross]] integrated the latter’s Thomism with his phenomenological descriptions of the mystical state. (Location 10904)
 - some Catholics were surprised to discover that they had more in common with Evangelicals than with liberal fellow Catholics. (Location 10959)
 - Under [[Joseph Ratzinger]], the CDF began to act vigorously to correct questionable teachings, issuing official warnings against several theologians and in some cases ordering them to cease teaching and publishing. Although theologians sometimes complained that they were condemned without being understood, they were in fact being judged by a man whose intelligence and theological attainments were superior to their own. (Location 11117)
+- Hitchcock describes [[Joseph Ratzinger|Pope Benedict XVI]] as "the greatest theologian ever to serve as Pope, following the greatest philosopher ever to do so" (521)
 - greater use of Latin as a vehicle of tradition and a unifying liturgical language; (Location 11121)
-- Significantly, he expressed belief that the priest at Mass should face **ad orientem**, as head of the congregation facing East toward God, rather than versus populum (toward the people). The ad orientem position, he believed, was more appropriate to the Mass as primarily an act of worship rather than a community celebration. (Location 11469)
+- Significantly, [[Joseph Ratzinger]] expressed belief that the priest at Mass should face **ad orientem**, as head of the congregation facing East toward God, rather than versus populum (toward the people). The ad orientem position, he believed, was more appropriate to the Mass as primarily an act of worship rather than a community celebration. (Location 11469)
 
 ---
 Created: 2019-06-17

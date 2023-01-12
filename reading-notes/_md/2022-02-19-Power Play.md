@@ -1,4 +1,17 @@
-
+---
+aliases: [Power Play]
+title: Power Play
+author: Tim Higgins
+category: Business & Economics
+publisher: Doubleday
+total_page: 401
+cover_url: http://books.google.com/books/content?id=dQEHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2021-08-03
+isbn10: 0385545460
+isbn13: 9780385545464
+started: 2022-02-09
+finished: 2022-02-19
+---
 # [*Power Play: Tesla, Elon Musk, and the Bet of the Century*](https://www.penguinrandomhouse.com/books/611077/power-play-by-tim-higgins/) by Tim Higgins
 
 <img src="https://images3.penguinrandomhouse.com/cover/9780385545457" width=150>

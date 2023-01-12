@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=lt4oEAAAQBAJ&printsec=front
 publish_date: 2021
 isbn10: 1621642682
 isbn13: 9781621642688
+started: 2022-03-28
+finished: 2022-04-09
 ---
 # [*How to Destroy Western Civilization and Other Ideas from the Cultural Abyss*](https://ignatius.com/how-to-destroy-western-civilization-and-other-ideas-from-the-cultural-abyss-hdwcp/) by [[Peter Kreeft]]
 
@@ -27,7 +29,7 @@ _**Summary**: Forty foundational facts of common sense._
 - *[[2017-01-03-The City of God|The City of God]]* is "the world's first, greatest, an most Christian philosophy of history"(12)
 - [[Aleksandr Solzhenitsyn]]'s [1983 Templeton Prize Address](https://www.nationalreview.com/2018/12/aleksandr-solzhenitsyn-men-have-forgotten-god-speech/): "Men have forgotten God; that’s why all this has happened." (14, 84)
 - "If every Catholic in America practiced [[Eucharistic Adoration]] fifteen minutes every day, we would see the greatest religious revival in human history." (15)
-- "*[[~Hamlet|Hamlet]]* is right: there are more thing in heaven and earth than are dreamed of in our philosophy" (16)
+- "*[[2022-12-17-Hamlet|Hamlet]]* is right: there are more thing in heaven and earth than are dreamed of in our philosophy" (16)
 - "Our totalitarianism is not hard but soft; not *[[~1984|1984]]* but *[[~Brave New World|Brave New World]]*", cf. *[[2021-10-30-Live Not By Lies#Part 1 Understanding Soft Totalitarianism|Live Not By Lies]]* (19)
 - "A few saints can change the world. [[History]] is made, not by those who try to make history, but by those who humbly but obstinately obey God's will no matter what and let the chips fall where they may." (19-20)
 - [[C. S. Lewis]]'s *[[~The Weight of Glory|The Weight of Glory]]*: "There are no *ordinary* people. You have never met a mere mortal...But it is immortals whom we joke with, work with, marry, snub, and exploit—immortal horrors or everlasting splendors." (20)

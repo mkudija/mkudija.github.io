@@ -866,7 +866,7 @@ Just for fun, the chart below shows my progress in 2022. I started listening to 
 - [[Is-08#v17]]: I will wait for the Lord and hope in him
 - [[Tb-07#v12]] on [[Marriage]]: Take her and bring her safely to your father.
 - It didn't happen to me as I expected: ![[Tb-08#v16]]
-- [ ] JP2: the whole battle between good and evil takes place between husband and wife…QUOTE? re-listen to this to find quote 📅 2022-09-19
+- JP2: the whole battle between good and evil takes place between husband and wife…QUOTE? 
 
 **Day 196**: [[2022-09-18-Sun]] - [[]]
 - [[Tb-12#v7]]: Raphael: "Do good, and evil will not overtake you."
@@ -1524,7 +1524,7 @@ Just for fun, the chart below shows my progress in 2022. I started listening to 
 - [[2 Cor-03#v18]]: "And we all, with unveiled face, beholding the glory of the Lord, are being changed into his likeness from one degree of glory to another"
 - [[2 Cor-05#v21]]: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." (cf. [[Ps-51–LOTH]])
 - [[2 Cor-04#v17]] "For this slight momentary affliction is preparing for us an eternal weight of glory beyond all comparison"
-	- [ ] #read [[C. S. Lewis]]: *[The Weight of Glory (essay)](https://www.wheelersburg.net/Downloads/Lewis%20Glory.pdf)* 📅 2022-12-14
+	- [ ] #read [[C. S. Lewis]]: *[The Weight of Glory (essay)](https://www.wheelersburg.net/Downloads/Lewis%20Glory.pdf)*
 - [[Prv-28#v27]]: "He who gives to the poor will not want, but he who hides his eyes will get many a curse."
 
 **Day 342**: [[2022-12-14-Wed]] - [[]]

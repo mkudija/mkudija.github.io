@@ -111,7 +111,7 @@ Sasse's 60-book shelf includes:
 	- *Elements of Geometry* by Euclid
 - American Fiction
 	- *Huckleberry Finn* by Mark Twain
-	- *[[2020-01-10-Death Comes for the Archbishop|Death Comes for the Archbishop]]* and *O, Pioneers!* by Willa Cather
+	- *[[2020-01-10-Death Comes for the Archbishop|Death Comes for the Archbishop]]* and *[[~O Pioneers!|O Pioneers!]]* by Willa Cather
 	- *Grapes of Wrath* by John Steinbeck
 	- *Go Tell It on the Mountain* by James Baldwin
 	- *Invisible Man* by Ralph Ellison

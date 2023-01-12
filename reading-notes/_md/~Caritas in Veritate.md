@@ -1,12 +1,23 @@
 ---
 aliases: [Caritas in Veritate, Charity in Truth]
+title: Charity in Truth: Caritas in Veritate: Encyclical Letter
+author: Pope Benedict XVI
+category: Religion
+publisher: USCCB
+total_page: 93
+cover_url: http://books.google.com/books/content?id=1g9PPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2009-07-01
+isbn10: 1601370490
+isbn13: 9781601370495
+started: 
+finished: 
 ---
-
 # [*Caritas in Veritate (Charity in Truth)*]() by [[Joseph Ratzinger|Pope Benedict XVI]]
 
-<img src="" width=150>
+<img src="http://books.google.com/books/content?id=1g9PPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(City: Publisher, YYYY), PPP`
+`(New York: USCCB, 2009-07-01), 93`
+
 
 # Notes
 
@@ -24,6 +35,7 @@ aliases: [Caritas in Veritate, Charity in Truth]
 
 **Source**: 
 - [[St. Pat's KoC Book Sale]] 2022
+- Generations, [[2023-01-02-Mon]]
 
 **Bibliography**
 

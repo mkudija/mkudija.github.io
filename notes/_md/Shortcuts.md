@@ -71,7 +71,17 @@ publish: true
 - `shift + u` - mark as unread
 - `u` - return to inbox
 - `b` - snooze
+- `g + n` and `g + p` - to go to next/previous page 
+- `/` - search mail
 
 
 ## Terminal
 - `ls -l` - list files with permissions (i.e. `chmod +x`)
+
+
+## Vimium 
+[Vimium-FF – Shortcuts](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
+- `gs` - open source 
+- `yy` - copy url to clipboard 
+- `d` and `u` - scroll up/down half page 
+- 

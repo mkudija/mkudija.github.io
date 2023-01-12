@@ -9,8 +9,10 @@ cover_url: http://books.google.com/books/content?id=mr3CosfwSaEC&printsec=frontc
 publish_date: 2004-01-06
 isbn10: 0385497008
 isbn13: 9780385497008
+started: 2021-11-25
+finished: 2022-02-13
 ---
-*[[~The Divine Comedy]]*
+*[[~The Divine Comedy|The Divine Comedy]]*
 
 # [*Purgatorio*](https://www.penguinrandomhouse.com/books/222333/purgatorio-by-dante-alighieri-a-verse-translation-by-jean-hollander-and-robert-hollander/) by [[Dante Alighieri]]
 *translated by Robert & Jean Hollander*

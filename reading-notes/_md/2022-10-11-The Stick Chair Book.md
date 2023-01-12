@@ -9,6 +9,8 @@ cover_url:
 publish_date: 2021
 isbn10: 1954697031
 isbn13: 9781954697034
+started: 2022-07-08
+finished: 2022-09-18
 ---
 # [*The Stick Chair Book*](https://lostartpress.com/products/the-stick-chair-book) by [[Christopher Schwarz]]
 

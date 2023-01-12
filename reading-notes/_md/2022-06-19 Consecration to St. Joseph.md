@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=dpymzgEACAAJ&printsec=front
 publish_date: 2021
 isbn10: 1596145544
 isbn13: 9781596145542
+started: 2022-05-18
+finished: 2022-06-19
 ---
 # [*Consecration to St. Joseph*](https://shopmercy.org/consecration-to-st-joseph-the-wonders-of-our-spiritual-father-commemorative-edition.html) by [[Fr. Donald Calloway]]
 
@@ -16,7 +18,10 @@ isbn13: 9781596145542
 
 `(Stockbridge, MA: Marian Press, 2019/2021), 370`
 
+- [ ] #process notes ⏫
+
 # Notes
+
 
 <details>
  <summary><i>Contents</i></summary>

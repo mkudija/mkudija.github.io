@@ -3,7 +3,7 @@ aliases: [The Story of a Soul]
 title: The Story of a Soul
 author: St. Therese of Lisieux, Saint Thérèse (de Lisieux)
 category: Biography & Autobiography
-publisher: Tan Books & Pub
+publisher: Tan Books
 total_page: 244
 cover_url: http://books.google.com/books/content?id=xJYvCRtu7XMC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 publish_date: 1997

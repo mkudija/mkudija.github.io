@@ -1,5 +1,18 @@
-
-# [*The Periodic Table*](https://www.penguinrandomhouse.com/books/576336/the-periodic-table-by-primo-levi/) by Primo Levi
+---
+aliases: [The Periodic Table]
+title: The Periodic Table
+author: Primo Levi
+category: Authors, Italian
+publisher: 
+total_page: 194
+cover_url: http://books.google.com/books/content?id=5H_0RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 1975
+isbn10: 0141399449
+isbn13: 9780141399447
+started: 2022-02-12
+finished: 2022-02-20
+---
+# [*The Periodic Table*](https://www.penguinrandomhouse.com/books/576336/the-periodic-table-by-primo-levi/) by [[Primo Levi]]
 
 <img src="https://images1.penguinrandomhouse.com/cover/9780805210415" width=150>
 

@@ -1,4 +1,17 @@
-
+---
+aliases: [The Shadow of the Wind]
+title: The Shadow of the Wind
+author: Carlos Ruiz Zafon
+category: Fiction
+publisher: Text Publishing
+total_page: 545
+cover_url: http://books.google.com/books/content?id=hn2Vx9cpzREC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2006-07-03
+isbn10: 1920885854
+isbn13: 9781920885854
+started: 2022-01-01
+finished: 2022-01-13
+---
 # [*The Shadow of the Wind*](https://www.orionbooks.co.uk/titles/carlos-ruiz-zafon/the-shadow-of-the-wind/9780297857136/) by [[Carlos Ruiz Zafón]]
 
 <img src="https://www.orionbooks.co.uk/wp-content/uploads/2018/07/hbg-title-9780297857136-63.jpg?fit=440%2C675" width=150>

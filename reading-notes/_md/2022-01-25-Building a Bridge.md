@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=hKxLDwAAQBAJ&printsec=front
 publish_date: 2018
 isbn10: 006287344X
 isbn13: 9780062873446
+started: 2022-01-17
+finished: 2022-01-25
 ---
 # [*Building a Bridge: How the Catholic Church and the LGBT Community Can Enter into a Relationship of Respect, Compassion, and Sensitivity*](https://www.harpercollins.com/products/building-a-bridge-james-martin?variant=32117748236322) by [[Fr. James Martin, SJ]]
 

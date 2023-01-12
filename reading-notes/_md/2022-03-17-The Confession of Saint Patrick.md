@@ -1,4 +1,17 @@
-
+---
+aliases: [The Confession of St. Patrick]
+title: The Confession of St. Patrick
+author: Saint Patrick
+category: 
+publisher: CreateSpace
+total_page: 30
+cover_url: http://books.google.com/books/content?id=jDQWswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+publish_date: 2015-08-17
+isbn10: 1516942205
+isbn13: 9781516942206
+started: 2022-03-14
+finished: 2022-03-17
+---
 # [*The Confession of Saint Patrick*](https://www.alibris.com/The-Confession-of-Saint-Patrick-A-Triumph-Classic-Patrick/book/1279335) by [[St. Patrick]], edited by D.R. Howlett
 
 <img src="https://www1.alibris-static.com/the-confession-of-saint-patrick-a-triumph-classic/isbn/9780892438815_l.jpg" width=150>

@@ -1,4 +1,17 @@
-
+---
+aliases: [The Omnivore's Dilemma]
+title: The Omnivore's Dilemma
+author: Michael Pollan
+category: Health & Fitness
+publisher: Penguin
+total_page: 482
+cover_url: http://books.google.com/books/content?id=DjTWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2007-08-28
+isbn10: 0143038583
+isbn13: 9780143038580
+started: 2022-05-09
+finished: 2022-05-13
+---
 # [*The Omnivore's Dilemma: The Secrets Behind what You Eat*](https://www.penguinrandomhouse.com/books/292953/the-omnivores-dilemma-by-michael-pollan/) by [[Michael Pollan]]
 
 <img src="https://images3.penguinrandomhouse.com/cover/9780143038580" width=150>
