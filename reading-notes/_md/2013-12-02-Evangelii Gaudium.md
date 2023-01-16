@@ -1,5 +1,22 @@
+---
+aliases: [Evangelii Gaudium, The Joy of the Gospel]
+title: The Joy of the Gospel
+author: Pope Francis
+category: Religion
+publisher: Image
+total_page: 224
+cover_url: http://books.google.com/books/content?id=ob3CAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2014-10-07
+isbn10: 0553419544
+isbn13: 9780553419542
+started: []
+finished: []
+---
+# [Evangelii Gaudium: The Joy of the Gospel](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) by [[Pope Francis]]
 
-# Evangelii Gaudium by Pope Francis
+<img src="http://books.google.com/books/content?id=ob3CAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Image, 2014-10-07), 224`
 
 * Introduction
     * "The great danger in today’s world, pervaded as it is by consumerism, is the desolation and anguish born of a complacent yet covetous heart, the feverish pursuit of frivolous pleasures, and a blunted conscience." (2)
@@ -156,3 +173,23 @@
         * On science/technology (132, 133, 243)
         * The need for the Holy Spirit
 
+--- 
+**Topic**: [[Apostolic Exhortation]]
+
+**Source**: 
+- 
+
+**Bibliography**
+
+```query
+[[bib]] file:(2013-12-02-Evangelii Gaudium)
+```
+ 
+
+**[[New Words]]**
+
+- 
+
+---
+Created: [[2021-03-09-Tue]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

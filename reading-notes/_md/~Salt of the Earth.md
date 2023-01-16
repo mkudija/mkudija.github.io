@@ -17,7 +17,7 @@ isbn13: 9780898706406
 
 `(San Frncisco: Ignatius Press, 1997), 181`
 
-- [ ] #read *The Situation in Germany* (154)
+- [ ] #read*The Situation in [[German Catholic Church|Germany]]* (154)
 
 --- 
 **Topic**: 

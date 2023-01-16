@@ -18,6 +18,17 @@ finished: 2022-12-20
 
 `(Steubenville: Emmaus Road Publishing, 2005), 473`
 
+<div class="note"> 
+<p><strong>Five things to keep in mind</strong> <em>(remember "<strong>1 rat wing nut gold</strong>"):</em></p> 
+	<ol>
+		<li><strong>Firstfruits</strong>: Give God our firstfruits, especially the firstfruits of our time </li>
+		<li><strong>Resolve</strong>: Resolve to never offend God</li>
+		<li><strong>Will</strong>: Focus on God's will: <em>fiat voluntas tua</em></li>
+		<li><strong>Neighbors</strong>: We are sanctified especially through our neighbors (family)</li>
+		<li><strong>Grace</strong>: The primacy of Grace, and we must only ask</li>
+	</ol>
+</div> 
+
 I read this over the second half of 2022 and it has helped and coincided with a deeper turn toward prayer and away from sin. [[Fr. Mike Schmitz]] said that he has listened to it six or seven times, because it reminds him of the point of everything and how the spiritual life is a lifelong journey.[^mike] 
 
 [^mike]: In an interview with [[Bishop Barron]]: [link](https://youtu.be/T4mcgqnspKw?t=690)
@@ -70,12 +81,6 @@ Bernard says it well:
 
 [^bmercy]: (304, cf. *[[~On the Song of Songs|On the Song of Songs]]*, vol III by [[St. Bernard of Clairvaux|Bernard of Clairvaux]])
 
-In summary: 
-1. Focus on God's will: *fiat voluntas tua*
-2. Resolve to never offend God
-3. Give God our firstfruits, especially the firstfruits of our time 
-4. We are sanctified especially through our neighbors (family)
-5. The primacy of Grace, and we must only ask
 
 
 # Notes

@@ -1,4 +1,17 @@
-
+---
+aliases: [Christianity and Culture]
+title: Christianity and Culture
+author: C. S. Lewis
+category: Religion
+publisher: 
+total_page: 
+cover_url: 
+publish_date: 1940
+isbn10: 
+isbn13: 
+started: [2022-02-01]
+finished: [2022-02-03]
+---
 # [*Christianity and Culture*](https://journals.sagepub.com/doi/10.1177/0040571X4004023702) by [[C. S. Lewis]]
 
 Lewis, C. S. (1940). Christianity and Culture. *Theology*, 40(237), 166–179. [https://doi.org/10.1177/0040571X4004023702](https://doi.org/10.1177/0040571X4004023702)

@@ -10,7 +10,7 @@ publish_date: 1950
 isbn10: 
 isbn13:
 started: 2022-07-21
-finished: 2022-07-21
+finished: 2022-07-23
 ---
 # *[Hornblower During the Crisis](https://www.littlebrown.com/titles/c-s-forester/hornblower-during-the-crisis/9780316289443/)* by [[Cecil S. Forester]]
 

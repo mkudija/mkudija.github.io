@@ -156,7 +156,6 @@ _**Summary**: Ratzinger is shocked to be appointed Archbishop of Munich and Frei
 
 
 ## Chapter 9: Pope (2005 to the present)
-_**Summary**: _
 
 >For again, as always in his life, it was someone else who led him where he really did not want to go. When Benedict XVI celebrated his first Mass as pope on the morning of April 20, 2005, he remembered his beloved predecessor once again. After the cardinals had elected him, he said, "I seemed to see his smiling eyes and hear his words, at this moment addressed specifically to me, '**Do not be afraid**.'" A strong hand was clasping his and was now driving him on to complete what John Paul Il began: a Church that, according to Christ's teaching and example, "looks serenely at the past and is not afraid of the future".
 >

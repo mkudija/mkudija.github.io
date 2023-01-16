@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+
+<html lang="en">
+<head>
+<title>Matthew Kudija | Notes</title>
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico"/>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="https://matthewkudija.com/" class="logo">Matthew Kudija</a>
+<div class="header-right">
+<a href="https://matthewkudija.com/">Home</a>
+<a href="https://matthewkudija.com/about">About</a>
+<a href="https://matthewkudija.com/notes/">Notes</a>
+<a href="https://matthewkudija.com/reading-notes/">Reading Notes</a>
+</div>
+</header>
+
+<!-- Content -->
+
+<h2 id="the-fractal-summary-method-how-to-digest-great-bookshttpsjohnathanbicomwritingfractal-summary-method-by-a-hrefjohnathan-bihtmljohnathan-bia"><a href="https://johnathanbi.com/writing/fractal-summary-method">The Fractal-Summary Method: How to Digest Great Books</a> by <a href="Johnathan-Bi.html">Johnathan Bi</a></h2>
+
+<p>Many great books are so packed with insight and nuance that synthesis of the text must come long before finishing the work. The <strong>Fractal-Summary Method</strong> of digesting great books applies a basic process of <em>Context → Text → Synthesis</em> to the various units of the work.</p>
+
+<pre><code>graph LR
+Context --&gt; Text
+Text --&gt; Synthesis
+</code></pre>
+
+<ol>
+<li><strong>Context:</strong> Before reading the text build your awareness of the author's perspective and argument. I do this primarily through two means:
+<ul>
+<li>Personal conversations </li>
+<li>If I come across some context for a work I plan to study in the future, I note the context with a link to the work (creating it if it does not yet exist), allowing me to follow the backlinks for a work as a means of building context when I am ready to study it.</li>
+</ul></li>
+<li><strong>Text:</strong> Actively engage with the text itself</li>
+<li><strong>Synthesis:</strong> Immediately after reading the text, synthesize the argument and main points into your notes, forcing you to be actively engaged and giving you a document to quickly review</li>
+</ol>
+
+<p>Actively engaging with the text and synthesizing while you read (rather than at the end of the work) is an alternating process.</p>
+
+<pre><code>graph LR
+Context --&gt; Text
+Text --&gt; Synthesis
+Synthesis --&gt; Text
+</code></pre>
+
+<p>This process is then applied to the various units of the work, terminating at the smallest unit you choose based on the structure and complexity of the work and the time you plan to invest. For a complex or difficult work this may even be at the sentence level.</p>
+
+<pre><code>flowchart LR
+id1(Context)
+id2(Text)
+id3(Synthesis)
+id4(Context)
+id5(Text)
+id6(Synthesis)
+id7(Context)
+id8(Text)
+id9(Synthesis)
+
+    subgraph Paragraph
+        direction TB
+        id1 --&gt; id2
+        id2 --&gt; id3
+        id3 --&gt; id2
+        end
+    subgraph Chapter
+        direction TB
+        id4 --&gt; id5
+        id5 --&gt; id6
+        id6 --&gt; id5
+        end
+    subgraph Book
+        direction TB
+        id7 --&gt; id8
+        id8 --&gt; id9
+        id9 --&gt; id8
+        end
+    Book --&gt; Chapter --&gt; Paragraph
+</code></pre>
+
+<hr />
+
+<p>Created: <a href="../reading-notes/2023-01-16-Mon.html">2023-01-16-Mon</a><br />
+Updated: 2023-01-16-Mon</p>
+
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<!-- Script: Latex -->
+<!-- Script: Mermaid (Included) --> <script type="module" defer> import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.esm.min.mjs'; mermaid. Initialize({ securityLevel: 'loose', startOnLoad: true }); let observer = new MutationObserver(mutations => { for(let mutation of mutations) { mutation.target.style.visibility = "visible"; } }); document.querySelectorAll("pre.mermaid-pre div.mermaid").forEach(item => { observer.observe(item, {  attributes: true,  attributeFilter: ['data-processed'] }); }); </script>
+<script src="../assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+</body>
+<hr>
+<footer id="footer" align="center">
+<center>
+<img src="../images/kudija_family_shield.png" width=100px>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</footer>
+</html>
