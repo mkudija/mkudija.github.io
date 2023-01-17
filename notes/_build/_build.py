@@ -135,7 +135,7 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
         mdString = '---'.join(mdStringSplit[2:])
 
 
-    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','templateArticleer-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
+    body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','header-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks', 'mermaid']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
     body = [body]
 
     template[template.index('#BODY#')] = body

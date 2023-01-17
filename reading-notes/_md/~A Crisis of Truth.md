@@ -23,7 +23,7 @@ finished: []
 **Topic**: 
 
 **Source**
-- *[[~A Church In Crisis|A Church in Crisis]]*
+- *[[2023-01-15-A Church In Crisis|A Church in Crisis]]*
 
 
 **Bibliography**

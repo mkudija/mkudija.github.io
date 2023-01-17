@@ -10,7 +10,7 @@ publish_date: 2019
 isbn10: 1621643247
 isbn13: 9781621643241
 ---
-# *[The Day is Now Far Spent](https://ignatius.com/the-day-is-now-far-spent-dnfsp/)* by [[Robert Cardinal Sarah, Nicholas Diat]]
+# *[The Day is Now Far Spent](https://ignatius.com/the-day-is-now-far-spent-dnfsp/)* by [[Robert Cardinal Sarah]], [[Nicholas Diat]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/2941/3090/DNFSP_r__24302.1617024852.jpg?c=1" width=150>
 
@@ -41,7 +41,7 @@ _**Summary**: _
 
 ## Chapter 3: The Crisis of the Church
 _**Summary**: _
-*cf [[~A Church In Crisis|A Church in Crisis]]* 
+*cf [[2023-01-15-A Church In Crisis|A Church in Crisis]]* 
 
 
 ## Chapter 4: Acedia and the Identity Crisis

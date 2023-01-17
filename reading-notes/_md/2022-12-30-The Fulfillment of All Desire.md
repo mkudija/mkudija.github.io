@@ -19,13 +19,13 @@ finished: 2022-12-20
 `(Steubenville: Emmaus Road Publishing, 2005), 473`
 
 <div class="note"> 
-<p><strong>Five things to keep in mind</strong> <em>(remember "<strong>1 rat wing nut gold</strong>"):</em></p> 
+<p><strong>Five things to keep in mind</strong> <em>(remember "<strong>1NOWA</strong>"):</em></p> 
 	<ol>
 		<li><strong>Firstfruits</strong>: Give God our firstfruits, especially the firstfruits of our time </li>
-		<li><strong>Resolve</strong>: Resolve to never offend God</li>
-		<li><strong>Will</strong>: Focus on God's will: <em>fiat voluntas tua</em></li>
 		<li><strong>Neighbors</strong>: We are sanctified especially through our neighbors (family)</li>
-		<li><strong>Grace</strong>: The primacy of Grace, and we must only ask</li>
+		<li><strong>Offend</strong>: Resolve to never offend God</li>
+		<li><strong>Will</strong>: Focus on God's will: <em>fiat voluntas tua</em></li>
+		<li><strong>Ask</strong>: The primacy of Grace, and we must only ask</li>
 	</ol>
 </div> 
 

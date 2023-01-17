@@ -271,7 +271,7 @@ _**Summary**: Making sense of gun laws, understanding safety rules, and deciding
 --- 
 **Topic**: [[self-competence]], [[Emergency Planning]]
 
-**Source**: my list of example websites, ordered 2022-05-04-Wed after Dolores
+**Source**: [lcamtuf.coredump.cx](https://lcamtuf.coredump.cx/prep/), ordered 2022-05-04-Wed after Dolores
 
 
 **Bibliography**
