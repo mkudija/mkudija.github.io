@@ -56,6 +56,17 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     # remove [[bib]]
     mdString = mdString.replace('[[bib]] ','')
 
+    # replace common tags
+    mdString = mdString.replace('#wishlist','<span class=tag>#wishlist</span>')
+    mdString = mdString.replace('#read','<span class=tag>#read</span>')
+    mdString = mdString.replace('#listen','<span class=tag>#listen</span>')
+    mdString = mdString.replace('#watch','<span class=tag>#watch</span>')
+
+    # replace todo lists
+    mdString = mdString.replace('[ ]','☐')
+    mdString = mdString.replace('[x]','☑')
+
+
     try:
         # regex help: https://regexr.com/
         # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160

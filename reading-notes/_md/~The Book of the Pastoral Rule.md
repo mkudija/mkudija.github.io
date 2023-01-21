@@ -19,7 +19,7 @@ finished:
 `(New York: , 2020-11-05), 78`
 
 --- 
-**Topic**: 
+**Topic**: [[Leadership]]
 
 **Source**
 - [[Jordan]], Christmas 2022

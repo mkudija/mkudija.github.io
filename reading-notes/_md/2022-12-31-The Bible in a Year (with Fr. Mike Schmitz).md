@@ -1143,7 +1143,7 @@ Just for fun, the chart below shows my progress in 2022. I started listening to 
 
 **Day 261**: [[2022-10-28-Fri]] - [[]]
 - [[John the Baptist]] is the new Elijah, and yet by our baptism we are greater than he  
-- Return of the unclean spirit: Msgr. Charles Pope talks about this and shows how when removing evil we need to fill that void with God, and we need to choose good over appearing good  
+- Return of the unclean spirit: [[Msgr. Charles Pope]] talks about this and shows how when removing evil we need to fill that void with God, and we need to choose good over appearing good  
 - create note: [[Parables in the Bible]]
 - We don’t get to choose what kind of seed we will receive but we do get to choose what kind of soil we will be
 

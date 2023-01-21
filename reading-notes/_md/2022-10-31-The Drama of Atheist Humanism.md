@@ -215,7 +215,7 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 *How does a Christian respond to all the world's hope for a "new man"?*
 - 1: "Christianity [and Christian humanism] cannot be a 'fashionable' doctrine: that is the difference between it and doctrines that come and go." 
 - 2: Modern science is ordered toward the possession of the world and the transformation of society. 
-- 3 (★): "Don't throw the baby out with the bath water", or unilateral criticism is lazy. "The life of anyone who wants to be faithful will, until the end of time, be 'contradiction and struggle.'" We should reject false or absolute conceptions of science, but science itself is a tool that allows us to act in the image of God as creator. We need to practice careful discernment. 
+- 3 (★): "Don't throw the baby out with the bath water", or unilateral criticism is lazy. "The life of anyone who wants to be faithful will, until the end of time, be 'contradiction and struggle.'" We should reject false or absolute conceptions of science, but science itself is a tool that allows us to act in the image of God as creator. We need to practice careful discernment.  ^c042b1
 	- [[Christian appropriation]]: "We will not let ourselves be manipulated by the adversary to the point of blindly taking the opposite position of his in everything, leaving him thus the full benefit of the sound ideas that he mixes in with his rebellion." (419)
 	- "Time is given to man to in order to perfect himself within the temporal order." (419)
 - 4: "In order to understand time and the world, it is necessary to focus beyond." (429)

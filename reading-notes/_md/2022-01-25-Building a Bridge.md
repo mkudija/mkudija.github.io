@@ -52,6 +52,8 @@ finished: 2022-01-25
 
 >**2359** Homosexual persons are called to chastity. By the virtues of self-mastery that teach them their inner freedom, at times by the support of disinterested friendship, by prayer and sacramental grace, they can and should gradually and resolutely approach Christian perfection.
  
+→ see also Fr. Martin's *[What is the official church teaching on homosexuality? Responding to a commonly asked question](https://www.americamagazine.org/faith/2018/04/06/what-official-church-teaching-homosexuality-responding-commonly-asked-question)*
+
 ---
 Created: [[2022-01-27-Thu]]
 Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

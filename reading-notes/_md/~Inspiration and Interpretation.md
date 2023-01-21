@@ -23,7 +23,7 @@ finished: []
 **Topic**: [[The Bible|Sacred Scripture]]
 
 **Source**
-- *[[2023-01-15-A Church In Crisis|A Church in Crisis]]*
+- *[[2023-01-21-A Church In Crisis|A Church in Crisis]]*
 
 
 **Bibliography**

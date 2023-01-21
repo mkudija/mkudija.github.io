@@ -1,5 +1,5 @@
 ---
-aliases: [Summa Theologiae]
+aliases: [Summa Theologiae, ST]
 title: Summa Theologiae
 author: Thomas Aquinas
 category: Religion

@@ -90,7 +90,7 @@ _**Summary**: _
 **Topic**: [[Parenting]]
 
 **Source**: 
-- [[Jordan]]
+- [[Jordan]] (her [notes](https://docs.google.com/document/d/1bGs4Pq0GttS0tT2q4PxTEcdiDx2i4PXiRDd0OLXl16M/edit))
 
 **Bibliography**
 

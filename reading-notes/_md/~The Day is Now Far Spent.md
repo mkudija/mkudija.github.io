@@ -41,7 +41,7 @@ _**Summary**: _
 
 ## Chapter 3: The Crisis of the Church
 _**Summary**: _
-*cf [[2023-01-15-A Church In Crisis|A Church in Crisis]]* 
+*cf [[2023-01-21-A Church In Crisis|A Church in Crisis]]* 
 
 
 ## Chapter 4: Acedia and the Identity Crisis

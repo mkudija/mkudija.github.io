@@ -1,5 +1,7 @@
 ---
 aliases: [The Holy Mass: On Earth as It Is in Heaven, The Holy Mass (Lego)]
+
+finished: 2023-01-16
 ---
 
 # [*The Holy Mass: On Earth as It Is in Heaven*](https://www.sophiainstitute.com/products/item/the-holy-mass) by Kevin and Mary O’Neill

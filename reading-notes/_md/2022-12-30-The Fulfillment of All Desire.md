@@ -33,7 +33,9 @@ I read this over the second half of 2022 and it has helped and coincided with a 
 
 [^mike]: In an interview with [[Bishop Barron]]: [link](https://youtu.be/T4mcgqnspKw?t=690)
 
-"The fulfillment of all desire" is union with God himself (xvii), and Martin beautifully weaves together the teaching of the mystical doctors of the Church on the topic: [[St. Augustine|Augustine]], [[St. Bernard of Clairvaux|Bernard of Clairvaux]], [[St. Catherine of Siena|Catherine of Siena]], [[St. John of the Cross|John of the Cross]], [[St. Teresa of Ávila|Teresa of Avila]], [[St. Francis de Sales]], and [[St. Thérèse of Lisieux|Thérèse of Lisieux]]. In the introduction he tells of how he struggled many times to read John of the Cross, but then he read *The Spiritual Canticle* in the airport and it was "the right book at the right time" after previously struggling with John: "a certain amount of life experience was necessary before I could understand the truth and relevance of these works" (xv). I have struggled with Catherine, John, and Teresa, but this book made their teaching come alive and showed the beautiful consistency between the saints themselves along with Scripture and Tradition. 
+"The fulfillment of all desire" is union with God himself (xvii), and Martin synthesizes ten years[^10yr] of study to weave together the teaching of the mystical doctors of the Church: [[St. Augustine|Augustine]], [[St. Bernard of Clairvaux|Bernard of Clairvaux]], [[St. Catherine of Siena|Catherine of Siena]], [[St. John of the Cross|John of the Cross]], [[St. Teresa of Ávila|Teresa of Avila]], [[St. Francis de Sales]], and [[St. Thérèse of Lisieux|Thérèse of Lisieux]]. In the introduction he tells of how he struggled many times to read John of the Cross, but then he read *The Spiritual Canticle* in the airport and it was "the right book at the right time" after previously struggling with John: "a certain amount of life experience was necessary before I could understand the truth and relevance of these works" (xv). I have struggled with Catherine, John, and Teresa, but this book made their teaching come alive and showed the beautiful consistency between the saints themselves along with Scripture and Tradition. 
+
+[^10yr]: "I spent ten years synthesizing the wisdom of the main doctors of the Church that focus on the spiritual journey in order to make this wisdom available to the average Catholic in clear, understandable, and readable form." *[[2022-12-30-The Fulfillment of All Desire|The Fulfillment of All Desire]]* 509
 
 I am taking a few practical takeaways from my first reading of this book.
 
@@ -69,6 +71,10 @@ Finally, I have been easily discouraged when reading about the spiritual life (f
 
 >Ask, and it will be given you; seek, and you will find; knock, and it will be opened to you. For every one who asks receives, and he who seeks finds, and to him who knocks it will be opened. 
 >–[[Mt-07#v7|Matthew 7:7-8]] (RSVCE)
+
+
+>If any of you lacks wisdom, let him ask God, who gives to all men generously and without reproaching, and it will be given him.
+>–[[Jas-01#v5|James 1:5]] (RSVCE)
 
 This is particularly relevant to a discussion of the spiritual life, for the fulfillment of all desire is union with God and Christ says these words right before telling us about the narrow gate:
 

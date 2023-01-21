@@ -10,7 +10,7 @@ publish_date: 2002-01-01
 isbn10: 0818909064
 isbn13: 9780818909061
 ---
-# *[Searching for and Maintaining Peace]()* by [[Jacques Philippe]]
+# *[Searching for and Maintaining Peace]()* by [[Fr. Jacques Philippe]]
 
 <img src="http://books.google.com/books/content?id=nML2AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
