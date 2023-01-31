@@ -1,4 +1,16 @@
-
+---
+aliases: [He Leadeth Me]
+title: He Leadeth Me
+author: Walter J. Ciszek, S.J., Daniel L. Flaherty, S.J.
+category: Biography & Autobiography
+publisher: Image
+total_page: 210
+publish_date: 2014-05-06
+isbn10: 0804141525
+isbn13: 9780804141529
+started: 2021-10-29
+finished: 2021-12-02
+---
 # [*He Leadeth Me: An Extraordinary Testament of Faith*](https://www.penguinrandomhouse.com/books/27850/he-leadeth-me-by-walter-j-ciszek-sj-with-daniel-flaherty-sj/) by [[Walter J. Ciszek, S.J.]] & Daniel L. Flaherty, S.J.
 
 <img src="https://images1.penguinrandomhouse.com/cover/9780804141529" width=150>

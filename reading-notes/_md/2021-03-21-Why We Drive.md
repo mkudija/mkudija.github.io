@@ -1,4 +1,16 @@
-
+---
+aliases: [Why We Drive]
+title: Why We Drive
+author: Matthew B. Crawford
+category: Biography & Autobiography
+publisher: Custom House
+total_page: 368
+publish_date: 2021-06-08
+isbn10: 0062741977
+isbn13: 9780062741974
+started: 2021-03-21
+finished: 2021-05-21
+---
 # [*Why We Drive: Toward a Philosophy of the Open Road*](https://www.harpercollins.com/products/why-we-drive-matthew-b-crawford) by [[Matthew B. Crawford]]
 
 <img src="https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062741974.jpg" width=150>

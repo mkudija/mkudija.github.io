@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=t4dHDwAAQBAJ&printsec=front
 publish_date: 2008
 isbn10: 1681491680
 isbn13: 9781681491684
+started: 2021-06-30
+finished: 2021-07-03
 ---
 # [*Faith and the Future*](https://www.ignatius.com/Faith-and-the-Future-P3447.aspx) by [[Joseph Ratzinger]]
 

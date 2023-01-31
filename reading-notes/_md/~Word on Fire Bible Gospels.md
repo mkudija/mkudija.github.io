@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=YzA4zQEACAAJ&printsec=frontc
 publish_date: 2020-06-15
 isbn10: 1943243530
 isbn13: 9781943243532
+started: 2020-11-10
+finished: 2020-11-20
 translation: New Revised Standard Version Catholic Edition
 ---
 # *[The Word on Fire Bible: The Gospels](https://www.wordonfire.org/bible/)* by [[Word on Fire]]

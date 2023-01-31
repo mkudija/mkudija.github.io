@@ -1,4 +1,16 @@
-
+---
+aliases: [Notre-Dame]
+title: Notre-Dame
+author: Ken Follett
+category: History
+publisher: Penguin
+total_page: 80
+publish_date: 2019-10-29
+isbn10: 1984880268
+isbn13: 9781984880260
+started: 2021-08-26
+finished: 2021-08-28
+---
 # [*Notre-Dame: A Short History of the Meaning of Cathedrals*](https://www.panmacmillan.com/authors/ken-follett/notredame/9781529037647) by [[Ken Follett]]
 
 <img src="https://ik.imagekit.io/panmac/tr:q-75,di-placeholder_portrait_aMjPtD9YZ.jpg,w-350,pr-true,bl/edition/9781529037647.jpg" width=150>

@@ -1,18 +1,17 @@
 ---
-aliases: [Business Data Science, BDS, Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions]
-title: Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions
+aliases: [Business Data Science, BDS, Business Data Science-Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions]
+title: Business Data Science-Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business Decisions
 author: Matt Taddy
 category: Business & Economics
 publisher: McGraw Hill Professional
 total_page: 384
-cover_url: http://books.google.com/books/content?id=yPOUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 publish_date: 2019-08-23
 isbn10: 1260452786
 isbn13: 9781260452785
-started: 
-finished: 
 latex: true
 mermaid: true
+started: 2021-04-18
+finished: 2021-11-19
 ---
 # [*Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business*](https://www.mhprofessional.com/business-data-science-combining-machine-learning-and-economics-to-optimize-automate-and-9781260452778-usa) by [[Matt Taddy]]
 

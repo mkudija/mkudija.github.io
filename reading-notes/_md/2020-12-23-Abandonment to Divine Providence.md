@@ -1,5 +1,15 @@
 ---
 aliases: [Abandonment to Divine Providence]
+title: Abandonment to Divine Providence
+author: Jean-Pierre de Caussade
+category: Religion
+publisher: Courier Corporation
+total_page: 128
+publish_date: 2012-04-04
+isbn10: 0486113159
+isbn13: 9780486113159
+started: 2020-11-10
+finished: 2020-12-23
 ---
 # [*Abandonment to Divine Providence*](https://www.amazon.com/Abandonment-Divine-Providence-Jean-Pierre-Caussade/dp/0895552264/ref=sr_1_3?dchild=1&keywords=Jean+Pierre+de+Caussade&qid=1608746102&sr=8-3) by Jean Pierre de Caussade
 

@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=u6WAVi4SGAoC&printsec=front
 publish_date: 2005
 isbn10: 0375760989
 isbn13: 9780375760983
+started: 2021-07-06
+finished: 2021-07-10
 ---
 # [*Shadow Divers: The True Adventure of Two Americans who Risked Everything to Solve One of the Last Mysteries of World War II*](https://www.amazon.com/Shadow-Divers-Adventure-Americans-Everything/dp/0375760989) by [[Robert Kurson]]
 

@@ -1,3 +1,16 @@
+---
+aliases: [Lord of the World]
+title: Lord of the World
+author: Robert Hugh Benson, Aeterna Press
+category: Religion
+publisher: Aeterna Press
+total_page: 352
+publish_date: 1940
+isbn10: 
+isbn13: 
+started: 2020-11-15
+finished: 2020-11-27
+---
 # [*Lord of the World: A Novel*](https://www.amazon.com/Lord-World-Robert-Hugh-Benson/dp/0870612980/ref=sr_1_3?dchild=1&keywords=lord+of+the+world&qid=1606492849&sr=8-3) by Robert Hugh Benson
 
 `(Notre Dame: Ave Maria, 1907), 318`

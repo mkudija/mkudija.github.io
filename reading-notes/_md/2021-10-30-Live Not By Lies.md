@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=JqfiDwAAQBAJ&printsec=frontc
 publish_date: 2020-09-29
 isbn10: 0593087402
 isbn13: 9780593087404
+started: 2021-10-11
+finished: 2021-10-27
 ---
 # [*Live Not by Lies: A Manual for Christian Dissidents*](https://www.penguinrandomhouse.com/books/622436/live-not-by-lies-by-rod-dreher/9780593087398) by [[Rod Dreher]]
 

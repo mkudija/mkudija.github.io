@@ -1,4 +1,16 @@
-
+---
+aliases: [The Hanging God]
+title: The Hanging God
+author: James Matthew Wilson
+category: Poetry
+publisher: 
+total_page: 106
+publish_date: 2018-08-06
+isbn10: 1621384020
+isbn13: 9781621384021
+started: 2020-11-10
+finished: 2020-11-16
+---
 # [*The Hanging God*](https://www.angelicopress.org/the-hanging-god-wilson) by [[James Matthew Wilson]]
 
 <img src="https://images.squarespace-cdn.com/content/v1/5f6f348e7f499401bc2af66f/1615927168554-7BN0YJWXW7XVJIS060NF/WILSON+-+HANGING+GOD.jpg?format=750w" width=150>

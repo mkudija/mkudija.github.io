@@ -1,4 +1,17 @@
-
+---
+aliases: [Conspiracy]
+title: Conspiracy
+author: Ryan Holiday
+category: Business & Economics
+publisher: Penguin
+total_page: 338
+cover_url: http://books.google.com/books/content?id=yZyaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2019-06-25
+isbn10: 0735217653
+isbn13: 9780735217652
+started: 2021-12-15
+finished: 2021-12-18
+---
 # [*Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue*](https://www.penguinrandomhouse.com/books/555492/conspiracy-by-ryan-holiday/9780735217652) by [[Ryan Holiday]]
 
 <img src="https://images3.penguinrandomhouse.com/cover/9780735217652" width=150>

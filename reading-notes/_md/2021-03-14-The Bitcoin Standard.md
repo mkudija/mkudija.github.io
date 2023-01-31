@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=Sw5TDwAAQBAJ&printsec=frontc
 publish_date: 2018-03-23
 isbn10: 1119473918
 isbn13: 9781119473916
+started: 2021-03-13
+finished: 2021-05-14
 ---
 # [*The Bitcoin Standard: The Decentralized Alternative to Central Banking*](https://saifedean.com/thebitcoinstandard/) by [[Saifedean Ammous]]
 

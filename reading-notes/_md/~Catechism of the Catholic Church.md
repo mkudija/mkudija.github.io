@@ -195,24 +195,49 @@ From the *Roman Catechism* [[bib]] (25):
 - [III. The Interpretation of the Heritage of Faith](https://www.vatican.va/archive/ENG0015/__PM.HTM)
 	- "The apostles entrusted the "Sacred deposit" of the faith (the *depositum fidei*) contained in Sacred Scripture and Tradition, to the whole of the Church." (84)
 	- "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone." (85)
-	- [ ] ==keep going==
+	- "Dogmas are lights along the path of faith; they illuminate it and make it secure." (89)
+	- The Magisterium is the sacred teaching authority of the Church (93)
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PN.HTM)  
 
 
 #### Article 3 SACRED SCRIPTURE
 - [I. Christ - The Unique Word of Sacred Scripture](https://www.vatican.va/archive/ENG0015/__PO.HTM)
+	- "Through all the words of Sacred Scripture, God speaks only one single Word, his one Utterance in whom he expresses himself completely" (102) 
+	- "the Church has always venerated the Scriptures as she venerates the Lord's Body" (103)
 - [II. Inspiration and Truth of Sacred Scripture](https://www.vatican.va/archive/ENG0015/__PP.HTM)
+	- "God is the author of Sacred Scripture" (105)
 - [III. The Holy Spirit, Interpreter of Scripture](https://www.vatican.va/archive/ENG0015/__PQ.HTM)
+	- "In Sacred Scripture, God speaks to man in a human way." (109)
+	- *[[2022-12-03-Dei Verbum|Dei Verbum]]*'s criteria for interpreting scripture:
+		- Be especially attentive "to the content and unity of the whole Scripture" (112)
+		- Read the Scripture within "the living Tradition of the whole Church" (113)
+		- Be attentive to the analogy of faith (coherence of truth in all of Revelation). (114)
+		- A medieval couplet summarizes the significance of the four senses: (118)
+
+>The Letter speaks of deeds; Allegory to faith;  
+>The Moral how to act; Anagogy our destiny.
+
 - [IV. The Canon of Scripture](https://www.vatican.va/archive/ENG0015/__PR.HTM)
+	- "The books of the OldTestament bear witness to the whole divine pedagogy of God's saving love: these writings "are a storehouse of sublime teaching on God and of sound wisdom on human life, as well as a wonderful treasury of prayers" (122)
+	- "The Gospels are the heart of all the Scriptures" (125)
+	- **typology**: discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son (128)
+	- **The New Testament lies hidden in the Old and the Old Testament is unveiled in the New** (129)
 - [V. Sacred Scripture in the Life of the Church](https://www.vatican.va/archive/ENG0015/__PS.HTM)
+	- [[St. Jerome]]: "Ignorance of the Scriptures is ignorance of Christ." (133) 
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PT.HTM)  
+	- "All Sacred Scripture is but one book, and that one book is Christ" (134)
 
 
 ### [CHAPTER THREE MAN'S RESPONSE TO GOD](https://www.vatican.va/archive/ENG0015/__PU.HTM)
 #### Article 1 I BELIEVE
 - [I. The Obedience of Faith](https://www.vatican.va/archive/ENG0015/__PV.HTM)
+	- "Abraham is the model of such obedience offered us by Sacred Scripture. the Virgin Mary is its most perfect embodiment." (144)
 - [II. "I Know Whom I Have Believed"](https://www.vatican.va/archive/ENG0015/__PW.HTM)
+	- Faith is "free assent to the whole truth that God has revealed" (150)
 - [III. The Characteristics of Faith](https://www.vatican.va/archive/ENG0015/__PX.HTM)  
+	- "Faith is a gift of God, a supernatural virtue infused by him." (153)
+	- "In faith, the human intellect and will co-operate with divine grace" (155)
+	- [ ] ==keep going 156==
 
 
 #### [Article 2 WE BELIEVE](https://www.vatican.va/archive/ENG0015/__PY.HTM)

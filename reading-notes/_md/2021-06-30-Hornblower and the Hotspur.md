@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=2zsMuAEACAAJ&printsec=front
 publish_date: 1998
 isbn10: 0316290467
 isbn13: 9780316290463
+started: 2021-06-26
+finished: 2021-06-30
 ---
 # [*Hornblower and the Hotspur*](https://www.littlebrown.com/titles/c-s-forester/hornblower-and-the-hotspur/9780316290463/) by [[C.S. Forester]]
 

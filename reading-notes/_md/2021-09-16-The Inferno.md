@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=LF5pl4_M7BQC&printsec=frontc
 publish_date: 2002-01-08
 isbn10: 0385496982
 isbn13: 9780385496988
+started: 2021-09-16
+finished: 2021-11-25
 ---
 *[[~The Divine Comedy|The Divine Comedy]]*
 

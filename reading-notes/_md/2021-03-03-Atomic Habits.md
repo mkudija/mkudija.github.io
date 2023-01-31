@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=front
 publish_date: 2018
 isbn10: 0735211299
 isbn13: 9780735211292
+started: 2021-02-15
+finished: 2021-03-03
 ---
 # [*Atomic Habits*](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by [[James Clear]]
 

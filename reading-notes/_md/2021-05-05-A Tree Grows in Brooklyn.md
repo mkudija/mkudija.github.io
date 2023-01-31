@@ -1,7 +1,21 @@
-
+---
+aliases: [A Tree Grows in Brooklyn]
+title: A Tree Grows in Brooklyn
+author: Betty Smith
+category: Fiction
+publisher: Harper Collins
+total_page: 528
+publish_date: 1943
+isbn10: 0061803022
+isbn13: 9780061803024
+started: 2021-04-23
+finished: 2021-05-05
+---
 # [*A Tree Grows in Brooklyn*](https://www.amazon.com/Brooklyn-Harper-Perennial-Modern-Classics/dp/0061120073/ref=sr_1_2?dchild=1&keywords=tree+grows+in+brooklyn&qid=1620213570&sr=8-2) by Betty Smith
 
-(New York: Harper, 1943, 2005), 493
+<img src="http://books.google.com/books/content?id=jalsLkb1GTUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Harper, 1943, 2005), 493`
 
 
 "Some people called it the Tree of Heaven. No matter where it's seed fell, it made a tree which struggled to reach the sky. It grew in boarded-up lots and out of neglected rubbish heaps and it was the only tree that grew out of cement." (6, ch 1)
@@ -27,3 +41,7 @@
 "Look at everything always as though you were seeing it either for the first or last time: Thus is your time on earth filled with glory." (476, ch 55)
 
 Jacquelyn Mitchard introduction: required reading for her boys includes *A Tree Grows in Brooklyn*, *Little Women*, *National Velvet*, and *The Catcher in the Rye* 
+
+---
+Created: [[2021-05-05-Wed]]
+Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>

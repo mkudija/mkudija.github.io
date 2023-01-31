@@ -1,4 +1,16 @@
-
+---
+aliases: [The Return of the King]
+title: The Return of the King
+author: John Ronald Reuel Tolkien
+category: 
+publisher: 
+total_page: 
+publish_date: 1977
+isbn10: 
+isbn13: 
+started: 2021-03-19
+finished: 2021-04-10
+---
 # *The Return of the King* by [[J.R.R. Tolkien]]
 *[[~The Lord of the Rings|The Lord of the Rings]]*
 

@@ -1,4 +1,16 @@
-
+---
+aliases: [Hunt, Gather, Parent]
+title: Hunt, Gather, Parent
+author: Michaeleen Doucleff
+category: Family & Relationships
+publisher: Simon and Schuster
+total_page: 352
+publish_date: 2022-03-08
+isbn10: 198214968X
+isbn13: 9781982149680
+started: 2021-11-07
+finished: 2021-11-16
+---
 # [*Hunt, Gather, Parent: What Ancient Cultures Can Teach Us About the Lost Art of Raising Happy, Helpful Little Humans*](https://www.simonandschuster.com/books/Hunt-Gather-Parent/Michaeleen-Doucleff/9781982149673) by Michaeleen Doucleff
 
 <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982149673/hunt-gather-parent-9781982149673_lg.jpg" width=150>

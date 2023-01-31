@@ -1,5 +1,19 @@
-
+---
+aliases: [The Premonition-A Pandemic Story]
+title: The Premonition-A Pandemic Story
+author: Michael Lewis
+category: Political Science
+publisher: W. W. Norton & Company
+total_page: 320
+publish_date: 2021-05-04
+isbn10: 0393881563
+isbn13: 9780393881561
+started: 2021-08-06
+finished: 2021-08-12
+---
 # [*The Premonition: A Pandemic Story*](https://www.amazon.com/Premonition-Pandemic-Story-Michael-Lewis/dp/0393881555) by [[Michael Lewis]]
+
+<img src="http://books.google.com/books/content?id=t8kWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Norton, 2021), 301`
 

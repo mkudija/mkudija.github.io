@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=ba-RyQEACAAJ&printsec=frontc
 publish_date: 2020-04-02
 isbn10: 1788164490
 isbn13: 9781788164498
+started: 2021-06-19
+finished: 2021-07-04
 ---
 # [*Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool*](https://www.amazon.com/Cribsheet-Data-Driven-Relaxed-Parenting-Preschool/dp/0525559272) by Emily Oster
 

@@ -1,4 +1,16 @@
-
+---
+aliases: [Patris Corde]
+title: Patris Corde
+author: Pope Francis
+category: Religion
+publisher: Our Sunday Visitor
+total_page: 48
+publish_date: 2021-01-13
+isbn10: 1681929473
+isbn13: 9781681929477
+started: 2021-11-15
+finished: 2021-11-16
+---
 # [*Patris Corde: With a Father's Heart*](https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20201208_patris-corde.pdf) by [[Pope Francis]]
 *on [[St. Joseph]]*
 

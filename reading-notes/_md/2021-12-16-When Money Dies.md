@@ -1,4 +1,17 @@
-
+---
+aliases: [When Money Dies]
+title: When Money Dies
+author: Adam Fergusson
+category: Business & Economics
+publisher: Public Affairs
+total_page: 288
+cover_url: http://books.google.com/books/content?id=YxUBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 1975
+isbn10: 1586489941
+isbn13: 9781586489946
+started: 2021-12-01
+finished: 2021-12-16
+---
 # [*When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany*](https://www.publicaffairsbooks.com/titles/adam-fergusson/when-money-dies/9781586489953/) by Adam Fergusson
 
 <img src="https://www.publicaffairsbooks.com/wp-content/uploads/2017/09/9781586489953.jpg?fit=419%2C630" width=150>

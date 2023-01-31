@@ -62,7 +62,9 @@ publish: true
 - *Treasury of Nursery Stories* retold by Susan Price
 - *Cindy Ellen: A Wild Western Cinderella* by Susan Lowell
 - *The Pilot and the Little Prince* by Peter Sis
-- *The Great Adventure of Christopher Columbus* by Fritz & dePaola
+- Tomie dePaola
+	- *The Great Adventure of Christopher Columbus*
+	- *The Clown of God*
 - Stephen Biesty
 	- *Stephen Biesty's Incredible Cross Sections*
 - David Macaulay
@@ -70,7 +72,7 @@ publish: true
 	- *Castle*
 	- *Pyramid*
 - *The True Story of Stanta Claus* by Paul Prokop
-- *Brother Hugo and the Bear* by Katy Beebe
+- *[[2021-06-29-Brother Hugo and the Bear|Brother Hugo and the Bear]]* by Katy Beebe
 - *[[~The Holy Mass|The Holy Mass (Lego)]]* by Kevin and Mary O’Neill
 - *[[~The Weight of a Mass|The Weight of a Mass]]* by Josephine Nobisso
 - *St. Jerome and the Lion* by Margaret Hodges

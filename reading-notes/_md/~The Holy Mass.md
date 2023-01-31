@@ -1,6 +1,15 @@
 ---
 aliases: [The Holy Mass: On Earth as It Is in Heaven, The Holy Mass (Lego)]
-
+title: ON EARTH AS IT IS IN HEAVEN
+author: KEVIN. O'NEILL
+category: 
+publisher: 
+total_page: 
+cover_url: 
+publish_date: 2022
+isbn10: 1644136988
+isbn13: 9781644136980
+started: 2022-12-26
 finished: 2023-01-16
 ---
 
@@ -10,7 +19,7 @@ finished: 2023-01-16
 
 `(City: Sophia, 2022), PPP`
 
-
+- [ ] #process Holy Mass Book 🔽 📅 2023-01-23
 
 --- 
 **Topic**: 

@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=0tEuDwAAQBAJ&printsec=frontc
 publish_date: 2012-08-28
 isbn10: 1591845564
 isbn13: 9781591845560
+started: 2021-04-11
+finished: 2021-04-16
 ---
 # [*Currency Wars: The Making of the Next Global Crisis*](https://www.amazon.com/Currency-Wars-Making-Global-Crisis/dp/1591845564) by [[James Rickards]]
 

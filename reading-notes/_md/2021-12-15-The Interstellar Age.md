@@ -1,4 +1,16 @@
-
+---
+aliases: [The Interstellar Age]
+title: The Interstellar Age
+author: Jim Bell
+category: Science
+publisher: Dutton
+total_page: 338
+publish_date: 2016-01-19
+isbn10: 1101983892
+isbn13: 9781101983898
+started: 2021-12-10
+finished: 2021-12-12
+---
 # [*The Interstellar Age: Inside the Forty-Year Voyager Mission*](https://www.penguinrandomhouse.com/books/314811/the-interstellar-age-by-jim-bell/) by Jim Bell
 
 <img src="https://images4.penguinrandomhouse.com/cover/9781101983898" width=150>

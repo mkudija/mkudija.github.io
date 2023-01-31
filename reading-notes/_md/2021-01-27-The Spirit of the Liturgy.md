@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=Idn9DwAAQBAJ&printsec=frontc
 publish_date: 2018-10-12
 isbn10: 1621642585
 isbn13: 9781621642589
+started: 2020-12-31
+finished: 2021-01-27
 ---
 # [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by [[Joseph Ratzinger]]
 

@@ -1,5 +1,19 @@
-
+---
+aliases: [Your Best Year Ever]
+title: Your Best Year Ever
+author: Michael Hyatt
+category: Business & Economics
+publisher: Baker Books
+total_page: 272
+publish_date: 2018-01-02
+isbn10: 1493409530
+isbn13: 9781493409532
+started: 2020-11-30
+finished: 2021-01-06
+---
 # [*Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals*](https://www.amazon.com/Your-Best-Year-Ever-Achieving/dp/0801075254/ref=sr_1_1?dchild=1&keywords=your+best+year+ever&qid=1609548169&sr=8-1) by [[Michael Hyatt]]
+
+<img src="http://books.google.com/books/content?id=AGAyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(Grand Rapids: Baker Books, 2018), 255`
 

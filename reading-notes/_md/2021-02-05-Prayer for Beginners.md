@@ -1,7 +1,19 @@
-
+---
+aliases: [Prayer For Beginners]
+title: Prayer For Beginners
+author: Peter Kreeft
+category: Religion
+publisher: Ignatius Press
+total_page: 130
+publish_date: 2012-12-07
+isbn10: 1681493853
+isbn13: 9781681493855
+started: 2020-12-02
+finished: 2021-02-05
+---
 # [*Prayer for Beginners*](https://www.ignatius.com/Prayer-for-Beginners-P1942.aspx) by [[Peter Kreeft]]
 
-<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fPFBP.jpg&maintainAspectRatio=true" width=150>
+<img src="http://books.google.com/books/content?id=v64JDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(San Francisco: Ignatius, 2019), 130`
 

@@ -1,5 +1,19 @@
-
+---
+aliases: [Living Forward]
+title: Living Forward
+author: Michael Hyatt, Daniel Harkavy
+category: Business & Economics
+publisher: Baker Books
+total_page: 208
+publish_date: 2016-03-01
+isbn10: 1493403257
+isbn13: 9781493403257
+started: 2020-11-22
+finished: 2021-01-05
+---
 # [*Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want*](https://www.amazon.com/Living-Forward-Proven-Plan-Drifting/dp/080101882X/ref=sr_1_1?dchild=1&keywords=living+forward&qid=1609548165&sr=8-1) by [[Michael Hyatt]] and Daniel Harkavy
+
+<img src="http://books.google.com/books/content?id=uAw_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 (Grand Rapids: Baker Books, 2016), 203
 

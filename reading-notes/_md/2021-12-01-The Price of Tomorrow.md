@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=dFftywEACAAJ&printsec=frontc
 publish_date: 2020-01-14
 isbn10: 1999257405
 isbn13: 9781999257408
-started: 
-finished: 
+started: 2021-11-26
+finished: 2021-12-01
 ---
 # [*The Price of Tomorrow: Why Deflation is the Key to an Abundant Future*](https://pagetwo.com/book/the-price-of-tomorrow/) by [[Jeff Booth]]
 

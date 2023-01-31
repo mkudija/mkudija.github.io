@@ -1,4 +1,16 @@
-
+---
+aliases: [My Sisters the Saints]
+title: My Sisters the Saints
+author: Colleen Carroll Campbell
+category: Religion
+publisher: Image
+total_page: 242
+publish_date: 2014-09-23
+isbn10: 077043651X
+isbn13: 9780770436513
+started: 2021-07-12
+finished: 2021-07-28
+---
 # [*My Sisters the Saints: A Spiritual Memoir*](https://www.amazon.com/My-Sisters-Saints-Spiritual-Memoir/dp/077043651X) by Colleen Carroll Campbell
 
 `(New York: Image, 2012), 214`

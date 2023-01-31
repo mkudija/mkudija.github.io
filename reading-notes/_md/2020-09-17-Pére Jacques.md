@@ -1,4 +1,16 @@
-
+---
+aliases: [Père Jacques, Pere Jacques]
+title: Père Jacques
+author: Michael Carrouges
+category: Religion
+publisher: Macmillan
+total_page: 269
+publish_date: 1961
+isbn10: 
+isbn13: 
+started: 
+finished: 
+---
 # *Pére Jacques* by Michael Carrouges
 
 `(New York: Macmillan, 1961), 269`
@@ -19,7 +31,7 @@
 - Sin: "Each time that your weakness may cause you to fall, you must not be vexed with yourself or despair, but patiently get up again and resume the struggle. A transgression is nothing if it does not bring about despair."  (78)
 - "Never have the saints attributed great merits to themselves." (78)
 - Practice of the Presence of God: "From time to time during the day you must put yourself in the presence of God. Then close your eyes for a moment, tell yourself He is there, close to you, enveloping you with His being, waiting for a small token of affection from you, smile at Him and say a word to Him from your heart. Repeat the same thing often during the day, and soon (after several months) a great love of God will awaken in you and you will give yourself wholly to Him." (79
-- " Read the Bible, say the rosary. Read a few of Pascal's pensées slowly every day, mediate upon them and come back to them several times. What an education of the soul is familiarity with Pascal!...Live the Bible by picking up the rosary. Begin with the beautiful and substantial epistles of St. Paul. Then read Genesis, afterward Ecclesiastes and Job. In a word: the preaching of the Apostle side by side with the creation of the world and with human anguish...Make sacrifices. It is absolutely necessary that you put mortification in your life. Impost on yourself the little sufferings, the little privations which you will be able to decide on for yourself..." (81-82)
+- " Read the Bible, say the rosary. Read a few of Pascal's pensées slowly every day, mediate upon them and come back to t\hem several times. What an education of the soul is familiarity with Pascal!...Live the Bible by picking up the rosary. Begin with the beautiful and substantial epistles of St. Paul. Then read Genesis, afterward Ecclesiastes and Job. In a word: the preaching of the Apostle side by side with the creation of the world and with human anguish...Make sacrifices. It is absolutely necessary that you put mortification in your life. Impost on yourself the little sufferings, the little privations which you will be able to decide on for yourself..." (81-82)
 - Carmelite friars "are at once monks and apostles" (87)
 - "In the pure silence of the monastery situated at the end of the park of Fontainebleau on the edge of the great forest, he found a peace that completely enchanted him...he read and reread the *Spiritual Canticle* of [[St. John of the Cross]]...then long conversations took place, radiant with the poetry and mysticism of Mount Carmel" (89-90)
 - "**He asked only for his armor: the works of [[St. Teresa of Ávila|St. Theresa]] and of [[St. John of the Cross]]**" (93)
@@ -40,5 +52,5 @@
 
 - *Life of the Curé of Ars* (40) #wishlist 
 - [[Pascal]]'s *Pensées* (81)
-- *Spiritual Canticle* of [[St. John of the Cross]] (89)
+- *[[~The Collected Works of Saint John of the Cross#*The Spiritual Canticle*|Spiritual Canticle]]* of [[St. John of the Cross]] (89)
 - the works of [[St. Teresa of Ávila]] (93)

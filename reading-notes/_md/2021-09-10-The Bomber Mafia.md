@@ -1,4 +1,16 @@
-
+---
+aliases: [The Bomber Mafia]
+title: The Bomber Mafia
+author: Malcolm Gladwell
+category: History
+publisher: Little, Brown
+total_page: 288
+publish_date: 2021-04-27
+isbn10: 0316296937
+isbn13: 9780316296939
+started: 2021-09-09
+finished: 2021-09-10
+---
 # [*The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War*](https://www.amazon.com/Bomber-Mafia-Temptation-Longest-Second/dp/0316296619) by [[Malcolm Gladwell]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/5186gX0ZCKL._SX334_BO1,204,203,200_.jpg" width=150>

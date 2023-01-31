@@ -1,4 +1,16 @@
-
+---
+aliases: [Antifragile]
+title: Antifragile
+author: Nassim Nicholas Taleb
+category: Business & Economics
+publisher: Random House Trade Paperbacks
+total_page: 546
+publish_date: 2014-01-28
+isbn10: 0812979680
+isbn13: 9780812979688
+started: 2020-11-22
+finished: 2020-12-22
+---
 # [*Antifragile: Things That Gain from Disorder*](https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/) by [[Nassim Nicholas Taleb]]
 
 <img src="https://images4.penguinrandomhouse.com/cover/9780812979688" width=150>

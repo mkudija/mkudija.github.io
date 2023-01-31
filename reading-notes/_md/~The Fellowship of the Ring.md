@@ -1,4 +1,16 @@
-
+---
+aliases: [The Fellowship Of The Ring]
+title: The Fellowship Of The Ring
+author: J.R.R. Tolkien
+category: Fiction
+publisher: HarperCollins
+total_page: 638
+publish_date: 2012-02-15
+isbn10: 0547952015
+isbn13: 9780547952017
+started: 2021-02-08
+finished: 2021-02-25
+---
 # *The Fellowship of the Ring* by [[J.R.R. Tolkien]]
 *[[~The Lord of the Rings|The Lord of the Rings]]*
 

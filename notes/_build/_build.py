@@ -61,11 +61,9 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
            
     template = [x.strip() for x in template] 
 
-    # for line in range(len(template)):
-    #     template[line] = template[line].replace('#TITLE#', metadata['title'])
-    #     template[line] = template[line].replace('#COOKTIME#', metadata['cookTime'])
-    #     template[line] = template[line].replace('#PREPTIME', metadata['prepTime'])
-    #     template[line] = template[line].replace('#IMAGE#', metadata['image'])
+    title = pathSource.name.split('.')[0]
+    for line in range(len(template)):
+        template[line] = template[line].replace('#TITLE#', title)
             
     with open(pathSource) as f:
         md = [x.strip('') for x in f]

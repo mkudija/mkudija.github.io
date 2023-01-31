@@ -1,4 +1,16 @@
-
+---
+aliases: [Team of Rivals]
+title: Team of Rivals
+author: Doris Kearns Goodwin
+category: Biography & Autobiography
+publisher: Penguin UK
+total_page: 976
+publish_date: 2009-02-12
+isbn10: 0141931418
+isbn13: 9780141931418
+started: 2021-07-25
+finished: 2021-08-01
+---
 # [*Team of Rivals: The Political Genius of Abraham Lincoln*](https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754) by Doris Kearns Goodwin
 
 `(City: Simon & Schuster, 2005/2006), 880`

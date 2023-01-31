@@ -1,4 +1,16 @@
-
+---
+aliases: [The Two Towers]
+title: The Two Towers
+author: J. R. R. Tolkien
+category: 
+publisher: HarperCollins
+total_page: 0
+publish_date: 2022-08-18
+isbn10: 0008567131
+isbn13: 9780008567132
+started: 2021-02-25
+finished: 2021-03-19
+---
 # *The Two Towers* by [[J.R.R. Tolkien]]
 *[[~The Lord of the Rings|The Lord of the Rings]]*
 

@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=yqVNAAAAYAAJ&printsec=front
 publish_date: 1983
 isbn10: 
 isbn13:
+started: 2021-08-29
+finished: 2021-09-06
 ---
 # [*The Cathedral Builders*](https://www.amazon.com/Cathedral-Builders-Harper-colophon-books/dp/0060911581) by [[Jean Gimpel]]
 

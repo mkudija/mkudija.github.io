@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=msd_IpOg62gC&printsec=frontc
 publish_date: 2010-08-10
 isbn10: 1596917148
 isbn13: 9781596917149
-started: 
-finished: 
+started: 2021-05-23
+finished: 2021-05-31
 ---
 # [*How to Talk About Books You Haven't Read*](https://www.amazon.com/Talk-About-Books-Havent-Read/dp/1596914696) by Pierre Bayard
 

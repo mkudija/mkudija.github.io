@@ -1,5 +1,19 @@
-
+---
+aliases: [The Conversation]
+title: The Conversation
+author: Robert Livingston
+category: Business & Economics
+publisher: Currency
+total_page: 368
+publish_date: 2021-02-02
+isbn10: 0593238575
+isbn13: 9780593238578
+started: 2021-02-05
+finished: 2021-03-06
+---
 # [*The Conversation: How Seeking and Speaking the Truth about Racism Can Radically Transform Individuals and Organizations*](https://www.amazon.com/Conversation-Radically-Transform-Individuals-Organizations/dp/0593238567/ref=sr_1_1?crid=CEYWC8VZ5JOE&dchild=1&keywords=the+conversation+robert+livingston&qid=1614820585&sprefix=The+Conversation+rob%2Caps%2C182&sr=8-1) by Robert Livingston
+
+<img src="http://books.google.com/books/content?id=JdvtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Currency, 2021), 308`
 

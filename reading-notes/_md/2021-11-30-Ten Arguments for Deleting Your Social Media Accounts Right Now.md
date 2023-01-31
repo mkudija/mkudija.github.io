@@ -1,4 +1,21 @@
+---
+aliases: [Ten Arguments for Deleting Your Social Media Accounts Right Now]
+title: Ten Arguments for Deleting Your Social Media Accounts Right Now
+author: Jaron Lanier
+category: Computers
+publisher: Henry Holt
+total_page: 160
+publish_date: 2018-05-29
+isbn10: 125019668X
+isbn13: 9781250196682
+started: 2021-11-23
+finished: 2021-11-28
+---
+# *[Ten Arguments for Deleting Your Social Media Accounts Right Now]()* by [[Jaron Lanier]]
 
+<img src="http://books.google.com/books/content?id=e65YDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Henry Holt, 2018-05-29), 160`
 # [*Ten Arguments for Deleting Your Social Media Accounts Right Now*](https://us.macmillan.com/books/9781250239082/ten-arguments-for-deleting-your-social-media-accounts-right-now) by [[Jaron Lanier]]
 
 <img src="https://mpd-biblio-covers.imgix.net/9781250239082.jpg?w=900" width=150>

@@ -1,4 +1,16 @@
-
+---
+aliases: [Let Us Dream]
+title: Let Us Dream
+author: Pope Francis, Austen Ivereigh
+category: Religion
+publisher: Simon & Schuster
+total_page: 160
+publish_date: 2020-12-01
+isbn10: 1982171863
+isbn13: 9781982171865
+started: 2021-08-14
+finished: 2021-08-26
+---
 # [*Let Us Dream: The Path to a Better Future*](https://www.amazon.com/Let-Us-Dream-Better-Future/dp/1982171863) by Pope Francis in conversation with Austen Ivereigh  
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41+wOLCz-wL._SX324_BO1,204,203,200_.jpg" width=150>

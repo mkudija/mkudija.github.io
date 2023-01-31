@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=JcWWDwAAQBAJ&printsec=frontc
 publish_date: 2020-06-09
 isbn10: 1541736206
 isbn13: 9781541736207
+started: 2021-03-03
+finished: 2021-03-07
 ---
 # [*The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*](https://www.hachettebookgroup.com/titles/stephanie-kelton/the-deficit-myth/9781541736207/) by [[Stephanie Kelton]]
 

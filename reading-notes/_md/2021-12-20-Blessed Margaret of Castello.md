@@ -1,4 +1,17 @@
-
+---
+aliases: [The Life of Blessed Margaret of Castello]
+title: The Life of Blessed Margaret of Castello
+author: Father William R. Bonniwell
+category: Religion
+publisher: TAN Books
+total_page: 128
+cover_url: http://books.google.com/books/content?id=MTQqCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+publish_date: 2014-04-22
+isbn10: 1505102650
+isbn13: 9781505102659
+started: 2021-11-01
+finished: 2021-12-20
+---
 # [*The Life of Blessed Margaret of Castello: 1287-1320*](https://tanbooks.com/products/books/saints/biographies/the-life-of-blessed-margaret-of-castello-1287-1320/) by Fr. William R. Bonniwell, O.P.
 *The life of [[St. Margaret of Castello]], canonized April 24, 2021, feast is April 13.*
 

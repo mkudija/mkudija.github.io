@@ -33,6 +33,10 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
         template = [x.strip('\n,') for x in f]
            
     template = [x.strip() for x in template] 
+
+    title = pathSource.name.split('.')[0][11:]
+    for line in range(len(template)):
+        template[line] = template[line].replace('#TITLE#', title)
   
     with open(pathSource) as f:
         md = [x.strip('') for x in f]

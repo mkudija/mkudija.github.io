@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=8nt_n7wuugAC&printsec=frontc
 publish_date: 2012-01-01
 isbn10: 1586176641
 isbn13: 9781586176648
-started: 
-finished: 
+started: 2020-11-10
+finished: 2020-11-14
 ---
 # [*The History of the Catholic Church: From the Apostolic Age to the Third Millennium*](https://www.ignatius.com/History-of-the-Catholic-Church-P1044.aspx) by [[James Hitchcock]]
 

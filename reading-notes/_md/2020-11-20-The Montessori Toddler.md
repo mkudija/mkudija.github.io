@@ -1,6 +1,21 @@
-# [*The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being*](https://www.amazon.com/Montessori-Toddler-Parents-Raising-Responsible/dp/152350689X/ref=sr_1_1?dchild=1&keywords=The+Montessori+Toddler%3A+A+Parent%27s+Guide+to+Raising+a+Curious+and+Responsible+Human+Being&qid=1605881849&sr=8-1) by Simone Davies
+---
+aliases: [The Montessori Toddler]
+title: The Montessori Toddler
+author: Simone Davies
+category: Family & Relationships
+publisher: Workman Publishing Company
+total_page: 257
+publish_date: 2019-03-19
+isbn10: 152350689X
+isbn13: 9781523506897
+started: 2020-11-10
+finished: 2020-11-20
+---
+# *[The Montessori Toddler]()* by [[Simone Davies]]
 
-(New York: Workman, 2019), 245
+<img src="http://books.google.com/books/content?id=hdqCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Workman Publishing Company, 2019), 257`
 
 Jordan read this in detail and I read parts and focused on her notes. The Montessori model, in many ways, just *makes sense*. Start with understanding a toddler and build an environment conducive to their development. Much of this method revolves around looking at the world through their eyes first, respecting them for who they are, and forming the environment and our interactions with them from there.
 

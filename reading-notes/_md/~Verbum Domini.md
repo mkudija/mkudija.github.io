@@ -9,6 +9,8 @@ cover_url: http://books.google.com/books/content?id=SNA_YgEACAAJ&printsec=frontc
 publish_date: 2010
 isbn10: 1593251939
 isbn13: 9781593251932
+started: 2023-01-27
+finished: 
 ---
 # [*Verbum Domini: The Word of God in the Life and Mission of the Church*]() by [[Joseph Ratzinger|Pope Benedict XVI]]
 

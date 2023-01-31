@@ -1,6 +1,6 @@
 ---
 publish: true
-aliases: [LOTH]
+aliases: [LOTH, Breviary]
 ---
 
 *[[Prayer]]*
@@ -22,6 +22,7 @@ aliases: [LOTH]
 
 ## Resources
 - **[Sing the Hours - YouTube](https://www.youtube.com/c/SingtheHours?app=desktop)** and [Sing the Hours | Liturgy of the Hours](https://singthehours.org/) ^0e58df
+- Text for optional feasts: **[Liturgical Year and Calendar | USCCB](https://www.usccb.org/prayer-worship/liturgical-year)**
 - Wikipedia: [The Liturgy of the Hours](https://en.wikipedia.org/wiki/Liturgy_of_the_Hours)
 - Great resources from [Rosary Shop](https://prayer.rosaryshop.com/)
 	- ***[Discovering Prayer: An Introduction and Tutorial to the Liturgy of the Hours](https://prayer.rosaryshop.com/discoveringPrayer.pdf)*** by Seth H. Murray
@@ -33,7 +34,7 @@ aliases: [LOTH]
 	- [iBreviary online](http://www.ibreviary.com/m2/breviario.php) (pray the LOTH on your computer/phone)
 	- iBreviary app: [Apple](https://apps.apple.com/us/app/ibreviary-ts-plus/id422601705) + [Android](https://play.google.com/store/apps/details?id=com.netguru.ibreviary&hl=en_US)
 	- Video tutorial: [Pray the Liturgy of the Hours using Your Smartphone & iBreviary](https://www.youtube.com/watch?v=7Mo_OyMe8fk)
-- *[[2019-02-18-The Little Oratory]]* by David Clayton & Leila Marie Lawler, page 71
+- *[[2019-02-18-The Little Oratory|The Little Oratory]]* by David Clayton & Leila Marie Lawler, page 71
 - Catholic Book Publishing Company: [Liturgy of the Hours (4-volume)](https://catholicbookpublishing.com/product/106)
 - [[Canticle of Zechariah]]
 - [[Canticle of Mary (Magnificat)]]
@@ -43,7 +44,7 @@ aliases: [LOTH]
 - [Overwhelmed by the Liturgy of the Hours? Start With Night Prayer](https://catholicexchange.com/overwhelmed-by-the-liturgy-of-the-hours-start-with-night-prayer/)
 
 ### Alternative Versions
-- pre-1970 Roman Breviary: [The Roman Breviary (1961 edition in Latin and English)](https://www.baroniuspress.com/book.php?wid=56&bid=59#tab=tab-1) (online version: [The Roman Breviary](https://breviary.net/index.htm))
+- pre-1970 Roman Breviary: *[[~The Roman Breviary|The Roman Breviary]]* (online version: [The Roman Breviary](https://breviary.net/index.htm))
 - Ordinariates of English Patrimony (Anglican version): [Divine Worship Daily Office](https://www.ctsbooks.org/product/daily-office/) (video tutorial: [(70) Divine Worship: Daily Office (Commonwealth Edition) - YouTube](https://www.youtube.com/playlist?list=PLvkKbvFiXHk43cTMDyRwb_qtAo2mQ9Xuy))
 
 ## Notes

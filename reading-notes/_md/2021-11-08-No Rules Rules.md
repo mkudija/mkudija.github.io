@@ -9,6 +9,8 @@ cover_url: https://books.google.com/books/content?id=j5LBwQEACAAJ&printsec=front
 publish_date: 2020
 isbn10: 075355366X
 isbn13: 9780753553664
+started: 2021-10-30
+finished: 2021-11-06
 ---
 # [*No Rules Rules: Netflix and the Culture of Reinvention*](https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/) by Reed Hastings & Erin Meyer
 

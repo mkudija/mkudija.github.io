@@ -1,4 +1,16 @@
-
+---
+aliases: [High Output Management]
+title: High Output Management
+author: Andrew S. Grove
+category: Business & Economics
+publisher: Vintage
+total_page: 274
+publish_date: 1983
+isbn10: 0679762884
+isbn13: 9780679762881
+started: 2021-04-11
+finished: 2021-05-02
+---
 # [*High Output Management*](https://www.penguinrandomhouse.com/books/72467/high-output-management-by-andrew-s-grove-former-chairman-and-ceo-of-intel/) by Andrew S. Grove
 <img src="https://images3.penguinrandomhouse.com/cover/9780679762881" width=150>
 

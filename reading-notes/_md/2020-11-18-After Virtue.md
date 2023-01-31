@@ -9,6 +9,8 @@ cover_url: ource=gbs_api
 publish_date: 1981
 isbn10: 
 isbn13: 
+started: 2020-11-10
+finished: 2020-11-20
 ---
 # [*After Virtue: A Study in Moral Theory*](https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040) by [[Alasdair MacIntyre]]
 

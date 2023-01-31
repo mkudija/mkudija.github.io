@@ -1,3 +1,16 @@
+---
+aliases: [Things Worth Dying For]
+title: Things Worth Dying For
+author: Charles J. Chaput
+category: Religion
+publisher: Henry Holt and Company
+total_page: 288
+publish_date: 2021-03-16
+isbn10: 125023977X
+isbn13: 9781250239778
+started: 2021-11-14
+finished: 2021-11-24
+---
 # [*Things Worth Dying For: Thoughts on a Life Worth Living*](https://us.macmillan.com/books/9781250239785) by [[Charles J. Chaput]]
 
 <img src="https://mpd-biblio-covers.imgix.net/9781250239785.jpg?w=900" width=150>
@@ -11,7 +24,7 @@
 - Martyrdom: "Those who are faithful to God will in turn have his faithfulness at life's ending, no matter how extreme the test." (16)
 - Asking ourselves what is worth dying for helps us clarify what is worth living for (17)
 - "My thoughts these days often turn to the author and scholar [[J.R.R. Tolkien]]. The drama of the Christian story shaped everything Tolkien wrote; the intensity of his Catholic faith grounded his entire life and genius."
-	- *[[~The Two Towers#^5b350d]]*
+	- *[[~The Two Towers#^5b350d|The Two Towers]]*
 
 
 ## Chapter 2: Gentle, Into That Good Night

@@ -9,8 +9,8 @@ cover_url: https://books.google.com/books/content?id=wqfAzQEACAAJ&printsec=front
 publish_date: 2020
 isbn10: 164585048X
 isbn13: 9781645850489
-started: [2022-12-27]
-finished: [2023-01-15]
+started: 2022-12-27
+finished: 2023-01-15
 ---
 # [*A Church in Crisis: Pathways Forward*](https://stpaulcenter.com/product/a-church-in-crisis-pathways-forward/) by [[Ralph Martin]]
 
@@ -164,7 +164,7 @@ _**Summary**: **[[Universalism]]** is the belief that all or almost all will be 
 
 - [[Karl Rahner]]: implies that most non-Christians are "anonymous Christians" (75)
 - [[Hans Urs von Balthasar]]: popularized the theory that we are obligated to hope for the salvation of all people (75)
-	- [ ] #read Martin's chapter on [[Hans Urs von Balthasar|von Balthasar]] in *[[~Will Many Be Saved?|Will Many Be Saved?]]* 📅 2023-01-22
+	- [ ] #read Martin's chapter on [[Hans Urs von Balthasar|von Balthasar]] in *[[~Will Many Be Saved?|Will Many Be Saved?]]* 
 	- "While Balthasar's hope for universal salvation is perhaps logically possible, it is so only in the sense that it is logically possible that a major league baseball team would win every one of its games in any season...it is 'infinitely improbably'" (86)
 - [[David Bentley Hart]]: "I can't accept a God that who would send anyone to hell" (76, cf. *[[~That All Shall Be Saved|That All Shall Be Saved]]* [[bib]])
 	- In response to this, see "[[2023-01-17 The Opiate of Theologians|The Opiate of Theologians]]" by [[Michael McClymond]] and "[[2023-01-17 Theological Fraud|Theological Fraud]] by Michael Pakaluk in [[First Things]]

@@ -1,4 +1,16 @@
-
+---
+aliases: [Forty Dreams of St. John Bosco]
+title: Forty Dreams of St. John Bosco
+author: St. John Bosco
+category: Religion
+publisher: TAN Books
+total_page: 234
+publish_date: 1997-02
+isbn10: 0895559250
+isbn13: 9780895559258
+started: 
+finished: 
+---
 # [*Forty Dreams of St. John Bosco: The Apostle of Youth*](https://tanbooks.com/products/books/saints/autobiographies/forty-dreams-of-saint-john-bosco-from-st-john-boscos-biographical-memoirs/) by [[St. John Bosco]]
 
 <img src="https://cdn11.bigcommerce.com/s-iuax7bpgx3/images/stencil/1280x1280/products/2121/1334/Forty-Dreams-of-St-John-Bosco-From-Saint-John-Boscos-Biographical-Memoirs-cover-1390__73033.1595444588.jpg?c=1" width=150>
@@ -38,6 +50,12 @@
   - "Let them love what the boys like, and the boys will come to love what the Superiors like." (218)
   - "If his heart is not at peace with God, he will be uneasy and troubled, intolerant of obedience, easily upset over nothing at all; everything seems to be against him and as he himself feels no love, he will draw the conclusion that the Superiors do not love him." (222)
   - "Tell all, young and old, that they are the sons of Mary, Help of Christians." (223)
+
+--- 
+**Topic**: [[St. John Bosco]]
+
+**Source**: 
+- [[Fr. Dailey]]
 
 ---
 Created: 2019-06-17
