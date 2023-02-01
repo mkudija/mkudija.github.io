@@ -102,6 +102,7 @@ finished:
 >  
 >If you get the point where you can easily hold more ideas in your head at once from a *Summa* article you could start reading them straight through, but admittedly that’s sort of difficult especially when there are more than 2-3 objections. By the time you get to the bottom you can’t remember what the objection were.
 
+Article with an interesting idea of how to read the *Summa*: [A better way of reading the Summa Theologica](https://newtheologicalmovement.blogspot.com/2012/01/better-way-of-reading-summa-theologica.html)
 
 ---
 Created: 2021-08-12

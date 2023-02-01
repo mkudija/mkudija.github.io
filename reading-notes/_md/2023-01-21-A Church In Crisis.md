@@ -141,7 +141,7 @@ _**Summary**: There is serious confusion in the Church over very important matte
 _**Summary**: We need to stand firmly on the foundation of of Scripture, Tradition, and the Magisterium._
 
 **Scripture** (it all starts here)
-- There are many faithful and vibrant resources on Scripture today: *[[~Jesus of Nazareth|Jesus of Nazareth]]*, *[[~Verbum Domini|Verbum Domini]]*, *[[~Catholic Commentary on Sacred Scripture New Testament Set|Catholic Commentary on Sacred Scripture]]*, *[[~Inspiration and Interpretation|Inspiration and Interpretation]]*, *[[~Encountering the Living God in Scripture|Encountering the Living God in Scripture]]* [[bib]] (46)
+- There are many faithful and vibrant resources on Scripture today: *[[~Jesus of Nazareth|Jesus of Nazareth]]*, *[[2023-01-31-Verbum Domini|Verbum Domini]]*, *[[~Catholic Commentary on Sacred Scripture New Testament Set|Catholic Commentary on Sacred Scripture]]*, *[[~Inspiration and Interpretation|Inspiration and Interpretation]]*, *[[~Encountering the Living God in Scripture|Encountering the Living God in Scripture]]* [[bib]] (46)
 - But there are also those who **bracket Scripture** by omitting relevant context or challenging passages (49), justified for "psychological difficulty" (51)
 - [[John Paul II]]: we must pass on the faith "whole and entire, in all its rigor and vigor" (56, cf. *[[~Catechesi Tradendae|Catechesi Tradendae]]* [[bib]])
 - [[Robert Cardinal Sarah]]: we must read and trust scripture (58, cf. *[[~The Day is Now Far Spent|The Day is Now Far Spent]]* [[bib]])

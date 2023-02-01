@@ -9,6 +9,9 @@ aliases: [LOTH, Breviary]
 
 <img src="https://cbp-assets.s3.amazonaws.com/products/409-13-1.jpg" width=250>
 
+>This prayer is the voice of a bride speaking to her bridegroom, it is the very prayer that Christ himself, together with his Body, addressed to the Father.
+>–*domini [[2023-01-31-Verbum Domini|Verbum Domini]]* 62
+
 | Hour (Old)         | Hour (New)          | Time    |
 | ------------------ | ------------------- | ------- |
 | Vigils/Matins      | Office of Readings  | 12 a.m. |

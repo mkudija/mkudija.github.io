@@ -89,6 +89,8 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 ### [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - Dataview query on each person's page for next meeting (from [here](https://medium.com/@benenewton/how-i-use-obsidian-to-track-topics-for-my-one-on-one-meetings-35b1907526ff))
 
+### [strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
+
 ```dataviewjs
 
 dv.taskList(dv.pages().file.tasks.where(t => !t.completed && t.text.includes("[[Dana]]")))
