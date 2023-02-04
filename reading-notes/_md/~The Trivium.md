@@ -124,7 +124,7 @@
 
 
 --- 
-**Topic**: [[Trivium]], [[Grammar]]
+**Topic**: [[Classical Education]], [[Trivium]], [[Grammar]]
 
 **Source**: [[Adam Pasternack]] [[2022-04-08-Fri]]
 

@@ -159,6 +159,9 @@ def create_index(pathTemplate, pathOutput, fnames):
             
     template[template.index('#BODY#')] = body
 
+    for line in range(len(template)):
+        template[line] = template[line].replace('#TITLE#', 'Reading Notes')
+  
     with open(pathOutput, mode='wt', encoding='utf-8') as myfile:
         for lines in template:
             myfile.write(''.join(lines))

@@ -9,8 +9,8 @@ cover_url:
 publish_date: 2022
 isbn10: 
 isbn13: 9781685780197
-started: [2022-12-26]
-finished: []
+started: 2022-12-26
+finished: 
 ---
 # *[The Great Story of Israel: Election, Freedom, Holiness](https://bookstore.wordonfire.org/products/the-great-story-of-israel)* by [[Bishop Barron]]
 

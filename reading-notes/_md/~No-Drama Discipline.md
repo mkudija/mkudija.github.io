@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=JDNcAwAAQBAJ&printsec=frontc
 publish_date: 2014-09-23
 isbn10: 0345548051
 isbn13: 9780345548054
-started: [2023-01-10]
-finished: []
+started: 2023-01-10
+finished: 
 ---
 # *[No-Drama Discipline]()* by [[Daniel J. Siegel]] & [[Tina Payne Bryson]]
 

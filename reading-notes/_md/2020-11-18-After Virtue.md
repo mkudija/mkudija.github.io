@@ -129,7 +129,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
   - *Fortuna*: given the best generalizations we can still be defeated by an "unpredicted and unpredictable counter-example" (Taleb's Black Swan)
 - MacIntyre presents four sources of systematic unpredictability in human affairs (93+):
 	- first, a radical new invention cannot be predicted, because predicting it would amount to inventing it, c.f. Karl Popper (also cited by Taleb); this points to the unpredictability of the future of science (93-94)
-	- second, the unpredictability of the decisions of individual agents generates uncertainty in the social world...after citing Thomas, he says that "it is precisely insofar as we differ from God that unpredictability invades our lives"; MacIntyre then suggests that those who "seek to eliminate unpredictability from the social world or to deny it" are effectively claiming to be God (which in fact the "Humanitarians" *do* claim in Robert Hugh Benson's *Lord of the World*) (95-97)
+	- second, the unpredictability of the decisions of individual agents generates uncertainty in the social world...after citing Thomas, he says that "it is precisely insofar as we differ from God that unpredictability invades our lives"; MacIntyre then suggests that those who "seek to eliminate unpredictability from the social world or to deny it" are effectively claiming to be God (which in fact the "Humanitarians" *do* claim in Robert Hugh Benson's *[[2020-11-27-Lord of the World|Lord of the World]]*) (95-97)
 	- third, the failings of a game theory view of social life due to 1) infinite reflexivity (thinking an infinite number of moves ahead), 2) imperfect knowledge, and 3) multiple games or layers of games (97-99)
 	- fourth, pure contingency (tiny changes can have huge impacts) (99-100)
 - Then MacIntyre presents four predictable elements of human life (102+):
@@ -137,7 +137,7 @@ It's important to note that *After Virtue* is a first statement of the problem a
 	- statistical regularities (more colds in winter)
 	- knowledge of the causal regularities of nature
 	- knowledge of the causal regularities of social life
-- MacIntyre suggests the systematic study of *error* in social scientific predictions as a first step in better understanding them (105)
+- MacIntyre suggests the systematic study of *error* in social scientific predictions as a first step in better understanding them (105, cf. [[Forecasting]])
 - "Organizational success and organizational predictability exclude one another", so certain kinds of Totalitarianism are impossible (106)
 - all of this to reaffirm that the concept of managerial effectiveness is a moral fiction..."No one is or could be in charge." (107)     
 
@@ -313,9 +313,9 @@ It's important to note that *After Virtue* is a first statement of the problem a
 ## Prologue to the Third Edition (2007)
 ***[PDF Link](https://www3.nd.edu/~undpress/excerpts/P01162-ex.pdf)***
 - subsequent works:
-	- #wishlist *Whose Justice? Which Rationality?* (1988)
-	- *Three Rival Versions of Moral Enquiry* (1990)
-	- #wishlist *Dependent Rational Animals* (1999)
+	- *[[~Whose Justice? Which Rationality?|Whose Justice? Which Rationality?]]* (1988)
+	- *[[~Three Rival Versions of Moral Enquiry|Three Rival Versions of Moral Enquiry]]* (1990)
+	- *[[~Dependent Rational Animals|Dependent Rational Animals]]* (1999)
 - "When I wrote After Virtue, I was already an Aristotelian, but not yet a
 Thomist...I became a Thomist after writing After Virtue in part because I became convinced that [[St. Thomas Aquinas|Aquinas]] was in some respects a better Aris-
 totelian than [[Aristotle]]" (x)

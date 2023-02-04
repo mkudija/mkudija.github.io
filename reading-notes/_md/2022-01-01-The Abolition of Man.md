@@ -3,7 +3,7 @@ aliases: [The Abolition of Man]
 title: The Abolition of Man
 author: C. S. Lewis
 category: Religion
-publisher: Harper Collins
+publisher: HarperCollins
 total_page: 128
 cover_url: http://books.google.com/books/content?id=ST87o-KSzp0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 publish_date: 2009-06-09

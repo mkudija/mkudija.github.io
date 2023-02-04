@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=FuhKw_DOhOQC&printsec=frontc
 publish_date: 2005
 isbn10: 1586170457
 isbn13: 9781586170455
-started: [2023-01-05]
-finished: []
+started: 2023-01-05
+finished: 
 ---
 # *[You Can Understand the Bible](https://ignatius.com/you-can-understand-the-bible-ycubp/)* by [[Peter Kreeft]]
 

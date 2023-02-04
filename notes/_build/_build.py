@@ -167,6 +167,10 @@ def create_index(pathTemplate, pathOutput, fnames):
         template = [x.strip('\n,') for x in f]
            
     template = [x.strip() for x in template] 
+
+    for line in range(len(template)):
+        template[line] = template[line].replace('#TITLE#', 'Notes')
+
             
     template[template.index('#BODY#')] = body
 
