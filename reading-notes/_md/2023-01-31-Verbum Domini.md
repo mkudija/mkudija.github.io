@@ -30,7 +30,6 @@ Reading this is timely in three ways: given the recent death of Pope Benedict an
 
 
 
-
 <details>
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
@@ -314,7 +313,8 @@ The word and joy [123]
 	- Contemplation: *what conversion of mind, heart, and life is the Lord asking of us?*
 	- Action: *make our life a gift for others*
 - Marian prayer is an aid to meditating on the mysteries of Scripture: [[The Rosary]] and [[The Angelus]]
-	- [ ] "It is fitting that the announcement of each mystery be accompanied by a brief biblical text pertinent to that mystery, so as to encourage the [[Memory|memorization]] of brief biblical passages relevant to the mysteries of Christ’s life." (88) → create scriptural rosary note 📅 2023-02-01 
+	- "It is fitting that the announcement of each mystery be accompanied by a brief biblical text pertinent to that mystery, so as to encourage the [[Memory|memorization]] of brief biblical passages relevant to the mysteries of Christ’s life." (88) 
+		- → [[The Mysteries of the Rosary]]
 
 
 ## **[PART THREE: VERBUM MUNDO](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html#VERBUM_MUNDO)**

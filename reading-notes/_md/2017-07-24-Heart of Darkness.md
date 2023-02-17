@@ -1,5 +1,24 @@
+---
+aliases: [Heart of Darkness]
+title: Heart of Darkness
+author: Joseph Conrad
+category: Fiction
+publisher: Courier Corporation
+total_page: 82
+publish_date: 1990
+isbn10: 0486264645
+isbn13: 9780486264646
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
+# *[Heart of Darkness]()* by [[Joseph Conrad]]
 
-# Heart of Darkness by Joseph Conrad
+<img src="http://books.google.com/books/content?id=cWDcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Courier Corporation, 1990), 82`
 
 * “What greatness had not floated on the ebb of that river into the mystery of an unknown earth!… The dreams of men, the seed of commonwealths, the germs of empires” (2)
 * “The yearns of seamen have a direct simplicity” (3).
@@ -11,7 +30,12 @@
 * “It takes a man all his inborn strength to fight hunger properly. It’s really easier to face bereavement, dishonor, and the perdition of one’s soul - than this kind of prolonged hunger” (38)
 * “I have wrestled with death. It is the most unexciting contest you can imagine. It takes place in an impalpable grayness, with nothing underfoot, with nothing around, without spectators, without clamor, without glory, without the great desire of victory, without the great fear of defeat, in a sickly atmosphere of tepid skepticism, without much belief in your own right, and still less in that of your adversary” (65)
 * “They trespass upon my thoughts” (66)
-* Words
-    * diaphanous (adj) Light, delicate, and translucent: “The water shone pacifically; the sky, without a speck, was a benign immensity of unstained light; the very mist on the Essex marshes was like a gauzy and radiant fabric, hung from the wooded rises inland, and draping the low shores in diaphanous folds” (2).
-    * trireme (noun)  An ancient Greek or Roman war galley with three banks of oars
 
+--- 
+**[[New Words]]**
+* **diaphanous** (adj) Light, delicate, and translucent: “The water shone pacifically; the sky, without a speck, was a benign immensity of unstained light; the very mist on the Essex marshes was like a gauzy and radiant fabric, hung from the wooded rises inland, and draping the low shores in diaphanous folds” (2).
+* **trireme** (noun)  An ancient Greek or Roman war galley with three banks of oars
+
+---
+Created: [[2021-03-06-Sat]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

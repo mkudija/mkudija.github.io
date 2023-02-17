@@ -13,7 +13,7 @@ started: 2022-12-26
 finished: 2023-01-16
 ---
 
-# [*The Holy Mass: On Earth as It Is in Heaven*](https://www.sophiainstitute.com/products/item/the-holy-mass) by Kevin and Mary O’Neill
+# [*The Holy Mass: On Earth as It Is in Heaven*](https://www.sophiainstitute.com/products/item/the-holy-mass) by [[Kevin O’Neill]] and [[Mary O’Neill]]
 
 <img src="https://www.sophiainstitute.com/images/uploads/products/_medium/9781644136980.png" width=150>
 

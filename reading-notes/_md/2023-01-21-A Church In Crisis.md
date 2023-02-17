@@ -177,7 +177,7 @@ _**Summary**: **[[Universalism]]** is the belief that all or almost all will be 
 - If there is not freedom to reject God, then true love and friendship with him is not possible
 - [[Vatican II]] teaches that while salvation is *possible* without hearing the Gospel, very often the conditions are *not* met (see the last three sentences of *[[~Lumen Gentium#16|Lumen Gentium 16]]*, which are often dropped)
 
->The devil's worst and most fatal preparation for the coming of Antichrist is the weakening of men's belief in eternal punishment. Were they the last words I might ever say to you, nothing should I wish to say to you with more emphasis than this; that next to the thought of the Precious Blood (God's merciful suffering for you), there is no thought in all your faith more precious or more needful for you than the thought of Eternal Punishment. —[[Fr. Frederick Faber]], *[[~Notes on doctrinal and spiritual subjects [ed by JE Bowden]|Notes on Doctrinal and Spiritual Subjects]]*, 456 cf. 80
+>The devil's worst and most fatal preparation for the coming of Antichrist is the weakening of men's belief in eternal punishment. Were they the last words I might ever say to you, nothing should I wish to say to you with more emphasis than this; that next to the thought of the Precious Blood (God's merciful suffering for you), there is no thought in all your faith more precious or more needful for you than the thought of Eternal Punishment. —[[Fr. Frederick Faber]], *[[~Notes on Doctrinal and Spiritual Subjects|Notes on Doctrinal and Spiritual Subjects]]*, 456 cf. 80
 
 
 ## Chapter 4: The Revolution Continues
@@ -224,7 +224,7 @@ _**Summary**: There are a lot of people in the church today doing gymnastics mak
 ## Chapter 7: Seeing and Not Seeing
 _**Summary**: We need to stop pretending that things are ok. Non-radical solutions may not be enough to right the ship._
 
-> The Church will find her essence afresh and with full conviction in that which was always at her center: faith in the triune God, in Jesus Christ, the SOn of God made man, in the presence of the Spirit until the end of the world.  (236 cf. *[[2021-07-03-Faith and the Future|Faith and the Future]]* [[bib]])
+> The Church will find her essence afresh and with full conviction in that which was always at her center: faith in the triune God, in Jesus Christ, the Son of God made man, in the presence of the Spirit until the end of the world.  (236 cf. *[[2021-07-03-Faith and the Future|Faith and the Future]]* [[bib]])
 
 - Preparing for the [[coming persecution]]: "None of us can be sure of what we would do under increased pressure, but unless we are cultivating the deepest relationship with the Lord possible and practicing self-denial, the acceptance of suffering, and courage and boldness in proclaiming and living the truth now, we will not be ready for the infusion of additional grace that will be needed—and given—as the pressures increase." (241)
 - Over-reliance on sociology and psychology leaves a false impression of determinism (244)
@@ -257,7 +257,7 @@ _**Summary**: Pastoral passivity has been one of the main factors contributing t
 _**Summary**: God's Judgement is real, and he chastens those he loves._
 
 - [[John Tracy Ellis]]: the chief cause of the decline of Christian life has been the assimilation of Catholics into mainstream American life (339)
-- [[John Paul II]] warns of the coming "great apostasy" in *[[~Sign of Contradiction]]* [[bib]] (342 cf. [[2 Thes-02]])
+- [[John Paul II]] warns of the coming "great apostasy" in *[[~Sign of Contradiction|Sign of Contradiction]]* [[bib]] (342 cf. [[2 Thes-02]])
 - Our Lady's request at Fatima was to pray a rosary every day for world peace (346 cf. *[[~Fatima for Today|Fatima for Today]]* [[bib]])
 	- Sr. Lucia: "The decisive battle between the Lord and the kingdom of Satan will be about marriage and the family." 
 
@@ -266,7 +266,7 @@ _**Summary**: God's Judgement is real, and he chastens those he loves._
 _**Summary**: The appropriate response to the situation of the Church today is turning back to God in repentance so that we may undergo his purification._
 
 - We need to consider not only the evil we have done but also the "good" we have done that was not the will of God. (364)
-- Those with pastoral responsibility, including parents, will have to give a special accounting: "Let not many of you become teachers, my brethren, for you know that we who teach shall be judged with greater strictness." (374 cf. [[Jas-03#v1]])
+- Those with pastoral responsibility, including [[Parenting|parents]], will have to give a special accounting: "Let not many of you become teachers, my brethren, for you know that we who teach shall be judged with greater strictness." (374 cf. [[Jas-03#v1]])
 
 >I believe that it is virtually impossible to be a responsible Christian unless we are making room in our daily lives for prayer and sound spiritual reading, for study of Christian truth, and for contact with others who also want to live fervent Christian lives and serve God faithfully. (381)
 
@@ -275,7 +275,7 @@ _**Summary**: The appropriate response to the situation of the Church today is t
 _**Summary**: We need to be grounded in the truth, intercede for the Church and ask for the guidance of the Holy Spirit, and take action to honor God's Word._
 
 - "A firm and clear grasp of Christian truth must be the basis of our relationship with God." (385)
-- "If any of you lacks wisdom, let him ask God, who gives to all men generously and without reproaching, and it will be given him." ( 388 cf. [[Jas-01#v5]])
+- "If any of you lacks wisdom, let him ask God, who gives to all men generously and without reproaching, and it will be given him." (388 cf. [[Jas-01#v5]])
 - "The fruitfulness of our life and work depends on the degree to which we have been transformed in Christ": helpful to this is reading the [[Doctors of the Church]], as well as faithful contemporary Catholic spiritual writers: [[Fr. Thomas Dubay]], [[Fr. Donald Haggerty]], [[Fr. Jacques Philippe]]; life is short so [[How I Choose What to Read|read]] the best! (388, 507)
 - "The first order of business for today needs to be reform, repentance, and rebuilding the basic fabric of Catholic life." (401)
 - We need to respond with prayer for the Church and for the outpouring of the Holy Spirit, especially through the Rosary (404)

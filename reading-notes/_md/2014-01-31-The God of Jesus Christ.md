@@ -1,5 +1,25 @@
+---
+aliases: [The God of Jesus Christ, 2nd Edition]
+title: The God of Jesus Christ, 2nd Edition
+author: Joseph Cardinal Ratzinger
+category: Religion
+publisher: Ignatius Press
+total_page: 123
+publish_date: 2018-08-22
+isbn10: 1642290416
+isbn13: 9781642290417
+source: [[ND Vision]]
+wishlist: 
+acquired: 2014
+started: 
+finished: 
+---
+# *[The God of Jesus Christ](https://ignatius.com/the-god-of-jesus-christ-gjcp/)* by [[Joseph Ratzinger]]
 
-# *The God of Jesus Christ* by [[Joseph Ratzinger]]
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1006/1232/GJCP_r__56986.1617023585.jpg?c=1" width=150>
+
+`(New York: Ignatius Press, 2018-08-22), 123`
+
 * God
     * God has names
         * we are Vikings in spaceflight (15)
@@ -48,3 +68,24 @@
     * sin glossa --> live Sacred scripture (108)
     * "One cannot display the Spirit of God as one displays goods for sale in a ship.  He can be seen only by the one who bears him within himself" (110
 
+
+--- 
+**Topic**: 
+
+**Source**
+- 
+
+**Bibliography**
+
+```query
+[[bib]] file:(<%tp.file.title%>)
+```
+ 
+
+**[[New Words]]**
+
+- 
+
+---
+Created: [[<% tp.file.creation_date("YYYY-MM-DD-ddd") %>]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

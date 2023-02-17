@@ -51,6 +51,7 @@ publish: true
 ## PyCharm
 - `⌘ + ⇧ + 8` - `cmd + shift + 8` - multi-select (or just Shift and arrow)
 - `⌥ + ⌘ + L` - `option + command + L` - format lines
+- `⇧ + ⌘ + L` - `shift + command + L` - open new SQL console 
 - `⌃ + G` - `ctrl + G` - command + D sublime equivalent to select next occurrence
 - `⌥ + ⇧ + ↑` - `option + shift + up arrow` - move lines up
 - `⇧ + ⌥ + ⌘ + select` - `shift + option + command + select` - multi-select

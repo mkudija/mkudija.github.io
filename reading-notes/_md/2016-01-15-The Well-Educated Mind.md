@@ -1,4 +1,47 @@
+---
+aliases: [The Well-Educated Mind, The Well-Educated Mind-A Guide to the Classical Education You Never Had]
+title: The Well-Educated Mind
+author: Susan Wise Bauer
+category: [[Classical Education]]
+publisher: W. W. Norton & Company
+total_page: 444
+publish_date: 2003-08-17
+isbn10: 0393070972
+isbn13: 9780393070972
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
+# *[The Well-Educated Mind: A Guide to the Classical Education You Never Had]()* by [[Susan Wise Bauer]]
 
+<img src="http://books.google.com/books/content?id=7T-1jnYgIWUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: W. W. Norton & Company, 2003-08-17), 444`
+
+
+
+--- 
+**Topic**: 
+
+**Source**
+- 
+
+**Bibliography**
+
+```query
+[[bib]] file:(<%tp.file.title%>)
+```
+ 
+
+**[[New Words]]**
+
+- 
+
+---
+Created: [[<% tp.file.creation_date("YYYY-MM-DD-ddd") %>]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 # *The Well-Educated Mind* by [[Susan Wise Bauer]]
 
 * Chapter 1 - Training Your Mind

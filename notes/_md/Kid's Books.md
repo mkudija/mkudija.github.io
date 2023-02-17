@@ -63,8 +63,10 @@ publish: true
 - *Cindy Ellen: A Wild Western Cinderella* by Susan Lowell
 - *The Pilot and the Little Prince* by Peter Sis
 - Tomie dePaola
-	- *The Great Adventure of Christopher Columbus*
+	- *Mary the Mother of Jesus*
 	- *The Clown of God*
+	- *Queen Esther*
+	- *The Great Adventure of Christopher Columbus*
 - Stephen Biesty
 	- *Stephen Biesty's Incredible Cross Sections*
 - David Macaulay
@@ -72,6 +74,9 @@ publish: true
 	- *Castle*
 	- *Pyramid*
 - *The True Story of Stanta Claus* by Paul Prokop
+- Anthony DeStephano
+	- *Our Lady's Wardrobe*
+	- *Our Lady's Picture Book*
 - *[[2021-06-29-Brother Hugo and the Bear|Brother Hugo and the Bear]]* by Katy Beebe
 - *[[~The Holy Mass|The Holy Mass (Lego)]]* by Kevin and Mary O’Neill
 - *[[~The Weight of a Mass|The Weight of a Mass]]* by Josephine Nobisso

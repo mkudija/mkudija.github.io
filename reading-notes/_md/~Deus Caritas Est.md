@@ -6,6 +6,8 @@
 `(City: Publisher, YYYY), PPP`
 
 
+>Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction.
+
 --- 
 **Topic**: [[Encyclical]]
 
@@ -24,4 +26,4 @@
 
 ---
 Created: [[2022-07-13-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -1,3 +1,6 @@
+---
+aliases: [The Screwtape Letters]
+---
 # *The Screwtape Letters* by [[C. S. Lewis]]
 
 `(New York: Macmillan, 1943), 160`

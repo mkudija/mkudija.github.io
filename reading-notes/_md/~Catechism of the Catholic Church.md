@@ -221,7 +221,7 @@ From the *Roman Catechism* [[bib]] (25):
 	- "The books of the OldTestament bear witness to the whole divine pedagogy of God's saving love: these writings "are a storehouse of sublime teaching on God and of sound wisdom on human life, as well as a wonderful treasury of prayers" (122)
 	- "The Gospels are the heart of all the Scriptures" (125)
 	- **typology**: discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son (128)
-	- **The New Testament lies hidden in the Old and the Old Testament is unveiled in the New** (129)
+	- [[The unity of the Old and New Testaments]]: **The New Testament lies hidden in the Old and the Old Testament is unveiled in the New** (129)
 - [V. Sacred Scripture in the Life of the Church](https://www.vatican.va/archive/ENG0015/__PS.HTM)
 	- [[St. Jerome]]: "Ignorance of the Scriptures is ignorance of Christ." (133) 
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PT.HTM)  

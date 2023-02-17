@@ -18,6 +18,9 @@ finished: 2021-05-14
 
 `(Hoboken: Wiley, 2018), 274`
 
+## Summary
+<div class="note"> <p>Ammous' spends the first two thirds of his treatise on Bitcoin discussing the theory and history of money with an emphasis on the Austrian School of economics. Bitcoin's value is in its soundness as money having a fixed supply and being outside the control of any centralized authority. The monetary history of the twentieth century is the story of inflation of government currencies and the subsequent increase in government restriction of individual freedom. Bitcoin offers a digital solution to these issues and a means for reestablishing individual sovereignty and economic freedom.</p> </div> 
+
 <details>
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
@@ -72,9 +75,6 @@ finished: 2021-05-14
 
 <!-- /MarkdownTOC -->
 </details>
-
-## Summary
-Ammous' spends the first two thirds of his treatise on Bitcoin discussing the theory and history of money with an emphasis on the Austrian School of economics. Bitcoin's value is in its soundness as money having a fixed supply and being outside the control of any centralized authority. The monetary history of the twentieth century is the story of inflation of government currencies and the subsequent increase in government restriction of individual freedom. Bitcoin offers a digital solution to these issues and a means for reestablishing individual sovereignty and economic freedom.
 
 
 ## Key Concepts
@@ -282,7 +282,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 
 
 ## Chapter 8: Digital Money
-*Summary: **Bitcoin** is the first digital money: it does not require trusting a third party and is a digital asset that is verifyably scarce. A decentralized peer-to-peer network and proof-of-work are components of the technology that enables this.*
+*Summary: **Bitcoin** is the first digital money: it does not require trusting a third party and is a digital asset that is verifiably scarce. A decentralized peer-to-peer network and proof-of-work are components of the technology that enables this.*
 
 ### Bitcoin as Digital Cash
 - A short history of money:
@@ -359,7 +359,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 - Bitcoin is effectively *sovereign*: runs by its own rules and outsiders cannot alter the rules
 
 ### Antifragility
-- Bitcoin embodies Taleb's *antifragility*: gains from disorder, i.e. banning Silk Road and other exchanges only proves Bitcoin's value proposition
+- Bitcoin embodies Taleb's *[[antifragility]]*: gains from disorder, i.e. banning Silk Road and other exchanges only proves Bitcoin's value proposition
 
 ### Can Bitcoin Scale?
 - There is a limit to the number of transactions Bitcoin can process while keeping the ledger small enough to run on a distributed network of nodes 
@@ -399,7 +399,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
 
 **Bibliography**
 - Ludwig von Mises
-  - ***[[~Human Action]]*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
+  - ***[[~Human Action|Human Action]]*** by Ludwig von Mises (3, 27, 37, 39, 79, 111, 142, 145, etc.)
   - *The Theory of Money and Credit* by [[Ludwig von Mises]] (70)
   - *Socialism* by [[Ludwig von Mises]] (109)
   - *Ludwin von Mises on Money and Inflation* by Bettina Bien Greaves (135)
@@ -439,7 +439,7 @@ Ammous' spends the first two thirds of his treatise on Bitcoin discussing the th
   - Paul Krugman
 - *Digital Gold* by Nathaniel Popper (182)
 - *The Ultimate Resource* by Julian Simon (human time, 193)
-- ***[[~The Sovereign Individual]]*** by James Davidson and William Rees-Mogg (200)
+- ***[[~The Sovereign Individual|The Sovereign Individual]]*** by James Davidson and William Rees-Mogg (200)
 - [*10 Hours of Bitcoin*](https://10hoursofbitcoin.com/) (footnote on 241)
 
 ---

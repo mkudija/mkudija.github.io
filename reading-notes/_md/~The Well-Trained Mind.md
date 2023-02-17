@@ -1,4 +1,47 @@
+---
+aliases: [The Well-Trained Mind]
+title: The Well-Trained Mind
+author: Susan Wise Bauer, Jessie Wise
+category: [[Classical Education]]
+publisher: W. W. Norton & Company
+total_page: 852
+publish_date: 2004
+isbn10: 0393059278
+isbn13: 9780393059274
+source: 
+wishlist: 
+acquired: 2017-11-07
+started: 
+finished: 
+---
+# *[The Well-Trained Mind]()* by [[Susan Wise Bauer, Jessie Wise]]
 
+<img src="http://books.google.com/books/content?id=mXI6ym64pRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: W. W. Norton & Company, 2004), 852`
+
+
+
+--- 
+**Topic**: 
+
+**Source**
+- 
+
+**Bibliography**
+
+```query
+[[bib]] file:(<%tp.file.title%>)
+```
+ 
+
+**[[New Words]]**
+
+- 
+
+---
+Created: [[<% tp.file.creation_date("YYYY-MM-DD-ddd") %>]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 # [*The Well-Trained Mind*]() by [[Susan Wise Bauer]]
 
 <img src="" width=150>

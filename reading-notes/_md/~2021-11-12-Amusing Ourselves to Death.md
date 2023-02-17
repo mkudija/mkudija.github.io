@@ -1,3 +1,19 @@
+---
+aliases: [Amusing Ourselves to Death]
+title: Amusing Ourselves to Death
+author: Neil Postman
+category: Social Science
+publisher: Penguin
+total_page: 210
+publish_date: 2005-12-27
+isbn10: 014303653X
+isbn13: 9780143036531
+source: [[Laura]] Christmas 2021
+wishlist: 
+acquired: 2021-12-25
+started: 
+finished: 
+---
 # [*Amusing Ourselves to Death*](https://www.penguinrandomhouse.com/books/297276/amusing-ourselves-to-death-by-neil-postman/) by [[Neil Postman]]
 
 <img src="https://images1.penguinrandomhouse.com/cover/9780143036531" width=150>
@@ -97,7 +113,7 @@ See [this from Nat Eliason](https://www.nateliason.com/notes/amusing-death-neil-
 
 
 --- 
-**Source**: *[[2021-10-30-Live Not By Lies]]*
+**Source**: *[[2021-10-30-Live Not By Lies|Live Not By Lies]]*
 
 **Bibliography**
 

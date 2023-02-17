@@ -183,11 +183,11 @@
 Books Fr. Martin refers to:
     * With God in Russia by [[Walter J. Ciszek, S.J.]]*
     * A Friendship Like No Other by William A. Barry
-    * *[[2014-12-10-The Seven Storey Mountain]]* by [[Thomas Merton]]* (first book he read after watching the documentary)
+    * *[[2014-12-10-The Seven Storey Mountain|The Seven Storey Mountain]]* by [[Thomas Merton]]* (first book he read after watching the documentary)
     * Habits of the Heart by Robert Bellah
     * Mariette in Ecstasy
     * The Spiritual Exercises Reclaimed by Katherine Dyckman*
-    * Inner Compass: An Invitation to Ignation Spirituality
+    * Inner Compass: An Invitation to Ignatian Spirituality
     * The Selfless Way of Christ
     * Nothing to be Frightened Of
     * Guidelines for Mystical Prayer
@@ -210,31 +210,31 @@ Books Fr. Martin refers to:
     * The Progress Paradox
     * Following Christ in a Consumer Society
     * Together for Mission
-    * *[[~The Lord of the Rings]]*
+    * *[[~The Lord of the Rings|The Lord of the Rings]]*
     * Harry Potter
     * The Discernment of Spirits
-    * The Screwtape Letters
+    * [[2018-07-21-The Screwtape Letters|The Screwtape Letters]]
     * The First Jesuits*
     * Poverty of Spirit
     * Draw me into your friendship
     * Stretched for greater glory
     * One Jesuits Spiritual Journey
     * In Pursuit of Love
-    * *[[2021-12-08-He Leadeth Me]]* by [[Walter J. Ciszek, S.J.]]
+    * *[[2021-12-08-He Leadeth Me|He Leadeth Me]]* by [[Walter J. Ciszek, S.J.]]
     * Talking about god
-    * why do we suffer
-    * The day Christ died
+    * Why do we Suffer
+    * The Day Christ Died
     * Eyes to see, ears to hear
     * Heroic Leadership
     * Wise Choices
     * A Time to keep silent
     * Eyes to see, ears to hear
     * Crazybusy: overstretched, overbooked, and about to snap
-    * why we hate us
+    * Why we Hate us
     * Power and secret of the Jesuits
 
 ---
 Created: 2013-10-21
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 
 

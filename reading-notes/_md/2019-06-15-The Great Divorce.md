@@ -1,3 +1,6 @@
+---
+aliases: [The Great Divorce]
+---
 
 # [*The Great Divorce*](https://www.amazon.com/Great-Divorce-C-Lewis-2015-04-21/dp/B01K15VDRM/ref=sr_1_7?crid=20911MCXTRS4R&keywords=the+great+divorce&qid=1560612551&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-7) by C.S. Lewis
 

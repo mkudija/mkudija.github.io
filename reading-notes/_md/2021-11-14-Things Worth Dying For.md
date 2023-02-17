@@ -63,7 +63,7 @@ finished: 2021-11-24
 
 ## Chapter 5: Dulce et Decorum Est
 **Summary**: Things worth living and dying for: nation
-- *The Song of Roland*: our loves and loyalties desire public forms, and the things we're willing to die for are those we hold as sacred
+- *[[~The Song of Roland|The Song of Roland]]*: our loves and loyalties desire public forms, and the things we're willing to die for are those we hold as sacred
 - Sacrifice has sanctifying power, cf. the *[[Gettysburg Address]]*
 - *The Warriors: Reflections on Men in Battle* by J. Glenn Gray: our citizenship draws us beyond ourselves in a rightly ordered patriotism
 - This rightly ordered (and skeptical) patriotism is all the more important for Americans because our country is an artificial creation of men, a collection of people who otherwise would easily descend into our individual interests

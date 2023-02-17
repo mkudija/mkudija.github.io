@@ -469,7 +469,7 @@ Mohammed:
 Reference to hard money, cf. *[[2021-03-14-The Bitcoin Standard]]* (560)
 
 ### Inferno Canto 31 - Pride
-*The Song of Roland* (cf. *Inferno* Canto 31. 18)
+*[[~The Song of Roland|The Song of Roland]]* (cf. *Inferno* Canto 31. 18)
 
 > When you are nearer, you will understand 
 > how much your eyesight is deceived by distance.
@@ -477,7 +477,7 @@ Reference to hard money, cf. *[[2021-03-14-The Bitcoin Standard]]* (560)
 > –*Inferno* Canto 31. 25-27
 
 <br><br>
-> For when the power of throught
+> For when the power of thought
 > is coupled with ill will and naked force
 > there is no refuge from it for mankind
 > –*Inferno* Canto 31. 55-57

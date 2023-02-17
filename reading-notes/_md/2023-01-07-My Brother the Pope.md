@@ -131,7 +131,7 @@ _**Summary**: Due to the war the brothers are at the same stage academically and
 ## Chapter 7: Professor (1951-1977)
 _**Summary**: Ratzinger becomes a professor and teaches in Bonn, Münster, Tübingen, Regensburg._
 - The pastor of the parish that was Ratzinger's first parish was a model priest for him, who died while bringing the sacraments to a dying person (174)
-- [ ] #read [[Joseph Ratzinger]]'s essay from when he was a young priest: *[[2023-01-30 Ratzinger The New Pagans and the Church|The New Pagans and the Church]]* ⏫ 📅 2023-01-12
+- [[Joseph Ratzinger]]'s essay from when he was a young priest: *[[2023-01-30 Ratzinger The New Pagans and the Church|The New Pagans and the Church]]*
 - "We always spent our vacation in place we wanted to see, where we could become a little better informed and educated." (177)
 - Ratzinger completed his *habilitation* (second dissertation to become a professor) on the topic of "Saint Bonaventure's Concept of Revelation and Theology of History", his parents moved in with him, he had difficulty getting his *habilitation* approved, but was finally at age 29 a professor 
 - At Bonn, Ratzinger meets Joseph Cardinal Frings who brings him along with him to [[Vatican II]]

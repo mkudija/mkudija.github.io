@@ -3,12 +3,16 @@ aliases: [The Tolkien Reader]
 title: The Tolkien Reader
 author: John Ronald Reuel Tolkien
 category: Adventure stories
-publisher: New York : Ballantine Books
+publisher: Ballantine Books
 total_page: 251
-cover_url: https://books.google.com/books/content?id=2yQeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 publish_date: 1965
-isbn10: 
-isbn13:
+isbn10: 0345345061
+isbn13: 
+source: 
+wishlist: 
+acquired: 2015-04-20
+started: 
+finished: 
 ---
 # [*The Tolkien Reader*](https://www.nobleknight.com/P/2147568076/Tolkien-Reader-The) by [[J.R.R. Tolkien]]
 
@@ -39,7 +43,23 @@ isbn13:
 ## The Adventures of Tom Bombadil
 
 
+--- 
+**Topic**: 
+
+**Source**
+- 
+
+**Bibliography**
+
+```query
+[[bib]] file:(~The Tolkien Reader)
+```
+ 
+
+**[[New Words]]**
+
+- 
+
 ---
 Created: [[2022-02-12-Sat]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

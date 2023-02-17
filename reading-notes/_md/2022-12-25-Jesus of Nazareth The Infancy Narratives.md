@@ -59,7 +59,7 @@ _**Summary**: The paradox of Jesus' origin is that he is both known as the ordin
 ## Chapter 2: The Annunciation of the Birth of John the Baptist and the Annunciation of the Birth of Jesus
 
 **On the particular literary character of the texts**
-- "A story is told here which interprets the Scriptures. And the converse is also true: what the Scriptures intended to say in many passages becomes visible only now through this new story." (15, cf. *[[2022-12-03-Dei Verbum#^b3aa81|Dei Verbum]]* 16: "God, the inspirer and author of both Testaments, wisely arranged that **the New Testament be hidden in the Old and the Old be made manifest in the New.**")
+- "A story is told here which interprets the Scriptures. And the converse is also true: what the Scriptures intended to say in many passages becomes visible only now through this new story." (15, cf. *[[2022-12-03-Dei Verbum#^b3aa81|Dei Verbum]]* 16: "God, the inspirer and author of both Testaments, wisely arranged that **the New Testament be hidden in the Old and the Old be made manifest in the New.**" re [[The unity of the Old and New Testaments]]y)
 - The infancy narratives are interpreted history (17)
 
 **The annunciation of the birth of John**

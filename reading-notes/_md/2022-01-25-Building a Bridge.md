@@ -9,6 +9,7 @@ cover_url: https://books.google.com/books/content?id=hKxLDwAAQBAJ&printsec=front
 publish_date: 2018
 isbn10: 006287344X
 isbn13: 9780062873446
+acquired: true
 started: 2022-01-17
 finished: 2022-01-25
 ---
@@ -56,4 +57,4 @@ finished: 2022-01-25
 
 ---
 Created: [[2022-01-27-Thu]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

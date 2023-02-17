@@ -2,7 +2,7 @@
 aliases: [The Lost Tools of Learning]
 title: The Lost Tools of Learning
 author: Dorothy L. Sayers
-category: Education
+category: [[Classical Education]]
 publisher: Fig
 total_page: 30
 publish_date: 1948
@@ -17,7 +17,6 @@ finished:
 
 `(City: Publisher, 1947), PPP`
 
-- [ ] read 📅 2023-02-03
 
 - from [Capstone Classical Academy](https://capstoneclassical.com/about/)
 	- >_Is not the great defect of our education today. . . that although we often succeed in teaching our pupils “subjects,” we fail lamentably on the whole in teaching them how to think: they learn everything, except the art of learning._
@@ -38,4 +37,4 @@ finished:
 
 ---
 Created: [[2022-02-21-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

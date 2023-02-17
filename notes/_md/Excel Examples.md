@@ -6,6 +6,9 @@ publish: true
 
 [Example Workbook](https://github.com/mkudija/img/tree/main/excel-examples)
 
+### Data Tables
+[Data Table in Excel - Examples, Types, How to Create/Use?](https://www.wallstreetmojo.com/data-table-in-excel/)
+
 ### Sumifs with multiple conditions
 
 ```

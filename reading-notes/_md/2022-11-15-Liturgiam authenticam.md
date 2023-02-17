@@ -28,7 +28,7 @@ Notes
 - Requires "liturgical books marked by sound doctrine, which are exact in wording, free from all ideological influence" (3) 
 - Eastern Churches: "The Council asked that the traditions of each of these particular Churches be preserved whole and intact." (4)
 	- "the same vigilance is required for the safeguarding ..the Latin Church"
-- [[~Roman Missal]]: "sign and instrument of the integrity and unity of the Roman Rite" (4)
+- *[[~Roman Missal|The Roman Missal]]*: "sign and instrument of the integrity and unity of the Roman Rite" (4)
 - "For the Roman Rite is marked by a signal capacity for assimilating into itself spoken and sung texts, gestures and rites derived from the customs and the genius of diverse nations and particular Churches – both Eastern and Western – into a harmonious unity that transcends the boundaries of any single region. This characteristic is particularly evident in its orations, which exhibit a capacity to transcend the limits of their original situation so as to become the prayers of Christians in any time or place." (5)
 - In some cases, translation errors "have impeded the progress of the inculturation that actually should have taken place" (6)
 - "The norms set forth in this Instruction are to be substituted for all norms previously published on the matter, with the exception of the Instruction _Varietates legitimae_" (8)
@@ -56,7 +56,7 @@ Notes
  - "The *[[Bible Translations#Nova Vulgata Editio|Nova Vulgata Editio]]* is the point of reference as regards the delineation of the canonical text" (37)
  - "Thus, in the translation of the [[deuterocanonical books]] and wherever else there may exist varying manuscript traditions, the liturgical translation must be prepared in accordance with the same manuscript tradition that the _Nova Vulgata_ has followed." (37)
  - In preparing new translations, it would be helpful, though not obligatory, that the numbering of the verses also follow that of the same text as closely as possible. (37)
-	 - → For reference, the *Nova Vulgata* places 1 and 2 Maccabees at the end of the Old Testament ([index](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_vetus-testamentum_lt.html)) rather than at the end of the Historical books (between Esther and Job) like [[~The Great Adventure Catholic Bible|The Great Adventure Bible]] does
+	 - → For reference, the *Nova Vulgata* places 1 and 2 Maccabees at the end of the Old Testament ([index](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_vetus-testamentum_lt.html)) rather than at the end of the Historical books (between Esther and Job) like [[~The Great Adventure Catholic Bible|The Great Adventure Bible]] and [[Scott Hahn]] (cf [[2023-02-06 How to Be Holy Hahn Fradd#^9468e2|How to Be Holy Hahn Fradd]] do
  - Scripture is not just historical, but applies now: "one should strive, whenever there is a choice to be made between different ways of translating a term, to make those choices that will enable the hearer to recognize himself and the dimensions of his own life as vividly as possible in the persons and events found in the text." (42)
  - Literal translation can keep us from becoming complacent: "It should be borne in mind that a literal translation of terms which may initially sound odd in a vernacular language may for this very reason provoke inquisitiveness in the hearer and provide an occasion for catechesis." (43)
 

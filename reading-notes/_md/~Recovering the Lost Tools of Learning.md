@@ -1,10 +1,26 @@
+---
+aliases: [Recovering the Lost Tools of Learning]
+title: Recovering the Lost Tools of Learning
+author: Douglas Wilson
+category: [[Classical Education]]
+publisher: 
+total_page: 0
+publish_date: 2022
+isbn10: 1954887108
+isbn13: 9781954887107
+source: 
+wishlist: 2022-02-28
+acquired: 
+started: 
+finished: 
+---
+# *[Recovering the Lost Tools of Learning]()* by [[Douglas Wilson]]
 
-# [*Recovering the Lost Tools of Learning: An Approach to Distinctively Christian Education*]() by [[Douglas Wilson]]
-#wishlist
-https://www.amazon.com/Recovering-Lost-Tools-Learning-Distinctively/dp/0891075836
-<img src="" width=150>
+<img src="http://books.google.com/books/content?id=P3XuzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(City: Publisher, YYYY), PPP`
+`(New York: , 2022), 0`
+
+
 
 
 --- 

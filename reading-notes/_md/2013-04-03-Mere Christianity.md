@@ -1,3 +1,6 @@
+---
+aliases: [Mere Christianity]
+---
 
 # *Mere Christianity* by [[C. S. Lewis]]
 

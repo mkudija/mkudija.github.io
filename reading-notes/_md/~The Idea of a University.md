@@ -1,4 +1,19 @@
-
+---
+aliases: [The Idea of a University]
+title: The Idea of a University
+author: John Henry Newman
+category: Education, Higher
+publisher: 
+total_page: 558
+publish_date: 1893
+isbn10: 
+isbn13: 
+source: 
+wishlist: 
+acquired: 2014
+started: 
+finished: 
+---
 # [*The Idea of a University*](https://undpress.nd.edu/9780268011505/idea-of-a-university-the/) by [[John Henry Newman]]
 
 <img src="https://notredamepress-us.imgix.net/covers/9780268011505.jpg?auto=format&w=600" width=150>

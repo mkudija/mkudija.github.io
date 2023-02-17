@@ -21,50 +21,52 @@ finished: 2022-12-20
 <div class="note"> 
 <p><strong>Five things to keep in mind</strong> <em>(remember "<strong>1NOWA</strong>"):</em></p> 
 	<ol>
-		<li><strong>Firstfruits</strong>: Give God our firstfruits, especially the firstfruits of our time </li>
-		<li><strong>Neighbors</strong>: We are sanctified especially through our neighbors (family)</li>
+		<li><strong>First fruits</strong>: Give God our first fruits, especially the first fruits of our time </li>
+		<li><strong>Neighbors</strong>: We are sanctified especially through our neighbors (and family)</li>
 		<li><strong>Offend</strong>: Resolve to never offend God</li>
 		<li><strong>Will</strong>: Focus on God's will: <em>fiat voluntas tua</em></li>
 		<li><strong>Ask</strong>: The primacy of Grace, and we must only ask</li>
 	</ol>
 </div> 
 
-I read this over the second half of 2022 and it has helped and coincided with a deeper turn toward prayer and away from sin. [[Fr. Mike Schmitz]] said that he has listened to it six or seven times, because it reminds him of the point of everything and how the spiritual life is a lifelong journey.[^mike] 
+I read this over the second half of 2022 and it has helped and coincided with a turn toward a deeper spiritual life. [[Fr. Mike Schmitz]] said that he has listened to it six or seven times, because it reminds him of the point of everything and how the spiritual life is a lifelong journey.[^mike] 
 
 [^mike]: In an interview with [[Bishop Barron]]: [link](https://youtu.be/T4mcgqnspKw?t=690)
 
 "The fulfillment of all desire" is union with God himself (xvii), and Martin synthesizes ten years[^10yr] of study to weave together the teaching of the mystical doctors of the Church: [[St. Augustine|Augustine]], [[St. Bernard of Clairvaux|Bernard of Clairvaux]], [[St. Catherine of Siena|Catherine of Siena]], [[St. John of the Cross|John of the Cross]], [[St. Teresa of Ávila|Teresa of Avila]], [[St. Francis de Sales]], and [[St. Thérèse of Lisieux|Thérèse of Lisieux]]. In the introduction he tells of how he struggled many times to read John of the Cross, but then he read *The Spiritual Canticle* in the airport and it was "the right book at the right time" after previously struggling with John: "a certain amount of life experience was necessary before I could understand the truth and relevance of these works" (xv). I have struggled with Catherine, John, and Teresa, but this book made their teaching come alive and showed the beautiful consistency between the saints themselves along with Scripture and Tradition. 
 
-[^10yr]: "I spent ten years synthesizing the wisdom of the main doctors of the Church that focus on the spiritual journey in order to make this wisdom available to the average Catholic in clear, understandable, and readable form." *[[2022-12-30-The Fulfillment of All Desire|The Fulfillment of All Desire]]* 509
+[^10yr]: "I spent ten years synthesizing the wisdom of the main doctors of the Church that focus on the spiritual journey in order to make this wisdom available to the average Catholic in clear, understandable, and readable form." (*[[2023-01-21-A Church In Crisis|A Church in Crisis]]* 509)
 
 I am taking a few practical takeaways from my first reading of this book.
 
-**First is the importance of focusing on God's will.** I had not memorized the *[[Our Father|Pater Noster]]* yet when reading this, but *fiat voluntas tua* has become a favorite phrase and prayer:  
 
->I give you one counsel; that you don't think that through your own strength or efforts you can arrive, for reaching this stage is beyond our power; if you try to reach it, the devotion you have will grow cold. But with simplicity and humility, which will achieve everything, say: _**fiat voluntas tua** (your will be done)._[^fiat]
+**First is the importance of giving God our first fruits**, especially of our time in prayer. 
 
-[^fiat]: (23, cf. *[[~The Collected Works of St Teresa of Avila (Volume 2)#*The Way of Perfection*|The Way of Perfection]]*)
+>Perform these exercises confidently, as I have marked them out for you, and God will give you sufficient leisure and strength to perform all your other duties.[^firstfruits]
+
+[^firstfruits]: (135, cf. *[[~Philothea; Or an Introduction to the Devout Life|Introduction to the Devout Life]]* by [[St. Francis de Sales|Francis de Sales]]; cf. also [[Ex-34#v26]], [[Lv-27#v10]], etc.)
 
 
-**Second is the importance of the resolution to never offend God** as a turning point on the spiritual journey. 
+**Second is how our neighbors (i.e. family) are often the means of our sanctification.**
+
+>Your neighbors are the channel through which all your virtues are tested and come to birth, just as the evil give birth to all their vices through their neighbors.[^neighbor]
+
+[^neighbor]: (244, cf. *[[~Dialogues|Dialogues]]* by [[St. Catherine of Siena|Catherine of Siena]])
+
+
+**Third is the importance of the resolution to never offend God** as a turning point on the spiritual journey. 
 
 >Are you firmly resolved never to commit [mortal sin] for any reason whatsoever?...In this resolution consists the foundation of the spiritual life.[^resolve]
 
 [^resolve]: (108, cf. *[[~Philothea; Or an Introduction to the Devout Life|Introduction to the Devout Life]]* by [[St. Francis de Sales|Francis de Sales]])
 
 
-**Third is the importance of giving God our firstfruits**, especially of our time in prayer. 
+**Fourth is the importance of focusing on God's will.** I had not memorized the *[[Our Father|Pater Noster]]* yet when reading this, but *fiat voluntas tua* has become a favorite phrase and prayer:  
 
->Perform these exercises confidently, as I have marked them out for you, and God will give you sufficient leisure and strength to perform all your other duties.[^firstfruits]
+>I give you one counsel; that you don't think that through your own strength or efforts you can arrive, for reaching this stage is beyond our power; if you try to reach it, the devotion you have will grow cold. But with simplicity and humility, which will achieve everything, say: _**fiat voluntas tua** (your will be done)._[^fiat]
 
-[^firstfruits]: (135, cf. *[[~Philothea; Or an Introduction to the Devout Life|Introduction to the Devout Life]]* by [[St. Francis de Sales|Francis de Sales]])
+[^fiat]: (23, cf. *[[~The Collected Works of St Teresa of Avila (Volume 2)#*The Way of Perfection*|The Way of Perfection]]*)
 
-
-**Fourth is how our neighbors (i.e. family) are often the means of our sanctification.**
-
->Your neighbors are the channel through which all your virtues are tested and come to birth, just as the evil give birth to all their vices through their neighbors.[^neighbor]
-
-[^neighbor]: (244, cf. *[[~Dialogues|Dialogues]]* by [[St. Catherine of Siena|Catherine of Siena]])
 
 
 Finally, I have been easily discouraged when reading about the spiritual life (for instance in *[[~The Collected Works of Saint John of the Cross#*The Dark Night*|The Dark Night]]* by [[St. John of the Cross|John of the Cross]]) to realize how little I have traveled and how far I have yet to go. Yet the saints (and this book) are encouraging. They remind us that while our effort is important, we are dependent primarily upon the **free gift of God's grace, for which we have only to ask** (197):
