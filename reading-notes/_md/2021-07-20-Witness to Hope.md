@@ -441,7 +441,7 @@ Other:
 - *Paradise Lost* by John Milton (224)
 - *Heraldry in the Catholic Church* by Bruno Heim (265)
 - *Quo Vadis* by Sienkiewicz and *Courier from Warsaw* by Jan Nowak (convalescence reading, 416)
-- *[[~Introduction to Christianity]]* and ***Salt of the Earth*** by [[Joseph Ratzinger]] (443)
+- *[[2023-02-27-Introduction to Christianity]]* and ***Salt of the Earth*** by [[Joseph Ratzinger]] (443)
 - *Forget Not Love* by André Frossard (447) 
 - *The Way* by Escrivá (450)
 - *Religion, the Missing Dimension of Statecraft* edited by Douglas Johnston and Cynthia Sampson (912)

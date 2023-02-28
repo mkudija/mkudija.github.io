@@ -44,7 +44,7 @@ _**Summary**: Howard Thurman_
 
 
 ## Chapter 6: Does God Need Politics?
-_**Summary**: [[St. Augustine]] and *[[~Confessions]]*_
+_**Summary**: [[St. Augustine]] and *[[~Confessions|Confessions]]*_
 
 
 
@@ -87,9 +87,9 @@ _**Summary**: Lucius Annaeus Seneca_
 
 **Bibliography**
 
-- *[[~Introduction to Christianity]]*
-- [[~Apologia Pro Vita Sua]]
-- *[[~Confessions]]* and *[[2017-01-03-The City of God|The City of God]]*
+- *[[2023-02-27-Introduction to Christianity|Introduction to Christianity]]*
+- *[[~Apologia Pro Vita Sua|Apologia Pro Vita Sua]]*
+- *[[~Confessions|Confessions]]* and *[[2017-01-03-The City of God|The City of God]]*
 
 **New Words**
 

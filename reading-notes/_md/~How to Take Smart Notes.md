@@ -9,8 +9,8 @@ publish_date: 2017
 isbn10: 1542866502
 isbn13: 9781542866507
 source: 
-wishlist: 2023-02-08
-acquired: 
+wishlist: 
+acquired: 2023-02-17
 started: 
 finished: 
 ---
@@ -20,6 +20,41 @@ finished:
 
 `(New York: Createspace Independent Publishing Platform, 2017), 170`
 
+## Introduction 
+
+**Everything You Need to Know**
+
+**Everything You Need to Do**
+
+**Everything You Need to Have**
+
+**A Few Things to Keep in Mind**
+
+## The Four Underlying Principles 
+
+**Writing Is the Only Thing That Matters**
+
+**Simplicity Is Paramount**
+
+**Nobody Ever Starts from Scratch**
+
+**Let the Work Carry You Forward**
+
+## The Six Steps to Successful Writing 
+
+**Separate and Interlocking Tasks**
+
+**Read for Understanding**
+
+**Take Smart Notes**
+
+**Develop Ideas**
+
+**Share Your Insight**
+
+**Make It a Habit**
+
+## Afterword
 
 
 --- 

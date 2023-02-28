@@ -9,10 +9,13 @@ cover_url: http://books.google.com/books/content?id=Jj18zgEACAAJ&printsec=frontc
 publish_date: 2021-05-04
 isbn10: 9390896363
 isbn13: 9789390896363
+started: 2023-02-22
+finished: 
+
 ---
 # *[The Life of Christ](https://bookstore.wordonfire.org/products/life-of-christ)* by [[Fulton Sheen]]
 
-<img src="https://cdn.shopify.com/s/files/1/0005/3195/5769/products/WOF-Classic-Sheen-Front_1024x1024.png?v=1570226720" width=150>
+<img src="https://cdn.shopify.com/s/files/1/0005/3195/5769/products/WOF-Classics-Life-of-Christ-SHOPIFY-Front_750x750.png?v=1676926428" width=150>
 
 `(New York: Word on Fire Classics, 2019), 612`
 
@@ -226,4 +229,4 @@ isbn13: 9789390896363
 
 ---
 Created: [[2022-03-21-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

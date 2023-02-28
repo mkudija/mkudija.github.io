@@ -138,7 +138,7 @@ _**Summary**: Ratzinger becomes a professor and teaches in Bonn, Münster, Tübi
 	- Frings asked him to prepare a talk for him, which was excellent. When Frings confided in the Pope that it was Ratzinger that prepared it rather than him, [[Pope John XXIII]] responded that others always drafted documents for him and the only thing that mattered was finding the right advisors (191 re [[Leadership]])
 - The "Holy Office" succeeded the Roman Inquisition, and was replaced with the [[Congregation for the Doctrine of the Faith]], which Ratzinger would go on to lead 
 - Ratzinger helped co-author *[[~Lumen Gentium|Lumen Gentium]]*, and then had to stand against Hans Küng who tended toward a Marxist doctrine of salvation 
-	- → Ratzinger's resistance to [[Marxism]] and his experience during war of seeing how political doctrines of self-redemption lead to ruin led him to write *[[~Introduction to Christianity]]* as an alternative (203-204)
+	- → Ratzinger's resistance to [[Marxism]] and his experience during war of seeing how political doctrines of self-redemption lead to ruin led him to write *[[2023-02-27-Introduction to Christianity]]* as an alternative (203-204)
 
 
 

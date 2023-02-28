@@ -288,7 +288,7 @@ SELECT *
 FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30'));
 ```
 
-### Most Recent Month-End Date
+### Most Recent Month-End Date (Prior Month End)
 ```SQL
 SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
 ```
