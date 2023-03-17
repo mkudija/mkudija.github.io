@@ -289,7 +289,7 @@ The word and joy [123]
 - "In salvation history there is no separation between what God _says_ and what he _does_." (53)
 - "Word and Eucharist are so deeply bound together that we cannot understand one without the other: the word of God sacramentally takes flesh in the event of the Eucharist. The Eucharist opens us to an understanding of Scripture, just as Scripture for its part illumines and explains the mystery of the Eucharist. Unless we acknowledge the Lord’s real presence in the Eucharist, our understanding of Scripture remains imperfect." (55)
 - The reformed lectionary presents the most important texts with frequency and emphasizes the unity of the Bible as a whole (57)
-- "When expressing contrition it would be good if the penitent were to use a prayer based on the words of Scripture" (61)
+- "When expressing contrition it would be good if the penitent were to use a prayer based on the words of Scripture" (61, [[Act of Contrition]]) ^093d5a
 	- →"Jesus, Son of David, have mercy on me!" (cf. [[Lk-18#v38]], [[Mk-10#v37]])
 	- →How about this adaptation of [[Mt-08#v8]]?: "Lord, I am not worthy to have you come under my roof; but only say the word, and *your* servant will be healed."
 

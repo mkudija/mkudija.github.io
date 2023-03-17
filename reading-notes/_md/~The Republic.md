@@ -1,3 +1,6 @@
+---
+aliases: [The Republic]
+---
 
 # [*The Republic*]() by [[Plato]]
 

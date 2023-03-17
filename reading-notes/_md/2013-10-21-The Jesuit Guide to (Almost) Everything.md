@@ -14,7 +14,7 @@
     * Week 3 - Jesus' Passion
     * Week 4 - Jesus' Resurrection
 
-### Chapter 2 - The Six Paths
+## Chapter 2 - The Six Paths
 * Answer the question, "How do I find God?"
 * The Six Paths
     * Belief - faith always a part of their lives
@@ -28,7 +28,7 @@
 * Spirituality without religion: the value of religion is that it helps you "connect and correct"
 * Finding God in all things
     * believing that God communicates with you through the little things
-    * --> requires awareness
+    * → requires awareness
     * God is larger than the Church
 
 ## Chapter 3 - Desire and the Spiritual Life
@@ -180,58 +180,58 @@
 ## Chapter 14 - The Contemplative in Action
 * Summary of Ignatian Spirituality: "Contemplatives in action seek to find God in all things by looking at the world in an incarnational way, and , in their quest, they realized their desire for freedom and detachment, which help them move even closer to God" (392)
 
-Books Fr. Martin refers to:
-    * With God in Russia by [[Walter J. Ciszek, S.J.]]*
-    * A Friendship Like No Other by William A. Barry
-    * *[[2014-12-10-The Seven Storey Mountain|The Seven Storey Mountain]]* by [[Thomas Merton]]* (first book he read after watching the documentary)
-    * Habits of the Heart by Robert Bellah
-    * Mariette in Ecstasy
-    * The Spiritual Exercises Reclaimed by Katherine Dyckman*
-    * Inner Compass: An Invitation to Ignatian Spirituality
-    * The Selfless Way of Christ
-    * Nothing to be Frightened Of
-    * Guidelines for Mystical Prayer
-    * Surprised by Joy by [[C. S. Lewis]]
-    * Out of Africa
-    * God and you: Prayer as a Personal Relationship
-    * How Can I Find God?
-    * Dead Man Walking
-    * Days of Deepening Friendship
-    * So Long, See You Tomorrow
-    * God's Mechanics by Guy J. Consolmagno
-    * A Friendship Like No Other
-    * She Who Is
-    * Sketches of God
-    * Mother Theresa: Come Be My Light
-    * Cloud of Unknowing
-    * Finding Grace at the Center
-    * Birth: A Guide for Prayer
-    * The Cloister Walk
-    * The Progress Paradox
-    * Following Christ in a Consumer Society
-    * Together for Mission
-    * *[[~The Lord of the Rings|The Lord of the Rings]]*
-    * Harry Potter
-    * The Discernment of Spirits
-    * [[2018-07-21-The Screwtape Letters|The Screwtape Letters]]
-    * The First Jesuits*
-    * Poverty of Spirit
-    * Draw me into your friendship
-    * Stretched for greater glory
-    * One Jesuits Spiritual Journey
-    * In Pursuit of Love
-    * *[[2021-12-08-He Leadeth Me|He Leadeth Me]]* by [[Walter J. Ciszek, S.J.]]
-    * Talking about god
-    * Why do we Suffer
-    * The Day Christ Died
-    * Eyes to see, ears to hear
-    * Heroic Leadership
-    * Wise Choices
-    * A Time to keep silent
-    * Eyes to see, ears to hear
-    * Crazybusy: overstretched, overbooked, and about to snap
-    * Why we Hate us
-    * Power and secret of the Jesuits
+## Bibliography 
+* With God in Russia by [[Walter J. Ciszek, S.J.]]*
+* A Friendship Like No Other by William A. Barry
+* *[[2014-12-10-The Seven Storey Mountain|The Seven Storey Mountain]]* by [[Thomas Merton]]* (first book he read after watching the documentary)
+* Habits of the Heart by Robert Bellah
+* Mariette in Ecstasy
+* The Spiritual Exercises Reclaimed by Katherine Dyckman*
+* Inner Compass: An Invitation to Ignatian Spirituality
+* The Selfless Way of Christ
+* Nothing to be Frightened Of
+* Guidelines for Mystical Prayer
+* Surprised by Joy by [[C. S. Lewis]]
+* Out of Africa
+* God and you: Prayer as a Personal Relationship
+* How Can I Find God?
+* Dead Man Walking
+* Days of Deepening Friendship
+* So Long, See You Tomorrow
+* God's Mechanics by Guy J. Consolmagno
+* A Friendship Like No Other
+* She Who Is
+* Sketches of God
+* Mother Theresa: Come Be My Light
+* Cloud of Unknowing
+* Finding Grace at the Center
+* Birth: A Guide for Prayer
+* The Cloister Walk
+* The Progress Paradox
+* Following Christ in a Consumer Society
+* Together for Mission
+* *[[~The Lord of the Rings|The Lord of the Rings]]*
+* Harry Potter
+* The Discernment of Spirits
+* [[2018-07-21-The Screwtape Letters|The Screwtape Letters]]
+* The First Jesuits
+* Poverty of Spirit
+* Draw me into your friendship
+* Stretched for greater glory
+* One Jesuits Spiritual Journey
+* In Pursuit of Love
+* *[[2021-12-08-He Leadeth Me|He Leadeth Me]]* by [[Walter J. Ciszek, S.J.]]
+* Talking about god
+* Why do we Suffer
+* The Day Christ Died
+* Eyes to see, ears to hear
+* Heroic Leadership
+* Wise Choices
+* A Time to keep silent
+* Eyes to see, ears to hear
+* Crazybusy: overstretched, overbooked, and about to snap
+* Why we Hate us
+* Power and secret of the Jesuits
 
 ---
 Created: 2013-10-21

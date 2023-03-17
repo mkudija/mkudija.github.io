@@ -1,5 +1,5 @@
 ---
-aliases: [The Confessions]
+aliases: [The Confessions, Confessions]
 title: The Confessions
 author: Saint Augustine
 category: [[Spiritual Classics]]

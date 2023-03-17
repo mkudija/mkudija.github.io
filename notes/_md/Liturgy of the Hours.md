@@ -7,7 +7,7 @@ aliases: [LOTH, Breviary]
 
 # Liturgy of the Hours
 
-<img src="https://cbp-assets.s3.amazonaws.com/products/409-13-1.jpg" width=250>
+<img src="https://b2c-cbp-assets.s3.amazonaws.com/products/409-13-1.jpg" width=250>
 
 >This prayer is the voice of a bride speaking to her bridegroom, it is the very prayer that Christ himself, together with his Body, addressed to the Father.
 >–*domini [[2023-01-31-Verbum Domini|Verbum Domini]]* 62
@@ -54,10 +54,21 @@ aliases: [LOTH, Breviary]
 
 ### Volume I
 - Vol. I, pg. 831 Evening Prayer of Monday of the Second Week of Advent: "When you took on flesh, Lord Jesus, you made a marriage of mankind with God." 
-- Vol. 1, pg. 902 Evening Prayer of Friday of the Second Week of Advent: "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)
+- Vol. I, pg. 902 Evening Prayer of Friday of the Second Week of Advent: "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)
 - Vol. I, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
 
 ### Volume II
+- Vol. II, pg. 63: prayer for the Thursday after Ash Wednesday:
+>Lord, 
+>may everything we do
+>begin with your inspiration,
+>continue with your help,
+>and reach perfection under your guidance.
+>We ask this through our Lord Jesus Christ, your Son,
+>who lives and reigns with you and the Holy Spirit,
+>God, for ever and ever.
+>Amen.
+
 - Vol. II, pg. 1794: from the *[[~The Dialogue|The Dialogue]]* of [[St. Catherine of Siena]]: "You are a mystery as deep as the sea; the more I search, the more I find, and the more I find the more I search for you. But I can never be satisfied; what I receive will ever leave me desiring more. When you fill my soul I have an even greater hunger, and I grow more famished for your light. I desire above all to see you, the true light, as you really are."
 
 ### Volume III

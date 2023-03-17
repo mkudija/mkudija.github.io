@@ -9,14 +9,17 @@ cover_url: http://books.google.com/books/content?id=RDb-DwAAQBAJ&printsec=frontc
 publish_date: 2021-02-16
 isbn10: 1684511224
 isbn13: 9781684511228
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[# Mary's Voice in the Gospel According to John: A New Translation with Commentary](https://www.regnery.com/9781684513390/marys-voice-in-the-gospel-according-to-john/)* by [[Michael Pakaluk]]
 
 <img src="http://books.google.com/books/content?id=RDb-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Simon and Schuster, 2021-02-16), 354`
+
+
+
 
 --- 
 #wishlist

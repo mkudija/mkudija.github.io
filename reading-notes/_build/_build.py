@@ -116,6 +116,7 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
     updated_at = time.strftime('%Y-%m-%d-%a', time.localtime(os.path.getmtime(pathSource))) # https://strftime.org/
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at) # old version, can remove eventually
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
+    mdString = mdString.replace('`=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`',updated_at)
 
     # remove metadata
     if mdString[:3]=='---':

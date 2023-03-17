@@ -1,7 +1,22 @@
+---
+aliases: [Parochial and Plain Sermons]
+title: Parochial and Plain Sermons
+author: John Henry Newman
+category: Religion
+publisher: Ignatius Press
+total_page: 1816
+publish_date: 1997
+isbn10: 0898706386
+isbn13: 9780898706383
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
+# *[Parochial and Plain Sermons]()* by [[John Henry Newman]]
 
-# [*Parochial and Plain Sermons*](https://www.ignatius.com/Parochial-and-Plain-Sermons-P1997.aspx) by [[John Henry Newman]]
-
-<img src="https://www.ignatius.com/GetImage.ashx?Path=%7e%2fAssets%2fProductImages%2fPPSH.jpg&maintainAspectRatio=true" width=150>
+<img src="http://books.google.com/books/content?id=ZmfP9RzKVQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(San Francisco: Ignatius, 1891/1987), 1781`
 
@@ -14,11 +29,24 @@
 	- "Every thing is bright and cheerful. **Religion is pleasant and easy; benevolence is the chief virtue; intolerance, bigotry, excess of zeal, are the first of sins. Austerity is an absurdity;—even firmness is looked on with an unfriendly, suspicious eye**...Religion will commonly seem to be dull, from want of novelty...The mind becomes dissatisfied with tings as they are, desirous of a change *as such.*" (i.e. [[Moralistic Therapeutic Deism]])
 - The solution is a "deep resignation to God's will, a surrender of ourselves"
 
+
 --- 
+**Topic**: 
+
 **Source**: Fr. Romano's estate
 
+**Bibliography**
+
+```query
+[[bib]] file:(~Parochial and Plain Sermons)
+```
+ 
+
+**[[New Words]]**
+
+- 
 
 ---
 Created: 2021-11-14
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 
