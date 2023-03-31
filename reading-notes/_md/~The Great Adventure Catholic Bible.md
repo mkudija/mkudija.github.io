@@ -9,9 +9,11 @@ cover_url: https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/produc
 publish_date: 2018-09-04
 isbn10: 1945179414
 isbn13: 9781945179419
-translation: Revised Standard Version Second Catholic Edition
+acquired: 2022-12-14
 started: [2022-02-05, 2023-01-01]
 finished: [2022-12-31]
+translation: Revised Standard Version Second Catholic Edition
+dimensions: 6.375x9.375x1.75
 ---
 # *[The Great Adventure Catholic Bible](https://ascensionpress.com/collections/the-great-adventure-bible)* by [[Jeff Cavins, Mary Healy, Peter Williamson]]
 
@@ -32,17 +34,6 @@ finished: [2022-12-31]
 - Russels Birthday 2022
 
 
-**Bibliography**
-
-```query
-[[bib]] file:(~The Great Adventure Catholic Bible)
-```
- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-11-07-Mon]]
-Updated: NaN
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

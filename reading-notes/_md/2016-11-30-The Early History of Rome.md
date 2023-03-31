@@ -1,5 +1,25 @@
+---
+aliases: [The Early History of Rome]
+title: The Early History of Rome
+author: Livy
+category: History
+publisher: Penguin Classics
+total_page: 500
+publish_date: 2002-06-25
+isbn10: 0140448098
+isbn13: 9780140448092
+source: 
+wishlist:
+acquired: 
+started: 
+finished: 
+---
+# *[The Early History of Rome]()* by [[Livy]]
 
-# *The Early History of Rome* by Livy
+<img src="http://books.google.com/books/content?id=Agyf_2hQa9QC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
+
+`(New York: Penguin Classics, 2002), 500`
+
 
 ## BOOK I - Rome Under the Kings
 * “The study of history is the best medicine for a sick mind; for in history you have a record of the infinite variety of human experience plainly set out for all to see; and in that record you can find for yourself and your country both examples and warnings; fine things to take as models, base things, rotten through and through, to avoid.” (30)
@@ -30,9 +50,9 @@
 --- 
 **Topic**: [[History]]
 
-**Source**: C.C. Pecknold (when asked what to read before *[[2017-01-03-The City of God|The City of God]]*)
-
+**Source**
+- [[C. C. Pecknold]] (when asked what to read before *[[2017-01-03-The City of God|The City of God]]*)
 
 ---
 Created: 2016-11-30
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

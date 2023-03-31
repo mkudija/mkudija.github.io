@@ -9,8 +9,12 @@ cover_url:
 publish_date: 1962
 isbn10: 1892331292
 isbn13: 9781892331298
+source: 
+wishlist:
+acquired: 2020-10-25
 started: 
 finished: 
+dimensions: 4.5x7x1.875 
 ---
 # [*Roman Catholic Daily Missal*](https://angeluspress.org/products/1962-roman-catholic-daily-missal)
 
@@ -20,8 +24,8 @@ finished:
 `(Kansas City: Angelus, 1962/2004), 1980`
 
 - Vespers for Sundays, and an introduction to the [[Liturgy of the Hours]] (98)
-- 
+- [ ] [[Compline]] for Sundays (107) 📅 2023-03-28
 
 ---
 Created: [[2021-08-23-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -12,6 +12,7 @@ isbn13: 9781889334271
 started: 
 finished: 
 translation: [Revised Standard Version Catholic Edition, Nova Vulgata]
+dimensions: 6.25x9x2.125
 ---
 # *[The Navarre Bible: Gospels and Acts](https://scepterpublishers.org/products/the-navarre-bible-gospels-and-acts)*
 

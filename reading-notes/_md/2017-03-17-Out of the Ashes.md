@@ -1,6 +1,26 @@
+---
+aliases: [Out of the Ashes]
+title: Out of the Ashes
+author: Anthony Esolen
+category: Social Science
+publisher: Simon and Schuster
+total_page: 256
+publish_date: 2017-01-30
+isbn10: 1621575691
+isbn13: 9781621575696
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
 # *Out of the Ashes: Rebuilding American Culture* by [[Anthony Esolen]]
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51GHmIrb5wL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width=150>
+
+`(New York: Simon and Schuster, 2017-01-30), 256`
+
+
 
 * Introduction
     * “We are incompetent in the ordinary things of life.” (10)
@@ -56,4 +76,4 @@
 
 ---
 Created: 2017-03-17
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

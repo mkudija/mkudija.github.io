@@ -12,6 +12,7 @@ isbn13: 9781943243532
 started: 2020-11-10
 finished: 2020-11-20
 translation: New Revised Standard Version Catholic Edition
+dimensions: 7x9.675x1.5
 ---
 # *[The Word on Fire Bible: The Gospels](https://www.wordonfire.org/bible/)* by [[Word on Fire]]
 

@@ -212,10 +212,12 @@ From the *Roman Catechism* [[bib]] (25):
 		- Be especially attentive "to the content and unity of the whole Scripture" (112)
 		- Read the Scripture within "the living Tradition of the whole Church" (113)
 		- Be attentive to the analogy of faith (coherence of truth in all of Revelation). (114)
-		- A medieval couplet summarizes the significance of the four senses: (118)
+		- A medieval couplet summarizes the significance of the four senses: (118) ^af4c8b
 
 >The Letter speaks of deeds; Allegory to faith;  
 >The Moral how to act; Anagogy our destiny.
+
+^32e244
 
 - [IV. The Canon of Scripture](https://www.vatican.va/archive/ENG0015/__PR.HTM)
 	- "The books of the OldTestament bear witness to the whole divine pedagogy of God's saving love: these writings "are a storehouse of sublime teaching on God and of sound wisdom on human life, as well as a wonderful treasury of prayers" (122)

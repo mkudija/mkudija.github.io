@@ -1,5 +1,5 @@
 ---
-aliases: [City of God]
+aliases: [The City of God, City of God]
 ---
 
 # [*City of God*](https://www.penguinrandomhouse.com/books/293752/city-of-god-by-augustine-of-hippo/9780140448948) by [[St. Augustine]]
@@ -50,6 +50,10 @@ aliases: [City of God]
 <!-- /MarkdownTOC -->
 </details>
 
+Summary (from *[[2023-03-31-Christianity and Politics#^be1114|Christianity and Politics]]*):
+- This work revolutionized the relationship between Christianity and Politics 
+- Parts 1-2 (Books 1-10): the pagan God's never brought Rome health or happiness and were logically incapable of doing so
+- Parts 3-5 (Books 11-22): only the Christian God can save Rome 
 
 # Part One  
 ## Book I

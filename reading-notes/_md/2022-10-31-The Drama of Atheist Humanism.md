@@ -225,7 +225,7 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 	- "The universe has a meaning to which man is the key...We must here on earth serve our apprenticeship for our future condition." (452-3)
 	- The ills of man come not from politics, but from *sin*—man will not be liberated by some intellectual, political, or economic process
 - 8: We must take responsibility for the work we do, but then receive as a gift from God the  Day of the Lord 
-	- [[St. Augustine]] is at the origin of our [[Progress & History|progressive philosophies of history ]] (464)
+	- [[St. Augustine]] is at the origin of our [[Progress & History|progressive philosophies of history]] (464)
 
 ## Chapter 2: [[Nietzsche]] as Mystic
 *Nietzsche's thought is everywhere today, but even in his tragic blindness he is a prophet*

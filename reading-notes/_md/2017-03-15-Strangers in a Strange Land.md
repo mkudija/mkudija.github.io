@@ -1,4 +1,19 @@
-
+---
+aliases: [Strangers in a Strange Land]
+title: Strangers in a Strange Land
+author: Charles J. Chaput
+category: Religion
+publisher: Macmillan
+total_page: 288
+publish_date: 2017-02-21
+isbn10: 1627796746
+isbn13: 9781627796743
+source: 
+wishlist: 
+acquired: 
+started: 
+finished: 
+---
 # *[Strangers in a Strange Land](https://us.macmillan.com/books/9781250159625/strangers-in-a-strange-land)* by [[Charles J. Chaput]]
 
 <img src="https://mpd-biblio-covers.imgix.net/9781250159625.jpg?w=900" width=150>
@@ -89,4 +104,4 @@
 
 ---
 Created: 2017-03-15
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

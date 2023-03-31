@@ -56,6 +56,9 @@ finished:
 
 ## Afterword
 
+## Resources 
+- [Dr. Roddick on Note-Taking and Obsidian](https://docs.google.com/document/u/0/d/1365bPgh4iv-MciZx9BiguCJRJo-D3Zh7J_mrT-_Ws6g/mobilebasic#h.smbgamrmbfrh)
+
 
 --- 
 **Topic**: [[Notetaking]], [[Personal Knowledge Management]], [[Obsidian]], [[Zettelkasten]]

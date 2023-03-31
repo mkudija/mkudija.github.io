@@ -1,5 +1,25 @@
-
+---
+aliases: [The Benedict Option]
+title: The Benedict Option
+author: Rod Dreher
+category: Religion
+publisher: Penguin
+total_page: 272
+publish_date: 2017-03-14
+isbn10: 0735213313
+isbn13: 9780735213319
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
 # *The Benedict Option: A Strategy for Christians in a Post-Christian Nation* by [[Rod Dreher]]
+
+<img src="http://books.google.com/books/content?id=9z_jDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Penguin, 2017-03-14), 272`
+
 
 * Introduction - The Awakening
     * from his previous book: [[Alasdair MacIntyre]], who declared that Western civilization had lost its moorings. The time was coming, said MacIntyre, when men and women of virtue would understand that continued full participation in mainstream society was not possible for those who wanted to live a life of traditional virtue. These people would find new ways to live in community, he said, just as Saint Benedict, the sixth-century father of Western monasticism, responded to the collapse of Roman civilization by founding a monastic order. LOCATION: 61 (cf [[2020-11-18-After Virtue#Ch 18 - After Virtue Nietzsche or Aristotle Trotsky and St Benedict]])
@@ -282,3 +302,26 @@
     * “Take away the devotion and you take away the soul” (190)
     * again, we end with doing the ordinary well (192-193)
 
+---
+- I read this book alongside *[[2017-03-17-Out of the Ashes|Out of the Ashes]]* and *[[2017-03-15-Strangers in a Strange Land|Strangers in a Strange Land]]* at the same time in the spring of 2017.
+- I think it was this book that led me to [[First Things]], via [​Benedict Option by R. R. Reno | Articles | First Things](https://www.firstthings.com/article/2017/05/benedict-option), which I have saved in my email on 2017-04-13
+--- 
+**Topic**: 
+
+**Source**
+- 
+
+**Bibliography**
+
+```query
+[[bib]] file:(2017-03-17-The Benedict Option)
+```
+ 
+
+**[[New Words]]**
+
+- 
+
+---
+Created: [[2020-08-31-Mon]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

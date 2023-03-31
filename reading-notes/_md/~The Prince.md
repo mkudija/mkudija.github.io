@@ -14,7 +14,7 @@ acquired:
 started: 
 finished: 
 ---
-# *[The Prince]()* by [[Niccolo Machiavelli]]
+# *[The Prince]()* by [[Machiavelli|Niccolò Machiavelli]]
 
 <img src="http://books.google.com/books/content?id=9BPpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

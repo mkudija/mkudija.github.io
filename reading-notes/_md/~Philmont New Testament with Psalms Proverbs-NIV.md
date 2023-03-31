@@ -9,9 +9,10 @@ cover_url: http://books.google.com/books/content?id=IP8pnwEACAAJ&printsec=frontc
 publish_date: 1973
 isbn10: 1563206641
 isbn13: 9781563206641
-started: []
-finished: []
+started:
+finished:
 translation: New International Version
+dimensions: 3.675x5.25x.5
 ---
 # *[New Testament with Psalms & Proverbs-NIV]()* by [[Biblica, Zondervan]]
 

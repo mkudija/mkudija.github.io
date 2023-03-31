@@ -96,6 +96,9 @@ publish: true
 - *The Read Aloud Family*
 - *Honey for a Child's Heart*
 
+### Other Reading Lists
+- [50 Best Books for Boys and Young Men | The Art of Manliness](https://www.artofmanliness.com/living/reading/50-best-books-for-boys-and-young-men/)
+
 ---
 **Topic**: [[Reading]]
 

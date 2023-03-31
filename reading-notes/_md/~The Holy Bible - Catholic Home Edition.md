@@ -14,6 +14,7 @@ acquired: 2023-02-20
 started: 
 finished: 
 translation: [Douay-Challoner, Confraternity]
+dimensions: 8x11.5x2.675
 ---
 # *[The Holy Bible - Catholic Home Edition](https://www.amazon.com/Holy-Bible-inc-catholic-press/dp/B003KREPZQ)* 
 

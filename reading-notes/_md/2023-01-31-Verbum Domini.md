@@ -240,7 +240,7 @@ The word and joy [123]
 ### **[The God Who Speaks](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html#The_God_Who_Speaks)**
 - "The novelty of biblical revelation consists in the fact that God becomes known through the dialogue which he desires to have with us." (6)
 - "Scripture is to be proclaimed, heard, read, received and experienced as the word of God, in the stream of the apostolic Tradition from which it is inseparable" (7)
-- [ ] The right response to hearing God's Word is turning away from sin: "Listening to the word of God leads us first and foremost to value the need to live in accordance with this law 'written on human hearts'" (9, cf. *[[2021-08-12-Summa Theologiae|Summa Theologiae]]*, Ia-IIae, q. 94, a.2) 📅 2023-02-01
+- The right response to hearing God's Word is turning away from sin: "Listening to the word of God leads us first and foremost to value the need to live in accordance with this law 'written on human hearts'" (9, cf. *[[2021-08-12-Summa Theologiae|Summa Theologiae]]*, Ia-IIae, q. 94, a.2) 
 - "being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a definitive direction" (11, cf. *[[~Deus Caritas Est|Deus Caritas Est]]*)
 - [[Galileo Galilei|Galileo]]'s image: the cosmos is the "symphony of creation", and Jesus is the solo (13)
 - [[St. John of the Cross|John of the Cross]]: "Since he has given us his Son, his only word (for he possesses no other), he spoke everything at once in this sole word – and he has no more to say" (14, cf. *[[~The Collected Works of Saint John of the Cross#*The Ascent of Mount Carmel*|The Ascent of Mount Carmel]]*)

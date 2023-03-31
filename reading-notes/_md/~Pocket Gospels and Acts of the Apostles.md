@@ -14,6 +14,7 @@ acquired: 2023-02-24
 started: 
 finished: 
 translation: New American Bible
+dimensions: 4.25x6x.5
 ---
 # *[Pocket Gospels and Acts of the Apostles]()* by [[Usccb]]
 

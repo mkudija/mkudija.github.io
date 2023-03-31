@@ -1,6 +1,22 @@
-# *[Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed)* by [[Patrick Deneen]]
+---
+aliases: [Why Liberalism Failed]
+title: Why Liberalism Failed
+author: Patrick J. Deneen
+category: History
+publisher: Yale University Press
+total_page: 248
+publish_date: 2018-01-09
+isbn10: 0300223447
+isbn13: 9780300223446
+source: 
+wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
+acquired: 
+started: 
+finished: 
+---
+# *[Why Liberalism Failed]()* by [[Patrick J. Deneen]]
 
-<img src="https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/48d352398cf845a08551235085779d9c.jpg?itok=duQSFsav" width=150>
+<img src="http://books.google.com/books/content?id=lTFDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New Haven: Yale, 2018), 198`
 
@@ -111,12 +127,12 @@ This book gives one a lot to think about, and more to do. Deneen argues that lib
 - good quote about stay at home mom's on 187
 
 
+
+
+--- 
+**Topic**: [[Politics]]
+
 ---
 Created: 2018-05-29
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
-
-
-
-
-
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

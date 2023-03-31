@@ -10,6 +10,7 @@ publish_date: 2020-11
 isbn10: 1950939502
 isbn13: 9781950939466
 translation: English Standard Version Catholic Edition
+dimensions: 6x9x1.25
 ---
 # *[Bible in a Year - English Standard Version Catholic Edition](https://www.augustineinstitute.org/program-categories/bible-in-a-year)* by [[Tim Gray]]
 

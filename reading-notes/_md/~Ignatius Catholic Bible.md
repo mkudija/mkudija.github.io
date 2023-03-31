@@ -9,7 +9,13 @@ cover_url: https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/produc
 publish_date: 2005-09
 isbn10: 1586171011
 isbn13: 9781586171018
+source: 
+wishlist:
+acquired: 2019
+started: 
+finished: 
 translation: Revised Standard Version Catholic Edition
+dimensions: 4.875x6.5x1.125
 ---
 # *[Ignatius Catholic Bible (Compact Zipper)](https://ignatius.com/ignatius-bible-compact-ibczp/)* by [[Ignatius Press]]
 

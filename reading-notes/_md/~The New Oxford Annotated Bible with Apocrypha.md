@@ -10,6 +10,7 @@ publish_date: 2018
 isbn10: 0190276096
 isbn13: 9780190276096
 translation: New Revised Standard Version
+dimensions: 7x9.375x2
 ---
 # *[The New Oxford Annotated Bible with Apocrypha]()* by [[Michael David Coogan, Marc Zvi Brettler, Carol Ann Newsom, Pheme Perkins]]
 
