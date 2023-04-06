@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+
+<html lang="en">
+<head>
+<title>Bible Translation Chart</title>
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico"/>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books, note, notes, blog">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="https://matthewkudija.com/" class="logo">Matthew Kudija</a>
+<div class="header-right">
+<a href="https://matthewkudija.com/">Home</a>
+<a href="https://matthewkudija.com/about">About</a>
+<a href="https://matthewkudija.com/notes/">Notes</a>
+<a href="https://matthewkudija.com/reading-notes/">Reading Notes</a>
+</div>
+</header>
+
+<!-- Content -->
+
+<h1 id="a-hrefbible-translationshtmlbible-translationa-chart"><a href="Bible-Translations.html">Bible Translation</a> Chart</h1>
+
+<pre class="mermaid-pre"><div class="mermaid">graph LR
+
+orig(Original Hebrew / Greek)
+kjv(KJV 1611)
+rv(Revised Version 1885)
+asv(ASV 1901)
+rsv(RSV 1952)
+rsvce(RSV-CE 1989)
+rsv2ce(RSV-2CE 2006)
+nrsv(NRSV 1990)
+nrsvce(NRSV-CE 1991)
+nrsvue(NRSVUE 2022)
+nkjv(NKJV 1982)
+esv(ESV 2001)
+esv16(ESV 2016)
+esvce(ESV-CE 2018)
+nab(NAB 1970)
+nabre(NABRE 2011)
+niv(NIV 1978)
+v(Vulgate 400)
+nv(New Vulgate 1979)
+nv86(New Vulgate 1986)
+douay(Douay 1610)
+challoner(Challoner 1752)
+confraternity(Confraternity 1941)
+na(NASB 1971)
+nas(NASB 1995)
+lsb(LSB 2021)
+nasb(NASB 2020)
+lbj(La Bible de Jérusalem 1956)
+jb(JB 1966)
+njb(NJB 1985)
+alv(ALV 2016) %% https://www.bibliotheca.co/translation
+
+classDef ct fill:lightBlue
+classDef pt fill:lightGreen
+classDef ec fill:pink
+
+%% subgraph Legend
+%%  direction TB
+    Catholic&gt;Catholic]:::ct
+    Protestant&gt;Protestant]:::pt
+    Ecumenical&gt;Ecumenical]:::ec
+%%end
+
+orig --&gt; nab:::ct
+orig --&gt; v:::ct
+orig --&gt; kjv:::pt
+orig --&gt; na
+orig --&gt; niv:::pt
+nab --&gt; nabre:::ct
+v --&gt; nv:::ct
+v --&gt; douay:::ct
+douay --&gt; challoner:::ct
+kjv --&gt; challoner
+challoner --&gt; confraternity:::ct
+confraternity --&gt; nab
+nv --&gt; nv86:::ct
+kjv --&gt; rv:::pt
+kjv --&gt; nkjv:::pt
+kjv --&gt; asv:::pt
+asv --&gt; rsv:::ec
+rsvce --&gt; rsv2ce:::ct
+rsv --&gt; nrsv:::ec
+nrsv --&gt; nrsvue:::ec
+nrsv --&gt; nrsvce:::ct
+rsv --&gt; rsvce:::ct
+rsv --&gt; esv:::pt
+esv --&gt; esvce:::ct
+esv --&gt; esv16:::pt
+asv --&gt; alv:::ct
+asv --&gt; na:::pt
+na --&gt; nas:::pt
+nas --&gt; nasb:::pt
+nas --&gt; lsb:::pt
+orig --&gt; jb:::ct
+orig --&gt; lbj:::ct
+lbj --&gt; jb
+jb --&gt; njb:::ct
+
+
+</div></pre>
+
+<hr />
+
+<p>Created: <a href="../reading-notes/2023-04-06-Thu.html">2023-04-06-Thu</a><br />
+Updated: 2023-04-06-Thu</p>
+
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<!-- Script: Latex -->
+<!-- Script: Mermaid (Included) --> <script type="module" defer> import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.esm.min.mjs'; mermaid. Initialize({ securityLevel: 'loose', startOnLoad: true }); let observer = new MutationObserver(mutations => { for(let mutation of mutations) { mutation.target.style.visibility = "visible"; } }); document.querySelectorAll("pre.mermaid-pre div.mermaid").forEach(item => { observer.observe(item, {  attributes: true,  attributeFilter: ['data-processed'] }); }); </script>
+<script src="../assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+</body>
+<hr>
+<footer id="footer" align="center">
+<center>
+<img src="../images/kudija_family_shield.png" width=100px>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</footer>
+</html>
