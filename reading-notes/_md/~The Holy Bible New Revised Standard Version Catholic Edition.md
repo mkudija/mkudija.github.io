@@ -2,7 +2,7 @@
 aliases: [The Holy Bible New Revised Standard Version Catholic Edition, Notre Dame Bible]
 title: The Holy Bible New Revised Standard Version Catholic Edition
 author: Oxford University Press
-category: Bible
+category: Bibles
 publisher: Oxford University Press, USA
 total_page: 1650
 publish_date: 1999

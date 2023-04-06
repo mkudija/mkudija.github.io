@@ -4,6 +4,7 @@ aliases: [Mere Christianity]
 
 # *Mere Christianity* by [[C. S. Lewis]]
 
+- I am trying here to prevent anyone saying the really foolish thing that people often say about Him: ‘I’m ready to accept Jesus as a great moral teacher, but I don’t accept His claim to be God.’ That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic—on a level with the man who says he is a poached egg—or else he would be the Devil of Hell. You must make your choice. **Either this man was, and is, the Son of God; or else a madman or something worse.** You can shut Him up for a fool, you can spit at Him and kill Him as a demon; or you can fall at His feet and call Him Lord and God. But let us not come with any patronizing nonsense about His being a great human teacher. He has not left that open to us. He did not intend to. (~pg 52) ^399c78
 * 1) Everyone knows Natural Law and no one is able to fully follow it
 * 2) Piano Metaphor: keys = impulses; sheet music = moral code
 * "If you are thinking about becoming a Christian, I warn you, you are embarking on something which his going to take the whole of you, brains and all…one of the reasons why it needs no special education to be a Christian is that Christianity is an education itself" (78)
@@ -26,3 +27,10 @@ aliases: [Mere Christianity]
 * Theology is to seeing god as a map is to walking on the beach: walking on the beach is better but you need a map if you want to get anywhere, and the map is built on the experience of all those who have gone before you
 * Purpose and the meaning of life: "The whole purpose for which we exist is to be thus taken into the life of God" (161).
 * “If I find in myself desires which nothing in this world can satisfy, the only logical explanation is that I was made for another world.” - C.S. Lewis, Mere Christianity (don't know the page number)
+
+--- 
+**Topic**: [[Spiritual Classics]]
+
+---
+Created: [[2021-03-09-Tue]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -1,5 +1,20 @@
-
-# [*Masterpieces of Religious Verse*]() edited by James Dalton Morrison
+---
+aliases: [Masterpieces of Religious Verse]
+title: Masterpieces of Religious Verse
+author: James Dalton Morrison
+category: 
+publisher: 
+total_page: 701
+publish_date: 1948
+isbn10: 
+isbn13: 
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
+# [*Masterpieces of Religious Verse*]() edited by [[James Dalton Morrison]]
 
 <img src="" width=150>
 

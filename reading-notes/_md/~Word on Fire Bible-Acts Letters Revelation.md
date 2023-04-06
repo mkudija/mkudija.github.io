@@ -2,7 +2,7 @@
 aliases: [Word on Fire Bible, Word on Fire Bible-Acts Letters Revelation, Word on Fire Bible-Vol II]
 title: Word on Fire Bible
 author: Word on Fire
-category: Bible
+category: Bibles
 publisher: Word on Fire
 total_page: 
 cover_url: 

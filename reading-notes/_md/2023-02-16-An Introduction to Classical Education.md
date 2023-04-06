@@ -2,7 +2,7 @@
 aliases: [An Introduction to Classical Education]
 title: An Introduction to Classical Education
 author: Christopher Perrin
-category: Foreign Language Study
+category: [[Classical Education]]
 publisher: 
 total_page: 45
 publish_date: 2004-01-01

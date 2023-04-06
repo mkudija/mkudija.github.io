@@ -2,7 +2,7 @@
 aliases: [Nova Vulgata, Nova Vulgata Bibliorum Sacrorum Editio, The New Vulgate Edition of the Holy Bible]
 title: 
 author: 
-category: Bible
+category: Bibles
 publisher: 
 total_page: 
 cover_url: 

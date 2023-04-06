@@ -9,8 +9,8 @@ publish_date: 2000-11
 isbn10: 1618909827
 isbn13: 9781618909824
 source: 
-wishlist: 2023-03-19
-acquired: 
+wishlist: 
+acquired: true
 started: 
 finished: 
 ---

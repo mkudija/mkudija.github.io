@@ -10,7 +10,7 @@ isbn10: 1433548216
 isbn13: 9781433548215
 source: 
 wishlist: 
-acquired: 2023-03-31
+acquired: 2023-04-02
 started: 
 finished: 
 translation: English Standard Version

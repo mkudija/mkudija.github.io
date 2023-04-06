@@ -13,6 +13,7 @@ wishlist: 2023-03-06
 acquired: 
 started: 
 finished: 
+translation: Revised Standard Version Second Catholic Edition
 ---
 # *[Didache Bible-OE](https://ignatius.com/the-didache-bible-with-commentaries-based-on-the-catechism-of-the-catholic-church-dbibh/)* by [[Ignatius Press]]
 

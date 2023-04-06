@@ -1,24 +1,24 @@
 ---
-aliases: [The Prince]
-title: The Prince
+aliases: [Machiavelli: The Prince]
+title: Machiavelli: The Prince
 author: Niccolo Machiavelli
-category: Political Science
-publisher: Wyatt North Publishing, LLC
-total_page: 178
-publish_date: 2020-06-03
-isbn10: 164798145X
-isbn13: 9781647981457
+category: History
+publisher: Cambridge University Press
+total_page: 202
+publish_date: 1988-10-28
+isbn10: 0521349931
+isbn13: 9780521349932
 source: 
-wishlist: 2023-03-10
-acquired: 
+wishlist: 
+acquired: true 
 started: 
 finished: 
 ---
-# *[The Prince]()* by [[Machiavelli|Niccolò Machiavelli]]
+# *[Machiavelli: The Prince]()* by [[Niccolo Machiavelli]]
 
-<img src="http://books.google.com/books/content?id=9BPpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="http://books.google.com/books/content?id=05R7kYOKD0cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Wyatt North Publishing, LLC, 2020-06-03), 178`
+`(New York: Cambridge University Press, 1988-10-28), 202`
 
 
 
@@ -31,12 +31,11 @@ finished:
 **Bibliography**
 
 ```query
-[[bib]] file:(~The Prince)
+[[bib]] file:(<%tp.file.title%>)
 ```
  
 
 **[[New Words]]**
-
 - 
 
 ---

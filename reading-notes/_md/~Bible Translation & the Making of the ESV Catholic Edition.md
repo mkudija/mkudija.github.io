@@ -1,9 +1,24 @@
-
+---
+aliases: [Bible Translation & the Making of the ESV Catholic Edition]
+title: Bible Translation & the Making of the ESV Catholic Edition
+author: Mark Giszczak
+category: The Bible
+publisher: Augustine Institute
+total_page: 167
+publish_date: 2022
+isbn10: 
+isbn13: 9781955305532
+source: 
+wishlist: 
+acquired: 2023-04-02
+started: 2023-04-02
+finished: 
+---
 # *[Bible Translation & the Making of the ESV Catholic Edition](https://catholic.market/bible-translation-the-making-esv-catholic-edition/)* by [[Mark Giszczak]]
 
 <img src="https://cdn11.bigcommerce.com/s-iw55yn2imp/images/stencil/960w/products/12682/10289/bibleTranslation_cover__88747.1652389751.jpg?c=2" width=150>
 
-`(?, Augustine Institute, 2022), 167`
+`(Greenwood Village, CO, Augustine Institute, 2022), 167`
 
 
 # Notes

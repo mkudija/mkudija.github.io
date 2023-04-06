@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=GOygNkdfF7oC&printsec=frontc
 publish_date: 2003-03-04
 isbn10: 0385508190
 isbn13: 9780385508193
-started: 
-finished: 
+started: [2015-01-01, 2023-01-01]
+finished: [2015-12-31]
 ---
 # [*Catechism of the Catholic Church*](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
 

@@ -2,7 +2,7 @@
 aliases: [On the Song of Songs]
 title: On the Song of Songs
 author: Saint Bernard (of Clairvaux)
-category: Bible
+category: Spiritual Classics
 publisher: 
 total_page: 259
 cover_url: http://books.google.com/books/content?id=g-z-MAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api

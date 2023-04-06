@@ -1,8 +1,8 @@
 ---
-aliases: [New American Bible for Catholics]
+aliases: [New American Bible for Catholics, Purple NAB]
 title: New American Bible for Catholics
 author: 
-category: Bible
+category: Bibles
 publisher: 
 total_page: 1394
 publish_date: 1991

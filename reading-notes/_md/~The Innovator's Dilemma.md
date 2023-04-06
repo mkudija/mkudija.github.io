@@ -9,8 +9,8 @@ publish_date: 2013-10-22
 isbn10: 1422197581
 isbn13: 9781422197585
 source: 
-wishlist: 2023-03-20
-acquired: 
+wishlist: 
+acquired: true
 started: 
 finished: 
 ---

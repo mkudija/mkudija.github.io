@@ -2,7 +2,7 @@
 aliases: [The Catholic Bible Concordance]
 title: The Catholic Bible Concordance
 author: C. W. Lyons
-category: Bible
+category: Bibles
 publisher: Emmaus Road Publishing
 total_page: 2248
 cover_url: http://books.google.com/books/content?id=AjBGtPr-7g0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api

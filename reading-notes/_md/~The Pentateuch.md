@@ -2,7 +2,7 @@
 aliases: [The Pentateuch, Navarre Bible—The Pentateuch]
 title: The Pentateuch
 author: 
-category: Bible
+category: Bibles
 publisher: Scepter Publishers
 total_page: 844
 cover_url: http://books.google.com/books/content?id=z6FCIZDB4J8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api

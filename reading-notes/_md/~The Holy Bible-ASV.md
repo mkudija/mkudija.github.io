@@ -1,5 +1,5 @@
 ---
-aliases: [The Holy Bible-ASV]
+aliases: [The Holy Bible-ASV, Clare Rood ASV]
 title: The Holy Bible-ASV
 author: 
 category: Bibles

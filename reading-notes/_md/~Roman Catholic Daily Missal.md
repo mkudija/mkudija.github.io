@@ -24,7 +24,7 @@ dimensions: 4.5x7x1.875
 `(Kansas City: Angelus, 1962/2004), 1980`
 
 - Vespers for Sundays, and an introduction to the [[Liturgy of the Hours]] (98)
-- [ ] [[Compline]] for Sundays (107) 📅 2023-03-28
+- [[Compline]] for Sundays (107)
 
 ---
 Created: [[2021-08-23-Mon]]

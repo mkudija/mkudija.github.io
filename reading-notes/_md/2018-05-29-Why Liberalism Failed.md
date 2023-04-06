@@ -9,7 +9,7 @@ publish_date: 2018-01-09
 isbn10: 0300223447
 isbn13: 9780300223446
 source: 
-wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
+wishlist: true
 acquired: 
 started: 
 finished: 

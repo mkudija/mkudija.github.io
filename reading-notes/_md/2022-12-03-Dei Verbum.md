@@ -2,7 +2,7 @@
 aliases: [Dei Verbum, Dogmatic Constitution on Divine Revelation]
 title: Dogmatic Constitution on Divine Revelation
 author: Pope Paul VI
-category: Bible
+category: Encyclical
 publisher: 
 total_page: 22
 cover_url: http://books.google.com/books/content?id=OnTWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
