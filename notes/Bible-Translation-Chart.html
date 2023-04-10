@@ -49,23 +49,26 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <pre class="mermaid-pre"><div class="mermaid">graph LR
 
-orig(Original Hebrew / Greek)
+orig(Original Languages)
 kjv(KJV 1611)
 rv(Revised Version 1885)
 asv(ASV 1901)
 rsv(RSV 1952)
-rsvce(RSV-CE 1989)
+rsvce(RSV-CE 1966)
 rsv2ce(RSV-2CE 2006)
-nrsv(NRSV 1990)
+nrsv(NRSV 1989)
 nrsvce(NRSV-CE 1991)
-nrsvue(NRSVUE 2022)
+nrsvue(NRSVue 2022)
 nkjv(NKJV 1982)
 esv(ESV 2001)
 esv16(ESV 2016)
 esvce(ESV-CE 2018)
 nab(NAB 1970)
 nabre(NABRE 2011)
+nabre25(NABRE 2025?)
 niv(NIV 1978)
+niv84(NIV 1984)
+niv11(NIV 2011)
 v(Vulgate 400)
 nv(New Vulgate 1979)
 nv86(New Vulgate 1986)
@@ -79,25 +82,27 @@ nasb(NASB 2020)
 lbj(La Bible de Jérusalem 1956)
 jb(JB 1966)
 njb(NJB 1985)
-alv(ALV 2016) %% https://www.bibliotheca.co/translation
+rnjb(RNJB 2019)
+nlt(NLT 1996)
+nltce(NLT-CE 2016)
+alv(ALV 2016)
+ncb(NCB 2019)
+csv(CSV 2022+?)
 
 classDef ct fill:lightBlue
 classDef pt fill:lightGreen
 classDef ec fill:pink
 
-%% subgraph Legend
-%%  direction TB
-    Catholic&gt;Catholic]:::ct
-    Protestant&gt;Protestant]:::pt
-    Ecumenical&gt;Ecumenical]:::ec
-%%end
+Catholic&gt;Catholic]:::ct
+Protestant&gt;Protestant]:::pt
+Ecumenical&gt;Ecumenical]:::ec
 
 orig --&gt; nab:::ct
 orig --&gt; v:::ct
 orig --&gt; kjv:::pt
 orig --&gt; na
-orig --&gt; niv:::pt
 nab --&gt; nabre:::ct
+nabre --&gt; nabre25:::ct
 v --&gt; nv:::ct
 v --&gt; douay:::ct
 douay --&gt; challoner:::ct
@@ -117,7 +122,7 @@ rsv --&gt; rsvce:::ct
 rsv --&gt; esv:::pt
 esv --&gt; esvce:::ct
 esv --&gt; esv16:::pt
-asv --&gt; alv:::ct
+asv --&gt; alv:::pt
 asv --&gt; na:::pt
 na --&gt; nas:::pt
 nas --&gt; nasb:::pt
@@ -126,14 +131,31 @@ orig --&gt; jb:::ct
 orig --&gt; lbj:::ct
 lbj --&gt; jb
 jb --&gt; njb:::ct
+njb --&gt; rnjb:::ct
+orig --&gt; niv:::pt
+orig --&gt; nlt:::pt
+nlt --&gt; nltce:::ct
+niv --&gt; niv84:::pt
+niv84 --&gt; niv11:::pt
+orig --&gt; ncb:::ct
+orig --&gt; csv:::ct
 
+click alv "https://www.bibliotheca.co/translation" _blank
 
 </div></pre>
+
+<p><strong>Reference</strong></p>
+
+<ul>
+<li><a href="https://evangelicalbible.com/wp-content/uploads/2019/05/english_bible_history5.19.png">EvangelicalBible.com - English Bible Overview</a></li>
+</ul>
+
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fredeeminggod.com%2Fwp-content%2Fuploads%2F2011%2F07%2FBible-Translation-tree-570x722.gif&amp;f=1&amp;nofb=1"></p>
 
 <hr />
 
 <p>Created: <a href="../reading-notes/2023-04-06-Thu.html">2023-04-06-Thu</a><br />
-Updated: 2023-04-06-Thu</p>
+Updated: 2023-04-10-Mon</p>
 
 
 </div>

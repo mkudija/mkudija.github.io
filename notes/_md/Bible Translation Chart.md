@@ -8,23 +8,26 @@ mermaid: true
 ```mermaid
 graph LR
 
-orig(Original Hebrew / Greek)
+orig(Original Languages)
 kjv(KJV 1611)
 rv(Revised Version 1885)
 asv(ASV 1901)
 rsv(RSV 1952)
-rsvce(RSV-CE 1989)
+rsvce(RSV-CE 1966)
 rsv2ce(RSV-2CE 2006)
-nrsv(NRSV 1990)
+nrsv(NRSV 1989)
 nrsvce(NRSV-CE 1991)
-nrsvue(NRSVUE 2022)
+nrsvue(NRSVue 2022)
 nkjv(NKJV 1982)
 esv(ESV 2001)
 esv16(ESV 2016)
 esvce(ESV-CE 2018)
 nab(NAB 1970)
 nabre(NABRE 2011)
+nabre25(NABRE 2025?)
 niv(NIV 1978)
+niv84(NIV 1984)
+niv11(NIV 2011)
 v(Vulgate 400)
 nv(New Vulgate 1979)
 nv86(New Vulgate 1986)
@@ -38,25 +41,27 @@ nasb(NASB 2020)
 lbj(La Bible de Jérusalem 1956)
 jb(JB 1966)
 njb(NJB 1985)
-alv(ALV 2016) %% https://www.bibliotheca.co/translation
+rnjb(RNJB 2019)
+nlt(NLT 1996)
+nltce(NLT-CE 2016)
+alv(ALV 2016)
+ncb(NCB 2019)
+csv(CSV 2022+?)
 
 classDef ct fill:lightBlue
 classDef pt fill:lightGreen
 classDef ec fill:pink
 
-%% subgraph Legend
-%%	direction TB
-	Catholic>Catholic]:::ct
-	Protestant>Protestant]:::pt
-	Ecumenical>Ecumenical]:::ec
-%%end
+Catholic>Catholic]:::ct
+Protestant>Protestant]:::pt
+Ecumenical>Ecumenical]:::ec
 
 orig --> nab:::ct
 orig --> v:::ct
 orig --> kjv:::pt
 orig --> na
-orig --> niv:::pt
 nab --> nabre:::ct
+nabre --> nabre25:::ct
 v --> nv:::ct
 v --> douay:::ct
 douay --> challoner:::ct
@@ -76,7 +81,7 @@ rsv --> rsvce:::ct
 rsv --> esv:::pt
 esv --> esvce:::ct
 esv --> esv16:::pt
-asv --> alv:::ct
+asv --> alv:::pt
 asv --> na:::pt
 na --> nas:::pt
 nas --> nasb:::pt
@@ -85,9 +90,23 @@ orig --> jb:::ct
 orig --> lbj:::ct
 lbj --> jb
 jb --> njb:::ct
+njb --> rnjb:::ct
+orig --> niv:::pt
+orig --> nlt:::pt
+nlt --> nltce:::ct
+niv --> niv84:::pt
+niv84 --> niv11:::pt
+orig --> ncb:::ct
+orig --> csv:::ct
 
+click alv "https://www.bibliotheca.co/translation" _blank
 
 ```
+
+**Reference**
+- [EvangelicalBible.com - English Bible Overview](https://evangelicalbible.com/wp-content/uploads/2019/05/english_bible_history5.19.png)
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fredeeminggod.com%2Fwp-content%2Fuploads%2F2011%2F07%2FBible-Translation-tree-570x722.gif&f=1&nofb=1">
 
 ---
 Created: [[2023-04-06-Thu]]
