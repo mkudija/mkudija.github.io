@@ -86,8 +86,8 @@ asv --> na:::pt
 na --> nas:::pt
 nas --> nasb:::pt
 nas --> lsb:::pt
-orig --> jb:::ct
 orig --> lbj:::ct
+orig --> jb:::ct
 lbj --> jb
 jb --> njb:::ct
 njb --> rnjb:::ct

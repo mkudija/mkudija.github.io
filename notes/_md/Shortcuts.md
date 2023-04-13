@@ -46,6 +46,7 @@ publish: true
 
 ## Google Sheets
 - `fn + F4` = Absolute/relative references
+- `=query(A1:D51,"Order by C Desc Limit 10")`
 
 
 ## PyCharm
