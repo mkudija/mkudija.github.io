@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=z6FCIZDB4J8C&printsec=frontc
 publish_date: 1999
 isbn10: 1889334219
 isbn13: 9781889334219
+acquired: 2021-12-05
 started: 
 finished: 
 translation: [Revised Standard Version Catholic Edition, Nova Vulgata]

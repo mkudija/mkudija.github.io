@@ -390,7 +390,7 @@ _**Summary**: We need to reform by returning to natural monies._
 	- *History of Economic Analysis* (x) 
 	- *Capitalism, Socialism, and Democracy* (68)
 - Church documents:
-	- *Rerum Novarum* (25, 26, 121)
+	- *[[~Rerum Novarum|Rerum Novarum]]* (25, 26, 121)
 	- *Quadragesimo Anno* (6, 26, 184, 237, 240)
 	- *Mater et Magistra* (76)
 	- *[[Gaudium et Spes]]* (4, 26)

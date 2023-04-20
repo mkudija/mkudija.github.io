@@ -10,7 +10,7 @@ isbn10: 0195298039
 isbn13: 9780195298031
 source: 
 wishlist: 2023-04-04
-acquired: 
+acquired: 2022-12-25
 started: 
 finished: 
 translation: New American Bible Revised Edition

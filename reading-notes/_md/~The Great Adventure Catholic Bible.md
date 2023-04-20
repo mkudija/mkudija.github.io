@@ -26,6 +26,9 @@ dimensions: 6.375x9.375x1.75
 
 <img src="https://raw.githubusercontent.com/mkudija/blog/master/content/images/2022-Bible-in-a-year/Bible-Timeline-Bookmark.jpg" width="100%">
 
+### Reading Plan 
+*pg xxix*
+
 --- 
 **Topic**: [[The Bible]]
 

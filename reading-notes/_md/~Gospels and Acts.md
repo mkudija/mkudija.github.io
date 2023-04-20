@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=z6FCIZDB4J8C&printsec=frontc
 publish_date: 1999
 isbn10: 
 isbn13: 9781889334271
+acquired: true
 started: 
 finished: 
 translation: [Revised Standard Version Catholic Edition, Nova Vulgata]
@@ -24,7 +25,7 @@ dimensions: 6.25x9x2.125
 **Topic**: [[The Bible]]
 
 **Source**
-- [[St. Pat's KoC Book Sale]] 2021
+- Madj Christmas 2020?
 
 
 **Bibliography**

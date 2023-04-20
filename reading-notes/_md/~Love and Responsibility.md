@@ -1,4 +1,19 @@
-
+---
+aliases: [Love and Responsibility]
+title: Love and Responsibility
+author: Pope John Paul II
+category: Family & Relationships
+publisher: Ignatius Press
+total_page: 324
+publish_date: 1993
+isbn10: 0898704456
+isbn13: 9780898704457
+source: 
+wishlist: 
+acquired: true
+started: 
+finished: 
+---
 # [*Love and Responsibility*](https://ignatius.com/love-and-responsibility-lrep/) by [[John Paul II|Karol Wojtyła]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1616/1815/LREP_r__64954.1617023993.jpg?c=1" width=150>
@@ -163,19 +178,24 @@ _**Summary**: _
 ## Chapter 30:
 _**Summary**: _
 
+
 --- 
 **Topic**: 
 
-**Source**: 
+**Source**
+- 
 
 **Bibliography**
 
-- 
+```query
+[[bib]] file:(<%tp.file.title%>)
+```
+ 
 
-**New Words**
+**[[New Words]]**
 
 - 
 
 ---
 Created: [[2022-02-24-Thu]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

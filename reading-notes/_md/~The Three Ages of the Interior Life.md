@@ -14,7 +14,7 @@ acquired:
 started: 
 finished: 
 ---
-# *[The Three Ages of the Interior Life]()* by [[Reginald Garrigou-Lagrange]]
+# *[The Three Ages of the Interior Life]()* by [[Fr. Reginald Garrigou-Lagrange, OP]]
 
 <img src="http://books.google.com/books/content?id=4qWEngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

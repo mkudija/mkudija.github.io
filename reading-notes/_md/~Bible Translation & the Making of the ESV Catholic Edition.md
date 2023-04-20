@@ -12,7 +12,7 @@ source:
 wishlist: 
 acquired: 2023-04-02
 started: 2023-04-02
-finished: 
+finished: 2023-04-09
 ---
 # *[Bible Translation & the Making of the ESV Catholic Edition](https://catholic.market/bible-translation-the-making-esv-catholic-edition/)* by [[Mark Giszczak]]
 
@@ -30,6 +30,7 @@ finished:
 <!-- /MarkdownTOC -->
 </details>
 
+- take notes on ESV translation book 📅 2023-04-26
 
 
 --- 

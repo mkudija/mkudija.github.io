@@ -1,5 +1,5 @@
 ---
-aliases: [Vest Pocket New Testament with Psalms and Proverbs-ESV]
+aliases: [Vest Pocket New Testament with Psalms and Proverbs-ESV, Pocket ESV]
 title: Vest Pocket New Testament with Psalms and Proverbs-ESV
 author: Crossway Bibles
 category: Bibles

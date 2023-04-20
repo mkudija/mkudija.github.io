@@ -10,7 +10,7 @@ isbn10: 089942533X
 isbn13: 9780899425337
 source: 
 wishlist: 2023-04-04
-acquired: 
+acquired: 2015
 started: 
 finished: 
 translation: New American Bible Revised Edition

@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=IP8pnwEACAAJ&printsec=frontc
 publish_date: 1973
 isbn10: 1563206641
 isbn13: 9781563206641
+acquired: true
 started:
 finished:
 translation: New International Version

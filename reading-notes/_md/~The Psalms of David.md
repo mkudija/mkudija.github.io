@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=yv58UBKce-0C&printsec=frontc
 publish_date: 1982-10-01
 isbn10: 0688013120
 isbn13: 9780688013127
+acquired: 2022-10-??
 translation: King James Version
 ---
 # *[The Psalms of David]()* by [[James S. Freemantle]]
@@ -39,4 +40,4 @@ translation: King James Version
 
 ---
 Created: [[2022-11-22-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=THpVDwAAQBAJ&printsec=frontc
 publish_date: 2018
 isbn10: 0190276096
 isbn13: 9780190276096
+acquired: 2021?
 translation: New Revised Standard Version
 dimensions: 7x9.375x2
 ---
@@ -38,6 +39,9 @@ dimensions: 7x9.375x2
 - "O Israelite children, offspring of the seed of Abraham, obey this law and exercise piety in every way, knowing that devout reason is master of all emotions, not only of sufferings from within, but also of those from without." (4 Mc 18:1-2)
 - 4 Mc 18:14 quotes [[Is-43#v2]]: "when you walk through fire you shall not be burned, and the flame shall not consume you."
 
+
+### [[Parallel Texts of the Bible|Parallel Texts]] 
+*pg 2320*
 
 --- 
 

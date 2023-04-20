@@ -9,8 +9,9 @@ cover_url: http://books.google.com/books/content?id=1mSZdtDcoOAC&printsec=frontc
 publish_date: 1997-07
 isbn10: 0765192586
 isbn13: 9780765192585
-started: []
-finished: []
+started: 
+finished: 
+acquired: true
 translation: Children's
 ---
 # *[Children's Picture Bible]()* by [[Smithmark Publishers, Incorporated]]

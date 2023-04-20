@@ -10,7 +10,7 @@ isbn10: 0195282639
 isbn13: 9780195282634
 source: 
 wishlist: 2023-03-28
-acquired: 
+acquired: 2015?
 started: 
 finished: 
 translation: New Revised Standard Version Catholic Edition
@@ -22,7 +22,11 @@ dimensions: 6x8.25x1.5
 
 `(New York: Oxford University Press, 1999), 1650`
 
+### [[Parallel Texts of the Bible|A Harmony of the Gospels]]
+*pg 1169*
 
+### Concordance 
+*pg 1497*
 
 --- 
 **Topic**: [[The Bible]]

@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=9SiHzQEACAAJ&printsec=frontc
 publish_date: 2019-11-26
 isbn10: 1601376448
 isbn13: 9781601376442
+acquired: true
 translation: Abbey Psalms and Canticles
 dimensions: 4.75x6.75x1.25
 ---

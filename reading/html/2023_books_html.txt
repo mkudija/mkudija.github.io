@@ -1,3 +1,5 @@
+<li><i>Things Fall Apart</i> by Chinua Achebe</li>
+<li><i>Bible Translation & the Making of the ESV Catholic Edition</i> by Mark Giszczak</li>
 <li><i>Life of Christ</i> by Fulton Sheen</li>
 <li><i>Christianity and Politics</i> by C. C. Pecknold</li>
 <li><i>Introduction to Christianity</i> by Joseph Ratzinger</li>

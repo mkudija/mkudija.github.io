@@ -9,6 +9,7 @@ cover_url: http://books.google.com/books/content?id=CEmgtgEACAAJ&printsec=frontc
 publish_date: 2018-03
 isbn10: 0998741159
 isbn13: 9780998741154
+acquired: true
 translation: New Living Translation
 ---
 # *[Book of Psalms](https://www.alabasterco.com/products/book-of-psalms)* by [[Alabaster Co LLC]]

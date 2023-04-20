@@ -9,6 +9,7 @@ cover_url:
 publish_date: 2020-11
 isbn10: 1950939502
 isbn13: 9781950939466
+acquired: 2022-12
 translation: English Standard Version Catholic Edition
 dimensions: 6x9x1.25
 ---

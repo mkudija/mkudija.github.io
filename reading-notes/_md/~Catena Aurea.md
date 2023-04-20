@@ -29,6 +29,9 @@ finished:
 Online Version:
 - [St. Thomas Aquinas's Works in English](https://isidore.co/aquinas/)
 
+Other versions
+- [Catena Aurea - Commentary on the Four Gospels | Baronius Press](https://www.baronius.com/catena-aurea.html)
+
 --- 
 **Topic**: [[The Bible|Scripture Commentary]]
 
