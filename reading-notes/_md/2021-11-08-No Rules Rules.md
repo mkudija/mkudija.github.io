@@ -69,13 +69,13 @@ See [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-h
 - Encourage transparency by getting rid of closed offices, locked spaces, etc.
 - Share sensitive financial and strategic information with all employees
 - Notify employees about possible changes early even if they cause anxiety and distraction
-- If information is about something that happened at work, share it. If information ispersonal say it's not your place to share but refer to the person
+- If information is about something that happened at work, share it. If information is personal say it's not your place to share but refer to the person
 - As long as you have already shown yourself to be competent talking openly about your own mistakes will increase trust an goodwill
 
 
 ## Chapter 6: Release More Controls
 **Summary**: No decision-making approvals needed
-- Ownership of decisions should be dispersed across the team at all levls
+- Ownership of decisions should be dispersed across the team at all levels
 - For this to work: "don't seek to please your boss"
 - Think in bets: some will succeed and some will fail, and you are judged on the collective outcome rather than a single bet
 - When a bet fails, sunshine it openly
@@ -123,5 +123,5 @@ See [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-h
 
 ---
 Created: 2021-11-08
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 
