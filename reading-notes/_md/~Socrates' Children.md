@@ -20,6 +20,21 @@ finished:
 
 `(?: Word on Fire, 2023), 1072`
 
+## *[[~Socrates' Children—Ancient Philosophers (Vol. 1)|Ancient Philosophers (Vol. 1)]]*
+
+
+## *[[~Socrates' Children—Medieval Philosophers (Vol. 2)|Medieval Philosophers (Vol. 2)]]*
+
+
+## *[[~Socrates' Children—Modern Philosophers (Vol. 3)|Ancient Philosophers (Vol. 3)]]*
+
+
+## *[[~Socrates' Children—Contemporary Philosophers (Vol. 4)|Contemporary Philosophers (Vol. 4)]]*
+
+
+
+
+
 Reference:
 - [ ] make this note: [[A Summary of Philosphy]]
 - Video Series: [[Socrates' Children - The Great Debates of Philosophy - Peter Kreeft]]

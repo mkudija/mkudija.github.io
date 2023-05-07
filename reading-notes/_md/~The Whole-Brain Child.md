@@ -22,7 +22,7 @@ finished: []
 **Topic**: [[Parenting]]
 
 **Source**
-- *[[~No-Drama Discipline|No-Drama Discipline]]*
+- *[[2023-05-06-No-Drama Discipline|No-Drama Discipline]]*
 
 
 **Bibliography**

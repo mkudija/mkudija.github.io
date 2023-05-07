@@ -22,18 +22,18 @@ dimensions: 8x11.5x2.675
 
 `(Chicago: The Catholic Pres, Inc., 1950/1952)`
 
-### [[Encyclical]] *Providentissimus Deus* by [[Pope Leo XIII]] 
+### Encyclical *Providentissimus Deus* by [[Pope Leo XIII]] 
 
 ### Papal Documents on the Bible between 1893 and 1943
 
-### [[Encyclical]] *Divino Affante Spiritu* by [[Pope Pius XII]] 
+### Encyclical *[[~Divino Afflante Spiritu|Divino Afflante Spiritu]]* by [[Pope Pius XII]] 
 
 ### Contents of the Bible by Chapters
 *like [[2023 BIY]] chapter summaries*
 
 ### A Catholic Home Encyclopedia 
 - *List of the Popes*
-- 
+
 
 --- 
 **Topic**: [[The Bible]]
