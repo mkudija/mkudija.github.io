@@ -23,7 +23,12 @@ dimensions: 7.25x9.5x1.75
 `(New York: Zondervan, 2022-06-07), 2065`
 
 - Typeset by [[2K/DENMARK]] using "Zondervan NIV Typeface"
-- [ ] #read NIV Preface 📅 2023-04-26
+- **NIV Preface**
+	- Three principles: 
+		- Meaning of words determined by the use in the language at that time (using computational linguistics to choose "humanity", "man", and "mankind" but not "he"/"his")
+		- Meaning is found not in individual words but larger clusters 
+		- Words have a spectrum of meaning (not translate every Hebrew word occurrence with the same English word)
+	- Textual basis: Masoretic Text 
 - ★ *starred items saved to [Dropbox](https://www.dropbox.com/s/bpbk6dvcj4sibxe/2023-04-27%20NIV%20Thompson%20Chain%20Reference%20Excerpts.pdf?dl=0)*
 - **Thompson Chain-Reference System**: [Thompson Chain-Reference Bible - How it Works](https://www.zondervan.com/p/thompsonchainreference/howitworks/)
 - **Principles of Bible Study** (1487)
