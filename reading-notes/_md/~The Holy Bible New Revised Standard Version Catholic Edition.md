@@ -25,6 +25,9 @@ dimensions: 6x8.25x1.5
 ### [[Parallel Texts of the Bible|A Harmony of the Gospels]]
 *pg 1169*
 
+#### [[The Mysteries of the Rosary]] 
+*pg 1495*
+
 ### Concordance 
 *pg 1497*
 

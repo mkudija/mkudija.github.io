@@ -4,6 +4,10 @@ aliases: [Poetry]
 ---
 # Poems
 
+**[[John Donne]]**
+- *[[Batter My Heart]]*
+- *[[A Hymn to God the Father]]*
+
 **[[T. S. Eliot]]**
 - *[Ash Wednesday](http://www.famouspoetsandpoems.com/poets/t__s__eliot/poems/15133)*
 
@@ -13,6 +17,7 @@ aliases: [Poetry]
 **[[George Herbert]]**
 - *[[The Pulley]]*
 - *[[Love (III)]]*
+- *[[Trinity Sunday]]*
 
 **[[Gerard Manley Hopkins]]**
 - *[[God's Gradeaur]]*

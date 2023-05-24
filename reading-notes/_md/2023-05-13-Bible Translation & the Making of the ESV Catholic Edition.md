@@ -57,7 +57,7 @@ This book helped send me deeper down the rabbit hole of Bible translations, and 
 _**Summary**: Desire in the 1990s for new translations like the ESV grew out of frustrations with with available options, often pushing the the extreme on one side or the other._
 
 - *The Language of the King James Bible: A Glossary Explaining Its Words and Expressions* by Melvin E. Elliott [[bib]] (4)
-- Two extremes of dynamic equivalence vs formal equivalence: The NIV is very readable but not as accurate to the text as one might like; the NASB took literalism to is most extreme, maintaining a single word from the original (cf. *[[~The Art of Bible Translation#Chapter 1: The Eclipse of Bible Translation]]*) but being less readable (5)
+- Two extremes of dynamic equivalence vs formal equivalence: The NIV is very readable but not as accurate to the text as one might like; the NASB took literalism to is most extreme, maintaining a single word from the original (cf. *[[2023-05-24-The Art of Bible Translation#Chapter 1: The Eclipse of Bible Translation]]*) but being less readable (5)
 - Additionally, given that the RSV had gone out of print and the NRSV was criticized for going to o far on inclusive language, by the 1990s many thought there was need for a new translation (7)
 - The guidelines of *[[2022-11-15-Liturgiam authenticam|Liturgiam authenticam]]* in many ways overlap with the philosophy of the ESV translators (9)
 - The ESV is a consciously Christian translation by reading OT/NT in continuity (10), and very consistent in its treatment on inclusive language (11)

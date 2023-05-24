@@ -33,7 +33,7 @@ Other versions
 - [Catena Aurea - Commentary on the Four Gospels | Baronius Press](https://www.baronius.com/catena-aurea.html)
 
 --- 
-**Topic**: [[The Bible|Scripture Commentary]]
+**Topic**: [[The Bible]], [[Bible Commentary]]
 
 **Source**
 - [[2023-03-04-Q&A with Michael Pakaluk]]

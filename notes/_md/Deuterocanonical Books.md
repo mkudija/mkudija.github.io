@@ -1,5 +1,6 @@
 ---
 publish: true
+aliases: [Apocrypha]
 ---
 # Deuterocanonical Books
 <em>This note is a draft, written from a Roman Catholic perspective—if you have additions or changes to suggest, please feel free to <a href="mailto:m.kudija@proton.me">let me know</a>.</em>

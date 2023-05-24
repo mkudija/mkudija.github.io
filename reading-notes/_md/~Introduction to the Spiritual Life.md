@@ -156,7 +156,7 @@ _**Summary**: _
 **Topic**: [[Prayer]], [[Spiritual Direction]], [[Spiritual Disciplines]]
 
 **Source**
-- 
+- [[2023-04-17 Pints with Aquinas - The Spiritual Life with Dr Brant Pitre]]
 
 **Bibliography**
 

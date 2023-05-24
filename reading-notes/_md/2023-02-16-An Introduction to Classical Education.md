@@ -35,7 +35,7 @@ finished: 2023-02-16
 
 >Classical education turns out to be, at bottom, the love of our children to whom we give the best we have received.
 
-- [ ] The Revised Edition of _An Introduction to Classical Education_ will be released in May 2023. 📅 2023-05-01
+- [ ] The Revised Edition of _An Introduction to Classical Education_ will be released in May 2023. 📅 2023-06-01
 
 --- 
 **Topic**: [[Classical Education]]

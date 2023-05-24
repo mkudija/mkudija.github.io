@@ -23,7 +23,7 @@ finished:
 
 
 --- 
-**Topic**: [[The Bible]]
+**Topic**: [[The Bible]], [[Bible Commentary]]
 
 **Source**
 - 

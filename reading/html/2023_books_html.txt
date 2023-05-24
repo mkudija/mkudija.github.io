@@ -1,3 +1,4 @@
+<li><i>The Art of Bible Translation</i> by Robert Alter</li>
 <li><i>No-Drama Discipline</i> by Daniel J. Siegel & Tina Payne Bryson</li>
 <li><i>Things Fall Apart</i> by Chinua Achebe</li>
 <li><i>Bible Translation & the Making of the ESV Catholic Edition</i> by Mark Giszczak</li>

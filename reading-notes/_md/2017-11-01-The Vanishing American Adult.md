@@ -69,7 +69,7 @@ Sasse's 60-book shelf includes:
 - Greek roots
 	- *Ethics* by [[Aristotle]]
 	- *Crito* by [[Plato]]
-	- *The Odyssey* by Homer
+	- *[[~The Odyssey|The Odyssey]]* by Homer
 	- *History of the Peloponnesian War* by Thucydides
 	- *Three Thebian Plays* by Sophocles
 - Homesick Souls

@@ -26,7 +26,7 @@ finished:
 **Topic**: 
 
 **Source**
-- [[2023-03-31-Forecasting Revenue Based on Customer Behavior]]
+- [[2023-03-31 Forecasting Revenue Based on Customer Behavior]]
 
 **Bibliography**
 
