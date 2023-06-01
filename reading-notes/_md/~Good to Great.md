@@ -20,13 +20,72 @@ finished:
 
 `(New York: Harper Collins, 2001-10-16), 320`
 
+# Notes
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+<!-- /MarkdownTOC -->
+</details>
+
+
+## Chapter 1: Good Is the Enemy of Great
+_**Summary**: _
+
+
+
+## Chapter 2: Level 5 Leadership
+_**Summary**: _
+
+
+
+## Chapter 3: First Who...Then What
+_**Summary**: _
+
+
+
+## Chapter 4: Confront the Brutal Facts (Yet Never Lose Faith)
+_**Summary**: _
+
+
+
+## Chapter 5: The Hedgehog Concept (Simplicity within the Three Circles)
+_**Summary**: _
+
+
+
+## Chapter 6: A Culture of Discipline
+_**Summary**: _
+
+
+
+## Chapter 7: Technology Accelerators
+_**Summary**: _
+
+
+
+## Chapter 8: The Flywheel and the Doom Loop
+_**Summary**: _
+
+
+
+## Chapter 9: From Good to Great to Built to Last
+_**Summary**: _
+
+
+
+## Epilogue: Frequently Asked Questions
+_**Summary**: _
+
+
 
 
 --- 
 **Topic**: [[Management]]
 
 **Source**
-- [[2023-05-18 How Amazon Measures]]
+- [[2023-05-18 This is How Amazon Measures Itself]]
 
 **Bibliography**
 

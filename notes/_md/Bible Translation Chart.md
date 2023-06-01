@@ -45,7 +45,8 @@ rnjb(RNJB 2019)
 nlt(NLT 1996)
 nltce(NLT-CE 2016)
 alv(ALV 2016)
-ncb(NCB 2019)
+ctsncb(CTS NCB 2007)
+cbpcncb(CBPC NCB 2019)
 csv(CSV 2022+?)
 
 classDef ct fill:lightBlue
@@ -90,16 +91,20 @@ orig --> lbj:::ct
 orig --> jb:::ct
 lbj --> jb
 jb --> njb:::ct
+jb --> ctsncb:::ct
 njb --> rnjb:::ct
 orig --> niv:::pt
 orig --> nlt:::pt
 nlt --> nltce:::ct
 niv --> niv84:::pt
 niv84 --> niv11:::pt
-orig --> ncb:::ct
+orig --> cbpcncb:::ct
 orig --> csv:::ct
 
 click alv "https://www.bibliotheca.co/translation" _blank
+click ctsncb "https://en.wikipedia.org/wiki/Catholic_Truth_Society" _blank
+click cbpcncb "https://www.biblegateway.com/versions/New-Catholic-Bible-NCB-Bible/" _blank
+
 
 ```
 

@@ -3,7 +3,7 @@ aliases: [Ignatius Journaling and Note-Taking Bible]
 title: Ignatius Journaling and Note-Taking Bible
 author: Ignatius Press
 category: 
-publisher: 
+publisher: Ignatius Press
 total_page: 1290
 cover_url: http://books.google.com/books/content?id=_SeSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 publish_date: 2020-09-25
@@ -12,15 +12,15 @@ isbn13: 9781621641902
 started: 
 finished: 
 translation: Revised Standard Version Second Catholic Edition
-dimensions: 
+dimensions: 6.5x7.625x1.625
 ---
 # *[Ignatius Journaling and Note-Taking Bible]()* by [[Ignatius Press]]
 
 <img src="http://books.google.com/books/content?id=_SeSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: , 2020-09-25), 1290`
+`(San Francisco: Ignatius, 2020), 1290`
 
-- [ ] add dimensions 📅 2023-05-22
+
 
 --- 
 **Topic**: [[The Bible]]

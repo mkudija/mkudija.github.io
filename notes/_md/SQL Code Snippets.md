@@ -3,6 +3,50 @@ publish: true
 ---
 # SQL Code Snippets
 
+### Create & Update Tables
+Create schema:
+```SQL
+-- create schema
+CREATE SCHEMA my_schema;
+```
+
+
+Create table:
+```SQL
+-- create table
+DROP TABLE IF EXISTS schema.table;
+CREATE TABLE schema.table
+	AS (
+		SELECT * FROM table
+	);
+```
+
+Update table:
+```SQL
+DELETE
+FROM table
+WHERE source = 'a';
+
+INSERT INTO table
+SELECT * FROM source_table
+```
+
+Grant usage:
+```SQL
+GRANT USAGE ON SCHEMA <name> TO user;
+GRANT SELECT ON ALL TABLES IN SCHEMA <name TO user;
+
+GRANT USAGE ON SCHEMA <name> TO GROUP readonly;
+GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;
+```
+
+```SQL
+GRANT USAGE ON [schema] TO mode_analytics;
+GRANT SELECT ON [schema.table] TO mode_analytics;
+```
+
+
+
 ### Search for Column Names
 ```sql
 SELECT *  
@@ -291,49 +335,6 @@ FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30')
 ### Most Recent Month-End Date (Prior Month End)
 ```SQL
 SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
-```
-
-
-### Create & Update Tables
-Create schema:
-```SQL
--- create schema
-CREATE SCHEMA my_schema;
-```
-
-
-Create table:
-```SQL
--- create table
-DROP TABLE IF EXISTS schema.table;
-CREATE TABLE schema.table
-	AS (
-		SELECT * FROM table
-	);
-```
-
-Update table:
-```SQL
-DELETE
-FROM table
-WHERE source = 'a';
-
-INSERT INTO table
-SELECT * FROM source_table
-```
-
-Grant usage:
-```SQL
-GRANT USAGE ON SCHEMA <name> TO user;
-GRANT SELECT ON ALL TABLES IN SCHEMA <name TO user;
-
-GRANT USAGE ON SCHEMA <name> TO GROUP readonly;
-GRANT SELECT ON ALL TABLES IN SCHEMA <name> TO GROUP readonly;
-```
-
-```SQL
-GRANT USAGE ON [schema] TO mode_analytics;
-GRANT SELECT ON [schema.table] TO mode_analytics;
 ```
 
 

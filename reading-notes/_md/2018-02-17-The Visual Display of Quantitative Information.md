@@ -10,7 +10,7 @@ publish_date: 2000
 isbn10: 0961392142
 isbn13: 9780961392147
 ---
-# *[The Visual Display of Quantitative Information]()* by [[Edward R. Tufte]]
+# *[The Visual Display of Quantitative Information]()* by [[Edward Tufte]]
 
 <img src="https://books.google.com/books/content?id=GTd5oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

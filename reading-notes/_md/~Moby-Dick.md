@@ -26,7 +26,7 @@ finished:
 **Topic**: [[Classics]]
 
 **Source**
-- Bill Goodwine at 2013 ND AME graduation 
+- 5/19/13 ”Bill Goodwine at 2013 ND AME graduation 
 
 **Bibliography**
 

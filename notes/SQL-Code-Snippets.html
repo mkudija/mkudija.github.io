@@ -47,6 +47,57 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <h1 id="sql-code-snippets">SQL Code Snippets</h1>
 
+<h3 id="create-update-tables">Create &amp; Update Tables</h3>
+
+<p>Create schema:</p>
+
+<div class="codehilite">
+<pre><span></span><code><span class="c1">-- create schema</span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="n">my_schema</span><span class="p">;</span><span class="w"></span>
+</code></pre>
+</div>
+
+<p>Create table:</p>
+
+<div class="codehilite">
+<pre><span></span><code><span class="c1">-- create table</span>
+<span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="p">;</span><span class="w"></span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
+<span class="w">    </span><span class="k">AS</span><span class="w"> </span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
+<span class="w">    </span><span class="p">);</span><span class="w"></span>
+</code></pre>
+</div>
+
+<p>Update table:</p>
+
+<div class="codehilite">
+<pre><span></span><code><span class="k">DELETE</span><span class="w"></span>
+<span class="k">FROM</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
+<span class="k">WHERE</span><span class="w"> </span><span class="k">source</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;a&#39;</span><span class="p">;</span><span class="w"></span>
+
+<span class="k">INSERT</span><span class="w"> </span><span class="k">INTO</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
+<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">source_table</span><span class="w"></span>
+</code></pre>
+</div>
+
+<p>Grant usage:</p>
+
+<div class="codehilite">
+<pre><span></span><code><span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">user</span><span class="p">;</span><span class="w"></span>
+<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">user</span><span class="p">;</span><span class="w"></span>
+
+<span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
+<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
+</code></pre>
+</div>
+
+<div class="codehilite">
+<pre><span></span><code><span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="p">[</span><span class="k">schema</span><span class="p">]</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">mode_analytics</span><span class="p">;</span><span class="w"></span>
+<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="p">[</span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="p">]</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">mode_analytics</span><span class="p">;</span><span class="w"></span>
+</code></pre>
+</div>
+
 <h3 id="search-for-column-names">Search for Column Names</h3>
 
 <div class="codehilite">
@@ -418,57 +469,6 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 </code></pre>
 </div>
 
-<h3 id="create-update-tables">Create &amp; Update Tables</h3>
-
-<p>Create schema:</p>
-
-<div class="codehilite">
-<pre><span></span><code><span class="c1">-- create schema</span>
-<span class="k">CREATE</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="n">my_schema</span><span class="p">;</span><span class="w"></span>
-</code></pre>
-</div>
-
-<p>Create table:</p>
-
-<div class="codehilite">
-<pre><span></span><code><span class="c1">-- create table</span>
-<span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="p">;</span><span class="w"></span>
-<span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="w"></span>
-<span class="w">    </span><span class="k">AS</span><span class="w"> </span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
-<span class="w">    </span><span class="p">);</span><span class="w"></span>
-</code></pre>
-</div>
-
-<p>Update table:</p>
-
-<div class="codehilite">
-<pre><span></span><code><span class="k">DELETE</span><span class="w"></span>
-<span class="k">FROM</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
-<span class="k">WHERE</span><span class="w"> </span><span class="k">source</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;a&#39;</span><span class="p">;</span><span class="w"></span>
-
-<span class="k">INSERT</span><span class="w"> </span><span class="k">INTO</span><span class="w"> </span><span class="k">table</span><span class="w"></span>
-<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">source_table</span><span class="w"></span>
-</code></pre>
-</div>
-
-<p>Grant usage:</p>
-
-<div class="codehilite">
-<pre><span></span><code><span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">user</span><span class="p">;</span><span class="w"></span>
-<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">user</span><span class="p">;</span><span class="w"></span>
-
-<span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
-<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="n">TABLES</span><span class="w"> </span><span class="k">IN</span><span class="w"> </span><span class="k">SCHEMA</span><span class="w"> </span><span class="o">&lt;</span><span class="n">name</span><span class="o">&gt;</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="n">readonly</span><span class="p">;</span><span class="w"></span>
-</code></pre>
-</div>
-
-<div class="codehilite">
-<pre><span></span><code><span class="k">GRANT</span><span class="w"> </span><span class="k">USAGE</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="p">[</span><span class="k">schema</span><span class="p">]</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">mode_analytics</span><span class="p">;</span><span class="w"></span>
-<span class="k">GRANT</span><span class="w"> </span><span class="k">SELECT</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="p">[</span><span class="k">schema</span><span class="p">.</span><span class="k">table</span><span class="p">]</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">mode_analytics</span><span class="p">;</span><span class="w"></span>
-</code></pre>
-</div>
-
 <h3 id="view-tables-in-schema">View Tables in Schema</h3>
 
 <div class="codehilite">
@@ -596,7 +596,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2023-02-21-Tue</p>
+Updated: 2023-05-25-Thu</p>
 
 
 </div>

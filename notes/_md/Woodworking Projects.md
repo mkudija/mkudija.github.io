@@ -19,6 +19,18 @@ publish: true
 
 
 
+### 2023-05-30 Shoe Rack
+*Pine*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-05-30-shoe-rack.jpg?raw=true" width="100%">
+
+
+### 2023-05-28 Boy's Room Shelves & Desk
+*Pine*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-05-28-boys-room.png?raw=true" width="100%">
+
+
 ### 2022-10-11 Serving Tray
 *Walnut*
 
