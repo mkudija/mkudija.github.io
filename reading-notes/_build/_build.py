@@ -176,7 +176,7 @@ def create_index(pathTemplate, pathOutput, fnames):
 
 def main():
     # copy files from obsidian/ to md/
-    src = '/Users/matthewkudija/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian/Reading Notes'
+    src = '/Users/mkudija/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian/Reading Notes'    
     dst = '../_md'
     copy_files(src, dst)
 

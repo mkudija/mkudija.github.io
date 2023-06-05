@@ -12,15 +12,15 @@ help:
 	@echo '                                                                          '
 
 read:
-	cd reading; python reading.py
+	cd reading; python3 reading.py
 
 readNotes:
-	cd reading-notes/_build; python _build.py
+	cd reading-notes/_build; python3 _build.py
 
 notes:
-	cd notes/_build; python _build.py
+	cd notes/_build; python3 _build.py
 
 build:
-	cd notes/_build; python _build.py
-	cd reading-notes/_build; python _build.py
-	cd reading; python reading.py
+	cd notes/_build; python3 _build.py
+	cd reading-notes/_build; python3 _build.py
+	cd reading; python3 reading.py
