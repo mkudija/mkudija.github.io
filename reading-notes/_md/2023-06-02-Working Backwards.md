@@ -12,7 +12,7 @@ source:
 wishlist: 2023-05-18
 acquired: 
 started: 2023-05-21
-finished: 
+finished: 2023-06-04
 ---
 # *[Working Backwards]()* by [[Colin Bryar]] & [[Bill Carr]]
 
@@ -20,20 +20,37 @@ finished:
 
 `(New York: St. Martin's Press, 2021-02-09), 304`
 
-- [ ] read all [[Amazon Shareholder Letters]]? 
+
 
 A summary of Amazon's leadership philosophy: 
-- Four Core Principles 
-	- ==enumerate== 
-- 14 Leadership Principles 
-	- ==enumerate== 
+- **Four Core Principles** 
+	1. Customer obsession 
+	2. Long-term thinking and investment horizon
+	3. Eagerness to invent (and acceptance of failure)
+	4. Pride in operational excellence 
+- **14 Leadership Principles** 
+	- **Customer Obsession**
+	- **Ownership**
+	- **Invent and Simplify**
+	- **Are Right, A Lot**
+	- **Learn and Be Curious**
+	- **Hire and Develop the Best**
+	- **Insist on the Highest Standards**
+	- **Think Big**
+	- **Bias for Action**
+	- **Frugality**
+	- **Earn Trust**
+	- **Dive Deep**
+	- **Have Backbone; Disagree and Commit**
+	- **Deliver Results**
+	- **Strive to be Earth’s Best Employer**
+	- **Success and Scale Bring Broad Responsibility**
 - **Practical Methodologies**
-	- **Bar Raiser hiring process**: 
+	- **Bar Raiser hiring process**: minimize personal bias and maximize making data-based hiring decisions based on the substance of each candidate's work and how that work maps to a set of principles
 	- **Single-Threaded Ownership**: For each initiative or project, there is a single leader whose focus is that project and that project alone, and that leader oversees teams of people whose attention is similarly focused on that one project.
 	- **Written narratives** to ensure deep understanding of complex issues 
 	- **Working backwards**: Before you start building, write a Press Release to clearly define how the new idea or product will benefit customers and create a list of Frequently Asked Questions to resolve tough issues up front.
 	- **Input Metrics**: Focus on controllable input metrics rather than output metrics.
-- 
 
 
 # Notes
@@ -70,9 +87,6 @@ A summary of Amazon's leadership philosophy:
 
 
 # Part One: Being Amazonian
-
-## Introduction to Part One 
-- 
 
 ## Chapter 1: Building Blocks: Leadership Principles and Mechanisms
 _**Summary**: The development of the [14 Amazon Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles), plus mechanisms (check and balances) to ensure they are enforced_
@@ -244,49 +258,58 @@ _**Summary**: Focus on the controllable input metrics—the activities you direc
 
 ## Chapter 7: Kindle
 _**Summary**: _
-
+- Jeff visited [[Steve Jobs]] in 2003 to get a demo of iTunes, which partially influenced their decision to stand up their media division
+- "Jeff was a student of history and regularly reminded us that if a company didn't or couldn't change and adapt to meeting shifting consumer needs, it was doomed." (167)
+- "Amazon's approach was always to start from the customer and work backwards. We would figure out what the customers' needs were and then ask ourselves, 'Do we have the skills necessary to build something that meets those needs? If not, how can we build or acquire them?'" (177)
+- If your long-term success and survival is predicated on having a specific capability you need to have a plan to build or buy that capability: you can't cede it by outsourcing it (179)
 
 
 ## Chapter 8: Prime
-_**Summary**: _
+_**Summary**: Amazon Prime is a great example of the tremendous value you can unlock by ruthlessly applying the principles of customer obsession and long-term thinking to a problem._
+- Stick to the process and surrender to where it's taking you (190)
+- Marketing campaign: "The campaign drove a bump-up in sales, but we ultimately decided not to fully move forward with it. The modest sales uplift was nowhere near enough to justify the $50 million per year we estimated we'd have to spend on an effective national marketing campaign. The better investment was to plow that money back into improving the customer experience." (193)
+- "Customer expectations are not static. They rise over time, which means you cannot rest on your laurels." (198)
+- "There's an important difference between airlines and retailers. Once a plane takes off, its empty seats have no value. Therefore, airlines, in exchange for loyalty, can give away marginal inventory that would otherwise go unsold. Whereas in retail, giving away either product or shipping fees always has a cost." (201)
+- A Prime-like idea came from an engineer: "It's everyone's job to obsess over customers and think of inventive ways to delight them." (202)
+	- [[Generalism]]: be a **Strong General Athlete (SGA)**: "These customer-obsessed, inventive, long-term thinkers take prde in operational excellence and embody the Amazon Leadership Principles" (202)
+- [[Forecasting]]: "We couldn't even accurately estimate the cost, because our models could not really predict how customers would react, so we were relying more on judgment and educated guesses than on data." (203)
+- "Institutional No": "The seductive but ultimately wrong path of staying the course, making a serious error of omission as a result" (203), or "the tendency for well-meaning people within large organizations to say no to new ideas" (204)
+- "When Jeff sent a team an idea, it did not need to be implemented, but it definitely needed to be evaluated and that evaluation needed to be communicated back to him." (206)
+- Analysis paralysis: "The October surprise email [that kicked off the effort to launch Prime] arose out of his realization that you simply could not prove a priori that free shipping would work. You just had to try it." (207)
 
 
 
 ## Chapter 9: Prime Video
 _**Summary**: _
+- Failure: "Why would I fire you now? I just made a million-dollar investment in you Now you have an obligation to make that investment pay off. Figure out and clearly document where you went wrong. Share what you have learned with other leaders throughout the company. Be sure you don't make the same mistake again, and help others avoid making it the first time." (218)
+- Leaders should be like Howard Hughes in his inspection of the rivets on the H-1: set and insist on high standards (219)
+- "Like Amazon, Netflix has a track record of long-term thinking and willingness to be misunderstood for long periods of time, both of which have contributed to their great success." (225)
+- [[Generalism]] (be like this): "He was a well-rounded business athlete with an MBA from Kellogg who could tackle any problem whether it pertained to content, finance, product, or otherwise. whatever it was, if I gave it to Cameron, he would grab hold of it and figure it out." (231)
 
 
 
 ## Chapter 10: AWS
-_**Summary**: _
+_**Summary**: The lesson of AWS is to really work backwards from the desired customer use case, even if that is unlike anything that has been done before or it slows you down. It's easier to rework a PR/FAQ than a product line you already launched._
+- Origins: providing affiliate data in XML for customized display on affiliate's websites 
+- [[Amazon Shareholder Letters|2006 Shareholder Letter]]: focus on the new emerging businesses, even if it means the total business only went from $10B to $10.01B (248)
+- "Working backwards was the process that enabled us to put into action the principle of Customer Obsession." (258)
 
 
 
 ## Conclusion: Being Amazonian Beyond Amazon
-_**Summary**: _
-
-
-
-## Appendix A: Interview Feedback Examples
-_**Summary**: _
-
-
-
-## Appendix B: Sample Narrative Tenets and FAQs
-_**Summary**: _
-
-
-
-## Appendix C: Timeline of Events in the Book
-_**Summary**: _
+- "Being Amazonian" is not easy, but its fractal nature means it can be adopted by many different organizations (259)
+- "Failure is typically viewed as an experiment from which a great deal can be learned that can lead to change and improvement." (260)
 
 
 
 --- 
-**Topic**: [[Management]], Amazon
+**Topic**: [[Management]], [[Amazon]]
 
 **Source**
+- [[Matt B]]
 - [[2023-05-18 This is How Amazon Measures Itself]]
+- [[Hopper]]
+
 
 **Bibliography**
 
@@ -294,10 +317,6 @@ _**Summary**: _
 [[bib]] file:(2023-06-02-Working Backwards)
 ```
  
-
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2023-05-18-Thu]]

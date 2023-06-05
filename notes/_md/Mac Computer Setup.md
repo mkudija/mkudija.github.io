@@ -5,7 +5,24 @@ publish: true
 # Mac Computer Setup
 
 ## Applications
-- Firefox
+- Mac settings 
+	- Trackpad
+		- Tap to click
+		- Speed (3 from left)
+		- Click (light)
+		- More Gestures > App Esposé > Swipe Down with Four Fingers
+	- Dock > Automatically hide and show the Dock
+- Finder Settings 
+	- Sidebar
+		- Remove: Recents, Airdrop
+		- Add: mkudija, computer location
+	- Advanced:
+		- Show all filename extensions 
+		- Keep folders on top
+- Accessibility Settings 
+	- Enable Invert Colors shortcut 
+	- Enable Increase Contrast 
+- Firefox Extensions
 	- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 	- [Vimium-FF](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
 	- [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
@@ -16,8 +33,23 @@ publish: true
 	- [Minimal Twitter](https://addons.mozilla.org/en-GB/firefox/addon/min-twitter/)
 	- [Disable Javascript](https://addons.mozilla.org/en-GB/firefox/addon/disable-javascript/)
 	- [Font Finder](https://addons.mozilla.org/en-GB/firefox/addon/font-inspect/)
+- Firefox Settings 
+	- Toolbar: Downloads, Bitwarden, Copy as Markdown, Extensions
+	- Open previous windows and tabs 
+	- Confirm before closing multiple tabs 
+	- Always ask where to save files 
+	- Search: DuckDuckGo 
+	- Uncheck: Show search suggestions ahead of browsing history in address bar results
+	- Privacy & Security: Strict 
+	- Send websites a "Do Not Track": Always 
+	- Uncheck: Ask to save logins and passwords 
+	- Uncheck: autofill credit cards 
+	- Address bar: Uncheck: Suggestions from web, Suggestions from sponsors 
+	- Firefox Data Collection: Uncheck all 
+	- Enable HTTPS-Only on all windows
 - Safari
 	- [Vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
+	- Bitwarden
 - [[Obsidian]] ([link](https://obsidian.md/))
 - Utilities
 	- [Bitwarden](https://bitwarden.com/)
@@ -26,7 +58,7 @@ publish: true
 		- [[Espanso default.yml]] (access via `espanso path` or `espanso edit`) ([example 1](https://github.com/Lissy93/espanso-config/blob/master/utils.yml), [example 2](https://github.com/ekiel/espanso/blob/master/default.yml))
 		- *need to [install brew](https://stackoverflow.com/questions/66666134/how-to-install-homebrew-on-m1-mac)*
 		- double tap option (⌥) to enable/disable Espanso (can turn this toggle key behavior off-[link](https://espanso.org/docs/next/configuration/options/))
-		- ~~[[Keyboard Maestro]]~~ (replaced by Espanso)
+		- now using `/Users/mkudija/Library/Application Support/espanso/match/base.yml` for config rather than `/Users/mkudija/Library/Application Support/espanso/config/default.yml`
 	- [Spectacle](https://www.spectacleapp.com/)
 	- [Shortcat](https://shortcatapp.com/) ([how to use](https://superuser.com/questions/93937/keyboard-shortcut-to-right-click-in-mac-os-x/715116))
 	- [Itsycal](https://www.mowglii.com/itsycal/)
@@ -38,6 +70,7 @@ publish: true
 		- option-tab to enable
 	- [Boop](https://boop.okat.best/)
 	- [Fig](https://fig.io/)
+- Set up "Open at Login" items: Dozer, Dropbox, Espanso, Google Drive, Itsycal, Shortcat, Signal, Spectacle, WeatherBug
 - [Signal](https://signal.org/download/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [iTerm2](https://iterm2.com/downloads.html)
