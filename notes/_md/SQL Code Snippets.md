@@ -201,7 +201,10 @@ WHERE RANK = 1
 
 ### Decile
 
-Try the `NTILE` function ([link](https://www.geeksforgeeks.org/ntile-function-in-sql-server/)).
+Use `NTILE` function ([link](https://www.geeksforgeeks.org/ntile-function-in-sql-server/)):
+```sql
+ntile(20) OVER (PARTITION BY state ORDER BY score) AS score_ntile_state,
+```
 
 To get actual deciles you can use a `CASE` statement:
 ```SQL

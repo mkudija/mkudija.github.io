@@ -20,6 +20,9 @@ finished:
 
 `(New York: Createspace Independent Publishing Platform, 2017), 170`
 
+cf [[Jonathan Edwards]] system of miscellaneous notes ([video](https://www.youtube.com/watch?v=fqq-4-LiFVs))
+
+
 ## Introduction 
 
 **Everything You Need to Know**

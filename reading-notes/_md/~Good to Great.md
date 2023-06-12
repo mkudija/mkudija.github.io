@@ -32,7 +32,8 @@ finished:
 
 ## Chapter 1: Good Is the Enemy of Great
 _**Summary**: _
-
+- Good is the enemy of great 
+- 
 
 
 ## Chapter 2: Level 5 Leadership

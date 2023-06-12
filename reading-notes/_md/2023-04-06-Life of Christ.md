@@ -184,7 +184,7 @@ This was my Lenten reading for 2023 after a suggestion to read a life of Christ 
 
 
 ## Chapter 10: The Choosing of the Twelve
-- [ ] #read [[G.K. Chesterton]]: "When it wishes anything done which is really serious, it collects twelve of the ordinary men standing around." (123, cf. *[The Twelve Men](https://www.chesterton.org/twelve-men/)* [[bib]])
+- [[G.K. Chesterton]]: "When it wishes anything done which is really serious, it collects twelve of the ordinary men standing around." (123, cf. *[[2023-06-02-The Twelve Men|The Twelve Men* [[bib]])
 - "Peter" and "rock" are the same in Aramaic, as they are in the French "Pierre" (125)
 
 

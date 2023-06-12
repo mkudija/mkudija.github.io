@@ -24,6 +24,7 @@ finished:
 
 **Source**
 - [[2022-12-31-The Bible in a Year (with Fr. Mike Schmitz)]]
+- [[2023-04-23 How I Pray with the Word — Guest Post by Bob Short]]
 
 
 **Bibliography**

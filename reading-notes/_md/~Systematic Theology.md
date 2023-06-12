@@ -21,6 +21,11 @@ finished:
 `(New York: University of Chicago Press, 2012-11-30), 307`
 
 
+Three ontological polarities (from [Paul Tillich and “The Shape of Water” - Word on Fire](https://www.wordonfire.org/articles/barron/paul-tillich-and-the-shape-of-water/)):
+- dynamics and form
+- freedom and destiny
+- individualization and participation
+
 
 --- 
 **Topic**: [[Theology]]

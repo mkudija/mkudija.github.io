@@ -20,6 +20,19 @@ finished:
 
 `(New York: Signet Book, 1956), 532`
 
+## Ion
+
+## Meno
+
+## Symposium
+
+## [[~The Republic|The Republic]]
+
+## *[[Reading Notes/~Apology]]*
+
+## Crito
+
+## Phaedo
 
 
 --- 

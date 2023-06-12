@@ -20,7 +20,7 @@ finished:
 
 `(?: Word on Fire, 2023), 1072`
 
-## *[[~Socrates' Children—Ancient Philosophers (Vol. 1)|Ancient Philosophers (Vol. 1)]]*
+## *[[2023-06-11-Socrates' Children—Ancient Philosophers (Vol. 1)|Ancient Philosophers (Vol. 1)]]*
 
 
 ## *[[~Socrates' Children—Medieval Philosophers (Vol. 2)|Medieval Philosophers (Vol. 2)]]*

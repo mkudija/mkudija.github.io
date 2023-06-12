@@ -126,7 +126,7 @@ finished: [2015-12-31]
 <!-- /MarkdownTOC -->
 </details>
 
-
+"May esteem for _silence_, that admirable and indispensable condition of mind, revive in us" (533)
 
 - [Read Online (Vatican)](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
 - [Read Online (USCCB)](https://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/catechism-of-the-catholic-church)
