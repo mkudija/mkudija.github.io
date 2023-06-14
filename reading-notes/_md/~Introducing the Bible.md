@@ -53,7 +53,7 @@ _**Summary**: _
 ## Chapter 3: [[Deuterocanonical Books|The Apocrypha]]
 _**Summary**: _
 
-- [ ] read this section on [[Deuterocanonical Books|The Apocrypha]] 📅 2023-05-07
+- [ ] read this section on [[Deuterocanonical Books|The Apocrypha]] 📅 2023-07-07
 
 
 ## Chapter 4: How to Study the Bible

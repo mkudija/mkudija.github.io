@@ -14,7 +14,7 @@ acquired: true
 started: 
 finished: 
 ---
-# *[The Innovator's Dilemma]()* by [[Clayton M. Christensen]]
+# *[The Innovator's Dilemma]()* by [[Clayton Christensen]]
 
 <img src="http://books.google.com/books/content?id=K6FrJTWeUssC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
@@ -26,7 +26,9 @@ finished:
 **Topic**: 
 
 **Source**
-- [[Matt B]], [[Dana Ferguson]]
+- [[Matt B]]
+- [[Dana Ferguson]]
+- [[Hopper Culture Overview|Hopper]]
 
 **Bibliography**
 

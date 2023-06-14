@@ -27,6 +27,7 @@ finished:
 
 **Source**
 - [[2023-06-10 Founders 282 Jeff Bezos Shareholder Letters|Founders 282 Jeff Bezos Shareholder Letters]]
+- [[Hopper Culture Overview|Hopper]]
 
 **Bibliography**
 

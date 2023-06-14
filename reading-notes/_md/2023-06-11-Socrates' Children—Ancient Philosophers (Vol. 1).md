@@ -12,20 +12,63 @@ source:
 wishlist:
 acquired: 2023-04-09
 started: 2023-04-25
-finished: 
+finished: 2023-06-11
 ---
-# *[Socrates' Children—Ancient Philosophers](https://bookstore.wordonfire.org/products/socrates-children-box-set)* by [[Peter Kreeft]]
+# *[Socrates' Children: Ancient Philosophers](https://bookstore.wordonfire.org/products/socrates-children-box-set)* by [[Peter Kreeft]]
 *[[~Socrates' Children|Socrates' Children]]*
 
 <img src="https://cdn.shopify.com/s/files/1/0005/3195/5769/products/SC-Volume-I-Shopify-Front.png?v=1678129121&width=2048" width=150>
 
 `(Des Plaines: Word on Fire, 2023), 183`
 
+I had been looking for a summary of philosophy, and I couldn't ask for a better source than Peter Kreeft and Word on Fire. Kreeft is characteristically fun, concise, and incisive. Next up I'm reading some of Plato's *Dialogues*, starting with *[[~Apology|Apology]]*. 
+
+
 # Notes
 
 <details>
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
+
+- [Introduction](#introduction)
+- [A Very Short Introduction to Philosophy](#a-very-short-introduction-to-philosophy)
+- [Do-It-Yourself Course in Philosophy](#do-it-yourself-course-in-philosophy)
+- [Introduction to Ancient Philosophy](#introduction-to-ancient-philosophy)
+- [The Sages](#the-sages)
+- [Solomon](#solomon)
+- [Zoroaster](#zoroaster)
+- [Shankara ★](#shankara-%E2%98%85)
+- [Gotma the Buddha ★](#gotma-the-buddha-%E2%98%85)
+- [Confucius](#confucius)
+- [Lao Tzu](#lao-tzu)
+- [Mo Tzu](#mo-tzu)
+- [Jesus ★★★](#jesus-%E2%98%85%E2%98%85%E2%98%85)
+- [The Greeks \(and a few Romans\)](#the-greeks-and-a-few-romans)
+- [Thales of Miletus](#thales-of-miletus)
+- [Anaximander](#anaximander)
+- [Anaximenes](#anaximenes)
+- [Pythagoras](#pythagoras)
+- [Heraclitus ★](#heraclitus-%E2%98%85)
+- [Xenophanes](#xenophanes)
+- [Parmenides ★](#parmenides-%E2%98%85)
+- [Zeno of Elea](#zeno-of-elea)
+- [Empedocles](#empedocles)
+- [Anaxagoras](#anaxagoras)
+- [Democritus ★](#democritus-%E2%98%85)
+- [Lucretius](#lucretius)
+- [Protagoras and the Sophists ★](#protagoras-and-the-sophists-%E2%98%85)
+- [Gorgias the Sophist](#gorgias-the-sophist)
+- [\[[Socrates\]] ★★](#socrates-%E2%98%85%E2%98%85)
+- [\[[Plato\]] ★★](#plato-%E2%98%85%E2%98%85)
+- [](#Aristotle)
+- [Pyrrho and Skepticism](#pyrrho-and-skepticism)
+- [Diogenes the Cynic and Cynicism](#diogenes-the-cynic-and-cynicism)
+- [Epicurus and Epicureanism \(Hedonism\) ★](#epicurus-and-epicureanism-hedonism-%E2%98%85)
+- [Epictetus and Stoicism ★](#epictetus-and-stoicism-%E2%98%85)
+- [](#Seneca)
+- [](#Marcus Aurelius)
+- [](#Cicero)
+- [Plotinus and Neoplatonism ★](#plotinus-and-neoplatonism-%E2%98%85)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -144,39 +187,160 @@ finished:
 *Explanation by Mind, not just matter*
 
 ### Democritus ★
+*The first [[Materialism|materialist]]*
+- He was a materialist and created a theory of atoms 
+- Kreeft gives a lengthy critique of [[Materialism]] (and later adherents like [[Hobbes]], [[Marx]], and [[Descartes]])
+	- "*[[Scientism]]* is not scientific enough"
+	- The problem with materialist metaphysics is the ethics and atheism it implies 
 
 ### Lucretius 
+*Popularized Democritus' materialism in "On the Nature of Things"*
+- *[[~The Nature of Things|On the Nature of Things]]* is the simplest introduction to [[Materialism]]
 
 ### Protagoras and the Sophists ★
+*"Man is the measure of all things." Morality is not natural but conventional.*
+- The Sophists were the first to look inward and turn the attention of philosophy to the man
+- The Sophists were skeptics in epistemology, relativists in ethics, and subjectivists in both
+- Kreeft enumerates some problems of [[relativism]]
+- The Sophists asked questions of *ethics*, and pioneered the *dialectical method* of asking questions from both sides of an issue 
 
 ### Gorgias the Sophist 
+*There is no being, no knowledge of it, and no way to communicate it*
 
 ### [[Socrates]] ★★ 
+*Know thyself*
+- Socrates was the second most important and influential person who ever lived next to Jesus 
+- Every school of ancient philosophy after Socrates claims to be the authentic interpretation of Socrates 
+- Your identity is in your soul 
+- Socrates argued for objective reality against the Sophists moral relativism and subjectivism 
+- Socrates' Teachings 
+	- Know thyself: anthropology is the key to philosophy 
+	- To know the human self, you must know its *telos*: ethics is the key to anthropology 
+	- The greatest good is *virtue*
+	- The true self is the soul 
+	- The soul is immortal 
+	- No evil can happen to a good man in this world or the next 
+	- The cause of evil is ignorance; wisdom is the key to all the virtues 
+	- Virtue can be taught 
+	- Knowledge of true values is innate in us 
+	- Philosophy seeks the truth, the *essential natures*
 
 ### [[Plato]] ★★
+*The Good measures man; man does not measure the Good*
+- "The [[~Great Dialogues of Plato|Dialogues of Plato]] are the classics of the classics. They are to philosophy what the Bible is to religion."
+	- Summary of the dialogues on 111
+	- "Every bookcase (and every mind!) should have these dialogues in it."
+	- "You have to take time with his dialogues"
+- Read *[[~The Republic|The Republic]]* Book 7 to learn about the [[Quadrivium]] and [[Trivium]] (cf. *[[~The Lost Tools of Learning|The Lost Tools of Learning]]*)
+- Plato's Theory of Forms: forms exist outside the mind and are the objects sought by thinking; they are a third kind of reality besides matter and mind 
+	- Plato's Cave
+- *[[~The Republic|The Republic]]* centers on the four cardinal [[Virtues]] of justice, wisdom, courage, and moderation
 
 ### [[Aristotle]] 
+*The Philosopher. The archetype of well-rounded common sense.*
+- Logic seeks clarity, truth, and proof 
+- Three acts of the mind: conceiving (understanding), judging, and reasoning by induction (many particular to a general) or deduction (from a general principle to a particular conclusion)
+- The Four Causes: 
+	- Material cause: What is it made of?
+	- Formal cause: What is it made into? What is its essential nature? 
+	- Efficient cause: Where did it come from? 
+	- Final cause: Where is it going to? What is its end?
+- Book 1 of *MetaphysicsI* is the first history of philosophy 
+- Aristotle's solution to the problem of change is **Hylomorphism**: matter and form are separate 
+	- Change is the *actualization of potentiality*
+- Aristotle's Outline of Everything:
+	- Nonbeing 
+	- Being 
+		- Accidents (nine of them)
+		- Substances 
+			- Spiritual substances (gods, angels)
+			- Material substances 
+				- Nonliving (inorganic minerals)
+				- Living (organisms)
+					- Plants (no sensations)
+					- Animals (sensations)
+						- Irrational animals (brutes)
+						- Rational animals (humans)
+- Aristotle's **metaphysics**:
+	- There must exist one supreme, *first, uncaused cause* or *unmoved mover*
+	- Everything that is in motion is moved by something else, and the universe as a whole is in motion; therefore, the universe as a whole is moved by something else. 
+- Aristotle's **anthropology**:
+	- Man is a rational animal 
+	- The human soul has three levels of powers (faculties): vegetative, sensory, and rational 
+	- Man has free will 
+	- Did not believe that man had an immortal individual soul 
+- Aristotle's **epistemology**:
+	- Aristotle is a "soft empiricist": all human knowledge begins with the senses but is not limited by them 
+	- Words reflect concepts in understanding, which reflect forms. *Logos* means word (language), thought (concept), and form (intelligible essence)
+	- Aristotle defined *truth* simply as thinking and saying what is: "If one says of what is that it is, or of what is not that it is not, he speaks the truth, but if he says of what is that it is not, or of what is not that it is, he does not speak the truth." (144, cf. [[Transgender|transgenderism]])
+	- Aristotle distinguishes knowledge from opinion and certainty from probability, while refuting skepticism.
+- Aristotle's **ethics**: 
+	- Three ethical concepts: the good, the right, and the ought. Good is the object of desire (*[[~Nicomachean Ethics|Nicomachean Ethics]]*)
+	- Ends are desired for themselves; Means are desired for the sake of other things. 
+	- The end of ends, the greatest good, the *summum bonum*, is happiness (*eudaimonia*). Moral virtue is what is needed to reach *eudaimonia*.
+	- Human happiness is something we do: "activity of the soul according to virtue in a complete life" 
+	- Virtue (*arête*) is excellence. A [[Virtues|virtue]] is a good habit, which is acquired by practice, which is why moral education is important. 
+	- Virtue consists of both intellectual virtues and moral virtues (cardinal virtues)
+	- [[Friendship]] is necessary for happiness ("Such typically Aristotelian common sense can wonderfully simplify your life!")
+	- Perfect happiness is the contemplation of eternal truth 
+- Aristotle's **politics**:
+	- Man is a political animal (family, tribe, state)
+	- The basic political virtue is justice: giving each his due. But friendship surpasses justice. 
+	- A good state may be run by different arrangements of government, but is one that attains the end of the common good, the happiness of its people. 
+	- Aristotle preferred Democracy: the least bad but also the least good. Monarchy can be the best, but it is often the worst. 
+	- Moral education is the most important cause of good government.
 
 ### Pyrrho and Skepticism
+*The founder of skepticism*
+- Pyrrho's ideas: 
+	- Nobody knows anything real, really. Certainty is impossible and we should suspend judgment in all cases.
+	- The greatest good is *ataraxia*: inner peace and tranquility. 
+- "Every school of philosophy seems to have taken one point from Socrates and left the rest behind." (153)
+- Kreeft gives a critique of Skepticism: it seems self-contradictory (skeptical of itself)
+	- "The happiness promised by skepticism is a rather low, pale, and boring one." (154)
 
 ### Diogenes the Cynic and Cynicism
+*Cynicism: life should be simple*
+- Cynicism: virtue is the only good, and all the things society prizes are worthless 
+- "The only good thing money could not buy is poverty."
 
 ### Epicurus and Epicureanism (Hedonism) ★
+*The supreme good and purpose of life is pleasure*
+- Epicurus' hedonism called for a careful, prudent, rational assessment of pleasures and the self-discipline to reject present pleasures if they would cause future pains (delayed gratification or [[Time preference]])
+- Hedonism is subjective, because pleasures are subjective 
+- Epicurus identified the three problems of death, divine intervention, and fate 
+- Kreeft gives a critique of Epicureanism: it fails to account for and motivate anyone to pursue a life of moral heroism, and is a paradox (the harder you try to be happy through pleasures, the unhappier you become)
 
 ### Epictetus and Stoicism ★
+*Gives the succinct summary of Stoicism*
+- [[Stoicism]]
+	- A practical ethics: Men are disturbed not by things but by the view they take of things. You are responsible for your own happiness.
+	- "Serenity prayer" is stoic 
+	- [[Kant]] was the most famous Stoic philosopher of all time 
+- Kreeft gives a critique of Stoicism: 
+	- Thinking cannot discover real goods → weakens morality 
+	- It destroys personal sympathy 
 
 ### [[Seneca]] 
+*A classical Stoic*
+- Anger is the worst of all passions because it is the hardest to control 
+- Gratitude is crucial to human relationships 
+- The will is the master of the soul 
 
 ### [[Marcus Aurelius]]
+*History's only successful philosopher-king*
+- The *Meditations* is his eminently popular guidebook of practical Stoic wisdom 
 
 ### [[Cicero]]
+*Lover of natural law and the greatest orator of all time*
+- The greatest orator of all time and the greatest master of the Latin language 
+- Defended the old republicanism while Rome was transitioning to empire 
+- Transmitted the Platonic and Aristotelian notion of a natural moral law, and concluded that all citizens have innate human rights 
 
 ### Plotinus and Neoplatonism ★
-
-
-
-
-
+*The last ancient philosopher who synthesized his predecessors*
+- Spirit vs matter: our end is to escape from matter and the body 
+- Being is the cosmic drama of exile and return: the meaning of life is to fly upward away from matter to the One 
 
 
 --- 
@@ -188,7 +352,7 @@ finished:
 **Bibliography**
 
 ```query
-[[bib]] file:(~Socrates' Children Ancient)
+[[bib]] file:(2023-06-11-Socrates' Children Ancient)
 ```
  
 

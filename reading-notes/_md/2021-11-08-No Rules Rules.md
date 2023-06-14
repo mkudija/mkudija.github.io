@@ -12,7 +12,7 @@ isbn13: 9780753553664
 started: 2021-10-30
 finished: 2021-11-06
 ---
-# [*No Rules Rules: Netflix and the Culture of Reinvention*](https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/) by Reed Hastings & Erin Meyer
+# [*No Rules Rules: Netflix and the Culture of Reinvention*](https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/) by [[Reed Hastings]] & [[Erin Meyer]]
 
 <img src="https://images3.penguinrandomhouse.com/cover/9781984877864" width=150>
 
@@ -119,7 +119,10 @@ See [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-h
 --- 
 **Topic**: [[Management]]
 
-**Source**: [[Lauren G]], [[Matt B]]
+**Source**: 
+- [[Lauren G]] 
+- [[Matt B]]
+- [[Hopper Culture Overview|Hopper]]
 
 ---
 Created: 2021-11-08

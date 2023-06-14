@@ -90,6 +90,7 @@ publish: true
 		- Set up PyCharm shortcut: PyCharm > Preferences > Keymap > `shift + command + ;`
 		- Usage: `black <path_to_file>`
 - [Sublime text](https://www.sublimetext.com/download)
+	- [MarkdownTOC plugin](https://packagecontrol.io/packages/MarkdownTOC#installation)
 - [TexShop](https://pages.uoregon.edu/koch/texshop/obtaining.html)
 	- requires [MacTeX - TeX Users Group](https://tug.org/mactex/mactex-download.html) (`MacTeX.pkg`, did not work with basic version)
 	- then download - [Latest TeXShop, Version 4.76](https://pages.uoregon.edu/koch/texshop/texshop-64/texshop.zip) for Intel and Arm on Sierra and higher (55.6 MB)
