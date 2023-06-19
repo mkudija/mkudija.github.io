@@ -21,7 +21,7 @@ finished: 2023-06-11
 
 `(Des Plaines: Word on Fire, 2023), 183`
 
-I had been looking for a summary of philosophy, and I couldn't ask for a better source than Peter Kreeft and Word on Fire. Kreeft is characteristically fun, concise, and incisive. Next up I'm reading some of Plato's *Dialogues*, starting with *[[~Apology|Apology]]*. 
+I had been looking for a summary of philosophy, and I couldn't ask for a better source than Peter Kreeft and Word on Fire. Kreeft is characteristically fun, concise, and incisive. Next up I'm reading some of Plato's *Dialogues*, starting with *[[2023-06-18-Apology|Apology]]*. 
 
 
 # Notes

@@ -28,7 +28,7 @@ finished:
 
 ## [[~The Republic|The Republic]]
 
-## *[[Reading Notes/~Apology]]*
+## *[[2023-06-18-Apology]]*
 
 ## Crito
 

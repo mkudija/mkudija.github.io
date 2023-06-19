@@ -64,8 +64,8 @@ I heard about this book from the translation notes on [BIBLIOTHECA](https://www.
 - "Any translation of a great piece of writing is bound to be imperfect...The practice of translation entails an endless series of compromises." (ix)
 - Another of his books: *The Art of Biblical Narrative* (x, [[bib]])
 - "There was something wrong with all the existing translations" of Genesis (xi), esp. [[Gn-18]] and [[Gn-19]] (x)
-- He then translated Genesis and provided a commentary, later to be come his *Five Books of Moses* [[bib]]
-- "From the beginning my translation was impelled by a deep conviction that the literary style of the Bible in both the prose narratives and poetry is not some sort of aesthetic embellishment of the "message" of Scripture but the vital medium through which the biblical vision of God, human nature, history, politics, society, and moral value is conveyed." (xiii)
+- He then translated Genesis and provided a commentary, later to become his *Five Books of Moses* [[bib]]
+- **"From the beginning my translation was impelled by a deep conviction that the literary style of the Bible in both the prose narratives and poetry is not some sort of aesthetic embellishment of the "message" of Scripture but the vital medium through which the biblical vision of God, human nature, history, politics, society, and moral value is conveyed."** (xiii)
 	- Example: [[Isaiah]] uses word play to convey his meaning by juxtaposing two words with similar sounds but opposite meanings to how virtue and vice had been mixed (xiii)
 	- This also makes this a book on Biblical style (xiv)
 

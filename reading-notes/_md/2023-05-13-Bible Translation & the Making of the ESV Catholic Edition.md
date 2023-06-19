@@ -111,7 +111,7 @@ _**Summary**: Some notes on the team, translation philosophy, editions, etc. of 
 - [The History of the English Standard Version on Vimeo](https://vimeo.com/296936005)
 - Crossway used the RSV as he base text because it is a good translation with wide scholarly acceptance and many were trained on it, and required a 2/3 vote to deviate from the RSV. It ended up changing 8% of 60,000 words. 
 	- "The ESV translation committee removed every trace of liberal influence that had caused such criticism from evangelicals when the RSV was first published": [[check verses]] including "virgin" in [[Is-07#v14]], [[Ps-02#12]], [[Ps-45#v6]], "propitiation" in [[Rom-03#v25]] etc. 
-	- [ ] #read [The Advantages of the English Standard Version (ESV) Translation](https://www.waynegrudem.com/wp-content/uploads/2015/02/The-advantages-of-the-ESV.pdf) by Wayne Grudem (78) 📅 2023-06-14
+	- [ ] #read [The Advantages of the English Standard Version (ESV) Translation](https://www.waynegrudem.com/wp-content/uploads/2015/02/The-advantages-of-the-ESV.pdf) by Wayne Grudem (78) 📅 2023-06-17
 - The 116-person translation team was one of the first to use email 
 - [Translation Philosophy | ESV.org](https://www.esv.org/translation/philosophy/)
 	- "The ESV is an "essentially literal" translation that seeks as far as possible to capture the precise wording of the original text and the personal style of each Bible writer. As such, its emphasis is on "word-for-word" correspondence, at the same time taking into account differences of grammar, syntax, and idiom between current literary English and the original languages. Thus it seeks to be transparent to the original text, letting the reader see as directly as possible the structure and meaning of the original."
