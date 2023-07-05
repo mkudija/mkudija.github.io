@@ -10,7 +10,7 @@ isbn10: 0316219258
 isbn13: 9780316219259
 source: 
 wishlist: 2023-06-11
-acquired: 
+acquired: 2023-06-18
 started: 
 finished: 
 ---

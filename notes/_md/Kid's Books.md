@@ -80,7 +80,9 @@ publish: true
 - *[[2021-06-29-Brother Hugo and the Bear|Brother Hugo and the Bear]]* by Katy Beebe
 - *[[~The Holy Mass|The Holy Mass (Lego)]]* by Kevin and Mary O’Neill
 - *[[~The Weight of a Mass|The Weight of a Mass]]* by Josephine Nobisso
-- *St. Jerome and the Lion* by Margaret Hodges
+- Margaret Hodges
+	- *St. Jerome and the Lion*
+	- *The Legend of Saint Christopher*
 - *Light of Sunday*
 - *Jesus, I Adore You* by Sabine Du Mesnil
 - *Stories of the Saints: Bold and Inspiring Tales of Adventure, Grace, and Courage* by Carey Wallace

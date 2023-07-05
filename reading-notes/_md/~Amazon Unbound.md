@@ -9,8 +9,8 @@ publish_date: 2022-05-10
 isbn10: 1982132620
 isbn13: 9781982132620
 source: 
-wishlist: 2023-06-13
-acquired: 
+wishlist: 
+acquired: 2023-06-20
 started: 
 finished: 
 ---

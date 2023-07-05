@@ -9,8 +9,8 @@ publish_date: 2021-02-09
 isbn10: 1250267609
 isbn13: 9781250267603
 source: 
-wishlist: 2023-05-18
-acquired: 
+wishlist: 
+acquired: 2023-06-20
 started: 2023-05-21
 finished: 2023-06-04
 ---

@@ -9,6 +9,9 @@ cover_url: https://books.google.com/books/content?id=j5LBwQEACAAJ&printsec=front
 publish_date: 2020
 isbn10: 075355366X
 isbn13: 9780753553664
+source: 
+wishlist: 
+acquired: 2023-06-20
 started: 2021-10-30
 finished: 2021-11-06
 ---

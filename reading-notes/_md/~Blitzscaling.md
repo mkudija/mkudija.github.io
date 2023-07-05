@@ -10,7 +10,7 @@ isbn10: 1524761427
 isbn13: 9781524761424
 source: 
 wishlist: 2023-06-13
-acquired: 
+acquired: 2023-06-18
 started: 
 finished: 
 ---

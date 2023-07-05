@@ -10,7 +10,7 @@ publish_date: 2019
 isbn10: 1634312023
 isbn13: 9781634312028
 ---
-# *[Cynical Theories]()* by [[Helen Pluckrose, James A. Lindsay]]
+# *[Cynical Theories]()* by [[Helen Pluckrose]] & [[James A. Lindsay]]
 
 <img src="https://books.google.com/books/content?id=YSHVyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

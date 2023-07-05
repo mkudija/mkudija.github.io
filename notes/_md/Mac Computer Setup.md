@@ -122,6 +122,7 @@ publish: true
 		- `pyenv shell <version>`- select version just for current shell session
 		- `pyenv local <version>`- automatically select whenever you are in the current directory (or its subdirectories)
 	- `pyenv global <version>`- select globally for your user account
+- Ledger Live 
 - Old/other
 	- [Duplicati](https://www.duplicati.com/) (from [Kev](https://kevq.uk/my-home-server-2-months-on/))
 
