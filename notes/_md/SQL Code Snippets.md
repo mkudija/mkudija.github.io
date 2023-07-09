@@ -430,6 +430,17 @@ WHERE prediction_date = LAST_DAY(DATE_ADD('month', -1, CURRENT_DATE))
 SELECT LEFT(GETDATE(),10)
 ```
 
+
+### Select * Except Columns 
+
+```sql
+SELECT
+joined.*,
+air.* EXCEPT(purchase_date,purchase_week,purchase_month),
+hotel.* EXCEPT(purchase_date,purchase_week,purchase_month),
+```
+GCP example: `flex_dashboard_july2022`
+
 ## Resources
 - [SQLBolt - Learn SQL](https://sqlbolt.com/)
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
