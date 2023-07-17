@@ -48,6 +48,7 @@ publish: true
 - `fn + F4` = Absolute/relative references
 - `cmd + shift + E` = center
 - `option + ↓` - switch tabs/sheets 
+- Data > Data Connectors > Refresh Options > Refresh All
 - 
 - =query(A1:D51,"Order by C Desc Limit 10")
 
@@ -95,3 +96,10 @@ publish: true
 
 ## GCP 
 - `option + ⬆` - move line up/down
+
+7-day history (from [[Kellan Selig]]) for tables. For views, need to get source tables 
+```sql
+SELECT   * FROM 
+`table` 
+FOR SYSTEM_TIME AS OF TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 30 MINUTE)
+```

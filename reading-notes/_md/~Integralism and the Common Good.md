@@ -11,7 +11,7 @@
 **Topic**: 
 
 **Source**
-- [[Ken Ballaire]] ([email](https://mail.google.com/mail/u/1/#inbox/QgrcJHsbgZrBwgQghrTFCNpKQCgDgSHNqHb))
+- [[Ken Bellaire]] ([email](https://mail.google.com/mail/u/1/#inbox/QgrcJHsbgZrBwgQghrTFCNpKQCgDgSHNqHb))
 
 
 **Bibliography**

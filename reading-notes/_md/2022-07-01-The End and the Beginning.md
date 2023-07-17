@@ -177,7 +177,7 @@ _**Summary**: The dark days of world and personal suffering._
 - *[[~Salvifici Doloris|Salvifici Doloris]]* [[bib]]: "[[Suffering]] seems to be particularly essential to the nature of man" (343)
 	- [[Joseph Ratzinger|Ratzinger]]: "One draws nearer to the Lord's radiance by sharing his darkness." (344)
 - Regarding *The Passion of the Christ* [[bib]]: "It is as it was." (351)
-- [[Gianna Beretta Molla]] was the last of the 482 saints [[John Paul II]] canonized (355)
+- [[St. Gianna Beretta Molla]] was the last of the 482 saints [[John Paul II]] canonized (355)
 - [[Cardinal Wyszyński]]: "lack of courage in a bishop is the beginning of disaster" (358)
 
 ## Chapter 9: The Last Encyclical: January–April 2005

@@ -55,6 +55,13 @@ WHERE COLUMN_NAME LIKE '%search%'
 ORDER BY TABLE_NAME;
 ```
 
+Big Query:
+```sql
+SELECT DISTINCT * 
+FROM `gcp-hopper-etldata-production.warehouse.INFORMATION_SCHEMA.COLUMNS` WHERE column_name LIKE '%session_id%'
+```
+
+
 ### Get Tables in Schema 
 ```sql
 select t.table_name

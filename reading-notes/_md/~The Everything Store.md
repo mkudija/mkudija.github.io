@@ -11,7 +11,7 @@ isbn13: 9780316219259
 source: 
 wishlist: 2023-06-11
 acquired: 2023-06-18
-started: 
+started: 2023-07-08
 finished: 
 ---
 # *[The Everything Store]()* by [[Brad Stone]]

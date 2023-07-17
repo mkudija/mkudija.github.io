@@ -18,6 +18,11 @@ publish: true
 # [[Woodworking]] Projects
 
 
+### 2023-07-10 Laptop Stand
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-07-11-laptop-stand.jpg?raw=true" width="100%">
+
 
 ### 2023-05-30 Shoe Rack
 *Pine*
