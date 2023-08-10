@@ -14,7 +14,7 @@ acquired: 2023-07-03
 started: 
 finished: 
 ---
-# *[Dominion: HOw the Christian Revolution Remade the World]()* by [[Tom Holland]]
+# *[Dominion: How the Christian Revolution Remade the World]()* by [[Tom Holland]]
 
 <img src="http://books.google.com/books/content?id=0Tg0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
@@ -27,6 +27,7 @@ finished:
 
 **Source**
 - [[Dan Gibson]] [[2023-06-27-Tue]]
+- [[Jim Hays]] [[2023-08-08-Tue]]
 
 **Bibliography**
 

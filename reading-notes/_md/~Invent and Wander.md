@@ -27,6 +27,8 @@ finished:
 
 **Source**
 - [[2023-06-10 Founders 282 Jeff Bezos Shareholder Letters|Founders 282 Jeff Bezos Shareholder Letters]]
+- [[Fred]] [fireside](https://drive.google.com/file/d/1bXCiF3_h_UfmtcCiOEnEw_sbU0kug_Jx/view?usp=sharing) (before min 8)
+	- 12: don't believe in network effects 
 
 **Bibliography**
 

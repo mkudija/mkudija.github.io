@@ -1,3 +1,6 @@
+<li><i>Murder in the Cathedral</i> by T. S. Eliot</li>
+<li><i>The Everything Store</i> by Brad Stone</li>
+<li><i>The History of Money</i> by Martin Jenkins</li>
 <li><i>The New Testament (ESV)</i></li>
 <li><i>The Rose-Bush of a Thousand Years</i> by Mabel Wagnalls</li>
 <li><i>I Don't Have to Make Everything All Better</i> by Gary & Joy Lundberg</li>

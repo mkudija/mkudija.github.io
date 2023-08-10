@@ -116,7 +116,7 @@ _**Summary**: Some notes on the team, translation philosophy, editions, etc. of 
 - [Translation Philosophy | ESV.org](https://www.esv.org/translation/philosophy/)
 	- "The ESV is an "essentially literal" translation that seeks as far as possible to capture the precise wording of the original text and the personal style of each Bible writer. As such, its emphasis is on "word-for-word" correspondence, at the same time taking into account differences of grammar, syntax, and idiom between current literary English and the original languages. Thus it seeks to be transparent to the original text, letting the reader see as directly as possible the structure and meaning of the original."
 - [Preface to the English Standard Version | ESV.org](https://www.esv.org/preface/)
-- [ ] #read[Evangelicals & Catholics Together: The Christian Mission in the Third Millennium by Various | First Things](https://www.firstthings.com/article/1994/05/evangelicals-catholics-together-the-christian-mission-in-the-third-millennium) 📅 2023-07-14
+- Evangelicals & Catholics Together: The Christian Mission in the Third Millennium by Various | First Things](https://www.firstthings.com/article/1994/05/evangelicals-catholics-together-the-christian-mission-in-the-third-millennium) 
 - ESV Editions/updates
 	- 2001 ESV 
 	- 2007 360 changes 

@@ -448,14 +448,25 @@ hotel.* EXCEPT(purchase_date,purchase_week,purchase_month),
 ```
 GCP example: `flex_dashboard_july2022`
 
+
+### Array of Dates 
+```sql
+SELECT m AS calendar_month
+FROM UNNEST(GENERATE_DATE_ARRAY('2023-01-01', CURRENT_DATE(), INTERVAL 1 MONTH)) AS m
+```
+
+
 ## Resources
 - [SQLBolt - Learn SQL](https://sqlbolt.com/)
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [SQL Query Order of Execution](https://www.sisense.com/blog/sql-query-order-of-operations/)
 - [Database Design for Mere Mortals](https://www.pearson.com/store/p/database-design-for-mere-mortals-25th-anniversary-edition/P100002994160/9780136788041)
 - [The SQL Murder Mystery](https://mystery.knightlab.com/)
+	- Congrats, you found the brains behind the murder! Everyone in SQL City hails you as the greatest SQL detective of all time. Time to break out the champagne!
 - [spyql: Query data on the command line with SQL-like SELECTs powered by Python expressions](https://github.com/dcmoura/spyql)
+- *[[~The Data Warehouse Toolkit|The Data Warehouse Toolkit]]*
+
 
 ---
 Created: [[2019-06-25-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

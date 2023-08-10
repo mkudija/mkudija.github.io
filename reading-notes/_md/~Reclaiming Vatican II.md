@@ -23,6 +23,7 @@ finished:
 
 **Source**
 - [[002- Becoming Saints in Our Time - The Burrowshire Podcast]]?
+- [[2023-07-17 Reclaiming the Second Vatican Council]]
 
 
 **Bibliography**

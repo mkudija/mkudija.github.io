@@ -279,7 +279,7 @@ _**Summary**: Wal-Mart has improved millions of lives; free enterprise is how we
 - "I believe that millions of people are better off today than they would have been if Wal-Mart had never existed. So I am just awfully proud of the whole deal, and I feel good about how I chose to expend my energies in this life." (321-322)
 - "There are lessons in what's happened at Wal-Mart that go beyond retail and apply to many other businesses." (322)
 - "Free enterprise is the engine of our society...Nothing can touch that system—not unless leadership and management get selfish or lazy." (322)
-- [[Amazon]]: "Could a Wal-Mart-type story still occur in this day and age? My answer is of course it could still happen again. Somewhere out there right now there's probably someone—probably hundreds of thousands of someones—with good enough ideas to go all the way." (326)
+- [[Amazon]]: "Could a Wal-Mart-type story still occur in this day and age? My answer is of course it could still happen again. Somewhere out there right now there's probably someone—probably hundreds of thousands of someones—with good enough ideas to go all the way." (326) ^1660bf
 
 
 ## Postscript

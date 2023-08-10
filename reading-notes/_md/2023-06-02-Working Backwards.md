@@ -188,7 +188,7 @@ _**Summary**: For each initiative or project, there is a single leader whose foc
 ## Chapter 4: Communicating: Narratives and the Six-Pager
 _**Summary**: Following Tufte's lead, Amazon reads a prepared narrative for the first 1/3 of every meeting, which forces clarity of thinking and deep engagement by the reviewing audience._
 - [[Edward Tufte]] identified issues they had communicating complex information in PowerPoint
-	- [ ] #read [The Cognitive Style of Powerpoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf) 📅 2023-06-29
+	- [ ] #read [The Cognitive Style of Powerpoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf) 
 - Jeff: "The narrative structure of a good memo forces better thought and better understanding" of importance and relation (83)
 - Drawbacks of PowerPoint: lack of information density, not all information contained in the deck (also in the presentation), highly variable based on skill of presenter, ideas are fragmented
 - Benefits of memo: higher information density, higher information I/O (reading vs listening), facilitates interconnected ideas, forces clarity of thought, level playing field and scalable consumption

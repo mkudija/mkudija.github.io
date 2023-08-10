@@ -2,7 +2,7 @@
 
 (?: Hal Elrod, 2016), 135
 
-- he made in incredible comeback from being declared dead at an accident to running an ultra marathon
+- he made an incredible comeback from being declared dead at an accident to running an ultra marathon
 
 
 ## SAVERS of a Miracle Morning
@@ -22,9 +22,9 @@ Some other notes on his miracle morning:
   - Drink a full glass of water
   - Get dressed in workout clothes
 - Books he recommends
-  - *The Millionare Fastline* by MJ DeMarco
+  - *The Millionaire Fastline* by MJ DeMarco
   - *Think and Grow Rich* by Napoleon Hill
-  - *Secrets of the Millionare Mind* by T. Harv Eker
+  - *Secrets of the Millionaire Mind* by T. Harv Eker
   - *Total Money Makeover* by Dave Ramsey
   - *The Rhythm of Life* by Matthew Kelly
 

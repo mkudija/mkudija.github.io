@@ -14,7 +14,7 @@ acquired: 2023-07-15
 started: 
 finished: 
 translation: New Catholic Bible
-dimensions: 
+dimensions: 5.875x8.875x1.25
 ---
 # *[NCB Gift and Award Bible](https://catholicbookpublishing.com/product/1611)*
 
@@ -22,7 +22,6 @@ dimensions:
 
 `(New Jersey: Catholic Book Publishing Corp, 2022-06-15)`
 
-- [ ] add dimensions 📅 2023-07-15
 
 --- 
 **Topic**: [[The Bible]]

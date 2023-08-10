@@ -19,7 +19,7 @@ finished: 2023-01-16
 
 `(City: Sophia, 2022), PPP`
 
-- [ ] #process Holy Mass Book 🔽 📅 2023-07-02
+- [ ] #process Holy Mass Book 🔽 📅 2023-08-02
 
 --- 
 **Topic**: 

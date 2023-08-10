@@ -47,7 +47,7 @@ publish: true
 ## Google Sheets
 - `fn + F4` = Absolute/relative references
 - `cmd + shift + E` = center
-- `option + ↓` - switch tabs/sheets 
+- `option + ↓` or `cmd + →` - switch tabs/sheets 
 - Data > Data Connectors > Refresh Options > Refresh All
 - 
 - =query(A1:D51,"Order by C Desc Limit 10")

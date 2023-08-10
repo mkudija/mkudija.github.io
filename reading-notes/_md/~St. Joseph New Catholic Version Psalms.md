@@ -9,7 +9,7 @@ cover_url: http://books.google.com/books/content?id=99vZoQEACAAJ&printsec=frontc
 publish_date: 2014-11-24
 isbn10: 
 isbn13: 9781941243800
-translation: New Catholic Version
+translation: New Catholic Bible
 dimensions: 4.75x7x1
 ---
 # *[St. Joseph New Catholic Version Psalms](https://catholicbookpublishing.com/product/1373)* by [[Catholic Book Publishing Corp]]

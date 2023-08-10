@@ -79,9 +79,10 @@ aliases: [LOTH, Breviary]
 [^honey]: cf. [[St. Bernard of Clairvaux]]: "Jesus to me is honey in the mouth, music in the ear, a song in the heart." ([[St. Bernard of Clairvaux|Bernard of Clairvaux]], *On the Song of Songs*, vol. I, sermon 15, no. 6, quoted in [[Ralph Martin]], *[[2022-12-30-The Fulfillment of All Desire|The Fulfillment of All Desire]]*, 136)
 
 ### Volume IV
+- Vol. IV, pg. 879: "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
 - Vol. IV, pg. 960: "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
 
 
 ---
 Created: [[2021-08-18-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
