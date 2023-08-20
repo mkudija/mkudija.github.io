@@ -1,14 +1,13 @@
 # [*Making Room For God*](https://www.amazon.com/Making-Room-God-Decluttering-Spiritual-ebook/dp/B077BXPSXV/ref=sr_1_fkmr1_1?ie=UTF8&qid=1540673591&sr=8-1-fkmr1&keywords=god+declutter+sperry) by Mary Elizabeth Sperry
 
-(Notre Dame: Ave Maria, 2018), 129
+`(Notre Dame: Ave Maria, 2018), 129`
 
 
-*Jordan's Notes*
+*[[Jordan]]'s Notes*
 
 - Time is valuable. When we have tons of clutter or too much stuff, we waste time. Extra time to find the things we need or put things away in already full places, etc. Time could be better used elsewhere 
 - Decluttering saves money. We can be more intentional with our purchases to avoid clutter.
 - Declutter reduces stress.
-
 - Material possessions aren’t bad. We need to be seeking to live holy and virtuous lives. Do our things push us towards God or away? 
 - Decluttering isn’t simply a matter of tossing out our abundance and living with less...Decluttering isn’t just about discarding possessions. It’s about limiting our possessions to things that are either necessary or truly memorable.
 - Don’t buy on impulse...probably won’t use.
@@ -34,3 +33,7 @@
 - Friday Tidy! 
 - As the clutter in your home decreases, you’ll be less likely to bring unnecessary items into your home. 
 - Sorting through our possessions can make us more aware of the bountiful gifts God has shared with us.
+
+---
+Created: 2018-10-27
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

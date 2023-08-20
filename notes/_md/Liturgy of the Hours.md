@@ -73,6 +73,7 @@ aliases: [LOTH, Breviary]
 
 ### Volume III
 - Vol. III, pg. 1573: from the catechetical instructions by [[St. John Vianney]]: "The Christian's treasure is not on earth but in heaven. Our thoughts, then, ought to be directed to where our treasure is.[^treasure] This is the glorious duty of man: to pray and to love. If you pray and love, that is where a man's happiness lies. [[Prayer]] is nothing else but union with God...We had become unworthy to pray, but God in his goodness allowed us to speak with him. Our prayers are incense that gives him the greatest pleasure. My little children, your hearts are small, but prayer stretches them and makes them capable of loving God. Through prayer we receive a foretaste of heaven and something of paradise comes down upon us. Prayer never leaves us without sweetness. It is honey that flows into the soul and makes all things sweet.[^honey] When we pray properly, sorrows disappear like snow before the sun."
+- Vol. III, pg. 812: "May the fire of your word consume our sins and its brightness illumine our hearts."
 
 [^treasure]: cf. [[Mt-06#v21]]: "For where your treasure is, there also will your heart be."
 
@@ -81,6 +82,7 @@ aliases: [LOTH, Breviary]
 ### Volume IV
 - Vol. IV, pg. 879: "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
 - Vol. IV, pg. 960: "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
+- Vol. IV, pg. 1073 (Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."
 
 
 ---

@@ -3,7 +3,15 @@ publish: true
 ---
 # Shortcuts
 
-![[Mac Keys]]
+### Mac Keys
+| Key          | Symbol |
+| ------------ | ------ |
+| Command      | ⌘      |
+| Shift        | ⇧      |
+| Option (Alt) | ⌥      |
+| Control      | ⌃      |
+| Caps Lock    | ⇪      |
+| Tab          | ⇥      |
 
 ## Slack
 - `⌘+⇧+U` - hyperlink (since you can't ⌘+K in Slack), or just highlight the text and paste the url on top of it
@@ -13,13 +21,10 @@ publish: true
 ## Obsidian
 ![[Obsidian#Hotkeys]]
 
-## Keyboard Maestro
-![[Keyboard Maestro#Hotkeys]]
-
 
 ## Mac
 - `shift + option + 8` = ° (degree symbol)
-- `⌥ + x` = `option + x` = ≈
+- `⌥ + x` = `option + x` = ≈ (or use Espanso `\approx`)
 - `⌃ + ⌘ + space` = `ctrl + cmd + space` = → (opens character viewer)
 - `⌃ + ⌘ + Q` = `ctrl + cmd + Q` = Lock screen
 - `drutil tray eject` - eject CD
@@ -27,6 +32,7 @@ publish: true
 - `⌘ + ⇧ + 5` = `cmd + shift + 5` = open screenshot tool (save to preview to annotate)
 - `option + -` - en-dash (–)
 - `shift + option + -` - em-dash (—)
+- `⌘ + ⌥ + H` - minimize all windows except current 
 
 
 ### [**ScreenBrush**](https://imagestudiopro.com/screenbrush/)
@@ -49,7 +55,7 @@ publish: true
 - `cmd + shift + E` = center
 - `option + ↓` or `cmd + →` - switch tabs/sheets 
 - Data > Data Connectors > Refresh Options > Refresh All
-- 
+- ...
 - =query(A1:D51,"Order by C Desc Limit 10")
 
 
@@ -79,6 +85,7 @@ publish: true
 - `shift + u` - mark as unread
 - `u` - return to inbox
 - `b` - snooze
+- `#` - delete
 - `g + n` and `g + p` - to go to next/previous page 
 - `/` - search mail
 

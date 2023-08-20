@@ -311,7 +311,7 @@ I had been looking for a summary of philosophy, and I couldn't ask for a better 
 - Epicurus identified the three problems of death, divine intervention, and fate 
 - Kreeft gives a critique of Epicureanism: it fails to account for and motivate anyone to pursue a life of moral heroism, and is a paradox (the harder you try to be happy through pleasures, the unhappier you become)
 
-### Epictetus and Stoicism ★
+### [[Epictetus]] and Stoicism ★
 *Gives the succinct summary of Stoicism*
 - [[Stoicism]]
 	- A practical ethics: Men are disturbed not by things but by the view they take of things. You are responsible for your own happiness.

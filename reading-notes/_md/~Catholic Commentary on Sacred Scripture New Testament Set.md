@@ -9,8 +9,12 @@ cover_url: http://books.google.com/books/content?id=SG_DxQEACAAJ&printsec=frontc
 publish_date: 2020-02-04
 isbn10: 1540962229
 isbn13: 9781540962225
-started: []
-finished: []
+source: 
+wishlist: 2023-01-16
+acquired: 2023-08-09
+started: 
+finished: 
+
 ---
 # *[Catholic Commentary on Sacred Scripture]()* by [[]]
 
@@ -19,8 +23,7 @@ finished: []
 `(New York: Baker Academic, 2020-02-04), 5342`
 
 --- 
-#wishlist
-**Topic**: [[The Bible|Sacred Scripture]]
+**Topic**: [[The Bible|Sacred Scripture]], [[Bible Commentary]]
 
 **Source**
 - 

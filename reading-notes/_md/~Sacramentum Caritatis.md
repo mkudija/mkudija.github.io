@@ -12,7 +12,7 @@ isbn13: 9781601370020
 started: 
 finished: 
 ---
-# *[Sacramentum Caritatis: The Sacrament of Charity]()* by [[Pope Benedict XVI]]
+# *[Sacramentum Caritatis: The Sacrament of Charity]()* by [[Joseph Ratzinger|Pope Benedict XVI]]
 
 <img src="http://books.google.com/books/content?id=lbNqijl5-L4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

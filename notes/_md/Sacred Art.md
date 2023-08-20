@@ -12,6 +12,12 @@ publish: true
 >Inspire all teachers and artists to prepare mankind for your kingdom.
 >*—[[Liturgy of the Hours]], Vol. II, pg. 174*
 
+
+### Agnus Dei
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francisco_de_Zurbar%C3%A1n_006.jpg/1599px-Francisco_de_Zurbar%C3%A1n_006.jpg" width=100%>
+*[Agnus Dei](https://en.wikipedia.org/wiki/Agnus_Dei_(Zurbar%C3%A1n))* (1640), Francisco de Zurbarán (Spanish), Oil on canvas, Museo del Prado, Madrid, Spain.
+
+
 ### The Eucharist
 <img src="http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVbhp94nksEmWhUPPCPARCxmRF3wZoiekBYI9dLioBnZzXySIRTomizoxxT9oo9OlonT%0APnyO6EhNhqJhq4t%2F%2BLzvsfbLBbc2NAKqW677oPUO4ivCQNTI%2Flzru7H1%2FIk32Pc%3D&sp=Simage%2Fjpeg" width=100%>
 *[The Eucharist](http://collection.nationalmuseum.se/eMP/eMuseumPlus?lang=en&service=ExternalSearch&module=collection&viewType=detailList&fulltext=the%20eucharist%201660)* (1660), Artist unknown (Spanish), Oil on canvas, Nationalmuseum, Stockholm, Sweden. Cited in *[[~2021-08-03-A is for Angel|A is for Angel]]*.

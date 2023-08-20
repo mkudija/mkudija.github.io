@@ -11,7 +11,7 @@ isbn13: 9780898709353
 source: 
 wishlist: 2023-07-09
 acquired: 2023-07-15
-started: 
+started: 2023-08-11
 finished: 
 ---
 # *[The Way of the Disciple]()* by [[Erasmo Leiva-Merikakis]]

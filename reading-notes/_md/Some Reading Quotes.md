@@ -133,5 +133,10 @@ to be read wholly, and with diligence and attention.  <br> –Francis Bacon[^bac
 [^obrien2]:  [[Michael D. O'Brien]], *[[~Father Elijah|Father Elijah]]* (San Francisco: Ignatius, 1998), 255.
 
 
+>The very existence of libraries affords the best evidence that we may yet have hope for the future of man.
+>–[[T. S. Eliot]][^eliot]
+
+[^eliot]:  <a href="aleteia.org/blogs/catholic-thinking/why-you-should-build-a-library/"># Why you should build a library</a>
+
 ---
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

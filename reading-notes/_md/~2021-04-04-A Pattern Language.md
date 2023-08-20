@@ -29,6 +29,16 @@ isbn13: 9780190050351
 - Every individual in such a society will have a unique language 
 - Great example of using ten patterns from this language to create a front porch on (xxxvi), generalized into 8 steps to follow on (xxxviii+)
 
+## Patterns We Follow (or aspire to)
+
+136. Couples Realm
+137. Children's Realm
+172. Garden Growing Wild
+177. Vegetable Garden 
+242. Front Door Bench
+246. Climbing Plants
+251. Different Chairs
+253. Things From Your Life
 
 --- 
 **Topic**: [[Architecture]], [[Urban Planning]]
@@ -41,4 +51,4 @@ isbn13: 9780190050351
 
 ---
 Created: 2021-04-04
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

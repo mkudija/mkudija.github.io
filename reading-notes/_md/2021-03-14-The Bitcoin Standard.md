@@ -244,7 +244,7 @@ finished: 2021-05-14
 - Monetary Nationalism began with the abandonment of the gold standard
 - "Impossible Trinity" describes the plight of central banks: "no government can successfully achieve all three goals of having a fixed foreign exchange rate, free capital flows, and an independent monetary policy" (128)
   - now we typically have independent monetary policy and free capital flows, but floating exchange rates, creating unnecessary challenges for business
-- This leads to a large foreign exchange market (25x global GDP!) and currency wars (c.f. *Currency Wars* by James Rickards)
+- This leads to a large foreign exchange market (25x global GDP!) and currency wars (c.f. *[[2021-04-17-Currency Wars|Currency Wars]]* by [[James Rickards]])
 
 
 ## Chapter 7: Sound Monetary and Individual Freedom

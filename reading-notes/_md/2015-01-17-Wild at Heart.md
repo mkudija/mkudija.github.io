@@ -1,5 +1,5 @@
 
-# Wild at Heart by John Eldredge
+# *Wild at Heart* by [[John Eldredge]]
 
 * Every man needs:
     * A Battle to Fight

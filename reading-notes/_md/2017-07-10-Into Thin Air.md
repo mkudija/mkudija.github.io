@@ -1,5 +1,5 @@
 
-# *Into Thin Air* by Jon Krakauer
+# *Into Thin Air* by [[Jon Krakauer]]
 
 * I agree that readers are often poorly served when an author writes as an act of catharsis, (pg. Location: 154)
 * Waugh bestowed the name Mount Everest on Peak XV, in honor of Sir George Everest, his predecessor as surveyor general. (pg. 13)

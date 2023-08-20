@@ -10,7 +10,7 @@ isbn10: 0751555940
 isbn13: 9780751555943
 source: [[2023-02-15 Lone Survivor Priest and Grunt Padre Author]]
 wishlist: 2023-02-15
-acquired: 
+acquired: 2023-08-19
 started: 
 finished: 
 ---
@@ -27,6 +27,7 @@ finished:
 
 **Source**
 - [[2023-02-15 Lone Survivor Priest and Grunt Padre Author]]
+- [[UA Library]] [[2023-08-19-Sat]]
 
 **Bibliography**
 

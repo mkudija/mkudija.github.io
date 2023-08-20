@@ -1,5 +1,5 @@
 
-# *The Golden Sayings of Epictetus*
+# *The Golden Sayings of [[Epictetus]]*
 
 - Everything you can imagine is real. -Pablo Picasso
 - "True instruction is this: -to learn to wish that each thing should come to pass as it does."  -The Golden Sayings of Epictetus, XXIV

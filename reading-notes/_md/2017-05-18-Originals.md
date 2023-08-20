@@ -1,5 +1,5 @@
 
-# Originals by Adam Grant
+# *Originals* by [[Adam Grant]]
 
 * Don’t settle for the default settings in your life
 * To create great things, you need to create a lot of things so that greatness is included in the variability
