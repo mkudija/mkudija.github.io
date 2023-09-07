@@ -96,7 +96,7 @@ _[[John Paul II|Karol Wojtyła]]'s worldview against communism._
 _Defender of the City, traditional role of the bishop of Krakow_
 - [[John Paul II|Karol Wojtyła]]: "This battle runs through the heart of each of us." (55, cf. [[Aleksandr Solzhenitsyn]] in *The Gulag Archipelago*)
 - [[Pope John XXIII]] published *Pacem in Terris* [[bib]] in response to the [[Cuban Missile Crisis]] (61)
-- ***Ostpolitik***: [[Pope John XXIII]]'s [[Cold War]] diplomacy of "saving what could be saved" (62, 182)
+- ***[[Ostpolitik]]***: [[Pope John XXIII]]'s [[Cold War]] diplomacy of "saving what could be saved" (62, 182)
 - [[Communist infiltration of the Catholic Church]]: "Nine of the fifteen Hungarian bishops, theologians, and journalists at the [[Vatican II|Council]]'s second session were working for Hungarian intelligence." (64) (!!)
 - [[Vatican II divisions aid the Church's enemies]]: "Soviet-bloc intelligence exploited the widening ideological divisions in the Catholic Church for its own purposes." (65)
 	- "Polish intelligence...[was] sowing the seeds of discord about the proper interpretation of the [[Vatican II|Council]]'s documents" (66)

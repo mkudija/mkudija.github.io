@@ -23,7 +23,7 @@ dimensions: 4.5x6.5x1.625
 **Topic**: [[The Bible]]
 
 **Source**
-- Grandma Jo, previously belonged to Clare A. Rood (her father)
+- Grandma Jo, previously belonged to [[Clare Rood]] (her father)
 
 ---
 Created: [[2023-01-11-Wed]]

@@ -1,5 +1,5 @@
 ---
-aliases: [Master and Commander (Vol. Book 1) (Aubrey/Maturin Novels)]
+aliases: [Master and Commander]
 title: Master and Commander
 author: Patrick O'Brian
 category: Fiction
@@ -14,7 +14,7 @@ acquired: 2023-08-19
 started: 
 finished: 
 ---
-# *[Master and Commander (Vol. Book 1) (Aubrey/Maturin Novels)]()* by [[Patrick O'Brian]]
+# *[Master and Commander (Vol. Book 1) (Aubrey/Maturin Novels)](https://wwnorton.com/books/master-and-commander/)* by [[Patrick O'Brian]]
 
 <img src="http://books.google.com/books/content?id=HaEdbjUalUEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

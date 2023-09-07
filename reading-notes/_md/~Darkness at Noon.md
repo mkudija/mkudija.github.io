@@ -24,6 +24,7 @@ finished: []
 
 **Source**
 - [[Dan Gibson]], [[2023-01-11-Wed]] (related to *[[~The Gulag Archipelago|The Gulag Archipelago]]*)
+- *[[2023-09-03-Lessons in Hope|Lessons in Hope]]*
 
 
 **Bibliography**
@@ -39,4 +40,4 @@ finished: []
 
 ---
 Created: [[2023-01-17-Tue]]
-Updated: ;up
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

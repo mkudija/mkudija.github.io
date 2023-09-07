@@ -20,7 +20,7 @@ finished:
 
 `(Green Bay: Aquinas Institute, 1274/2012)`
 
-- [Commentary on the Gospels of Matthew and John: Complete Set (Latin-English Opera Omnia) – St. Paul Center](https://stpaulcenter.com/product/commentary-on-the-gospels-of-matthew-and-john-complete-set/)
+- $260 [Commentary on the Gospels of Matthew and John: Complete Set (Latin-English Opera Omnia) – St. Paul Center](https://stpaulcenter.com/product/commentary-on-the-gospels-of-matthew-and-john-complete-set/)
 - [Commentary on the Letters of Saint Paul: Complete Set (Latin-English Opera Omnia) – St. Paul Center](https://stpaulcenter.com/product/commentary-on-the-letters-of-saint-paul-complete-set/)
 - [Vol. 29 Commentary on Psalms (Latin-English) – St. Paul Center](https://stpaulcenter.com/product/vol-29-commentary-on-psalms-latin-english/)
 - [Aquinas Scriptural Commentaries – St. Paul Center](https://stpaulcenter.com/product-tag/aquinas-scriptural-commentaries/)
@@ -30,7 +30,7 @@ Online Version:
 - [St. Thomas Aquinas's Works in English](https://isidore.co/aquinas/)
 
 Other versions
-- [Catena Aurea - Commentary on the Four Gospels | Baronius Press](https://www.baronius.com/catena-aurea.html)
+- $160 [Catena Aurea - Commentary on the Four Gospels | Baronius Press](https://www.baronius.com/catena-aurea.html) (Newman translation)
 
 --- 
 **Topic**: [[The Bible]], [[Bible Commentary]]

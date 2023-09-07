@@ -20,7 +20,7 @@ finished:
 
 `(New York: Ignatius Press, 2012-09-21), 265`
 
-- [ ] add Chesterton book notes before Order of Malta 📅 2023-08-17
+- [ ] add Chesterton book notes before Order of Malta 📅 2023-09-17
 
 --- 
 **Topic**: [[G.K. Chesterton]]

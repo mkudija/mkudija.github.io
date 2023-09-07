@@ -11,8 +11,10 @@ isbn13: 9780899424354
 source: UA Library
 wishlist: 
 acquired: 2023-03-18 
-started: 
-finished: 
+started: 2023-04-01
+finished: 2023-08-29
+translation: Children's
+dimensions: 
 ---
 # *[Catholic Picture Bible](https://catholicbookpublishing.com/product/732)* by [[Lawrence G. Lovasik]]
 

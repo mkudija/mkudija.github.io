@@ -10,8 +10,11 @@ publish_date: 2018-09-04
 isbn10: 1945179414
 isbn13: 9781945179419
 acquired: 2022-12-14
-started: [2022-02-05, 2023-01-01]
-finished: [2022-12-31]
+started:
+- 2022-02-05
+- 2023-01-01
+finished:
+- 2022-12-31
 translation: Revised Standard Version Second Catholic Edition
 dimensions: 6.375x9.375x1.75
 ---

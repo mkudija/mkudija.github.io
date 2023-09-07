@@ -22,7 +22,7 @@ I bought this back in June of 2015 when I was living in LA. I forget why I bough
 
 I spent 2018 through 2020 reading William Manchester's *[[~The Last Lion|The Last Lion]]* trilogy on Churchill[^churchill], and can now spend 2021 through 2023 reading Weigel's trilogy on John Paul II.
 
-[^churchill]: Churchill, by the way, is perhaps the one figure other than John Paul II who could make a claim on the title of "greatest figure of the 20th century", a thought I had while finishing *[[2021-08-02-Team of Rivals#^2b09ad|Team of Rivals]]* which suggests Lincoln as the greatest figure of the 19th century. <br><br>Ryan Holiday's Reading List Email for September 26, 2021 suggests, after he read *A Certain Idea of France: The Life of Charles de Gaulle* by Julian Jackson, that "de Gaulle is probably a better example of the "great man of history" theory than any other person of the 20th century...One guy managed to essentially will France back into existence." ([personal email link](https://mail.google.com/mail/u/0/#label/.Sidebox/FMfcgzGljvWRQjDFkTmdKjhzbBhKSfld)) <br><br>[[Peter Kreeft]] calls John Paul II "the greatest man in the worst century in history" ([[2021-10-23 Presentation-How to Save Western Civilization by Kreeft#^824489]] and [[Socrates' Children - The Great Debates of Philosophy - Peter Kreeft#^a6e730]]).
+[^churchill]: Churchill, by the way, is perhaps the one figure other than John Paul II who could make a claim on the title of "greatest figure of the 20th century", a thought I had while finishing *[[2021-08-02-Team of Rivals#^2b09ad|Team of Rivals]]* which suggests Lincoln as the greatest figure of the 19th century. <br><br>Ryan Holiday's Reading List Email for September 26, 2021 suggests, after he read *A Certain Idea of France: The Life of Charles de Gaulle* by Julian Jackson, that "de Gaulle is probably a better example of the "great man of history" theory than any other person of the 20th century...One guy managed to essentially will France back into existence." ([personal email link](https://mail.google.com/mail/u/0/#label/.Sidebox/FMfcgzGljvWRQjDFkTmdKjhzbBhKSfld)) <br><br>[[Peter Kreeft]] calls John Paul II "the greatest man in the worst century in history" ([[2021-10-23 Presentation-How to Save Western Civilization by Kreeft#^824489]] and [[Socrates' Children - The Great Debates of Philosophy - Peter Kreeft#^a6e730]]).<br><br>Weigel and Kissinger discuss this in *[[2023-09-03-Lessons in Hope#^768973]]*
 
 Reading biographies is perhaps the best way to learn history: you can best understand a person by understanding the world they inhabited. *Witness to Hope* is not only the story of John Paul II, but also a history of Poland's "double defeat" in World War II, the most lucid history of Vatican II and its implementation I have yet encountered, and a fascinating view into the workings of the Holy See.
 
@@ -398,10 +398,10 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 By John Paul II:
 
 - *Crossing the Threshold of Hope*
-- ***Gift and Mystery***
-- *[[~Love and Responsibility]]* (137, 140)
+- ***[[2023-08-20-Gift and Mystery|Gift and Mystery]]***
+- *[[~Love and Responsibility|Love and Responsibility]]* (137, 140)
 - *Person and Act* (172)
-- *Sources of Renewal* (tour of the texts of Vatican II, 204)
+- *[[~Sources of Renewal|Sources of Renewal]]* (tour of the texts of [[Vatican II]], 204)
 - *Theology of the Body* (334)
 - *Spiritual Pilgrimage: Texts on Jews & Judaism, 1979-1995* (see *Homily at the Beatification of [[Edith Stein]]*, 540, 915)
 - ***The Pope Speaks to the American Church: John Paul's Homilies, Speeches, and Letters to Catholics in America*** (551)
@@ -414,7 +414,7 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 - *[[~Salvifici Doloris|Salvifici Doloris]]* (475)
 - *Christifideles Laici* (553)
 - *Redemptoris Mater* and ***Mulieris Dignitatem*** (578)
-- *Centesimus Annus* (612)
+- *[[2019-12-23-Centesimus Annus|Centesimus Annus]]* (612)
 - *Ex Corde Ecclesiae* (625)
 - *Redemptoris Missio* (634)
 - *Pastores Dabo Vobis* (654)
@@ -429,28 +429,28 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 Other:
 
 - *Gaudium et Spes* (22 and 24 especially), 846
-- *[[~Brave New World]]* by [[Aldous Huxley]] (12)
+- *[[~Brave New World|Brave New World]]* by [[Aldous Huxley]] (12)
 - *True Devotion to Mary* by St. Louis de Montfort (57)
 - *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)
 - *Metaphysics* by Kazimierz Wais (70)
-- *The Power and the Glory* by Graham Greene and *The Plague* by Camus (117)
+- *[[~The Power and the Glory|The Power and the Glory]]* by Graham Greene and *The Plague* by Camus (117)
 - *His Holiness* by Bernstein and Politi (210 and many others; [[George Weigel]] does not seem to have a high opinion of this)
 - *Poland* and *Pilgrimage* by James Michener (211)
-- *The Screwtape Letters* by C.S. Lewis (216)
+- *[[2018-07-21-The Screwtape Letters|The Screwtape Letters]]* by C.S. Lewis (216)
 - *Night Flight* by Antoine de Saint-Exupéry (224)
 - *Paradise Lost* by John Milton (224)
 - *Heraldry in the Catholic Church* by Bruno Heim (265)
 - *Quo Vadis* by Sienkiewicz and *Courier from Warsaw* by Jan Nowak (convalescence reading, 416)
-- *[[2023-02-27-Introduction to Christianity]]* and ***Salt of the Earth*** by [[Joseph Ratzinger]] (443)
+- *[[2023-02-27-Introduction to Christianity|Introduction to Christianity]]* and ***[[~Salt of the Earth|Salt of the Earth]]*** by [[Joseph Ratzinger]] (443)
 - *Forget Not Love* by André Frossard (447) 
-- *The Way* by Escrivá (450)
+- *[[~The Way|The Way]]* by Escrivá (450)
 - *Religion, the Missing Dimension of Statecraft* edited by Douglas Johnston and Cynthia Sampson (912)
 - *Making Saints* by Woodward (540, 915)
 - "Homily at the Funeral Liturgy of [[Hans Urs von Balthasar]]" in *Hans Urs von Balthasar: His Life and Work* (565, 917)
-- *The Drama of Atheistic Humanism* by [[Henri de Lubac]] (600, 920)
+- *[[2022-10-31-The Drama of Atheist Humanism|The Drama of Atheist Humanism]]* by [[Henri de Lubac]] (600, 920)
 - Trilogy by Henryk Siekiewicz (833, 944)
 - *In the Fullness of Faith* by [[Hans Urs von Balthasar]] (853, 864, 945)
-- *[[2020-11-18-After Virtue]]* by [[Alasdair MacIntyre]] (863)
+- *[[2020-11-18-After Virtue|After Virtue]]* by [[Alasdair MacIntyre]] (863)
 - ***The King's Good Servant but God's First*** by James Monti (864, 946)
 
 **New Words**
@@ -468,4 +468,4 @@ Other:
 
 ---
 Created: [[2021-07-20-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

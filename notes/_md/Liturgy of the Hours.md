@@ -83,6 +83,7 @@ aliases: [LOTH, Breviary]
 - Vol. IV, pg. 879: "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
 - Vol. IV, pg. 960: "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
 - Vol. IV, pg. 1073 (Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."
+- Vol. IV, pg. 1161 (intercessions for Wednesday Morning Prayer Week IV): "Give us strength in temptation, endurance in trial, and gratitude in prosperity."
 
 
 ---

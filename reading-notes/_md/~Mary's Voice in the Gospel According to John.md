@@ -1,5 +1,6 @@
 ---
-aliases: [Mary's Voice in the Gospel According to John]
+aliases:
+  - Mary's Voice in the Gospel According to John
 title: Mary's Voice in the Gospel According to John
 author: Michael Pakaluk
 category: Religion
@@ -12,9 +13,8 @@ isbn13: 9781684511228
 source: 
 wishlist: 2023-01-17
 acquired: 2023-04-09
-started: 
-finished: 
-
+started: 2023-09-02
+finished:
 ---
 # *[Mary's Voice in the Gospel According to John: A New Translation with Commentary](https://www.regnery.com/9781684513390/marys-voice-in-the-gospel-according-to-john/)* by [[Michael Pakaluk]]
 
@@ -24,6 +24,9 @@ finished:
 
 
 - uses [[Inclusive-Language Translations|Inclusive Language]]
+- How lucky we are that the Lord allowed Mary to remain with the apostle's after his death and resurrection to pass on her reflections on his life. And yet how painful that must have been for her to be separated from him, making her crowning that much more glorious, and her ability to intercede for us that much more powerful. 
+- new translation makes the Gospel fresh to us
+- how to learn Greek? and teach it to the kids? 
 
 --- 
 **Topic**: [[The Bible]], [[John]]

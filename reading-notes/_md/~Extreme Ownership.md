@@ -10,7 +10,7 @@ isbn10: 125018472X
 isbn13: 9781250184726
 source: 
 wishlist: 2023-06-04
-acquired: 
+acquired: 2023-08-23
 started: 
 finished: 
 ---
@@ -110,6 +110,7 @@ _**Summary**: _
 
 **Source**
 - [[UA Library]] (when searching for *[[2023-06-02-Working Backwards|Working Backwards]]*)
+- [[Dad]] [[2023-08-23-Wed]]
 
 **Bibliography**
 

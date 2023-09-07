@@ -476,7 +476,7 @@ From the *Roman Catechism* [[bib]] (25):
 
 
 #### [Article 3 MAN'S FREEDOM](https://www.vatican.va/archive/ENG0015/__P5M.HTM)
-- [I. Freedom and Responsibility](https://www.vatican.va/archive/ENG0015/__P5N.HTM)
+- ★ [I. Freedom and Responsibility](https://www.vatican.va/archive/ENG0015/__P5N.HTM) ([[Freedom]])
 - [II. Human Freedom in the Economy of Salvation](https://www.vatican.va/archive/ENG0015/__P5O.HTM)
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__P5P.HTM)  
 

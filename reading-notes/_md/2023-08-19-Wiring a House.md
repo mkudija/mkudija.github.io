@@ -94,7 +94,7 @@ Dad got this for me and a recent GFCI issue motivated me to read through it. Thi
 
 
 ## Chapter 15: Standby Generators and Inverters
-- [ ] Consider a 3,000 W inverter rather than generator (cf. [[Kudija Family Preparedness Plan]], *[[2022-05-21-Practical Doomsday|Practical Doomsday]]*) 📅 2023-08-19
+- [ ] Consider a 3,000 W inverter rather than generator (cf. [[Kudija Family Preparedness Plan]], *[[2022-05-21-Practical Doomsday|Practical Doomsday]]*) 📅 2023-09-26
 
 
 ## Chapter 16: Electric Vehicles and Cell Phone Boosters 
