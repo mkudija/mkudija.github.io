@@ -89,8 +89,7 @@ _**Summary**: "Go really big or go home."_
 - [[Hiring]] bar raisers could veto a candidate who did not meet the goal of raising the company's overall hiring bar (89)
 - Bezos drove them hard, including and executive book club on Saturday mornings, but the environment was not friendly toward families (89)
 - Bezos insisted the company needed to master anything that touched he customer experience (90)
-- Brannon and Covey showed Bezos a **common-size income statement** (each line item normalized by revenue), which was a catalyst for moving toward profitability (91)
-	- [ ] make common-size P&L for each product 📅 2023-08-07
+- Brannon and Covey showed Bezos a **common-size income statement** (each line item normalized by revenue), which was a catalyst for moving toward profitability (91) ^3e672c
 - Category leaders became General Managers, with P&L ownership (93)
 
 

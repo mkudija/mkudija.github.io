@@ -64,7 +64,7 @@ finished: 2022-11-14
 - note the "universal saving will of God" (33)
 - Infants without baptism being deprived of the beatific vision was "common doctrine", but not a certain statement of faith (34, 40)
 - A lot of this is "theological opinion" or speculation, but we need to "keep in mind the apophatic perspective of the Greek Fathers." (40, 41)
-- "giving more weight to God's universal salvific will and to solidarity in Christ (cf. _GS_ 22) in order to account for the hope that infants dying without Baptism could enjoy eternal life in the beatific vision" (41)
+- "giving more weight to God's universal salvific will and to solidarity in Christ (cf. _[[~Gaudium et Spes|GS]]_ 22) in order to account for the hope that infants dying without Baptism could enjoy eternal life in the beatific vision" (41)
 
 ### **2. _Inquirere Vias Domini_: Seeking to Discern God’s Ways - Theological Principles**
 

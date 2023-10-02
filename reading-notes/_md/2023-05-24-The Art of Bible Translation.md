@@ -1,5 +1,5 @@
 ---
-aBibles: [The Art of Bible Translation]
+aliases: [The Art of Bible Translation]
 title: The Art of Bible Translation
 author: Robert Alter
 category: Bibles

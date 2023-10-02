@@ -24,6 +24,7 @@ I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue
 - [Santi Younger's hotkeys](https://santiyounger.com/obsidian-shortcuts/)
 - `⌃ + ⇥ = ctrl + tab` - cycle tabs forward
 - `⌃ + ⇧ + ⇥ = ctrl + shift + tab` - cycle tabs reverse
+- `⌘+-/0` - zoom in/out
 
 ## Syntax
 - `[[Link]]` to link to a note

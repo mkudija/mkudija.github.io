@@ -1,5 +1,6 @@
 ---
-aliases: [East of Eden]
+aliases:
+  - East of Eden
 title: East of Eden
 author: John Steinbeck
 category: Fiction
@@ -10,9 +11,9 @@ isbn10: 1440631328
 isbn13: 9781440631320
 source: 
 wishlist: 2023-05-19
-acquired: 
+acquired: "true"
 started: 
-finished: 
+finished:
 ---
 # *[East of Eden]()* by [[John Steinbeck]]
 

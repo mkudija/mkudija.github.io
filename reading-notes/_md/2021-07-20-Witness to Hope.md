@@ -165,8 +165,8 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 ## Chapter 5: A New Pentecost
 *Vatican II*
 - *Gaudiem et Spes*: Karol Wojtyła's primary contribution to Vatican II
-	- Working on *GS* began his special friendship with [[Henri de Lubac]]
-	- To Karol Wojtyła, *GS* 22 (Christian humanism) was the theological linchpin and *GS* 24 (Law of the Gift) was the philosophical and moral of the entire Council (169)
+	- Working on *[[~Gaudium et Spes|Gaudium et spes]]* began his special friendship with [[Henri de Lubac]]
+	- To Karol Wojtyła, *[[~Gaudium et Spes|GS]]* 22 (Christian humanism) was the theological linchpin and *GS* 24 (Law of the Gift) was the philosophical and moral of the entire Council (169)
 - I hypothesize that Vatican II also created Pope John Paul II out of Karol Wojtyła by giving him exposure to his fellow bishops (169)
 - Wojtyła viewed Vatican II as a "personalist" council: intense focus on the human person (171)
 - *Person and Act* is Wojtyła's public account of Vatican II's teaching on freedom and truth (172-3)
@@ -362,7 +362,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 *To See the Sun Rise*
 - Historic accomplishments of John Paul II's papacy (854):
 	1. Recast the papacy and returned it to its evangelical roots
-	2. Secured the legacy of [[Vatican II]], especially *Gaudium et Spes* 22 and 24 how Jesus reveals both God and the true meaning of human existence, and how meaning is found in self-giving
+	2. Secured the legacy of [[Vatican II]], especially *[[~Gaudium et Spes|Gaudium et spes]]* 22 and 24 how Jesus reveals both God and the true meaning of human existence, and how meaning is found in self-giving
 	3. Spoke truth to power and witnessed the collapse of communism
 	4. Reconfigured Catholic social doctrine, free societies are built upon a vibrant public moral culture and the dignity of the human person
 	5. Ecumenical work for Christian unity and with Judaism and other world religions
@@ -428,7 +428,7 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 
 Other:
 
-- *Gaudium et Spes* (22 and 24 especially), 846
+- *[[~Gaudium et Spes|Gaudium et spes]]* (22 and 24 especially), 846
 - *[[~Brave New World|Brave New World]]* by [[Aldous Huxley]] (12)
 - *True Devotion to Mary* by St. Louis de Montfort (57)
 - *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)

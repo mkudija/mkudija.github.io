@@ -1,5 +1,6 @@
 ---
-aliases: [I Know Why the Caged Bird Sings]
+aliases:
+  - I Know Why the Caged Bird Sings
 title: I Know Why the Caged Bird Sings
 author: Maya Angelou
 category: Biography & Autobiography
@@ -9,10 +10,10 @@ publish_date: 2010-07-21
 isbn10: 030747772X
 isbn13: 9780307477729
 source: 
-wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
+wishlist: 2022-02-25
 acquired: 
 started: 
-finished: 
+finished:
 ---
 # *[I Know Why the Caged Bird Sings]()* by [[Maya Angelou]]
 

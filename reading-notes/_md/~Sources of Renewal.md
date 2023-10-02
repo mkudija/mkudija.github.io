@@ -1,5 +1,6 @@
 ---
-aliases: [Sources of Renewal]
+aliases:
+  - Sources of Renewal
 title: Sources of Renewal
 author: Pope John Paul II
 category: Vatican Council
@@ -9,10 +10,10 @@ publish_date: 1980
 isbn10: 
 isbn13: 
 source: 
-wishlist: 2023-09-03
-acquired: 
+wishlist: 
+acquired: 2023-09-11
 started: 
-finished: 
+finished:
 ---
 # *[Sources of Renewal]()* by [[John Paul II|Pope John Paul II]]
 

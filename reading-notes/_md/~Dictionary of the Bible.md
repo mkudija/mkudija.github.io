@@ -1,5 +1,6 @@
 ---
-aliases: [Dictionary of the Bible]
+aliases:
+  - Dictionary of the Bible
 title: Dictionary of the Bible
 author: John L. McKenzie
 category: Bible
@@ -9,10 +10,10 @@ publish_date: 1967
 isbn10: 002087720X
 isbn13: 9780020877202
 source: 
-wishlist: 2023-05-12
-acquired: 
+wishlist: 
+acquired: 2023-05-12
 started: 
-finished: 
+finished:
 ---
 # *[Dictionary of the Bible]()* by [[John L. McKenzie]]
 

@@ -1,5 +1,8 @@
 ---
-aliases: [Unitatis Redintegratio, Decree on Ecumenism]
+aliases:
+  - Unitatis Redintegratio
+  - Decree on Ecumenism
+  - UR
 title: Unitatis Redintegratio
 author: Vatican II
 category: 
@@ -10,7 +13,7 @@ publish_date: 1964
 isbn10: 
 isbn13: 
 started: 
-finished: 
+finished:
 ---
 # [*Decree on Ecumenism: Unitatis Redintegratio*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html) by [[Vatican II]]
 
@@ -38,4 +41,4 @@ finished:
 
 ---
 Created: [[2022-11-07-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

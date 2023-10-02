@@ -52,7 +52,7 @@ Isaacson provides some notes on learning from Leonardo in the conclusion:
 - *Observe*
 - *Start with the details*
 - *See things unseen*
-- *Go down rabit holes*
+- *Go down rabbit holes*
 - *Get distracted*
 - *Respect facts*
 - *Procrastinate*
@@ -67,3 +67,4 @@ Isaacson provides some notes on learning from Leonardo in the conclusion:
 - *Take notes, on paper*
 - *Be open to mystery*
 
+From [[Mom]], she read after 2023-08 trip 

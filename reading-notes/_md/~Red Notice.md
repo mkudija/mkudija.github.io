@@ -14,7 +14,7 @@ acquired: true
 started: 
 finished: 
 ---
-# *[Red Notice]()* by [[Bill Browder]]
+”# *[Red Notice]()* by [[Bill Browder]]
 
 <img src="http://books.google.com/books/content?id=YtANBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

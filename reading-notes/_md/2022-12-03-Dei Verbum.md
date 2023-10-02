@@ -1,5 +1,8 @@
 ---
-aliases: [Dei Verbum, Dogmatic Constitution on Divine Revelation]
+aliases:
+  - Dei Verbum
+  - Dogmatic Constitution on Divine Revelation
+  - DV
 title: Dogmatic Constitution on Divine Revelation
 author: Pope Paul VI
 category: Encyclical

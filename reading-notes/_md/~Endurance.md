@@ -164,7 +164,7 @@ _**Summary**: _
 _**Summary**: _
 
 --- 
-**Topic**: [[Earnest Shackleton]]
+**Topic**: [[Earnest Shackleton]], [[Exploration]]
 
 **Source**: audiobook, UA library book sale
 
@@ -181,4 +181,4 @@ _**Summary**: _
 
 ---
 Created: [[2022-07-05-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
