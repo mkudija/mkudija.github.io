@@ -1,3 +1,6 @@
+<li><i>Elon Musk</i> by Walter Isaacson</li>
+<li><i>The Great Story of Israel</i> by Robert Barron</li>
+<li><i>Laudate Deum</i> by Pope Francis</li>
 <li><i>Mary's Voice in the Gospel according to John: A New Translation with Commentary</i> by Michael Pakaluk</li>
 <li><i>The Way of the Disciple</i> by Erasmo Leiva-Merikakis</li>
 <li><i>Lessons in Hope: My Unexpected Life with St. John Paul II</i> by George Weigel</li>

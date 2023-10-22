@@ -1,5 +1,6 @@
 ---
-aliases: [The Appalling Strangeness of the Mercy of God]
+aliases:
+  - The Appalling Strangeness of the Mercy of God
 title: The Appalling Strangeness of the Mercy of God
 author: Ruth Pakaluk
 category: Religion
@@ -10,9 +11,9 @@ isbn10: 1586174517
 isbn13: 9781586174514
 source: 
 wishlist: 2023-09-25
-acquired: 
-started: 
-finished: 
+acquired: 2023-10-07
+started: 2023-10-14
+finished:
 ---
 # *[The Appalling Strangeness of the Mercy of God]()* by [[Ruth Pakaluk]]
 

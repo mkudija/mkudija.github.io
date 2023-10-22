@@ -15,6 +15,7 @@ wishlist: 2023-01-17
 acquired: 2023-04-09
 started: 2023-09-02
 finished: 2023-09-24
+author_note: https://mail.google.com/mail/u/1/#inbox/KtbxLthZglKQPBDHsmKDJLdvBQfDfLCJjB
 ---
 # *[Mary's Voice in the Gospel According to John: A New Translation with Commentary](https://www.regnery.com/9781684513390/marys-voice-in-the-gospel-according-to-john/)* by [[Michael Pakaluk]]
 

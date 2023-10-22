@@ -14,6 +14,7 @@ wishlist: 2023-08-20
 acquired: 
 started: 2023-08-20
 finished: 2023-09-02
+author_note: https://mail.google.com/mail/u/1/?ik=bf31fc5e75&view=om&permmsgid=msg-f:1777050416125331192
 ---
 # *[Lessons in Hope: My Unexpected Life with St. John Paul II](https://www.hachettebookgroup.com/titles/george-weigel/lessons-in-hope/9780465094295/)* by [[George Weigel]]
 

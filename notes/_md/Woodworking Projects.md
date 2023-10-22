@@ -18,6 +18,12 @@ publish: true
 # [[Woodworking]] Projects
 
 
+### 2023-10-14 Scripture Memory Box Prototype
+*Maple, cherry*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-10-14-scripture-memory-box.jpg?raw=true" width="100%">
+
+
 ### 2023-07-10 Laptop Stand
 *Walnut*
 

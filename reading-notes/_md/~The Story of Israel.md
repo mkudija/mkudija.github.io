@@ -1,5 +1,6 @@
 ---
-aliases: [The Great Story of Israel]
+aliases:
+  - The Great Story of Israel
 title: The Great Story of Israel
 author: Robert Barron
 category: Scripture
@@ -10,7 +11,7 @@ publish_date: 2022
 isbn10: 
 isbn13: 9781685780197
 started: 2022-12-26
-finished: 
+finished: 2023-10-11
 ---
 # *[The Great Story of Israel: Election, Freedom, Holiness](https://bookstore.wordonfire.org/products/the-great-story-of-israel)* by [[Bishop Barron]]
 

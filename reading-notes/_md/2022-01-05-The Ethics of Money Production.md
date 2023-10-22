@@ -11,10 +11,11 @@ isbn10: 1610166817
 isbn13: 9781610166812
 started: 2022-01-21
 finished: 2022-02-09
+author_note: https://mail.google.com/mail/u/1/?ik=bf31fc5e75&view=om&permmsgid=msg-f:1726665549684864125
 ---
 # [*The Ethics of Money Production*](https://mises.org/library/ethics-money-production) by [[Jörg Guido Hülsmann]]
 
-<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6101/9781610166812.jpg" width=150>
+<img src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/Ethics%20of%20Money%20Production_Hulsmann.jpg?itok=-VGAY-ep" width=150>
 
 `(Auburn: Mises Institute, 2008), 256`
 

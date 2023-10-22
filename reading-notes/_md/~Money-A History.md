@@ -1,6 +1,6 @@
 ---
-aliases: [Money]
-title: Money
+aliases: [Money-A History]
+title: Money-A History
 author: Catherine Eagleton, Jonathan Williams, Joe Cribb
 category: Money
 publisher: 

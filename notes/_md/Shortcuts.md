@@ -55,9 +55,10 @@ publish: true
 - `cmd + shift + E` = center
 - `option + ↓` or `cmd + →` - switch tabs/sheets 
 - Data > Data Connectors > Refresh Options > Refresh All
+- `option + shift + →` - group rows/cols
 - ...
 - =query(A1:D51,"Order by C Desc Limit 10")
-
+- =IMPORTRANGE("https://docs.google.com/spreadsheets/d/1rzwxJdrlnjJi_mpUiE8cBQFQKBkzcLHK1hsUNvLcdPE/edit#gid=1198758696","Summary!A1:AF30")
 
 ## PyCharm
 - `⌘ + ⇧ + 8` - `cmd + shift + 8` - multi-select (or just Shift and arrow)
@@ -103,6 +104,7 @@ publish: true
 
 ## GCP 
 - `option + ⬆` - move line up/down
+- `cmd + click` on a table name to get it's details 
 
 7-day history (from [[Kellan Selig]]) for tables. For views, need to get source tables 
 ```sql

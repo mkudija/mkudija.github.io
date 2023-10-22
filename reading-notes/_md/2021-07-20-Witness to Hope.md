@@ -11,6 +11,7 @@ isbn10: 0060932864
 isbn13: 9780060932862
 started: 2021-05-31
 finished: 2021-08-01
+author_note: https://mail.google.com/mail/u/1/?ik=bf31fc5e75&view=om&permmsgid=msg-f:1709732525034843346
 ---
 # [*Witness to Hope: The Biography of Pope John Paul II*](https://www.amazon.com/Witness-Hope-Biography-Pope-John/dp/006018793X) by [[George Weigel]]
 
