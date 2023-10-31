@@ -1,9 +1,24 @@
-
+---
+aliases: [Jesus of Nazareth]
+title: Jesus of Nazareth
+author: Pope Benedict XVI, Joseph Ratzinger
+category: Religion
+publisher: Image
+total_page: 402
+publish_date: 2007-05-15
+isbn10: 038552434X
+isbn13: 9780385524346
+source: 
+wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
+acquired: 
+started: 
+finished: 
+---
 # [*Jesus of Nazareth*]() by [[Joseph Ratzinger]]
 
+<img src="http://books.google.com/books/content?id=hgTXwmwFKbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 <img src="" width=150>
-
-`(City: Publisher, YYYY), PPP`
+`(New York: Image, 2007-05-15), 402`
 
 # Notes
 
@@ -15,167 +30,27 @@
 </details>
 
 
-## Chapter 1:
-_**Summary**: _
 
 
 
-## Chapter 2:
-_**Summary**: _
-
-
-
-## Chapter 3:
-_**Summary**: _
-
-
-
-## Chapter 4:
-_**Summary**: _
-
-
-
-## Chapter 5:
-_**Summary**: _
-
-
-
-## Chapter 6:
-_**Summary**: _
-
-
-
-## Chapter 7:
-_**Summary**: _
-
-
-
-## Chapter 8:
-_**Summary**: _
-
-
-
-## Chapter 9:
-_**Summary**: _
-
-
-
-## Chapter 10:
-_**Summary**: _
-
-
-
-## Chapter 11:
-_**Summary**: _
-
-
-
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
 
 --- 
-**Topic**: [[Jesus Christ]]
+**Topic**: 
 
-**Source**: 
+**Source**
+- 
 
 **Bibliography**
 
-- 
+```query
+[[bib]] file:(<%tp.file.title%>)
+```
+ 
 
-**New Words**
+**[[New Words]]**
 
 - 
 
 ---
 Created: [[2022-03-21-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

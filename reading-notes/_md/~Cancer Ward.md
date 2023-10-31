@@ -1,18 +1,19 @@
 ---
-aliases: [Cancer Ward]
+aliases:
+  - Cancer Ward
 title: Cancer Ward
 author: Aleksandr Solzhenitsyn
 category: Fiction
 publisher: Macmillan
 total_page: 548
 publish_date: 1991-11
-isbn10: 0374511993
+isbn10: 374511993
 isbn13: 9780374511999
 source: 
 wishlist: 2023-09-03
-acquired: 
+acquired: 2023-10-28
 started: 
-finished: 
+finished:
 ---
 # *[Cancer Ward]()* by [[Aleksandr Solzhenitsyn]]
 
@@ -27,6 +28,7 @@ finished:
 
 **Source**
 - *[[2023-09-03-Lessons in Hope|Lessons in Hope]]*
+- [[UA Library]] [[2023-10-28-Sat]]
 
 **Bibliography**
 

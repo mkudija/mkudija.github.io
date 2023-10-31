@@ -23,6 +23,7 @@ aliases: [Poetry]
 - *[[God's Gradeaur]]*
 - *[[Pied Beauty]]*
 - *[[Brothers]]*
+- *[[Thou art indeed just, Lord]]*
 
 **Jane McKay Lanning**
 - *[[Lent]]*

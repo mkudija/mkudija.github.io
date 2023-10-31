@@ -91,7 +91,7 @@ _**Summary**: Gregory is sent as apocrisiarius to Constantinople by Pope Pelagiu
 - [[Job]]: "While the suffering of the righteous remains an enigma, it challenges them consciously to choose their faith again and again, thus setting an example for the world." (112)
 - [[Leadership]] is best when involuntary: "When the shepherds perish [morally], the flocks inevitably follow them into perdition. **They can only exercise their authority well if they do not seek it out, but rather fear it.**" (115)
 	- "to be called to a position of leadership is a stroke of fate that is to be feared." (171)
-- #wishlist: read Gregory's commentary on [[Job]], *Moralia in Job* [[bib]] (cited in *[[Liturgy of the Hours]], Vol III, pg 264*), which he delivered while in Constantinople (116)
+- Read Gregory's commentary on [[Job]], *[[~Moralia in Job|Moralia in Job]]* [[bib]] (cited in *[[Liturgy of the Hours]], Vol III, pg 264*), which he delivered while in Constantinople (116)
 - Gregory: "We need to resist the evil deeds of the invaders with all our strength, and at the same time win their hearts." (118)
 
 

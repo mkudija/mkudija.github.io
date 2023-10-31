@@ -34,9 +34,23 @@ dimensions:
 	- textual difference vs the MT 
 	- gender [[Inclusive-Language Translations|inclusive language]] (eschewed by NETS)
 	- NRSV failing to translate MT 
-- "The Committee's desire to enable the reader to make use of NETS in synoptic manner wit hthe NRSV has been second only to its commitment to giving a faithful rendering of the Greek original." (xvi)
-- 
+- "The Committee's desire to enable the reader to make use of NETS in synoptic manner with the NRSV has been second only to its commitment to giving a faithful rendering of the Greek original." (xvi)
+- "Translating an ancient text can only be described as a profoundly difficult undertaking...It is an act of hubris." (xvi)
+- "If translating is an act of interpreting, a Greek interpretation of a Hebrew original can be expected to reflect what the translator understood the Hebrew text to mean. The end result is therefore inevitably to some degree a commentary written at a specific historical time and place by and individual person." (xvi)
+- NETS lexical guidelines to determine what the Greek means (xvii)
+	- Greek words in the LXX normally mean what they mean in the greek of that period (majority)
+	- Nuance of Greek words is sometimes arbitrated by the Hebrew parent text 
+	- Stereotypes: some Greek words translated as above fit poorly in context
+	- Isolates: some selected because of their connection with a Hebrew morpheme
+	- Calques: some Greek words in the LXX have Hebrew meanings
+- The Septuagint is paradigmatically an interlinear translation of the Hebrew, there is a wide diversity within the books as to how literal they are, and some ([[2 Maccabees]], [[Wisdom]]) were composed in Greek (xviii)
+- Being interlinear, it is not beautiful literature in either Greek or English (xviii)
+- "NETS is more a translation of formal correspondence than one of dynamic equivalence" (xviii)
+- For commentary, see the Society of Biblical Literature Commentary on the Septuagint (SBLCS)
 
+
+## [[Genesis]]
+- 
 
 --- 
 **Topic**: [[The Bible]], [[Septuagint]]

@@ -1,5 +1,6 @@
 ---
-aliases: [Bible Basics for Catholics]
+aliases:
+  - Bible Basics for Catholics
 title: Bible Basics for Catholics
 author: John Bergsma
 category: Religion
@@ -11,8 +12,8 @@ isbn13: 9781594713477
 source: 
 wishlist: 2023-04-21
 acquired: 2023-04-29
-started: 
-finished: 
+started: 2023-10-28
+finished:
 ---
 # *[Bible Basics for Catholics]()* by [[John Bergsma]]
 
