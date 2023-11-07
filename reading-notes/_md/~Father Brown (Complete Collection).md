@@ -1,5 +1,6 @@
 ---
-aliases: [Father Brown (Complete Collection)]
+aliases:
+  - Father Brown (Complete Collection)
 title: Father Brown (Complete Collection)
 author: G. K. Chesterton
 category: Electronic books
@@ -11,14 +12,16 @@ isbn13: 9782291087304
 source: 
 wishlist: 2023-09-21
 acquired: 
-started: 
-finished: 
+started: 2023-10-31
+finished:
 ---
 # *[Father Brown (Complete Collection)]()* by [[G.K. Chesterton]]
 
 <img src="" width=150>
 
 `(New York: , 2020), 761`
+
+## [[~The Innocence of Father Brown|The Innocence of Father Brown]]
 
 
 

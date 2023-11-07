@@ -85,7 +85,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 	- Priority of culture: history is driven by culture (7, 22, 296, 792)
 	- The crisis of the modern world is a crisis of *ideas*, and a crisis of the *idea of a human person* (7)
 	- The drama of life: we are moral agents, and Christ is the center of the cosmic drama (8)
-	- The Law of the Gift (136)
+	- The [[Law of the Gift]] (136)
 
 
 ## Chapter 1: A Son of Freedom
@@ -156,7 +156,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 	3. Commitment to reason.
 	4. Ecumenism of time: the past is not disposable to modernity 
 - **"Ideas have consequences, for good and for ill. The history of the twentieth century's various torments, proved that defective understandings of the human person, human community, and human destiny were responsible for mountains of corpses and oceans of blood."** (134)
-- **The Law of the Gift** was central to Karol Wojtyła's **personalism**: responsible self-giving, not self-assertion, was the road to human fulfillment (136)
+- **The [[Law of the Gift]]** was central to Karol Wojtyła's **personalism**: responsible self-giving, not self-assertion, was the road to human fulfillment (136)
 	- see *[[~Love and Responsibility]]* (137)
 		- our sexuality reveals our dependence on others (141)
 		- [[Chastity]] is the integrity of love, the virtue that makes it possible to love the other as a person (142)

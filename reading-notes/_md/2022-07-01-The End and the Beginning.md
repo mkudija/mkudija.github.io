@@ -21,7 +21,7 @@ finished: 2022-07-01
 
 I spent 2018 through 2020 reading William Manchester's *[[~The Last Lion|The Last Lion]]* trilogy on Churchill, and am now for 2021 through 2023 reading Weigel's trilogy on John Paul II. The first installment, *[[2021-07-20-Witness to Hope|Witness to Hope]]* was an epic journey. This second installment, *The End and the Beginning*, starts with a recap of Karol Wojtyła's life to date. But the primary focus is on the buildup to the Great Jubilee of 2000 and his last years, as well as a comprehensive look at the accomplishments and frustrations of his pontificate.
 
-Weigel emphasizes the same themes of John Paul's pontificate: especially the "law of the gift" (48, 355), how the church proposes but never imposes (437), and the Christian humanism he so consistently preached (517). 
+Weigel emphasizes the same themes of John Paul's pontificate: especially the "[[law of the gift]]" (48, 355), how the church proposes but never imposes (437), and the Christian humanism he so consistently preached (517). 
 
 Sitting here in 2022, there are many lessons we can draw from his life. The teachings of the Church are perennial and timeless. John Paul preached these unchanging truths in a way that addressed the particular challenges of his (and still our) time. Interpreting and implementing Vatican II is a massive work that John Paul II focused much of his energy on, but that work is not complete. We are the generation charged with implementing Vatican II[^vatican2]. 
 

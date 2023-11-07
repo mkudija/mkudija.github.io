@@ -13,7 +13,7 @@ source:
 wishlist: 2023-04-21
 acquired: 2023-04-29
 started: 2023-10-28
-finished:
+finished: 2023-11-05
 ---
 # *[Bible Basics for Catholics]()* by [[John Bergsma]]
 

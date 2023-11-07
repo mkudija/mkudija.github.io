@@ -20,3 +20,12 @@ dimensions: 7x9.675x1.5
 <img src="http://books.google.com/books/content?id=YzA4zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: Word on Fire, 2020), 592`
+
+  
+--- 
+**Topic**: [[The Bible]]
+
+
+---
+Created: [[2022-11-22-Tue]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

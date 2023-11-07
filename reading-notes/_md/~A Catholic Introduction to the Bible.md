@@ -22,6 +22,7 @@ finished:
 
 ##  The Vision of this Book 
 - This book grows extensively out of *[[2023-01-31-Verbum Domini|Verbum Domini]]*, holding together historical exegesis and theology, faith and reason, scripture and tradition, and the Old and New Testaments 
+- 
 
 ## Introducing the Old Testament 
 ###  The Canon of the Old Testament 

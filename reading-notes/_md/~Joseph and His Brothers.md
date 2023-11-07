@@ -26,7 +26,7 @@ finished:
 **Topic**: 
 
 **Source**
-- *[[~The Story of Israel|The Great Story of Israel]]*
+- *[[2023-11-06-The Great Story of Israel|The Great Story of Israel]]*
 
 **Bibliography**
 
