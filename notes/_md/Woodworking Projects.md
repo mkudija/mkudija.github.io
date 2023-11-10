@@ -18,6 +18,12 @@ publish: true
 # [[Woodworking]] Projects
 
 
+
+### [[Build Log-Entryway Hooks|2023-11-07 Entryway Hooks]]
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-11-07-entryway-hooks.png?raw=true" width="100%">
+
+
 ### 2023-10-14 Scripture Memory Box Prototype
 *Maple, cherry*
 

@@ -38,7 +38,7 @@ finished: 2021-05-21
 - book: *Traffic: Why We Drive the Way We Do* by Tom Vanderbilt (18)
 - book: *The Long Haul* by Finn Murphy (19)
 - the three modes of traffic management that will be discussed later: rule following (abuse of power), autonomous cars (massively expensive) , and human agency (meditation on self-government) (21-22)
-- dystopian [[Films Watched]]: Blade Runner, Total Recall, Minority Report, WALL-E (22)
+- dystopian [[Films to Watch]]: Blade Runner, Total Recall, Minority Report, WALL-E (22)
 
 ### Drivers as Moral Types
 - a defense of lane splitting on motorcycles
@@ -180,7 +180,7 @@ finished: 2021-05-21
 ## If Google Built Cars
 - customer service: if the exit costs are high enough you don’t need an actual monopoly to get monopoly behavior (298)
 - tech in cars leads to surveillance capitalism (301)
-- read *[[~The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (302+)
+- read *[[~The Age of Surveillance Capitalism|The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (302+)
 - terrifying privacy implications of “smart” devices: sleep number beds, Nest thermostats, roomba vaccines...”dumb” products will cost a premium (305-306)
 - “The surest way to predict behavior is to intervene at its source and shape it” (307)
 
@@ -202,8 +202,8 @@ finished: 2021-05-21
 - *The Waning of the Middle Ages* by Johan Huizinga (155)
 - *Homo Ludens* by Johan Huizinga (168)
 - *Seeing Like a State* (267)
-- *[[~The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (302+)
+- *[[~The Age of Surveillance Capitalism|The Age of Surveillance Capitalism]]* by [[Shoshana Zuboff]] (302+)
 
 ---
 Created: 2021-03-27
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

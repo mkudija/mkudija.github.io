@@ -27,7 +27,7 @@ finished:
 
 **Source**
 - [[010 - Understanding the Bible - The Burrowshire Podcast]]
-- *[[~Bible Basics for Catholics|Bible Basics for Catholics]]*
+- *[[2023-11-10-Bible Basics for Catholics|Bible Basics for Catholics]]*
 
 **Bibliography**
 

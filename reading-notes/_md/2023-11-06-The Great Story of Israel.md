@@ -31,7 +31,7 @@ Barron emphasizes how Israel is set apart for holiness, not for its own sake but
 
 Finally, Barron reads the Old Testament in light of the New and is continually drawing our attention forward to how a particular passage is fulfilled in the person of Jesus Christ in the Gospels. Jacob's ladder prefigures Jesus as the definitive ladder between heaven and earth, the sacrifices described in Exodus and Leviticus and enacted in the Jerusalem temple anticipate the final and definitive sacrifice offered by Jesus on the cross, Jesus's command to eat his flesh and drink his blood in John 6 reveals his divine identity when interpreted through the lens of the Levitical prohibition against consuming blood, and Jesus connects the bronze serpent lifted up in the desert to the final conquest of sin and death when he is lifted up on the cross. 
 
-Barron's commentary is not a comprehensive treatment of the Old Testament, but a rich and spiritually rewarding meditation upon some of its most important theological themes. It is a useful guide after a higher-level introduction to the Bible like Bergsma's *[[~Bible Basics for Catholics|Bible Basics for Catholics]]*.
+Barron's commentary is not a comprehensive treatment of the Old Testament, but a rich and spiritually rewarding meditation upon some of its most important theological themes. It is a useful guide after a higher-level introduction to the Bible like Bergsma's *[[2023-11-10-Bible Basics for Catholics|Bible Basics for Catholics]]*.
 
 
 # Notes
