@@ -13,13 +13,13 @@ source:
 wishlist: 2023-09-25
 acquired: 2023-10-07
 started: 2023-10-14
-finished:
+finished: 2023-11-15
 ---
-# *[The Appalling Strangeness of the Mercy of God]()* by [[Ruth Pakaluk]]
+# *[The Appalling Strangeness of the Mercy of God](https://ignatius.com/the-appalling-strangeness-of-the-mercy-of-god-asmgp/)* by [[Ruth Pakaluk]], edited by Michael Pakaluk
 
-<img src="http://books.google.com/books/content?id=m1YfPOq7ZowC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/128/391/ASMGP_r__47850.1617023021.jpg?c=1" width=150>
 
-`(New York: Ignatius Press, 2011-01-01), 338`
+`(San Francisco: Ignatius Press, 2011), 338`
 
 
 

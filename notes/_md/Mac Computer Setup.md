@@ -127,15 +127,6 @@ publish: true
 	- [Duplicati](https://www.duplicati.com/) (from [Kev](https://kevq.uk/my-home-server-2-months-on/))
 
 
-## Root-specific
-*[Root link](https://docs.google.com/document/d/13zLLKRXPQd75kkDyANanYz5V-CPN1GyqtBOVZcryIVk/edit#)*
-
-- [Microsoft Office](https://joinroot.askspoke.com/next/knowledge/5f2c604194d10d00062ab421)
-	- Excel WST Plugin: [Link](http://www.wallst-training.com/about/resources.html)
-- [Google File Stream](https://support.google.com/a/answer/7491144?hl=en#zippy=%2Cmac)
-- [AWS VPN](https://docs.google.com/document/d/1WNxQLoIm-j1rjQQ60CULNUtb1AIFbX4TGeg9orQRtFc/edit)
-- [Yubikey Manager](https://joinroot.askspoke.com/next/knowledge/5de56f0c3122eb00079d0b1d) (so it doesn’t make cccccckvurecrlvudbdrurvbufrihlurtthrbrvclfri when you tap your keys)
-
 ---
 Created: [[2021-07-19-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

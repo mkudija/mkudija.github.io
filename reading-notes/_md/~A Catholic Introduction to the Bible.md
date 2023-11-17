@@ -79,6 +79,10 @@ finished:
 
 ### Conclusion
 
+
+## 24. [[Psalms]]
+- "The [[Psalms]] are the beating heart of the Church's life of prayer." (593)
+
 --- 
 **Topic**: [[The Bible]], [[Bible Commentary]]
 

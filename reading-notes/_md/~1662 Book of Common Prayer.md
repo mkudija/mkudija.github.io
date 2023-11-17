@@ -30,7 +30,7 @@ dimensions:
 - Only two sacraments, but same definition of what a sacrament is; contains orders for other sacraments (294)
 - Marriage vows (304)
 - [[Glory Be]] (344)
-- [ ] The Thanksgiving of Women after Child-Birth (335) 📅 2023-10-25
+- The Thanksgiving of Women after Child-Birth (335) 
 - **Articles of Religion**
 	- **VI**: [[Deuterocanonical Books]]: "The Church doth read for example of life and instruction of manners; but yet doth it not apply them to establish any doctrine" (613-614) ^728f01
 - Bearsford ribbon replacement (from [this video](https://youtu.be/NlQzDpl9FvE))

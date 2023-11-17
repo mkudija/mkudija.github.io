@@ -14,6 +14,7 @@ wishlist: 2023-04-21
 acquired: 2023-04-29
 started: 2023-10-28
 finished: 2023-11-05
+author_note: https://mail.google.com/mail/u/1/#inbox/KtbxLrjZpzxxpKkkNsnmchkRxJDcQPFjZL
 ---
 # *[Bible Basics for Catholics](https://www.avemariapress.com/products/Bible-Basics-for-Catholics)* by [[John Bergsma]]
 
@@ -22,7 +23,7 @@ finished: 2023-11-05
 `(New York: Ave Maria Press, 2015-10-02), 224`
 
 
-Link to my reproduction of Bergsma's illustrations: ![[~Bible Basics for Catholics Illustrations.pdf]]
+Link to my reproduction of Bergsma's illustrations: ![[~Bible Basics for Catholics Illustrations.pdf]] ([GitHub link](https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_md/%7EBible%20Basics%20for%20Catholics%20Illustrations.pdf))
 ## Introduction 
 - Goal of this book: show you the basic overall "big picture" of the Bible 
 - Use stick figures to remember the series of biblical covenants

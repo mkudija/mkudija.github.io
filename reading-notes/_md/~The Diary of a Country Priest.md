@@ -18,6 +18,8 @@ finished: []
 
 `(New York: Da Capo Press, 2001-12-17), 312`
 
+
+
 --- 
 **Topic**: 
 
@@ -38,4 +40,4 @@ finished: []
 
 ---
 Created: [[2023-01-21-Sat]]
-Updated: NaN
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

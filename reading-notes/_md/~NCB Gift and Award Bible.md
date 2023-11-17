@@ -22,6 +22,7 @@ dimensions: 5.875x8.875x1.25
 
 `(New Jersey: Catholic Book Publishing Corp, 2022-06-15)`
 
+- [[Progress & History]] on [[Col-01#15]]-20: "Hence, for the Christian, history has a movement and a meaning: it is oriented toward Christ, directed by him, and consummated in him." (1448)
 
 --- 
 **Topic**: [[The Bible]]

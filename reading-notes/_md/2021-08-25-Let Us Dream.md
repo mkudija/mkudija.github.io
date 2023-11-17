@@ -60,17 +60,17 @@ In some sense Pope Francis is a modern Christ figure: he is unexpected, and he i
 - poem *Esperanza* by Alexis Valdés (139)
 
 --- 
+**Source**: [[Fr. Missimi]], 2021-01-25
 
 **Bibliography**
-
-- *Morals and the Book of Job* by St. Gregory the Great (38)
+- *[[~Moralia in Job|Moralia in Job]]* by St. Gregory the Great (38)
 - *History of the Popes* by Ludwig Pastor (42)
-- *Grammar of Ascent* by Newman (56)
+- *[[~An Essay in Aid of a Grammar of Assent|An Essay in Aid of a Grammar of Assent]]* by Newman (56)
 - *The Value of Everything* by Mariana Mazzucato (64)
-- *The Brothers Karamazov* by Fyodor Dostoevsky (106)
-- *Father Brown* by G. K. Chesterton (136)
+- *[[2014-12-20-The Brothers Karamazov|The Brothers Karamazov]]* by Fyodor Dostoevsky (106)
+- *[[~Father Brown (Complete Collection)|Father Brown]]* by G. K. Chesterton (136)
 
 ---
 Created: 2021-08-25
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

@@ -1,5 +1,7 @@
 ---
-aliases: [Breaking the Bread, Breaking the Bread-A Biblical Devotional for Catholics Year B]
+aliases:
+  - Breaking the Bread
+  - Breaking the Bread-A Biblical Devotional for Catholics Year B
 title: Breaking the Bread-A Biblical Devotional for Catholics Year B
 author: Scott Hahn, Ken Ogorek
 category: Religion
@@ -10,9 +12,9 @@ isbn10: 1645853500
 isbn13: 9781645853503
 source: 
 wishlist: 2023-11-08
-acquired: 
+acquired: 2023-11-10
 started: 
-finished: 
+finished:
 ---
 # *[Breaking the Bread: A Biblical Devotional for Catholics Year B]()* by [[Scott Hahn, Ken Ogorek]]
 
