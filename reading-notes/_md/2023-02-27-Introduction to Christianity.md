@@ -388,7 +388,7 @@ _**Summary**: How can a study of Christ be summarized...apart from asking for me
 	- [[Is-07#v14]]: "It is not absolutely clear from the text of this passage that a virgin in the strict sense of the term is meant" (273)
 - The roots of Jesus' virgin birth is more from the Old Testament than from ancient myth, and he is God's son not by biological action but by nature (275)
 - Man can only receive salvation as pure gift (277)
-- Mary does not contest or endanger the exclusiveness of salvation through Christ, she points to is (280, cf. *[[~The Diary of a Country Priest|The Diary of a Country Priest]]* "Everything is grace" [[bib]])
+- Mary does not contest or endanger the exclusiveness of salvation through Christ, she points to is (280, cf. *[[2017-06-01-The Diary of a Country Priest|The Diary of a Country Priest]]* "Everything is grace" [[bib]])
 
 **2. "Suffered under Pontus Pilate, was crucified, died, and was buried"**
 - *Righteousness and grace*

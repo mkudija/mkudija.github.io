@@ -10,11 +10,11 @@ publish_date: 2003
 isbn10: 0268158053
 isbn13: 9780268158057
 ---
-# *[Modern Physics and Ancient Faith]()* by [[Stephen M. Barr]]
+# *[Modern Physics and Ancient Faith](https://undpress.nd.edu/9780268021986/modern-physics-and-ancient-faith/)* by [[Stephen M. Barr]]
 
-<img src="https://books.google.com/books/content?id=A1cFDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://notredamepress-us.imgix.net/covers/9780268021986.jpg?auto=format&w=298&dpr=2&q=20" width=150>
 
-`(New York: University of Notre Dame Pess, 2003), 328`
+`(South Bend: University of Notre Dame Pess, 2003), 328`
 
 
 # Part I: The Conflict between Religion and [[Materialism]] (Introduction)
@@ -39,7 +39,7 @@ isbn13: 9780268158057
 
 He concludes this chapter with two great anecdotes about intellectual discovery:
 - "[[G.K. Chesterton]] (in *[[2014-10-06-Orthodoxy|Orthodoxy]]*) once compared his own intellectual development to the voyage of an English yachtsman 'who slightly miscalculated his course and discovered England under the impression that is was a new island in the South Seas.' The Yachtsman of his story 'landed (armed to the teeth and talking by signs) to plant the British flag on that barbaric temple which turned out to be the Pavilion at Brighton.'" (28)
-- "We shall not cease from exploration and the end of all our exploring will be to arrive where we started and know the place for the first time." - [[T. S. Eliot]], *[[~Four Quartets|Four Quartets]], *"Little Gidding"
+- "We shall not cease from exploration and the end of all our exploring will be to arrive where we started and know the place for the first time." - [[T. S. Eliot]], *[[~Four Quartets|Four Quartets]]*, "Little Gidding"
 
 # Part II: In the Beginning
 ## Chapter 4: The Expectations
@@ -165,5 +165,5 @@ He concludes this chapter with two great anecdotes about intellectual discovery:
 
 ---
 Created: 2018-02-19
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

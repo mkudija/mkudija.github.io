@@ -105,7 +105,7 @@ Chesterton's style is incomparable: so playful, so full of common sense, always 
 
 
 ## Chapter 7: The Eternal Revolution
-- "First, that some faith in our life is required even to improve it; second, that some dissatisfaction with things as they are is necessary even in order to be satisfied; third, that to have this necessary content and necessary discontent it is not sufficient to have the obvious equilibrium of the [[Stoic]]." (307)
+- "First, that some faith in our life is required even to improve it; second, that some dissatisfaction with things as they are is necessary even in order to be satisfied; third, that to have this necessary content and necessary discontent it is not sufficient to have the obvious equilibrium of the [[Stoicism|stoic]]." (307)
 - "Inequality, as much as equality, implies a standard of value." (308)
 - [[Nietzsche]] is a timid thinker for only putting his thought in metaphor: "Had he faced his thought without metaphors, he would have seen that it was nonsense." (309)
 - "We have said we must be fond of this world, even in order to change it. We now add that we must be fond of another world (real or imaginary) in order to have something to change it to." (310)

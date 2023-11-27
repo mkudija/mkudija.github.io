@@ -19,7 +19,73 @@ finished:
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/151/414/BBOP_r__22583.1617023037.jpg?c=1" width=150>
 
-`(New York: Ignatius Press, 2018), 170`
+`(San Francisco: Ignatius Press, 2018), 170`
+
+# Notes
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+<!-- /MarkdownTOC -->
+</details>
+
+
+## Foreword
+*by [[Rod Dreher]]*
+
+## Chapter 1: Accidental Stylites
+_**Summary**: _
+
+
+
+## Chapter 2: Enemies of the Benedict Option
+_**Summary**: _
+
+
+
+## Chapter 3: The Beginning of My Benedict Option
+_**Summary**: _
+
+
+
+## Chapter 4: The Little Way of Hospitality
+_**Summary**: _
+
+
+
+## Chapter 5: "Go and Do Likewise" (A Cheat Sheet of Events)
+_**Summary**: _
+
+
+
+## Chapter 6: Doing Together What You Do Alone
+_**Summary**: _
+
+
+
+## Chapter 7: Doing Publicly What You Do Privately
+_**Summary**: _
+
+
+
+## Chapter 8: Home as a Center of Gravity
+_**Summary**: _
+
+
+
+## Chapter 9: Welcoming the Stranger
+_**Summary**: _
+
+
+
+## Chapter 10: "She Looks Well to the Ways of Her Household" (A Cheat Sheet of Logistics)
+_**Summary**: _
+
+
+
+## Chapter 11: Returning to God
+_**Summary**: _
 
 
 

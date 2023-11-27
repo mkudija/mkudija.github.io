@@ -1,5 +1,25 @@
+---
+aliases: [A Man for All Seasons]
+title: A Man for All Seasons
+author: Robert Bolt
+category: Drama
+publisher: Vintage
+total_page: 194
+publish_date: 1990-04-14
+isbn10: 0679728228
+isbn13: 9780679728221
+source: 
+wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
+acquired: 
+started: 
+finished: 
+---
+# *[A Man for All Seasons]()* by [[Robert Bolt]]
 
-# *A Man For All Seasons* by Robert Bolt
+<img src="http://books.google.com/books/content?id=P9n_qykHLMIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(New York: Vintage, 1990), 194`
+
 
 - [[St. Thomas More]]: "I believe, when statesmen forsake their own private conscience for the sake of their public duties...they lead their country by a short route to chaos" (22).
 - Thomas More: "We must just pray that when your head's finished turning, your face is to the front again" (31).
@@ -10,5 +30,5 @@
 
 ---
 Created: 2010-06-02
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

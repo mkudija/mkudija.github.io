@@ -14,7 +14,7 @@ acquired: true
 started: 
 finished: 
 ---
-# *[The Way]()* by [[Josemaria Escriva]]
+# *[The Way]()* by [[St. Josemaría Escrivá]]
 
 <img src="http://books.google.com/books/content?id=4d611QImAL0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

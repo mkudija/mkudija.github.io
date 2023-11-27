@@ -13,7 +13,7 @@ source:
 wishlist: 2023-09-27
 acquired: 2023-11-15
 started: 2023-11-15
-finished:
+finished: 2023-11-25
 ---
 # *[Why Flying Is Miserable](https://tertulia.com/book/why-flying-is-miserable-and-how-to-fix-it-ganesh-sitaraman/9798987053584?affiliate_id=atl-347)* by [[Ganesh Sitaraman]]
 

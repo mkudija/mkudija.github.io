@@ -23,7 +23,7 @@ finished:
 
 
 --- 
-**Topic**: 
+**Topic**: Moral [[Education]]
 
 **Source**
 - [[2023 CIY]] Day 253 (story about medal of honor winner who checked that book out from the library)

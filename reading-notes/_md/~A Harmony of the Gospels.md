@@ -26,7 +26,7 @@ dimensions:
 
 
 --- 
-**Topic**: [[The Bible]]
+**Topic**: [[The Bible]], [[Parallel Texts of the Bible]]
 
 **Source**
 - [[UA Library]]

@@ -460,7 +460,63 @@ SELECT m AS calendar_month
 FROM UNNEST(GENERATE_DATE_ARRAY('2023-01-01', CURRENT_DATE(), INTERVAL 1 MONTH)) AS m
 ```
 
+### Z-score Anomaly Detection 
+*ref: [Simple Anomaly Detection Using Plain SQL | Haki Benita](https://hakibenita.com/sql-anomaly-detection)*
 
+```SQL
+WITH data AS (
+    SELECT
+    DATE(entry_creation_time) AS event_date
+    , dim1
+    , dim2
+    , value
+  FROM table
+  GROUP BY 1,2,3
+)
+
+, averages AS (
+  SELECT 
+    *
+    , ROUND(AVG(value) OVER (PARTITION BY dim1, dim2 ORDER BY event_date ROWS BETWEEN 21 PRECEDING AND 1 PRECEDING)) AS value_avg
+    , ROUND(STDDEV(value) OVER (PARTITION BY dim1, dim2 ORDER BY event_date ROWS BETWEEN 21 PRECEDING AND 1 PRECEDING),3) AS value_std
+  FROM data
+)
+
+, thresholds AS (
+  SELECT
+    3.0 AS z_thresh -- zscore anomaly threshold 
+)
+
+, zscores AS (
+  SELECT 
+    *
+    , (value - value_avg) / NULLIF(value_std, 0) as value_zscore
+    , (exercise_count - count_avg) / NULLIF(count_std, 0) as count_zscore
+    , (cpe - cpe_avg) / NULLIF(cpe_std, 0) as cpe_zscore
+    , (SELECT z_thresh FROM thresholds) AS z_thresh
+  FROM averages
+)
+
+, bounds AS (
+  SELECT 
+    *
+    , value_avg + value_std * z_thresh AS value_bound_upper
+    , value_avg - value_std * z_thresh AS value_bound_lower
+  FROM zscores
+)
+
+, anomalies AS (
+  SELECT 
+    *
+    , CASE WHEN value_zscore < -z_thresh OR value_zscore > z_thresh THEN 1 ELSE 0 END AS value_anomaly
+  FROM bounds
+)
+
+SELECT *
+FROM anomalies
+WHERE event_date BETWEEN DATE_ADD(CURRENT_DATE(), INTERVAL -120 DAY) AND CURRENT_DATE()
+ORDER BY 1 DESC,2,3
+```
 ## Resources
 - [SQLBolt - Learn SQL](https://sqlbolt.com/)
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)

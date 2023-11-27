@@ -20,7 +20,7 @@ finished: []
 
 - *[[~Laurus|Laurus]]* has the power to excite in us a longing to live a life of complete surrender to God 
 - *[[~That Hideous Strength|That Hideous Strength]]*
-- *[[~The Diary of a Country Priest|The Diary of a Country Priest]]*: "the pat the spiritual heroism is surrender of the whole self" (140)
+- *[[2017-06-01-The Diary of a Country Priest|The Diary of a Country Priest]]*: "the pat the spiritual heroism is surrender of the whole self" (140)
 - *[[~The Complete Stories|The Complete Stories]]* shows us the importance of suffering 
 	- [[Flannery O'Connor]] is "the only great Christian writer that America has ever produced" (163)
 - [[Léon Bloy]]: "The only real sadness, the only real failure, the only great tragedy in life, is not to become a saint." (164)

@@ -12,7 +12,7 @@ isbn13: 9780964844896
 started: 
 finished: 
 ---
-# *[The History of Eucharistic Adoration]()* by [[John A. Hardon, S.J.]]
+# *[The History of Eucharistic Adoration]()* by [[Fr. John Hardon]]
 
 <img src="http://books.google.com/books/content?id=eTyVNYbQ09YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
@@ -38,4 +38,4 @@ finished:
 
 ---
 Created: [[2022-12-16-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -23,6 +23,7 @@ isbn13: 9780857197696
 
 **Source**
 - [[Sam Ginikos]] [[2022-07-15-Fri]]
+- [[Dad]] [[2023-11-24-Fri]]
 
 
 **Bibliography**
@@ -35,4 +36,4 @@ isbn13: 9780857197696
 
 ---
 Created: [[2022-07-16-Sat]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

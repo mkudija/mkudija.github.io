@@ -15,6 +15,11 @@ publish: true
 =SUM(SUMIFS(data!$A:$A,data!$T:$T,{"C","N","B"}))
 ```
 
+### Quarter of Year
+```xls
+=ROUNDUP(MONTH(B2)/3,0)
+```
+
 ---
 Created: [[2022-07-13-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

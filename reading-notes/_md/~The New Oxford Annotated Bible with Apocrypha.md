@@ -39,6 +39,9 @@ dimensions: 7x9.375x2
 - "O Israelite children, offspring of the seed of Abraham, obey this law and exercise piety in every way, knowing that devout reason is master of all emotions, not only of sufferings from within, but also of those from without." (4 Mc 18:1-2)
 - 4 Mc 18:14 quotes [[Is-43#v2]]: "when you walk through fire you shall not be burned, and the flame shall not consume you."
 
+## Essays
+- "The oldest fragment of a text containing verses now in the Bible is a silver amulet dating to the sixth century BC from a burial cave at Ketef Hinnom outside Jerusalem, which contains a version of the priestly blessing from [[Nm-06#v24]]." (2247)
+- 
 
 ### [[Parallel Texts of the Bible|Parallel Texts]] 
 *pg 2320*
@@ -64,4 +67,4 @@ dimensions: 7x9.375x2
 
 ---
 Created: [[2022-10-28-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
