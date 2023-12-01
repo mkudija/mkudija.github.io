@@ -26,6 +26,7 @@ dimensions: 4.625x6.75x1.9375
 - Saw for $10.52
 - dimensions are just about perfect for a lectionary Bible 
 - 6 pt type 
+- fits in the pocket of my work bag
 
 --- 
 **Topic**: 

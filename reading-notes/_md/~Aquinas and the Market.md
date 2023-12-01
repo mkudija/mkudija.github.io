@@ -5,16 +5,27 @@ author: Mary L. Hirschfeld
 category: Business & Economics
 publisher: Harvard University Press
 total_page: 270
-cover_url: https://books.google.com/books/content?id=WZpyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-publish_date: 2018
+publish_date: 2018-11-26
 isbn10: 0674988604
 isbn13: 9780674988606
+source: 
+wishlist: 
+acquired: 
+started: 
+finished: 
 ---
 # [*Aquinas and the Market*](https://www.hup.harvard.edu/catalog.php?isbn=9780674986404) by [[Mary Hirschfeld]]
 
 <img src="https://www.hup.harvard.edu/images/jackets/9780674986404.jpg" width=150>
 
 `(Cambridge: Harvard, 2018), 288`
+
+
+other
+- see [christianeconomists.org/wp-content/uploads/2018/02/2017-Fall-Hirschfeld.pdf](https://christianeconomists.org/wp-content/uploads/2018/02/2017-Fall-Hirschfeld.pdf), which tells how *[[2020-11-18-After Virtue|After Virtue]]* helped shape her thinking 
+## Preface 
+*read [[2023-11-26-Sun]]*
+- 
 
 
 --- 
@@ -34,4 +45,4 @@ isbn13: 9780674988606
 
 ---
 Created: [[2022-03-14-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

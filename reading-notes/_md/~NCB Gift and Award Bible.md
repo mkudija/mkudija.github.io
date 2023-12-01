@@ -23,6 +23,8 @@ dimensions: 5.875x8.875x1.25
 `(New Jersey: Catholic Book Publishing Corp, 2022-06-15)`
 
 - [[Progress & History]] on [[Col-01#15]]-20: "Hence, for the Christian, history has a movement and a meaning: it is oriented toward Christ, directed by him, and consummated in him." (1448)
+- [[Phil-03#v10]]: one case where the NCB is better than the RSV/ESV: 
+	- "All I want is to come to know Christ and the power of his resurrection and to share in his sufferings by becoming conformed to his death." 
 
 --- 
 **Topic**: [[The Bible]]

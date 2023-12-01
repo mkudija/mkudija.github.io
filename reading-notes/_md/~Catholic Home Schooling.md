@@ -10,6 +10,9 @@ isbn10: 160704160X
 isbn13: 9781607041603
 started: 
 finished: 
+loaned_to: Nai Young (JPII)
+loaned: 2023-11-30
+returned: 
 ---
 # *[Catholic Home Schooling: A Handbook for Parents](https://setonbooks.com/parent-resources/520-catholic-home-schooling.html)* by [[Mary Kay Clark]]
 
