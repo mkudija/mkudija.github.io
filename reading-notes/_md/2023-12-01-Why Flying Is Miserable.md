@@ -111,26 +111,26 @@ finished: 2023-11-25
 		- If airlines need public support in downturns, the public should benefit from profitable years as well (or price at system cost if not chartered to make a profit)
 		- Creates a single, unified system to benefit from network effects and economies of scale 
 		- Cross-subsidize routes to small and rural airports
-	- *Drawbacks*
+	- *Drawbacks*:
 		- Declining service quality from lack of competition 
 - **Regulated Monopoly** (single privately-capitalized public utility with contract structure)
 	- *Benefits:* 
 		- Creates a single, unified system to benefit from network effects and economies of scale 
 		- Cross-subsidize routes to small and rural airports (government contract specifies pricing)
 		- Would not need to compete on service quality (like piano bars under CAB)
-	- *Drawbacks*
+	- *Drawbacks*:
 		- Government would need to the administrative apparatus to monitor the airline
 		- Declining service quality from lack of competition 
  - **Public Option** (national carrier operates alongside private carrier with identical terms of service)
 	- *Benefits:* 
 		- Maximize benefits from network effects and economies of scale while preserving competition
 		- Superior to private duopoly because public carrier is not incentivized to collude with the private carrier on price or service 
-	- *Drawbacks*
+	- *Drawbacks*:
 		- Unlikely to succeed unless both were required to serve all locations (otherwise private option would be incentivized to cream-skim)
 - **Regulated Competition**
 	- *Benefits:* 
 		- Less of a structural shift than the options presented above
-	- *Drawbacks*
+	- *Drawbacks*:
 		- Does not solve structural problems; opportunities for whack-a-mole; difficult to implement rules effectively 
 - **Regulated Competition** Ideas
 	- Ensure geographic access with a **"Regional Conference System"** where major carriers serve long routes, and monopoly regional carriers connect smaller cities within their regions with cost plus pricing; or a **"Draft-Pick System"** where monopoly license to smaller routes are awarded periodically via a draft 

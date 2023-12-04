@@ -13,7 +13,7 @@ isbn13: 9781645853503
 source: 
 wishlist: 2023-11-08
 acquired: 2023-11-10
-started: 
+started: 2023-12-02
 finished:
 ---
 # *[Breaking the Bread: A Biblical Devotional for Catholics Year B]()* by [[Scott Hahn, Ken Ogorek]]

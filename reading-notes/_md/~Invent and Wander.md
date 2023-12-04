@@ -20,10 +20,83 @@ finished:
 
 `(New York: Harvard Business Press, 2020-11-17), 288`
 
+# Part 1: [[Amazon Shareholder Letters]]
 
+## (1997)
+
+
+## (1998)
+
+
+## (1999)
+
+
+## (2000)
+
+
+## (2001)
+
+
+## (2002)
+
+
+## (2003)
+
+
+## (2004)
+
+
+## Making Decisions (2005)
+*from [[Matt B]] [[2023-12-01-Fri#Matt B Coffee]]*
+- 
+
+
+## (2006)
+
+
+## (2007)
+
+
+## (2008)
+
+
+## (2009)
+
+
+## (2010)
+
+
+## (2011)
+
+
+## (2012)
+
+
+## (2013)
+
+
+## (2014)
+
+
+## (2015)
+
+
+## (2016)
+
+
+## (2017)
+
+
+## (2018)
+
+
+## (2019)
+
+
+- 
 
 --- 
-**Topic**: 
+**Topic**: [[Amazon]], [[Management]]
 
 **Source**
 - [[2023-06-10 Founders 282 Jeff Bezos Shareholder Letters|Founders 282 Jeff Bezos Shareholder Letters]]
