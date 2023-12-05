@@ -21,7 +21,7 @@ finished:
 
 `(New York: Marian Press - Association of Marian Helpers , 2020-02-06), 240`
 
-- [ ] 33 Days to Greater Glory for Lent with Jordan 📅 2023-02-01
+- [ ] 33 Days to Greater Glory for Lent with Jordan 📅 2024-02-01
 
 --- 
 **Topic**: 

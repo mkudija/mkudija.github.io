@@ -12,7 +12,7 @@ isbn13: 9780812928358
 source: 
 wishlist: 2023-10-03
 acquired: 2023-10-10
-started: 
+started: 2023-11-27
 finished:
 ---
 # *[Hard Landing]()* by [[Thomas Petzinger, Jr.]]

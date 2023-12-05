@@ -124,7 +124,7 @@ About Abraham's the sacrifice of Isaac in [[Gn-22]]:
 - Two value systems are competing for our allegiance: the Culture of Life and the Culture of Death (254)
 - What motivates arguments about abortion being wrong is simply this: *All human beings are equal in our essential dignity* (263)
 - To read to understand [[Abortion]]: *[[~In Necessity and Sorrow|In Necessity and Sorrow: Life and Death in an Abortion Hospital]]* (264)
-- "Abortion advocates know perfectly well that abortion is the taking of a huma nlife. There is no doubt. There is not doubt on that question. And that's the big divide, and those are the two cultures competing for your. And you have to choose." (265)
+- "Abortion advocates know perfectly well that abortion is the taking of a human life. There is no doubt. There is not doubt on that question. And that's the big divide, and those are the two cultures competing for your. And you have to choose." (265) ^4ec521
 
 
 --- 

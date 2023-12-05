@@ -167,7 +167,6 @@ _**Summary**: Joshua means "Yahweh saves", and we interpret Joshua as a type of 
 	1. Divine pedagogy: God is gradually revealing his nature and purpose ([[St. Irenaeus]])
 	2. Delegated divine justice: God is justified in brining about their death in any manner he chooses ([[St. Augustine|Augustine]] and [[St. Thomas Aquinas|Aquinas]])
 	3. Read this through the book of Revelation and the Lamb standing as though slain: when dealing with moral and spiritual evil, compromise and halfway measures are not called for ([[Origen]] of Alexandria—"the Church Father probably best acquainted with Scripture")
-		- [ ] read Origen of Alexandria? 📅 2023-11-02 
 - In [[Jos-24]] the choice is offered: serve God or serve false gods, but we shall answer with "as for me and my household, we will serve the Lord" ([[Jos-24#v15]])
 	- Either God receives our highest praise or something less than God does
 	- [[Bob Dylan]]: "It may be the devil or it may be the Lord / But you're gonna have to serve somebody"
@@ -262,10 +261,6 @@ _**Summary**: Maccabees shows the time between the second temple and Christ, wit
 - [[Mom]], Christmas 2022
 
 **Bibliography**
-
-```query
-[[bib]] file:(~The Story of Israel)
-```
  - [[Gerard Manley Hopkins]]
 	 - *[[God's Gradeaur]]* (4)
 	 - *[[Thou art indeed just, Lord]]* (122)

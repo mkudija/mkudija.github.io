@@ -12,7 +12,7 @@ isbn13: 9782291087304
 source: 
 wishlist: 2023-09-21
 acquired: 
-started: 2023-10-31
+started: 
 finished:
 ---
 # *[Father Brown (Complete Collection)]()* by [[G.K. Chesterton]]

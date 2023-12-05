@@ -26,7 +26,9 @@ finished:
 **Topic**: [[Management]]
 
 **Source**
-- [[Patrick Surry]] ([Slack](https://hopchat.slack.com/archives/G011SJTJ257/p1689175754372969), [Economist review](https://www.economist.com/business/2023/06/22/scaling-people-is-a-textbook-piece-of-management-writing))
+- [[Patrick Surry]] [[2023-07-12-Wed]] ([Slack](https://hopchat.slack.com/archives/G011SJTJ257/p1689175754372969), [Economist review](https://www.economist.com/business/2023/06/22/scaling-people-is-a-textbook-piece-of-management-writing))
+- [[Matt B]] [[2023-12-02-Sat]]
+
 
 **Bibliography**
 

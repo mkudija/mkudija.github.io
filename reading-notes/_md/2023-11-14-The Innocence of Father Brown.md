@@ -21,6 +21,8 @@ finished: 2023-11-14
 
 `(London: Saturday Evening Post, 1911), 268`
 
+*[[~Father Brown (Complete Collection)|Father Brown (Complete Collection)]]*
+
 **The Blue Cross**
 - The most incredible thing about [[miracles]] is that they happen. (2)
 - He was not "a thinking machine"; for that is a brainless phrase of modern fatalism and materialism. A machine only is a machine because it cannot think. But he was a thinking man, and a plain man at the same time. All his wonderful successes, that looked like conjuring (2)

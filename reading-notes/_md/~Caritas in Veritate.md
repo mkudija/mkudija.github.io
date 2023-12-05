@@ -1,6 +1,6 @@
 ---
 aliases: [Caritas in Veritate, Charity in Truth]
-title: Charity in Truth: Caritas in Veritate: Encyclical Letter
+title: Charity in Truth-Caritas in Veritate
 author: Pope Benedict XVI
 category: Religion
 publisher: USCCB

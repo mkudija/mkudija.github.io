@@ -1,7 +1,7 @@
 ---
-aliases: [Amoris Laetitia, The Joy of Love]
+aliases: [Amoris Laetitia-The Joy of Love]
 title: The Joy of Love
-author: Pope Francis, Catholic Church. Pope (2013- : Francis)
+author: Pope Francis
 category: Religion
 publisher: 
 total_page: 240
@@ -17,6 +17,8 @@ finished: []
 <img src="http://books.google.com/books/content?id=nywWwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: , 2016), 240`
+
+56. It needs to be emphasized that “biological sex and the socio-cultural role of sex (gender) can be distinguished but not separated”. (56, quoted by [[2023-12-04-Saint Mary’s Compromising its Identity as A Catholic Woman’s College]])
 
 --- 
 **Topic**: [[Apostolic Exhortation]]

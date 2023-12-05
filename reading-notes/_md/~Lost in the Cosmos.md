@@ -27,6 +27,7 @@ finished:
 
 **Source**
 - *[[2023-11-26-The Appalling Strangeness of the Mercy of God|The Appalling Strangeness of the Mercy of God]]*
+- [[Dan Loesing]] [[2023-12-02-Sat]] when discussing *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]*
 
 **Bibliography**
 

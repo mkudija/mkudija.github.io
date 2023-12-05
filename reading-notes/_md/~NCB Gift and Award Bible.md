@@ -25,6 +25,9 @@ dimensions: 5.875x8.875x1.25
 - [[Progress & History]] on [[Col-01#15]]-20: "Hence, for the Christian, history has a movement and a meaning: it is oriented toward Christ, directed by him, and consummated in him." (1448)
 - [[Phil-03#v10]]: one case where the NCB is better than the RSV/ESV: 
 	- "All I want is to come to know Christ and the power of his resurrection and to share in his sufferings by becoming conformed to his death." 
+- [[1 Jn-03#v11]]-24: "There are two attitudes toward life—hate and love, murder and the offering of one's life." (1521)
+	- We have a choice (cf. [[John Paul II]]'s "you must decide" *[[2021-07-20-Witness to Hope#^5a5335]]* and *[[2023-11-26-The Appalling Strangeness of the Mercy of God#^4ec521]]*)
+- 
 
 --- 
 **Topic**: [[The Bible]]
