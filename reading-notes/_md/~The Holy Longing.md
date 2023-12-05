@@ -20,6 +20,12 @@ finished:
 
 `(New York: Image, 2014-03-11), 304`
 
+```
+Notes from 2014-05-25
+Removed from public notes page 2023-12-05 due to Google search traffic
+```
+
+
 <div class="info"> <p>These notes from many years ago are preserved, but a richer presentation of Christian spirituality drawn from the Doctors of the Church can be found in <strong><em><a href="https://matthewkudija.com/reading-notes/2022-12-30-The-Fulfillment-of-All-Desire.html" target="_blank">The Fulfillment of All Desire</a></em></strong> by Ralph Martin.</p> </div> 
 
 

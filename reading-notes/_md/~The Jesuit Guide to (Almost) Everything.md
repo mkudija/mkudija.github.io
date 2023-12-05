@@ -1,6 +1,11 @@
 
 # *The Jesuit Guide to (Almost) Everything* by [[Fr. James Martin, SJ]]
 
+```
+Notes from 2013-10-21
+Removed from public notes page 2023-12-05 due to Google search traffic
+```
+
 ## Chapter 1 - A Way of Proceeding
 * Basics of Ignatian Spirituality:
     * Finding God in all things
