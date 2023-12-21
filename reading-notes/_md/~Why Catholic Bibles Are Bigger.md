@@ -1,5 +1,6 @@
 ---
-aliases: [Why Catholic Bibles Are Bigger]
+aliases:
+  - Why Catholic Bibles Are Bigger
 title: Why Catholic Bibles Are Bigger
 author: Gary Michuta
 category: Religion
@@ -10,8 +11,9 @@ publish_date: 2017-09-15
 isbn10: 1683570510
 isbn13: 9781683570516
 wishlist: 2022-12-13
-started: 
-finished: 
+acquired: 2023-12-13
+started: 2023-12-17
+finished:
 ---
 # *[Why Catholic Bibles Are Bigger]()* by [[Gary Michuta]]
 
@@ -20,7 +22,6 @@ finished:
 `(New York: Catholic Answers Press, 2017-09-15), 383`
 
 --- 
-#wishlist
 **Topic**: [[Bible Translations]], [[Deuterocanonical Books]]
 
 **Source**
@@ -40,4 +41,4 @@ finished:
 
 ---
 Created: [[2022-12-13-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

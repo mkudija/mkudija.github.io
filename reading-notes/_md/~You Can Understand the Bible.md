@@ -1,5 +1,6 @@
 ---
-aliases: [You Can Understand the Bible]
+aliases:
+  - You Can Understand the Bible
 title: You Can Understand the Bible
 author: Peter Kreeft
 category: Religion
@@ -10,7 +11,7 @@ publish_date: 2005
 isbn10: 1586170457
 isbn13: 9781586170455
 started: 2023-01-05
-finished: 
+finished: 2023-12-17
 ---
 # *[You Can Understand the Bible](https://ignatius.com/you-can-understand-the-bible-ycubp/)* by [[Peter Kreeft]]
 

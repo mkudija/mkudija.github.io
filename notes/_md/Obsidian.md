@@ -10,21 +10,8 @@ publish: true
 
 I started using Obsidian in early 2021—my first daily note is [[2021-02-16-Tue]].
 
-## Hotkeys
-- `⌘+Enter` - check off list
-- `⌘+⇧+Enter` = `Command+Shift+Enter` = Tasks: Create or Edit Task
-- `⌥+⌘+Enter` = `Option+Command+Enter` = Open Link in new pane
-- `⌥+Enter` = `Option+Enter` = Open Link in existing pane pane
-- `⌘⇧F` - search all notes ([search docs](https://help.obsidian.md/Plugins/Search))
-- `⇧⌃H` - toggle left sidebar
-- `⇧⌃L` - toggle right sidebar
-- `⌘ + +/-` - zoom in/out
-- `⌥⌘+I` = `Option+Command+I` = Open inspector (for CSS, etc.)
-- `F2` - select file title
-- [Santi Younger's hotkeys](https://santiyounger.com/obsidian-shortcuts/)
-- `⌃ + ⇥ = ctrl + tab` - cycle tabs forward
-- `⌃ + ⇧ + ⇥ = ctrl + shift + tab` - cycle tabs reverse
-- `⌘+-/0` - zoom in/out
+## ![[Shortcuts#Obsidian]]
+
 
 ## Syntax
 - `[[Link]]` to link to a note

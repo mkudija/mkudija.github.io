@@ -1,5 +1,7 @@
 ---
-aliases: [Catholic Commentary on Sacred Scripture]
+aliases:
+  - Catholic Commentary on Sacred Scripture
+  - CCSS
 title: Catholic Commentary on Sacred Scripture New Testament Set
 author: 
 category: Religion
@@ -13,8 +15,7 @@ source:
 wishlist: 2023-01-16
 acquired: 2023-08-09
 started: 
-finished: 
-
+finished:
 ---
 # *[Catholic Commentary on Sacred Scripture]()* by [[]]
 

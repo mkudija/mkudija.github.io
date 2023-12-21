@@ -9,6 +9,9 @@ cover_url: http://books.google.com/books/content?id=g5ijdEJLho0C&printsec=frontc
 publish_date: 2001
 isbn10: 157455428X
 isbn13: 9781574554281
+source: 
+wishlist:
+acquired: 2023-12-10
 started: 2022-11-15
 finished: 2022-11-15
 ---
@@ -56,7 +59,7 @@ Notes
  - "The *[[Bible Translations#Nova Vulgata Editio|Nova Vulgata Editio]]* is the point of reference as regards the delineation of the canonical text" (37)
  - "Thus, in the translation of the [[deuterocanonical books]] and wherever else there may exist varying manuscript traditions, the liturgical translation must be prepared in accordance with the same manuscript tradition that the _Nova Vulgata_ has followed." (37)
  - In preparing new translations, it would be helpful, though not obligatory, that the numbering of the verses also follow that of the same text as closely as possible. (37)
-	 - → For reference, the *Nova Vulgata* places 1 and 2 Maccabees at the end of the Old Testament ([index](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_vetus-testamentum_lt.html)) rather than at the end of the Historical books (between Esther and Job) like [[~The Great Adventure Catholic Bible|The Great Adventure Bible]] and [[Scott Hahn]] (cf [[2023-02-06 How to Be Holy Hahn Fradd#^9468e2|How to Be Holy Hahn Fradd]] do
+	 - → For reference, the *Nova Vulgata* places 1 and 2 Maccabees at the end of the Old Testament ([index](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_vetus-testamentum_lt.html)) rather than at the end of the Historical books (between Esther and Job) like [[~The Great Adventure Catholic Bible|The Great Adventure Bible]] and [[Scott Hahn]] (cf [[2023-02-06 How to Be Holy Hahn Fradd#^9468e2|How to Be Holy Hahn Fradd]])
  - Scripture is not just historical, but applies now: "one should strive, whenever there is a choice to be made between different ways of translating a term, to make those choices that will enable the hearer to recognize himself and the dimensions of his own life as vividly as possible in the persons and events found in the text." (42)
  - Literal translation can keep us from becoming complacent: "It should be borne in mind that a literal translation of terms which may initially sound odd in a vernacular language may for this very reason provoke inquisitiveness in the hearer and provide an occasion for catechesis." (43)
 
@@ -106,7 +109,9 @@ Notes
 --- 
 **Topic**: [[Vatican II]], [[Bible Translations]]
 
-**Source**: [Ignatius Bible (RSV), 2nd Edition](https://ignatius.com/ignatius-bible-rsv-2nd-edition-leather-ibl2p/)
+**Source**: 
+* *[Ignatius Bible (RSV), 2nd Edition](https://ignatius.com/ignatius-bible-rsv-2nd-edition-leather-ibl2p/)
+* [[St. Pat's KoC Book Sale]] 2023
 
 **Bibliography**
 
@@ -117,4 +122,4 @@ Notes
 
 ---
 Created: [[2022-10-28-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

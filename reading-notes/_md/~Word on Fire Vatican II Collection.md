@@ -8,6 +8,8 @@ total_page:
 publish_date: 2021-02-09
 isbn10: 194324393X
 isbn13: 9781943243938
+wishlist: 2023-01-24
+acquired: 2023-12-13
 started: 
 finished: 
 ---
@@ -18,11 +20,11 @@ finished:
 `(New York: , 2021-02-09), `
 
 --- 
-#wishlist
 **Topic**: [[Vatican II]]
 
 **Source**
 - [[Bishop Barron]] email
+- [[Madj]] Birthday 2023
 
 
 **Bibliography**
@@ -38,4 +40,4 @@ finished:
 
 ---
 Created: [[2023-01-24-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

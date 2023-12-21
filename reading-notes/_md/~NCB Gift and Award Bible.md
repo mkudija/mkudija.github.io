@@ -1,5 +1,6 @@
 ---
-aliases: [NCB Gift and Award Bible]
+aliases:
+  - NCB Gift and Award Bible
 title: NCB Gift and Award Bible
 author: 
 category: 
@@ -11,8 +12,8 @@ isbn13: 9781953152756
 source: 
 wishlist: 
 acquired: 2023-07-15
-started: 
-finished: 
+started: 2023-07-17
+finished: 2023-12-17
 translation: New Catholic Bible
 dimensions: 5.875x8.875x1.25
 ---
@@ -27,7 +28,19 @@ dimensions: 5.875x8.875x1.25
 	- "All I want is to come to know Christ and the power of his resurrection and to share in his sufferings by becoming conformed to his death." 
 - [[1 Jn-03#v11]]-24: "There are two attitudes toward life—hate and love, murder and the offering of one's life." (1521)
 	- We have a choice (cf. [[John Paul II]]'s "you must decide" *[[2021-07-20-Witness to Hope#^5a5335]]* and *[[2023-11-26-The Appalling Strangeness of the Mercy of God#^4ec521]]*)
-- 
+- Paul's Letters in Chronological Order (1371)
+	- [[1 Thessalonians]] and [[2 Thessalonians]]
+	- [[1 Corinthians]] and [[2 Corinthians]]
+	- [[Philippians]]
+	- [[Galatians]]
+	- [[Romans]]
+	- [[Colossians]]
+	- [[Philemon]]
+	- [[Ephesians]]
+	- [[1 Timothy]] and [[2 Timothy]]
+	- [[Titus]]
+	- [[Hebrews]]
+
 
 --- 
 **Topic**: [[The Bible]]

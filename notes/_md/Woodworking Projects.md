@@ -18,6 +18,11 @@ publish: true
 # [[Woodworking]] Projects
 
 
+### 2023-12-10 Manger
+*Ambrosia maple, fir*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-12-10-manger.jpg?raw=true" width="100%">
+
 
 ### [[Build Log-Entryway Hooks|2023-11-07 Entryway Hooks]]
 

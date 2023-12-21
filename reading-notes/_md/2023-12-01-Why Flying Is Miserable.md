@@ -150,7 +150,7 @@ finished: 2023-11-25
 - [[2023-09-27 Airlines Are Just Banks Now]]
 
 **Further Reading**
-- *[[~Hard Landing|Hard Landing]]*
+- *[[2023-12-20-Hard Landing|Hard Landing]]*
 - *[[~Rapid Descent|Rapid Descent]]*
 
 ---

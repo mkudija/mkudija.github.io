@@ -27,7 +27,7 @@ finished:
 **Topic**: [[The Bible]]
 
 **Source**
-- Cambridge University Press email
+- Cambridge Bibles ([email](https://mail.google.com/mail/u/1/#inbox/FMfcgzGwHxtkbfgWfRRLbcCcvtkqmVCS)) [[2023-12-04-Mon]]
 
 **Bibliography**
 

@@ -1,5 +1,7 @@
 ---
-aliases: [Pitt Minion, ESV Pitt Minion Reference Bible - Black Imitation Leather - ES442:X]
+aliases:
+  - Pitt Minion
+  - ESV Pitt Minion Reference Bible - Black Imitation Leather - ES442:X
 title: ESV Pitt Minion Reference Bible - Black Imitation Leather - ES442:X
 author: 
 category: Bibles
@@ -10,13 +12,13 @@ isbn10: 1107629187
 isbn13: 9781107629189
 source: 
 wishlist: 2023-11-25
-acquired: 
+acquired: 2023-11-25
 started: 
 finished: 
 translation: English Standard Version
 dimensions: 5.125x7.375x.875
 ---
-# *[ESV Pitt Minion Reference Bible, Black Imitation Leather, ES442:X]()* by [[]]
+# *[ESV Pitt Minion Reference Bible, Black Imitation Leather, ES442:X]()* 
 
 <img src="http://books.google.com/books/content?id=6VP0ugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
