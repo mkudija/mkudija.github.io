@@ -21,7 +21,7 @@
 - Both our prayer lives and our decluttering efforts need us to focus and to discipline our minds and wills to resist distraction
 - We live in a world that promotes individualism and we need to focus on the greater interconnected world 
 - Our culture emphasizes constant buying. 
-- Pope Francis has called attention to this throwaway culture. In a throwaway culture, utility is the only value. 
+- [[Pope Francis]] has called attention to this throwaway culture. In a throwaway culture, utility is the only value. 
 - The extra cost in your closet belongs to the poor.
 - The Rule of St. Benedict - goal is sufficiency not excess 
 - We should choose to be grateful for what we have and not always seeking more 

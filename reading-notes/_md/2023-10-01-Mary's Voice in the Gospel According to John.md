@@ -23,6 +23,11 @@ author_note: https://mail.google.com/mail/u/1/#inbox/KtbxLthZglKQPBDHsmKDJLdvBQf
 
 `(New York: Simon and Schuster, 2021), 354`
 
+<div class="note"> <p><strong>Recall</strong>: The progression of the Greek Jn 1:1 speaks of the Word as distinct from the Father but identical in nature:
+<br>–The Word was.
+<br>–The Word was <em>with God</em>.
+<br>–The Word was <em>God</em>.</p> </div> 
+
 Pakaluk says in his notes on the translation that the main value in a new translation is that it makes the Gospel fresh to us, as if we are hearing it for the first time. This is most certainly the case for Pakaluk's translation. Just one example is his rendering of John 1:38 as "But Jesus turns in his tracks and takes a look at them"...I can't get this image out of my mind! His commentary is healthily informed by his thesis that Mary gently influenced John's Gospel, but not at the expense of much commentary from [[St. Thomas Aquinas|Aquinas]] and [[John Henry Newman|Newman]] and it is not overdone. It is a translation made through the eyes in faith with reverence for our Lord and his first disciples.
 
 I appreciate the ways in which Pakaluk's commentary causes one to consider God's providence in how these stories were remembered and passed down to us. How lucky we are that the Lord allowed Mary to remain with the apostle's after his death and resurrection to pass on her reflections on his life. How painful that must have been for her to be separated from her Son, and yet how much more glorious her heavenly crowning must have been as a result and powerful her intercession for us.

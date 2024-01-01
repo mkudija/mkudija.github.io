@@ -18,7 +18,7 @@ finished:
 
 <img src="https://cdn.shopify.com/s/files/1/0005/3195/5769/products/SocratesChildrenBoxDeepLeft.png?v=1677180788&width=2048" width=150>
 
-`(?: Word on Fire, 2023), 1072`
+`(Elk Grove Village: Word on Fire, 2023), 1072`
 
 ## *[[2023-06-11-Socrates' Children—Ancient Philosophers (Vol. 1)|Ancient Philosophers (Vol. 1)]]*
 

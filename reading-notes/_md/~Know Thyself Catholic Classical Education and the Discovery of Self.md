@@ -12,7 +12,7 @@ isbn10: 1685789870
 isbn13: 9781685789879
 source: 
 wishlist: 2023-10-28
-acquired: 
+acquired: 2023-12-23
 started: 
 finished:
 ---
@@ -35,6 +35,8 @@ finished:
 **Source**
 - Word on Fire email 
 - [[2023-11-03-Fri#Lunch with Dale Ahlquist]]
+- [[2023-12-23-Sat]] from the Society of G.K. Chesterton 
+
 
 **Bibliography**
 

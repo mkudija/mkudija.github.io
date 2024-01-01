@@ -1,5 +1,5 @@
 ---
-aliases: [The Pentateuch, Navarre Bible—The Pentateuch]
+aliases: [Navarre Bible—The Pentateuch]
 title: The Pentateuch
 author: 
 category: Bibles
@@ -22,7 +22,7 @@ dimensions: 6.25x9x1.75
 `(New York: Scepter Publishers, 1999), 844`
 
 --- 
-**Topic**: [[The Bible]]
+**Topic**: [[The Bible]], [[The Pentateuch]]
 
 **Source**
 - [[St. Pat's KoC Book Sale]] 2021
@@ -41,5 +41,5 @@ dimensions: 6.25x9x1.75
 
 ---
 Created: [[2022-12-16-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

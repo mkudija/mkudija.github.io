@@ -26,7 +26,7 @@ finished:
 **Topic**: 
 
 **Source**
-- [[Becca]] [[2023-04-17-Mon]]
+- [[Becca]] [[2023-04-17-Mon]], [[2023-12-26-Tue]]; two Jewish boys in New York, historic vs not conflict and father son relationship
 
 **Bibliography**
 

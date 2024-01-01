@@ -1221,11 +1221,14 @@ cf [[Progress & History]]
 
 **Book XVIII, Chapter 35**: 
 
-**Book XVIII, Chapter 36**: 
+**Book XVIII, Chapter 36**: Esdras and the Books of the Maccabees
+- "The reckoning of their dates is not to be found in the sacred writings which are called 'canonical', but in other documents, which include the books of the Maccabees. These are regarded as canonical by the Church (though not by the Jews) because of the savage, the amazing sufferings endured by some of the martyrs who, before Christ's coming in his human body, contended even unto death for the cause of God's Law, and held firm under the most appalling agonies." (810-811)
 
-**Book XVIII, Chapter 37**: 
+**Book XVIII, Chapter 37**: The prophetic authority antedates the beginnings of pagan philosophy
+- Moses: "our true theologian, who truthfully proclaimed the one true God, and whose [[The Pentateuch|writings]] now have the first place in our authorized canon." (812) 
 
-**Book XVIII, Chapter 38**: 
+**Book XVIII, Chapter 38**: Some writings not admitted into the canon because of their great antiquity and doubtful authenticity
+- Enoch: "...on account of their remoteness in time it seemed advisable to hold them suspect, for fear of advancing false claims to authenticity. For there are some writings put forward as genuine works of those authors by those who without discrimination believe what they want to believe, as suits their inclination...they are of no value even as adding to our supply of knowledge since it is uncertain whether they are authentic works of the authors to whom they are ascribed." (812-813) ^e16d1c
 
 **Book XVIII, Chapter 39**: 
 

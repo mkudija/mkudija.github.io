@@ -10,7 +10,12 @@ aliases: [LOTH, Breviary]
 <img src="https://b2c-cbp-assets.s3.amazonaws.com/products/409-13-1.jpg" width=250>
 
 >This prayer is the voice of a bride speaking to her bridegroom, it is the very prayer that Christ himself, together with his Body, addressed to the Father.
->–*domini [[2023-01-31-Verbum Domini|Verbum Domini]]* 62
+>–*[[2023-01-31-Verbum Domini|Verbum Domini]]* 62
+
+
+>Prayer is a battle. We pray as we love, because we live as we pray. 
+>–*[[~Catechism of the Catholic Church|CCC]] 2725*
+
 
 | Hour (Old)         | Hour (New)          | Time    |
 | ------------------ | ------------------- | ------- |
@@ -43,7 +48,7 @@ aliases: [LOTH, Breviary]
 - [[Canticle of Mary (Magnificat)]]
 - Charts of the psalms used: [psalms wide](https://stutler.cc/russ/psalmchart_e.html), [psalms narrow](https://stutler.cc/russ/LOTH_CHART_vert.html), [psalms and canticles](https://stutler.cc/russ/breviary_chart_complete.html)(from [Some Psalter Reviews](https://stutler.cc/russ/psalter_reviews.html)) 
 - A [Liturgy of the Hours, Second Edition](https://www.usccb.org/prayer-and-worship/liturgy-of-the-hours/liturgy-of-the-hours-second-edition) is coming...
-- *[[~The Priest at Prayer]]*, 178-186
+- *[[~The Priest at Prayer|The Priest at Prayer]]*, 178-186
 - [Overwhelmed by the Liturgy of the Hours? Start With Night Prayer](https://catholicexchange.com/overwhelmed-by-the-liturgy-of-the-hours-start-with-night-prayer/)
 
 ### Alternative Versions

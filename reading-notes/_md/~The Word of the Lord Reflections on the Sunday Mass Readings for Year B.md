@@ -1,5 +1,6 @@
 ---
-aliases: [The Word of the Lord-Reflections on the Sunday Mass Readings for Year B]
+aliases:
+  - The Word of the Lord-Reflections on the Sunday Mass Readings for Year B
 title: The Word of the Lord-Reflections on the Sunday Mass Readings for Year B
 author: John Bergsma
 category: Religion
@@ -10,9 +11,9 @@ isbn10: 1645850927
 isbn13: 9781645850922
 source: 
 wishlist: 2023-10-14
-acquired: 
+acquired: 2023-12-25
 started: 
-finished: 
+finished:
 ---
 # *[The Word of the Lord: Reflections on the Sunday Mass Readings for Year B](https://stpaulcenter.com/product/the-word-of-the-lord-reflections-on-the-sunday-mass-readings-for-year-b/)* by [[John Bergsma]]
 
@@ -26,7 +27,7 @@ finished:
 **Topic**: [[Bible Commentary]]
 
 **Source**
-- 
+- Madj Christmas 2023
 
 **Bibliography**
 

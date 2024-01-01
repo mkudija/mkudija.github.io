@@ -1,4 +1,3 @@
-  mn
 ---
 aliases: [The Priest at Prayer]
 ---
@@ -25,14 +24,6 @@ aliases: [The Priest at Prayer]
 
 **Source**: Library book sale?
 
-**Bibliography**
-
-- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-05-01-Sun]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
