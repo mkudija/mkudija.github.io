@@ -1,18 +1,19 @@
 ---
-aliases: [The Case for the Deuterocanon]
+aliases:
+  - The Case for the Deuterocanon
 title: The Case for the Deuterocanon
 author: Gary G. Michuta
 category: Bible
 publisher: 
 total_page: 384
 publish_date: 2015-04-23
-isbn10: 0692389695
+isbn10: 692389695
 isbn13: 9780692389690
 source: 
 wishlist: 2023-04-13
-acquired: 
+acquired: 2024-01-08
 started: 
-finished: 
+finished:
 ---
 # *[The Case for the Deuterocanon]()* by [[Gary G. Michuta]]
 
@@ -26,7 +27,7 @@ finished:
 **Topic**: 
 
 **Source**
-- 
+- *[[~Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
 
 **Bibliography**
 

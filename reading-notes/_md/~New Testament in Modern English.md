@@ -1,5 +1,6 @@
 ---
-aliases: [New Testament in Modern English]
+aliases:
+  - New Testament in Modern English
 title: New Testament in Modern English
 author: J.B. Phillips
 category: Religion
@@ -10,11 +11,11 @@ isbn10: 1476779813
 isbn13: 9781476779812
 source: 
 wishlist: 2023-12-14
-acquired: 
+acquired: 2024-01-09
 started: 
 finished: 
 translation: J.B. Phillips
-dimensions: 
+dimensions:
 ---
 # *[New Testament in Modern English]()* by [[J.B. Phillips]]
 
@@ -29,6 +30,7 @@ dimensions:
 
 **Source**
 - [[2023-12-14 From LDS to Catholic with Isaac Hess]]
+- [[2024-01-09-Tue]] [[UA Library]]
 
 **Bibliography**
 

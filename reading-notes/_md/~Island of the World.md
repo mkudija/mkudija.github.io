@@ -19,7 +19,7 @@ finished:
 `(New York: Ignatius Press, 2010-04), 847`
 
 --- 
-**Topic**: 
+**Topic**: [[Novel]]
 
 **Source**
 - Steve? 

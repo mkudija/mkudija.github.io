@@ -13,7 +13,7 @@ isbn13: 9781685789879
 source: 
 wishlist: 2023-10-28
 acquired: 2023-12-23
-started: 
+started: 2024-01-05
 finished:
 ---
 # *[Know Thyself: Catholic Classical Education and the Discovery of Self](https://bookstore.wordonfire.org/products/know-thyself)* by [[Andrew Youngblood]]

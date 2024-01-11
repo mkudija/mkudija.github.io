@@ -3,12 +3,12 @@
 # Introduction
 - you don't find your audience, they find you...but you have to be *findable*
 - this is a book about sharing for people who hate self-promotion; about influencing others by letting them steal from you
-- "Imagine spending the majority of your tiem, energy, and attention practicing a craft, learning a trade, or running a business, while also allowing for the possibility that your work might attract a group of people who share your interests. All you have to do is *show your work*."
+- "Imagine spending the majority of your time, energy, and attention practicing a craft, learning a trade, or running a business, while also allowing for the possibility that your work might attract a group of people who share your interests. All you have to do is *show your work*."
 
 # 1. You don't have to be a genius
 **Find a scenius**
 - the lone, creative, antisocial genius is a myth
-- rather the works of these people come from gropus of creative individuals, an "ecology of talent", a *scenius*
+- rather the works of these people come from groups of creative individuals, an "ecology of talent", a *scenius*
 - the Internet makes it easy to join a scenius
 
 **Be an amateur**

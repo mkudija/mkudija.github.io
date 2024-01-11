@@ -16,7 +16,7 @@ started:
 finished: 
 loaned_to: Mom
 loaned: 2023-08-29
-returned:
+returned: 2023-12-23
 ---
 # *Leonardo da Vinci* by [[Walter Isaacson]]
 

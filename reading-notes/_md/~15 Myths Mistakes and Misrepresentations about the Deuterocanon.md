@@ -1,5 +1,5 @@
 ---
-aliases: [15 Myths, Mistakes, and Misrepresentations about the Deuterocanon]
+aliases: [15 Myths Mistakes and Misrepresentations about the Deuterocanon]
 title: 15 Myths, Mistakes, and Misrepresentations about the Deuterocanon
 author: Gary Michuta
 category: 
@@ -10,7 +10,7 @@ isbn10: 0998839949
 isbn13: 9780998839943
 source: 
 wishlist: 2023-04-13
-acquired: 
+acquired: 2024-01-08
 started: 
 finished: 
 ---
@@ -26,7 +26,7 @@ finished:
 **Topic**: [[The Bible]]
 
 **Source**
-- 
+- *[[~Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
 
 **Bibliography**
 

@@ -40,6 +40,10 @@ publish: true
 - [[2022-09-14-Wed]] - 30 min glue and finish with Tried & True Original  
 - [[2022-09-15-Thu]] - 30 min hang
 
+### 2024-01-08 Chapel Background Painting
+- Paints used: 
+	- <strong style="color: #41708A; "> ▬▬▬▬▬ Earthwise Blue</strong>: Sherwin Williams Color Sample Base C (HG4884719): HGSW2372 Earthwise Blue, Int/ext HGTV Sample (new 2022), Satin, Base C, 8900-21.281, 8930-10.313, 8978-4.094, 8983-6.344 (got 2 coats out of about 2/3 of the 7.25 fl oz sample)
+	- <strong style="color: #AB936B; "> ▬▬▬▬▬ Champagne Gold</strong>: DecoArt Dazzling Metallics, Metallic Acrylic Paint, Champagne Gold, DA202 (used a small portion of the 2 fl oz bottle)
 
 
 ---

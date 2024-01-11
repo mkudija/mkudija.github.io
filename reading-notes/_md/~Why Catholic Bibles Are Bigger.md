@@ -13,13 +13,16 @@ isbn13: 9781683570516
 wishlist: 2022-12-13
 acquired: 2023-12-13
 started: 2023-12-17
-finished:
+finished: 2024-01-05
 ---
 # *[Why Catholic Bibles Are Bigger]()* by [[Gary Michuta]]
 
 <img src="http://books.google.com/books/content?id=Qkn4swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: Catholic Answers Press, 2017-09-15), 383`
+
+- Why does the Roman Catholic Church not accept the Deuterocanonical books accepted by the Orthodox Church?
+	- Should a Catholic read these?
 
 --- 
 **Topic**: [[Bible Translations]], [[Deuterocanonical Books]]

@@ -18,6 +18,11 @@ publish: true
 # [[Woodworking]] Projects
 
 
+### 2023-12-29 Spice Rack
+*Pine with maple splines*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2023-12-29-spice-rack.jpg?raw=true" width="100%">
+
 ### 2023-12-23 Charcuterie Board
 *Walnut*
 
