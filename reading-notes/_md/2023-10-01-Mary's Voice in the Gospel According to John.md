@@ -57,7 +57,7 @@ I appreciate the ways in which Pakaluk's commentary causes one to consider God's
 
 ## The Gospel of John
 
-- John is concerned about the details that reveal the person in the relationship, such as [[Jn-01#v38]]: "But Jesus turns in his tracks and takes a look at them"
+- John is concerned about the details that reveal the person in the relationship, such as [[Jn-01#v38]]: "But Jesus turns in his tracks and takes a look at them" ^621043
 - John's prologue "represents the insertion of the eternal Word into time by the insertion of one type of text into another" (6)
 - John deftly introduces main themes of his Gospel: truth, light, life, witness, being sent, corresponding to another, manifestation, dwelling and indwelling, sacrifice for sins (7); he starts with the universal and works back to the particular (8)
 - The structure of [[Jn-01#v1]] is rendered thus to capture the emphasis of the Greek and the progression that speaks of the Word as distinct from the Father but identical in nature:

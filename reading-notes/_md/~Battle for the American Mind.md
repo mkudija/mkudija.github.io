@@ -99,7 +99,7 @@ _**Summary**: _
 --- 
 **Topic**: [[Classical Education]]
 
-**Source**: [[Mike Gross]]
+**Source**: [[Mike Gross]] (has a 4-part series on Fox about this)
 
 **Bibliography**
 

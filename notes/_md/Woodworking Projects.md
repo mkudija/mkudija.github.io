@@ -18,6 +18,11 @@ publish: true
 # [[Woodworking]] Projects
 
 
+### 2024-01-10 Saturn V Stand
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2024-01-10-saturn-v-stand.jpg?raw=true" width="100%">
+
 ### 2023-12-29 Spice Rack
 *Pine with maple splines*
 

@@ -217,40 +217,160 @@ Of the introductions to the Bible I have read, I would proceed in this order:
 - Chronicles reminds us that a nation's political health depends on its spiritual health, which in turn depends on the spiritual health of its leaders (64)
 
 ## God Brings His People Back to the Promised Land: Ezra and Nehemiah
-- 
+- Three waves of exile in 606, 597, 586 BC, then three waves of the "second exodus" return in 538 led by Zerubbabel, 457 led by Ezra, and 444 BC led by Nehemiah (67)
+- "We usually prefer comfort to freedom." (68)
+- "God's providential control over history and his care for his people are seen in his keeping his people safe even in exile." (69)
+- The Messiah was not to be born in Babylon, which is why the Jews had to return (70)
+- Tradition ascribes [[Ps-119]] to Ezra, and the law is mentioned in every verse (70)
+- Nehemiah rebuilt the city wall. Ezra rebuilt his people's spirit. (70)
+- Separation from other peoples is important because Israel is called by God to be set apart, holy (71)
 
 ## Biblical Heroines of Friendship and Courage: Ruth and Esther
-- 
+- [[Ruth(b)|Ruth]] is a story of of ordinary people (the stuff saints are made of) who are faithful to God (74)
+	- "The times are never so bad that a good man cannot live in them." ([[St. Thomas More]], 74)
+	- God accepts Gentiles as well as Jews if they only believe in him (as is Jonah and the Good Samaritan, 74)
+	- God's providential plans surprise and surpass Ruth's expectations (cf. [[Eph-03#v20]] and [[1 Cor-02#v9]])
+	- Boaz is a figure of Christ as *goel* or "kinsman-redeemer", who had to be a blood relative, free and in no need of redemption, and willing to pay the price (76)
+- [[Esther]]: God's supernatural intervention is rare, but his providential control of the natural causes in history is omnipresent (77)
 
 ## Job Confronts Life's Darkest Problem and Encounters God Himself
-- 
+- [[Job]] is one of the greatest books every written, and bottomlessly mysterious. It is the book of the [[Problem of Evil]], and we do not know the answer. God himself is Job's answer. (79)
+- Five levels of understanding Job: 
+	- The problem of evil 
+	- The problem of the conflict between faith and experience 
+	- The problem of the meaning and purpose of life 
+	- The problem of identity (suffering bring him his deepest identity) 
+	- The problem of God: revealing God's purposes, character, and reliability
+- God's goodness and justice, as well as our blessedness are far more mysterious than we think. Long-range blessedness is purchased with short-range suffering (the sages know this). Job adds that long-range happiness is the vision of God himself (82)
+- "Instead of answers, Job got the Answerer. Instead of words, Job got the Word." (82)
+- "God carved out a great hollow place for Himself in Job with all these sufferings. yet the hole made no sense until God came and filled it." (84)
+- "Job is a Christ-figure. He is a suffering servant, chosen by God to suffer not because he is so bad, but because he is so good. And he suffers for others. At the end, God accepts the three friends only because Job prays and sacrifices for them." (85)
 
 ## Our Primary Prayer Book: The Psalms
-- 
+- "[[Psalms]] bridges the gap between Jews and Christians better than any other book can, for Psalms is not just Scripture, but also liturgy. Though Jews and Christians worship in different temples, they pray the same prayers to the same God." (86)
+- "The Psalms should be the foundation stone of every Christian's daily prayers. For to pray them regularly, to become familiar with them so that their phrases spring to mind spontaneously, is to shape our minds and hearts according to God's mind and heart. Here is the prayerbook God Himself inspired for us to use. Next to the Our Father, they are the closest that human words will ever get to God's own answer to anyone who asks Him, 'Teach us to pray.'" (87-88, cf. [[Liturgy of the Hours]])
+- "We should become familiar enough with them to be able to go to the one that is appropriate to the present occasion and need. At least we should make a list or an index so that we know to use the one that fits. The locks of our hears and lives are constantly changing, but the Psalms provide keys to fit all the locks. We just need to know where the keys are; we need to classify them." (88)
+- The Psalms are poetry so the translation matters more here than elsewhere (cf. [[Robert Alter]] in *[[2023-05-24-The Art of Bible Translation|The Art of Bible Translation]]*). It should be "strong and clear and simple and intelligible, but also moving and beautiful." Kreeft recommends the RSV as "a good blend of modern clarify and ancient beauty." (88-89)
+- The primary theme of the Psalms is praise and adoration, which is our rehearsal for heaven (89)
+- Divided into five books, each ending with a psalm of pure praise ([[Ps-41]], [[Ps-72]], [[Ps-89]], [[Ps-106]], [[Ps-150]])
+	- Psalms of praise ([[Ps-18]], [[Ps-100]], [[Ps-103]], etc.)
+	- Liturgical psalms ([[Ps-120]], [[Ps-135]], etc.)
+	- Psalms for pilgrimage ([[Ps-120]] through [[Ps-134]])
+	- Royal psalms ([[Ps-02]], [[Ps-20]], [[Ps-21]], [[Ps-28]], [[Ps-45]], [[Ps-72]], [[Ps-89]], [[Ps-101]], [[Ps-132]], [[Ps-144]])
+	- Psalms of repentance ([[Ps-32]], [[Ps-51]], [[Ps-130]], etc.)
+	- Didactic psalms of moral teaching ([[Ps-01]], [[Ps-37]], [[Ps-119]], etc.)
+	- Psalms for personal use ([[Ps-23]], [[Ps-27]], [[Ps-34]], etc.)
+	- Cursing psalms ([[Ps-07]], [[Ps-35]], [[Ps-40]], [[Ps-55]], [[Ps-58]], [[Ps-59]], [[Ps-69]], [[Ps-79]], [[Ps-109]])
+	- Messianic psalms ([[Ps-02]], [[Ps-22]], [[Ps-45]], [[Ps-110]], etc.)
+- [[Old Testament prophecies fulfilled by Christ|Christ fulfills the Old Testament]], illustrated especially in the psalms (90)
+	- [[Ps-02#v7]] and [[Mt-03#v17]]
+	- [[Ps-08#v6]] and [[Heb-02#v8]]
+	- [[Ps-16#v10]] and [[Mk-16#v6]]
+	- [[Ps-22#v1]] and [[Mt-27#v46]]
+	- [[Ps-22#v7]] and [[Lk-23#v35]]
+	- [[Ps-22#v16]] and [[Jn-20#v25]]
+	- [[Ps-22#v18]] and [[Mt-27#v35]]
+	- [[Ps-34#v20]] and [[Jn-19#v33]]
+	- [[Ps-35#v11]] and [[Mk-14#v57]]
+	- [[Ps-35#v19]] and [[Jn-15#v25]]
+	- [[Ps-40#v7]] and [[Heb-10#v7]]
+	- [[Ps-41#v9]] and [[Lk-22#v47]]
+	- [[Ps-45#v6]] and [[Heb-01#v8]]
+	- [[Ps-68#v18]] and [[Mk-16#v19]]
+	- [[Ps-69#v9]] and [[Jn-02#v17]]
+	- [[Ps-69#v21]] and [[Mt-27#v34]]
+	- [[Ps-109#v4]] and [[Lk-23#v34]]
+	- [[Ps-109#v8]] and [[Acts-01#v20]]
+	- [[Ps-110#v1]] and [[Mt-22#v44]]
+	- [[Ps-118#v22]] and [[Mt-21#v42]]
+	- [[Ps-118#v26]] and [[Mt-21#v9]]
 
 ## Our Road Map to Practical Wisdom: Proverbs
-- 
+- What our civilization needs is to return to these dull platitudes because they are true (92)
+- Four assumptions behind Proverbs: 
+	- Practical wisdom is a real, true, objective thing 
+	- Most important things in life are knowable 
+	- Our lives on earth are meaningful 
+	- Ordinary life experience is a reliable teacher of this wisdom
+- Every age is an evil age, which is why the Proverbs are perennial (95)
+- The "greatest and deepest" passage of Proverbs is [[Prv-08#v22]]-31 (97)
 
 ## The Question the Rest of the Bible Answers: Ecclesiastes
-- 
+- [[Ecclesiastes]] is the Bible's only book of philosophy, and it is the question to which the rest of the Bible is the answer (98). It "lays bare the God-sized hole in the human heart that all God-substitutes fail to fill" (100)
+- The point is "Vanity of vanities, all is vanity": he has tried wisdom ([[Eccl-01#v12]]), pleasure ([[Eccl-02#v1]]), wealth ([[Eccl-02#v8]]), honor ([[Eccl-02#v18]]), external religion ([[Eccl-07#v16]]), all of which fail (100)
+- Ecclesiastes is quintessentially modern (101)
+	- It asks modern questions, like *does life have meaning?*
+	- It assumes the modern context where religion is reduced to observed behavior 
+	- It uses the modern scientific method of sense observation
+	- It comes to the modern conclusion of vanity 
+	- It concludes with the modern practical advice of hedonism 
+- "It is absolutely essential that we answer Ecclesiastes' challenge. If we do not, we have no reason, ultimately, to do anything else." (102)
+- Love is the meaning of life because love is the very nature of God...Ecclesiastes highlights the problem; Christ is the answer (103)
 
 ## The Great Love Story between God and the Soul: Song of Songs
-- 
+- [[Song of Songs]] has been the favorite of great saints (such as [[St. John of the Cross|John of the Cross]], [[St. Bernard of Clairvaux|Bernard]], and [[St. Thomas Aquinas|Thomas Aquinas]]), and is interpreted at two levels (104):
+	- *Literally* as a celebration of married love 
+	- *Symbolically* as a celebration of the joys of our spiritual marriage to God 
+- All [[2013-10-21-The Four Loves|four loves]] are present: *eros* or desire ([[Sg-08#v5]]), *storge* or affection ([[Sg-04#v9]]), *philia* or friendship ([[Sg-05#v16]]), and *agape* or charity ([[Sg-02#v16]]) (105)
 
 ## God's Big Mouths: The Prophets
-- 
+- A prophet is God's mouthpiece, and tells too much to be socially approved (110)
+- Two ways to discern if a prophet is true or false: "by their fruits you shall know them" ([[Mt-07#v16]]), and by waiting for the word of the true prophet will always come true (112)
+- Of the three steps to *know* God's mind, *do* God's will, and *share* God's life, the prophets tell us God's mind especially when we are off track (113)
+- Only one who is open to God's heart will understand God's prophets (114, cf. [[Jn-07#v17]])
 
 ## The Shakespeare of Prophecy Thunders with the Message of Salvation: Isaiah
-- 
+- It has been called the "Gospel of [[Isaiah]]" because of the number and beauty of the prophecies of the savior (117) 
+- Isaiah is featured heavily in [[Handel's Messiah]]: [[Is-11#v1]]-5, [[Is-07#v14]], [[Is-40#v9]], [[Is-60#v2]]-3, [[Is-09#v2]], [[Is-09#v6]], [[Is-35#v5]]-6, [[Is-40#v11]], [[Is-53#v3]]-6, [[Is-53#v8]]
+- Start with [[Is-06|Isaiah 6]] which gives the story of God's call to Isaiah 
+- Isaiah is a diptych: the first panel gives God's justice and judgment, the second panel gives God's mercy and forgiveness. The first panel consists of 39 chapters and the second of 27 chapters, the same as the protocanonical OT and NT (119, cf. *[[arguments for the Protestant canon*)
+- There are over 300 [[Old Testament prophecies fulfilled by Christ]], including many in Isaiah (122)
+	- [[Is-07#v14]] and [[Mt-01#v23]]
+	- [[Is-09#v1]]-2 and [[Mt-04#v13]]-16
+	- [[Is-09#v6]] and [[Lk-02#v11]] and [[Eph-02#v14]]-18
+	- [[Is-11#v1]] and [[Lk-03#v32]] and [[Acts-13#v22]]-23
+	- [[Is-11#v2]] and [[Lk-03#v22]]
+	- [[Is-28#v16]] and [[1 Pt-02#v4]]-6
+	- [[Is-40#v3]]-5 and [[Mt-03#v1]]-3
+	- [[Is-42#v1]]-4 and [[Mt-12#v15]]-21
+	- [[Is-42#v6]] and [[Lk-02#v29]]-32
+	- [[Is-50#v6]] and [[Mt-26#v26]], 30, 67
+	- [[Is-52#v14]] and [[Phil-02#v7]]-11
+	- [[Is-53#v3]] and [[Lk-23#v18]] and [[Jn-01#v11]], [[Jn-07#v5]]
+	- [[Is-53#v4]] and [[Rom-05#v6]], 8
+	- [[Is-53#v7]] and [[Mt-27#v12]]-14, [[Jn-01#v29]], [[1 Pt-01#v18]]-19
+	- [[Is-53#v9]] and [[Mt-27#v57]]-60
+	- [[Is-53#v12]] and [[Mk-15#v28]]
+	- [[Is-61#v1]]-2 and [[Lk-04#v17]]-21
+- "Isaiah is to be chewed, pondered, relished, and plunged into time after time after time." (123)
 
 ## The Only Alternative to Disaster: Jeremiah and Lamentations
-- 
+- [[Jeremiah]] is the "weeping prophet": the only alternative to disaster is to trust and obey, to surrender our will to God (124)
+	- Kreeft is great at diagnosing our modern problems and pointing to the correct medicine in the Bible: If God were to send us a prophet today it might be Jeremiah because we have lost our *consciousness* of sin (126)
+	- One of the most helpful verses in Scripture, [[Jer-29#v13]]: "You will seek me and find me; when you seek me with all your heart" (127, cf. [[Mt-07#v8]])
+	- Don't forget, [[Jer-31#v33]]: "I will put my law within them, and I will write it upon their hearts; and I will be their God, and they shall be my people."
+- [[Lamentations]] is the poem lamenting the destruction of Jerusalem, acrostic with each verse beginning with the letters of the Hebrew alphabet.
+	- Hope arises out of the tears. The solution to the [[problem of evil]] is to wait and allow God to bring good even out of evil if we turn to him (129)
 
 ## Two Supernatural Visionaries: Ezekiel and Daniel
-- 
+- [[Ezekiel]] says both the good news and the bad news, sin and salvation. "Whenever you hear either half of this message without the other, you know the messenger is not a true prophet." (131)
+	- Ezekiel is "primitive" in the sense that it clearly preached the principle that each individual is responsible for and is justly punished for his own sins ([[Ez-18]], 132)
+- There is a philosophy of history implied in [[Daniel]]'s visions: God is the Lord of history, planning and directing it as he plans and directs each life (134)
 
 ## More Mouths of God: The Rest of the Prophets
-- 
+- [[Hosea]] is tenderness and tragedy in love rejected: marries Gomer who is unfaithful to show Israel their own unfaithfulness to God (136)
+	- God both forgives and punishes, as both are expressions of love (137)
+	- [[Hos-02#v14]]: Sufferings are a part of God's allurements, his courtship. Only in the wilderness of suffering and silence can we hear the voice of God as it really is (138-139)
+- [[Joel]] reminds us that it is our choice, [[Jl-02#v12]]: "Yet even now," says the LORD, "return to me with all your heart" 
+	- Joel's prophecy of Pentacost in [[Jl-02#v28]]-32, quoted by Peter in [[Acts-02#v16]]-21
+- [[Amos]] shows how underneath the appearances of prosperity, Israel's soul is sick. This has contemporary applications to Western civilization 
+	- Amos dismisses liturgical abuses vigorously in [[Am-05#v21]]-27
+	- "The appropriate and inevitable punishment for refusing to heed God's Word is to become incapable of hearing it", [[Am-08#v11]]: "I will send a famine on the land; not a famine of bread, nor a thirst for water, but of hearing the words of the Lord." (146)
+- [[Obadiah]] prophesies the destruction of Jerusalem, for we will reap what we sow and the wages of sin is death 
+- [[Jonah]] is the reluctant prophet to discovers God's mercy 
+	- He teaches us that: 1) you can't run away from God, 2) even wicket people can repent, and 3) God's mercy is for the Gentiles as well as the Jews (149)
+	- "Which miracle is more startling and unbelievable—that a man finds physical life in the humble, dark place of a whale's belly, or that a whole nation finds spiritual life in the humble, dark place of repentance?" → Despite spiritual decadence today, repentance can come (151)
+- [[Micah]]
 
 ## History, Wisdom, and Apocalyptic Visions: The Deuterocanonical Books and the Apocrypha
 - 
@@ -332,7 +452,7 @@ Of the introductions to the Bible I have read, I would proceed in this order:
 
 ## [[Bible Translations]] Kreeft Cites
 - NKJV (34)
-- TEV (48)
+- TEV (48, 97)
 
 --- 
 **Topic**: [[The Bible]]

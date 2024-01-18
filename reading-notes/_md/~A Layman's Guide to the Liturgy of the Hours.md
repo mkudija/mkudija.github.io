@@ -11,8 +11,8 @@ isbn10:
 isbn13: 9781682780756
 source: 
 wishlist: 2023-12-22
-acquired: 
-started: 
+acquired: 2023-12-21
+started: 2024-01-13
 finished:
 ---
 # *[A Layman's Guide to the Liturgy of the Hours: How the Prayers of the Church Can Change Your Life]()* by [[Fr. Timothy Gallagher]]
