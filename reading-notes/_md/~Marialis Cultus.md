@@ -38,4 +38,4 @@ isbn13:
 
 ---
 Created: [[2022-10-26-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -31,9 +31,12 @@ aliases: [LOTH, Breviary]
 ## Resources
 
 ### Books
+- *[[~General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* ([PDF](https://www.liturgyoffice.org.uk/Resources/Rites/GILH.pdf), also printed at the beginning of Vol. 1)
+- *[[~Morning and Evening Prayer|Morning and Evening Prayer]]* by [[John Paul II|Pope John Paul II]] and [[Joseph Ratzinger|Pope Benedict XVI]]
 - [The Liturgy of the Hours - Word on Fire](https://www.wordonfire.org/pray/)
 - *[[2024-01-13-The Divine Office for Dodos|The Divine Office for Dodos]]*
-- *[[~A Layman's Guide to the Liturgy of the Hours|A Layman's Guide to the Liturgy of the Hours]]*
+- *[[~The Everyday Catholic's Guide to the Liturgy of the Hours|The Everyday Catholic's Guide to the Liturgy of the Hours]]*
+- *[[~Praying the Liturgy of the Hours|Praying the Liturgy of the Hours]]* and *[[2024-01-20-A Layman's Guide to the Liturgy of the Hours|A Layman's Guide to the Liturgy of the Hours]]*
 - *[[2019-02-18-The Little Oratory|The Little Oratory]]* by David Clayton & Leila Marie Lawler, page 71
 - *[[~The Priest at Prayer|The Priest at Prayer]]*, 178-186
 
