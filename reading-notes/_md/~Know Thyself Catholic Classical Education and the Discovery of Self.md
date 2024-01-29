@@ -13,7 +13,7 @@ isbn13: 9781685789879
 source: 
 wishlist: 2023-10-28
 acquired: 2023-12-23
-started: 2024-01-05
+started: 2024-01-23
 finished:
 ---
 # *[Know Thyself: Catholic Classical Education and the Discovery of Self](https://bookstore.wordonfire.org/products/know-thyself)* by [[Andrew Youngblood]]
@@ -21,7 +21,7 @@ finished:
 <img src="https://bookstore.wordonfire.org/cdn/shop/files/KnowThyselfFrontShopify.png?v=1697472995&width=1445" width=150>
 
 `(New York: , 2023), 184`
-
+"started 1/5", really started 1/23
 ## Foreword
 *by [[Dale Ahlquist]]*
 - a

@@ -15,9 +15,9 @@ acquired: 2023-12-21
 started: 2024-01-13
 finished: 2024-01-18
 ---
-# *[A Layman's Guide to the Liturgy of the Hours: How the Prayers of the Church Can Change Your Life]()* by [[Fr. Timothy Gallagher]]
+# *[A Layman's Guide to the Liturgy of the Hours: How the Prayers of the Church Can Change Your Life](https://www.ewtnreligiouscatalogue.com/a-laymans-guide-to-the-liturgy-of-the-hours/p/BKEPUB80756)* by [[Fr. Timothy Gallagher]]
 
-<img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71IW46g9Y0L._SY522_.jpg" width=150>
+<img src="https://www.ewtnreligiouscatalogue.com/ItemImages/Large/80756.jpg" width=150>
 
 `(Irondale: EWTN, 2019), 144`
 
