@@ -14,6 +14,7 @@ wishlist:
 acquired: 2023-12-21
 started: 2023-12-23
 finished: 2024-01-03
+finishednotes: 2024-01-11
 ---
 # *[Highest Duty](https://www.harpercollins.com/products/highest-duty-chesley-b-sullenbergerjeffrey-zaslow)* by [[Captain Chesley B. Sullenberger, III]], [[Jeffrey Zaslow]]
 

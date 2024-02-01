@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=t5HznAEACAAJ&printsec=frontc
 publish_date: 2000
 isbn10: 0006281672
 isbn13: 9780006281672
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[That Hideous Strength]()* by [[C. S. Lewis]]
 

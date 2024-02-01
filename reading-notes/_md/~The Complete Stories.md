@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=LNQKyFn3l0QC&printsec=frontc
 publish_date: 1946
 isbn10: 0374515360
 isbn13: 9780374515362
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[The Complete Stories]()* by [[Flannery O'Connor]]
 

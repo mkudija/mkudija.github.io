@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=nTB5DwAAQBAJ&printsec=frontc
 publish_date: 2019-08-06
 isbn10: 1400215331
 isbn13: 9781400215331
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Consumed by Hate, Redeemed by Love]()* by [[Thomas A. Tarrants]]
 

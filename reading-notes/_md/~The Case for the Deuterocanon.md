@@ -27,7 +27,7 @@ finished:
 **Topic**: 
 
 **Source**
-- *[[~Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
+- *[[2024-01-31-Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
 
 **Bibliography**
 

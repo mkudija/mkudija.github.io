@@ -12,6 +12,7 @@ isbn10:
 isbn13:
 started: 2024-01-20
 finished: 2024-01-20
+finishednotes: 2024-01-20
 ---
 # [*Laudis Canticum: Promulgating the Divine Office as Revised in Accordance with the Decree of the Second Ecumenical Council of the Vatican*](https://www.liturgyoffice.org.uk/Resources/Rites/Laudis_canticum.pdf) by [[Pope Paul VI]]
 

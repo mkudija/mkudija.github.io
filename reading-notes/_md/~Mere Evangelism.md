@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=3NBBEAAAQBAJ&printsec=frontc
 publish_date: 2021-09-01
 isbn10: 1784986453
 isbn13: 9781784986452
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Mere Evangelism]()* by [[Randy Newman]]
 

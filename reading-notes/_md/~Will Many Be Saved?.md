@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=fGxyCgAAQBAJ&printsec=frontc
 publish_date: 2012-08-20
 isbn10: 1467436321
 isbn13: 9781467436328
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Will Many Be Saved?]()* by [[Ralph Martin]]
 

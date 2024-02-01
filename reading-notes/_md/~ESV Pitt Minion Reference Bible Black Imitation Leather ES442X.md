@@ -24,26 +24,16 @@ dimensions: 5.125x7.375x.875
 
 `(New York: Cambridge University Press, 2012-04-12), 0`
 
-- ordered from Amazon 2023-11-20 for $59.37 (returned because no apocrypha)
+- ordered from Amazon 2023-11-20 for $59.37 (returned [[2024-01-30-Tue]] because no deuterocanon)
+	- such a lovely little Bible, and would be one of my favorites with the deuterocanon
+	- pretty easy to hold with one hand in bed
+	- I was more impressed with the imitation leather version than I thought I would be 
+	- silver gilding isn't my favorite, and wish it was red letter like the [[~Cambridge ESV Diadem Reference Bible with Apocrypha Red Calfskin|Cambridge ESV Diadem]]
 - typeset in 6.75pt on 7pt Lexicon No. 1 by Blue Heron Bookcraft, Battle Ground WA, USA 
 - Printed and bound in the Netherlands
 
 --- 
 **Topic**: [[The Bible]]
-
-**Source**
-- 
-
-**Bibliography**
-
-```query
-[[bib]] file:(~ESV Pitt Minion Reference Bible Black Imitation Leather ES442X)
-```
- 
-
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2023-11-25-Sat]]

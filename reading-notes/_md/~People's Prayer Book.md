@@ -9,8 +9,8 @@ cover_url:
 publish_date: 1980
 isbn10: 
 isbn13: 
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[People's Prayer Book]()* by [[Francis Evans]]
 

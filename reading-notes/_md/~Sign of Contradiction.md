@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=lhsvAAAAYAAJ&printsec=frontc
 publish_date: 1979
 isbn10: 
 isbn13: 
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Sign of Contradiction]()* by [[John Paul II|Pope John Paul II]]
 

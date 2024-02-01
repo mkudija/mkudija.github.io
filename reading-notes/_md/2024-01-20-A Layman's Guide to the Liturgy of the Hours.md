@@ -14,6 +14,7 @@ wishlist: 2023-12-22
 acquired: 2023-12-21
 started: 2024-01-13
 finished: 2024-01-18
+finishednotes: 2024-01-20
 ---
 # *[A Layman's Guide to the Liturgy of the Hours: How the Prayers of the Church Can Change Your Life](https://www.ewtnreligiouscatalogue.com/a-laymans-guide-to-the-liturgy-of-the-hours/p/BKEPUB80756)* by [[Fr. Timothy Gallagher]]
 

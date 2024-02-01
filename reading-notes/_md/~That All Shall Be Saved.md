@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=-hGsDwAAQBAJ&printsec=frontc
 publish_date: 2019-09-24
 isbn10: 0300246226
 isbn13: 9780300246223
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[That All Shall Be Saved]()* by [[David Bentley Hart]]
 

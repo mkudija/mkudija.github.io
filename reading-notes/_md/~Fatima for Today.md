@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=MeHHwAEACAAJ&printsec=frontc
 publish_date: 2012-06-30
 isbn10: 1586174916
 isbn13: 9781586174910
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Fatima for Today]()* by [[Andrew Apostoli]]
 

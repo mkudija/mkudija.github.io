@@ -14,6 +14,7 @@ wishlist: 2023-02-26
 acquired: 
 started: 2024-01-05
 finished: 2024-01-10
+finishednotes: 2024-01-10
 ---
 # *[The Chosen](https://www.simonandschuster.com/books/The-Chosen/Chaim-Potok/9781501142468)* by [[Chaim Potok]]
 

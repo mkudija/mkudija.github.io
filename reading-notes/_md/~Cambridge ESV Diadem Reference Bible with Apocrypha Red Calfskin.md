@@ -25,7 +25,6 @@ dimensions: 6.25x8.75x1.25
 
 - [x] respond to CBT [comment](https://catholicbibletalk.com/2022/05/esv-diadem-w-apocrypha-red-calfskin-leather-edge-lined-review/)! 📅 2023-05-25 ✅ 2023-05-31
 	- uses ESV-CE apocrypha! 
-	- 
 
 ### Preface to the English Standard Version Apocrypha
 - "We are pleased to acknowledge further that the bulk of this edition is an adaptation of the ESV with Apocrypha first published by Oxford University Press in 2009. That edition used the Revised Standard Version (RSV) Apocrypha (1971) and the RSV Expanded Apocrypha (1977) as its base. In 2016, a team of Catholic and Protestant scholars from the United Kingdom, Australia, India, and the United States completed a final revision of Tobit, 1–2 Maccabees, Wisdom of Solomon, Sirach, Judith, Baruch, and the Greek additions to Esther and Daniel, thus creating this present edition of the ESV Apocrypha." (xiv)

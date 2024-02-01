@@ -14,6 +14,7 @@ wishlist: 2023-12-11
 acquired: 2023-12-10
 started: 2023-12-11
 finished: 2024-01-13
+finishednotes: 2024-01-13
 ---
 # *[The Divine Office for Dodos: A Step-By-Step Guide To Praying The Liturgy Of The Hours](https://catholicbookpublishing.com/product/312)* by [[Madeline Pecora Nugent]]
 

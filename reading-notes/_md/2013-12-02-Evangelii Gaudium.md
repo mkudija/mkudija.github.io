@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=ob3CAwAAQBAJ&printsec=frontc
 publish_date: 2014-10-07
 isbn10: 0553419544
 isbn13: 9780553419542
-started: []
-finished: []
+started: 
+finished: 
 ---
 # [Evangelii Gaudium: The Joy of the Gospel](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) by [[Pope Francis]]
 

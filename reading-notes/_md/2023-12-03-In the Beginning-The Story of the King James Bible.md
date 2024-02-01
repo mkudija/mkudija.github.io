@@ -14,6 +14,7 @@ wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
 acquired: 
 started: 2023-12-02
 finished: 2023-12-03
+finishednotes: 2023-12-03
 ---
 # *[In the Beginning: The Story of the King James Bible and How It Changed a Nation, a Language, and a Culture]()* by [[Alister E McGrath]]
 

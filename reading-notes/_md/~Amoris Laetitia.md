@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=nywWwQEACAAJ&printsec=frontc
 publish_date: 2016
 isbn10: 0809153181
 isbn13: 9780809153183
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Amoris Laetitia: The Joy of Love](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html)* by [[Pope Francis]]
 

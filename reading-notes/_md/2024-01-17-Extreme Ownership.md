@@ -13,7 +13,8 @@ source:
 wishlist: 2023-06-04
 acquired: 2023-08-23
 started: 2024-01-10
-finished: 2024-01-17
+finished: 2024-01-14
+finishednotes: 2024-01-17
 ---
 # *[Extreme Ownership](https://us.macmillan.com/books/9781250183866/extreme-ownership)* by [[Jocko Willink]], [[Leif Babin]]
 

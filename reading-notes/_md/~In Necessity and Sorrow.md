@@ -1,5 +1,6 @@
 ---
-aliases: [In Necessity and Sorrow]
+aliases:
+  - In Necessity and Sorrow
 title: In Necessity and Sorrow
 author: Magda Denes
 category: Abortion
@@ -10,9 +11,9 @@ isbn10:
 isbn13: 
 source: 
 wishlist: 2023-11-19
-acquired: 
+acquired: 2024-01-29
 started: 
-finished: 
+finished:
 ---
 # *[In Necessity and Sorrow: Life and Death in an Abortion Clinic]()* by [[Magda Denes]]
 

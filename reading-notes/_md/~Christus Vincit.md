@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=m8cOEAAAQBAJ&printsec=frontc
 publish_date: 2019-09-29
 isbn10: 1621384918
 isbn13: 9781621384915
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Christus Vincit]()* by [[Bishop Athanasius Schneider]]
 

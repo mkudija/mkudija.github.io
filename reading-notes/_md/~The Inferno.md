@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=bpzSBgAAQBAJ&printsec=frontc
 publish_date: 1962
 isbn10: 146559437X
 isbn13: 9781465594372
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[The Inferno]()* by [[August Strindberg]]
 

@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=WCktAAAAMAAJ&printsec=frontc
 publish_date: 1979
 isbn10: 
 isbn13: 
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Catholicism and Modernity]()* by [[James Hitchcock]]
 

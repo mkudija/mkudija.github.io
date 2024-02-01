@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=6-spAQAAMAAJ&printsec=frontc
 publish_date: 1968
 isbn10: 
 isbn13: 
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Humanae Vitae](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html)* by [[Pope Paul VI]]
 

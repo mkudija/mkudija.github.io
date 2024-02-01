@@ -14,20 +14,22 @@ source:
 wishlist: 2023-10-28
 acquired: 2023-12-23
 started: 2024-01-23
-finished:
+finished: 2024-01-29
+finishednotes: 
 ---
 # *[Know Thyself: Catholic Classical Education and the Discovery of Self](https://bookstore.wordonfire.org/products/know-thyself)* by [[Andrew Youngblood]]
 
 <img src="https://bookstore.wordonfire.org/cdn/shop/files/KnowThyselfFrontShopify.png?v=1697472995&width=1445" width=150>
 
 `(New York: , 2023), 184`
-"started 1/5", really started 1/23
+
 ## Foreword
 *by [[Dale Ahlquist]]*
 - a
 
 ## Introduction 
 *[Link](https://storage.googleapis.com/media.wordonfire.org/books/Know%20Thyself%20-%20Preview.pdf)*
+
 
 --- 
 **Topic**: [[Classical Education]]
@@ -39,11 +41,7 @@ finished:
 
 
 **Bibliography**
-
-```query
-[[bib]] file:(~Know Thyself Catholic Classical Education and the Discovery of Self)
-```
- 
+- 
 
 **[[New Words]]**
 

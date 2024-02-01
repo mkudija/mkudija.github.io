@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=7t7OTFV0wRIC&printsec=frontc
 publish_date: 2010
 isbn10: 0813217466
 isbn13: 9780813217468
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Inspiration and Interpretation]()* by [[Denis Farkasfalvy]]
 

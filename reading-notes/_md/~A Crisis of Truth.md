@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=WCstAAAAMAAJ&printsec=frontc
 publish_date: 1982
 isbn10: 
 isbn13: 
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[A Crisis of Truth]()* by [[Ralph Martin]]
 

@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=pdyXjgEACAAJ&printsec=frontc
 publish_date: 2016-06-03
 isbn10: 1939773008
 isbn13: 9781939773005
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Liturgy and Personality]()* by [[Dietrich Von Hildebrand]]
 

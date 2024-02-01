@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=lwJGjgEACAAJ&printsec=frontc
 publish_date: 2015
 isbn10: 0996704205
 isbn13: 9780996704205
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[The Book of Gomorrah and St. Peter Damian's Struggle Against Ecclesiastical Corruption]()* by [[St. Peter Damian]]
 

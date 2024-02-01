@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=0J-BDwAAQBAJ&printsec=frontc
 publish_date: 2019-01-22
 isbn10: 1493416812
 isbn13: 9781493416813
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Encountering the Living God in Scripture]()* by [[William M. IV Wright, Francis Martin]]
 

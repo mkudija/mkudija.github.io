@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=vAKOEAAAQBAJ&printsec=frontc
 publish_date: 2012-09-11
 isbn10: 0553386697
 isbn13: 9780553386691
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[The Whole-Brain Child]()* by [[Daniel J. Siegel]] &  [[Tina Payne Bryson]]
 

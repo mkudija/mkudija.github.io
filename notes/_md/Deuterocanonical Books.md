@@ -37,7 +37,7 @@ Protestant rejection of the deuterocanonical books originates in [[Martin Luther
 - "While the New Testament never directly quotes from or names these books, the apostles most frequently used and quoted the [[Septuagint]], which includes them. Some say there is a correspondence of thought, and others see texts from these books being paraphrased, referred or alluded to many times in the New Testament, particularly in the Pauline epistles...The [[Septuagint]] translation of the Hebrew Bible into Greek, which the early Christian church used as its Old Testament, included all of the deuterocanonical books."" —*[Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)*
 - Anglicans and Episcopalians read from the Apocrypha in the lectionary and the *[[~1662 Book of Common Prayer|Book of Common Prayer]]* (*[A Brief History of the Apocrypha - Westminster Theological SeminaryWestminster Theological Seminary](https://faculty.wts.edu/posts/a-brief-history-of-the-apocrypha/)*)
 - Resources: 
-	- *[[~Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
+	- *[[2024-01-31-Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
 	- [Why Does the Roman Catholic Church Accept the Books of the Old Testament Apocrypha (The Deuterocanonical Books) as Holy Scripture? by Don Stewart](https://www.blueletterbible.org/Comm/stewart_don/faq/books-missing-from-old-testament/question4-catholic-church-apocrypha.cfm)
 
 ---

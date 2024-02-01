@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=aVOIDwAAQBAJ&printsec=frontc
 publish_date: 2019-03-05
 isbn10: 1621578348
 isbn13: 9781621578345
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[The Memoirs of St. Peter: A New Translation of the Gospel According to Mark](https://www.regnery.com/9781684513383/the-memoirs-of-st-peter/)* by [[Michael Pakaluk]]
 

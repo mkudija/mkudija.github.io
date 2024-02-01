@@ -14,6 +14,7 @@ wishlist: 2023-10-03
 acquired: 2023-10-10
 started: 2023-11-27
 finished: 2023-12-17
+finishednotes: 2023-12-20
 ---
 # *[Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos](https://www.penguinrandomhouse.com/books/130282/hard-landing-by-thomas-petzinger-jr/)* by [[Thomas Petzinger, Jr.]]
 

@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=c1jFoAEACAAJ&printsec=frontc
 publish_date: 2012-05
 isbn10: 1937509176
 isbn13: 9781937509170
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Jesus Shock]()* by [[Peter Kreeft]]
 

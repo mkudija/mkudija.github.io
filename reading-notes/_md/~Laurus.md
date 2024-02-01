@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=TjbrjgEACAAJ&printsec=frontc
 publish_date: 2016-09-13
 isbn10: 178074871X
 isbn13: 9781780748719
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Laurus]()* by [[Eugene Vodolazkin]]
 

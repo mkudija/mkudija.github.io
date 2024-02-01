@@ -9,8 +9,8 @@ cover_url:
 publish_date: 1966
 isbn10: 0553227009
 isbn13: 9780553227000
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[Darkness at Noon]()* by [[Arthur Koestler]]
 

@@ -9,8 +9,8 @@ cover_url: http://books.google.com/books/content?id=JLc5EAAAQBAJ&printsec=frontc
 publish_date: 2022-03-29
 isbn10: 1493435345
 isbn13: 9781493435340
-started: []
-finished: []
+started: 
+finished: 
 ---
 # *[The Scandal of Holiness]()* by [[Jessica Hooten Wilson]]
 
