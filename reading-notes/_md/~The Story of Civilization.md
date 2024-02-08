@@ -24,7 +24,17 @@ finishednotes:
 
 ## Volume 1: The Ancient World 
 - The Narmer Palette depicting the unification of upper and lower Egypt is perhaps the oldest historical document in the world (5%)
-- 
+	- Narmor was the first pharaoh who unified Egypt in 3100BC
+	- Old Kingdom 3100-2181 BC from Memphis
+	- Middle Kingdom 2000-1700 BC, Pharaoh Senusret
+	- New Kingdom 1500-1200 BC
+- Sumerians: *[[~The Epic of Gilgamish|The Epic of Gilgamish]]*: Gilgamesh searches for eternal life but the snake ears the plant (13%)
+- King Sargon of the Akkadians unifies the city states of Mesopotamia
+- Hammurabi's Code in 1755 BC 
+- Egypt conquered by Achaemenid horseman, then create empire under Thutmose III, then Ramses II largest charriot  conflict at Battle of Kadesh (15%)
+- Hittites in mountains of Anatolia, horseman, rules for tribute and didn’t build much
+- Canaanites: worshiped Baal and Moloch including human sacrifice
+- Phoenicians: merchants from Tire and Sidon, gave wood for temple (cedar trees); alphabet
 
 --- 
 **Topic**: [[History]]

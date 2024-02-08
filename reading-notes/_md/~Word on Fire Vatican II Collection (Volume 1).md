@@ -1,0 +1,68 @@
+---
+aliases: [Word on Fire Vatican II Collection Volume 1]
+title: Word on Fire Vatican II Collection Volume 1
+author: 
+category: 
+publisher: Word on Fire
+total_page: 392
+publish_date: 2021-02-09
+isbn10: 194324393X
+isbn13: 9781943243938
+wishlist: 2023-01-24
+acquired: 2023-12-13
+started: 2024-02-01
+finished: 
+finishednotes:
+---
+# *[Word on Fire Vatican II Collection (Volume I: Constitutions)](https://bookstore.wordonfire.org/products/vatican-ii)*
+
+<img src="https://bookstore.wordonfire.org/cdn/shop/products/WOF-Vatican-II-Collection-SHOPIFY-Front.png?v=1676409938&width=2048" width=150>
+
+`(Park Ridge: Word on Fire, 2021), 392`
+
+*[[~Word on Fire Vatican II Collection (Volume 2)|Word on Fire Vatican II Collection Volume 2]]*
+
+## Foreword 
+*by [[Bishop Barron]]*
+- "With the book you are reading, I am nailing my colors to the mast. I and Word on Fire stand firmly with Vatican II and hence against the radical traditionalists. And we stand firmly with the Wojtyła-Ratzinger interpretation of the council, and hence against the progressives." (xi)
+- We need a "robust and enthusiastic reappropriation of the texts of Vatican II"
+## Opening Address
+*by [[Pope John XXIII]]*
+- "The present Council is a special, worldwide manifestation by the CHurch of her teaching office, exercised in taking account of the errors, needs, and opportunities of our day." (1)
+- "The whole of human history and of life hinges on the person of Jesus Christ." Either we anchor ourselves to him or we live apart from him (2)
+- "The decision to hold an ecumenical council came to Us in the first instance in a sudden flash of inspirration." (3)
+- We disagree with the prophets of doom who think our time especially bad or previous times not having difficulties; rather we are optimistic on the "threshold of a new era" (4) where the Church is "freed at last from the worldly fetters that trammeled her in past ages" (5)
+- We have a twofold obligation to "strive after heavenly values through the right use of the things of this earth," to "strive with all zeal for evangelical perfection, and at the same time to contribute toward the material good of humanity" (6, cf. [[Mt-06#v33]])
+- The goal is to re-present doctrine: "to transmit it in all its purity, undiluted, undistorted" (7) and that it shall be "more widely known, more deeply understood, and more penetrating in its effects on men's moral lives" and "studied afresh and reformulated in contemporary terms" (8)
+- "The Lord's truth is indeed eternal. Human ideologies change." (8)
+- Explain rather than condemn: the Church now "prefers the balm of mercy to the arm of severity." (8)
+- Preach the truth and work for unity (9)
+
+## *[[2022-12-03-Dei Verbum|Dei Verbum]]*
+
+## *[[~Lumen Gentium|Lumen Gentium]]*
+
+## *[[~Sacrosanctum concilium|Sacrosanctum concilium]]*
+
+## *[[~Gaudium et Spes|Gaudium et spes]]*
+
+## Closing Address 
+- 
+
+## Afterword
+- 
+
+--- 
+**Topic**: [[Vatican II]]
+
+**Source**
+- [[Bishop Barron]] email
+- [[Madj]] Birthday 2023
+
+**New Words**
+
+- 
+
+---
+Created: [[2023-01-24-Tue]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

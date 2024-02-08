@@ -1,19 +1,20 @@
 ---
-aliases: [Talking Back]
+aliases:
+  - Talking Back
 title: Talking Back
 author: Evagrius Of Pontus
 category: Religion
 publisher: Liturgical Press
 total_page: 259
 publish_date: 2009-08-01
-isbn10: 0879079681
+isbn10: 879079681
 isbn13: 9780879079680
 source: 
 wishlist: 2024-01-29
-acquired: 
+acquired: 2024-02-02
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[Talking Back]()* by [[Evagrius Of Pontus]]
 
@@ -27,7 +28,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- 
+- [[Fr. Vincent Lampert]] podcast: [[2024-01-29 Pints with Aquinas Fr. Vincent Lampert]]
 
 **Bibliography**
 - 

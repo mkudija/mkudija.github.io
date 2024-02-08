@@ -1,5 +1,6 @@
 ---
-aliases: [Morning and Evening Prayer]
+aliases:
+  - Morning and Evening Prayer
 title: Morning and Evening Prayer
 author: Pope Benedict XVI, Pope St John Paul, II
 category: 
@@ -10,9 +11,9 @@ isbn10: 1784697516
 isbn13: 9781784697518
 source: 
 wishlist: 2024-01-20
-acquired: 
+acquired: 2024-02-02
 started: 
-finished: 
+finished:
 ---
 # *[Morning and Evening Prayer: Meditations and Catechesis on Psalms and Canticles]()* by [[John Paul II|Pope John Paul II]], [[Joseph Ratzinger|Pope Benedict XVI]]
 

@@ -1,6 +1,6 @@
 ---
-aliases: [Diary: Divine Mercy In My Soul]
-title: Diary: Divine Mercy In My Soul
+aliases: [Diary-Divine Mercy In My Soul]
+title: Diary-Divine Mercy In My Soul
 author: St Maria Faustina Kowalska
 category: Nuns
 publisher: St Pauls BYB
@@ -21,6 +21,7 @@ finished:
 `(New York: St Pauls BYB, 2002), 604`
 
 - **Eternal God, in whom mercy is endless and the treasury of compassion inexhaustible, look kindly upon us and increase Your mercy in us, that in difficult moments we might not despair nor become despondent, but with great confidence submit ourselves to Your holy will, which is Love and Mercy itself.** (370, #950)
+- "I often ask the Lord Jesus for an intellect enlightened by faith. I express this to the Lord in these words. 'Jesus, give me an intellect, a great intellect, for this only, that I may understand You better; because the better I get to know You, the more ardently will I love You.'" (#1474) ^eccf66
 
 --- 
 **Topic**: 

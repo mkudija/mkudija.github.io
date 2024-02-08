@@ -21,6 +21,8 @@ finished:
 `(New York: Simon and Schuster, 2014-09-30), 448`
 
 
+Resources: 
+- [Collected | A place where discovered and developed ideas are shared.](https://collected.joebuhlig.com/books/)
 
 --- 
 **Topic**: 

@@ -61,6 +61,22 @@ finished:
 	- Celibacy is not a restriction imposed on men who want to be priests, but a decision to choose priest from among those who are already celibate 
 - [[Fr. Gabriele Amorth]]: "Satan is much more enraged when we take souls away from him through confession than when we take bodies through exorcism." (*[[~An Exorcist Tells His Story#^feaff3]]*)
 
+### 5th Sunday in Ordinary Time 
+*[[Jb-07#v1]]-4, 6-7*
+*[[Ps-147]]*
+*[[1 Cor-09#v16]]-19, 22-23*
+*[[Mk-01#v29]]-39*
+
+- Job does not appear much in the lectionary, but is valuable for its description of God's providence and how sin suffering do not always have a direct causal relationship 
+- In the second reading we find how the desire to spread the Gospel can give us the desire and strength to endure hardships 
+- Mark's Gospels shows us how Jesus relieves our sufferings 
+
+
+### 6th Sunday in Ordinary Time 
+
+
+
+
 --- 
 **Topic**: [[Bible Commentary]]
 

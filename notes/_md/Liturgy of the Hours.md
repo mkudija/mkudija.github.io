@@ -41,6 +41,7 @@ aliases: [LOTH, Breviary]
 - *[[~The Priest at Prayer|The Priest at Prayer]]*, 178-186
 
 ### Other
+- **[Compline](https://matthewkudija.com/compline/)** with second edition translations where available 
 - **[Sing the Hours - YouTube](https://www.youtube.com/c/SingtheHours?app=desktop)** and [Sing the Hours | Liturgy of the Hours](https://singthehours.org/) ^0e58df
 - Text for optional feasts: **[Liturgical Year and Calendar | USCCB](https://www.usccb.org/prayer-worship/liturgical-year)**
 - Wikipedia: [The Liturgy of the Hours](https://en.wikipedia.org/wiki/Liturgy_of_the_Hours)

@@ -20,7 +20,7 @@ mermaid: true
 
 <img src="https://cdn11.bigcommerce.com/s-smelw44hfe/images/stencil/1280x1280/products/1144/4314/WCBB_Shop__49975.1615910830.jpg?c=2?imbypass=on" width=150>
 
-`(New York: Catholic Answers Press, 2017), 383`
+`(El Cajon: Catholic Answers Press, 2017), 383`
 
 
 >The time has come when all real Protestants should demand the whole Bible.
@@ -103,7 +103,7 @@ One question coming out of this book for me as a Catholic is this: *What posture
 </details>
 
 ## Preface 
-- Question for the book: **_Did the Council of Trend add books to Old Testament Scripture or did Protestantism remove them?_** (7)
+- Question for the book: *Did the Council of Trend add books to Old Testament Scripture or did Protestantism remove them?* (7)
 - "The issue of the deuterocanon is perhaps *the* most important subject for anyone who takes the word of God seriously." (9)
 ## Introduction
 - "The question of which books belong to the Bible is more fundamental than theology because theology is to be based upon divine revelation." (14)
@@ -213,11 +213,11 @@ One question coming out of this book for me as a Catholic is this: *What posture
 - Luther reversed his position on the inspiration of the deuterocanon for doctrinal reasons (purgatory in 2 Maccabees)
 
 ## Appendix 1: Sola Scriptura and the Problem of the Canon
-- *[[sola scriptura]]* effectively destroys any logically consistent explanation of how we come to the knowledge of which books make up Scripture to begin with (303)
+- *[[Sola scriptura]]* effectively destroys any logically consistent explanation of how we come to the knowledge of which books make up Scripture to begin with (303)
 - **Historical-Investigative Approach**: canon determined by [[historical-critical method]], which sets the results of external historical investigation as the norm above the norm of Scripture 
 - **Canon-Within -a-Canon Approach**: the canonical scriptures demonstrated their own canonicity by their contents, but this relies on circular reasoning, fails to provide the level of certitude necessary to establish the limits to the word of God, and sets up an extra-Biblical standard (i.e. Luther's own understanding)
 - **The Self-Attesting/Inner Witness Approach**: canonicity is determined by the quality of the writing itself, but this does not explain variances of canons and can never provided a closed or fixed canon
-- "*Sola scriptura* is a self-refuting proposition. No one can know, with sufficient certainty, what the Scripture is unless he adopts a norm outside o fScripture that sets the limits of Scripture...The only alternative to these *a posteriori* solutions is treat the canon as something handed down or received." (309)
+- "*Sola scriptura* is a self-refuting proposition. No one can know, with sufficient certainty, what the Scripture is unless he adopts a norm outside of Scripture that sets the limits of Scripture...The only alternative to these *a posteriori* solutions is treat the canon as something handed down or received." (309)
 ## Appendix 2: The Deuterocanon and Biblical Inerrancy
 - Inerrancy is the product of inspiration, and the determination of inspiration must come before the other questions are asked. 
 - Appealing to errors in the deuterocanon is *begging the question* because it begins with the presupposition that the deuterocanon is *not* inspired. 

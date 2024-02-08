@@ -1,18 +1,20 @@
 ---
-aliases: [The Odyssey]
+aliases:
+  - The Odyssey
+  - Odyssey
 title: The Odyssey
 author: Homer
 category: Literary Collections
 publisher: Oxford University Press
 total_page: 448
 publish_date: 2016-10-21
-isbn10: 0191646512
+isbn10: 191646512
 isbn13: 9780191646515
 source: 
 wishlist: 2023-05-21
 acquired: 
 started: 
-finished: 
+finished:
 ---
 # *[The Odyssey]()* by [[Homer]]
 
