@@ -121,7 +121,7 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     # mdString = mdString.replace(']]','</text>')
     
     # replace "updated"
-    pathSrcSource = src+str(pathSource).split('/')[-1] # use source path rather than md path to get correct updated timestamp
+    pathSrcSource = src+'/'+str(pathSource).split('/')[-1] # use source path rather than md path to get correct updated timestamp
     updated_at = time.strftime('%Y-%m-%d-%a', time.localtime(os.path.getmtime(pathSrcSource))) # https://strftime.org/
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD") %>',updated_at) # old version, can remove eventually
     mdString = mdString.replace('<%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>',updated_at)
