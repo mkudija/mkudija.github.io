@@ -7,7 +7,7 @@ publish: true
 I read the 16 documents of [[Vatican II]] for [[Lent 2024 Vatican II Study|Lent 2024]] and tabulated the 1,284 citations of [[The Bible|Sacred Scripture]] in these documents. Data is [here (Google Sheet)](https://docs.google.com/spreadsheets/d/1jla1eP9ic805hX245RMtBLCCjYtXg1msVxPYsxDuDrc/edit#gid=1913914489&range=A1).
 
 The charts below show the count of citations by book and section of the Bible, as well as count weighted by the number of verses in each book or section to give a sense of how much of a book or section was cited. 
-<iframe width="900" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=777117564&amp;format=interactive"></iframe>
+<iframe width="700" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=777117564&amp;format=interactive"></iframe>
 
 <iframe width="523" height="477" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=1849385519&amp;format=interactive"></iframe>
 Clearly the New Testament is cited far and away more than the Old Testament. Most citations are from St. Paul's letters and the Gospels, with disproportionate weighted citations also from the Catholic letters and Acts. 
