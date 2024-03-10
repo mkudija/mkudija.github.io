@@ -21,7 +21,7 @@ finished: 2023-08-20
 `(New York: Doubleday Books, 1997), 114`
 
 
->Sometimes I would wake up during the night and find my father on his knees, just as I would always see him kneeling in the parish church. We never spoke about a vocation to the priesthood, but **his example was in a way my first seminary, a kind of domestic seminary.**"
+>Sometimes I would wake up during the night and find my father on his knees, just as I would always see him kneeling in the parish church. We never spoke about a vocation to the priesthood, but **his example was in a way my first seminary, a kind of domestic seminary.**
 
 I found this in *[[2021-07-20-Witness to Hope|Witness to Hope]]* and was struck by the line above about a domestic seminary. John Paul II is many things, but perhaps most of all a shining example of how despite the great evil in our world, God can lift up great saints.
 

@@ -9,6 +9,11 @@ cover_url: https://books.google.com/books/content?id=TnrrDwAAQBAJ&printsec=front
 publish_date: 2020
 isbn10: 085719769X
 isbn13: 9780857197696
+wishlist: 2022-07-15
+acquired: 2024-02-21
+started: 
+finished: 
+finishednotes:
 ---
 # *[The Psychology of Money]()* by [[Morgan Housel]]
 
@@ -18,7 +23,6 @@ isbn13: 9780857197696
 
 
 --- 
-#wishlist
 **Topic**: [[Economics]]
 
 **Source**

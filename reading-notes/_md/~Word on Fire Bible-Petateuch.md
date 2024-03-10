@@ -16,6 +16,6 @@ translation: New Revised Standard Version Catholic Edition
 <img src="" width=150>
 
 `(New York: Word on Fire, ?), ?`
-
+*[[Reading Notes/~Word on Fire Bible]]*
 
 [[Gn-01]] and [[Gn-02]] sample: [Genesis - Sample.pdf](https://storage.googleapis.com/media.wordonfire.org/books/WOF%20Bible%20Volume%203%20-%20Genesis%20-%20Sample.pdf)

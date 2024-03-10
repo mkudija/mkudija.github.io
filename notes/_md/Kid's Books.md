@@ -89,6 +89,7 @@ publish: true
 - [*Cloud of Witnesses: A Child's First Book of Saints*](https://tanbooks.com/catholic-kids-books/toddler-books/cloud-of-witnesses-a-childs-first-book-of-saints/)
 - *[[~2021-08-03-A is for Angel|A is for Angel]]*
 - *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*  
+- *The Tale of Three Trees* by Angela Elwell Hunt
 
 
 

@@ -1,5 +1,6 @@
 ---
-aliases: [Word on Fire Vatican II Collection Volume 2]
+aliases:
+  - Word on Fire Vatican II Collection Volume 2
 title: Word on Fire Vatican II Collection Volume 2
 author: 
 category: 
@@ -11,10 +12,10 @@ isbn13: 9781685780135
 wishlist: 2023-01-24
 acquired: 2023-12-13
 started: 2024-02-01
-finished: 
+finished: 2024-02-14
 finishednotes:
 ---
-# *[Word on Fire Vatican II Collection (Volume 2: Decrees and Declarations)]([The Word on Fire Vatican II Collection: Decrees and Declarations](https://bookstore.wordonfire.org/products/vatican-ii-volume-ii))*
+# *[Word on Fire Vatican II Collection (Volume 2: Decrees and Declarations)](https://bookstore.wordonfire.org/products/vatican-ii-volume-ii)*
 
 <img src="https://bookstore.wordonfire.org/cdn/shop/products/Vatican-II-VII-Shopify-FRONT.png?v=1675715149&width=2048" width=150>
 
@@ -61,6 +62,10 @@ finishednotes:
 
 ## *[[~Presbyterorum ordinis|Presbyterorum ordinis]]*
 *Decree on the Ministry and Life of Priests*
+
+The preacher must be, first, a biblical person, for homilies come forth from, are conditioned by, and return to the Bible. He must be someone who habitually immerses himself in the language, stories, rhythms, speech patterns, and ethos of the Scriptures. He should love the Bible, reading and meditating upon it daily. By meditation, we mean some structured form of imaginative and spiritual immersion in the scriptural texts. He should have the words of the Bible readily at hand and often on his lips; he should have committed sections of the Scripture to memory and have a sure grasp of the narrative thrust of the entire Bible. He ought to have the Bible frequently on his person, carrying it with him when he travels and remaining easily linked to it by computer or iPhone. He ought to bring it with him when he prays before the Blessed Sacrament. Moreover, every preacher should regularly consult good scriptural commentaries, both of the technical and spiritual type. I would warmly recommend the homilies and biblical commentaries of the Church Fathers, especially those of Origen, Augustine, Ephrem, Chrysostom, and Jerome.
+pg 401
+
 
 ## Closing Address 
 - 

@@ -3,27 +3,31 @@ aliases: [Basic Economics]
 title: Basic Economics
 author: Thomas Sowell
 category: Business & Economics
-publisher: Basic Civitas Books
-total_page: 366
-cover_url: https://books.google.com/books/content?id=L9g-3num2KIC&printsec=frontcover&img=1&zoom=1&source=gbs_api
-publish_date: 1999
-isbn10: 046508138X
-isbn13: 9780465081387
+publisher: Hachette UK
+total_page: 704
+publish_date: 2014-12-02
+isbn10: 0465056849
+isbn13: 9780465056842
+wishlist: 2022-07-15
+acquired: 2024-02-21
+started: 2024-02-15
+finished: 
+finishednotes:
 ---
 # *[Basic Economics]()* by [[Thomas Sowell]]
 
-<img src="https://books.google.com/books/content?id=L9g-3num2KIC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
+<img src="http://books.google.com/books/content?id=rVc4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(City: Basic Civitas Books, 1999), 366`
+`(New York: Hachette UK, 2014-12-02), 704`
 
-
+- audiobook 46% on [[2024-03-06-Wed]]
 
 --- 
-#wishlist
-**Topic**: 
+**Topic**: [[Economics]]
 
 **Source**
 - [[Sam Ginikos]] [[2022-07-15-Fri]]
+- [[Dad]] [[2024-02-09-Fri]]
 
 
 **Bibliography**
@@ -36,4 +40,4 @@ isbn13: 9780465081387
 
 ---
 Created: [[2022-07-16-Sat]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

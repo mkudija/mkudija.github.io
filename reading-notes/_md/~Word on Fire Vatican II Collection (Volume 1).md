@@ -1,5 +1,6 @@
 ---
-aliases: [Word on Fire Vatican II Collection Volume 1]
+aliases:
+  - Word on Fire Vatican II Collection Volume 1
 title: Word on Fire Vatican II Collection Volume 1
 author: 
 category: 
@@ -10,8 +11,8 @@ isbn10: 194324393X
 isbn13: 9781943243938
 wishlist: 2023-01-24
 acquired: 2023-12-13
-started: 2024-02-01
-finished: 
+started: 2024-02-16
+finished: 2024-02-27
 finishednotes:
 ---
 # *[Word on Fire Vatican II Collection (Volume I: Constitutions)](https://bookstore.wordonfire.org/products/vatican-ii)*

@@ -15,7 +15,7 @@ wishlist: 2023-10-28
 acquired: 2023-12-23
 started: 2024-01-23
 finished: 2024-01-29
-finishednotes: 
+finishednotes: 2024-02-08
 ---
 # *[Know Thyself: Catholic Classical Education and the Discovery of Self](https://bookstore.wordonfire.org/products/know-thyself)* by [[Andrew Youngblood]]
 
@@ -154,7 +154,7 @@ _**Summary**: Either we allow God's revelation to form our anthropology, or we d
 - Word on Fire email 
 - [[2023-11-03-Fri#Lunch with Dale Ahlquist]]
 - [[2023-12-23-Sat]] from the Society of G.K. Chesterton 
-- 
+
 ---
 Created: [[2023-11-08-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

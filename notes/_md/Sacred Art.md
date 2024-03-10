@@ -139,6 +139,7 @@ publish: true
 - [Santa Clara Design](https://www.etsy.com/shop/SantaClaraDesign)
 - [Kozak Workshop](https://www.etsy.com/shop/Kozakworkshop)
 - [Peter Voth](https://petervoth.dribbble.com/)
+- [Sacred Art by Tianna Williams](https://sacredartbytianna.com/)
 
 ---
 Created: [[2021-07-29-Thu]]

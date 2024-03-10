@@ -19,21 +19,21 @@ finished: 2023-02-21
 
 > Truth is the only ground suitable for man to stand upon (76).
 
-_All men of all ages must wrestle with belief. Modernity struggles with belief because of its aversion to tradition and attraction to a scientific-technical worldview concerned only with facts. Belief appreciates and includes facts, but moves beyond this to all of reality, including the meaning received from above. Christian belief rests in the meaning that knows me and loves me, the logos, Jesus of Nazareth._
+All men of all ages must wrestle with belief. Modernity struggles with belief because of its aversion to tradition and attraction to a scientific-technical worldview concerned only with facts. Belief appreciates and includes facts, but moves beyond this to all of reality, including the meaning received from above. Christian belief rests in the meaning that knows me and loves me, the logos, Jesus of Nazareth.
 
-_The Creed's roots are in the dialogue of the baptismal rite expressing the fundamental Christian belief in the Trinity. This dialogue demonstrates the communal aspect of faith and how the Creed is an instrument of unity._
+The Creed's roots are in the dialogue of the baptismal rite expressing the fundamental Christian belief in the Trinity. This dialogue demonstrates the communal aspect of faith and how the Creed is an instrument of unity.
 
-_Christian belief in God grows out of Israel and embraces the entire human experience, uniting philosophy and religious practice in monotheism. Similar to polytheism, our idolatry against the Christian God tempts us to make absolutes out of things that are not. The belief in the Christian God has important implications for practical life, including politics and marriage._
+Christian belief in God grows out of Israel and embraces the entire human experience, uniting philosophy and religious practice in monotheism. Similar to polytheism, our idolatry against the Christian God tempts us to make absolutes out of things that are not. The belief in the Christian God has important implications for practical life, including politics and marriage.
 
-_The Biblical God is understood in terms of the name he revealed to men, a revelation that makes him both personal and available to men._
+The Biblical God is understood in terms of the name he revealed to men, a revelation that makes him both personal and available to men.
 
-_Christianity inherited the philosophical understanding of God as the logos, and elevated it by showing that the almighty being is also powerful in his smallness and concern for each man._
+Christianity inherited the philosophical understanding of God as the logos, and elevated it by showing that the almighty being is also powerful in his smallness and concern for each man.
 
-_We recognize God as both thought (logos) and love (giving us freedom)._
+We recognize God as both thought (logos) and love (giving us freedom).
 
-_We can learn about the Trinity from the heresies that show us aspects of what it is not, and we must of course recognize that God is a mystery beyond our comprehension. But we can also come to an understanding of the Trinity grounded in the relationship of the Divine Persons._
+We can learn about the Trinity from the heresies that show us aspects of what it is not, and we must of course recognize that God is a mystery beyond our comprehension. But we can also come to an understanding of the Trinity grounded in the relationship of the Divine Persons.
 
-_All of history, and all of Christianity, centers around the person of Jesus Christ. There is a great unity in Christ of truth, relationship, love: he is his teaching. Christ is the great self-gift of God, and Christianity is a movement out of oneself for others._
+All of history, and all of Christianity, centers around the person of Jesus Christ. There is a great unity in Christ of truth, relationship, love: he is his teaching. Christ is the great self-gift of God, and Christianity is a movement out of oneself for others.
 
 > Being a Christian means essentially changing over form being for oneself to being for one another (252).
 

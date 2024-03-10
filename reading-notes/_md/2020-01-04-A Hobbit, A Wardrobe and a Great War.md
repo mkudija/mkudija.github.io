@@ -14,13 +14,13 @@
 - Interesting observation from Lewis: "All those who have the courage to do so and are physically sound, are going off to be shot: those who survive are moral and physical weeds—a fact which does not promise favorably for the next generation." (32)
 - War doesn't guarantee peace: "the forces of evil would not be eradicated by the next battle" (50)
 - Tolkien: the character of the hobbit was a reflection of the ordinary British soldier (75)
-- Lewis had the images of the gruesome nature of war emblazoned in his mind from *The Iliad* (81)
+- Lewis had the images of the gruesome nature of war emblazoned in his mind from *[[~The Iliad|The Iliad]]* (81)
 - *Phantastes: A Faerie Romance* by George MacDonald was immensely influential for Lewis (82)
 - [[Winston Churchill]]: "There never was a time when the inherent virtue of human beings required more strong and confident expression in daily life." (100)
-- three plagues launched by WWI: the Spanish influenza, atheistic communism, and fascism (111-113)
-- Freudian psychology, the new hedonism, and the loss of faith after WWI (115-120)
+- Three plagues launched by WWI: the Spanish influenza, atheistic communism, and fascism (111-113)
+- [[Freud|Freudian]] psychology, the new hedonism, and the loss of faith after WWI (115-120)
 - Owen Barfield convinced Lewis to abandon his "**chronological snobbery**: the assumption that the dominant intellectual fashion of the day makes every mode of thought from the past either suspect or irrelevant" (127)
-- "imagination might be as good a guide to reality as rational argument" (128)
+- "Imagination might be as good a guide to reality as rational argument" (128)
 - Tolkien: "mythmaking (mythopoeia) is a way of fulfilling God's purposes as the Creator." (131)
 - Lewis' key conversion conversation with Tolkien in September 1931: 
   - Lewis: "Do you mean that the story of Christ is simply a true myth, a myth that works on us in the same way as the others, but a myth that has *really happened*? In that case, I begin to understand."
@@ -43,5 +43,5 @@
 
 ---
 Created: 2020-01-04
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

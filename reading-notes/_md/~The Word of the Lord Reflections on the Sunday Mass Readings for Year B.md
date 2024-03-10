@@ -73,7 +73,53 @@ finished:
 
 
 ### 6th Sunday in Ordinary Time 
+*[[Lv-13#v1]]-2, 44-46*
+*[[Ps-32]]*
+*[[1 Cor-10#v31]]-11:1*
+*[[Mk-01#v40]]-45*
 
+- The first reading gives the background for understanding leprosy, which disrupted communion with both God and man
+- The second reading reminds us to consider the example our actions have for others
+- The Gospel healing of the lepers shows how the effect of miracles can be less than people think, and how the real leprosy is not external but internal
+
+
+### 1st Sunday of Lent 
+*[[Gn-09#v8]]-15*
+*[[Ps-25]]*
+*[[1 Pt-03#v18]]-22*
+*[[Mk-01#v12]]-15*
+
+- The first readings during Lent in all three years teach salvation history 
+- The theme this Sunday is "the new creation": Noah's flood is the great example of this, where God's mercy is greater than his justice and the covenant with Noah foreshadows the New Covenant in Christ 
+- [[Ps-25]] celebrates the covenant relationship between God and humanity. A covenant forms a family relationship that creates mutual obligations and which provides the context for profound love and intimacy.
+- Mark's description of Jesus 40-day journey to the desert suggests a return to the primeval state of humanity 
+
+### 2nd Sunday of Lent 
+*[[Gn-22#v1]]-18*
+*[[Ps-116]]*
+*[[Rom-08#v31]]-34*
+*[[Mk-09#v2]]-10*
+
+- This week's readings anticipate Christ's self-sacrifice on Calvary 
+- The *Aqedah* (הָדֵקֲע) binding of Isaac is an icon of Abraham's whole life
+	- Isaac, by carrying the wood, was stronger than Abraham and therefore cooperated, "a death he freely accepted"
+	- Isaac is Abraham's only son, *Yahid* (יָחִיד), translated as "only begotten" by RSV2CE which corresponds to the Greek *monogenes* (μονογενής) "only begotten" of [[Jn-03#v16]]
+	- The [[Septuagint]] renders *yahid* as *agapetos* (ἀγαπητός) "beloved" with parallels to the "beloved son" of the Baptism ([[Mk-01#v11]]) and Transfiguration ([[Mk-09#v7]])
+	- Got is asking Abraham and Isaac: "Are you willing to participate in the king of self-sacrificial love that I, the Holy Trinity, will have to demonstrate in order to save mankind?" 
+	- The sacrifice of Isaac also later referneced in [[Jas-02#v21]]-23, [[Heb-11#v17]]-19
+	- The Lord's oath of blessing to Abraham refers to a descendent, who is Christ (cf. [[Gal-03#v16]])
+- [[Ps-116]] is one of the most important *Todah* (תּוֹדָה) "Thanksgiving sacrifice" psalms 
+	- "I will **walk** before the Lord": the same word **walk** (halak, הָלַךְ) is used in [[Gn-22#v8]] for Abraham and Isaac
+	- Eucharist means Thanksgiving, and it is the eternal *Todah*
+- The Transfiguration is an anticipation of Calvary, this is the mystery of our faith: God's glory revealed through weakness, suffering, and humility 
+	- Moses and Elijah represent the Law and the Prophets 
+	- The Transfiguration was a consolation to strengthen the faith of the three primary Apostles as they undertook with Jesus his final death march into Jerusalem 
+
+> If you really want to be a penitent soul—both penitent and cheerful—you must above all stick to your daily periods of prayer, which should be intimate, generous, and not cut short. And you must make sure that those minutes of prayer are not done only when you feel the need, but at fixed times, whenever it is possible. Don't neglect these details.
+> If you subject yourself totally to this daily worship of God, I can assure you that you will always be happy. 
+> –*Furrow* by [[St. Josemaría Escrivá]] (81)
+
+### 3rd Sunday of Lent 
 
 
 
@@ -85,7 +131,7 @@ finished:
 
 **[[New Words]]**
 
-- 
+- **elide**: to omit or slur over (a syllable, for example) in pronunciation (74)
 
 ---
 Created: [[2023-10-14-Sat]]
