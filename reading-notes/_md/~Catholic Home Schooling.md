@@ -1,5 +1,6 @@
 ---
-aliases: [Catholic Home Schooling]
+aliases:
+  - Catholic Home Schooling
 title: Catholic Home Schooling
 author: 
 category: 
@@ -12,7 +13,7 @@ started:
 finished: 
 loaned_to: Nai Young (JPII)
 loaned: 2023-11-30
-returned: 
+returned: 2024-01-01
 ---
 # *[Catholic Home Schooling: A Handbook for Parents](https://setonbooks.com/parent-resources/520-catholic-home-schooling.html)* by [[Mary Kay Clark]]
 

@@ -1,8 +1,26 @@
-# [*The Hobbit*](https://www.amazon.com/Hobbit-J-R-Tolkien/dp/054792822X/ref=sr_1_3?s=books&ie=UTF8&qid=1536843406&sr=1-3&keywords=the+hobbit&refinements=p_n_feature_browse-bin%3A2656022011) by [[J.R.R. Tolkien]]
+---
+aliases:
+  - The Hobbit
+title: The Hobbit
+author: J. R. R. Tolkien
+category: Fiction
+publisher: HarperCollins UK
+total_page: 0
+publish_date: 2017-09-21
+isbn10: 000749792X
+isbn13: 9780007497928
+source: 
+wishlist: 
+acquired: 
+started: 
+finished: 
+finishednotes:
+---
+# *The Hobbit* by [[J.R.R. Tolkien]]
+
+<img src="http://books.google.com/books/content?id=xpfPHDFrEFQC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: Houghton Mifflin, 1937), 300`
-
-
 
 ## Some of my favorite quotes from *The Hobbit*
 - “Good Morning!” said Bilbo, and he meant it. The sun was shining, and the grass was very green. But Gandalf looked at him from under long bushy eyebrows that stuck out further than the brim of his shady hat. “What do you mean?” he said. “Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?” “All of them at once,” said Bilbo. (2, 4)
@@ -28,8 +46,15 @@
 - “Never laugh at live dragons, Bilbo you fool!” he said to himself, and it became a favourite saying of his later, and passed into a proverb. (169)
 - Some courage and some wisdom, blended in measure. If more of us valued food and cheer and song above hoarded gold, it would be a merrier world. (217)
 - “I wish now only to be in my own [[Build Log-Irish Stick Chair|armchair]]!” he said. (221)
+- "Of course!" said Gandalf. "And why should not they prove true? Surely you don't disbelieve the prophecies, because you had a hand in bringing them about yourself? You don't really suppose, do you, that all your adventures and escapes were managed by mere luck, just for your sole benefit? You are a very fine person, Mr. Baggins, and I am very fond of you; but you are only quite a little fellow in a wide world after all!" 
 
 
 *Note: 
 - *Page references from the 75th anniversary Kindle edition*
 - *Second page reference from 2012 Del Rey Mass Market Edition*
+
+
+
+---
+Created: 2018-09-13
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

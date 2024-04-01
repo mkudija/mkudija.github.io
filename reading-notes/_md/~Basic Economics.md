@@ -21,6 +21,8 @@ finishednotes:
 `(New York: Hachette UK, 2014-12-02), 704`
 
 - audiobook 46% on [[2024-03-06-Wed]]
+- audiobook 61% on [[2024-03-29-Fri]]
+- 
 
 --- 
 **Topic**: [[Economics]]

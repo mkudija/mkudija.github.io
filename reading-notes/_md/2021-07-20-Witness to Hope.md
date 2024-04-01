@@ -402,7 +402,7 @@ By John Paul II:
 - ***[[2023-08-20-Gift and Mystery|Gift and Mystery]]***
 - *[[~Love and Responsibility|Love and Responsibility]]* (137, 140)
 - *Person and Act* (172)
-- *[[~Sources of Renewal|Sources of Renewal]]* (tour of the texts of [[Vatican II]], 204)
+- *[[2024-03-31-Sources of Renewal|Sources of Renewal]]* (tour of the texts of [[Vatican II]], 204)
 - *Theology of the Body* (334)
 - *Spiritual Pilgrimage: Texts on Jews & Judaism, 1979-1995* (see *Homily at the Beatification of [[Edith Stein]]*, 540, 915)
 - ***The Pope Speaks to the American Church: John Paul's Homilies, Speeches, and Letters to Catholics in America*** (551)

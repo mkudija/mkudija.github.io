@@ -1,18 +1,19 @@
 ---
-aliases: [The Literary Guide to the Bible]
+aliases:
+  - The Literary Guide to the Bible
 title: The Literary Guide to the Bible
 author: Robert Alter, Frank Kermode
 category: Literary Criticism
 publisher: Harvard University Press
 total_page: 700
 publish_date: 1990-09
-isbn10: 0674875311
+isbn10: 674875311
 isbn13: 9780674875319
 source: 
 wishlist: 2023-05-22
-acquired: 
+acquired: 2024-03-30
 started: 
-finished: 
+finished:
 ---
 # *[The Literary Guide to the Bible]()* by [[Robert Alter, Frank Kermode]]
 
@@ -27,6 +28,7 @@ finished:
 
 **Source**
 - *[[2023-05-24-The Art of Bible Translation|The Art of Bible Translation]]*
+- [[UA Library]] [[2024-03-30-Sat]]
 
 **Bibliography**
 

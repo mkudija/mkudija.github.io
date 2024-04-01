@@ -1,10 +1,28 @@
-
+---
+aliases:
+  - Irreversible Damage
+title: Irreversible Damage
+author: Abigail Shrier
+category: Political Science
+publisher: Simon and Schuster
+total_page: 180
+publish_date: 2020-06-30
+isbn10: 1684510465
+isbn13: 9781684510467
+source: 
+wishlist: 2022-02-23
+acquired: 
+started: 
+finished: 
+finishednotes:
+---
 # [*Irreversible Damage: The Transgender Craze Seducing Our Daughters*]() by [[Abigail Shrier]]
-#wishlist
 
-<img src="" width=150>
+<img src="http://books.google.com/books/content?id=GO6yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(Washington, DC: Regnery, 2020), 227`
+`(New York: Simon and Schuster, 2020-06-30), 180`
+
+
 
 # Notes
 
@@ -85,6 +103,7 @@ _**Summary**: _
 
 **Source**
 - [[2022-01-25 Article-As I Found Out With My Daughter, Not Even Catholic Schools Are Safe Havens From Gender Ideology]]
+- [[Rebecca Hurd]] [[2024-03-19-Tue]]
 
 
 **Bibliography**

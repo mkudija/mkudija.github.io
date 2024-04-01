@@ -218,12 +218,10 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 
 <p>7-day history (from <a href="Kellan-Selig.html">Kellan Selig</a>) for tables. For views, need to get source tables </p>
 
-<div class="codehilite">
-<pre><span></span><code><span class="k">SELECT</span><span class="w">   </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span>
-<span class="o">`</span><span class="k">table</span><span class="o">`</span><span class="w"> </span>
-<span class="k">FOR</span><span class="w"> </span><span class="n">SYSTEM_TIME</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="k">OF</span><span class="w"> </span><span class="n">TIMESTAMP_SUB</span><span class="p">(</span><span class="k">CURRENT_TIMESTAMP</span><span class="p">(),</span><span class="w"> </span><span class="nb">INTERVAL</span><span class="w"> </span><span class="mi">30</span><span class="w"> </span><span class="k">MINUTE</span><span class="p">)</span>
+<pre><code>SELECT   * FROM 
+`table` 
+FOR SYSTEM_TIME AS OF TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 30 MINUTE)
 </code></pre>
-</div>
 
 
 </div>

@@ -120,7 +120,7 @@ _**Summary**: The writing of Witness to Hope, before which John Paul said "They 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pope_John_Paul_II_after_shooted.jpg/1920px-Pope_John_Paul_II_after_shooted.jpg" width="75%">
 
 - Cardinal Pio Laghi on [[liberation theology]]: "The spaghetti is good but the sauce is poisoned" (143)
-- Discussion of the implementation of [[Vatican II]] (and *[[~Sources of Renewal|Sources of Renewal]]* [[bib]]) on 145
+- Discussion of the implementation of [[Vatican II]] (and *[[2024-03-31-Sources of Renewal|Sources of Renewal]]* [[bib]]) on 145
 - "Until President Roosevelt had sent some staff from the Library of Congress to Rome in the 1930s to help organize the Vatican Library, books there were shelved by size and color." (149, !!)
 - Wojtyla was a man of synthesis and a connector of ideas: love *and* responsibility, person *and* act, etc. (161)
 - "One is only free when living in the truth, and John Paul was fearless because of his security in the truth." (164)

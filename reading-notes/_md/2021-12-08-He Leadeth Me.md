@@ -19,6 +19,7 @@ finished: 2021-12-02
 
 >*In green pastures he makes me lie down; to still waters he leads me.* <br>–[[Ps-23#v2]]
 
+>And the greatest grace God can give such a man is to send him a trial he cannot bear with his own powers—and then sustain him with his grace so he may endure to the end and be saved.
 
 ## Prologue
 - "Men died in those camps, especially those who gave up hope." (12)

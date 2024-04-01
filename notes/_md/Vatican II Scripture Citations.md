@@ -10,6 +10,7 @@ The charts below show the count of citations by book and section of the Bible, a
 <iframe width="700" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=777117564&amp;format=interactive"></iframe>
 
 <iframe width="523" height="477" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=1849385519&amp;format=interactive"></iframe>
+
 Clearly the New Testament is cited far and away more than the Old Testament. Most citations are from St. Paul's letters and the Gospels, with disproportionate weighted citations also from the Catholic letters and Acts. 
 
 The top 5 books by total count are:

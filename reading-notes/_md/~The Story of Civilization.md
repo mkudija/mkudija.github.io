@@ -12,7 +12,7 @@ isbn13: 9781505105681
 source: 
 wishlist: 2024-01-25
 acquired: 
-started: 2024-01-24
+started: 
 finished: 
 finishednotes:
 ---
@@ -35,6 +35,7 @@ finishednotes:
 - Hittites in mountains of Anatolia, horseman, rules for tribute and didn’t build much
 - Canaanites: worshiped Baal and Moloch including human sacrifice
 - Phoenicians: merchants from Tire and Sidon, gave wood for temple (cedar trees); alphabet
+*started 2024-01-24 on Hoopla but stopped*
 
 --- 
 **Topic**: [[History]]
