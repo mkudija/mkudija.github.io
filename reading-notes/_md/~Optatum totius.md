@@ -23,7 +23,8 @@ finished:
 
 `(Rome: Vatican, 1965), xx`
 
-
+- "The duty of fostering vocations pertains to the whole Christian community, which should exercise it above all by a fully Christian life. The principal contributors to this are the families which, animated by the spirit of faith and love and by the sense of duty, become a kind of initial seminary, and the parishes in whose rich life the young people take part." (2)
+- Latin, Hebrew, Greek: "The study of the liturgical language proper to each rite should be considered necessary; a suitable knowledge of the languages of the Bible and of Tradition should be greatly encouraged." (13)
 
 --- 
 **Topic**: [[Vatican II]]

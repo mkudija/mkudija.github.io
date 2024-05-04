@@ -23,7 +23,7 @@ finished:
 
 `(Rome: Vatican, 1965), xx`
 
-
+- "The Eastern Churches in communion with the Apostolic See of Rome have a special duty of promoting the unity of all Christians, especially Eastern Christians, in accordance with the principles of the decree, "About Ecumenism," of this Sacred Council, by prayer in the first place, and by the example of their lives, by religious fidelity to the ancient Eastern traditions, by a greater knowledge of each other, by collaboration and a brotherly regard for objects and feelings." (24) 
 
 --- 
 **Topic**: [[Vatican II]]

@@ -30,6 +30,7 @@ finishednotes:
 ## *[[~Gravissimum educationis|Gravissimum educationis]]*
 *Declaration on Christian Education*
 Summary: *Parents are the primary and principal educators. Education aims to form the whole person to pursue true freedom in the spirit of Christ.*
+- [[John Paul II]]: "Catholic education is above all a question of communicating Christ." (32)
 
 ## *[[~Nostra aetate|Nostra aetate]]*
 *Declaration on the Relation of the Church to Non-Christian Religions*
@@ -63,6 +64,12 @@ Summary: *Religous—those who profess the evangelical counsels of poverty, chas
 *Decree on Priestly Training*
 Summary: *We must all foster vocations, especially the family as the "first seminary". Training should be focused first on Sacred Scripture and second on the mysteries of the Church. Seminarians are to be formed with discipline and self denial, with an emphasis on liturgy and languages (Latin, Hebrew, Greek) and philosophy.*
 
+>It is important to have a thorough knowledge of sacred Scripture as a whole, in its unity as the Old and the New Testaments: the shaping of texts, their literary characteristics, the process by which they came to form the canon of sacred books, their dynamic inner unity, a unity which may not be immediately apparent but which in fact gives the individual texts their full meaning. It is important to be familiar wiht the Fathers and the great Councils in which the Church appropriated, through faith-filled reflection, the essential statements of Scripture.
+>–[[Joseph Ratzinger|Pope Benedict XVI]], *Letter to Seminarians*, 251 cf. *[[~Optatum totius|OT]] 8*
+
+>The seminary should be construed as a distiplined "staying" with Jesus so as to cultivate friendship with him.
+>–Bishop Barron, 253 cf. *[[~Optatum totius|OT]] 8*
+
 ## *[[~Apostolicam actuositatem|Apostolicam actuositatem]]*
 *Decree on the Apostolate of the Laity*
 Summary: *The laity have an indispensable role in the mission of the Church for the sanctification of men and the perfection of the temporal order, to be leaven in the world. The laity are called to evangelize through both the testimony of their Christian life and by their words. They have an obligation to engage in works of charity and to work for justice and the common good. Families are especially called to build the domestic sanctuary and give testimony through their faithfulness to the Gospel and example of Christian marriage.*
@@ -74,6 +81,8 @@ Summary: *The Church is missionary by her nature, and evangelization is the basi
 ## *[[~Presbyterorum ordinis|Presbyterorum ordinis]]*
 *Decree on the Ministry and Life of Priests*
 Summary: *Priests, conformed to Christ and acting in his name, preach the Gospel and act as mediators in the Eucharist for the glory of God and man's progress in the divine life. Their primary duty is proclaiming the Gospel to all, the source and apex of which is found in the most Blessed Eucharist.*
+
+>Outstanding among all these spiritual aids are those acts by which the faithful are nourished in the Word of God at the double table of the Sacred Scripture and the Eucharist. (18)
 
 >The preacher must be, first, a biblical person, for homilies come forth from, are conditioned by, and return to the Bible. He must be someone who habitually immerses himself in the language, stories, rhythms, speech patterns, and ethos of the Scriptures. He should love the Bible, reading and meditating upon it daily. By meditation, we mean some structured form of imaginative and spiritual immersion in the scriptural texts. He should have the words of the Bible readily at hand and often on his lips; he should have committed sections of the Scripture to memory and have a sure grasp of the narrative thrust of the entire Bible. He ought to have the Bible frequently on his person, carrying it with him when he travels and remaining easily linked to it by computer or iPhone. He ought to bring it with him when he prays before the Blessed Sacrament. Moreover, every preacher should regularly consult good scriptural commentaries, both of the technical and spiritual type. I would warmly recommend the homilies and biblical commentaries of the Church Fathers, especially those of Origen, Augustine, Ephrem, Chrysostom, and Jerome.
 –Bishop Barron (401)

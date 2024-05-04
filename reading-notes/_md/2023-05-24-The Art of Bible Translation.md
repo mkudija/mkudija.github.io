@@ -1,16 +1,17 @@
 ---
-aliases: [The Art of Bible Translation]
+aliases:
+  - The Art of Bible Translation
 title: The Art of Bible Translation
 author: Robert Alter
 category: Bibles
 publisher: Princeton University Press
 total_page: 148
 publish_date: 2020-09-08
-isbn10: 0691209146
+isbn10: 691209146
 isbn13: 9780691209142
 source: 
-wishlist: 2023-04-21
-acquired: 
+wishlist: 
+acquired: 2024-05-01
 started: 2023-04-26
 finished: 2023-05-24
 ---

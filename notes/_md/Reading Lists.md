@@ -47,6 +47,7 @@ publish: true
 - *How to Read a Book* by [[Mortimer Adler]]
 - *[[2017-11-01-The Vanishing American Adult#Chapter 8 Build a Bookshelf|The Vanishing American Adult, Chapter 8: Build a Bookshelf]]*
 - *[[~Catholic Education|Catholic Education: Homeward Bound: A Useful Guide to Catholic Home Schooling]]*
+- *[[~Books Children Love (Revised Edition)|Books Children Love (Revised Edition)]]*
 
 
 ## Philosophy

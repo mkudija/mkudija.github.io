@@ -27,6 +27,7 @@ finished:
 
 **Source**
 - [[Adam Pasternack]] (lenten reading, also *Thomistic Common Sense*, *On Divine Revelation*, and *The Sense of Mystery*)
+- [[Adam Pasternack]] [[2024-05-02-Thu]], goes through mystical doctors similar to *[[2022-12-30-The Fulfillment of All Desire|The Fulfillment of All Desire]]*
 
 **Bibliography**
 

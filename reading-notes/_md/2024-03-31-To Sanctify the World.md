@@ -44,7 +44,7 @@ _**Summary**: Ecumenical Councils have been responses to crises in the Church. T
 - I often to think to look back at history to put our problems in perspective and realize that they aren't as bad as may be we think they are. But [[John Henry Newman|Newman]] seems to say the opposite!
 
 >I know that all times are perilous, and that in every time serious and anxious minds, alive to the honour of God and the needs of man, are apt to consider no times so perilous as their own. Still I think that the trials which lay before us are such as would appal and make dizzy even such courageous hearts as St. Athanasius, St. Gregory I, or St. Gregory VII. And they would confess that dark as the prospect of their own day was to them severally, ours has a darkness different in kind from any that has been before it... [For] Christianity has never yet had experience of a world simply irreligious.
->–Sermon 9: The infidelity of the Future
+>–Sermon 9: The infidelity of the Future (16)
 
 
 ## Chapter 2: Modernity as Ideology

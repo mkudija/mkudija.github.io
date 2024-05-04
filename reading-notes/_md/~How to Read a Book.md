@@ -20,9 +20,21 @@ finished:
 
 `(New York: Simon and Schuster, 2014-09-30), 448`
 
+Themes:
+- There are different levels of reading: learn how to shift between them.
+- Four Levels of Reading 
+	- Level 1: Elementary Reading 
+	- Level 2: Inspectional Reading 
+	- Level 3: Analytical Reading 
+		- Understand what kind of book you are reading 
+		- State what the book is about as briefly as you can 
+		- Enumerate the major parts in their order and relation and outline those parts as you have outlined the whole 
+		- Define the problem(s) the author is trying to solve
+	- Level 4: Syntopical Reading
 
 Resources: 
 - [Collected | A place where discovered and developed ideas are shared.](https://collected.joebuhlig.com/books/)
+- [📚 How to Read Like a Pro (& Amplify Your Reading Gains)](https://practicalpkm.ck.page/posts/get-more-out-of-books-that-you-read)
 
 --- 
 **Topic**: 

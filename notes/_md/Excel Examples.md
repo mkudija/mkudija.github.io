@@ -20,6 +20,11 @@ publish: true
 =ROUNDUP(MONTH(B2)/3,0)
 ```
 
+### Every $n^{th}$ Row
+```
+=OFFSET($A$1,(ROW()-1)*n,0)
+```
+
 ---
 Created: [[2022-07-13-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

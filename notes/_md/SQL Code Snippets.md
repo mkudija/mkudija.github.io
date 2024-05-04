@@ -401,6 +401,11 @@ DATE_DIFF('month', start_month, calendar_month) AS age
 
 To transform a timestamp into weekly or daily etc. data use `DATE_TRUNC()`. Available `datepart`s are listed [here](http://www.postgresqltutorial.com/postgresql-date_trunc/).
 
+GCP/BQ
+```sql
+DATE_TRUNC(timestamp, WEEK) AS week
+```
+
 ```SQL
 SELECT
     DATE_TRUNC('day', timestamp) AS day
@@ -466,7 +471,7 @@ FROM UNNEST(GENERATE_DATE_ARRAY('2023-01-01', CURRENT_DATE(), INTERVAL 1 MONTH))
 ```SQL
 WITH data AS (
     SELECT
-    DATE(entry_creation_time) AS event_date
+    event_date
     , dim1
     , dim2
     , value
@@ -517,6 +522,32 @@ FROM anomalies
 WHERE event_date BETWEEN DATE_ADD(CURRENT_DATE(), INTERVAL -120 DAY) AND CURRENT_DATE()
 ORDER BY 1 DESC,2,3
 ```
+
+### SELECT EXCEPT 
+```sql
+SELECT
+	* EXCEPT(col1, col2)
+```
+
+### Equal Size Buckets
+```sql
+WITH buckets AS (
+	SELECT
+		value
+		, NTILE(5) OVER (ORDER BY value ASC) AS value_bucket
+	FROM table
+)
+
+SELECT 
+	value_bucket
+	, MIN(value) AS bucket_lower
+	, MAX(value) AS bucket_upper
+FROM buckets
+GROUP BY 1
+ORDER BY 1
+```
+
+
 ## Resources
 - [SQLBolt - Learn SQL](https://sqlbolt.com/)
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)

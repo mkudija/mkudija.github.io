@@ -23,7 +23,9 @@ finished:
 
 `(Rome: Vatican, 1965), xx`
 
-
+- "A true education aims at the formation of the human person in the pursuit of his ultimate end and of the good of the societies of which, as man, he is a member." (1)
+- "Since parents have given children their life, they are bound by the most serious obligation to educate their offspring and therefore must be recognized as the primary and principal educators." (3)
+- 
 
 --- 
 **Topic**: [[Vatican II]]

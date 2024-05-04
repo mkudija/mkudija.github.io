@@ -476,6 +476,11 @@ WHERE
 
 <p>To transform a timestamp into weekly or daily etc. data use <code>DATE_TRUNC()</code>. Available <code>datepart</code>s are listed <a href="http://www.postgresqltutorial.com/postgresql-date_trunc/">here</a>.</p>
 
+<p>GCP/BQ</p>
+
+<pre><code>DATE_TRUNC(timestamp, WEEK) AS week
+</code></pre>
+
 <pre><code>SELECT
     DATE_TRUNC('day', timestamp) AS day
 </code></pre>
@@ -541,7 +546,7 @@ FROM UNNEST(GENERATE_DATE_ARRAY('2023-01-01', CURRENT_DATE(), INTERVAL 1 MONTH))
 
 <pre><code>WITH data AS (
     SELECT
-    DATE(entry_creation_time) AS event_date
+    event_date
     , dim1
     , dim2
     , value
@@ -593,6 +598,30 @@ WHERE event_date BETWEEN DATE_ADD(CURRENT_DATE(), INTERVAL -120 DAY) AND CURRENT
 ORDER BY 1 DESC,2,3
 </code></pre>
 
+<h3 id="select-except">SELECT EXCEPT</h3>
+
+<pre><code>SELECT
+    * EXCEPT(col1, col2)
+</code></pre>
+
+<h3 id="equal-size-buckets">Equal Size Buckets</h3>
+
+<pre><code>WITH buckets AS (
+    SELECT
+        value
+        , NTILE(5) OVER (ORDER BY value ASC) AS value_bucket
+    FROM table
+)
+
+SELECT 
+    value_bucket
+    , MIN(value) AS bucket_lower
+    , MAX(value) AS bucket_upper
+FROM buckets
+GROUP BY 1
+ORDER BY 1
+</code></pre>
+
 <h2 id="resources">Resources</h2>
 
 <ul>
@@ -611,7 +640,7 @@ ORDER BY 1 DESC,2,3
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2023-11-21-Tue</p>
+Updated: 2024-04-22-Mon</p>
 
 
 </div>

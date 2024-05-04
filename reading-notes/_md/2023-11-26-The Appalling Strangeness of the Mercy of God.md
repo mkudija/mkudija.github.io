@@ -81,7 +81,7 @@ About Abraham's the sacrifice of Isaac in [[Gn-22]]:
 - "This life is short, and it is merely the qualifying exam for the real thing." (182)
 - "I try to remember that I should be glad of the opportunities to unite my sufferings with Christ. Then, when Ia actually feel miserable, this all goes right out the window. It's tedious." (183)
 - "The Protestants have an utterly ahistorical view of reality." (186, cf. *[[~An Essay on the Development of Christian Doctrine#^d8ecc8]]*)
-- " I am even just a little bit impatient to see heaven." (201)
+- "I am even just a little bit impatient to see heaven." (201)
 - "My mother was a [[Stoicism|stoic]], and I took after her somewhat in this regard. I admire it a lot. But don't let it substitute for Christian hope and joy." (204)
 - "This life is short and heave is the point, so why not get on with the main point. I trust that the way God arranges life is always the best way." (207)
 

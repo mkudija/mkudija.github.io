@@ -23,7 +23,8 @@ finished:
 
 `(Rome: Vatican, 1965), xx`
 
-
+- "The Catholic Church rejects nothing that is true and holy in these religions." (47)
+- "We cannot truly call on God, the Father of all, if we refuse to treat in a brotherly way any man, created as he is in the image of God." (57)
 
 --- 
 **Topic**: [[Vatican II]]
