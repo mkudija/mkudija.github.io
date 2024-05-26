@@ -1,3 +1,10 @@
+<li><i>The New Testament (ESV)</i></li>
+<li><i>We Thought We Heard the Angels Sing</i> by James C. Whittaker</li>
+<li><i>The Apostle of Common Sense</i> by Dale Ahlquist</li>
+<li><i>CCSS—James, First, Second, and Third John</i> by Kelly Anderson & Daniel Keating</li>
+<li><i>Flying Blind: The 737 MAX Tragedy and the Fall of Boeing</i> by Peter Robison</li>
+<li><i>The Golden Children's Bible</i></li>
+<li><i>The Golden Key</i> by George MacDonald</li>
 <li><i>Saint Vincent Ferrier</i> by Henri Ghéon</li>
 <li><i>For the Love of Books</i> by Thatcher Wine</li>
 <li><i>The Mouse and the Motorcycle</i> by Beverly Cleary</li>

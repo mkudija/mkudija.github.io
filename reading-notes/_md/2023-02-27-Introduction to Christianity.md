@@ -402,7 +402,7 @@ _**Summary**: How can a study of Christ be summarized...apart from asking for me
 - *The nature of Christian worship*
 	- In Christian worship we put aside our attempts at justification and accept the gift of the love of Jesus Christ 
 	- Christianity is not finally fellowship, but adoration 
-	- J. Daniélou: "Between the heathen world and the threefold God there is only one link, and that is the Cross of Christ...This stretching out of Christ, symbolized by the four directions of the Cross, is the mysterious expression of our own dismemberment and makes us like him." (290)
+	- [[Jean Daniélou]]: "Between the heathen world and the threefold God there is only one link, and that is the Cross of Christ...This stretching out of Christ, symbolized by the four directions of the Cross, is the mysterious expression of our own dismemberment and makes us like him." (290)
 		- → love is this being torn apart 
 >In the abyss of human failure is revealed the still more inexhaustible abyss of divine love (293).
 

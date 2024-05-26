@@ -39,6 +39,9 @@ finishednotes: 2024-01-11
 - "Long before I found myself in the cockpit of Flight 1549, I had closely studied other airline accidents." (39)
 - "It takes time, hour after hour, to master the science and art of flying a commercial jet." (41)
 - "An airline accident is almost always the end result of a causal chain of events. Every choice we in the airline industry make based solely on cost has ramifications and should be evaluated carefully." (41)
+- Two volunteer pilots landed a B-24 on the James river on September 20, 1944 (43-44)
+	- "That report called for landing gear to be retracted rather than extended. It described why an airplane should fly as slowly as possible, and why wing flaps should be down for impact. It also called for the nose to be up in most cases. These procedural guidelines remain in use today, and were in my head on Flight 1549."
+	- No mention of *[[2024-05-11-We Thought We Heard the Angels Sing|We Thought We Heard the Angels Sing]]*: I wonder if he is aware of this ditching? 
 
 ## Measure Twice, Cut Once
 - [[self-competence]]: "I grew up in a home where each of us had our own hammer...The goal was to do everything ourselves, to learn what we didn't know and then have at it. My dad taught himself to do the carpentry, the electrical installations, even the roofing—and then he taught us...We were learning how to learn." (50-52)

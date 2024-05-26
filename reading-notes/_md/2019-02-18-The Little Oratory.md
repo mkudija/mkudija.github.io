@@ -1,7 +1,27 @@
-# [*The Little Oratory: A Beginner's Guide to Praying in the Home*](https://www.sophiainstitute.com/products/item/the-little-oratory) by David Clayton & Leila Lawler
-<img src="https://www.sophiainstitute.com/images/uploads/products/_small/9781622821761.jpg" width=150>
+---
+aliases:
+  - The Little Oratory
+title: The Little Oratory
+author: David Clayton, Leila Marie Lawler
+category: Religion
+publisher: Sophia Institute Press
+total_page: 224
+publish_date: 2014-04-25
+isbn10: 1622821769
+isbn13: 9781622821761
+source: 
+wishlist: 
+acquired: 2019-06-17
+started: 
+finished: 
+finishednotes:
+---
+# *[The Little Oratory]()* by [[David Clayton]], [[Leila Marie Lawler]]
 
-`(Manchester: Sophia, 2014), 186`
+<img src="http://books.google.com/books/content?id=B-RIAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+
+`(Manchester: Sophia Institute Press, 2014), 186`
+
 
 ## Chapter 1 - The Christian Life
 - "[[The Good Life|The good life]] is the liturgical life." (9)
@@ -68,6 +88,7 @@
 
 ## Chapter 8 - Praying the Rosary
 - the Rosary has the virtue of compressing important points of the Faith and the history of salvation into one easily memorized devotion (100)
+- "You are not just aiming at some sort of success at saying prayer together today. You are aiming at instilling in your children a lifelong love of prayer." (101)
 - "it's when their father leads the prayer that the habit of praying lasts into their adulthood" (101)
 - try not to explain too much, just pray (103)
 
@@ -86,6 +107,10 @@
 - Always ask the question, "Is this beautiful?" (160)
 - [Chant the Psalms](http://www.thewayofbeauty.org/psalm-tones)
 
+
+--- 
+**Topic**: [[Prayer]]
+
 ---
 Created: 2019-06-17
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

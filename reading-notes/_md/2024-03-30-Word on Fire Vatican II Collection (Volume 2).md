@@ -13,7 +13,7 @@ wishlist: 2023-01-24
 acquired: 2023-12-13
 started: 2024-02-01
 finished: 2024-02-14
-finishednotes:
+finishednotes: 2024-03-30
 ---
 # *[Word on Fire Vatican II Collection (Volume 2: Decrees and Declarations)](https://bookstore.wordonfire.org/products/vatican-ii-volume-ii)*
 

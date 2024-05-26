@@ -14,7 +14,7 @@ wishlist: 2024-04-21
 acquired: 
 started: 2024-04-21
 finished: 2024-05-04
-finishednotes:
+finishednotes: 2024-05-04
 ---
 # *[Saint Vincent Ferrier]()* by [[Henri Ghéon]]
 

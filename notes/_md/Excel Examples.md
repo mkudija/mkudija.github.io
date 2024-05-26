@@ -18,6 +18,7 @@ publish: true
 ### Quarter of Year
 ```xls
 =ROUNDUP(MONTH(B2)/3,0)
+=ROUNDUP(MONTH(B2)/3,0)&"Q"&RIGHT(YEAR(B2),2)
 ```
 
 ### Every $n^{th}$ Row

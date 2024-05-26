@@ -18,6 +18,12 @@ publish: true
 # [[Woodworking]] Projects
 
 
+### 2024-05-04 [[2024-Heirloom Wall Mount|Heirloom Wall Mount]]
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2024-05-04-heirloom-wall-mount.jpg?raw=true" width="100%">
+
+
 ### 2024-03-15 Serving Trays
 *Walnut*
 

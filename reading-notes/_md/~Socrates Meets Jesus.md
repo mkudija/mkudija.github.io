@@ -1,18 +1,20 @@
 ---
-aliases: [Socrates Meets Jesus]
+aliases:
+  - Socrates Meets Jesus
 title: Socrates Meets Jesus
 author: Peter Kreeft
 category: Religion
 publisher: IVP Books
 total_page: 182
 publish_date: 2002-02-10
-isbn10: 0830823387
+isbn10: 830823387
 isbn13: 9780830823383
-source: [[The Classical Teacher - Winter 2023]]
+source:
+  - - The Classical Teacher - Winter 2023
 wishlist: 2023-02-05
-acquired: 
+acquired: 2024-05-15
 started: 
-finished: 
+finished:
 ---
 # *[Socrates Meets Jesus]()* by [[Peter Kreeft]]
 
@@ -26,7 +28,8 @@ finished:
 **Topic**: 
 
 **Source**
-- 
+- [[The Classical Teacher - Winter 2023]]
+- [[Aquinas CoOp]] Logic
 
 **Bibliography**
 

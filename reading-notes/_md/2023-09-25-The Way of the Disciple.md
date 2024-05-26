@@ -39,6 +39,7 @@ Finally, I am most struck by this call to purity of heart for understanding Scri
 >**The monk who wants to attain knowledge of the Scriptures should not waste his efforts on the books of the commentators, but should rather direct all the activity of his spirit and all the attention of his heart to the purification of the vices of the flesh.** Once these have been driven out, and the veils of the passions have been lifted, the eyes of the heart will naturally contemplate the mysteries of the Scriptures. For the grace of the Holy Spirit has not taught these mysteries for them to remain unknown and dark; rather, they became such through our own fault, when we allow the veil of sin to darken the eyes of our heart. Once these have been restored to their natural health, the simple reading of Sacred Scripture amply suffices all by itself for the contemplation of true knowledge.
 >–[[Cassian]], *[[~Institutes|Institutes]]*, 5, 34
 
+
 ## Preface
 - "Those who contemplate the Gospel text with the eyes of a faithful lover can, with patience, begin to discover the whole in the fragment, the full Mystery of Christ hidden in each and every scene." (11)
 - "If we have ears attuned to his voice and hearts willing to learn what his Heart has to teach, in every line of the Gospel we will hear Christ calling us to enter into his intimacy and destiny as disciples." (12)

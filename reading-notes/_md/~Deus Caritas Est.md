@@ -11,7 +11,7 @@
 --- 
 **Topic**: [[Encyclical]]
 
-**Source**: 
+**Source**: [[St. Patrick Church]] library [[2024-05-05-Sun]]
 
 **Bibliography**
 

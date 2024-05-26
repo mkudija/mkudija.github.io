@@ -12,7 +12,7 @@ isbn13:
 source: 
 wishlist: 2023-11-19
 acquired: 2024-01-29
-started: 
+started: 2024-05-15
 finished:
 ---
 # *[In Necessity and Sorrow: Life and Death in an Abortion Clinic]()* by [[Magda Denes]]

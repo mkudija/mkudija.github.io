@@ -14,7 +14,7 @@ wishlist:
 acquired: 2023-09-11
 started: 2024-03-01
 finished: 2024-03-14
-finishednotes: 
+finishednotes: 2024-03-31
 ---
 # *[Sources of Renewal]()* by [[John Paul II|Pope John Paul II]]
 

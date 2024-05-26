@@ -1,19 +1,20 @@
 ---
-aliases: [The Golden Children's Bible]
+aliases:
+  - The Golden Children's Bible
 title: The Golden Children's Bible
 author: Golden Books
 category: Juvenile Nonfiction
 publisher: Golden Inspirational
 total_page: 516
 publish_date: 1999-10-01
-isbn10: 0307165205
+isbn10: 307165205
 isbn13: 9780307165206
 source: 
 wishlist: 
 acquired: true
 started: 2023-08-30
-finished: 
-dimensions:
+finished: 2024-05-05
+dimensions: 
 translation: Children's
 ---
 # *[The Golden Children's Bible]()* by [[Golden Books]]

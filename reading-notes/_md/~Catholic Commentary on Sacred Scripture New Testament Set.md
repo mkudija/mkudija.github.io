@@ -17,17 +17,17 @@ acquired: 2023-08-09
 started: 
 finished:
 ---
-# *[Catholic Commentary on Sacred Scripture]()* by [[]]
+# *[Catholic Commentary on Sacred Scripture](https://www.catholiccommentaryonsacredscripture.com/)* 
 
 <img src="http://books.google.com/books/content?id=SG_DxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: Baker Academic, 2020-02-04), 5342`
 
 
-# First and Second Peter, Jude 
+## First and Second Peter, Jude 
 - Discusses the status of [[1 Enoch]]: "By quoting Enoch Jude is not necessarily treating the book as canonical Scripture, but he is relating to it as a reliable and well-known witness that can be called upon to add to his accusation against the false teachers." (211, cf *[[2017-01-03-The City of God#Book XVII|City of God 18.38]]*)
 
-### *[[Reading Notes/~James, First, Second, and Third John]]*
+## *[[2024-05-26-CCSS-James, First, Second, and Third John]]*
 
 --- 
 **Topic**: [[The Bible|Sacred Scripture]], [[Bible Commentary]]
