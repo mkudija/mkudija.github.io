@@ -24,6 +24,7 @@ aliases: [Poetry]
 - *[[Pied Beauty]]*
 - *[[Brothers]]*
 - *[[Thou art indeed just, Lord]]*
+- *[[My own heart let me more have pity on]]*
 
 **Jane McKay Lanning**
 - *[[Lent]]*

@@ -62,7 +62,7 @@ Ruth Pakaluk is a beautiful model of ordinary holiness, heroic suffering, and fi
 >The core of Ruth's argument about [[abortion]] and human rights may be summarized in this way: Human rights are rights that pertain to us simply in virtue of the fact that we are human, not for any reason above and beyond that; the fundamental human right is the right to life, and so, if that right is denied, then all human rights are in effect denied; the thing growing in the mother's womb is surely alive (otherwise it would not need to be killed by an abortion), and it is human; thus, to deny that the thing growing in the mother's womb has the right to life is to deny that anyone has any human rights whatsoever. (61-62)
 
 
-- "A big turning point in Ruth's thinking about the abortion controversy occurred one day when she was looking for abortion-related books in the used book section in the basement of Harvard Book Store, and she came across *[[~In Necessity and Sorrow|In Necessity and Sorrow: Life and Death in an Abortion Clinic]]*, by Magda Denes. The author is a firm advocate of tax-funded abortion on demand throughout all nine months of pregnancy. But she is a clinical psychologist, and therefore her intention is to gather facts about how abortion affects those involved with it. So in the book, she describes how she goes to an abortion facility and interviews doctors, nurses, counselors, the women having the abortions, and those who accompany these women. She even witnesses and describes an abortion. Paradoxically, this book by an abortion advocate was usually the first one Ruth would recommend to anyone who wanted to do further reading. What the book made clear to Ruth is that people directly involved with abortion are well aware that they are killing human persons—because that's how they themselves describe abortion. It's that very realization that causes them to be conflicted about abortion." (62)
+- "A big turning point in Ruth's thinking about the abortion controversy occurred one day when she was looking for abortion-related books in the used book section in the basement of Harvard Book Store, and she came across *[[2024-05-27-In Necessity and Sorrow|In Necessity and Sorrow: Life and Death in an Abortion Clinic]]*, by Magda Denes. The author is a firm advocate of tax-funded abortion on demand throughout all nine months of pregnancy. But she is a clinical psychologist, and therefore her intention is to gather facts about how abortion affects those involved with it. So in the book, she describes how she goes to an abortion facility and interviews doctors, nurses, counselors, the women having the abortions, and those who accompany these women. She even witnesses and describes an abortion. Paradoxically, this book by an abortion advocate was usually the first one Ruth would recommend to anyone who wanted to do further reading. What the book made clear to Ruth is that people directly involved with abortion are well aware that they are killing human persons—because that's how they themselves describe abortion. It's that very realization that causes them to be conflicted about abortion." (62)
 - Battling for our minds are "two cultures: given that (as everyone really knows) the thing in the woman's womb is a living human, do we act on the principle that all human beings are fundamentally equal, or do we proceed as if we believe that it is permissible to kill some human beings to solve our problems? The first is the Culture of Life, the second the Culture of Death. These two cultures, she thought, were vying for the allegiance of the young people she was addressing, and her concern was to teach them what they should know in order that they might choose life." (63)
 
 ## Selected Letters 
@@ -123,7 +123,7 @@ About Abraham's the sacrifice of Isaac in [[Gn-22]]:
 **Abortion and the Culture of Human Rights**
 - Two value systems are competing for our allegiance: the Culture of Life and the Culture of Death (254)
 - What motivates arguments about abortion being wrong is simply this: *All human beings are equal in our essential dignity* (263)
-- To read to understand [[Abortion]]: *[[~In Necessity and Sorrow|In Necessity and Sorrow: Life and Death in an Abortion Hospital]]* (264)
+- To read to understand [[Abortion]]: *[[2024-05-27-In Necessity and Sorrow|In Necessity and Sorrow: Life and Death in an Abortion Hospital]]* (264)
 - "Abortion advocates know perfectly well that abortion is the taking of a human life. There is no doubt. There is not doubt on that question. And that's the big divide, and those are the two cultures competing for your. And you have to choose." (265) ^4ec521
 
 
@@ -133,15 +133,7 @@ About Abraham's the sacrifice of Isaac in [[Gn-22]]:
 **Source**
 - [[Michael Pakaluk]]'s CUA page after reading *[[2023-10-01-Mary's Voice in the Gospel According to John|Mary's Voice in the Gospel According to John]]*
 
-**Bibliography**
-
-```query
-[[bib]] file:(~The Appalling Strangeness of the Mercy of God)
-```
- 
-
 **[[New Words]]**
-
 - **conspectus**: a general survey of a subject (31)
 
 ---

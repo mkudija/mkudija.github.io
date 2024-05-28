@@ -39,6 +39,7 @@ aliases: [LOTH, Breviary]
 - *[[~Praying the Liturgy of the Hours|Praying the Liturgy of the Hours]]* and *[[2024-01-20-A Layman's Guide to the Liturgy of the Hours|A Layman's Guide to the Liturgy of the Hours]]*
 - *[[2019-02-18-The Little Oratory|The Little Oratory]]* by David Clayton & Leila Marie Lawler, page 71
 - *[[~The Priest at Prayer|The Priest at Prayer]]*, 178-186
+- *[[~The School of Prayer|The School of Prayer]]*
 
 ### Other
 - **[Compline](https://matthewkudija.com/compline/)** with second edition translations where available 

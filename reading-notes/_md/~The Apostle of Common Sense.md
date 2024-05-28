@@ -38,7 +38,9 @@ I started reading this on my Kindle before meeting Dale Ahlquist at a [[Chestert
 - His ideas aren't exotic, but he expresses them better than anyone else can and represents common sense.
 
 
-## Chapter 2: [[2014-10-06-Orthodoxy|Orthodoxy]]
+## Chapter 2: Orthodoxy
+- If you only read one book by Chesterton it has to be *[[2014-10-06-Orthodoxy|Orthodoxy]]*: "This is the trunk of the tree from which all other branches of Chesterton grow. It is a masterpiece of rhetoric; it has never been out of print since it was first published in 1908, and it is simply one of the best books written in the twentieth century."
+- The first steps are the most important—the difference between getting home and getting lost—and the first step is to accept the reality of sin. The next step is to accept the limits of reason.
 - 
 
 

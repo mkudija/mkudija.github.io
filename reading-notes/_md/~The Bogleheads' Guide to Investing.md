@@ -1,19 +1,20 @@
 ---
-aliases: [The Bogleheads' Guide to Investing]
+aliases:
+  - The Bogleheads' Guide to Investing
 title: The Bogleheads' Guide to Investing
 author: Taylor Larimore, Mel Lindauer, Michael LeBoeuf
 category: Business & Economics
 publisher: John Wiley & Sons
 total_page: 335
 publish_date: 2006-04-20
-isbn10: 0471779210
+isbn10: 471779210
 isbn13: 9780471779216
 source: 
 wishlist: 2024-04-29
 acquired: 
-started: 
+started: 2024-05-24
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Bogleheads' Guide to Investing]()* by [[Taylor Larimore, Mel Lindauer, Michael LeBoeuf]]
 
