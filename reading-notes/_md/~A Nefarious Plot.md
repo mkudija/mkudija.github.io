@@ -12,7 +12,7 @@ isbn13: 9781618688231
 source: 
 wishlist: 2024-05-13
 acquired: 
-started: 2024-05-12
+started: 
 finished: 
 finishednotes:
 ---

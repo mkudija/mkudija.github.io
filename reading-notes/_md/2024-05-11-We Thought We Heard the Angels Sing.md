@@ -14,7 +14,7 @@ wishlist: 2024-04-23
 acquired: 
 started: 2024-05-09
 finished: 2024-05-11
-finishednotes:
+finishednotes: 2024-05-11
 ---
 # *We Thought We Heard the Angels Sing* by [[James C. Whittaker]]
 

@@ -14,7 +14,7 @@ wishlist: 2024-04-16
 acquired: 
 started: 2024-04-12
 finished: 2024-04-14
-finishednotes:
+finishednotes: none
 ---
 # *[The Mouse and the Motorcycle]()* by [[Beverly Cleary]]
 

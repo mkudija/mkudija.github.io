@@ -16,6 +16,7 @@ started: 2023-08-30
 finished: 2024-05-05
 dimensions: 
 translation: Children's
+finishednotes: none
 ---
 # *[The Golden Children's Bible]()* by [[Golden Books]]
 

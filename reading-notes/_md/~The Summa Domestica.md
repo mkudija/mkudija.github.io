@@ -23,6 +23,16 @@ finishednotes:
 
 - [ ] add Summa NFP notes 📅 2024-02-22
 
+
+# Volume 1: 
+
+- Appendix cites *[[Reading Notes/~Casti Connubii]]*
+- *[[~The Restoration of Christian Culture|The Restoration of Christian Culture]]*
+
+# Volume 2: 
+
+# Volume 3: 
+
 --- 
 **Topic**: 
 
