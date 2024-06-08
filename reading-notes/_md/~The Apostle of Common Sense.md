@@ -65,27 +65,47 @@ I started reading this on my Kindle before meeting Dale Ahlquist at a [[Chestert
 - "Chesterton's solution is that we have to repent and return to the Christian ideal. The only step forward is a step back."
 
 ## Chapter 5: The Catholic Church and Conversion
-- 
-
+- The heresies that have attacked human happiness in this time were all variations of presumption or despair. 
+- Chesterton was never a Protestant in the sense of being anti-Catholic 
+- "To become Catholic is not to leave off thinking, but to learn how to think." 
+- "The Catholic Church is the only thing which saves a man from the degrading slavery of being a child of his age." 
+- "I know that Catholicism is too large for me, and I have not yet explored its beutiful and terrible truths. But I know that [[Universalism]] is too small for me; and I could not creep back into that dull safety, who have looked on the dizzy vision of liberty." 
 
 ## Chapter 6: The Thing: Why I Am a Catholic
-
-
+- "Catholic" means "universal", and Chesterton shows how The Thing applies to everything else 
+- The Catholic position is one of common sense. 
+- Calvinists are obsessed with the sovereignty of God, Lutherans with the grace of God, Methodists with the sin of man, Baptists with the Bible, Quakers with simplicity, Muslims with the Oneness of God, communists with the equality of men, feminists with the equality of men and women, materialists with creation apart from the Creator, spiritualists with the rejection of materialism, etc...All take one of the Church's mystical ideas and exalt it above the rest, losing the moderating and balancing measures of The Thing, the Catholic faith.
+- "They insist on talking about Birth Control when they mean less birth and no control." 
+- "A convinced Catholic is easily the most logical person walking about the world today." 
+- A person who rejects the faith altogether is more consistent than a person who rejects just parts of the faith, keeping the parts that please him.
 
 ## Chapter 7: The Well and the Shadows
-
-
+- "The Thing" is the complete and integrated Catholic worldview. The Catholic Church is the Well, everything else is the Shallows.
+- Other worldviews eventually attack free will and thus human dignity. Chesterton always defends freedom and dignity. 
+- "One of the chief features of the state of Peace we now enjoy is the killing of a considerable number of harmless human beings."
+- Paganism is replacing Protestantism, but can be checked by a return to Thomistic philosophy, which is the philosophy of common sense.
+- "If individuals have any hope of protecting their freedom, they must protect their family life."
+- Chesterton says nothing has done more to destroy the family than rampant and unbridled capitalism, and the solution is independent people and families living simpler lives. 
 
 ## Chapter 8: St. Francis of Assisi
-
-
+- Chesterton describes [[St. Francis]] as a soldier, fighter, builder, reformer, jester, clown of God, troubadour, poet, beggar, little poor man, and finally as a mirror of Christ.
+- Francis was able to bring reform to the Church without a revolution.
+- St. Francis was a romantic, a lover, a lower of God. 
+- "It is the highest and holiest of the paradoxes that the man who really knows he cannot pay his debt will be forever paying it. He will be forever giving back what he cannot...be expected to give back. he will be always throwing things away into a bottomless pit of unfathomable thanks." 
+- "He was a poet whose life was a poem." 
+- He did not worship nature, he worshipped the Creator. 
+- He never lost his balance because he never lost his sense of humor. 
+- "He cared chiefly for the best kind of giving which is called Thanksgiving."
 
 ## Chapter 9: St. Thomas Aquinas
-
-
+- "Without consulting any texts whatsoever, Chesterton rapidly dictated about half the book to his secretary, Dorothy Collins. Then he suddenly said to her, “I want you to go to London and get me some books.” “What books?” asked Dorothy. “I don’t know”, said G. K. So Dorothy did some research and brought back a stack of books on St. Thomas. G.K. flipped through a couple of books in the stack, took a walk in his garden, and then, without ever referring to the books again, proceeded to dictate the rest of his book to Dorothy. Many years later, when Evelyn Waugh heard this story, he quipped that Chesterton never even read the *Summa Theologica*, but merely ran his fingers across the binding and absorbed everything in it. But, of course, Chesterton had read at least parts of the Summa. What is amazing is that he read it long before he became a Catholic and thirty years before writing his book on St. Thomas Aquinas."
+- Étienne Gilson, probably the most highly respected scholar of St. Thomas in the twentieth century, a man who devoted his whole life to studying St. Thomas, had this to say about Chesterton’s book: "I consider it as being without possible comparison the best book ever written on St. Thomas. Nothing short of genius can account for such an achievement." 
+- Chesterton describes Thomas as the Saint of Common Sense, a philosopher who used reason reasonably.
+- St. Thomas justifies both faith and reason against those who would reduce man's knowledge to one or the other.
+- "When the world forgot romance, it discovered ST. Francis. When it forgot reason, it discovered St. Thomas Aquinas. The Church always has exactly what the world is lacking."
 
 ## Chapter 10: The Everlasting Man
-
+- 
 
 
 ## Chapter 11: The Outline of Sanity

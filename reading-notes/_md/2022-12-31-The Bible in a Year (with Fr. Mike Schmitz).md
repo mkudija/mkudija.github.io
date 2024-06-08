@@ -48,7 +48,7 @@
 ## Resources
 - [[~The Great Adventure Catholic Bible|The Great Adventure Bible]]
 - [The Bible Timeline Chart](https://ascensionpress.com/products/great-adventure-bible-timeline-chart)
-- [The Official 365 Day Reading Plan for The Bible in a Year](https://d2y1pz2y630308.cloudfront.net/1379/documents/2021/1/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf)
+- [The Official 365 Day Reading Plan for The Bible in a Year](https://cdn.shopify.com/s/files/1/1125/2740/files/the-official-365-day-reading-plan-for-the-bible-in-a-year_2.pdf?v=1611238365)
 - [Bible chart video](https://youtu.be/99JK14r4clY)
 - Book: *[[~Walking with God|Walking with God: A Journey through the Bible]]* by Tim Gray and Jeff Cavins
 

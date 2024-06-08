@@ -36,18 +36,7 @@ dimensions: 6.25x8.75x1.25
 
 **Source**
 - Evangelicalbible.com
-
-**Bibliography**
-
-```query
-[[bib]] file:(~New Cambridge Paragraph Bible with Apocrypha Black Calfskin Leather KJ595TA Black Calfskin)
-```
- 
-
-**[[New Words]]**
-
-- 
-
+*[[Reading Notes/~Schuyler Quentel ESV with Apocrypha]]*
 ---
 Created: [[2023-05-19-Fri]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
