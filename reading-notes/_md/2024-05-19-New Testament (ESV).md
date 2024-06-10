@@ -1,21 +1,13 @@
 ---
 aliases: 
-title:
-  "{ title }": 
+title: 2024-05-19-New Testament (ESV)
 author:
-  "{ author }": 
 category:
-  "{ category }": 
 publisher:
-  "{ publisher }": 
 total_page:
-  "{ totalPage }": 
 publish_date:
-  "{ publishDate }": 
 isbn10:
-  "{ isbn10 }": 
 isbn13:
-  "{ isbn13 }": 
 source: 
 wishlist: 
 acquired: 

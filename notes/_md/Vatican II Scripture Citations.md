@@ -7,7 +7,9 @@ publish: true
 I read the 16 documents of [[Vatican II]] for [[Lent 2024 Vatican II Study|Lent 2024]] and tabulated the 1,284 citations of [[The Bible|Sacred Scripture]] in these documents. Data is [here (Google Sheet)](https://docs.google.com/spreadsheets/d/1jla1eP9ic805hX245RMtBLCCjYtXg1msVxPYsxDuDrc/edit#gid=1913914489&range=A1).
 
 The charts below show the count of citations by book and section of the Bible, as well as count weighted by the number of verses in each book or section to give a sense of how much of a book or section was cited. 
-<iframe width="700" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=777117564&amp;format=interactive"></iframe>
+
+<img src="https://github.com/mkudija/img/blob/main/misc/2024-06-10-vatican-ii-scripture-citations.png?raw=true" width="100%">
+<!--<iframe width="700" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=777117564&amp;format=interactive"></iframe> -->
 
 <iframe width="523" height="477" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1CqyqZYE13STOpjvgOytKlXetMuncpyIbbFi42IEPkBRIOXupnRR0z1QSo8G9JJ9QwsstYftldOn8/pubchart?oid=1849385519&amp;format=interactive"></iframe>
 
