@@ -14,7 +14,7 @@ wishlist:
 acquired: 
 started: 2023-11-01
 finished: 2024-05-09
-finishednotes: 
+finishednotes: 2024-06-19
 ---
 # *[The Apostle of Common Sense](https://ignatius.com/the-apostle-of-common-sense-acsp/)* by [[Dale Ahlquist]]
 
@@ -105,28 +105,55 @@ I started reading this on my Kindle before meeting Dale Ahlquist at a [[Chestert
 - "When the world forgot romance, it discovered ST. Francis. When it forgot reason, it discovered St. Thomas Aquinas. The Church always has exactly what the world is lacking."
 
 ## Chapter 10: The Everlasting Man
-- 
-
+- *Everlasting Man* is one of his most important works, and is a big-picture history of the world and defense of Christianity in response to [[H.G. Wells]]' *[[~The Outline of History|The Outline of History]]* (Wells tried to treat man as just another animal and Christ as just another man)
+- Myths are stories about an ache for the eternal 
+- The purpose of *Everlasting Man* is to get us to look at Christianity as a true outsider might 
+- "There must surely have been something not only mysterious but man-sided about Christ if so many smaller Christs can be carved out of him." 
+- The soul of Christendom is common sense
 
 ## Chapter 11: The Outline of Sanity
-
-
+- A collection of essays 
+- We think of only [[Socialism]] (the natural result of which is the government owns all property and controls all aspects of life) and [[Capitalism]] (the natural result of which is one person owning everything and everyone else owning nothing) as the economic systems, but he argues for a third. Chesterton proposes [[Distributism]]: freedom and responsibility, security based upon the widespread ownership of private property. The name comes from "distributive justice" in *[[~Rerum Novarum|Rerum Novarum]]*
+- [[Socialism]] does not accomplish any of the things it sets out to do because it does not trust the common man and leaves nothing to common sense 
+- Chesterton prophesies "big business" with "The Bluff of the Big Shops"
+- [[Distributism]] is democracy, because democracy can only work if property is widespread. Peasantry is self-support, self-control, and self-government.
+- It is very possible to be happy without being rich! "The aim of human polity is human happiness...There is no obligation on us to be richer, or busier, or more efficient, or more productive, or more progressive, or in any way worldlier or wealthier, if it does not make us happier." 
+- We need a moral movement: Distributism can happen is we do it
+- Ahlquist cites the NIV at the end of this chapter
 
 ## Chapter 12: The Superstition of Divorce
-
-
+- Marriage is not just a contract but something mystical and elemental. It is part of the very foundation of humanity and connected directly to the divine. It is a sacrament. 
+- Chesterton shows how the natural reasons for marriage support the supernatural reasons, and how when the family breaks apart the whole society breaks apart.
+- "[[Capitalism]] is at war with the family for the same reason which has led to its being at war with the Trade Union. It desires its victims to be individuals, or to be atoms."
+- The family is the strongest institution in a society because it is the one that people build spontaneously for themselves.
+- Divorce is not an act of freedom, but an act of slavery. 
+- We need laws to support and keep together the family, but also an economic system that does not pressure them to split. 
 
 ## Chapter 13: Eugenics and Other Evils
-
-
+- "Eugenics" was coined by Francis Galton
+- The philosophy behind eugenics is still with us. The same arguments are used to justify birth control, abortion, and euthanasia.
+- Chesterton's attack of evil is always wrapped around a defense of what is good. 
+- "He has not the right to administer death as the cure for all human ills." 
+- "Evil always takes advantage of ambiguity."
+- Chesterton predicted that the eugenics mentality would result in a "war upon the weak"
+- The fact that babies are unwanted goes back to the fact that our society has created a whole class of people that are unwanted. They are the permanently poor.
 
 ## Chapter 14: [[~Father Brown (Complete Collection)|Father Brown]]
-- the best is footnote #8 on the chapter on Fr. Brown where he chastises you for looking for the story he said he wouldn't give away! 
-
-
+- Chesterton loved mystery stories. The sharp transition from ignorance is good for humility and similar to revelation.
+- Readers want enlightenment, not mystification, and the heart of every complicated detective yarn must be the discovery of a simple truth.
+- Father Brown's talent is his ability to understand the human heart. As a priest he understands that every man can be a murderer, and that every man can be a saint. Reason is tied to justice, but justice to mercy. Father Brown wants to solve the crime, but also to save the criminal.
+- Sin: "No man's really any good till he knows how bad he is." 
+- The best is footnote #8 on the chapter on Fr. Brown where he chastises you for looking for the story he said he wouldn't give away! 
 
 ## Chapter 15: Conclusion: Chesterton for Today
-
+- "A society is in decay when common sense has become uncommon."
+- We are confused because we have lost our common sense. 
+- Chesterton makes conclusions and speaks with confidence about what he believes (the modern mind cannot make up its mind). "The object of opening the mind, as of opening the mouth, is to shut it again on something solid."
+- [[Frank Sheed]]: "When a man is as right as that in his forecasts, there is some reason to think he may be right in his premises." 
+- We have to hate the world enough to want to change it, but love it enough to think it worth changing. 
+- "Before the Liberal ideal is dead or triumphant, we shall see wars and persecutions the like of which the world has never seen."
+- Chesterton was a [[2013-03-13-The Complete Thinker|complete thinker]] because his Catholic faith informed all of his thinking. 
+- His poem "[[The Donkey]]" is a little poem every child should [[Memory|memorize]], and every college student should study "[[~The Ballad of the White Horse|The Ballad of the White Horse]].
 
 
 
@@ -135,17 +162,6 @@ I started reading this on my Kindle before meeting Dale Ahlquist at a [[Chestert
 
 **Source**
 - Formed e-book
-
-**Bibliography**
-
-```query
-[[bib]] file:(~The Apostle of Common Sense)
-```
- 
-
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2023-11-01-Wed]]

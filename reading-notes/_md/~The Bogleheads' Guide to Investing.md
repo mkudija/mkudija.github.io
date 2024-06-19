@@ -13,7 +13,7 @@ source:
 wishlist: 2024-04-29
 acquired: 
 started: 2024-05-24
-finished: 
+finished: 2024-06-10
 finishednotes:
 ---
 # *[The Bogleheads' Guide to Investing]()* by [[Taylor Larimore, Mel Lindauer, Michael LeBoeuf]]

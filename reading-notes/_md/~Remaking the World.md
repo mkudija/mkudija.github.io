@@ -13,7 +13,7 @@ source:
 wishlist: 
 acquired: 2024-01-16
 started: 2024-05-30
-finished: 
+finished: 2024-06-16
 finishednotes:
 ---
 # *[Remaking the World: How 1776 Created the Post-Christian West](https://www.crossway.org/books/remaking-the-world-hcj/)* by [[Andrew Wilson]]

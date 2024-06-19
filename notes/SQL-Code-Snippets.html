@@ -425,6 +425,11 @@ FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30')
 <pre><code>SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
 </code></pre>
 
+<p>BigQuery</p>
+
+<pre><code>SELECT DATE_SUB(DATE_TRUNC(CURRENT_DATE(), MONTH), INTERVAL 1 DAY)
+</code></pre>
+
 <h3 id="month-start-date">Month Start Date</h3>
 
 <pre><code>SELECT DATE_TRUNC(CURRENT_DATE,MONTH) AS calendar_month
@@ -640,7 +645,7 @@ ORDER BY 1
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2024-04-22-Mon</p>
+Updated: 2024-06-17-Mon</p>
 
 
 </div>

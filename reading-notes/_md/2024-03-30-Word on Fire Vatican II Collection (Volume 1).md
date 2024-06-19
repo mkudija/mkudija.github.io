@@ -13,7 +13,7 @@ wishlist: 2023-01-24
 acquired: 2023-12-13
 started: 2024-02-16
 finished: 2024-02-27
-finishednotes:
+finishednotes: incomplete
 ---
 # *[Word on Fire Vatican II Collection (Volume I: Constitutions)](https://bookstore.wordonfire.org/products/vatican-ii)*
 

@@ -48,7 +48,7 @@ isbn13: 9781681495460
 
 
 ## Appendix One: The Luminous Mysteries 
-
+- "**The best place to read the teachings of Christ in the Gospel is on your knees in prayer.** May I suggest that if you have never done so, you take one of the Gospels as soon as possible, carve out a period of time when you will not be disturbed, and read the entire Gospel in one sitting or kneeling. The overall impact, I guarantee, will be astonishing." (113, cf. *[[2020-09-17-Pére Jacques#^5a772f]]*)
 
 ## Appendix Two: *[[2022-10-25-Rosarium Virginis Mariae|Rosarium Virginis Mariae]]*
 
@@ -58,17 +58,10 @@ isbn13: 9781681495460
 
 **Source**: UA Library [[2022-11-07-Mon]]
 
-**Bibliography**
-
-```query
-[[bib]] file:(~The Rosary)
-```
- 
-
 **[[New Words]]**
 
 - 
 
 ---
 Created: [[2022-11-12-Sat]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

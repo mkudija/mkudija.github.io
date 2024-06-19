@@ -36,7 +36,7 @@ dimensions: 6.25x8.75x1.25
 
 **Source**
 - Evangelicalbible.com
-*[[Reading Notes/~Schuyler Quentel ESV with Apocrypha]]*
+
 ---
 Created: [[2023-05-19-Fri]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

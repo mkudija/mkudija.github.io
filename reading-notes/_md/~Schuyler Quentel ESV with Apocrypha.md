@@ -14,7 +14,7 @@ acquired: 2024-06-06
 started: 
 finished: 
 translation: English Standard Version
-dimensions:
+dimensions: 7x10.5x1.75
 ---
 # *[Schuyler Quentel ESV with Apocrypha, Full Yapp Siena Calfskin Bible](https://evangelicalbible.com/product/schuyler-quentel-esv-apocrypha-full-yapp-siena-calfskin-bible/)*
 
@@ -22,7 +22,9 @@ dimensions:
 
 `(New York: Schuyler, 2024), 0`
 
-- [ ] add dimensions 📅 2024-06-06
+- Reviewed here: 
+	- [Review: Schuyler Quentel ESV with Apocrypha — Guest Post by Matthew Kudija – Catholic Bible Talk](https://catholicbibletalk.com/2024/06/review-schuyler-quentel-esv-with-apocrypha-guest-post-by-matthew-kudija/)
+	- [[2024-06-07 Schuyler ESV Review catholicbibletalk.com]]
 
 --- 
 **Topic**: [[The Bible]]

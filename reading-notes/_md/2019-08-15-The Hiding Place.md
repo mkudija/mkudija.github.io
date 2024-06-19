@@ -29,11 +29,11 @@
 - "And so I discovered that it is not on our forgiveness any more than on our goodness that the world's healing hinges, but on His. When He tells us to love our enemies, He gives, along with the command, the love itself." (248)
 
 --- 
+**Topic**: [[World War II]]
+
 **Source**: [[Jordan]], [[Dolores]]
 
-Ref [[World War II]]
-
 ---
-Created: 2021-11-19
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Created: [[2021-11-19-Fri]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

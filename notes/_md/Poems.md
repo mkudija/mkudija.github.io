@@ -26,6 +26,9 @@ aliases: [Poetry]
 - *[[Thou art indeed just, Lord]]*
 - *[[My own heart let me more have pity on]]*
 
+[[G.K. Chesterton]]
+- *[[The Donkey]]*
+
 **Jane McKay Lanning**
 - *[[Lent]]*
 

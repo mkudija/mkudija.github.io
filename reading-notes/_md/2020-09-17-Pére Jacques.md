@@ -34,7 +34,7 @@ finished:
 - "Never have the saints attributed great merits to themselves." (78)
 - Practice of the Presence of God: "From time to time during the day you must put yourself in the presence of God. Then close your eyes for a moment, tell yourself He is there, close to you, enveloping you with His being, waiting for a small token of affection from you, smile at Him and say a word to Him from your heart. Repeat the same thing often during the day, and soon (after several months) a great love of God will awaken in you and you will give yourself wholly to Him." (79
 - "Read the Bible, say the rosary. Read a few of Pascal's pensées slowly every day, mediate upon them and come back to them several times. What an education of the soul is familiarity with Pascal!...Live the Bible by picking up the rosary. Begin with the beautiful and substantial epistles of St. Paul. Then read Genesis, afterward Ecclesiastes and Job. In a word: the preaching of the Apostle side by side with the creation of the world and with human anguish...Make sacrifices. It is absolutely necessary that you put mortification in your life. Impost on yourself the little sufferings, the little privations which you will be able to decide on for yourself..." (81-82)
-	- **Live the Bible by picking up the rosary. Take up the Bible not as an ordinary book but on your knees, kissing the book before and after reading. Scripture does not disclose itself at the first reading. It is a difficult book, just as sainthood is difficult, but it too contains within itself a mysterious assistance to one who would understand it.**
+	- **Live the Bible by picking up the rosary. Take up the Bible not as an ordinary book but on your knees, kissing the book before and after reading. Scripture does not disclose itself at the first reading. It is a difficult book, just as sainthood is difficult, but it too contains within itself a mysterious assistance to one who would understand it.** ^5a772f
 - Carmelite friars "are at once monks and apostles" (87)
 - "In the pure silence of the monastery situated at the end of the park of Fontainebleau on the edge of the great forest, he found a peace that completely enchanted him...he read and reread the *Spiritual Canticle* of [[St. John of the Cross]]...then long conversations took place, radiant with the poetry and mysticism of Mount Carmel" (89-90)
 - "**He asked only for his armor: the works of [[St. Teresa of Ávila|St. Theresa]] and of [[St. John of the Cross]]**" (93)
@@ -53,7 +53,7 @@ finished:
 
 **Bibliography**
 
-- *Life of the Curé of Ars* (40) #wishlist 
+- *Life of the Curé of Ars* (40)
 - [[Pascal]]'s *Pensées* (81)
 - *[[~The Collected Works of Saint John of the Cross#*The Spiritual Canticle*|Spiritual Canticle]]* of [[St. John of the Cross]] (89)
 - the works of [[St. Teresa of Ávila]] (93)
