@@ -36,32 +36,6 @@ Barron's commentary is not a comprehensive treatment of the Old Testament, but a
 
 # Notes
 
-<details>
- <summary><i>Contents</i></summary>
-<!-- MarkdownTOC autolink="true" -->
-
-- [Introduction](#introduction)
-- [](#Genesis)
-- [](#Exodus)
-- [](#Leviticus)
-- [](#Numbers)
-- [](#Deuteronomy)
-- [](#Joshua)
-- [](#Judges)
-- [](#Ruth(b)|Ruth)
-- [](#1 Samuel)
-- [](#2 Samuel)
-- [](#1 Kings)
-- [](#2 Kings)
-- [](#Ezra and Nehemiah)
-- [](#Tobit)
-- [](#Judith)
-- [](#Esther)
-- [](#1 Maccabees|1 and 2 Maccabees)
-
-<!-- /MarkdownTOC -->
-</details>
-
 
 ## Introduction
 - Virtues of the [[historical-critical method]] of Biblical scholarship:
