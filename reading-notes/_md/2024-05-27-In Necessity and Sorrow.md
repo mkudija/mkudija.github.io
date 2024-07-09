@@ -30,7 +30,7 @@ finishednotes: 2024-05-27
 
 >"I do feel you'd be an abnormal person if you could really honestly say that abortion didn't bother you at all. It goes against all things which are natural. It's a termination of life, however you look at it." (147, physician)
 
-> "In the pivotal shadow of one decisions, made over and over again, that this life, this heartbeat, this unique combination of unpredictable possibilities for good or evil, for glory or for shame, will not be allowed to become." (239)
+> "In the pivotal shadow of one decision, made over and over again, that this life, this heartbeat, this unique combination of unpredictable possibilities for good or evil, for glory or for shame, will not be allowed to become." (239)
 
 # Notes
 
@@ -101,7 +101,7 @@ finishednotes: 2024-05-27
 - "Basically every gynecologist doesn't like women, otherwise he couldn't work with them. He enjoys the position of mastery over them. The fact that he is the god, king, they do what he tells them, which is what he would always want women to do, because every man wants his women to be subservient to him. The patients are subservient to us, and when they rebel it's very simple: 'Go to somebody else. Don't come back to me, if you're not going to take my advice.' What better relationship can a man have with a woman? Besides if you fuck thirty women a day with your fingers, and in a way you do, this is a form of sexual violation. If you really want to be technical, it does interfere in many respects...." (227-228, physician)
 - "Not that I think they should be punished by pregnancy out of wedlock, it isn't that. It's just the idea that what they think are simple solutions are not as simple as they think. They can die, they can become sterile, and they can have many other complications. That unfortunately is the biggest evil of abortions. You'd have to educate women and young girls to a more sensible way of life, more sensible behavior, better contraception. I don't think complete sexual freedom is logical and sensible. I think it's destructive. They may not think so when they are engaged in it. They're not intelligent enough to realize it. They'll just develop all sorts of problems later on in life, not knowing why..." (232, physician)
 - "Abortions, well, abortions, it is difficult to be consistent in relation to them. They are lucrative. They are necessary. They make for a bad conscience." (234)
-- "In the pivotal shadow of one decisions, made over and over again, that this life, this heartbeat, this unique combination of unpredictable possibilities for good or evil, for glory or for shame, will not be allowed to become." (239)
+- "In the pivotal shadow of one decision, made over and over again, that this life, this heartbeat, this unique combination of unpredictable possibilities for good or evil, for glory or for shame, will not be allowed to become." (239)
 
 ## Epilogue
 - "The truth, I think, is that the hospital falls apart under the weight of its purpose. It disintegrates through a cumulative sense of horror. Death is no easy companion." (242-243)

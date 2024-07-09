@@ -16,7 +16,7 @@ finished:
 ---
 # *[Dominion: How the Christian Revolution Remade the World]()* by [[Tom Holland]]
 
-<img src="http://books.google.com/books/content?id=0Tg0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
+<img src="https://upload.wikimedia.org/wikipedia/en/8/8c/DominionByTomHollandAmericanEdition.jpg" width=150>
 
 `(New York: Hachette UK, 2019-09-05), 432`
 

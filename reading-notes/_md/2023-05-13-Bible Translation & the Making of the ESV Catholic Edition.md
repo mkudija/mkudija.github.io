@@ -71,7 +71,7 @@ _**Summary**: English-speaking Catholics have many translations to choose from, 
 - The Catholic Biblical Association of America (CBA) revised DR to the Confraternity in 1941 (still from Vulgate), but then *[[~Divino Afflante Spiritu|Divino Afflante Spiritu]]* in 1943 specified original languages, so they started the New American Bible (16)
 	- The NABRE shows how "Bible translations are not unchanging monoliths, but open-ended results of complex processes of ongoing revision." (17)
 	- NABRE changes verse and chapter numbers (in [[Joel]] and [[Malachi]] for example)
-	- [[Fr. Richard John Neuhaus]] called the NAB "clunky" and "unfortunate" ([Three Who Changed the World](https://www.firstthings.com/article/2007/02/three-who-changed-the-world))
+	- [[Fr. Richard Neuhaus]] called the NAB "clunky" and "unfortunate" ([Three Who Changed the World](https://www.firstthings.com/article/2007/02/three-who-changed-the-world))
 - The Jerusalem Bible has similar problems as the NIV and NABRE (though interesting that [[J.R.R. Tolkien]] contributed to it, 20)
 - Sad reality: "English-speaking Catholics around the globe have little unity in the way they hear, pray, sing, study, and meditate on Scripture...With such a diversity in translation, the words typically feel less important, less sacred, and less powerful than they would in a more unified environment." (22)
 

@@ -273,6 +273,26 @@ GROUP BY score_decile_approx
 ORDER BY score_decile_approx
 ```
 
+### Equal Size Buckets
+```sql
+WITH buckets AS (
+	SELECT
+		value
+		, NTILE(5) OVER (ORDER BY value ASC) AS value_bucket
+	FROM table
+)
+
+SELECT 
+	value_bucket
+	, MIN(value) AS bucket_lower
+	, MAX(value) AS bucket_upper
+FROM buckets
+GROUP BY 1
+ORDER BY 1
+```
+
+see also [Bigquery RANGE_BUCKET()](https://cloud.google.com/bigquery/docs/reference/standard-sql/mathematical_functions#range_bucket) to assign values rather than case
+
 ### Ratio over groupby
 
 Above we use the `RATIO_TO_REPORT` command to get a ratio rather than count. If we want a time series showing percent, and it is groupe by time (week, month, etc.), this is how you get a rate for each group rather than the whole table:
@@ -534,23 +554,11 @@ SELECT
 	* EXCEPT(col1, col2)
 ```
 
-### Equal Size Buckets
+### 30 Days Ago
 ```sql
-WITH buckets AS (
-	SELECT
-		value
-		, NTILE(5) OVER (ORDER BY value ASC) AS value_bucket
-	FROM table
-)
-
-SELECT 
-	value_bucket
-	, MIN(value) AS bucket_lower
-	, MAX(value) AS bucket_upper
-FROM buckets
-GROUP BY 1
-ORDER BY 1
+DATE_ADD(CURRENT_DATE(), INTERVAL -30 DAY)
 ```
+
 
 
 ## Resources

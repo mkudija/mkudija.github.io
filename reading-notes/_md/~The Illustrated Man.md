@@ -12,7 +12,7 @@ isbn13: 9780435123734
 source: 
 wishlist: 
 acquired: 2024-06-06
-started: 
+started: 2024-07-07
 finished: 
 finishednotes:
 ---

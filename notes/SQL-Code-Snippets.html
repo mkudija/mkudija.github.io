@@ -353,6 +353,26 @@ GROUP BY score_decile_approx
 ORDER BY score_decile_approx
 </code></pre>
 
+<h3 id="equal-size-buckets">Equal Size Buckets</h3>
+
+<pre><code>WITH buckets AS (
+    SELECT
+        value
+        , NTILE(5) OVER (ORDER BY value ASC) AS value_bucket
+    FROM table
+)
+
+SELECT 
+    value_bucket
+    , MIN(value) AS bucket_lower
+    , MAX(value) AS bucket_upper
+FROM buckets
+GROUP BY 1
+ORDER BY 1
+</code></pre>
+
+<p>see also <a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/mathematical_functions#range_bucket">Bigquery RANGE_BUCKET()</a> to assign values rather than case</p>
+
 <h3 id="ratio-over-groupby">Ratio over groupby</h3>
 
 <p>Above we use the <code>RATIO_TO_REPORT</code> command to get a ratio rather than count. If we want a time series showing percent, and it is groupe by time (week, month, etc.), this is how you get a rate for each group rather than the whole table:</p>
@@ -609,22 +629,9 @@ ORDER BY 1 DESC,2,3
     * EXCEPT(col1, col2)
 </code></pre>
 
-<h3 id="equal-size-buckets">Equal Size Buckets</h3>
+<h3 id="30-days-ago">30 Days Ago</h3>
 
-<pre><code>WITH buckets AS (
-    SELECT
-        value
-        , NTILE(5) OVER (ORDER BY value ASC) AS value_bucket
-    FROM table
-)
-
-SELECT 
-    value_bucket
-    , MIN(value) AS bucket_lower
-    , MAX(value) AS bucket_upper
-FROM buckets
-GROUP BY 1
-ORDER BY 1
+<pre><code>DATE_ADD(CURRENT_DATE(), INTERVAL -30 DAY)
 </code></pre>
 
 <h2 id="resources">Resources</h2>
@@ -645,7 +652,7 @@ ORDER BY 1
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2024-06-17-Mon</p>
+Updated: 2024-07-03-Wed</p>
 
 
 </div>

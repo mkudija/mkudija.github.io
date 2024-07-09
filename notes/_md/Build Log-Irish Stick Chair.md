@@ -167,4 +167,4 @@ This earned me my [‘Stick Chair Merit Badge’](https://blog.lostartpress.com/
 
 ---
 Created: [[2022-06-29-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -21,6 +21,7 @@ aliases: [The Wealth of Nations]
     * Chapter II - OF THE PRINCIPLE WHICH GIVES OC- CASION TO THE DIVISION OF LABOUR
         * Division of labour arises not from innate wisdom, but from humans' propensity to barter
         * "The difference of natural talents in different men, is, in reality, much less than we are aware of; and the very different genius which appears to distinguish men of different professions, when grown up to maturity, is not upon many occasions so much the cause, as the effect of the division of labour.  The difference between the most dissimilar characters, between a philosopher and a common street porter, for example, seems to arise not so much from nature, as from habit, custom, and education." (20) --> genius is developed, not innate
+        * "The annual revenue of every society is always precisely equal to the exchangeable value of the whole annual produce of its industry...By [doing what he does]...he intends only his own gain, and he is in this, as in many other cases, **led by an invisible hand** to promote an end which was no part of his intention." (cited *[[2024-07-05-Remaking the World|Remaking the World]]*, 219)
     * Chapter III - THAT THE DIVISION OF LABOUR IS LIM- ITED BY THE EXTENT OF THE MARKET
         * Limited opportunity for exchange discourages division of labour.
         * "There are some sorts of industry, even of the lowest kind, which can be carried on nowhere but in a great town." (21) --> ideal of urbanization? how is this balanced with the beauty of a quiet rural life?

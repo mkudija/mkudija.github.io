@@ -17,6 +17,13 @@ publish: true
 
 # [[Woodworking]] Projects
 
+2024-07-02-kitchen-cabinet-top.jpg
+
+### 2024-07-02 [[Build Log-Mom Command Center|Kitchen Cabinet Top]]
+*Maple*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2024-07-02-kitchen-cabinet-top.jpg?raw=true" width="100%">
+
 
 ### 2024-05-04 [[2024-Heirloom Wall Mount|Heirloom Wall Mount]]
 *Walnut*

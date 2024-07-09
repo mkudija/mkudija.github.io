@@ -15,7 +15,7 @@ started:
 finished: 
 finishednotes: 
 ---
-# *[John Henry Newman]()* by [[Avery Dulles]]
+# *[John Henry Newman]()* by [[Cardinal Avery Dulles]]
 
 <img src="http://books.google.com/books/content?id=lG1CAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
