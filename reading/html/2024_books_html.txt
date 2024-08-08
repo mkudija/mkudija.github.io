@@ -1,3 +1,5 @@
+<li><i>Dark Benediction</i> by Walter M. Miller, Jr.</li>
+<li><i>The Illustrated Man</i> by Ray Bradbury</li>
 <li><i>Bringing up Boys</i> by James C. Dobson</li>
 <li><i>Remaking the World: How 1776 Created the Post-Christian West</i> by Andrew Wilson</li>
 <li><i>The Bogleheads' Guide to Investing</i> by Taylor Larimore, Mel Lindauer, Michael LeBoeuf</li>
