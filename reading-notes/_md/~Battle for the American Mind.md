@@ -27,6 +27,10 @@ isbn13: 9780063215078
 </details>
 
 ## Preface
+*read [[2024-08-06-Tue]]*
+- *Paideia*: the invisible cultural force that causes both lukewarm atheists and Christians to live in the same way that contradicts their stated beliefs 
+- *[[~American Education|American Education]]* by [[Lawrence Arthur Cremin]]: a thorough history of education that made progressives uneasy, and used the word *paideia*
+- Five-part Fox documentary: *[The Miseducation of America](https://nation.foxnews.com/the-miseducation-of-america/season-1/)*
 
 ## Introduction
 
@@ -101,17 +105,6 @@ _**Summary**: _
 
 **Source**: [[Mike Gross]] (has a 4-part series on Fox about this)
 
-**Bibliography**
-
-```query
-[[bib]] file:(~Battle for the American Mind)
-```
- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-08-10-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

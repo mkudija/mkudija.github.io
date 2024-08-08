@@ -171,13 +171,6 @@ _**Summary**: Dialogue is the vital center of biblical narrative. As with all as
 **Source**
 - [Translation — BIBLIOTHECA](https://www.bibliotheca.co/translation)
 
-**Bibliography**
-
-```query
-[[bib]] file:(2023-05-24-The Art of Bible Translation)
-```
- 
-
 **[[New Words]]**
 
 - [[Parataxis]]: the ordering of words in parallel clauses linked by "and", a common style in the Hebrew Bible (3)

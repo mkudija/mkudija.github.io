@@ -1,5 +1,5 @@
 
-# The Life You Can Save by Peter Singer
+# The Life You Can Save by [[Peter Singer]]
 
 * "If, after investigating the causes of global poverty and considering what approach is most likely to reduce it, you really believe that a more revolutionary change is needed , then it would make sense to put your time, energy, and money into organizations promoting that revolution in the global economic system" (36).
 * we tend to follow the default settings --> how can I arrange my personal "default" settings to spend less and give more? (70)

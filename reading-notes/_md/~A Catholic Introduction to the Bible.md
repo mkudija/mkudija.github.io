@@ -1,5 +1,6 @@
 ---
-aliases: [A Catholic Introduction to the Bible]
+aliases:
+  - A Catholic Introduction to the Bible
 title: A Catholic Introduction to the Bible
 author: Brant Pitre, Ph.D., John Bergsma
 category: Bibles
@@ -10,9 +11,9 @@ isbn10: 1586177222
 isbn13: 9781586177225
 source: 
 wishlist: 2023-05-22
-acquired: 
+acquired: 2024-07-28
 started: 
-finished: 
+finished:
 ---
 # *[A Catholic Introduction to the Bible](https://ignatius.com/a-catholic-introduction-to-the-bible-ioth/)* by [[Brant Pitre]], [[John Bergsma]]
 

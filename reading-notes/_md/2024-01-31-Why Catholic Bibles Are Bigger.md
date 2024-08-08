@@ -215,7 +215,7 @@ One question coming out of this book for me as a Catholic is this: *What posture
 ## Appendix 1: Sola Scriptura and the Problem of the Canon
 - *[[Sola scriptura]]* effectively destroys any logically consistent explanation of how we come to the knowledge of which books make up Scripture to begin with (303)
 - **Historical-Investigative Approach**: canon determined by [[historical-critical method]], which sets the results of external historical investigation as the norm above the norm of Scripture 
-- **Canon-Within -a-Canon Approach**: the canonical scriptures demonstrated their own canonicity by their contents, but this relies on circular reasoning, fails to provide the level of certitude necessary to establish the limits to the word of God, and sets up an extra-Biblical standard (i.e. Luther's own understanding)
+- **Canon-Within-a-Canon Approach**: the canonical scriptures demonstrated their own canonicity by their contents, but this relies on circular reasoning, fails to provide the level of certitude necessary to establish the limits to the word of God, and sets up an extra-Biblical standard (i.e. Luther's own understanding)
 - **The Self-Attesting/Inner Witness Approach**: canonicity is determined by the quality of the writing itself, but this does not explain variances of canons and can never provided a closed or fixed canon
 - "*Sola scriptura* is a self-refuting proposition. No one can know, with sufficient certainty, what the Scripture is unless he adopts a norm outside of Scripture that sets the limits of Scripture...The only alternative to these *a posteriori* solutions is treat the canon as something handed down or received." (309)
 ## Appendix 2: The Deuterocanon and Biblical Inerrancy

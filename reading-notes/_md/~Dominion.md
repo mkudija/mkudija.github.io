@@ -1,5 +1,6 @@
 ---
-aliases: [Dominion]
+aliases:
+  - Dominion
 title: Dominion
 author: Tom Holland
 category: History
@@ -10,9 +11,9 @@ isbn10: 1408706970
 isbn13: 9781408706978
 source: 
 wishlist: 2023-06-27
-acquired: 2023-07-03
+acquired: 2024-07-28
 started: 
-finished: 
+finished:
 ---
 # *[Dominion: How the Christian Revolution Remade the World]()* by [[Tom Holland]]
 
@@ -20,6 +21,8 @@ finished:
 
 `(New York: Hachette UK, 2019-09-05), 432`
 
+- Acquired 2023-07-03 but returned
+- re-acquired 2024-07-28
 
 
 --- 
@@ -28,6 +31,8 @@ finished:
 **Source**
 - [[Dan Gibson]] [[2023-06-27-Tue]]
 - [[Jim Hays]] [[2023-08-08-Tue]]
+- [[Marc L'Heureux]] [[2024-07-24-Wed]]
+- Pete Ferrara [[2024-07-25-Thu]]
 
 **Bibliography**
 

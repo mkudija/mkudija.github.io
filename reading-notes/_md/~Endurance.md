@@ -1,9 +1,26 @@
-
+---
+aliases: [Endurance]
+title: Endurance
+author: Alfred Lansing
+category: History
+publisher: Basic Books
+total_page: 412
+publish_date: 2014-04-29
+isbn10: 0465058795
+isbn13: 9780465058792
+source: 
+wishlist: <% tp.file.creation_date("YYYY-MM-DD") %>
+acquired: 
+started: 
+finished: 
+finishednotes: 
+---
 # [*Endurance: Shackleton's Incredible Voyage*]() by Alfred Lansing
 
-<img src="" width=150>
+<img src="http://books.google.com/books/content?id=oDBnAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(City: Publisher, YYYY), PPP`
+`(New York: Basic Books, 2014-04-29), 412`
+
 
 # Notes
 
@@ -167,13 +184,6 @@ _**Summary**: _
 **Topic**: [[Earnest Shackleton]], [[Exploration]]
 
 **Source**: audiobook, UA library book sale
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Endurance)
-```
- 
 
 **New Words**
 

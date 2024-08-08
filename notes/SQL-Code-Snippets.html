@@ -634,6 +634,30 @@ ORDER BY 1 DESC,2,3
 <pre><code>DATE_ADD(CURRENT_DATE(), INTERVAL -30 DAY)
 </code></pre>
 
+<h3 id="last-day-of-prior-month">Last day of prior month</h3>
+
+<pre><code>date_sub(date_trunc(current_date(), month), interval 1 day)
+</code></pre>
+
+<h3 id="monthly-run-rate">Monthly Run-Rate</h3>
+
+<pre><code>with run_rate as (
+  select 
+    extract(day from current_date()) - 1 as t_0,
+    extract(day from last_day(current_date())) as t_1,
+    extract(day from last_day(current_date())) / (extract(day from current_date()) - 1) as rr,
+)
+
+select
+  last_day(date(action_timestamp)) as action_month,
+  sum(value) as value,
+  sum(value)*(select rr from run_rate) as value_rr,
+from `table`
+where date(action_timestamp) &lt; current_date()
+  and last_day(date(action_timestamp)) = last_day(current_date())
+group by 1
+</code></pre>
+
 <h2 id="resources">Resources</h2>
 
 <ul>
@@ -652,7 +676,7 @@ ORDER BY 1 DESC,2,3
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2024-07-03-Wed</p>
+Updated: 2024-07-11-Thu</p>
 
 
 </div>

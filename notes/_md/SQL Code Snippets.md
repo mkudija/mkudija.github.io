@@ -559,7 +559,29 @@ SELECT
 DATE_ADD(CURRENT_DATE(), INTERVAL -30 DAY)
 ```
 
+### Last day of prior month
+```sql
+date_sub(date_trunc(current_date(), month), interval 1 day)
+```
 
+### Monthly Run-Rate
+```sql
+with run_rate as (
+  select 
+    extract(day from current_date()) - 1 as t_0,
+    extract(day from last_day(current_date())) as t_1,
+    extract(day from last_day(current_date())) / (extract(day from current_date()) - 1) as rr,
+)
+
+select
+  last_day(date(action_timestamp)) as action_month,
+  sum(value) as value,
+  sum(value)*(select rr from run_rate) as value_rr,
+from `table`
+where date(action_timestamp) < current_date()
+  and last_day(date(action_timestamp)) = last_day(current_date())
+group by 1
+```
 
 ## Resources
 - [SQLBolt - Learn SQL](https://sqlbolt.com/)

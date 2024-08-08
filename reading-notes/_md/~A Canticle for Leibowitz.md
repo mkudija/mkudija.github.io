@@ -1,9 +1,26 @@
+---
+aliases: [A Canticle for Leibowitz]
+title: A Canticle for Leibowitz
+author: Walter M. Miller
+category: Fiction in English
+publisher: 
+total_page: 326
+publish_date: 1975
+isbn10: 
+isbn13: 
+source: 
+wishlist: 
+acquired: 
+started: 
+finished: 
+finishednotes: 
+---
 
-# [*A Cant0icle for Leibowitz*]() by [[Walter M. Miller Jr.]]
+# [*A Canticle for Leibowitz*]() by [[Walter M. Miller]]
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/A_Canticle_for_Leibowitz_cover_1st_ed.jpg" width=150>
 
-`(City: Publisher, 1959), 320`
+`(New York: , 1975), 326`
 
 
 
@@ -22,4 +39,4 @@
 
 ---
 Created: [[2022-05-13-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
