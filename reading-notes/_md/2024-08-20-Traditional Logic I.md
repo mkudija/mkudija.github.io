@@ -163,7 +163,7 @@ k --> m
 - **Judgment** is the act by which the intellect unites the *subject* and *predicate* by affirming, or separates them by denying. 
 	- **Judgment** is a mental act whose verbal expression is a **proposition**.
 - A **Proposition** is a statement which expresses truth or falsity. A proposition consists of three elements: the **subject-term** (**S**), the **predicate-term** (**P**), and the **copula** (**c**, usually "is" or "are"), which must be arranged in **logical form**. 
-	- $\text{\langle Man\rangle}^S \text{ \langle is\rangle}^c \text{ \langle an animal}\rangle^P$
+	- $$\text{\langle Man\rangle}^S \text{ \langle is\rangle}^c \text{ \langle an animal}\rangle^P$$
 	- "The little brown-haired boy screams very loudly" becomes: $\text{\langle The little brown-haired boy\rangle}^S \text{ \langle is\rangle}^c \text{ \langle a child who screams very loudly}\rangle^P$
 
 ## Chapter 5: The Four Statements of Logic
@@ -183,7 +183,7 @@ k --> m
 | ↓Quantity/Quality→ | Affirmative     | Negative          |
 | ------------------ | --------------- | ----------------- |
 | **Universal**      | A (All S is P)  | E (No S is P)     |
-| **Particular**     | I (Some S is P) | (Some S is not P) |
+| **Particular**     | I (Some S is P) | O (Some S is not P) |
 
 ## Chapter 6: Contradictory and Contrary Statements 
 - Categorical statements can be related in **Opposition** or in **Equivalence**
@@ -201,14 +201,14 @@ k --> m
 | ↓Quantity/Quality→ | Affirmative                                    | Negative                                          |
 | ------------------ | ---------------------------------------------- | ------------------------------------------------- |
 | **Universal**      | <i style="color: #BD483E; ">A (All S is P)</i> | <i style="color: #46348B;">E (No S is P)</i>      |
-| **Particular**     | <i style="color: #46348B;">I (Some S is P)</i> | <i style="color: #BD483E; ">(Some S is not P)</i> |
+| **Particular**     | <i style="color: #46348B;">I (Some S is P)</i> | <i style="color: #BD483E; ">O (Some S is not P)</i> |
 
  - **The Rule of Contraries**: Two statements are contrary to one another if they are both universals but differ in quality. <i style="color: #BD483E; ">A (red)</i> and <i style="color: #46348B; ">E (purple)</i> are contrary:
 
 | ↓Quantity/Quality→ | Affirmative                                    | Negative                                          |
 | ------------------ | ---------------------------------------------- | ------------------------------------------------- |
 | **Universal**      | <i style="color: #BD483E; ">A (All S is P)</i> | <i style="color: #46348B;">E (No S is P)</i>      |
-| **Particular**     | I (Some S is P) | (Some S is not P) |
+| **Particular**     | I (Some S is P) | O (Some S is not P) |
 
  - **First Law of Opposition**: Contradictories cannot at the same time be true nor at the same time be false.
  - **The Second Law of Opposition**: Contraries cannot at the same time both be true, but can at the same time both be false.
