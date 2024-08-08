@@ -163,8 +163,8 @@ k --> m
 - **Judgment** is the act by which the intellect unites the *subject* and *predicate* by affirming, or separates them by denying. 
 	- **Judgment** is a mental act whose verbal expression is a **proposition**.
 - A **Proposition** is a statement which expresses truth or falsity. A proposition consists of three elements: the **subject-term** (**S**), the **predicate-term** (**P**), and the **copula** (**c**, usually "is" or "are"), which must be arranged in **logical form**. 
-	- $$\text{\langle Man\rangle}^S \text{ \langle is\rangle}^c \text{ \langle an animal}\rangle^P$$
-	- "The little brown-haired boy screams very loudly" becomes: $\text{\langle The little brown-haired boy\rangle}^S \text{ \langle is\rangle}^c \text{ \langle a child who screams very loudly}\rangle^P$
+	- $\text{(Man)}^S \text{ (is)}^c \text{ (an animal)}^P$
+	- "The little brown-haired boy screams very loudly" becomes: $\text{(The little brown-haired boy)}^S \text{ (is)}^c \text{ (a child who screams very loudly)}^P$
 
 ## Chapter 5: The Four Statements of Logic
 - The **Four Statements of Logic**
