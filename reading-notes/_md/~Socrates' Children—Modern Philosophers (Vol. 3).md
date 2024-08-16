@@ -21,19 +21,84 @@ finished:
 
 `(Des Plaines: Word on Fire, 2023), 128
 
+# Notes
+Volume 1: *[[2023-06-11-Socrates' Children—Ancient Philosophers (Vol. 1)|Socrates' Children—Ancient Philosophers]]*
+Volume 2: *[[~Socrates' Children—Medieval Philosophers (Vol. 2)|Socrates' Children—Medieval Philosophers]]*
+Volume 3: *[[~Socrates' Children—Modern Philosophers (Vol. 3)|Socrates' Children—Modern Philosophers]]*
+Volume 4: *[[~Socrates' Children—Contemporary Philosophers (Vol. 4)|Socrates' Children—Contemporary Philosophers]]*
+
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+<!-- /MarkdownTOC -->
+</details>
+
+# The Epistemological Philosophers
+### [[Descartes|René Descartes]] ★★
+*Big idea*
+
+### [[Blaise Pascal]] ★
+*Big idea*
+
+### Baruch Spinoza ★
+*Big idea*
+
+### Gottfried Wilhelm Leibniz ★
+*Big idea*
+
+### [[Francis Bacon]]
+*Big idea*
+
+### [[John Locke]] ★
+*Big idea*
+
+### George Berkeley ★
+*Big idea*
+
+### [[David Hume]] ★★
+*Big idea*
+
+### Thomas Reid
+*Big idea*
+
+### [[Immanuel Kant]] ★★
+*Big idea*
+
+### Johann Gottlieb Fichte
+*Big idea*
+
+### Friedrich Wilhelm Joseph von Schelling
+*Big idea*
+
+### Georg Wilhelm Friedrich Hegel ★★
+*Big idea*
+
+### Arthur Schopenhauer
+*Big idea*
+
+# The Political Philosphers
+### [[Machiavelli|Niccolò Machiavelli]]
+*Big idea*
+
+### [[Thomas Hobbes]] ★
+*Big idea*
+
+### Jean-Jacques [[Rousseau]] ★
+*Big idea*
+
+### Karl [[Marx]]
+*Big idea*
+
+
+
 
 --- 
 **Topic**: [[Philosophy]]
 
 **Source**
 - Easter 2023
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Socrates' Children Ancient)
-```
- 
 
 **[[New Words]]**
 

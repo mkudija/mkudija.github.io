@@ -24,6 +24,16 @@ mermaid: true
 
 `(Louisville: Memoria Press, 2000), 150`
 
+
+>-[[Sir-27#v5]]-6
+
+
+>"Mom?"
+>"Yes?"
+>"What's lodge-ick?"
+>"Logic? Why, dear, logic is knowing what things are true and not true."
+>– [[Ray Bradbury]], *[[2024-08-16-The Illustrated Man|The Illustrated Man]]* ("Zero Hour", 260)
+
 # Notes
 
 <details>

@@ -22,6 +22,7 @@ publish: true
 - [[Peter Kreeft]]
 	- [The 10 Books Nobody Should Be Allowed to Die Without Reading](https://www.youtube.com/watch?app=desktop&v=bLm5RggbhlE)
 	- [Books Every Catholic Should Read](https://www.youtube.com/watch?app=desktop&v=ND0g6zYvjz4)
+- [Guide for the Catholic Reader Selected Reading List, Rubric, and Rationale for Catholic Education](https://mcusercontent.com/12216bd14fa53ecb05739e024/files/5f3050d8-d4a8-9255-d6b6-2bc2661dbe0a/Catholic_Reader_1_.pdf)
 
 ## Classics
 *[[Classical Education]]*

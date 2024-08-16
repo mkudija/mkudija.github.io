@@ -235,6 +235,8 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 - "Since he was not able to be Christ, [[Nietzsche|he]] blasphemed against Christ...His doctrine is that of the weak who aspire to be strong, but certainly not of the strong who are truly so in reality!" 
 - The cries of Zarathustra are merely the cries of human confusion: Nietzsche destroys himself.
 
+Ref: [FORMED Book Club: The Drama of Atheist Humanism - YouTube](https://www.youtube.com/playlist?list=PL8gMEpS0FChdiZoaDuNcqdmawKsVyM55I)
+
 --- 
 **Topic**: [[Atheism]], [[Humanism]]
 
@@ -242,18 +244,7 @@ _**Summary**: Today's problems are spiritual in nature, and involve the very con
 - [[Madj]], Christmas 2021 
 - [[Brenden Rhatican]]
 
-**Bibliography**
-
-```query
-[[bib]] file:(2022-10-31-The Drama of Atheist Humanism)
-```
- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-08-28-Sun]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

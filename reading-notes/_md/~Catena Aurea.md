@@ -24,6 +24,7 @@ finished:
 - [Commentary on the Letters of Saint Paul: Complete Set (Latin-English Opera Omnia) – St. Paul Center](https://stpaulcenter.com/product/commentary-on-the-letters-of-saint-paul-complete-set/)
 - [Vol. 29 Commentary on Psalms (Latin-English) – St. Paul Center](https://stpaulcenter.com/product/vol-29-commentary-on-psalms-latin-english/)
 - [Aquinas Scriptural Commentaries – St. Paul Center](https://stpaulcenter.com/product-tag/aquinas-scriptural-commentaries/)
+- $130 get this version: [Catena Aurea](https://loretopubs.org/catena-aurea-full-set.html)
 
 
 Online Version:

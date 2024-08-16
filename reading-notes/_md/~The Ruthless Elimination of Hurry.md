@@ -22,6 +22,8 @@ finishednotes:
 
 `(New York: WaterBrook, 2019-10-29), 304`
 
+
+<div class="note"> <p>1) Read the Gospels as a biography of Jesus and manual for how to live like he did. He demonstrates how to live, and then says "Follow me."<br>2) Hurry is antithetical to the spiritual life.</p> </div> 
 # Notes
 
 <details>

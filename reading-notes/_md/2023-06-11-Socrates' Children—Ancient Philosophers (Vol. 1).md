@@ -25,6 +25,11 @@ I had been looking for a summary of philosophy, and I couldn't ask for a better 
 
 
 # Notes
+Volume 1: *[[2023-06-11-Socrates' Children—Ancient Philosophers (Vol. 1)|Socrates' Children—Ancient Philosophers]]*
+Volume 2: *[[~Socrates' Children—Medieval Philosophers (Vol. 2)|Socrates' Children—Medieval Philosophers]]*
+Volume 3: *[[~Socrates' Children—Modern Philosophers (Vol. 3)|Socrates' Children—Modern Philosophers]]*
+Volume 4: *[[~Socrates' Children—Contemporary Philosophers (Vol. 4)|Socrates' Children—Contemporary Philosophers]]*
+
 
 <details>
  <summary><i>Contents</i></summary>
@@ -72,7 +77,6 @@ I had been looking for a summary of philosophy, and I couldn't ask for a better 
 
 <!-- /MarkdownTOC -->
 </details>
-
 
 ### Introduction 
 - The best way to teach philosophy is by a story...the best way to learn philosophy is through history 
@@ -317,7 +321,7 @@ I had been looking for a summary of philosophy, and I couldn't ask for a better 
 	- A practical ethics: Men are disturbed not by things but by the view they take of things. You are responsible for your own happiness.
 	- "Serenity prayer" is stoic 
 	- [[Kant]] was the most famous Stoic philosopher of all time 
-- Kreeft gives a critique of Stoicism: 
+- Kreeft gives a critique of [[Stoicism]]: 
 	- Thinking cannot discover real goods → weakens morality 
 	- It destroys personal sympathy 
 
@@ -348,17 +352,6 @@ I had been looking for a summary of philosophy, and I couldn't ask for a better 
 
 **Source**
 - Easter 2023
-
-**Bibliography**
-
-```query
-[[bib]] file:(2023-06-11-Socrates' Children Ancient)
-```
- 
-
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2023-04-04-Tue]]

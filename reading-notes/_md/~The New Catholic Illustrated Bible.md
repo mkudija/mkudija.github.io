@@ -1,5 +1,6 @@
 ---
-aliases: [The New Catholic Illustrated Bible]
+aliases:
+  - The New Catholic Illustrated Bible
 title: The New Catholic Illustrated Bible
 author: Amy Welborn, Lars Fredricksen
 category: Bible stories, English
@@ -12,8 +13,8 @@ source:
 wishlist: 2024-05-08
 acquired: 
 started: 2024-05-06
-finished: 
-finishednotes: 
+finished: 2024-08-08
+finishednotes: none
 translation: Children's
 dimensions:
 ---
@@ -21,12 +22,12 @@ dimensions:
 
 <img src="http://books.google.com/books/content?id=4V1TLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: , 2012), 0`
+`(Charlotte: St. Benedict, 2012), 323`
 
 
 
 --- 
-**Topic**: 
+**Topic**: [[The Bible]]
 
 **Source**
 - 

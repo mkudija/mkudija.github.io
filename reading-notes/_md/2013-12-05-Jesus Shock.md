@@ -36,7 +36,8 @@ finished:
 * "The Eucharist is a sword.  It is pointed at your heart.  This is not a clever ploy of mine, an image I invented; it is pure scriptural logic.  For the Eucharist is Christ, and Christ is the Word of God, and the Word of God is a sword." (143)
 * LOTR reference 146
 * quote 156: he loves us for our own sake
+* This is the one book Peter Kreeft wishes people would read (cf. min 35 of [Matt Speaks to His 6th Favorite Person in the World, Dr. Peter Kreeft - Pints With Aquinas](https://pca.st/i5mayye5))
 
 ---
 Created: 2013-12-05
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

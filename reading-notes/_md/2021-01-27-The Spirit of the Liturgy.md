@@ -138,6 +138,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 6. Matter
 - "in the interplay of culture and history, history has priority. God has acted in history and, through history, given the gifts of the earth their significance" (238)
 
+Ref: [FORMED Book Club: The Spirit of the Liturgy - YouTube](https://www.youtube.com/playlist?list=PL8gMEpS0FChffOt4q4n2Ubr1uNlm5R3DC)
 
 
 ---
