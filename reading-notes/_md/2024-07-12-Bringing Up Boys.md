@@ -16,11 +16,11 @@ started: 2024-05-25
 finished: 2024-07-03
 finishednotes: 2024-07-12
 ---
-# *[Bringing Up Boys]()* by [[James C. Dobson]]
+# *[Bringing Up Boys](https://www.tyndale.com/p/bringing-up-boys/9781414391335)* by [[James C. Dobson]]
 
 <img src="http://books.google.com/books/content?id=AuWdYvNiekYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Tyndale , 2001/2014), 389`
+`(New York: Tyndale, 2001/2014), 389`
 
 
 >If character training is a primary goal of parenting, then the best way to install it is through the demeanor and behavior of a father. (69)

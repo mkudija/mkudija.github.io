@@ -17,7 +17,12 @@ publish: true
 
 # [[Woodworking]] Projects
 
-2024-07-02-kitchen-cabinet-top.jpg
+
+### 2024-08-18 [[Build Log-Paper Tray|Paper Tray]]
+*Walnut*
+
+<img src="https://github.com/mkudija/img/blob/main/woodworking-projects/2024-08-18-paper-tray.jpg?raw=true" width="100%">
+
 
 ### 2024-07-02 [[Build Log-Mom Command Center|Kitchen Cabinet Top]]
 *Maple*

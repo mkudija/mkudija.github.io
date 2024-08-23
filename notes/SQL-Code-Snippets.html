@@ -65,6 +65,15 @@ CREATE TABLE schema.table
     );
 </code></pre>
 
+<p>Create or replace table:</p>
+
+<pre><code>-- create or replace table
+CREATE OR REPLACE TABLE schema.table AS (
+    SELECT *
+    FROM differentschema.table
+)
+</code></pre>
+
 <p>Update table:</p>
 
 <pre><code>DELETE
@@ -658,6 +667,39 @@ where date(action_timestamp) &lt; current_date()
 group by 1
 </code></pre>
 
+<h3 id="loop-over-date-array">Loop over Date Array</h3>
+
+<pre><code>drop table `table-name`;
+
+create table `table-name` (
+ref_date date,
+today_flag string,
+another_col string,
+);
+
+------------------------------------------------------------------------------
+
+for ref_date in (
+select 
+m as ref_date
+from unnest(generate_date_array(current_date(), date(current_date() + interval 7 day), interval 1 day)) AS m
+)
+
+do insert into `table-name`
+(
+  select 
+    ref_date.ref_date,
+    if(ref_date.ref_date = current_date(),'today','not today') as today_flag,
+    'this' as another_col
+);
+
+end for;
+
+------------------------------------------------------------------------------
+
+select * from `table-name` order by 1;
+</code></pre>
+
 <h2 id="resources">Resources</h2>
 
 <ul>
@@ -676,7 +718,7 @@ group by 1
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2024-07-11-Thu</p>
+Updated: 2024-08-23-Fri</p>
 
 
 </div>

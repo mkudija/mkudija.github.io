@@ -29,7 +29,7 @@ finished:
 
 **Source**
 - [[The Classical Teacher - Winter 2023]]
-- [[Aquinas CoOp]] Logic
+- [[Aquinas Columbus]] Logic
 
 **Bibliography**
 

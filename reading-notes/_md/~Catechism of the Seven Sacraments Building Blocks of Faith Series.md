@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Catechism of the Seven Sacraments
+  - Catechism of the Seven Sacraments (Lego)
 title: Catechism of the Seven Sacraments
 author: Kevin O'Neill
 category: Juvenile Nonfiction

@@ -36,7 +36,7 @@ publish: true
 	- *Go Dog Go*
 	- *Sam and the Firefly*
 - Matthew Reinhart 
-	- Encyclopedia Prehistorica Dinosaurs : The Definitive Pop-Up
+	- Encyclopedia Prehistorica Dinosaurs: The Definitive Pop-Up
 - A. A. Milne:
 	- *Winnie the Pooh*
 	- *The House at Pooh Corner*
@@ -102,8 +102,34 @@ publish: true
 ### Other Reading Lists
 - [50 Best Books for Boys and Young Men | The Art of Manliness](https://www.artofmanliness.com/living/reading/50-best-books-for-boys-and-young-men/)
 
+
+### Books Read to the Kids
+- 2018: *Winnie-the-Pooh*
+- 2018: *The Little Prince*
+- 2019: _The House At Pooh Corner_
+- 2019: *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*
+- 2020: *Winnie-the-Pooh*
+- 2021: *The Boy, the Mole, the Fox and the Horse*
+- 2021: *[[2021-06-29-Brother Hugo and the Bear|Brother Hugo and the Bear]]*
+- 2021: *Cathedral: The Story of Its Construction*
+- [[2022-10-16-Sun]]: *[[~Charlotte's Web|Charlotte's Web]]* (audiobook)
+- [[2022-12-17-Sat]]: [[2022-12-17-Hamlet|Hamlet]]
+- 2022: *The House at Pooh Corner*
+- [[2023-01-16-Mon]]: [[~The Holy Mass|The Holy Mass (Lego)]]
+- [[2023-08-29-Tue]]: *[[~Catholic Picture Bible|Catholic Picture Bible]]*
+- [[2023-11-08-Wed]]: *[[2023-11-10-Bible Basics for Catholics|Bible Basics for Catholics]]* (illustrations)
+- [[2024-03-10-Sun]]: [[2018-09-13-The Hobbit|The Hobbit]]
+- [[2024-04-14-Sun]]: *[[~The Mouse and the Motorcycle|The Mouse and the Motorcycle]]* (audiobook)
+- [[2024-05-04-Sat]]: *[[2024-05-07-The Golden Key|The Golden Key]]*
+- [[2024-05-05-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
+- [[2024-06-09-Sun]]: *[[~The Castle in the Attic|The Castle in the Attic]]*
+- [[2024-08-08-Thu]]: *[[~The New Catholic Illustrated Bible|The New Catholic Illustrated Bible]]*
+- 
+- ... *[[~The Shadow of His Wings|The Shadow of His Wings]]*
+- ... *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
+
 ---
 **Topic**: [[Reading]]
 
 Created: [[2021-07-16-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

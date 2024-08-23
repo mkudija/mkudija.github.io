@@ -28,7 +28,7 @@ finishednotes:
 **Topic**: [[Apologetics]]
 
 **Source**
-- [[Aquinas CoOp]] Logic
+- [[Aquinas Columbus]] Logic
 
 **Bibliography**
 - 

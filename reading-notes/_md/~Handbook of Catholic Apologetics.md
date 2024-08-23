@@ -23,7 +23,7 @@ finished:
 
 
 --- 
-**Topic**: 
+**Topic**: [[Apologetics]]
 
 **Source**
 - 

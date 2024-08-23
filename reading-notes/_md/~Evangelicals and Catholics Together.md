@@ -1,19 +1,21 @@
 ---
-aliases: [Evangelicals and Catholics Together]
+aliases:
+  - Evangelicals and Catholics Together
+  - ECT
 title: Evangelicals and Catholics Together
 author: Charles W. Colson
 category: Religion
 publisher: Thomas Nelson
 total_page: 0
 publish_date: 1995
-isbn10: 0849938600
+isbn10: 849938600
 isbn13: 9780849938603
 source: 
 wishlist: 2024-06-27
-acquired: 
-started: 
+acquired: 2024-07-01
+started: 2024-08-17
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[Evangelicals and Catholics Together]()* by [[Charles W. Colson]]
 

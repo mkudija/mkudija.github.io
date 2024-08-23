@@ -16,12 +16,13 @@ started: 2024-07-07
 finished: 2024-08-04
 finishednotes: 2024-08-16
 ---
-# *[The Illustrated Man]()* by [[Ray Bradbury]]
+# *[The Illustrated Man](https://www.simonandschuster.com/books/The-Illustrated-Man/Ray-Bradbury/9781451678185)* by [[Ray Bradbury]]
 
-<img src="http://books.google.com/books/content?id=i0zvLgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
+<img src="https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451678185_9781451678185_lg.jpg" width=150>
 
 `(New York: Heinemann Educational Publishers, 1952), 198`
 
+>*The Illustrated Man lay motionless. I had seen what there was to see. The stories were told; they were over and done.*
 
 ### The Veldt
 *A family is spoiled by their house that does everything for them, including a virtual room in which the children imagine the lions eating their parents.*

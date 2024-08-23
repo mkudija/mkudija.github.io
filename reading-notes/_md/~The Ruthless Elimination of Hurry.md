@@ -12,8 +12,8 @@ isbn13: 9780525653103
 source: 
 wishlist: 2024-08-02
 acquired: 2024-08-02
-started: 
-finished: 
+started: 2024-08-02
+finished: 2024-08-16
 finishednotes:
 ---
 # *[The Ruthless Elimination of Hurry]()* by [[John Mark Comer]]

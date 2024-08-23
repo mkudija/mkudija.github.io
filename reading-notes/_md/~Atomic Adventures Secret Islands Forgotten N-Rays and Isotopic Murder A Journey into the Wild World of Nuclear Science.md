@@ -23,10 +23,10 @@ finished:
 
 
 --- 
-**Topic**: [[Dad]] [[2024-01-17-Wed]]
+**Topic**: 
 
 **Source**
-- 
+- [[Dad]] [[2024-01-17-Wed]]
 
 **Bibliography**
 

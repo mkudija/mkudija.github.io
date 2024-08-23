@@ -21,6 +21,16 @@ CREATE TABLE schema.table
 	);
 ```
 
+Create or replace table:
+```SQL
+-- create or replace table
+CREATE OR REPLACE TABLE schema.table AS (
+	SELECT *
+	FROM differentschema.table
+)
+```
+
+
 Update table:
 ```SQL
 DELETE
@@ -581,6 +591,40 @@ from `table`
 where date(action_timestamp) < current_date()
   and last_day(date(action_timestamp)) = last_day(current_date())
 group by 1
+```
+
+### Loop over Date Array
+
+```sql
+drop table `table-name`;
+
+create table `table-name` (
+ref_date date,
+today_flag string,
+another_col string,
+);
+
+------------------------------------------------------------------------------
+
+for ref_date in (
+select 
+m as ref_date
+from unnest(generate_date_array(current_date(), date(current_date() + interval 7 day), interval 1 day)) AS m
+)
+
+do insert into `table-name`
+(
+  select 
+    ref_date.ref_date,
+    if(ref_date.ref_date = current_date(),'today','not today') as today_flag,
+    'this' as another_col
+);
+
+end for;
+
+------------------------------------------------------------------------------
+
+select * from `table-name` order by 1;
 ```
 
 ## Resources
