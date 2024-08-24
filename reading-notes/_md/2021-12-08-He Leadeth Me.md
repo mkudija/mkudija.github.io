@@ -39,13 +39,13 @@ finished: 2021-12-02
 - [Chapter 10: Work](#chapter-10-work)
 - [Chapter 11: The Priesthood](#chapter-11-the-priesthood)
 - [Chapter 12: The Apostolate](#chapter-12-the-apostolate)
-- [Chapter 13: The Meaning of the Mass \(★★★\)](#chapter-13-the-meaning-of-the-mass-%E2%98%85%E2%98%85%E2%98%85)
+- [Chapter 13: The Meaning of the Mass ★★★](#chapter-13-the-meaning-of-the-mass-%E2%98%85%E2%98%85%E2%98%85)
 - [Chapter 14: Retreats](#chapter-14-retreats)
 - [Chapter 15: The Fear of Death](#chapter-15-the-fear-of-death)
 - [Chapter 16: Freedom](#chapter-16-freedom)
 - [Chapter 17: The Kingdom of God](#chapter-17-the-kingdom-of-god)
 - [Chapter 18:](#Humility)
-- [Chapter 19: \[[Faith\]] \(★\)](#chapter-19-faith-%E2%98%85)
+- [Chapter 19: \[[Faith\]] ★](#chapter-19-faith-%E2%98%85)
 - [Chapter 20: Humanity](#chapter-20-humanity)
 
 <!-- /MarkdownTOC -->
