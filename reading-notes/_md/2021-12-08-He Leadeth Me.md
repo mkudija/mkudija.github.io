@@ -115,7 +115,8 @@ finished: 2021-12-02
 
 
 
-## Chapter 13: The Meaning of the Mass (★★★)
+## Chapter 13: The Meaning of the Mass ★★★
+*revisited [[2024-08-23-Fri]]*
 - "Sometimes I think that those who have never been deprived of an opportunity to say or hear Mass do not really appreciate what a treasure the Mass is...I know the sacrifices we made and the risks we ran in order just to have a chance to say or hear Mass. When we were constantly hungry in the camps, when the food we got each day was just barely enough to keep us going, I have seen priests pass up breakfast and work at hard labor on an empty stomach until noon in order to keep the Eucharistic fast, because the noon break at the work site was the time we could best get together for a hidden Mass. I did that often myself. And sometimes, when the guards were observing us too closely and we couldn't risk saying Mass at the work site, the crusts of bread I had put in my pocket at breakfast remained there uneaten until I could get back to camp and say Mass at night...But the Mass to us was always worth the danger and the sacrifice; we treasured it, we looked forward to it, we would do almost anything in order to say or attend a Mass." (128)
 - [[Fasting]]: "If we waited until we could go off into a quiet corner of the barracks during the evening, it meant that we must fast all day and still do a full day's work with the lumber gangs." (130)
 - "We began to prepare ourselves to say the Mass by heart...we would repeat to each other the prayers of the Mass until we had learned them by heart." (130)
@@ -156,7 +157,7 @@ finished: 2021-12-02
 - "[[Humility]] is nothing more or less than knowing our place before God." (180-181)
 
 
-## Chapter 19: [[Faith]] (★)
+## Chapter 19: [[Faith]] ★
 - "We do not merit faith—God gave it to us as a free gift—but it is ours to preserve or lose." (190)
 - Prayer preserves our faith, especially [[The Morning Offering]]
 - "**We must have faith before we can love, or we will surely end up loving the wrong thing**—loving ourselves more than God, or loving creatures for themselves." (192)
