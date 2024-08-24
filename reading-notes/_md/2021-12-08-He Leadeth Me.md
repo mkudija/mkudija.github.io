@@ -21,6 +21,37 @@ finished: 2021-12-02
 
 >And the greatest grace God can give such a man is to send him a trial he cannot bear with his own powers—and then sustain him with his grace so he may endure to the end and be saved.
 
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+- [Prologue](#prologue)
+- [Chapter 1: Albertyn](#chapter-1-albertyn)
+- [Chapter 2: The Decision to Enter Russia](#chapter-2-the-decision-to-enter-russia)
+- [Chapter 3: Russia](#chapter-3-russia)
+- [Chapter 4: Arrest and Imprisonment](#chapter-4-arrest-and-imprisonment)
+- [Chapter 5: Lubianka](#chapter-5-lubianka)
+- [Chapter 6: The Interrogations](#chapter-6-the-interrogations)
+- [Chapter 7: Four Years of Purgatory](#chapter-7-four-years-of-purgatory)
+- [Chapter 8: In Transit](#chapter-8-in-transit)
+- [Chapter 9: The Body](#chapter-9-the-body)
+- [Chapter 10: Work](#chapter-10-work)
+- [Chapter 11: The Priesthood](#chapter-11-the-priesthood)
+- [Chapter 12: The Apostolate](#chapter-12-the-apostolate)
+- [Chapter 13: The Meaning of the Mass \(★★★\)](#chapter-13-the-meaning-of-the-mass-%E2%98%85%E2%98%85%E2%98%85)
+- [Chapter 14: Retreats](#chapter-14-retreats)
+- [Chapter 15: The Fear of Death](#chapter-15-the-fear-of-death)
+- [Chapter 16: Freedom](#chapter-16-freedom)
+- [Chapter 17: The Kingdom of God](#chapter-17-the-kingdom-of-god)
+- [Chapter 18:](#Humility)
+- [Chapter 19: \[[Faith\]] \(★\)](#chapter-19-faith-%E2%98%85)
+- [Chapter 20: Humanity](#chapter-20-humanity)
+
+<!-- /MarkdownTOC -->
+</details>
+
+
 ## Prologue
 - "Men died in those camps, especially those who gave up hope." (12)
 - "God had stripped away from me many of the external consolations, physical and religious, that men rely on and had left me with a core of seemingly simple truths to guide me." (13)
@@ -84,10 +115,18 @@ finished: 2021-12-02
 
 
 
-## Chapter 13: The Meaning of the Mass (★)
+## Chapter 13: The Meaning of the Mass (★★★)
+- "Sometimes I think that those who have never been deprived of an opportunity to say or hear Mass do not really appreciate what a treasure the Mass is...I know the sacrifices we made and the risks we ran in order just to have a chance to say or hear Mass. When we were constantly hungry in the camps, when the food we got each day was just barely enough to keep us going, I have seen priests pass up breakfast and work at hard labor on an empty stomach until noon in order to keep the Eucharistic fast, because the noon break at the work site was the time we could best get together for a hidden Mass. I did that often myself. And sometimes, when the guards were observing us too closely and we couldn't risk saying Mass at the work site, the crusts of bread I had put in my pocket at breakfast remained there uneaten until I could get back to camp and say Mass at night...But the Mass to us was always worth the danger and the sacrifice; we treasured it, we looked forward to it, we would do almost anything in order to say or attend a Mass." (128)
 - [[Fasting]]: "If we waited until we could go off into a quiet corner of the barracks during the evening, it meant that we must fast all day and still do a full day's work with the lumber gangs." (130)
+- "We began to prepare ourselves to say the Mass by heart...we would repeat to each other the prayers of the Mass until we had learned them by heart." (130)
 - "I could not help thinking how the forests sometimes resembled a cathedral—the tall rows of towering trees arching over us, the hushed silence, the natural beauty around us." (130)
+- "You cannot explain all this, I know, to those who do not be-lieve. Even for many Christians, I fear, the notion of the Blessed Sacrament as the bread of life is somehow only a poetic or symbolic phrase used by Jesus in the Gospel. Yet what a source of sustenance it was to us then, how much it meant to us to have the Body and Blood of Christ as the food of our spiritual lives in this sacrament of love and joy. The experience was very real; you could feel its effects upon your mind and heart, upon your daily life. For us it was a necessity, to foster the life of the soul, just as much as our daily bread was necessary to sustain the body. There were so many of the exiles here in the Urals who were deprived of it and seemed indifferent. God in his own way took care of these spiritually starved people, I have no doubt, just as he was taking care of us in a special way. Who of us can fully understand the ways of God? For us, though, this bread of life, this Eucharist, was truly a source of communion with him and with those to whom we longed to bring him." (131-132)
+- "The five long years in Lubianka brought this home to me more forcefully than ever. I was deprived of that spiritual food and the reality of that communion. I turned to God in prayer, made frequent acts of spiritual communion throughout the day, but I literally hungered to be able to receive him once again. Every day I said from memory the prayers of the Mass, and sometimes I think these prayers served only to emphasize my sense of deprivation from the Eucharist." (132)
+- "Despite this added hardship, everyone observed a strict Eucharistic fast from the night before, passing up a chance for breakfast and working all morning on an empty stomach. Yet no one complained." (133)
 - "So I never let a day pass without saying Mass; it was my primary concern each new day. I would go to any length, suffer any inconvenience, run any risk to make the bread of life available to these men." (133)
+- "Generally we preferred to say Mass somewhere at the working site, even though it meant we had to fast all morning and then give up the few moments of rest allowed to prisoners during the luncheon break...Yes these men would actually fast all day long and do exhausting physical labor without a bit to eat since dinner the evening before, just to be able to receive the Holy Eucharist—that was how much the sacrament meant to them in this otherwise God-forsaken place." (136)
+- "Time and again I was amazed at the devotion of these men. Most of them had really had very little formal religious training; for the most part they knew little of religion except the prayers and beliefs that pious parents or grandparents had taught them. And yet they believed, and were willing to make unheard-of sacrifices for the consolation of attending Mass or receiving Communion...They wanted to make this sacrifice on his behalf, they said, in order to express their faith in God and their gratitude to him for having sent a priest into their midst." (137)
+- "How conscious these men were of every day they lived. They counted it both as one day less in their sentence and yet one day less in their lives. No one wished, even for his bitterest enemy, the misfortune of dying in these camps away from everything a man held dear. And yet each day, they knew, was a step in the long slow march toward death. It was to such men as these that I had been chosen, and was privileged, to bring the bread of life. "Unless you eat my flesh and drink my blood," Christ said to his disciples, "you shall not have life in you. He who eats my flesh and drinks my blood shall have life and have it more abundantly." These men, with simple and direct faith, grasped this truth, and they believed in it. They could not explain it as a theologian might, but they accepted it and lived by it and were willing to make voluntary sacrifices even in a life of almost total deprivation, in order to receive this bread of life. Mass and the Blessed Sacrament were a source of great consolation to me; they were the source of my strength and joy and spiritual sustenance. But it was when I realized what the Holy Eucharist meant to these men, what sacrifices they were willing to make for it, that I felt animated, privileged, driven to make it possible for them to receive this bread of life as often as they wished. No danger, no risk, no retaliation could prevent my saying Mass each day for them. "As often as you do this, do it in memory of me." Life in the labor camps was Calvary for these men in many ways every day; there was nothing I would not do to offer the sacrifice of Calvary again for them each day in the Mass." (138)
 
 
 ## Chapter 14: Retreats
@@ -135,13 +174,12 @@ finished: 2021-12-02
 **Bibliography**
 
 - *With God in Russia* by Walter J. Ciszek, S.J.
-- cf. *[[2020-12-23-Abandonment to Divine Providence]]*, *[[2021-10-30-Live Not By Lies]]* and [[2021-07-15-"Live Not by Lies"]]
+- cf. *[[2020-12-23-Abandonment to Divine Providence|Abandonment to Divine Providence]]*, *[[2021-10-30-Live Not By Lies|Live Not By Lies]]* and [[2021-07-15-"Live Not by Lies"|"Live Not by Lies"]]
 
 **New Words**
-
 - **Exercitant**: one who practices spiritual exercises, especially those of [[St. Ignatius of Loyola]]
 
 ---
 Created: 2021-12-08
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 

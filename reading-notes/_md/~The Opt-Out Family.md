@@ -39,12 +39,12 @@ finishednotes:
 
 # Part 1
 ## Chapter 1: The Algorithm: What the Numbers Say and Why It Matters
-_**Summary**: _
+_**Summary**: People are human._
 
 
 
 ## Chapter 2: Disrupt: Casting the Vision for a Better Tomorrow
-_**Summary**: _
+_**Summary**: Is technology the future we want?_
 
 
 
@@ -55,70 +55,66 @@ _**Summary**: Tech says "move fast a break things." We say "move slow and mend t
 
 # Part 2
 ## Chapter 4: N of 1: Discovering What Delights Our Kids Most
-_**Summary**: _
+_**Summary**: Find out what people love so you can fill their hearts._
 
 
 
 ## Chapter 5: iPerson: Supporting a Low-Tech, High-Impact Educational Experience
-_**Summary**: _
+_**Summary**: May a child's heart be guided by discovery._
 
 
 
 ## Chapter 6: Are You There, Siri? Reclaiming Wonder for a Worn Generation
-_**Summary**: _
+_**Summary**: Life is a mystery._
 
 
 
 ## Chapter 7: Game On: How to Challenge Our Kids and Encourage Healthy Risks
-_**Summary**: _
+_**Summary**: Offline, you will be made strong enough to handle life's challenges._
 
 
 
 ## Chapter 8: AutoPlay: Building Momentum, Creativity, and Flow into Your Family Culture
-_**Summary**: _
-
+_**Summary**: Our built-in creativity will offer endless opportunities for fun._
+- "Share with others the magic of the flywheel effect. One grandmother I spoke with found it difficult to connect with her faraway grandkids on a regular basis. So she ordered a book of knock-knock jokes. Now she calls her grandchildren every day at 4:00 p.m. to read a different one aloud. Sometimes it's just the joke and then we hang up. But most of the time, they have a story to share of something that happened at school, and we gab on and on from there. It's really transformed the relationship I have with my grand-kids, and with my daughter, too." (147)
 
 
 ## Chapter 9: Alexa, Meet Baby: Reevaluating the Digital Path We're Paving
-_**Summary**: _
-
+_**Summary**: Easier is not better._
 
 
 ## Chapter 10: Network Effect: Establishing Your Child's Inner Circle
-_**Summary**: _
+_**Summary**: Smartphones disconnect us from the people we're with._
 
 
 
 ## Chapter 11: Digital Literacy: Learning a New Way Forward
-_**Summary**: _
+_**Summary**: There is no such thing as a foolproof parental control._
 
 
 
 ## Chapter 12: +Follow: Earning Influence and Authority in Your Home
-_**Summary**: _
+_**Summary**: Influence is earned._
 
 
 
 ## Chapter 13: Code the System: Establishing Rhythms and Supporting Values in Your Home
-_**Summary**: _
+_**Summary**: Technology has the power to erode your values._
 
 
 
 ## Chapter 14: Trust and Safety: Preparing Independent Kids for the World Ahead
-_**Summary**: _
+_**Summary**: Trusting your children can alleviate fear and concern._
 
 
 
 --- 
-**Topic**: 
+**Topic**: [[Parenting]], [[Technology]]
 
 **Source**
 - [[Jordan]]
 - [[UA Library]]
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2024-08-20-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
