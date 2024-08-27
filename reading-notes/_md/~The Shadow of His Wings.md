@@ -13,7 +13,7 @@ source:
 wishlist: 2024-08-14
 acquired: 
 started: 2024-08-14
-finished: 
+finished: 2024-08-25
 finishednotes:
 ---
 # *[The Shadow of His Wings]()* by [[Gereon Karl Goldmann]]

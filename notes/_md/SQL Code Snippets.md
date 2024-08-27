@@ -594,6 +594,7 @@ group by 1
 ```
 
 ### Loop over Date Array
+*Consider using a `cross join` below instead of a loop...*
 
 ```sql
 drop table `table-name`;
@@ -625,6 +626,28 @@ end for;
 ------------------------------------------------------------------------------
 
 select * from `table-name` order by 1;
+```
+
+### Cross Join to Loop
+*Instead of a loop, use a cross join, which finds all the unique combinations between two tables.*
+
+```SQL
+with dates as (
+  select 
+    m as ref_date
+  from unnest(generate_date_array(current_date(), date(current_date() + interval 3 day), interval 1 day)) AS m
+)
+
+, items as (
+  select 
+    m as row_no
+  from unnest(generate_array(1,3)) AS m
+)
+
+select *
+from dates, items
+-- from dates cross join items 
+order by 1,2
 ```
 
 ## Resources

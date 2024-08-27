@@ -25,6 +25,7 @@ mermaid: true
 `(Louisville: Memoria Press, 2000), 150`
 
 
+>The kiln tests the potter's vessels; so the test of a man is in his reasoning. 
 >-[[Sir-27#v5]]-6
 
 
@@ -224,43 +225,35 @@ k --> m
  - **The Second Law of Opposition**: Contraries cannot at the same time both be true, but can at the same time both be false.
 
 ## Chapter 7: Subcontraries and Subalterns
-_**Summary**: _
 
 
 
 ## Chapter 8: Distribution of Terms
-_**Summary**: _
 
 
 
 ## Chapter 9: Obversion, Conversion, and Contraposition
-_**Summary**: _
 
 
 
 # Deductive Inference (Syllogism)
 ## Chapter 10: What Is Deductive Inference?
-_**Summary**: _
 
 
 
 ## Chapter 11: Terminological Rules for Categorical Syllogisms
-_**Summary**: _
 
 
 
 ## Chapter 12: Quantitative Rules for Categorical Syllogisms
-_**Summary**: _
 
 
 
 ## Chapter 13: Qualitative Rules for Categorical Syllogisms 
-_**Summary**: _
 
 
 
 ## Chapter 14: Review
-_**Summary**: _
 
 
 

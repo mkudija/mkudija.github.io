@@ -92,7 +92,6 @@ publish: true
 - *The Tale of Three Trees* by Angela Elwell Hunt
 
 
-
 ### Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien
 - *[[~The Well-Trained Mind|The Well-Trained Mind]]* by Susan Wise Bauer
@@ -102,8 +101,7 @@ publish: true
 ### Other Reading Lists
 - [50 Best Books for Boys and Young Men | The Art of Manliness](https://www.artofmanliness.com/living/reading/50-best-books-for-boys-and-young-men/)
 
-
-### Books Read to the Kids
+### Read-Aloud
 - 2018: *Winnie-the-Pooh*
 - 2018: *The Little Prince*
 - 2019: _The House At Pooh Corner_
@@ -124,9 +122,9 @@ publish: true
 - [[2024-05-05-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
 - [[2024-06-09-Sun]]: *[[~The Castle in the Attic|The Castle in the Attic]]*
 - [[2024-08-08-Thu]]: *[[~The New Catholic Illustrated Bible|The New Catholic Illustrated Bible]]*
-- 
-- ... *[[~The Shadow of His Wings|The Shadow of His Wings]]*
-- ... *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
+- [[2024-08-25-Sun]]: *[[~The Shadow of His Wings|The Shadow of His Wings]]*
+- In Progress:
+	- *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
 
 ---
 **Topic**: [[Reading]]
