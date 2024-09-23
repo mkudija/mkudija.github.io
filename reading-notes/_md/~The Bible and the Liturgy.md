@@ -1,19 +1,20 @@
 ---
-aliases: [The Bible and the Liturgy]
+aliases:
+  - The Bible and the Liturgy
 title: The Bible and the Liturgy
 author: Jean Daniélou
 category: Religion
 publisher: 
 total_page: 372
 publish_date: 1973-10-30
-isbn10: 0268003734
+isbn10: 268003734
 isbn13: 9780268003739
 source: 
 wishlist: 2024-05-05
-acquired: 
+acquired: 2024-05-05
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Bible and the Liturgy]()* by [[Jean Daniélou]]
 

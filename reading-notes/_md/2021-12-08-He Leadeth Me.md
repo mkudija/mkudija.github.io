@@ -87,7 +87,7 @@ finished: 2021-12-02
 
 ## Chapter 7: Four Years of Purgatory
 - "God's will was not hidden somewhere 'out there' in the situations in which I found myself; the situations themselves *were* his will for me." (81)
-- "For my part, I was brought to make this perfect acto fo faith, this act of complete self-abandonment to his will, of total trust in his love and concern fo rme and his desire to sustain and protect me, by the expterience of a complete despair of my own powers and abilities that had preceded it. I knew I could no longer trust myself, and it seemed only sensible then to trust totally in God." (82, cf. *[[2020-12-23-Abandonment to Divine Providence]]*)
+- "For my part, I was brought to make this perfect act of faith, this act of complete self-abandonment to his will, of total trust in his love and concern for me and his desire to sustain and protect me, by the experience of a complete despair of my own powers and abilities that had preceded it. I knew I could no longer trust myself, and it seemed only sensible then to trust totally in God." (82, cf. *[[2020-12-23-Abandonment to Divine Providence|Abandonment to Divine Providence]]*)
 - "The future, hidden as it was, was hidden in his will and therefore acceptable to me no matter what it might bring." (83)
 
 

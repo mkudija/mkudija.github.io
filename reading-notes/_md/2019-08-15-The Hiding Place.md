@@ -1,5 +1,5 @@
 
-# [*The Hiding Place*](http://bakerpublishinggroup.com/books/the-hiding-place-35th-anniversary-edition/275074) by Corrie Ten Boom
+# [*The Hiding Place*](http://bakerpublishinggroup.com/books/the-hiding-place-35th-anniversary-edition/275074) by [[Corrie Ten Boom]]
 
 <img src="http://cdn.bakerpublishinggroup.com/processed/books/covers/listing/9780800794057.jpg?1602135934" width=150>
 

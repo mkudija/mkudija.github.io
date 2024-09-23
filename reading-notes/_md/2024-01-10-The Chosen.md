@@ -1,5 +1,6 @@
 ---
-aliases: [The Chosen]
+aliases:
+  - The Chosen
 title: The Chosen
 author: Chaim Potok
 category: Fiction
@@ -11,7 +12,7 @@ isbn13: 9781501142468
 source:
   - Becca
 wishlist: 2023-02-26
-acquired: 
+acquired: 2024-09-13
 started: 2024-01-05
 finished: 2024-01-10
 finishednotes: 2024-01-10
@@ -233,6 +234,7 @@ Some other small notes:
 
 **Source**
 - [[Becca]] [[2023-04-17-Mon]], [[2023-12-26-Tue]]; two Jewish boys in New York, historic vs not conflict and father son relationship
+- [[UA Library]] [[2024-09-13-Fri]]
 
 ---
 Created: [[2023-02-27-Mon]]

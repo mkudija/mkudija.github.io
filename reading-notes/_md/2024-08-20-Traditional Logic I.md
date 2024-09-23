@@ -106,7 +106,9 @@ mermaid: true
 - **Sense Perception**: the act whereby your senses present an object to your mind; you perceive an object by means of your senses 
 - **Mental Image**: the image of an object formed in the mind as a result of a sense perception of that object 
 - **Simple Apprehension**: is an act by which the mind grasps the general concept of an object without affirming or denying anything about it.
+	- Simple apprehension allows us to grasp the *essence* of a thing.
 - **Abstraction**: is the process by which a simple apprehension is derived from a sense perception and mental image.
+- *Sense perception* → *Mental image* → *Simple apprehension*
 
 
 ## Chapter 2: Comprehension and Extension

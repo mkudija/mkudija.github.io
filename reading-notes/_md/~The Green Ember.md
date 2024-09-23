@@ -1,19 +1,20 @@
 ---
-aliases: [The Green Ember]
+aliases:
+  - The Green Ember
 title: The Green Ember
 author: S. D. Smith, Sam Smith Smith
 category: Adventure
 publisher: 
 total_page: 0
 publish_date: 2015
-isbn10: 0986223506
+isbn10: 986223506
 isbn13: 9780986223501
 source: 
 wishlist: 2024-03-09
-acquired: 
-started: 
+acquired: 2024-08-14
+started: 2024-08-26
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Green Ember]()* by [[S. D. Smith, Sam Smith Smith]]
 

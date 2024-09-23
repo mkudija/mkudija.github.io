@@ -14,7 +14,7 @@ source:
 wishlist: 2024-06-27
 acquired: 2024-07-01
 started: 2024-08-17
-finished: 
+finished: 2024-09-21
 finishednotes:
 ---
 # *[Evangelicals and Catholics Together]()* by [[Charles W. Colson]]

@@ -57,8 +57,7 @@ finishednotes: 2024-05-27
 
 ## Chapter 1: The Hospital
 - "I am overwhelmed by the bureaucratic banality of suffering." (14)
-- ==quote on 18==
-- "I say to myself, I know I'm a Catholic but it is good that these babies aren't brought up in the world because it would be like me in the home. All they wanted was love. If these kids here were born a lot of them wouldn't have that." (22, telephone operator)
+ - "I say to myself, I know I'm a Catholic but it is good that these babies aren't brought up in the world because it would be like me in the home. All they wanted was love. If these kids here were born a lot of them wouldn't have that." (22, telephone operator)
 - "I really didn't know what a fetus was going to look like. I never thought it would look—so real." (29, controller)
 - "So why bring somebody into the world who is going to be so miserable. What you don't know doesn't hurt you." (39)
 

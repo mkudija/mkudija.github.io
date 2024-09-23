@@ -1,18 +1,19 @@
 ---
-aliases: [The Rise of Theodore Roosevelt]
+aliases:
+  - The Rise of Theodore Roosevelt
 title: The Rise of Theodore Roosevelt
 author: Edmund Morris
 category: Biography & Autobiography
 publisher: Modern Library
 total_page: 962
 publish_date: 2010-11-24
-isbn10: 0307777820
+isbn10: 307777820
 isbn13: 9780307777829
 source: 
 wishlist: 2023-09-03
 acquired: 
-started: 
-finished: 
+started: 2024-09-21
+finished:
 ---
 # *[The Rise of Theodore Roosevelt]()* by [[Edmund Morris]]
 

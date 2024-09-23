@@ -1,5 +1,6 @@
 ---
-aliases: [The Bible Compass]
+aliases:
+  - The Bible Compass
 title: The Bible Compass
 author: Dr. Edward Sri
 category: Religion
@@ -10,9 +11,9 @@ isbn10:
 isbn13: 
 source: 
 wishlist: 2023-11-06
-acquired: 
+acquired: 2024-09-07
 started: 
-finished: 
+finished:
 ---
 # *[The Bible Compass: A Catholic’s Guide to Navigating the Scriptures]()* by [[Edward Sri]]
 
@@ -28,6 +29,7 @@ finished:
 **Source**
 - [[010 - Understanding the Bible - The Burrowshire Podcast]]
 - *[[2023-11-10-Bible Basics for Catholics|Bible Basics for Catholics]]*
+- [[UA Library]] [[2024-09-07-Sat]]
 
 **Bibliography**
 

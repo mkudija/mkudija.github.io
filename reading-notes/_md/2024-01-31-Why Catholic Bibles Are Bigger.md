@@ -32,7 +32,7 @@ mermaid: true
 This books asks the question *Did the Council of Trend add books to Old Testament Scripture or did Protestantism remove them?* and answers clearly: Protestantism removed them. The book provides ample evidence and citations for the overall arc of the deuterocanon books, which is loosely as follows:
 - There were various Jewish canons in the first century (and various Jewish sects). But only the Pharisees survived the first revolt, and Rabbi Akiva closed the Rabbinic Bible in the early second century.
 - The earliest Christians accepted the deuterocanon as Scripture, including by virtually all of the Fathers until Jerome in the 4th century
-- Jerome's innovation—Hebrew Verity—was the view that there was only one Hebrew text which was the inspired original, and therefore the books of the Septuigint that he did not have access to Hebrew originals for were not canonical (this was disproven by the Dead Sea / Qumran Scrolls) 
+- Jerome's innovation—Hebrew Verity—was the view that there was only one Hebrew text which was the inspired original, and therefore the books of the Septuagint that he did not have access to Hebrew originals for were not canonical (this was disproved by the Dead Sea / Qumran Scrolls) 
 - Martin Luther cited the deuterocanon as Scripture until the Second Leipzig Disputation in 1519 when his opponent Eck cited 2 Maccabbees on the topic of Purgatory, after which rejected the deuterocanon as authoritative (though it was included as an appendix in his German translation of the Bible, as it was in virtually all early Protestant Bibles until the early 17th century)
 - Puritan theology and the opportunity of cost savings resulted in the removal of the deuterocanon from most Protestant Bibles by the 1830s.
 - English Puritanism, and American anti-Catholicism and misunderstanding, are two of the major contributors to the forgetting of the deuterocanon from the 1830s to the 1940s.
@@ -168,7 +168,7 @@ One question coming out of this book for me as a Catholic is this: *What posture
 - The Middle Ages saw a renewed study of Scripture which reinvigorated Jerome's writings. Everyone was aware of Jerome's opinions on the deuterocanon: most followed the Church, some tried to reconcile Jerome with the Church, and a few followed Jerome entirely (196, 213)
 - [[St. Thomas Aquinas|Aquinas]] uses the deuterocanon authoritatively throughout (207)
 - This chapter surveys what various scholars thought; the four who followed Jerome entirely are [[Hugh of Saint Victor]], [[John of Salisbury]], [[Nicholas of Lyra]], and [[William of Occam]]
-## Chapter 9: Florence, Trent, and the Renaissance..
+## Chapter 9: Florence, Trent, and the Renaissance
 - Jerome's influence increased in the Renaissance, especially the 13th and 14th centuries 
 - The [[Council of Florence]] (1439-1445) issued a decree that included a list of the books of Sacred Scripture, the first time any ecumenical council had raised the issue to this level of solemnity (216)
 - On the importance of continuing to work for the unity of [[Vatican II]]: "The most important and authoritative councils of the Church took decades (even centuries) to bring about unity; the great [[Nicaea I|Council of Nicaea]] of 325, for instance, accepted by both Catholic and Protestant alike, was contradicted by important figures *within the Church* for decades afterward." (218)

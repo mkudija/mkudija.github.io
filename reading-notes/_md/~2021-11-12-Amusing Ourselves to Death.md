@@ -8,7 +8,7 @@ total_page: 210
 publish_date: 2005-12-27
 isbn10: 014303653X
 isbn13: 9780143036531
-source: [[Laura]] Christmas 2021
+source: Laura Christmas 2021
 wishlist: 
 acquired: 2021-12-25
 started: 
