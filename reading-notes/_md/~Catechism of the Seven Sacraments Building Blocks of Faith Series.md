@@ -13,19 +13,19 @@ source:
 wishlist: 2024-08-10
 acquired: 
 started: 2024-08-08
-finished: 
+finished: 2024-10-13
 finishednotes:
 ---
 # *[Catechism of the Seven Sacraments: Building Blocks of Faith Series]()* by [[Kevin O'Neill]]
 
 <img src="http://books.google.com/books/content?id=SaGSzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Sophia Institute Press, 2023-02-21), 0`
+`(New York: Sophia Institute Press, 2023-02-21), 296`
 
 
 
 --- 
-**Topic**: 
+**Topic**: [[Kid's Books]]
 
 **Source**
 - 

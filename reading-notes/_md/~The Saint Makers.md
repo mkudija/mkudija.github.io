@@ -1,19 +1,20 @@
 ---
-aliases: [The Saint Makers]
+aliases:
+  - The Saint Makers
 title: The Saint Makers
 author: Joe Drape
 category: Religion
 publisher: Hachette Books
 total_page: 200
 publish_date: 2020-12-01
-isbn10: 0316268801
+isbn10: 316268801
 isbn13: 9780316268806
 source: 
 wishlist: 
 acquired: 2024-08-24
-started: 
+started: 2024-10-13
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Saint Makers]()* by [[Joe Drape]]
 

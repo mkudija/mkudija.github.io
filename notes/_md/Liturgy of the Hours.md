@@ -106,6 +106,7 @@ aliases: [LOTH, Breviary]
 - Vol. IV, pg. 879: "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
 - Vol. IV, pg. 960: "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
 - Vol. IV, pg. 1073 (Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."
+- Vol. IV, pg. 1448 (Office of Readings for [[St. Jerome]], from the prologue of the commentary on Isaiah): "I interpret as I should, following the command of Christ: *Search the Scriptures*, and *Seek and you shall find*. Christ will not say to me what he said to the Jews: *You erred, not knowing the Scriptures and now knowing the power of God.* For if, as Paul says, Christ is the power of God and the wisdom of God, and if the man who does not know Scripture does not know the power and wisdom of God, then **ignorance of Scripture is ignorance of Christ**...No one should think that I mean to explain the entire subject matter of this great book of Scripture in one brief sermon, since it contains all the mysteries of the Lord."
 - Vol. IV, pg. 1161 (intercessions for Wednesday Morning Prayer Week IV): "Give us strength in temptation, endurance in trial, and gratitude in prosperity."
 
 

@@ -69,6 +69,8 @@ publish: true
 - Data > Data Connectors > Refresh Options > Refresh All
 - `option + shift + →` - group rows/cols
 - ...
+- =INDEX(Forecast!$AN:$AN,match(1,(Forecast!$J:$J=F$50)*(Forecast!$E:$E=$A52)*(Forecast!$I:$I=$B52),0),1)
+- =SUMPRODUCT(($Q262:$AO262=AB266)*$Q263:$AO263)
 - =query(A1:D51,"Order by C Desc Limit 10")
 - =IMPORTRANGE("https://docs.google.com/spreadsheets/d/1rzwxJdrlnjJi_mpUiE8cBQFQKBkzcLHK1hsUNvLcdPE/edit#gid=1198758696","Summary!A1:AF30")
 - filter with "all" condition from [here](https://docs.google.com/spreadsheets/d/1P_TGwjaFRzQ4SAaUxfxF--eBQGWyfddbbDcxeg9IGk8/edit#gid=1138395796):
@@ -121,7 +123,7 @@ publish: true
 - `option + ⬆` - move line up/down
 - `cmd + click` on a table name to get it's details 
 
-7-day history (from [[Kellan Selig]]) for tables. For views, need to get source tables 
+7-day history for tables. For views, need to get source tables 
 ```sql
 SELECT   * FROM 
 `table` 

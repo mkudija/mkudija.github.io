@@ -21,7 +21,7 @@ finishednotes:
 
 `(New York: Simon and Schuster, 1994-07-26), 308`
 
-
+- *[[~2021-04-04-A Pattern Language|A Pattern Language]]*: "The essence of their vision was this: all the stuff in the man-made landscape—towns, streets, buildings, etc.—had to be viewed as orders of connecting relationships rather than as mere objects in space. The whole built environment consisted not of things at all but only of relationships between and within other relationships." (249-250)
 
 --- 
 **Topic**: 

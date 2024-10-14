@@ -153,6 +153,8 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li>Data &gt; Data Connectors &gt; Refresh Options &gt; Refresh All</li>
 <li><code>option + shift + →</code> - group rows/cols</li>
 <li>...</li>
+<li>=INDEX(Forecast!$AN:$AN,match(1,(Forecast!$J:$J=F$50)<em>(Forecast!$E:$E=$A52)</em>(Forecast!$I:$I=$B52),0),1)</li>
+<li>=SUMPRODUCT(($Q262:$AO262=AB266)*$Q263:$AO263)</li>
 <li>=query(A1:D51,"Order by C Desc Limit 10")</li>
 <li>=IMPORTRANGE("https://docs.google.com/spreadsheets/d/1rzwxJdrlnjJi_mpUiE8cBQFQKBkzcLHK1hsUNvLcdPE/edit#gid=1198758696","Summary!A1:AF30")</li>
 <li>filter with "all" condition from <a href="https://docs.google.com/spreadsheets/d/1P_TGwjaFRzQ4SAaUxfxF--eBQGWyfddbbDcxeg9IGk8/edit#gid=1138395796">here</a>:
@@ -221,7 +223,7 @@ O clemens, O pia, O dulcis Virgo Maria. -->
 <li><code>cmd + click</code> on a table name to get it's details </li>
 </ul>
 
-<p>7-day history (from <a href="Kellan-Selig.html">Kellan Selig</a>) for tables. For views, need to get source tables </p>
+<p>7-day history for tables. For views, need to get source tables </p>
 
 <pre><code>SELECT   * FROM 
 `table` 

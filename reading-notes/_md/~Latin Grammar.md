@@ -18,6 +18,7 @@ finished:
 `(New York: , 1949), 352`
 
 - Review: [Latin Grammar by Cora Scanlon and Charles Scanlon – Learn Church Latin](https://learnchurchlatin.com/2019/05/23/latin-grammar-by-cora-scanlon-and-charles-scanlon/)
+	- 
 - [Answer Key for Scanlon and Scanlon Latin Grammar](https://www.lulu.com/shop/charles-l-scanlon-and-cora-carroll-scanlon-and-augustine-thompson-op-and-joseph-oliveri/answer-key-for-scanlon-and-scanlon-latin-grammer/paperback/product-gp84mq.html?page=1&pageSize=4)
 
 --- 
@@ -40,4 +41,4 @@ finished:
 
 ---
 Created: [[2023-01-25-Wed]]
-Updated: NaN
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

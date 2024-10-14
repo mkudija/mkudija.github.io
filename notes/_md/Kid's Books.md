@@ -73,6 +73,8 @@ publish: true
 	- *Cathedral*
 	- *Castle*
 	- *Pyramid*
+- *[[~Tucky Jo and Little Heart|Tucky Jo and Little Heart]]*
+- *[[~Mercedes and the Chocolate Pilot|Mercedes and the Chocolate Pilot]]*
 - *The True Story of Stanta Claus* by Paul Prokop
 - Anthony DeStephano
 	- *Our Lady's Wardrobe*
@@ -90,7 +92,6 @@ publish: true
 - *[[~2021-08-03-A is for Angel|A is for Angel]]*
 - *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*  
 - *The Tale of Three Trees* by Angela Elwell Hunt
-
 
 ### Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien
@@ -122,9 +123,11 @@ publish: true
 - [[2024-05-05-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
 - [[2024-06-09-Sun]]: *[[~The Castle in the Attic|The Castle in the Attic]]*
 - [[2024-08-08-Thu]]: *[[~The New Catholic Illustrated Bible|The New Catholic Illustrated Bible]]*
-- [[2024-08-25-Sun]]: *[[~The Shadow of His Wings|The Shadow of His Wings]]*
+- [[2024-08-25-Sun]]: *[[2024-10-04-The Shadow of His Wings|The Shadow of His Wings]]*
+- [[2024-10-06-Sun]]: *[[~The Iliad (Graphic)|The Iliad (Graphic Novel Version)]]* by Gareth Hinds
+- [[2024-10-13-Sun]]: *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
 - In Progress:
-	- *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
+	- *[[~The Saint Makers|The Saint Makers]]*
 
 ---
 **Topic**: [[Reading]]
