@@ -449,14 +449,14 @@ SELECT *
 FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30'));
 </code></pre>
 
-<h3 id="most-recent-month-end-date-prior-month-end">Most Recent Month-End Date (Prior Month End)</h3>
+<h3 id="most-recent-month-start-date-prior-month-start">Most Recent Month-Start Date (Prior Month Start)</h3>
 
-<pre><code>SELECT DATEADD(DAY, -1, DATE_TRUNC('month', CURRENT_DATE - 1)) AS most_recent_month_end_date
+<pre><code>select date_trunc(date_sub(current_date(), interval 1 month), month)
 </code></pre>
 
-<p>BigQuery</p>
+<h3 id="most-recent-month-end-date-prior-month-end">Most Recent Month-End Date (Prior Month End)</h3>
 
-<pre><code>SELECT DATE_SUB(DATE_TRUNC(CURRENT_DATE(), MONTH), INTERVAL 1 DAY)
+<pre><code>select last_day(date_sub(current_date(), interval 1 month))
 </code></pre>
 
 <h3 id="month-start-date">Month Start Date</h3>
@@ -742,7 +742,7 @@ order by 1,2
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2024-08-26-Mon</p>
+Updated: 2024-11-07-Thu</p>
 
 
 </div>

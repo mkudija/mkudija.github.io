@@ -29,7 +29,7 @@ finishednotes: 2024-05-04
 
 ## Chapter I: Formation of a Saint
 - "The originality of this great saint, his special quality so to speak—though he shares it with certain others including st [[St. Catherine of Siena|Catherine of Siena]]—was the constant and intimate marriage, in his being and his works, of practical reason and recourse to God, temporal means and spiritual, the possible and the impossible." (xiv)
-- "Prauer before all. Prayer is the foundation of work." (3)  
+- "Prayer before all. Prayer is the foundation of work." (3)  
 - Black marble font at San Esteban where he was baptized in Valencia (5)  
 - "The love of God was not idle in that family. It is bit surprising that it should have produced so great a saint." (7)  
 - "All this crowd of children were piled into a little house, situated at the corner of the Calle Del Mar, not far from the harbor." (7)

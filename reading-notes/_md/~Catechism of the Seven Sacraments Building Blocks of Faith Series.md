@@ -14,7 +14,7 @@ wishlist: 2024-08-10
 acquired: 
 started: 2024-08-08
 finished: 2024-10-13
-finishednotes:
+finishednotes: none
 ---
 # *[Catechism of the Seven Sacraments: Building Blocks of Faith Series]()* by [[Kevin O'Neill]]
 

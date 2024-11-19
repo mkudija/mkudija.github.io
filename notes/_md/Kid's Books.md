@@ -1,6 +1,19 @@
 ---
 publish: true
 ---
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+- [Favorite Kid's Books](#favorite-kids-books)
+- [Books With Reading Lists](#books-with-reading-lists)
+- [Other Reading Lists](#other-reading-lists)
+- [Read-Aloud](#read-aloud)
+
+<!-- /MarkdownTOC -->
+</details>
+
 ## Favorite Kid's Books
 - Priddy Baby board books
 - *Goodnight Moon* by Margaret Wise Brown
@@ -93,16 +106,16 @@ publish: true
 - *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*  
 - *The Tale of Three Trees* by Angela Elwell Hunt
 
-### Books With Reading Lists
+## Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien
 - *[[~The Well-Trained Mind|The Well-Trained Mind]]* by Susan Wise Bauer
 - *The Read Aloud Family*
 - *Honey for a Child's Heart*
 
-### Other Reading Lists
+## Other Reading Lists
 - [50 Best Books for Boys and Young Men | The Art of Manliness](https://www.artofmanliness.com/living/reading/50-best-books-for-boys-and-young-men/)
 
-### Read-Aloud
+## Read-Aloud
 - 2018: *Winnie-the-Pooh*
 - 2018: *The Little Prince*
 - 2019: _The House At Pooh Corner_
@@ -126,8 +139,9 @@ publish: true
 - [[2024-08-25-Sun]]: *[[2024-10-04-The Shadow of His Wings|The Shadow of His Wings]]*
 - [[2024-10-06-Sun]]: *[[~The Iliad (Graphic)|The Iliad (Graphic Novel Version)]]* by Gareth Hinds
 - [[2024-10-13-Sun]]: *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
+- [[2024-11-09-Sat]]: *[[~The Odyssey (Graphic)|The Odyssey (Graphic Novel Version)]]* by Gareth Hinds
 - In Progress:
-	- *[[~The Saint Makers|The Saint Makers]]*
+	- *[[2024-11-18-The Saint Makers|The Saint Makers]]*
 
 ---
 **Topic**: [[Reading]]

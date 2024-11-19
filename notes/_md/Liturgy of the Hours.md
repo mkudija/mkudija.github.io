@@ -70,12 +70,12 @@ aliases: [LOTH, Breviary]
 ## Notes
 
 ### Volume I
-- Vol. I, pg. 831 Evening Prayer of Monday of the Second Week of Advent: "When you took on flesh, Lord Jesus, you made a marriage of mankind with God." 
-- Vol. I, pg. 902 Evening Prayer of Friday of the Second Week of Advent: "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)
-- Vol. I, pg. 1286: [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
+- Vol. I, pg. 831 ([[2022-12-05-Mon]] Evening Prayer of Monday of the Second Week of Advent): "When you took on flesh, Lord Jesus, you made a marriage of mankind with God." 
+- Vol. I, pg. 902 ([[2022-12-09-Fri]] Evening Prayer of Friday of the Second Week of Advent): "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)
+- Vol. I, pg. 1286 ([[2022-03-14-Mon]]): [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
 
 ### Volume II
-- Vol. II, pg. 63: prayer for the Thursday after Ash Wednesday:
+- Vol. II, pg. 63 ([[2023-03-01-Wed]] prayer for the Thursday after Ash Wednesday):
 >Lord, 
 >may everything we do
 >begin with your inspiration,
@@ -86,28 +86,29 @@ aliases: [LOTH, Breviary]
 >God, for ever and ever.
 >Amen.
 
-- Vol. II, pg. 307: intentions for Morning Prayer for Wednesday of the Fourth Week of Lent:
+- Vol. II, pg. 307 ([[2024-03-20-Wed]]): intentions for Morning Prayer for Wednesday of the Fourth Week of Lent:
 >Help us to receive good things from your bounty with a deep sense of gratitude, and to accept with patience the evil that comes to us.
 >Teach us to be loving not only in great and exceptional moments, but above all in the ordinary events of daily life.
 >May we abstain from what we do not really need, and help our brothers and sisters in distress.
 >May we bear the wounds of your Son, for through his body he gave us life.
 
-- Vol. II, pg. 1794: from the *[[~The Dialogue|The Dialogue]]* of [[St. Catherine of Siena]]: "You are a mystery as deep as the sea; the more I search, the more I find, and the more I find the more I search for you. But I can never be satisfied; what I receive will ever leave me desiring more. When you fill my soul I have an even greater hunger, and I grow more famished for your light. I desire above all to see you, the true light, as you really are."
+- Vol. II, pg. 1794 ([[2022-05-05-Thu]]): from the *[[~The Dialogue|The Dialogue]]* of [[St. Catherine of Siena]]: "You are a mystery as deep as the sea; the more I search, the more I find, and the more I find the more I search for you. But I can never be satisfied; what I receive will ever leave me desiring more. When you fill my soul I have an even greater hunger, and I grow more famished for your light. I desire above all to see you, the true light, as you really are."
 
 ### Volume III
-- Vol. III, pg. 1573: from the catechetical instructions by [[St. John Vianney]]: "The Christian's treasure is not on earth but in heaven. Our thoughts, then, ought to be directed to where our treasure is.[^treasure] This is the glorious duty of man: to pray and to love. If you pray and love, that is where a man's happiness lies. [[Prayer]] is nothing else but union with God...We had become unworthy to pray, but God in his goodness allowed us to speak with him. Our prayers are incense that gives him the greatest pleasure. My little children, your hearts are small, but prayer stretches them and makes them capable of loving God. Through prayer we receive a foretaste of heaven and something of paradise comes down upon us. Prayer never leaves us without sweetness. It is honey that flows into the soul and makes all things sweet.[^honey] When we pray properly, sorrows disappear like snow before the sun."
-- Vol. III, pg. 812: "May the fire of your word consume our sins and its brightness illumine our hearts."
+- Vol. III, pg. 1573 ([[2022-08-16-Tue]]): from the catechetical instructions by [[St. John Vianney]]: "The Christian's treasure is not on earth but in heaven. Our thoughts, then, ought to be directed to where our treasure is.[^treasure] This is the glorious duty of man: to pray and to love. If you pray and love, that is where a man's happiness lies. [[Prayer]] is nothing else but union with God...We had become unworthy to pray, but God in his goodness allowed us to speak with him. Our prayers are incense that gives him the greatest pleasure. My little children, your hearts are small, but prayer stretches them and makes them capable of loving God. Through prayer we receive a foretaste of heaven and something of paradise comes down upon us. Prayer never leaves us without sweetness. It is honey that flows into the soul and makes all things sweet.[^honey] When we pray properly, sorrows disappear like snow before the sun."
+- Vol. III, pg. 812 ([[2023-08-17-Thu]]): "May the fire of your word consume our sins and its brightness illumine our hearts."
 
 [^treasure]: cf. [[Mt-06#v21]]: "For where your treasure is, there also will your heart be."
 
 [^honey]: cf. [[St. Bernard of Clairvaux]]: "Jesus to me is honey in the mouth, music in the ear, a song in the heart." ([[St. Bernard of Clairvaux|Bernard of Clairvaux]], *On the Song of Songs*, vol. I, sermon 15, no. 6, quoted in [[Ralph Martin]], *[[2022-12-30-The Fulfillment of All Desire|The Fulfillment of All Desire]]*, 136)
 
 ### Volume IV
-- Vol. IV, pg. 879: "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
-- Vol. IV, pg. 960: "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
-- Vol. IV, pg. 1073 (Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."
-- Vol. IV, pg. 1448 (Office of Readings for [[St. Jerome]], from the prologue of the commentary on Isaiah): "I interpret as I should, following the command of Christ: *Search the Scriptures*, and *Seek and you shall find*. Christ will not say to me what he said to the Jews: *You erred, not knowing the Scriptures and now knowing the power of God.* For if, as Paul says, Christ is the power of God and the wisdom of God, and if the man who does not know Scripture does not know the power and wisdom of God, then **ignorance of Scripture is ignorance of Christ**...No one should think that I mean to explain the entire subject matter of this great book of Scripture in one brief sermon, since it contains all the mysteries of the Lord."
-- Vol. IV, pg. 1161 (intercessions for Wednesday Morning Prayer Week IV): "Give us strength in temptation, endurance in trial, and gratitude in prosperity."
+- Vol. IV, pg. 409 ([[2024-10-19-Sat]]: Office of Readings for the Twenty-Ninth Sunday in Ordinary Time, from a letter to Proba by [[St. Augustine]]): "Why he should ask us to pray, when he knows what we need before we ask him, may perplex us if we do not realize that our Lord and God does not want to know what we want (for he cannot fail to know it) but **wants us rather to exercise our desire through our prayers, so that we may be able to receive what he is preparing to give us**. His gift is very great indeed, but our capacity is too small and limited to receive it. That is why we are told: *Enlarge your desires, do not bear the yoke with unbelievers.*" ^a7495d
+- Vol. IV, pg. 879 ([[2023-08-14-Mon]]): "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
+- Vol. IV, pg. 960 ([[2022-10-14-Fri]]): "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
+- Vol. IV, pg. 1073 ([[2023-08-21-Mon]] Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."
+- Vol. IV, pg. 1448 ([[2024-09-30-Mon]]: Office of Readings for [[St. Jerome]], from the prologue of the commentary on Isaiah): "I interpret as I should, following the command of Christ: *Search the Scriptures*, and *Seek and you shall find*. Christ will not say to me what he said to the Jews: *You erred, not knowing the Scriptures and now knowing the power of God.* For if, as Paul says, Christ is the power of God and the wisdom of God, and if the man who does not know Scripture does not know the power and wisdom of God, then **ignorance of Scripture is ignorance of Christ**...No one should think that I mean to explain the entire subject matter of this great book of Scripture in one brief sermon, since it contains all the mysteries of the Lord."
+- Vol. IV, pg. 1161 ([[2023-09-04-Mon]] intercessions for Wednesday Morning Prayer Week IV): "Give us strength in temptation, endurance in trial, and gratitude in prosperity."
 
 
 ---

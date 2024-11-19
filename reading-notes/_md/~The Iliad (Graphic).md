@@ -14,7 +14,7 @@ wishlist: 2024-09-22
 acquired: 
 started: 2024-09-22
 finished: 2024-10-06
-finishednotes:
+finishednotes: none
 ---
 # *[The Iliad]()* by [[Gareth Hinds]]
 

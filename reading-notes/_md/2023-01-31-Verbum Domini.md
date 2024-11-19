@@ -306,7 +306,7 @@ The word and joy [123]
 - "Prayer should accompany the reading of sacred Scripture" (86)
 	- [[St. Augustine|Augustine]]: "Your prayer is the word you speak to God. When you read the Bible, God speaks to you; when you pray, you speak to God"
 	- [[Origen]]: understanding Scripture demands, even more than study, closeness to Christ and prayer
-- [[Lectio Divina]]: 
+- [[Lectio divina]]: 
 	- Read the text: *what does the Biblical text say in itself?*
 	- Meditation: *what does this Biblical text say to us?*
 	- Prayer: *what do we say to the Lord in response to his word?*

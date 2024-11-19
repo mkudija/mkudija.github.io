@@ -22,9 +22,9 @@ finished: 2022-11-15
 
 `(New York: USCCB Publishing, 2001), 248`
 
-themes: 
-- adhere to the tradition of liturgical use and interpretation by the Fathers and pious tradition 
-- stability for memory 
+Themes
+- Adhere to the tradition of liturgical use and interpretation by the Fathers and pious tradition 
+- Stability of translation for memory 
 
 Notes
 - This is the fifth instruction issues post-[[Vatican II]]

@@ -30,7 +30,7 @@ finishednotes: 2024-01-21
 - [[St. Ephrem]]: "He has hidden in his word all treasures" (2)
 - "I hereby declare that the Third Sunday in Ordinary Time is to be devoted to the celebration, study, and dissemination of the Word of God." (3)
 	- "This has *[[Ecumenism|ecumenical]]* value, since the Scriptures point out, for those who listen, the path to authentic and firm unity"
-- "Pastors can also find ways of giving a Bible, or one of its books, to the entire assembly as a way of showing the importance of learning how to read, appreciate, and pray daily with Sacred Scripture, especially through the practice of *[[Lectio Divina|lectio divina]]*." (3)
+- "Pastors can also find ways of giving a Bible, or one of its books, to the entire assembly as a way of showing the importance of learning how to read, appreciate, and pray daily with Sacred Scripture, especially through the practice of *[[Lectio divina|lectio divina]]*." (3)
 	- [ ] Bible for everyone at St. Pats for 3rd Sunday in OT?
 - **Nehemiah**: Israel returns to their homeland from exile and publicly reads the book of the Law ([[Neh-08#v1]]) → The Word of God unites believers and makes them one people (4)
 - Pastors are primarily responsible for explaining Sacred Scripture and helping everyone to understand it. (5)

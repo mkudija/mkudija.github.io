@@ -1,5 +1,6 @@
 ---
-aliases: [Summa Theologiae, ST]
+aliases:
+  - Summa Theologiae
 title: Summa Theologiae
 author: Thomas Aquinas
 category: Religion
@@ -10,7 +11,7 @@ publish_date: 2012-12-12
 isbn10: 1623400147
 isbn13: 9781623400149
 started: 
-finished: 
+finished:
 ---
 # [*Summa Theologiae*](https://stpaulcenter.com/product/summa-theologiae-complete-set/) by [[St. Thomas Aquinas]]
 
@@ -72,13 +73,15 @@ finished:
 [SUPPLEMENT (QQ. 1-99)](http://aquinas101.thomisticinstitute.org/st-supp)
 
 ## Notes
-2021-10-22: [[Memory]] in ST IIa-IIae Q49, A1 (*Secunda Secundae*, from [Memorize the Gospel of John!](https://catholicexchange.com/memorize-the-gospel-of-john))
-- "Prudence requires the memory of many things. Hence memory is fittingly accounted a part of prudence."
-- "There are four things whereby a man perfects his memory":
-	1. take suitable yet unwonted illustration
-	2. carefully consider and set in order
-	3. be anxious and earnest about the things we wish to remember
-	4. often reflect on the things we wish to remember
+- [[2021-10-22-Fri]]: [[Memory]] in ST IIa-IIae Q. 49, A. 1 (*Secunda Secundae*, from [Memorize the Gospel of John!](https://catholicexchange.com/memorize-the-gospel-of-john))
+	- "Prudence requires the memory of many things. Hence memory is fittingly accounted a part of prudence."
+	- "There are four things whereby a man perfects his memory":
+		1. take suitable yet unwonted illustration
+		2. carefully consider and set in order
+		3. be anxious and earnest about the things we wish to remember
+		4. often reflect on the things we wish to remember
+- [[2024-07-23-Tue]]: In [[Jos-02#v3]]-5, Rahab lies to protect the Jewish spies—does this condone the classic moral example of lying to Nazis to protect hidden jews? Thomas addresses this in *[[2021-08-12-Summa Theologiae|ST IIa-IIae, Q. 110, A. 3, Obj. 4]]*: "It is not lawful to tell a lie in order to deliver another from any danger whatever. Nevertheless it is lawful to hide the truth prudently, by keeping it back, as Augustine says (*Contra Mend.* x)." (from *[[2024-09-15-2024-Bible in a Year#^0bc701]]*)
+- [[2024-11-05-Tue]]: Henry asked if it was ok for *[[2024-11-18-The Saint Makers|Fr. Kapaun]]* to steal food to survive. "If the need be so manifest and urgent then it is lawful for a man to succor his own need by means of another's property, by taking it either openly or secretly: nor is this properly speaking theft or robbery." (ST IIa-IIae Q. 66, A. 7)
 
 ## Resources
 ### Books
@@ -106,4 +109,4 @@ Article with an interesting idea of how to read the *Summa*: [A better way of re
 
 ---
 Created: 2021-08-12
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

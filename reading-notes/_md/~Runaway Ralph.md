@@ -12,7 +12,7 @@ isbn13: 9780688217013
 source: 
 wishlist: 2024-07-08
 acquired: 
-started: 2024-07-07
+started: 
 finished: 
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: Harper Collins, 1970-04-01), 229`
 
-
+started reading to the kids [[2024-07-07-Sun]] but dropped
 
 --- 
 **Topic**: [[Kid's Books]]

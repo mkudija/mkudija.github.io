@@ -40,7 +40,7 @@ finishednotes:
 - Knowing the truth about the vanishing did not lessen their opinion of Bilbo at all; for they saw that he had some wits, as well as luck and a magic ring—and all three are very useful possessions. (124)
 - Bilbo, however, did not feel nearly so hopeful as they did. He did not like being depended on by everyone, and he wished he had the wizard at hand. (131)
 - He was in the dark tunnel floating in icy water, all alone—for you cannot count friends that are all packed up in barrels. (137)
-- Going on from there was the bravest thing he ever did. The tremendous tings that happened afterwards were as nothing compared to it. He fought the real battle in the tunnel alone, before he ever saw the vast danger that lay in wait. (~162)
+- Going on from there was the bravest thing he ever did. The tremendous things that happened afterwards were as nothing compared to it. He fought the real battle in the tunnel alone, before he ever saw the vast danger that lay in wait. (~162)
 - It does not do to leave a live dragon out of your calculations, if you live near him. (163)
 - His rage passes description—the sort of rage that is only seen when rich folk that have more than they can enjoy suddenly lose something that they have long had but have never before used or wanted. (163)
 - “Never laugh at live dragons, Bilbo you fool!” he said to himself, and it became a favourite saying of his later, and passed into a proverb. (169)
@@ -49,7 +49,7 @@ finishednotes:
 - "Of course!" said Gandalf. "And why should not they prove true? Surely you don't disbelieve the prophecies, because you had a hand in bringing them about yourself? You don't really suppose, do you, that all your adventures and escapes were managed by mere luck, just for your sole benefit? You are a very fine person, Mr. Baggins, and I am very fond of you; but you are only quite a little fellow in a wide world after all!" 
 
 
-*Note: 
+*Note:* 
 - *Page references from the 75th anniversary Kindle edition*
 - *Second page reference from 2012 Del Rey Mass Market Edition*
 
