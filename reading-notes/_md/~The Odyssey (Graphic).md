@@ -14,7 +14,7 @@ wishlist: 2024-10-28
 acquired: 
 started: 2024-10-27
 finished: 2024-11-09
-finishednotes:
+finishednotes: none
 ---
 # *[The Odyssey]()* by [[Gareth Hinds]]
 

@@ -128,7 +128,7 @@ _**Summary**: The writing of Witness to Hope, before which John Paul said "They 
 - [[Writing]]: "Books in progress are like children: a book has a kind of mind of its own, and it will push back against an author." (181)
 - John Paul viewed [[John Henry Newman]] as someone "who merits being a Doctor of the Church" (191)
 - [[Stanislaw Dziwisz|Dziwisz]] said that *[[~Cancer Ward|Cancer Ward]]* was the best of [[Aleksandr Solzhenitsyn]]'s novels, and Weigel says that every high school student should read *[[~One Day in the Life of Ivan Denisovich|One Day in the Life of Ivan Denisovich]]* [[bib]] (192)
-- "I'd been much impressed with the narrative drive of Edmund Morris's book *[[~The Rise of Theodore Roosevelt|The Rise of Theodore Roosevelt]]* and wanted my biography to begin with the kind of gripping prologue Morris had written." (194)
+- "I'd been much impressed with the narrative drive of Edmund Morris's book *[[2024-11-29-The Rise of Theodore Roosevelt|The Rise of Theodore Roosevelt]]* and wanted my biography to begin with the kind of gripping prologue Morris had written." (194)
 - Górecki's music: [Third Symphony](https://youtu.be/ZTmspJxshEg), "Symphony of Sorrowful Songs", and *[Beatus vir](https://youtu.be/Iz9Bc9e-c3c)* based on [[Ps-34#v8]] (210)
 
 

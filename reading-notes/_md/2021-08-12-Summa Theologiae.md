@@ -80,8 +80,9 @@ finished:
 		2. carefully consider and set in order
 		3. be anxious and earnest about the things we wish to remember
 		4. often reflect on the things we wish to remember
-- [[2024-07-23-Tue]]: In [[Jos-02#v3]]-5, Rahab lies to protect the Jewish spies—does this condone the classic moral example of lying to Nazis to protect hidden jews? Thomas addresses this in *[[2021-08-12-Summa Theologiae|ST IIa-IIae, Q. 110, A. 3, Obj. 4]]*: "It is not lawful to tell a lie in order to deliver another from any danger whatever. Nevertheless it is lawful to hide the truth prudently, by keeping it back, as Augustine says (*Contra Mend.* x)." (from *[[2024-09-15-2024-Bible in a Year#^0bc701]]*)
+- [[2024-07-23-Tue]]: In [[Jos-02#v3]]-5, Rahab lies to protect the Jewish spies—does this condone the classic moral example of lying to Nazis to protect hidden jews? Thomas addresses this in *[[2021-08-12-Summa Theologiae|ST IIa-IIae, Q. 110, A. 3, Obj. 4]]*: "It is not lawful to tell a lie in order to deliver another from any danger whatever. Nevertheless it is lawful to hide the truth prudently, by keeping it back, as Augustine says (*Contra Mend.* x)." (from *[[2024-09-15-Bible in a Year#^0bc701]]*)
 - [[2024-11-05-Tue]]: Henry asked if it was ok for *[[2024-11-18-The Saint Makers|Fr. Kapaun]]* to steal food to survive. "If the need be so manifest and urgent then it is lawful for a man to succor his own need by means of another's property, by taking it either openly or secretly: nor is this properly speaking theft or robbery." (ST IIa-IIae Q. 66, A. 7)
+- [[2024-11-19-Tue]]: Logic student asked *[[2024-11-19-Are Angels Alive?|Are Angels Alive?]]*. Thomas indicates "no" in ST I Q. 51, A. 3
 
 ## Resources
 ### Books

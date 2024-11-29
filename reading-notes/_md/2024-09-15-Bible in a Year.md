@@ -65,7 +65,7 @@ finishednotes: 2024-09-18
 - [[2024-07-15-Mon]]-[[Am-05#v13]]: "He who is prudent will keep silent in such a time, for it is an evil time."
 - [[2024-07-15-Mon]]-[[Am-05#v14]]: "Seek good, and not evil, that you may live."
 - [[2024-07-15-Mon]]-[[Am-08#v11]]-12: "Behold, the days are coming," says the Lord God, "when I will send a famine on the land; not a famine of bread, nor a thirst for water, but of hearing the words of the LORD. They shall wander from sea to sea, and from north to east; they shall run to and fro, to seek the word of the LORD, but they shall not find it. 
-- [[2024-07-16-Tue]]-[[Mi-06#v8]]: "He has showed you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness,a and to walk humbly with your God?"
+- [[2024-07-16-Tue]]-[[Mi-06#v8]]: "He has showed you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"
 - [[2024-07-17-Wed]]-[[Tb-04#v7]]: "Do not turn your face d away from any poor man, and the face of God will not be turned away from you."
 - [[2024-07-18-Thu]]-[[Tb-12#v9]] promotes the efficacy of works (similar to [[James]])
 - [[2024-07-18-Thu]]-[[Jl-02#v12]]: "Yet even now," says the LORD, "return to me with all your heart, with fasting, with weeping, and with mourning
@@ -94,6 +94,14 @@ finishednotes: 2024-09-18
 - [[2024-08-18-Sun]]-[[Prv-18#v9]]: "Whoever is slack in his work is a brother to him who destroys."
 - [[2024-08-18-Sun]]-[[Prv-19#v11]]: "Good sense makes one slow to anger, and it is his glory to overlook an offense."
 - [[2024-08-18-Sun]]-[[Prv-19#v21]]: "Many are the plans in the mind of a man, but it is the purpose of the Lord that will stand."
+- [[2024-08-20-Tue]] some notes on the Gospel of [[Luke]]
+	- [[Lk-04]]: Jesus answers the Devil's temptations with Scripture
+	- [[Lk-05#v35]]: The Eucharistic fast, we fast when the bridegroom is taken away from us
+	- [[Lk-07#v23]]: "Blessed is the one who is not offended by me"
+	- [[Lk-08#v15]]: we should strive to "hear the word, and hold it fast in an honest and good heart"
+	- [[Lk-09#v23]]: "Let him deny himself and take up his cross daily and follow me"
+	- [[Lk-12#v22]]: Jesus commands us to not be anxious: "do not be anxious about your life"
+	- [[Lk-21#v19]]: By your endurance you will gain your lives"
 - [[2024-08-25-Sun]]-[[Rom-02#v4]]: God's kindness is meant to lead you to repentance
 - [[2024-08-27-Tue]]-[[1 Cor-01#v10]]: no divisions (both Jesus and Paul command to be united)
 - [[2024-08-28-Wed]]-[[Rom-06#v3]]: =="we are to judge angels"?==

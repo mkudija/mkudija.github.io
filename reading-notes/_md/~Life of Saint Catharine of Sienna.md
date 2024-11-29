@@ -13,7 +13,7 @@ source:
 wishlist: 2024-11-07
 acquired: 2024-11-07
 started: 2024-11-07
-finished: 
+finished: 2024-11-25
 finishednotes:
 ---
 # *[Life of Saint Catharine of Sienna]()* by [[Raymond of Capua]]

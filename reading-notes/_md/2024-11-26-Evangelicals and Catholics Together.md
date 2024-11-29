@@ -15,13 +15,13 @@ wishlist: 2024-06-27
 acquired: 2024-07-01
 started: 2024-08-17
 finished: 2024-09-21
-finishednotes:
+finishednotes: partial
 ---
 # *[Evangelicals and Catholics Together]()* by [[Charles W. Colson]]
 
 <img src="http://books.google.com/books/content?id=BsMBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Thomas Nelson, 1995), 0`
+`(New York: Thomas Nelson, 1995), 227`
 
 >The divisions between us are not the battle of the hour, when hosts of secularists and relativists threaten to sweep away the last trace of Christian truth, thought, and influence from our culture. The controversies that divide us are far less significant than the common threat that confronts us. (38)
 
@@ -146,27 +146,27 @@ finishednotes:
 	- Were the *Catechism* to address directly the justification formula, it would have had to go on to make clear that grace is not alone but confirms human freedom, that living faith is not alone but issues in a life of obedience, that Christ is not alone but always to be found in the company of his Church.
 - Healing the breach between East and West has priority over healing of the breach between Rome and the Reformation.
 - [[John Wesley]]: "Then if we cannot as yet think alike in all things, at least we may love alike. Herein we cannot possibly do amiss."
-- [ ] pg 215 footnote 34 next book? 📅 2024-11-08
+- pg 215 footnote 34 could be next discussion book: *[[~Church Ecumenism and Politics|Church Ecumenism and Politics]]* 
 - "For the Catholic, faith in Christ and faith in the Church are one act of faith...In loving the Church we love Christ."
 - Protestants implicitly accept the Church's authority: "They accept a definition of Christian orthodoxy that is inexplicable apart from the Church through time. They acknowledge as authoritative a Bible that was, under the inspiration of the Spirit, written in and by and for the Church, and thus do they implicitly acknowledge the authority of the Church."
 - Protestants have tradition: "Evangelicals invoke the authority of persons and theological schools that clearly constitute a tradition of their own. The thought of Calvin or Luther in invoked with a weight of authority not accorded any one theologian in the Catholic Church."
-- 
-- 
-- 
+- "Becoming a Christian and living as a Christian is an intensely personal matter, but it is not a private matter." 
+- Magisterium and *[[sola scriptura]]*:
+	- "The *function* of magisterium is no less evident among evangelicals."
+	- "*Sola scriptura* does not appear in the Bible but is itself a formula of a particular Protestant tradition."
+	- "Catholics will take second place to none in their respect for the authority of Holy Scripture." (cites *[[2022-12-03-Dei Verbum|DV]]*)
+	- "To many Catholics it cannot help but seem that Protestants posit the formal principle of *[[sola scriptura]]* but then surrender effective interpretive authority to a small school of Reformation theologians, with nobody from the previous sixteen centuries being given a voice, except, sometimes, Augustine. In fact, there is a continuing magisterium in evangelicalism, but it is not conscious of itself as being such, and therefore cannot hold itself in disciplined accountability to the entirety of the interpretive community that is the Church through time."
+- "Ritual, like tradition, is inescapable. The difference is in the richness, beauty, and expressiveness of the ritual in question, and in het degree to which it reflects the fullness of the faith and life of the apostolic community through time."
+- "Faith in Christ and faith in the Church is one act of faith. To come to Christ is to come to the Church, indeed to become the Church."
+- "The third millennium will be the millennium of Christian unity."
 
 
 
 --- 
-**Topic**: 
+**Topic**: [[Ecumenism]]
 
 **Source**
 - [[Dan Gibson]] [[2024-06-21-Fri]]
-
-**Bibliography**
-- 
- 
-**[[New Words]]**
-- 
 
 ---
 Created: [[2024-06-27-Thu]]

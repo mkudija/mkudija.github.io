@@ -22,7 +22,7 @@ finishednotes: 2024-11-18
 
 `(New York: Hachette Books, 2020-12-01), 200`
 
-I read the chapters 5 to 10 about Fr. Kapaun to the boys after their interest in military chaplains. These chapters were interesting as a fist gloss on his life, which clearly was one of heroic virtue and self-sacrifice for his men. The rest of the book is full of overly simplified explanations of Catholicism, tedious spiritual autobiography, and theology of questionable orthodoxy and not worth the time. 
+I read the chapters 5 to 10 about Fr. Kapaun to the boys after their interest in military chaplains. These chapters were interesting as a fist gloss on his life, which clearly was one of heroic virtue and self-sacrifice for his men. The rest of the book is full of overly simplified explanations of Catholicism, tedious spiritual autobiography, and theology of questionable orthodoxy and not worth the time—a better book about making saints is *[[~Making Saints|Making Saints]]*. 
 
 - The "all man" priest: "Father Kapaun did not command anything, but he inspired loyalty, especially among the enlisted men." (73-74)
 - Mass with Koreans: "Father Kapaun knew that here before the altar they spoke a common lauguage." (77)
