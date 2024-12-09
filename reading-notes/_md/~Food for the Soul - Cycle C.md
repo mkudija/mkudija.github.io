@@ -1,5 +1,6 @@
 ---
-aliases: [Food for the Soul - Cycle C]
+aliases:
+  - Food for the Soul - Cycle C
 title: Food for the Soul - Cycle C
 author: Peter Kreeft
 category: Religion
@@ -11,9 +12,9 @@ isbn13: 9781943243969
 source: 
 wishlist: 
 acquired: 2024-03-25
-started: 
+started: 2024-12-02
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[Food for the Soul - Cycle C](https://bookstore.wordonfire.org/products/food-for-the-soul-cycle-c)* by [[Peter Kreeft]]
 

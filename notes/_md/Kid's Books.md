@@ -105,6 +105,7 @@ publish: true
 - *[[~2021-08-03-A is for Angel|A is for Angel]]*
 - *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*  
 - *The Tale of Three Trees* by Angela Elwell Hunt
+- *[[~The Magnificent Mischief of Tad Lincoln|The Magnificent Mischief of Tad Lincoln]]*
 
 ## Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien

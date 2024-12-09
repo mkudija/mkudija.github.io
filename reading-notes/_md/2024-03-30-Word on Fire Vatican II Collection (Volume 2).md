@@ -64,7 +64,7 @@ Summary: *Religous—those who profess the evangelical counsels of poverty, chas
 *Decree on Priestly Training*
 Summary: *We must all foster vocations, especially the family as the "first seminary". Training should be focused first on Sacred Scripture and second on the mysteries of the Church. Seminarians are to be formed with discipline and self denial, with an emphasis on liturgy and languages (Latin, Hebrew, Greek) and philosophy.*
 
->It is important to have a thorough knowledge of sacred Scripture as a whole, in its unity as the Old and the New Testaments: the shaping of texts, their literary characteristics, the process by which they came to form the canon of sacred books, their dynamic inner unity, a unity which may not be immediately apparent but which in fact gives the individual texts their full meaning. It is important to be familiar wiht the Fathers and the great Councils in which the Church appropriated, through faith-filled reflection, the essential statements of Scripture.
+>It is important to have a thorough knowledge of sacred Scripture as a whole, in its unity as the Old and the New Testaments: the shaping of texts, their literary characteristics, the process by which they came to form the canon of sacred books, their dynamic inner unity, a unity which may not be immediately apparent but which in fact gives the individual texts their full meaning. It is important to be familiar with the Fathers and the great Councils in which the Church appropriated, through faith-filled reflection, the essential statements of Scripture.
 >–[[Joseph Ratzinger|Pope Benedict XVI]], *Letter to Seminarians*, 251 cf. *[[~Optatum totius|OT]] 8*
 
 >The seminary should be construed as a distiplined "staying" with Jesus so as to cultivate friendship with him.

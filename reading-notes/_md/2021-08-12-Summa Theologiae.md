@@ -83,6 +83,17 @@ finished:
 - [[2024-07-23-Tue]]: In [[Jos-02#v3]]-5, Rahab lies to protect the Jewish spies—does this condone the classic moral example of lying to Nazis to protect hidden jews? Thomas addresses this in *[[2021-08-12-Summa Theologiae|ST IIa-IIae, Q. 110, A. 3, Obj. 4]]*: "It is not lawful to tell a lie in order to deliver another from any danger whatever. Nevertheless it is lawful to hide the truth prudently, by keeping it back, as Augustine says (*Contra Mend.* x)." (from *[[2024-09-15-Bible in a Year#^0bc701]]*)
 - [[2024-11-05-Tue]]: Henry asked if it was ok for *[[2024-11-18-The Saint Makers|Fr. Kapaun]]* to steal food to survive. "If the need be so manifest and urgent then it is lawful for a man to succor his own need by means of another's property, by taking it either openly or secretly: nor is this properly speaking theft or robbery." (ST IIa-IIae Q. 66, A. 7)
 - [[2024-11-19-Tue]]: Logic student asked *[[2024-11-19-Are Angels Alive?|Are Angels Alive?]]*. Thomas indicates "no" in ST I Q. 51, A. 3
+- [[2024-12-07-Sat]]: Discussed what man's happiness consists in for CCD from ST IIa-IIae Q. 2, A, 1 (wealth), 4 (power), 6 (pleasure)
+- [[2024-12-08-Sun]]: Henry asked about resurrection of the body after the major relics of Thomas Aquinas visited [[St. Patrick Church]]:
+	- [ST Suppl. IIIae, Q. 86, A. 1](https://www.newadvent.org/summa/5086.htm): Whether the bodies of the damned will rise again with their deformities?
+		- [[1 Cor-15#v52]]: "The dead shall rise again incorruptible
+		- "all bodies of both wicked and good will rise again whole"
+	- [ST Suppl. IIIae, Q. 75, A. 1](https://www.newadvent.org/summa/5075.htm): Whether there is to be a resurrection of the body?
+		- [[Jb-19#v25]]-26: "I know that my Redeemer liveth, and in the last day I shall rise out of the earth, and I shall be clothed again with my skin," etc. Therefore there will be a resurrection of the body.
+	- [ST Suppl. IIIae, Q. 80, A. 2](https://www.newadvent.org/summa/5080.htm#article2): Whether the hair and nails will rise again in the human body?
+		- [[Lk-21#v18]]: "A hair of your head shall not perish."
+		- "since man will rise again with all the perfections of his nature, it follows that hair and nails will rise again in him"
+	- [[~Catechism of the Catholic Church|CCC]] [990](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_11.html): The "resurrection of the flesh" (the literal formulation of the Apostles' Creed) means not only that the immortal soul will live on after death, but that even our "mortal body" will come to life again.
 
 ## Resources
 ### Books

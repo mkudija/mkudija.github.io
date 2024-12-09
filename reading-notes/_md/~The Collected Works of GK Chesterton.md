@@ -32,7 +32,7 @@ finishednotes:
 ## Volume II ☑
 ### *St. Francis*
 ### *Everlasting Man*
-### *St. Thomas*
+### *[[2024-12-06-St. Thomas Aquinas|St. Thomas Aquinas]]*
 
 
 ## Volume III ☑

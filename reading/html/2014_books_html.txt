@@ -7,7 +7,7 @@
 <li><i>On Heaven and Earth</i> by Jorge Mario Bergoglio and Abraham Skorka</li>
 <li><i>Unbroken: A World War II Story of Survival, Resilience, and Redemption</i> by Laura Hillenbrand</li>
 <li><i>The Phantom Tollbooth</i> by Norton Juster</li>
-<li><i>Saint Thomas Aquinas</i> by G.K. Chesterton</li>
+<li><i>St. Thomas Aquinas</i> by G.K. Chesterton</li>
 <li><i>To Save a Thousand Souls</i> by Fr. Brett A. Brannen</li>
 <li><i>Better</i> by Atul Gawande</li>
 <li><i>Finding Darwin’s God</i> by Kenneth R. Miller</li>
