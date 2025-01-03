@@ -11,7 +11,8 @@ def write_html(df, year):
         '<li><i>'+df['Title']+'</i>',
         '<li><i>'+df['Title']+'</i> by '+df['Author'])
     df['html'] = np.where((df['Notes']!='No') & (df['Notes']!='Yes'), 
-        df['html']+' (<a href="'+df['Notes']+'">Notes</a>)</li>',
+        # df['html']+' (<a href="'+df['Notes']+'">Notes</a>)</li>',
+        df['html']+'</li>',
         df['html']+'</li>')
     df['html'] = df['html'].str.replace('by edited','edited')
 

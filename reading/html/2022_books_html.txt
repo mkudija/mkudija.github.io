@@ -2,7 +2,7 @@
 <li><i>The New Oxford Annotated Bible with Apocrypha NRSV (4 Maccabees)</i></li>
 <li><i>The House At Pooh Corner</i> by A. A. Milne</li>
 <li><i>Jesus of Nazareth: The Infancy Narratives</i> by Pope Benedict XVI</li>
-<li><i>The Fulfillment of All Desire: A Guidebook for the Journey to God Based on the Wisdom of the Saints</i> by Ralph Martin (<a href="https://matthewkudija.com/reading-notes/2022-12-30-The-Fulfillment-of-All-Desire.html">Notes</a>)</li>
+<li><i>The Fulfillment of All Desire: A Guidebook for the Journey to God Based on the Wisdom of the Saints</i> by Ralph Martin</li>
 <li><i>The Resurrection of God Incarnate</i> by Richard Swinburne</li>
 <li><i>Hamlet</i> by William Shakespeare</li>
 <li><i>Mastering Bitcoin</i> by Andreas M. Antonopoulos</li>
@@ -15,13 +15,13 @@
 <li><i>Rosarium Virginis Mariae</i> by Pope John Paul II</li>
 <li><i>Charlotte's Web</i> by E. B. White</li>
 <li><i>Diary of an American Exorcist</i> by Fr. Stephen Rossetti</li>
-<li><i>The Stick Chair Book</i> by Christopher Schwartz (<a href="https://matthewkudija.com/reading-notes/2022-10-11-The-Stick-Chair-Book.html">Notes</a>)</li>
+<li><i>The Stick Chair Book</i> by Christopher Schwartz</li>
 <li><i>In the Eye of the Storm: A Biography of Gregory the Great</i> by Sigrid Grabner</li>
 <li><i>The Only Skill that Matters</i> by Jonathan Levi</li>
 <li><i>Hornblower During the Crisis</i> by C. S. Forester</li>
 <li><i>Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential</i> by Tiago Forte</li>
 <li><i>The Peeler</i> by Flannery O'Connor, <i>The Ones Who Walk Away From Omelas</i> by Ursula Le Guin, and <i>All Summer in a Day</i> by Ray Bradbury<i></i></li>
-<li><i>The End and the Beginning: Pope John Paul II—The Victory of Freedom, the Last Years, the Legacy</i> by George Weigel (<a href="https://matthewkudija.com/reading-notes/2022-07-01-The-End-and-the-Beginning.html">Notes</a>)</li>
+<li><i>The End and the Beginning: Pope John Paul II—The Victory of Freedom, the Last Years, the Legacy</i> by George Weigel</li>
 <li><i>Consecration to St. Joseph: The Wonders of Our Spiritual Father</i> by Fr. Donald Calloway</li>
 <li><i>Ficciones</i> by Jorge Luis Borges</li>
 <li><i>Four Thousand Weeks: Time Management for Mortals</i> by Oliver Burkeman</li>
@@ -42,7 +42,7 @@
 <li><i>The Periodic Table</i> by Primo Levi</li>
 <li><i>Power Play: Tesla, Elon Musk, and the Bet of the Century</i> by Tim Higgins</li>
 <li><i>Purgatorio</i> by Dante Alighieri</li>
-<li><i>The Ethics of Money Production</i> by Jörg Guido Hülsmann (<a href="https://matthewkudija.com/reading-notes/2022-01-05-The-Ethics-of-Money-Production.html">Notes</a>)</li>
+<li><i>The Ethics of Money Production</i> by Jörg Guido Hülsmann</li>
 <li><i>The Mandibles: A Family, 2029-2047</i> by Lionel Shriver</li>
 <li><i>Christianity and Culture</i> by C.S. Lewis</li>
 <li><i>Building a Bridge: How the Catholic Church and the LGBT Community Can Enter into a Relationship of Respect, Compassion, and Sensitivity</i> by James Martin, SJ</li>

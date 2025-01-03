@@ -3,7 +3,7 @@
 <li><i>Strange Case of Dr Jekyll and Mr Hyde</i> by Robert Louis Stevenson</li>
 <li><i>The Life of Blessed Margaret of Castello</i> by Fr. William R. Bonniwell</li>
 <li><i>Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue</i> by Ryan Holiday</li>
-<li><i>When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany</i> by Adam Fergusson (<a href="https://matthewkudija.com/reading-notes/2021-12-16-When-Money-Dies.html">Notes</a>)</li>
+<li><i>When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany</i> by Adam Fergusson</li>
 <li><i>Chasing New Horizons: Inside the Epic First Mission to Pluto</i> by Alan Stern</li>
 <li><i>The Interstellar Age: Inside the Forty-Year Voyager Mission</i> by Jim Bell</li>
 <li><i>The Science of Interstellar</i> by Kip Thorne</li>
@@ -13,22 +13,22 @@
 <li><i>The Inferno</i> by Dante Alighieri</li>
 <li><i>Things Worth Dying For: Thoughts on a Life Worth Living</i> by Charles J. Chaput</li>
 <li><i>Hunt, Gather, Parent: What Ancient Cultures Can Teach Us About the Lost Art of Raising Happy, Helpful Little Humans</i> by Michaeleen Doucleff</li>
-<li><i>Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business</i> by Matt Taddy (<a href="https://matthewkudija.com/reading-notes/2021-04-16-Business-Data-Science.html">Notes</a>)</li>
+<li><i>Business Data Science: Combining Machine Learning and Economics to Optimize, Automate, and Accelerate Business</i> by Matt Taddy</li>
 <li><i>Patris Corde: With a Father's Heart</i> by Pope Francis</li>
 <li><i>No Rules Rules: Netflix and the Culture of Reinvention</i> by Reed Hastings & Erin Meyer</li>
-<li><i>Live Not by Lies</i> by Rod Dreher (<a href="https://matthewkudija.com/reading-notes/2021-10-30-Live-Not-By-Lies.html">Notes</a>)</li>
+<li><i>Live Not by Lies</i> by Rod Dreher</li>
 <li><i>Seeds of Contemplation</i> by Thomas Merton</li>
-<li><i>Working</i> by Robert Caro (<a href="https://matthewkudija.com/reading-notes/2021-10-09-Working.html">Notes</a>)</li>
+<li><i>Working</i> by Robert Caro</li>
 <li><i>I Alone Can Fix It: Donald J. Trump's Catastrophic Final Year</i> by Carol Leonnig & Philip Rucker</li>
-<li><i>Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</i> by Scott Young (<a href="https://matthewkudija.com/reading-notes/2021-09-09-Ultralearning.html">Notes</a>)</li>
+<li><i>Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career</i> by Scott Young</li>
 <li><i>Summa Theologiae (Prima Pars, 1-49)</i> by St. Thomas Aquinas</li>
-<li><i>The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War</i> by Malcolm Gladwell (<a href="https://matthewkudija.com/reading-notes/2021-09-10-The-Bomber-Mafia.html">Notes</a>)</li>
+<li><i>The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War</i> by Malcolm Gladwell</li>
 <li><i>The Cathedral Builders</i> by Jean Gimpel</li>
 <li><i>Notre-Dame: A Short History of the Meaning of Cathedrals</i> by Ken Follett</li>
 <li><i>The Last Thing He Told Me: A Novel</i> by Laura Dave</li>
 <li><i>Cathedral: The Story of Its Construction</i> by David Macaulay</li>
-<li><i>Witness to Hope: The Biography of Pope John Paul II</i> by George Weigel (<a href="https://matthewkudija.com/reading-notes/2021-07-20-Witness-to-Hope.html">Notes</a>)</li>
-<li><i>Let Us Dream: The Path to a Better Future</i> by Pope Francis (<a href="https://matthewkudija.com/reading-notes/2021-08-25-Let-Us-Dream.html">Notes</a>)</li>
+<li><i>Witness to Hope: The Biography of Pope John Paul II</i> by George Weigel</li>
+<li><i>Let Us Dream: The Path to a Better Future</i> by Pope Francis</li>
 <li><i>Unmasked: Inside Antifa's Radical Plan to Destroy Democracy</i> by Andy Ngo</li>
 <li><i>The Premonition: A Pandemic Story</i> by Michael Lewis</li>
 <li><i>Saint Edith Stein</i> by Mary Hill</li>
@@ -42,9 +42,9 @@
 <li><i>Hornblower and the Hotspur (#3)</i> by C. S. Forester</li>
 <li><i>Brother Hugo and the Bear</i> by Katy Beebe</li>
 <li><i>Timeline: A Visual History of Our World</i> by Peter Goes</li>
-<li><i>How to Talk About Books You Haven't Read</i> by Pierre Bayard (<a href="https://matthewkudija.com/reading-notes/2021-06-01-How-to-Talk-About-Books-You-Haven't-Read.html">Notes</a>)</li>
+<li><i>How to Talk About Books You Haven't Read</i> by Pierre Bayard</li>
 <li><i>Why We Drive: Toward a Philosophy of the Open Road</i> by Matthew B. Crawford</li>
-<li><i>The Bitcoin Standard: The Decentralized Alternative to Central Banking</i> by Saifedean Ammous (<a href="https://matthewkudija.com/reading-notes/2021-03-14-The-Bitcoin-Standard.html">Notes</a>)</li>
+<li><i>The Bitcoin Standard: The Decentralized Alternative to Central Banking</i> by Saifedean Ammous</li>
 <li><i>A Tree Grows in Brooklyn</i> by Betty Smith</li>
 <li><i>High Output Management</i> by Andrew S. Grove</li>
 <li><i>Currency Wars: The Making of the Next Global Crisis</i> by James Rickards</li>

@@ -1,14 +1,14 @@
 <li><i>Commonsense Celestial Navigation</i> by Hewitt Schlereth</li>
 <li><i>Longitude</i> by Dava Sobel</li>
 <li><i>St. Thomas Aquinas</i> by G.K. Chesterton</li>
-<li><i>Life of Saint Catherine of Siena</i> by Raymond of Capua (<a href="Not yet">Notes</a>)</li>
-<li><i>The Word of the Lord: Reflections on the Sunday Mass Readings for Year B</i> by John Bergsma (<a href="Partial">Notes</a>)</li>
+<li><i>Life of Saint Catherine of Siena</i> by Raymond of Capua</li>
+<li><i>The Word of the Lord: Reflections on the Sunday Mass Readings for Year B</i> by John Bergsma</li>
 <li><i>Breaking the Bread: A Biblical Devotional for Catholics Year B</i> by Scott Hahn & Ken Ogoek</li>
 <li><i>The Saint Makers</i> by Joe Drape</li>
 <li><i>The Odyssey (Graphic Novel Version)</i> by Gareth Hinds</li>
 <li><i>An Introduction to Prayer</i> by Robert Barron</li>
 <li><i>Basic Economics</i> by Thomas Sowell</li>
-<li><i>The Rise of Theodore Roosevelt</i> by Edmund Morris (<a href="PROGRESS">Notes</a>)</li>
+<li><i>The Rise of Theodore Roosevelt</i> by Edmund Morris</li>
 <li><i>Catechism of the Seven Sacraments: Building Blocks of Faith Series</i> by Kevin O'Neill</li>
 <li><i>The Iliad (Graphic Novel Version)</i> by Gareth Hinds</li>
 <li><i>Schuyler ESV Quentel: The Bible in a Year</i></li>
