@@ -1,3 +1,5 @@
+<li><i>Commonsense Celestial Navigation</i> by Hewitt Schlereth</li>
+<li><i>Longitude</i> by Dava Sobel</li>
 <li><i>St. Thomas Aquinas</i> by G.K. Chesterton</li>
 <li><i>Life of Saint Catherine of Siena</i> by Raymond of Capua (<a href="Not yet">Notes</a>)</li>
 <li><i>The Word of the Lord: Reflections on the Sunday Mass Readings for Year B</i> by John Bergsma (<a href="Partial">Notes</a>)</li>

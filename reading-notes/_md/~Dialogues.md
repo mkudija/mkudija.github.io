@@ -38,4 +38,4 @@ finished:
 
 ---
 Created: [[2022-12-25-Sun]]
-Updated: NaN
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

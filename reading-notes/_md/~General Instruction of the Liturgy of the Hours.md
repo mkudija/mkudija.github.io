@@ -1,5 +1,6 @@
 ---
-aliases: [General Instruction of the Liturgy of the Hours]
+aliases:
+  - General Instruction of the Liturgy of the Hours
 title: General Instruction of the Liturgy of the Hours
 author: National Conference of Catholic Bishops
 category: Religion
@@ -11,8 +12,8 @@ isbn13: 9781574555288
 source: 
 wishlist: 2024-01-20
 acquired: 
-started: 
-finished: 
+started: 2024-12-13
+finished:
 ---
 # *[General Instruction of the Liturgy of the Hours](https://www.liturgyoffice.org.uk/Resources/Rites/GILH.pdf)* by [[National Conference of Catholic Bishops]]
 

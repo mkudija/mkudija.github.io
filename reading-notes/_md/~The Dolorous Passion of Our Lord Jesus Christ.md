@@ -1,19 +1,20 @@
 ---
-aliases: [The Dolorous Passion of Our Lord Jesus Christ]
+aliases:
+  - The Dolorous Passion of Our Lord Jesus Christ
 title: The Dolorous Passion of Our Lord Jesus Christ
 author: Anna Katharina Emmerich
 category: Religion
 publisher: Tan Books & Pub
 total_page: 382
 publish_date: 1983
-isbn10: 0895552108
+isbn10: 895552108
 isbn13: 9780895552105
 source: 
 wishlist: 2024-10-10
-acquired: 
+acquired: 2024-12-06
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Dolorous Passion of Our Lord Jesus Christ]()* by [[Anna Katharina Emmerich]]
 
@@ -27,7 +28,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- 
+- [[Jordan]] Christmas 2024
  
 **[[New Words]]**
 - 

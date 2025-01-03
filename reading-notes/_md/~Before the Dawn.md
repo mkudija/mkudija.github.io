@@ -28,6 +28,7 @@ finishednotes:
 
 **Source**
 - [[2024-09-09-Mind-Blowing Bible Study with Dr. Scott Hahn]]
+- [[Laura]] Christmas 2024
  
 **[[New Words]]**
 - 

@@ -4,6 +4,9 @@ aliases: [Poetry]
 ---
 # Poems
 
+[[Roald Dahl]]
+- *[[Mike Teavee]]*
+
 **[[John Donne]]**
 - *[[Batter My Heart]]*
 - *[[A Hymn to God the Father]]*

@@ -18,7 +18,7 @@ finishednotes:
 translation: New American Bible Revised Edition
 dimensions: 6.75x9.125x2.125
 ---
-# *[Liturgy and Life Study Bible](https://litpress.org/Products/6435/Liturgy-and-Life-Study-Bible)* by [[John W. Martens, Paul Turner]]
+# *[Liturgy and Life Study Bible](https://litpress.org/Products/6435/Liturgy-and-Life-Study-Bible)* by [[John W. Martens]], [[Fr. Paul Turner]]
 
 <img src="http://books.google.com/books/content?id=JPrKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

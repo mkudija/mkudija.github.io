@@ -1,4 +1,21 @@
-
+---
+aliases:
+  - Father Elijah
+title: Father Elijah 
+author: Michael D. O'Brien
+category:
+publisher:
+total_page:
+publish_date:
+isbn10:
+isbn13:
+source: 
+wishlist: 
+acquired: 
+started: 
+finished: 
+finishednotes:
+---
 # [*Father Elijah: An Apocalypse*](https://ignatius.com/father-elijah-fep/) by [[Michael D. O'Brien]]
 
 <img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/794/1024/FEP_r__48908.1617023450.jpg?c=1" width=150>
@@ -29,8 +46,8 @@
 - "In every person's soul there is an icon of what he is meant to be." (305)
 - "A man is what he loves. A man is what he will live for and die for." (403)
 - "It's interesting the way the most simple minds, and the finest, eventually go back to the Church." (408)
-- "[[St. Joseph]] too -small, hidden man from the least of villages -he contained the heart of a true father and made it possible for a new world to come into being. Joseph-fosterfather to a fatherless world, living icon of the Father." (566)
-- "You'd be amazed at how many honest criminals there are in here. They're as guilty as sin and admit it, which is a better way of life than the folks outside who are guilty and think they're innocent. We're all criminals at heart, even those of us who are innocent, technically speaking. Cain and Abel- you know the story." (571)
+- "[[St. Joseph]] too—small, hidden man from the least of villages—he contained the heart of a true father and made it possible for a new world to come into being. Joseph—foster father to a fatherless world, living icon of the Father." (566)
+- "You'd be amazed at how many honest criminals there are in here. They're as guilty as sin and admit it, which is a better way of life than the folks outside who are guilty and think they're innocent. We're all criminals at heart, even those of us who are innocent, technically speaking. Cain and Abel—you know the story." (571)
 
 --- 
 **Topic**: [[Apocalyptic literature]]
@@ -42,10 +59,6 @@
 - *I Promessi Sposi—The Bethrothed* by Manzoni (359)
 - *The Crimean Sonnets* by Adam Mickiewicz (361)
 
-**New Words**
-
-- 
-
 ---
 Created: [[2022-05-10-Tue]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

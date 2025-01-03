@@ -70,6 +70,19 @@ aliases: [LOTH, Breviary]
 ## Notes
 
 ### Volume I
+- Apostolic Constitution 
+	- "The Liturgy of the Hours was seen as a kind of necessary complement to the fullness of divine worship that is contained in the eucharistic sacrifice, by means of which that worship might overflow to reach all the hours of daily life." (11)
+	- "The result was that [[~Sacrosanctum concilium|the Council]] treated the liturgy as a whole, and the Hours in particular, with such thoroughness and skill, such spirituality and power, that there is scarcely a parallel to it in the entire history of the Church." (13)
+	- "It is supremely to be hoped that the Liturgy of the Hours may pervade and penetrate the whole of Christian prayer, giving it life, direction and expression and effectively nourishing the spiritual life of the people of God." (16)
+	- "To manifest this quality of our prayer more clearly, 'the warm and living love for holy Scripture' which is the atmosphere of the Liturgy of the Hours must come to life in all of us, so that Scripture may indeed become the chief source of all Christian payer." (17, cf. *[[~Sacrosanctum concilium|SC]]* 24)
+	- "[[Mental Prayer]] should draw unlimited nourishment from readings, psalms, and the other parts of the Liturgy of the Hours." (18)
+	- "The Hours are recommended to all Christ's faithful members, including those who are not bound by law to their recitation." (18)
+- [[~General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]
+	- ==LOTH #143 on scripture between mass and office==
+	- ==#161: optional lectionary?==
+	- "The purpose of the second reading is principally to provide a meditation on the word of God as received by the Church in its tradition." (163)
+	- "By constant use of the writings handed down by the universal tradition of the Church those who read them are led to a deeper reflection on Sacred Scripture, and a relish and love for it." (164)
+- Vol. I, pg. 405 ([[2024-12-25-Wed]] Office of Readings for Christmas, from a Sermon by [[St. Leo the Great]]): "Christian, remember your dignity, and now that you share in God's own nature, do not return by sin to your former base condition. Bear in mind who is your head and of whose body you are a member. Do not forget that you have been rescued from the power of darkness and brought into the light of God's kingdom. Through the sacrament of baptism you have become a temple of the Holy Spirit. Do not drive away so great a guest by evil conduct and become again a slave to the devil, for your liberty was bought by the blood of Christ." 
 - Vol. I, pg. 831 ([[2022-12-05-Mon]] Evening Prayer of Monday of the Second Week of Advent): "When you took on flesh, Lord Jesus, you made a marriage of mankind with God." 
 - Vol. I, pg. 902 ([[2022-12-09-Fri]] Evening Prayer of Friday of the Second Week of Advent): "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)
 - Vol. I, pg. 1286 ([[2022-03-14-Mon]]): [[Friendship]] of [[St. Basil the Great]] and [[St. Gregory Nazianzen]]: "We seemed to be two bodies with a single spirit...Our single object and ambition was virtue."  ^47e634
@@ -109,6 +122,7 @@ aliases: [LOTH, Breviary]
 - Vol. IV, pg. 1073 ([[2023-08-21-Mon]] Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."
 - Vol. IV, pg. 1448 ([[2024-09-30-Mon]]: Office of Readings for [[St. Jerome]], from the prologue of the commentary on Isaiah): "I interpret as I should, following the command of Christ: *Search the Scriptures*, and *Seek and you shall find*. Christ will not say to me what he said to the Jews: *You erred, not knowing the Scriptures and now knowing the power of God.* For if, as Paul says, Christ is the power of God and the wisdom of God, and if the man who does not know Scripture does not know the power and wisdom of God, then **ignorance of Scripture is ignorance of Christ**...No one should think that I mean to explain the entire subject matter of this great book of Scripture in one brief sermon, since it contains all the mysteries of the Lord."
 - Vol. IV, pg. 1161 ([[2023-09-04-Mon]] intercessions for Wednesday Morning Prayer Week IV): "Give us strength in temptation, endurance in trial, and gratitude in prosperity."
+- Vol. IV pg. 1148 ([[2024-08-20-Tue]]), [[Col-03#v16]]: "Let the word of Christ, rich as it is, dwell in you."
 
 
 ---

@@ -12,8 +12,8 @@ isbn13: 9780307165206
 source: 
 wishlist: 
 acquired: true
-started: 2023-08-30
-finished: 2024-05-05
+started: 2025-01-01
+finished: 
 dimensions: 
 translation: Children's
 finishednotes: none
@@ -24,7 +24,7 @@ finishednotes: none
 
 `(New York: Golden Inspirational, 1999-10-01), 516`
 
-
+Read [[2023-08-30-Wed]] to [[2024-05-05-Sun]]
 
 --- 
 **Topic**: [[The Bible]]
