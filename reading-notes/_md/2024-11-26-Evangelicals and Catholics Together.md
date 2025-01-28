@@ -17,7 +17,7 @@ started: 2024-08-17
 finished: 2024-09-21
 finishednotes: partial
 ---
-# *[Evangelicals and Catholics Together]()* by [[Charles W. Colson]]
+# *[Evangelicals and Catholics Together]()* by [[Charles W. Colson]] & [[Fr. Richard Neuhaus]]
 
 <img src="http://books.google.com/books/content?id=BsMBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

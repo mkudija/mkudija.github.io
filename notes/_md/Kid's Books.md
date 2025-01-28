@@ -141,8 +141,10 @@ publish: true
 - [[2024-10-06-Sun]]: *[[~The Iliad (Graphic)|The Iliad (Graphic Novel Version)]]* by Gareth Hinds
 - [[2024-10-13-Sun]]: *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
 - [[2024-11-09-Sat]]: *[[~The Odyssey (Graphic)|The Odyssey (Graphic Novel Version)]]* by Gareth Hinds
+- [[2025-01-05-Sun]]: *[[~Sky High!|Sky High! A Soaring History of Aviation]]* by Jacek Ambrozewski
 - In Progress:
-	- *[[2024-11-18-The Saint Makers|The Saint Makers]]*
+	- *[[~The Golden Children's Bible|The Golden Children's Bible]]*
+	- *[[~Charlie and the Great Glass Elevator|Charlie and the Great Glass Elevator]]*
 
 ---
 **Topic**: [[Reading]]

@@ -434,7 +434,7 @@ Other:
 - *True Devotion to Mary* by St. Louis de Montfort (57)
 - *Poetry*, then *The Ascent of mount Carmel*, *The Dark Night of the Soul*, *The Spiritual Canticle*, *The Living Flame of Love* by [[St. John of the Cross]] (61)
 - *Metaphysics* by Kazimierz Wais (70)
-- *[[~The Power and the Glory|The Power and the Glory]]* by Graham Greene and *The Plague* by Camus (117)
+- *[[2025-01-14-The Power and the Glory|The Power and the Glory]]* by Graham Greene and *The Plague* by Camus (117)
 - *His Holiness* by Bernstein and Politi (210 and many others; [[George Weigel]] does not seem to have a high opinion of this)
 - *Poland* and *Pilgrimage* by James Michener (211)
 - *[[2018-07-21-The Screwtape Letters|The Screwtape Letters]]* by C.S. Lewis (216)

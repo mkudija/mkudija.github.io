@@ -13,8 +13,8 @@ source:
 wishlist: 2024-07-06
 acquired: 2024-07-02
 started: 2024-07-14
-finished: 
-finishednotes:
+finished: 2025-01-14
+finishednotes: 2025-01-14
 latex: true
 mermaid: true
 ---
@@ -198,7 +198,7 @@ k --> m
 | **Universal**      | A (All S is P)  | E (No S is P)     |
 | **Particular**     | I (Some S is P) | O (Some S is not P) |
 
-## Chapter 6: Contradictory and Contrary Statements 
+## Chapter 6-7: Contradictory, Contrary, Subcontrary, and Subalternate Statements 
 - Categorical statements can be related in **Opposition** or in **Equivalence**
 - **Opposition**: statements in opposition *affirm* and *deny* the same predicate of the same subject 
 	- Contradictory 
@@ -209,6 +209,7 @@ k --> m
 	- Obversion 
 	- Conversion 
 	- Contraposition 
+
 - **Rule of Contradiction**: Contradictory statements are statements that differ in both quality and quantity. Same colors (opposites) are contradictory:
 
 | ↓Quantity/Quality→ | Affirmative                                    | Negative                                          |
@@ -218,41 +219,107 @@ k --> m
 
  - **The Rule of Contraries**: Two statements are contrary to one another if they are both universals but differ in quality. <i style="color: #BD483E; ">A (red)</i> and <i style="color: #46348B; ">E (purple)</i> are contrary:
 
-| ↓Quantity/Quality→ | Affirmative                                    | Negative                                          |
-| ------------------ | ---------------------------------------------- | ------------------------------------------------- |
-| **Universal**      | <i style="color: #BD483E; ">A (All S is P)</i> | <i style="color: #46348B;">E (No S is P)</i>      |
-| **Particular**     | I (Some S is P) | O (Some S is not P) |
+| ↓Quantity/Quality→ | Affirmative                                    | Negative                                     |
+| ------------------ | ---------------------------------------------- | -------------------------------------------- |
+| **Universal**      | <i style="color: #BD483E; ">A (All S is P)</i> | <i style="color: #46348B;">E (No S is P)</i> |
+| **Particular**     | I (Some S is P)                                | O (Some S is not P)                          |
+
+ - **The Rule of Subcontraries**: Two statements are contrary to one another if they are both particular statements that differ in quality. <i style="color: #BD483E; ">I (red)</i> and <i style="color: #46348B; ">O (purple)</i> are contrary:
+
+| ↓Quantity/Quality→ | Affirmative                                     | Negative                                           |
+| ------------------ | ----------------------------------------------- | -------------------------------------------------- |
+| **Universal**      | A (All S is P)                                  | E (No S is P)                                      |
+| **Particular**     | <i style="color: #BD483E; ">I (Some S is P)</i> | <i style="color: #46348B;">O (Some S is not P)</i> |
+
+- **The Rule of Subalternates**: Two statements are subalternate if they have the same quality, but differ in quantity. <i style="color: #BD483E; ">A (red)</i> and <i style="color: #BD483E; ">I (red)</i> are subalternate, and <i style="color: #46348B; ">E (purple)</i> and <i style="color: #46348B; ">O (purple)</i> are subalternate:
+
+| ↓Quantity/Quality→ | Affirmative                                     | Negative                                           |
+| ------------------ | ----------------------------------------------- | -------------------------------------------------- |
+| **Universal**      | <i style="color: #BD483E; ">A (All S is P)</i>  | <i style="color: #46348B;">E (No S is P)</i>       |
+| **Particular**     | <i style="color: #BD483E; ">I (Some S is P)</i> | <i style="color: #46348B;">O (Some S is not P)</i> |
+
 
  - **First Law of Opposition**: Contradictories cannot at the same time be true nor at the same time be false.
  - **The Second Law of Opposition**: Contraries cannot at the same time both be true, but can at the same time both be false.
+- **The Third Law of Opposition**: Subcontraries may at the same time both be true, but cannot at the same time both be false.
+- **The Fourth Law of Opposition**: Subalterns may both be true or both be false. If the particular is false, the universal is false; if the universal is true, the  particular is true; otherwise their status is indeterminate.
 
-## Chapter 7: Subcontraries and Subalterns
-
-
+- [Logical Opposition Chart - Google Slides](https://docs.google.com/presentation/d/1Eka2n5Fr3uJ2pvKyWzkEycFbdXEr1A6ZcxSyhej8rWM/edit#slide=id.p)
 
 ## Chapter 8: Distribution of Terms
+- **Distribution** is the status of a term in regard to its extension.
+	- A term is ***distributed*** if it refers to all the members of the class of things denoted by the term; a *distributed* term is *universal*.
+	- A term is ***undistributed*** if it refers to only some members of the class denoted by the term.
+- The **subject-term** is distributed in statements whose quantity is universal and undistributed in statements whose quantity is particular. 
+ 
+| ↓Quantity/Quality→ | Affirmative                                    | Negative                                     |
+| ------------------ | ---------------------------------------------- | -------------------------------------------- |
+| **Universal**      | <i style="color: #BD483E; ">A (All S is P): Subject distributed</i> | <i style="color: #BD483E;">E (No S is P): Subject distributed</i> |
+| **Particular**     | <i style="color: #46348B;">I (Some S is P): Subject undistributed</i> | <i style="color: #46348B;">O (Some S is not P): Subject undistributed</i>|
 
 
+
+- The **predicate-term** is always undistributed for affirmative propositions and distributed for negative propositions.
+
+| ↓Quantity/Quality→ | Affirmative                                    | Negative                                     |
+| ------------------ | ---------------------------------------------- | -------------------------------------------- |
+| **Universal**      | <i style="color: #46348B; ">A (All S is P): Predicate undistributed</i> | <i style="color: #BD483E;">E (No S is P): Predicate distributed</i> |
+| **Particular**     | <i style="color: #46348B;">I (Some S is P): Predicate undistributed</i> | <i style="color: #BD483E;">O (Some S is not P): Predicate distributed</i>|
 
 ## Chapter 9: Obversion, Conversion, and Contraposition
-
+- Two statements are logically the same if they are **logically equivalent**.
+- Statements can be made equivalent through Obversion, Conversion, or Contraposition.
+- **Obversion**: 1) Change the quality of the sentence, 2) Negate the predicate 
+	- All S is P → No S is not P
+	- No S is P → All S is not P
+	- Some S is P → All S is not non-P
+	- Some S is not P → Some S is not P
+- **Conversion**: interchange the subject and predicate 
+	- No S is P → No P is S
+	- Some S is P → Some P is S
+	- Partial conversion of the A statement is done by interchanging the subject and predicate and changing the statement from universal to particular: All S are P → Some P are S
+	- *Conversion does not work with O statements and other A statements.*
+- **Contraposition**: 1) Obvert the statement, 2) Convert the statement, 3) Obvert the statement again 
+	- All S is P → All non-P is non-S
+	- Some S is not P → Some non-P is S
+	- Only works with A and O statements.
+	- E statement can be partially converted.
 
 
 # Deductive Inference (Syllogism)
 ## Chapter 10: What Is Deductive Inference?
+- **Reasoning** is the act by which the mind acquires new knowledge by means of what it already knows. 
+- **Deductive inference** is a form of reasoning by which the mind establishes a connection between the antecedent and the consequent. 
+- A **Syllogism** is a group of propositions in orderly sequence, one of which (the consequent) is said to be necessarily inferred from the others (the antecedent).
+	- A syllogism will always contain two premises and a conclusion.
+- **The Essential Law of Argumentation**: If the antecedent is true, the consequent must also be true.
+	- If the syllogism is valid and the consequent is false, then the antecedent must be false.
+	- In a valid syllogism with a true consequent, the antecedent is not necessarily true.
+- Terms in a Syllogism:
+	- **Major Term**: predicate of the conclusion
+	- **Minor Term**: subject of the conclusion
+	- **Middle Term**: term that appears in both premises but not the conclusion 
+- Premises in a Syllogism:
+	- **Major Premise**: premise which contains the major term
+	- **Minor Premise**: premise which contains the minor term
+- Principles of Syllogism:
+	- **The Principle of Reciprocal Identity**: Two terms that are identical with a third term are identical to each other.
+	- **The Principle of Reciprocal Non-Identity**: Two terms, one of which is identical with a third term and the other of which is nonidentical with that term ,are nonidentical to each other.
+	- **The Dictum de Omni**: What is affirmed universally of a certain term is affirmed of every term that comes under that term.
+	- **The Dictum de Nullo**: What is denied universally of a certain term is denied of every term that comes under that term.
 
 
-
-## Chapter 11: Terminological Rules for Categorical Syllogisms
-
-
-
-## Chapter 12: Quantitative Rules for Categorical Syllogisms
-
-
-
-## Chapter 13: Qualitative Rules for Categorical Syllogisms 
-
+## Chapter 11-13: Rules for Categorical Syllogisms
+- **Terminological Rules**
+	- There must be three and only three terms. (*Violated if there are four unconnected terms, or by the Fallacy of Equivocation where a term is used in different senses.*)
+	- The middle term must not occur in the conclusion.
+- **Quantitative Rules**
+	- If a term is distributed in the conclusion, then it must be distributed in the premises. (*Violated by the Fallacy of Illicit Process*.)
+	- The middle term must be distributed at least once. (*Violated by the Fallacy of the Undistributed Middle*.)
+- **Qualitative Rules**
+	- No conclusion can follow from two negative premises. (*Violated by the Fallacy of Exclusive Premises*.)
+	- If the two premises are affirmative, the conclusion must also be affirmative. (*Violated by the Fallacy of Drawing a Negative Conclusion from Affirmative Premises.*)
+	- If either premise is negative, the conclusion must be negative. (*Violated by the Fallacy of Drawing an Affirmative Conclusion from a Negative Premise.*) 
 
 
 ## Chapter 14: Review

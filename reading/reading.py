@@ -164,7 +164,7 @@ if __name__ == "__main__":
         .dropna(axis=0, thresh=3)
         )
 
-    years = df['Read'].unique()
+    years = df['Read'].unique().astype(int)
 
     for year in years:
         bookForecastAll, bookForecastRead = write_html(df, year)

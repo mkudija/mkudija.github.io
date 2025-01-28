@@ -86,7 +86,7 @@ finishednotes: 2024-09-18
 - [[2024-08-14-Wed]]-[[Sir-21#v2]]: "Flee from sin as from a snake, for if you approach sin, it will bite you."
 - [[2024-08-15-Thu]]-[[Prv-03#v9]]: "Honor the Lord with your wealth and with the first fruits of all your produce"
 - [[2024-08-15-Thu]]-[[Sir-25#v20]]: ha!
-- [[2024-08-15-Thu]]-[[Sir-27#v5]]-6 for [[2024-08-20-Traditional Logic I|Logic]]
+- [[2024-08-15-Thu]]-[[Sir-27#v5]]-6 for [[2025-01-14-Traditional Logic I|Logic]]
 - [[2024-08-18-Sun]]-[[2 Mc-06#v11]]: would rather die rather than not keep the sabbath
 - [[2024-08-18-Sun]]-[[2 Mc-06#v13]]: "To punish the ungodly quickly rather than leave them alone for very long is a sign of great kindness."
 - [[2024-08-18-Sun]]-[[Wis-11#v16]]: natural consequences: "one is punished by the very things by which he sins"

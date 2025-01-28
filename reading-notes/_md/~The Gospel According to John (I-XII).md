@@ -27,7 +27,7 @@ finishednotes:
 **Topic**: [[Bible Commentary]]
 
 **Source**
-- *[[~Conciliar Octet|Conciliar Octet]]*
+- *[[2025-01-14-Conciliar Octet|Conciliar Octet]]*
  
 **[[New Words]]**
 - 

@@ -12,7 +12,7 @@ isbn13: 9780986223501
 source: 
 wishlist: 2024-03-09
 acquired: 2024-08-14
-started: 2024-08-26
+started: 
 finished: 
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: , 2015), 0`
 
-
+- started [[2024-08-24-Sat]], dropped
 
 --- 
 **Topic**: 

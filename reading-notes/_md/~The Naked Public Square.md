@@ -15,7 +15,7 @@ started:
 finished: 
 finishednotes: 
 ---
-# *[The Naked Public Square]()* by [[Richard John Neuhaus]]
+# *[The Naked Public Square]()* by [[Fr. Richard Neuhaus]]
 
 <img src="http://books.google.com/books/content?id=U_ElkFKLNAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 

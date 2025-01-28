@@ -44,7 +44,7 @@ finishednotes: 2024-01-20
 ## Chapter 4: But Isn't This a Prayer for Priests? 
 - [[~Catechism of the Catholic Church|CCC]] 1174 cf *[[~Sacrosanctum concilium|SC]]* 84: The LOTH is truly the voice of the Bride herself addressed to her Bridegroom (34)
 	- Note for reading [[Vatican II]]: by nature the conciliar documents make the essential point without lengthy explication
-- Fr.. Ed O'Flaherty, S.J. recommends reading the *[[~General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* during Advent every year; it is the best introduction to the LOTH (38)
+- Fr.. Ed O'Flaherty, S.J. recommends reading the *[[2025-01-28-General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* during Advent every year; it is the best introduction to the LOTH (38)
 
 ## Chapter 5: Is This a Prayer for the Family? 
 - The LOTH is "the high point which family prayer can reach" (42, cf *[[~Marialis Cultus|Marialis Cultus]]* 54)
@@ -110,7 +110,7 @@ finishednotes: 2024-01-20
 
 **Bibliography**
 - *[[~Praying the Liturgy of the Hours|Praying the Liturgy of the Hours]]*
-- *[[~General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* (38)
+- *[[2025-01-28-General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* (38)
 - *[[~The Everyday Catholic's Guide to the Liturgy of the Hours|The Everyday Catholic's Guide to the Liturgy of the Hours]]* (120, see also her blog: [Site Unreachable](https://dariasockey.blogspot.com/))
 
 ---

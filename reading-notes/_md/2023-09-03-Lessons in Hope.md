@@ -124,7 +124,7 @@ _**Summary**: The writing of Witness to Hope, before which John Paul said "They 
 - "Until President Roosevelt had sent some staff from the Library of Congress to Rome in the 1930s to help organize the Vatican Library, books there were shelved by size and color." (149, !!)
 - Wojtyla was a man of synthesis and a connector of ideas: love *and* responsibility, person *and* act, etc. (161)
 - "One is only free when living in the truth, and John Paul was fearless because of his security in the truth." (164)
-- Wojtyla encouraged others to read the "dark literature" such as *[[~The Plague|The Plague]]* and *[[~The Power and the Glory|The Power and the Glory]]* [[bib]] (165)
+- Wojtyla encouraged others to read the "dark literature" such as *[[~The Plague|The Plague]]* and *[[2025-01-14-The Power and the Glory|The Power and the Glory]]* [[bib]] (165)
 - [[Writing]]: "Books in progress are like children: a book has a kind of mind of its own, and it will push back against an author." (181)
 - John Paul viewed [[John Henry Newman]] as someone "who merits being a Doctor of the Church" (191)
 - [[Stanislaw Dziwisz|Dziwisz]] said that *[[~Cancer Ward|Cancer Ward]]* was the best of [[Aleksandr Solzhenitsyn]]'s novels, and Weigel says that every high school student should read *[[~One Day in the Life of Ivan Denisovich|One Day in the Life of Ivan Denisovich]]* [[bib]] (192)

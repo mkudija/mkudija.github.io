@@ -44,7 +44,7 @@ finishednotes: 2024-01-20
 **Topic**: [[Liturgy of the Hours|LOTH]]
 
 **Source**: 
-- *[[2024-01-20-A Layman's Guide to the Liturgy of the Hours|A Layman's Guide to the Liturgy of the Hours]]
+- [[2024-01-20-A Layman's Guide to the Liturgy of the Hours|A Layman's Guide to the Liturgy of the Hours]]
 
 ---
 Created: [[2024-01-20-Sat]]

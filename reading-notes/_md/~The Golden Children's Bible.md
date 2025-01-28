@@ -29,20 +29,6 @@ Read [[2023-08-30-Wed]] to [[2024-05-05-Sun]]
 --- 
 **Topic**: [[The Bible]]
 
-**Source**
-- 
-
-**Bibliography**
-
-```query
-[[bib]] file:(~The Golden Children's Bible)
-```
- 
-
-**[[New Words]]**
-
-- 
-
 ---
 Created: [[2023-08-30-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

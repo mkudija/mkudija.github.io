@@ -31,6 +31,7 @@ Protestant rejection of the deuterocanonical books originates in [[Martin Luther
 	- 3 Maccabees
 	- 4 Maccabees
 	- Psalm 151
+- "It was by the apostolic [[Tradition]] that the Church discerned which writings are to be included in the list of the sacred books." ([[~Catechism of the Catholic Church|CCC]] 120, cf. *[[2022-12-03-Dei Verbum|DV]]* 8 § 3)
 - In 350 at the Council of Rome the Church gave a response as to what the Canon is
 - Removed by [[Martin Luther|Luther]] (because of his disagreement with Purgatory) but confirmed as canonical at the [[Council of Trent]]
 - "Today most Protestant Bibles have sixty-six books. Until the 1820s, the Authorized King James Version and all other English Bibles had at least seventy-three books because they included the books which are referred to as the "Deuterocanonical" books by Catholics and the "Apocrypha" by Protestants." *—from [Some Psalter Reviews](http://stutler.cc/russ/psalter_reviews.html)*

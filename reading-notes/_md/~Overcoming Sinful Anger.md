@@ -12,7 +12,7 @@ isbn13: 9781622822300
 source: 
 wishlist: 2024-06-25
 acquired: 2024-06-25
-started: 2024-06-25
+started: 
 finished: 
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(Manchester: Sophia Institute Press, 2014), 113`
 
-
+- started tentatively but did not continue yet [[2024-06-25-Tue]]
 
 --- 
 **Topic**: 

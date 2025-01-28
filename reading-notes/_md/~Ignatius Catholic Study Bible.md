@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ignatius Catholic Study Bible
+  - ICSB
 title: Ignatius Catholic Study Bible
 author: Scott Hahn, Curtis Mitch
 category: Religion
@@ -10,11 +11,11 @@ publish_date: 2024
 isbn10: 
 isbn13: 9781586176143
 source: 
-wishlist:
+wishlist: 
 acquired: 2024-12-07
 started: 
 finished: 
-finishednotes:
+finishednotes: 
 translation: Revised Standard Version Second Catholic Edition
 dimensions: 7.5x10.25x2.625
 ---
@@ -24,7 +25,8 @@ dimensions: 7.5x10.25x2.625
 
 `(San Francisco: Ignatius Press, 2024), 2316`
 
-
+- "If you're Catholic, this is the study Bible you should be using as your primary study Bible." —Disciple Dojo [video](https://youtu.be/-bXvQqWDOfc?t=2525)
+- 
 
 --- 
 **Topic**: [[The Bible]]

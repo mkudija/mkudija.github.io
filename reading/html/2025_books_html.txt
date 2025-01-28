@@ -1,1 +1,7 @@
+<li><i>The Situation Room</i> by George Stephanopoulos</li>
+<li><i>General Instruction of the Liturgy of the Hours</i></li>
+<li><i>Traditional Logic I</i> by Martin Cothran</li>
+<li><i>The Power and the Glory</i> by Graham Greene</li>
+<li><i>Conciliar Octet</i> by Fr. Aidan Nichols, O.P.</li>
+<li><i>Sky High! A Soarhing History of Aviation</i> by Jacek Ambrożewski</li>
 <li><i>Elijah in Jerusalem</i> by Michael D. O'Brien</li>

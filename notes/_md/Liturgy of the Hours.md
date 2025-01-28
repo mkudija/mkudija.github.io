@@ -1,6 +1,9 @@
 ---
 publish: true
-aliases: [LOTH, Breviary]
+aliases:
+  - LOTH
+  - Breviary
+  - Divine Office
 ---
 
 *[[Prayer]]*
@@ -31,7 +34,7 @@ aliases: [LOTH, Breviary]
 ## Resources
 
 ### Books
-- *[[~General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* ([PDF](https://www.liturgyoffice.org.uk/Resources/Rites/GILH.pdf), also printed at the beginning of Vol. 1)
+- *[[2025-01-28-General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]* ([PDF](https://www.liturgyoffice.org.uk/Resources/Rites/GILH.pdf), also printed at the beginning of Vol. 1)
 - *[[~Morning and Evening Prayer|Morning and Evening Prayer]]* by [[John Paul II|Pope John Paul II]] and [[Joseph Ratzinger|Pope Benedict XVI]]
 - [The Liturgy of the Hours - Word on Fire](https://www.wordonfire.org/pray/)
 - *[[2024-01-13-The Divine Office for Dodos|The Divine Office for Dodos]]*
@@ -77,11 +80,7 @@ aliases: [LOTH, Breviary]
 	- "To manifest this quality of our prayer more clearly, 'the warm and living love for holy Scripture' which is the atmosphere of the Liturgy of the Hours must come to life in all of us, so that Scripture may indeed become the chief source of all Christian payer." (17, cf. *[[~Sacrosanctum concilium|SC]]* 24)
 	- "[[Mental Prayer]] should draw unlimited nourishment from readings, psalms, and the other parts of the Liturgy of the Hours." (18)
 	- "The Hours are recommended to all Christ's faithful members, including those who are not bound by law to their recitation." (18)
-- [[~General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]
-	- ==LOTH #143 on scripture between mass and office==
-	- ==#161: optional lectionary?==
-	- "The purpose of the second reading is principally to provide a meditation on the word of God as received by the Church in its tradition." (163)
-	- "By constant use of the writings handed down by the universal tradition of the Church those who read them are led to a deeper reflection on Sacred Scripture, and a relish and love for it." (164)
+- [[2025-01-28-General Instruction of the Liturgy of the Hours|General Instruction of the Liturgy of the Hours]]
 - Vol. I, pg. 405 ([[2024-12-25-Wed]] Office of Readings for Christmas, from a Sermon by [[St. Leo the Great]]): "Christian, remember your dignity, and now that you share in God's own nature, do not return by sin to your former base condition. Bear in mind who is your head and of whose body you are a member. Do not forget that you have been rescued from the power of darkness and brought into the light of God's kingdom. Through the sacrament of baptism you have become a temple of the Holy Spirit. Do not drive away so great a guest by evil conduct and become again a slave to the devil, for your liberty was bought by the blood of Christ." 
 - Vol. I, pg. 831 ([[2022-12-05-Mon]] Evening Prayer of Monday of the Second Week of Advent): "When you took on flesh, Lord Jesus, you made a marriage of mankind with God." 
 - Vol. I, pg. 902 ([[2022-12-09-Fri]] Evening Prayer of Friday of the Second Week of Advent): "We must endure many trials before entering the God's kingdom", or "through many tribulations we must enter the kingdom of God" ([[Acts-14#v22]], RSVCE)

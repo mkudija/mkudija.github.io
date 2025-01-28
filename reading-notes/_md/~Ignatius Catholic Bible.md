@@ -27,20 +27,9 @@ dimensions: 4.875x6.5x1.125
 **Topic**: [[The Bible]] 
 
 **Source**
-- 
-
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Ignatius Catholic Bible)
-```
+- for Root Bible study group
  
-
-**New Words**
-
-- 
 
 ---
 Created: [[2022-10-28-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

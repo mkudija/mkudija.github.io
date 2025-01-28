@@ -12,7 +12,7 @@ isbn13: 9780385516921
 source: 
 wishlist: 
 acquired: 2024-12-06
-started: 
+started: 2025-01-16
 finished: 
 finishednotes:
 ---
