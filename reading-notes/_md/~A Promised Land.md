@@ -28,7 +28,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- *[[~The Situation Room|The Situation Room]]*
+- *[[2025-01-29-The Situation Room|The Situation Room]]*
 - [[UA Library]] [[2025-01-24-Fri]] (they raised their price for hardbacks from $2 to $3)
  
 **[[New Words]]**

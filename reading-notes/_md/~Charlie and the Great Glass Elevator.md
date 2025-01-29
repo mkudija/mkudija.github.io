@@ -24,6 +24,8 @@ finishednotes:
 
 We both read aloud to [[Henry]] and [[Jack]]
 
+- "A little nonsense now and then, is relished by the wisest men." (88)
+
 --- 
 **Topic**: 
 

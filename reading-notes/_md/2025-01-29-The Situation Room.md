@@ -18,15 +18,11 @@ finishednotes:
 ---
 # *[The Situation Room](https://www.hachettebookgroup.com/titles/george-stephanopoulos/the-situation-room/9781538740767/)* by [[George Stephanopoulos]]
 
-<img src="http://books.google.com/books/content?id=4ePUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://www.hachettebookgroup.com/wp-content/uploads/2024/02/9781538740767.jpg?resize=318,480" width=150>
 
 `(New York: Grand Central Publishing, 2024), 346`
 
-==add notes==
-- history 
-- more respect for Obama, less for Trump 
-- McRaven 
-- lessons: ==add==
+This read like a thriller, looking at the history of the recent presidencies through the crises managed in the Situation Room. It is striking to think about how sophisticated (or not) some of these decisions were, and the communications challenges on 9/11 illustrate how even at the heights of government it is just real people making decisions. I gained respect for Obama and McRaven reading about their leadership of the Bin Laden raid, and lost some for Trump. Having read this just before the 2025 inauguration, it makes me curious—and perhaps anxious—thinking about the crises we are to face next.
 
 ## Chapter 1: AT THE CREATION
 - President Kennedy didn’t want some CIA officer’s description of a situation; he wanted the same raw intel the officer had, so he could make up his own mind. Kennedy had taken a speed-reading course with his brother Bobby in 1954 and claimed he could read 1,200 words per minute. While some people prefer oral presentations, he vastly preferred the written word. He read fast, and he retained what he read. (loc 330)
@@ -79,7 +75,7 @@ finishednotes:
 - “They kept feeding me the cables,” he said. “The only thing I didn’t have time to check was my email. So about a month into the crisis, I realized I had something like ten thousand unopened, unread emails.” He deleted them all in a single stroke, without even bothering to read them. (loc 2,434)
 - Decisions got made. And then that information started flowing out, going back to the departments and agencies. It was like an hourglass, I ventured. “It is an hourglass,” Kimmitt agreed. “And the center of the hourglass was the Oval Office. But just above it and below it was the Sit Room.” (loc 2,460)
 - Bush’s team worked together incredibly well. The Situation Room functioned at peak performance. The decision-making process was efficient and professional. It’s difficult to find anyone who has a bad recollection of working in the first Bush administration. According to Richard Haass, it all flowed from the top. “This worked well,” he told me, “because Bush 41 assembled really good people who got along.” (loc 2,464)
-- ==his book with Scowcroft, A World Transformed, Bush (loc 2,588)==
+- *[[~A World Transformed|A World Transformed]]* by Bush and Scowcroft (loc 2,588)
 
 ## Chapter 8: PLEASE HOLD FOR THE PRESIDENT 
 - During the transition, I went to the West Wing to meet with President Bush’s press secretary, Marlin Fitzwater, who handed me a bulletproof vest that had been passed down by presidential press secretaries since the 1970s—an ironic nod to the flak we take at the podium. (loc 2,599)
@@ -95,7 +91,7 @@ finishednotes:
 - Finally realizing that none of the twenty-odd people in the complex were budging, Miller changed tack. “Great,” he said. “Give me your names and Social Security numbers, because we want to know what bodies to look for.” He handed Hargis a pad and pen, and one by one, every person there jotted down their vital information. (loc 3,081)
 - The images of Card whispering to the president became famous, as did the words he said: “A second plane hit the second tower. America is under attack.” What most people don’t realize, though, is that those words originated in the Situation Room, coming from Rob Hargis, through Deb Loewer, to Andy Card, to the president. (loc 3,137)
 - “I picked it up and said, ‘This is Rob.’ He said, ‘Rob, it’s Nick at 10 Downing.’ I said, ‘Does the prime minister want to speak with the president? We’re not putting those calls through.’ And he said, ‘No. We’re sitting here at 10 Downing and watching this go on. And we just wanted to call you guys and tell you we’re with you.’” (loc 3,259)
-- ==“And then I said, ‘Mr. President, our forces are going up on alert.’ He said, ‘I know. I’m bringing ours down and canceling our [military] exercises,’” she told me. Unlike the day of the Reagan assassination attempt, when the Soviets took advantage of the chaos to move their submarines closer to U.S. shores, the Russians were purposefully backing off. “They knew what was going on, and he wanted to reassure us that they were not going to go up,” Rice said. Putin’s response was so measured, calm and helpful that Rice—an expert on Russia who speaks the language fluently—was struck by a comforting thought: The Cold War really is over. She couldn’t have imagined then that two decades later, the United States and Russia would come full circle, adversaries once again.)“There’s no such thing as an intelligence success. There are only operational successes and intelligence failures.” (loc 3,308)==
+- The most remarkable conversation, however, took place between Condi Rice and Vladimir Putin. Ensconced in the PEOC, Rice realized it would be a good idea to call the Russians. "People talk about the spiral of alerts," she told me. "Our forces go up, theirs go up" —an escalation in threat preparation that unintentionally creates a volatile situation. Rice wanted to head this off. She expected to speak to an aide, but Putin himself got on the phone. He told Rice that he'd been trying to reach President Bush, and she replied that he was being moved to a safe location. "And then I said, Mr. President, our forces are going up on alert. He said, I know. I'm bringing ours down and canceling our [military] exercises," she told me. Unlike the day of the Reagan assassination attempt, when the Soviets took advantage of the chaos to move their submarines closer to U.S. shores, the Russians were purposefully backing off. "They knew what was going on, and he wanted to reassure us that they were not going to go up," Rice said. Putin's response was so measured, calm and helpful that Rice—an expert on Russia who speaks the language fluently—was struck by a comforting thought: The Cold War really is over. She couldn't have imagined then that two decades later, the United States and Russia would come full circle, adversaries once again. (loc 3,308, pg 219-220)
 - FIVE YEARS AFTER the 9/11 attacks, the Situation Room finally got a desperately needed renovation. While the communications failures of that day were the catalyst, President Bush had made it clear from the very beginning of his first term that he wanted upgrades to the complex. (loc 3,372)
 - Bush pulled Josh Bolten aside and said, “This transition has to be top-notch. This is the first presidential transition in modern history where the country is under threat.” (loc 3,449)
 - And it led to remarkable scenes of cooperation between the outgoing and incoming administrations—all the more notable since they were of different political parties. (loc 3,453)
@@ -138,7 +134,7 @@ finishednotes:
 - Finally, it’s crucial to have a sense of history. Remembering the mistakes of the 1980 Desert One debacle was vital in planning the 2011 bin Laden raid. (loc 4,761)
 
 --- 
-**Topic**: 
+**Topic**: [[History]]
 
 **Source**
 - [[Dad]]
