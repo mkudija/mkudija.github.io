@@ -11,7 +11,7 @@ isbn10: 778805344
 isbn13: 9780778805342
 source: 
 wishlist: 2025-01-15
-acquired: 2025-01-10
+acquired: 
 started: 
 finished: 
 finishednotes:
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: Robert Rose, 2016-05-10), 0`
 
-
+acquired 2025-01-10 but returned
 
 --- 
 **Topic**: 

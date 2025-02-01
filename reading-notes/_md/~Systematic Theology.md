@@ -1,5 +1,5 @@
 ---
-aliases: [Systematic Theology, Volume 1]
+aliases: [Systematic Theology Volume 1]
 title: Systematic Theology, Volume 1
 author: Paul Tillich
 category: Religion

@@ -13,17 +13,40 @@ In the first century there was not an "official" Jewish canon of scripture. Many
 
 Protestant rejection of the deuterocanonical books originates in [[Martin Luther|Luther]]'s labeling of these books as the Apocrphya and placing them between the Old and New Testaments.
 
+The books of the Apocrypha and the Deuterocanonical Books of the Catholic Old Testament are related as follows[^ascension]:
+
+[^ascension]: Source: *[[~The Great Adventure Catholic Bible|The Great Adventure Bible]]*, Second Edition: [Text Sample](https://ascensionpress.com/cdn/shop/files/Bible_Sample.pdf?v=169132927554382049)
+
+| APOCRYPHAL BOOKS                                          | DEUTEROCANONICAL BOOKS |
+| --------------------------------------------------------- | ---------------------- |
+| 1 (3) Esdras                                              | Not included           |
+| 2 (4) Esdras                                              | Not included           |
+| Tobit                                                     | Tobit                  |
+| Judith                                                    | Judith                 |
+| Additions to Esther                                       | Esther (11, 12, 13, 14, 15, 16) |
+| The Wisdom of Solomon                                     | Wisdom                 |
+| The Wisdom of Sirach                                      | Sirach                 |
+| Baruch                                                    | Baruch 1–5             |
+| The Letter of Jeremiah                                    | Baruch 6               |
+| The Prayer of Azariah and the Song of the Three Young Men | Daniel 3 (68 verses between vv. 23-24 )|
+| Susanna                                                   | Daniel 13              |
+| Bel and the Dragon                                        | Daniel 14              |
+| The Prayer of Manasseh                                    | Not included           |
+| Psalm 151                                                 | Not included           |
+| 1 Maccabees                                               | 1 Maccabees            |
+| 2 Maccabees                                               | 2 Maccabees            |
+
+
 - Deuterocanonical books include:
-	- [[Scripture (NABRE)/17 - Tobit/Tobit|Tobit]]
-	- [[Scripture (NABRE)/18 - Judith/Judith|Judith]]
-	- [[Scripture (NABRE)/32 - Baruch/Baruch|Baruch]]
-	- [[Scripture (NABRE)/28 - Sirach/Sirach|Sirach]]
-	- [[Scripture (NABRE)/20 - 1 Maccabees/1 Maccabees|1 Maccabees]]
-	- [[Scripture (NABRE)/21 - 2 Maccabees/2 Maccabees|2 Maccabees]]
-	- [[Scripture (NABRE)/27 - Wisdom/Wisdom|Wisdom]]
-	- [[Scripture (NABRE)/32 - Baruch/Baruch|Baruch]]
-	- Parts of [[Scripture (NABRE)/34 - Daniel/Daniel|Daniel]]
-	- Parts of [[Scripture (NABRE)/19 - Esther/Esther|Esther]]
+	- [[Tobit]]
+	- [[Judith]]
+	- [[Baruch]]
+	- [[Sirach]]
+	- [[1 Maccabees]]
+	- [[2 Maccabees]]
+	- [[Wisdom]]
+	- Parts of [[Daniel]]
+	- Parts of [[Esther]]
 - Additional books recognized as canonical by certain Orthodox Churches:
 	- Prayer of Manasseh
 	- 1 Esdras
