@@ -13,7 +13,7 @@ source:
 wishlist: 
 acquired: 2024-12-06
 started: 2025-01-16
-finished: 
+finished: 2025-02-08
 finishednotes:
 ---
 # *[Letter and Spirit]()* by [[Scott Hahn]]
@@ -22,10 +22,12 @@ finishednotes:
 
 `(New York: Image, 2005-11-08), 171`
 
+Biggest takeaway: view the liturgy as the interpretive tradition of the scriptures, so we should study and live the liturgy and scripture side by side. 
+
 
 
 --- 
-**Topic**: 
+**Topic**: [[Lectionary]]
 
 **Source**
 - [[2024-09-06- Mind-Blowing Bible Study Dr. Scott Hahn]]

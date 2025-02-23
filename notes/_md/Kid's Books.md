@@ -143,8 +143,11 @@ publish: true
 - [[2024-11-09-Sat]]: *[[~The Odyssey (Graphic)|The Odyssey (Graphic Novel Version)]]* by Gareth Hinds
 - [[2025-01-05-Sun]]: *[[~Sky High!|Sky High! A Soaring History of Aviation]]* by Jacek Ambrozewski
 - [[2025-01-31-Fri]]: *[[2025-01-31-Charlie and the Great Glass Elevator|Charlie and the Great Glass Elevator]]*
+- [[2025-02-02-Sun]]: *[[~The Children's Book of Heroes|The Children's Book of Heroes]]*
 - In Progress:
 	- *[[~The Golden Children's Bible|The Golden Children's Bible]]*
+	- *the [[~Little Pilgrim's Progress The Illustrated Edition|Little Pilgrim's Progress (The Illustrated Edition)]]*
+	- *[[~The Adventures of Loupio|The Adventures of Loupio]]*
 
 ---
 **Topic**: [[Reading]]

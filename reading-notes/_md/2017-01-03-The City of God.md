@@ -1,5 +1,8 @@
 ---
-aliases: [The City of God, City of God]
+aliases:
+  - The City of God
+  - City of God
+  - Civ Dei
 ---
 
 # [*City of God*](https://www.penguinrandomhouse.com/books/293752/city-of-god-by-augustine-of-hippo/9780140448948) by [[St. Augustine]]
@@ -1239,6 +1242,8 @@ cf [[Progress & History]]
 **Book XVIII, Chapter 42**: 
 
 **Book XVIII, Chapter 43**: 
+- Inspiration of the Hebrew OT as well as the [[Septuagint]]: "For the very same Spirit that was in the prophets when they uttered their messages was at work also in the seventy scholars when they translated them. And the Spirit could have said something else as well, with divine authority, as if the prophet had said both things, because it was the same Spirit that said both. The Spirit could also have said the same thing in a different way, so that even though the words were not the same, the same meaning would still shine through to those who properly understood them. He could also have omitted something, or added something, so that it might be shown in this way too that the task of translation was achieved not by the servile labour of a human bond-servant of words, but by the power of God which filled and directed the mind of the translator." (821) ^06deea
+- "If then we see, as we ought to see, nothing in those Scriptures except the utterances of the Spirit of God through the mouths of men, it follows that anything in the Hebrew text that is not found in that of the seventy translators is something which the Spirit of God decided not to say through the translators but through the prophets. Conversely, anything in the Septuagint that is not in the Hebrew texts is something which the same Spirit preferred to say through the translators, instead of through the prophets, thus showing that the former and the latter alike were prophets. For in the same way the Spirit spoke, as he chose, some things through Isaiah, others through Jeremiah, others through one prophet or another; or he said the same things, differently expressed, through this prophet and that." (822)
 
 **Book XVIII, Chapter 44**: 
 

@@ -14,6 +14,7 @@ wishlist: 2023-11-20
 acquired: 2023-12-25
 started: 2024-03-13
 finished: 2024-03-24
+finishednotes: 2024-03-25
 ---
 # *[Going Infinite: The Rise and Fall of a New Tycoon](https://wwnorton.com/books/9781324074335)* by [[Michael Lewis]]
 

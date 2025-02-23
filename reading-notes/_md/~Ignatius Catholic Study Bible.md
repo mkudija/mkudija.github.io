@@ -26,7 +26,21 @@ dimensions: 7.5x10.25x2.625
 `(San Francisco: Ignatius Press, 2024), 2316`
 
 - "If you're Catholic, this is the study Bible you should be using as your primary study Bible." —Disciple Dojo [video](https://youtu.be/-bXvQqWDOfc?t=2525)
-- 
+
+
+## Introduction to the Ignatius Catholic Study Bible 
+*by [[Scott Hahn]]*
+
+## The Catholic Church and Sacred Scripture 
+*by [[Jeffrey L. Morrow]]*
+
+## The Catholic Canon of Scripture 
+*by [[Matthew J. Thomas]]*
+- ...
+- "[[St. Augustine|Augustine]] insists that both the original Hebrew texts and the Septuagint editions are authoritative, since it was the same Spirit who inspired both the prophets and the later translators." (32, cf. *[[2017-01-03-The City of God#^06deea]]*)
+
+## Overview of Salvation History 
+*by [[John Bergsma]]*
 
 --- 
 **Topic**: [[The Bible]]

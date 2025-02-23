@@ -52,7 +52,7 @@ _**Summary**: Construct a barbell portfolio to protect against both inflation an
 
 
 ## Chapter 6: The Mar-a-Lago Accord
-_**Summary**: Investible assets exclude home equity, business equity, and other illiquid or intangible assets, and you should allocate 10% to physical gold in safe, non-bank storage. Using an example portfolio of 10% gold, 30% cash, and 60% equities. In scenario 1, if gold declines 20% your overall portfolio decreases 2% and is offset by equity performance. In scenario 2, if equities decline 85% and gold gains 650% (predicted $10k/oz gold price),  you lose 50% on stock and gain 65% on gold and your wealth is preserved or increased, and the cash._
+_**Summary**: Investible assets exclude home equity, business equity, and other illiquid or intangible assets, and you should allocate 10% to physical gold in safe, non-bank storage. Using an example portfolio of 10% gold, 30% cash, and 60% equities. In scenario 1, if gold declines 20% your overall portfolio decreases 2% and is offset by equity performance. In scenario 2, if equities decline 85% and gold gains 650% (predicted $10k/oz gold price), you lose 50% on stock and gain 65% on gold and your wealth is preserved or increased._
 
 - Rickard's $10k/oz gold forecast: 
 	- US dollar vulnerable to collapse from printing and debt
@@ -138,4 +138,4 @@ Shiver ends *The Mandibles* with a revelation by the then oldest member of the f
 
 ---
 Created: [[2022-01-22-Sat]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

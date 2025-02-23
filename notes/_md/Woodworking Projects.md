@@ -18,6 +18,13 @@ publish: true
 # [[Woodworking]] Projects
 
 
+
+### 2025-02-17 [[Build Log-St. Michael Pedestal|Pedestal]]
+*Oak*
+
+<img src="https://github.com/mkudija/img/blob/main/2025-02-16_pedestal/2025-02-16-pedestal.jpg?raw=true" width="100%">
+
+
 ### 2024-08-18 [[Build Log-Paper Tray|Paper Tray]]
 *Walnut*
 

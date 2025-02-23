@@ -1,6 +1,6 @@
 ---
-aliases: [The Fiat Standard: The Debt Slavery Alternative to Human Civilization]
-title: The Fiat Standard: The Debt Slavery Alternative to Human Civilization
+aliases: [The Fiat Standard, The Fiat Standard—The Debt Slavery Alternative to Human Civilization]
+title: The Fiat Standard
 author: Saifedean Ammous
 category: Business & Economics
 publisher: Saif House
@@ -9,7 +9,14 @@ cover_url: http://books.google.com/books/content?id=8QC8zgEACAAJ&printsec=frontc
 publish_date: 2021-11-16
 isbn10: 1544526474
 isbn13: 9781544526478
+source: 
+wishlist: 
+acquired: 2021-12-15
+started: 2025-02-06
+finished: 
+finishednotes: 
 ---
+
 # *[The Fiat Standard: The Debt Slavery Alternative to Human Civilization]()* by [[Saifedean Ammous]]
 
 <img src="https://saifedean.com/wp-content/uploads/2022/08/TFS_rub-1536x1527.png" width=150>
@@ -265,14 +272,7 @@ _**Summary**: _
 
 **Source**: 
 * *[[2021-03-14-The Bitcoin Standard|The Bitcoin Standard]]*
-* [The Fiat Standard | Dr. Saifedean Ammous](https://saifedean.com/the-fiat-standard/)
-
-**Bibliography**
-
-```query
-[[bib]] file:(~The Fiat Standard The Debt Slavery Alternative to Human Civilization)
-```
- 
+* [The Fiat Standard | Dr. Saifedean Ammous](https://saifedean.com/the-fiat-standard/) 
 
 **[[New Words]]**
 
@@ -280,4 +280,4 @@ _**Summary**: _
 
 ---
 Created: [[2022-11-14-Mon]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

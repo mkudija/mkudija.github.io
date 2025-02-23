@@ -270,18 +270,18 @@ k --> m
 - Two statements are logically the same if they are **logically equivalent**.
 - Statements can be made equivalent through Obversion, Conversion, or Contraposition.
 - **Obversion**: 1) Change the quality of the sentence, 2) Negate the predicate 
-	- All S is P → No S is not P
-	- No S is P → All S is not P
-	- Some S is P → All S is not non-P
-	- Some S is not P → Some S is not P
+	- **A**: All S is P → No S is not P
+	- **E**: No S is P → All S is not P
+	- **I**: Some S is P → All S is not non-P
+	- **O**: Some S is not P → Some S is not P
 - **Conversion**: interchange the subject and predicate 
-	- No S is P → No P is S
-	- Some S is P → Some P is S
+	- **E**: No S is P → No P is S
+	- **I**: Some S is P → Some P is S
 	- Partial conversion of the A statement is done by interchanging the subject and predicate and changing the statement from universal to particular: All S are P → Some P are S
 	- *Conversion does not work with O statements and other A statements.*
 - **Contraposition**: 1) Obvert the statement, 2) Convert the statement, 3) Obvert the statement again 
-	- All S is P → All non-P is non-S
-	- Some S is not P → Some non-P is S
+	- **A**: All S is P → All non-P is non-S
+	- **O**: Some S is not P → Some non-P is S
 	- Only works with A and O statements.
 	- E statement can be partially converted.
 
@@ -293,8 +293,8 @@ k --> m
 - A **Syllogism** is a group of propositions in orderly sequence, one of which (the consequent) is said to be necessarily inferred from the others (the antecedent).
 	- A syllogism will always contain two premises and a conclusion.
 - **The Essential Law of Argumentation**: If the antecedent is true, the consequent must also be true.
-	- If the syllogism is valid and the consequent is false, then the antecedent must be false.
-	- In a valid syllogism with a true consequent, the antecedent is not necessarily true.
+	- Corollary 1: If the syllogism is valid and the consequent is false, then the antecedent must be false.
+	- Corollary 2: In a valid syllogism with a true consequent, the antecedent is not necessarily true.
 - Terms in a Syllogism:
 	- **Major Term**: predicate of the conclusion
 	- **Minor Term**: subject of the conclusion
@@ -304,7 +304,7 @@ k --> m
 	- **Minor Premise**: premise which contains the minor term
 - Principles of Syllogism:
 	- **The Principle of Reciprocal Identity**: Two terms that are identical with a third term are identical to each other.
-	- **The Principle of Reciprocal Non-Identity**: Two terms, one of which is identical with a third term and the other of which is nonidentical with that term ,are nonidentical to each other.
+	- **The Principle of Reciprocal Non-Identity**: Two terms, one of which is identical with a third term and the other of which is nonidentical with that term, are nonidentical to each other.
 	- **The Dictum de Omni**: What is affirmed universally of a certain term is affirmed of every term that comes under that term.
 	- **The Dictum de Nullo**: What is denied universally of a certain term is denied of every term that comes under that term.
 

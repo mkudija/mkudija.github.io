@@ -14,13 +14,13 @@ wishlist: 2023-10-14
 acquired: 2023-12-25
 started: 2024-01-14
 finished: 2024-11-24
-finshednotes: partial
+finishednotes: partial
 ---
 # *[The Word of the Lord: Reflections on the Sunday Mass Readings for Year B](https://stpaulcenter.com/product/the-word-of-the-lord-reflections-on-the-sunday-mass-readings-for-year-b/)* by [[John Bergsma]]
 
 <img src="https://stpaulcenter.com/wp-content/uploads/2021/01/WordLord-Cloth-cover-mockup-copy.jpg" width=150>
 
-`(New York: Emmaus Road Publishing, 2021), 544`
+`(Steubenville: Emmaus Road Publishing, 2021), 544`
 
 I read this and *[[~Breaking the Bread A Biblical Devotional for Catholics Year B|Scott Hahn's reflections]]*  on the lectionary this year to try to engage more with the Mass readings (alongside my initial attempt at a [[The Case for a Lectionary Bible|lectionary Bible]] ). I was not in the best routine of doing this every week: I have found that it's easier to be fully engaged in a single or couple of books, rather than having what feels like a commitment hanging over me that I need to attend to daily or weekly in addition to other reading. That said, Bergsma gives insightful and helpful commentary, and I both enjoyed and benefitted from this. I do not have Year C, but I have [[~Food for the Soul - Cycle C|Kreeft's Year C]], so I plan to try that out this year and see how they compare.
 

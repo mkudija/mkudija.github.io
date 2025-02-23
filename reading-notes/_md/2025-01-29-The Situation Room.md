@@ -14,7 +14,7 @@ wishlist: 2025-01-06
 acquired: 
 started: 2025-01-15
 finished: 2025-01-20
-finishednotes:
+finishednotes: 2025-01-29
 ---
 # *[The Situation Room](https://www.hachettebookgroup.com/titles/george-stephanopoulos/the-situation-room/9781538740767/)* by [[George Stephanopoulos]]
 

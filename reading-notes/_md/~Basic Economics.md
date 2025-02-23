@@ -13,7 +13,7 @@ wishlist: 2022-07-15
 acquired: 2024-02-21
 started: 2024-02-15
 finished: 2024-11-02
-finishednotes:
+finishednotes: partial
 ---
 # *[Basic Economics]()* by [[Thomas Sowell]]
 

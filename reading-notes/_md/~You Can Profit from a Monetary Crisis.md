@@ -3,7 +3,7 @@ aliases: [You Can Profit from a Monetary Crisis]
 title: You Can Profit from a Monetary Crisis
 author: Harry Browne
 category: Currency question
-publisher: New York : Macmillan Publishing Company
+publisher: Macmillan Publishing Company
 total_page: 416
 publish_date: 1974
 isbn10: 0025174606
@@ -20,20 +20,13 @@ finished:
 
 `(New York: Macmillan Publishing Company, 1974), 416`
 
-
+- "For the long term gold will reign. It has always been, and always will be (at least in our lifetimes), the best long-term store of value. Any [[Bitcoin|new money system]] that could truly work would take at least a century to replace gold. [[Gold]] is money. And that's what you need." (249)
 
 --- 
-**Topic**: 
+**Topic**: [[Economics]]
 
 **Source**
 - 
-
-**Bibliography**
-
-```query
-[[bib]] file:(~You Can Profit from a Monetary Crisis)
-```
- 
 
 **[[New Words]]**
 

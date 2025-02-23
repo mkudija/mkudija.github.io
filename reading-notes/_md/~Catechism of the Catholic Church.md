@@ -735,6 +735,10 @@ From the *Roman Catechism* [[bib]] (25):
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__PAE.HTM)
 
 
+---
+- Acquired Doubleday hardback is 2010 for Notre Dame theology class 
+- Acquired Libreria Editrice Vaticana hardback on [[2025-02-16-Sun]] from Half Price Books (includes 65-page  *Index of Citations*)
+
 --- 
 **Topic**: [[Catechism]]
 
