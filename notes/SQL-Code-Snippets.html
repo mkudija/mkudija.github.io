@@ -423,6 +423,12 @@ FROM
 
 <h3 id="percent-of-total">Percent of Total</h3>
 
+<pre><code>round(sum(payout_usd)) as payouts,
+round(sum(payout_usd) /  sum(sum(payout_usd)) over (),3) as pct_of_total,
+</code></pre>
+
+<p>or</p>
+
 <pre><code>earned_premium/SUM(earned_premium) OVER () as percent_of_total
 </code></pre>
 
@@ -437,7 +443,7 @@ FROM
 
 <h3 id="pivot-table">Pivot Table</h3>
 
-<p>You can pivot, but you need to manually specify the column values:</p>
+<p>You can pivot, but you need to manually specify the column names:</p>
 
 <pre><code>WITH pre AS (  
     SELECT state  
@@ -447,6 +453,11 @@ FROM
 )  
 SELECT *  
 FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30'));
+</code></pre>
+
+<p>You can use this snippet to get the column names:</p>
+
+<pre><code>select string_agg(concat("'",month,"'")) from (select distinct month from pre)
 </code></pre>
 
 <h3 id="most-recent-month-start-date-prior-month-start">Most Recent Month-Start Date (Prior Month Start)</h3>
@@ -742,7 +753,7 @@ order by 1,2
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2024-11-07-Thu</p>
+Updated: 2025-03-07-Fri</p>
 
 
 </div>

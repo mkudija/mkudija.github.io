@@ -30,9 +30,6 @@ finishednotes:
 - *[[2025-01-29-The Situation Room|The Situation Room]]*
 - [[Dad]] [[2025-02-11-Tue]]
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-12-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

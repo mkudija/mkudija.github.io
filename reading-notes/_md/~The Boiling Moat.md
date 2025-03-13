@@ -21,17 +21,18 @@ finishednotes:
 
 `(New York: Hoover Press, 2024-07-01), 233`
 
+### Foreword
+*by Larry Diamond*
+- China's aggression toward Taiwan is similar to Hilter's aggression toward Czechoslovakia before WWII, and we cannot repeat that appeasement. He suggests that the military fall of Taiwan would be the biggest shift in world power since the end of WWII, and argues that western powers much prepare for war to deter Xi.
 
+Deterrence by denial
 
 --- 
-**Topic**: 
+**Topic**: [[Taiwan]]
 
 **Source**
 - [[2025-02-21-Fri]] [WSJ email](https://mail.google.com/mail/u/1/#inbox/FMfcgzQZTMQSjWJLjVplSHBMmmHmPJfh)
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-21-Fri]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

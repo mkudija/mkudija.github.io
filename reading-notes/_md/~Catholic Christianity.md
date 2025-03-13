@@ -32,9 +32,6 @@ finishednotes:
 **Source**
 - Half Price Books [[2025-02-16-Sun]]
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-17-Mon]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

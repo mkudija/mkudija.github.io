@@ -206,11 +206,8 @@ _**Summary**: _
 **Topic**: [[Navy SEALs]]
 
 **Source**
-- *[[~Lone Survivor|Lone Survivor]]*
+- *[[2025-02-22-Lone Survivor|Lone Survivor]]*
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-20-Thu]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

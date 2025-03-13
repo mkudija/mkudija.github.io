@@ -12,7 +12,7 @@ Because I view reading the great books as a lifetime project, rather than identi
 
 Don't be afraid to jump and in read something that is difficult. Even if I only absorb a small percentage of a book, at least my mind is being saturated[^saturate] in something that is true, lovely, and excellent (cf. [[Phil-04#v8]])[^audio].
 
-[^saturate]: c.f. *[[~The Priest at Prayer#^13a81d|The Priest at Prayer]]*
+[^saturate]: c.f. *[[~The Priest at Prayer#^13a81d|The Priest at Prayer]]* and *[[~Spiritus Paraclitus#^87d7d5|Spiritus Paraclitus]]*
 
 [^audio]: This influences my decision making on listening to audiobooks. If my choice is between (a) not getting around to a great book that deserves the attention of a deep reading, or (b) listening to the audiobook version knowing that I'm not getting the full experience, I'll often choose (b), enjoy the brief exposure to truth, loveliness, and excellence, and resolve to return in the future.
 

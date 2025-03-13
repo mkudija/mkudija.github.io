@@ -1,5 +1,6 @@
 ---
-aliases: Sky High!
+aliases:
+  - Sky High!
 title: Sky High!
 author: Jacek Ambrozewski
 category: 
@@ -12,8 +13,8 @@ source:
 wishlist: 
 acquired: 2024-07-11
 started: 2024-07-11
-finished: 
-finishednotes:
+finished: 2025-01-05
+finishednotes: none
 ---
 # *[Sky High!]()* by [[Jacek Ambrozewski]]
 

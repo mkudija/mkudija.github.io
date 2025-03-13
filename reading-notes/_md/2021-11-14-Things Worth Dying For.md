@@ -67,12 +67,12 @@ finished: 2021-11-24
 - Sacrifice has sanctifying power, cf. the *[[Gettysburg Address]]*
 - *The Warriors: Reflections on Men in Battle* by J. Glenn Gray: our citizenship draws us beyond ourselves in a rightly ordered patriotism
 - This rightly ordered (and skeptical) patriotism is all the more important for Americans because our country is an artificial creation of men, a collection of people who otherwise would easily descend into our individual interests
-- [[John Paul II]] in *Memory and Identity* traces patriotism to the fourth commandment to honor our father and mother
+- [[John Paul II]] in *[[~Memory and Identity|Memory and Identity]]* traces patriotism to the fourth commandment to honor our father and mother
 
 
 ## Chapter 6: This Idea's a Killer
 **Summary**: Things worth living and dying for: ideas and ideologies
-- *We* by Yevgeny Zamyatin tells of a Soviet-style "One State" taken to the extreme where people have numbers rather than names. This influenced *[[~Brave New World]]*, *[[~1984]]*, and *[[~Animal Farm]]*
+- *We* by Yevgeny Zamyatin tells of a Soviet-style "One State" taken to the extreme where people have numbers rather than names. This influenced *[[~Brave New World|Brave New World]]*, *[[~1984|1984]]*, and *[[~Animal Farm|Animal Farm]]*
 - This is unfortunately a descendant not of the [[American Revolution]], but of the [[French Revolution]]: the former with biblical and common law roots anchored in the pragmatic realism needed to survive in a new land and biblical, while in the latter "instead of simply using the religion of the state for his own political ends (which had been bad enough), he proclaimed his own political ends to be the religion of the state (which was intolerable)." (cf. *The Church and Totalitarian Democracy* John Courtney Murray)
 	- [[Alexis de Tocqueville]] writes in *The Old Regime and the Revolution* how the [[French Revolution]] replaced the monarchy with a more absolute rule and created its own [[Secular Religion]]
 	- "The [[French Revolution]] opened the age of political religions." 'Salvation' is the fruit of human efforts in the present, and this led to [[Marxism]], [[Positivism]], and [[Gnosticism]]
@@ -92,7 +92,7 @@ finished: 2021-11-24
 	- As a result, social sciences are really a branch of moral philosophy (cf. [[Neil Postman]])
 	- [[Shulamith Firestone]] (radical [[Feminism|feminist]]) and [[Wilhelm Reich]] illustrate [[Why extreme ideas matter]]: they "embody the purest logic of an argument and signal it's end result, force the borders of acceptable discourse to extend, and make previously excessive views seem more reasonable" (155)
 	- [[Christopher Lasch]] in *Heaven in a Heartless World: The Family Besieged*: parental influence has declined in recent decades through the "medicalization of society" imposing on what happens in the home. This hints at a similar skepticism of "professional family experts" as that presented in *[[2021-11-16-Hunt, Gather, Parent]]*
-- [[John Paul II]] in *Redemptor Hominis*, *Familaris Consortio*, "Letter to Families", and "Letter to Children" distills some principles for family life:
+- [[John Paul II]] in *[[~Redemptor Hominis|Redemptor Hominis]]*, *[[~Familiaris Consortio|Familiaris Consortio]]*, "Letter to Families", and "Letter to Children" distills some principles for family life:
 	- *Actions speak louder than words*: personal witness shapes the world, and children see everything
 	- *Freedom is not license*: authentic freedom is the ability to know and choose what is *right*
 	- *Knowledge is a blessing but requires wisdom*: facts divorced from a moral framework become weapons
@@ -124,7 +124,7 @@ finished: 2021-11-24
 
 ## Afterword: On Friendship
 - Gilbert Meilaender shows how *agape* has displaced *philia*
-- Friendship through the eyes of both [[Aristotle]] (*[[~Nicomachean Ethics]]*) and [[C. S. Lewis]] (*[[2013-10-21-The Four Loves]]*) is focused, in its highest form, on *virtue* and *truth*
+- Friendship through the eyes of both [[Aristotle]] (*[[~Nicomachean Ethics|Nicomachean Ethics]]*) and [[C. S. Lewis]] (*[[2013-10-21-The Four Loves|The Four Loves]]*) is focused, in its highest form, on *virtue* and *truth*
 - "All great [[Marriage|marriages]] are first and finally friendships." (232)
 - D. C. Schindler: liberal modernity is "freedom from reality itself" (236-7)
 - [[Henri de Lubac]] reminds us though, that despite all our problems, friendship with God is what really matters: "It is not our mission to make truth triumph, but to testify for it." (238)

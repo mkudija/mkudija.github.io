@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - 2024 BIY
 title: 2024 BIY
 author: 
 category: 
@@ -16,7 +17,7 @@ finished: 2024-09-15
 finishednotes: 2024-09-18
 ---
 # 2024 Bible in a Year
-*started [[2024-06-06-Thu]], [[~Schuyler Quentel ESV with Apocrypha|Schuyler Quentel ESV with Apocrypha]]*
+*[[2024-06-06-Thu]] to [[2024-09-15-Sun]]: [[~Schuyler Quentel ESV with Apocrypha|Schuyler Quentel ESV with Apocrypha]]*
 [Reading Plan](https://cdn.shopify.com/s/files/1/1125/2740/files/the-official-365-day-reading-plan-for-the-bible-in-a-year_2.pdf?v=1611238365)
 
 ### Notes 
@@ -113,7 +114,7 @@ finishednotes: 2024-09-18
 
 ### Themes
 - The sanctity of marriage comes through in all the passages where Abram and then Isaac try to pass off their wives as their sister and the people they do this to are appalled because of the great sin it would have brought upon them.
-- Power of prayer 
+- [[Prayer and God's will|Power of prayer]]
 	- [[2024-06-06-Thu]]-![[Mt-21#v22]]
 	- [[2024-06-11-Tue]]-[[Jb-42#v8]]: "And my servant Job shall pray for you, for I will accept his prayer not to deal with you according to your folly."
 	- [[2024-06-13-Thu]]-Moses intercedes during the plagues in [[Ex-08#v13]], [[Ex-08#v30]], [[Ex-10#v18]]

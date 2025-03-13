@@ -29,9 +29,6 @@ finishednotes:
 **Source**
 - [[Dan Loesing]], [[~Catechism of the Catholic Church|CCC]] 403
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-07-Fri]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

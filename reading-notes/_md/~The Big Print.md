@@ -188,9 +188,6 @@ _**Summary**: _
 **Source**
 - [Email](https://mail.google.com/mail/u/1/#inbox/FMfcgzQZTCfCQzmpDjVRssptzJksHmJD)
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-13-Thu]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

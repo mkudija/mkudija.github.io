@@ -11,7 +11,7 @@ isbn10:
 isbn13: 
 source: 
 wishlist: 
-acquired: 
+acquired: 2025-03-06
 started: 
 finished:
 ---

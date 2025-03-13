@@ -36,9 +36,6 @@ finishednotes:
 **Source**
 - [[Amazon]] (search for Bitcoin)
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-07-Fri]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

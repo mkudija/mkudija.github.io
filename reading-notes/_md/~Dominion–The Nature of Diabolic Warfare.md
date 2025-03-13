@@ -30,9 +30,6 @@ finishednotes:
 **Source**
 - [[St. Patrick Church]] library
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-02-Sun]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

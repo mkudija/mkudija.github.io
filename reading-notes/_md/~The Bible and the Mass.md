@@ -29,7 +29,6 @@ finished:
 **The First Eucharistic Prayer**
 - Originated in Rome in the fourth century and came into its current form in the seventh century under [[St. Gregory the Great|Gregory the Great]]
 
-
 **The Second Eucharistic Prayer**
 - The most ancient of the four (and the shortest) 
 

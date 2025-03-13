@@ -153,9 +153,6 @@ _**Summary**: _
 * *[[2021-03-14-The Bitcoin Standard|The Bitcoin Standard]]*
 * *[[~The Gold Standard|The Fiat Standard]]*
 
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2025-02-09-Sun]]

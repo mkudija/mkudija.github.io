@@ -17,7 +17,7 @@ finished:
 translation: New Revised Standard Version
 dimensions: 7x9x1.5
 ---
-# *[Whirl Lectionary NRSV Bible]()* by [[Erin Gibbons]]
+# *[Whirl Lectionary NRSV Bible](https://www.wearesparkhouse.org/store/product/9781451484809/Whirl-Bible-NRSV-Paperback)* by [[Erin Gibbons]]
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FXE4AAOSwSXFeTdid%2Fs-l300.jpg&f=1&nofb=1&ipt=c14ea751a3a637ae20a9aee97ffe1962e5a6c14a806111c41454c58b0817d0f4&ipo=images" width=150>
 
@@ -36,20 +36,6 @@ dimensions: 7x9x1.5
 
 --- 
 **Topic**: [[The Bible]]
-
-**Source**
-- 
-
-**Bibliography**
-
-```query
-[[bib]] file:(~The Whirl Story Bible)
-```
- 
-
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2023-11-24-Fri]]

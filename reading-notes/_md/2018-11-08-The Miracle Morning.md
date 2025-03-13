@@ -26,7 +26,7 @@ Some other notes on his miracle morning:
   - *Think and Grow Rich* by Napoleon Hill
   - *Secrets of the Millionaire Mind* by T. Harv Eker
   - *Total Money Makeover* by Dave Ramsey
-  - *The Rhythm of Life* by Matthew Kelly
+  - *The Rhythm of Life* by [[Matthew Kelly]]
 
 
 ## Causes of Mediocrity

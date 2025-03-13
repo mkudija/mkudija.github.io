@@ -27,6 +27,9 @@ finished:
 ## First and Second Peter, Jude 
 - Discusses the status of [[1 Enoch]]: "By quoting Enoch Jude is not necessarily treating the book as canonical Scripture, but he is relating to it as a reliable and well-known witness that can be called upon to add to his accusation against the false teachers." (211, cf *[[2017-01-03-The City of God#Book XVII|City of God 18.38]]*)
 
+## [[~Romans (Catholic Commentary on Sacred Scripture)|Romans (Catholic Commentary on Sacred Scripture)]]
+
+
 ## *[[2024-05-26-CCSS-James, First, Second, and Third John]]*
 
 --- 

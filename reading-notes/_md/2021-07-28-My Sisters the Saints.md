@@ -98,17 +98,17 @@ finished: 2021-07-28
 - ***Autobiography*** by Saint Teresa of Ávila (15)
 - *[[~Confessions|Confessions]]* by Saint Augustine (17)
 - *Therese: A Life Of Therese Of Lisieux* by Dorothy Day (31)
-- *Memory and Identity* by John Paul II (68)
+- *[[~Memory and Identity|Memory and Identity]]* by John Paul II (68)
 - ***Diary: Divine Mercy in My Soul*** by Maria Faustina Kowalska (68)
 - *On the Dignity and Vocation of Women*, *Letter to Women*, and *The Gospel of Life* by John Paul II (102)
 - *Life in a Jewish Family* by Edith Stein (103)
 - ***Essays on Women*** by Edith Stein (105)
 - *Theology of the Body* by [[John Paul II]] (106)
-- ***The Collected Works of St. John of the Cross*** (139)
+- ***[[~The Collected Works of Saint John of the Cross|The Collected Works of Saint John of the Cross]]*** (139)
 - *Mother Teresa: Come Be My Light: The Private Writings of the Saint of Calcutta* (141)
 - *Daughter Zion* by [[Joseph Ratzinger|Pope Benedict XVI]] (189)
 
 
 ---
 Created: [[2021-07-28-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

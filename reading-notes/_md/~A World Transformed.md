@@ -29,9 +29,6 @@ finishednotes:
 **Source**
 - *[[2025-01-29-The Situation Room|The Situation Room]]*
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-01-29-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

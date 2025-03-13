@@ -109,7 +109,7 @@ _**Summary**: Trusting your children can alleviate fear and concern._
 
 
 --- 
-**Topic**: [[Parenting]], [[Technology]]
+**Topic**: [[Parenting]], [[Low-technology home]]
 
 **Source**
 - [[Jordan]]

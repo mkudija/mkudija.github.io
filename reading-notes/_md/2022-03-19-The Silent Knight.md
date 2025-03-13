@@ -167,7 +167,7 @@ _**Summary**: Lay people need to encourage artists by commissioning works for th
 - *History of Joseph the Carpenter* (15)
 - *Gospel of Pseudo-Matthew* (15)
 - *[[~The Power of Silence]]* by [[Robert Cardinal Sarah]] (44)
-- *Redemptoris Custos* by [[John Paul II]] (47)
+- *[[~Redemptoris Custos|Redemptoris Custos]]* by [[John Paul II]] (47)
 - *The Golden Legend* by Jacopo da Varagine (60)
 - *[[~The Divine Comedy]]* by [[Dante Alighieri]] (76, 146)
 - *Josephina* by Jean Gerson (87)

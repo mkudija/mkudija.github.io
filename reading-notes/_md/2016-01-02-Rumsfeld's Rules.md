@@ -1,5 +1,5 @@
 
-# Rumsfeld's Rules
+# *Rumsfeld's Rules* by [[Donald Rumsfeld]]
 
 
 * When at the bottom, learn from those at the top

@@ -106,6 +106,7 @@ publish: true
 - *[[~The Jesus Storybook Bible|The Jesus Storybook Bible]]*  
 - *The Tale of Three Trees* by Angela Elwell Hunt
 - *[[~The Magnificent Mischief of Tad Lincoln|The Magnificent Mischief of Tad Lincoln]]*
+- *[[2025-03-02-The Green Ember|The Green Ember]]*
 
 ## Books With Reading Lists
 - *A Landscape with Dragons* by Michael D. O'Brien
@@ -141,7 +142,7 @@ publish: true
 - [[2024-10-06-Sun]]: *[[~The Iliad (Graphic)|The Iliad (Graphic Novel Version)]]* by Gareth Hinds
 - [[2024-10-13-Sun]]: *[[~Catechism of the Seven Sacraments Building Blocks of Faith Series|Catechism of the Seven Sacraments (Lego)]]*
 - [[2024-11-09-Sat]]: *[[~The Odyssey (Graphic)|The Odyssey (Graphic Novel Version)]]* by Gareth Hinds
-- [[2025-01-05-Sun]]: *[[~Sky High!|Sky High! A Soaring History of Aviation]]* by Jacek Ambrozewski
+- [[2025-01-05-Sun]]: *[[~Sky High! A Soaring History of Aviation|Sky High! A Soaring History of Aviation]]* by Jacek Ambrozewski
 - [[2025-01-31-Fri]]: *[[2025-01-31-Charlie and the Great Glass Elevator|Charlie and the Great Glass Elevator]]*
 - [[2025-02-02-Sun]]: *[[~The Children's Book of Heroes|The Children's Book of Heroes]]*
 - In Progress:

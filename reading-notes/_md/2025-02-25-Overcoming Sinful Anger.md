@@ -14,7 +14,7 @@ wishlist: 2024-06-25
 acquired: 2024-06-25
 started: 2025-01-15
 finished: 2025-02-02
-finishednotes:
+finishednotes: 2025-02-25
 ---
 # *[Overcoming Sinful Anger](https://sophiainstitute.com/product/overcoming-sinful-anger/)* by [[Fr. T. Morrow ]]
 
@@ -24,19 +24,27 @@ finishednotes:
 
 <div class="note"> <p>When you feel the assaults of passion and anger, then is the time to be silent, as Jesus was silent in the midst of His ignominies and sufferings."<br>–St. Paul of the Cross</p> </div> 
 
-- started tentatively but did not continue yet [[2024-06-25-Tue]]
-
-
 # Notes
 
 <details>
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
+- [Chapter 1: Recognize Sinful Anger](#chapter-1-recognize-sinful-anger)
+- [Chapter 2: Understand the Causes of Angry Behavior](#chapter-2-understand-the-causes-of-angry-behavior)
+- [Chapter 3: Process Anger Rationally](#chapter-3-process-anger-rationally)
+- [Chapter 4: Learn to Forgive](#chapter-4-learn-to-forgive)
+- [Chapter 5: Heal Painful Memories](#chapter-5-heal-painful-memories)
+- [Chapter 6: Calm Marital Anger](#chapter-6-calm-marital-anger)
+- [Chapter 7: Turn Your Anger at God to Praise](#chapter-7-turn-your-anger-at-god-to-praise)
+- [Chapter 8: Learn to Overcome Your Habit of Anger](#chapter-8-learn-to-overcome-your-habit-of-anger)
+- [Chapter 9: Help Your Children Overcome Their Anger](#chapter-9-help-your-children-overcome-their-anger)
+- [Chapter 10: Summary](#chapter-10-summary)
+
 <!-- /MarkdownTOC -->
 </details>
 
-Scripture on Anger:
+### Scripture on Anger
 - [[Mt-05#v22]]: "Every one who is angry with his brother shall be liable to judgment." (6)
 - [[Gal-05#v19]]-21: "Now the works of the flesh are plain: immorality, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, **anger**, selfishness, dissension, party spirit, envy, drunkenness, carousing, and the like. I warn you, as I warned you before, that **those who do such things shall not inherit the kingdom of God**." (7)
 - [[Jas-01#v19]]-20: "Know this, my beloved brethren. Let every man be quick to hear, slow to speak, slow to anger, for the anger of man does not work the righteousness of God." (53)
@@ -107,23 +115,36 @@ Scripture on Anger:
 	- [[St. Paul of the Cross]] wrote, "When you feel the assaults of passion and anger, then is the time to be silent, as Jesus was silent in the midst of His ignominies and sufferings." Maintaining silence when one is angry is a good idea for both husbands and wives, but especially for wives. (53)
 
 ## Chapter 7: Turn Your Anger at God to Praise
-_**Summary**: _
-
+- God does not want terrible things to happen to us, but in his permissive (or reluctant) will he allows them at times. (55)
+- Suffering is always related to some sin in the world. (56)
+- Think of the psalms of lament: the psalmist complains but ends by praising God. (58)
+- If we spent each day thanking God, we would hardly be able to get angry at him. (58)
+- Say the [Prayer of Thanks](https://catholicexchange.com/turn-your-anger-at-god-to-praise/) (59)
+- "Thy will be done"—That is the sure way to happiness. This belief is an essential part of our Christian faith. (60)
+- Avoid getting angry at God by praising him for everything: "We know that in everything God works for good with those who love him, who are called according to his purpose." -[[Rom-08#v28]]
+- To praise God for even the apparently bad things that happen is to trust him, and God loves trust. (62)
 
 
 ## Chapter 8: Learn to Overcome Your Habit of Anger
-_**Summary**: _
-
+- Read about the saints to build an antidote to anger: [[St. Francis de Sales]], [[St. Thérèse of Lisieux]], [[St. Vincent de Paul]], [[St. Jerome]], [[Blessed John Columbini]]
+- [[Spiritual Disciplines]] to fight anger: meditation on the Passion, biweekly confession, daily mass (68)
+- [[St. Francis de Sales]]: "When there is nothing to stir your wrath, lay up a store of meekness and kindliness." (69, cf. *[[~Philothea; Or an Introduction to the Devout Life|Introduction to the Devout Life]]*)
+- Prepare for battle: identify times whe nyou are liable to get andry and map out how you are going to respond. (71)
 
 
 ## Chapter 9: Help Your Children Overcome Their Anger
-_**Summary**: _
-
+- This section from *[[~The Angry Child|The Angry Child]]*
+- Stay calm, don't shout, always respect your child. (83)
+- "It's ok to be angry, but it's never ok to be mean." (84)
+- "Don't teach your children never to be angry; teach them how to be angry." (84)
+- As a parent always apologize if you do something wrong and always be ready to forgive. (84)
+- Stress often leads to anger: "If a family wants less anger, they must schedule more family time and fewer outside activities and distractions." (88)
+- "An angry family is one in which the parents set the awful example of being angry much of the time. They teach their kids by their example that anger brings power." (89)
+- "Some parents are not so sure about all these rewards. They want their children to behave well because it's the right thing to do. However, the reward and punishment approach just anticipates how the world will treat them, and how it is in life generally. You do evil, you lose out. You do good, you receive rewards. It's that way at work, with friends, with spouses, with everyone. In time, kids come to realize that life is better if they behave well, and they see the intrinsic value of doing so, but many kids, probably most kids, begin with rewards and punishments." (92-93)
 
 
 ## Chapter 10: Summary
-_**Summary**: _
-
+- "Overcoming anger should be a paramount change we should strive for as Christians." (100)
 
 --- 
 **Topic**: Anger

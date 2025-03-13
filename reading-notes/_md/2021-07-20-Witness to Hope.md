@@ -340,7 +340,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 
 ## Chapter 19: Only One World
 *Human Solidarity and the Gospel of Life*
-- *Tertio Millennio Adveniente*  for the new Millennium (743)
+- *[[~Tertio Millennio Adveniente|Tertio Millennio Adveniente]]*  for the new Millennium (743)
 	- The Incarnation showed the world the face of God the Father and the true face of humanity. The Incarnation of Christ is the axial point of human history (cf. [[2021-06-22-Antonin Scalia On Faith]] 49) (743)
 - *Evangelium Vitae* against the "culture of death" (756)
 	- [[Joseph Ratzinger]] lecture: "If moral relativism was legally absolutized in the name of tolerance, basic rights were also relativized and the door was open to totalitarianism." (756)
@@ -420,7 +420,7 @@ Encyclicals & Apostolic Exhortations of John Paul II:
 - *Redemptoris Missio* (634)
 - *Pastores Dabo Vobis* (654)
 - *Veritas Splendor* (686)
-- *Tertio Millennio Adveniente* (743)
+- *[[~Tertio Millennio Adveniente|Tertio Millennio Adveniente]]* (743)
 - *Evangelium Vitae* (756)
 - *Ut Unum Sint* (760)
 - ***Dies Domini*** (836)

@@ -24,22 +24,12 @@ finished:
 
 
 --- 
-**Topic**: 
+**Topic**: [[The Bible]], [[Bible Commentary]]
 
 **Source**
 - ND 2013/2014 
 - *[[2023-11-10-Bible Basics for Catholics|Bible Basics for Catholics]]*
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Understanding the Scriptures)
-```
  
-
-**[[New Words]]**
-
-- 
 
 ---
 Created: [[2023-11-10-Fri]]

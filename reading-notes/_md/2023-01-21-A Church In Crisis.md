@@ -165,9 +165,9 @@ _**Summary**: **[[Universalism]]** is the belief that all or almost all will be 
 - [[Karl Rahner]]: implies that most non-Christians are "anonymous Christians" (75)
 - [[Hans Urs von Balthasar]]: popularized the theory that we are obligated to hope for the salvation of all people (75)
 	- [ ] #read Martin's chapter on [[Hans Urs von Balthasar|von Balthasar]] in *[[~Will Many Be Saved?|Will Many Be Saved?]]* 
-	- "While Balthasar's hope for universal salvation is perhaps logically possible, it is so only in the sense that it is logically possible that a major league baseball team would win every one of its games in any season...it is 'infinitely improbably'" (86)
+	- "While Balthasar's hope for universal salvation is perhaps logically possible, it is so only in the sense that it is logically possible that a major league baseball team would win every one of its games in any season...it is 'infinitely improbable'" (86)
 - [[David Bentley Hart]]: "I can't accept a God that who would send anyone to hell" (76, cf. *[[~That All Shall Be Saved|That All Shall Be Saved]]* [[bib]])
-	- In response to this, see "[[2023-01-17 The Opiate of Theologians|The Opiate of Theologians]]" by [[Michael McClymond]] and "[[2023-01-17 Theological Fraud|Theological Fraud]] by Michael Pakaluk in [[First Things]]
+	- In response to this, see "[[2023-01-17 The Opiate of Theologians|The Opiate of Theologians]]" by [[Michael McClymond]] and "[[2023-01-17 Theological Fraud|Theological Fraud]]" by [[Michael Pakaluk]] in [[First Things]]
 	- In contrast, see [[Michael McClymond]]'s definitive two-volume history of [[Universalism]]: *[[~The Devil's Redemption|The Devil's Redemption]]* [[bib]]
 - What Jesus said is clear, and quite shocking at times (cf. *[[2013-12-05-Jesus Shock|Jesus Shock]]* [[bib]]): 
 	- "Enter by the narrow gate; for the gate is wide and the way is easy, that leads to destruction, and those who enter by it are many." ([[Mt-07#v13]])

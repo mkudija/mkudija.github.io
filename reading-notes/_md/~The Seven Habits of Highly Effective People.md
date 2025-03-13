@@ -29,9 +29,6 @@ finishednotes:
 **Source**
 - [[Dad]] [[2025-02-11-Tue]]: "This is an older book that I'm sure can benefit any of us. I'm sure Matthew has read it as it was the basis for nylt when he took it. This is read by the author with a lot of additional information for the 35th anniversary of publication."
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-12-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

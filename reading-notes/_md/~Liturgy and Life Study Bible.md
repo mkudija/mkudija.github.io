@@ -32,9 +32,6 @@ dimensions: 6.75x9.125x2.125
 **Source**
 - [Photos of the Complete Ignatius Study Bible – Catholic Bible Talk](https://catholicbibletalk.com/2024/09/photos-of-the-complete-ignatius-study-bible/) comments
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2024-09-16-Mon]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -138,7 +138,7 @@ finished: 2021-12-02
 
 
 ## Chapter 15: The Fear of Death
-- "Christ's death and resurrection are the central facts not just of Christianity but of all human history." (152, cf. *[[2021-06-22-Antonin Scalia On Faith#^f18981]]*)
+- "[[Christ is the center of history|Christ's death and resurrection]] are the central facts not just of Christianity but of all human history." (152)
 
 
 

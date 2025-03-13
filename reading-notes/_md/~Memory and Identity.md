@@ -9,6 +9,12 @@ cover_url: https://books.google.com/books/content?id=jrvwOMLL4DUC&printsec=front
 publish_date: 2012
 isbn10: 1780225695
 isbn13: 9781780225692
+source: 
+wishlist: 2022-08-28
+acquired:
+started: 
+finished: 
+finishednotes:
 ---
 # *[Memory and Identity]()* by [[John Paul II]]
 
@@ -19,24 +25,11 @@ isbn13: 9781780225692
 
 
 --- 
-#wishlist
 **Topic**: 
 
 **Source**
 - 
 
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Memory and Identity)
-```
- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-08-28-Sun]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

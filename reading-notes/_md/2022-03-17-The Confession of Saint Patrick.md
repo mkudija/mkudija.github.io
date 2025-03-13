@@ -27,7 +27,7 @@ finished: 2022-03-17
 - Patrick's *Confession* shares parallels with other "prison" experiences by saints: [[St. Francis of Assisi]], [[St. John of the Cross]] in his *Spiritual Canticle* (cf. the *[[2017-11-01-The Vanishing American Adult#Chapter 8 Build a Bookshelf|The Vanishing American Adult]]* talking about prison literature)
 - Patrick's *Confession* is marked by its deep Trinitarian faith and sense of mission
 - [[Breastplate of St. Patrick]]
-- "Patrick's *Confessio* is saturated with the presence of Christ who is present in the world in an almost palpable fashion." (25)
+- "Patrick's *Confession* is saturated with the presence of Christ who is present in the world in an almost palpable fashion." (25)
 - "To be a Catholic Christian is not only a matter of adhering to a creed. It is, rather , to enter into a story that is both retold in the proclamation of the gospel and reenacted in those rituals we call sacraments." (26)
 
 ## Translator's Introduction

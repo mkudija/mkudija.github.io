@@ -347,6 +347,13 @@ Display the `%` symbol:
 
 ### Percent of Total
 ```SQL
+round(sum(payout_usd)) as payouts,
+round(sum(payout_usd) /  sum(sum(payout_usd)) over (),3) as pct_of_total,
+```
+
+or
+
+```SQL
 earned_premium/SUM(earned_premium) OVER () as percent_of_total
 ```
 
@@ -360,7 +367,7 @@ RATIO_TO_REPORT(earned_premium) OVER () AS percent_of_total
 If you run the query with `EXPLAIN` on top it will give you the query plan and how costly each step is.
 
 ### Pivot Table
-You can pivot, but you need to manually specify the column values:
+You can pivot, but you need to manually specify the column names:
 ```SQL
 WITH pre AS (  
     SELECT state  
@@ -370,6 +377,11 @@ WITH pre AS (
 )  
 SELECT *  
 FROM pre PIVOT(SUM(amount) FOR MONTH IN ('2022-02-28','2022-03-30','2022-04-30'));
+```
+
+You can use this snippet to get the column names:
+```sql
+select string_agg(concat("'",month,"'")) from (select distinct month from pre)
 ```
 
 ### Most Recent Month-Start Date (Prior Month Start)

@@ -1,43 +1,78 @@
 ---
-aliases: [Roman Pilgrimage]
+aliases:
+  - Roman Pilgrimage
 title: Roman Pilgrimage
 author: George Weigel
 category: Religion
 publisher: Constellation
 total_page: 466
 publish_date: 2013-10-29
-isbn10: 0465027695
+isbn10: 465027695
 isbn13: 9780465027699
 source: 
 wishlist: 2023-09-15
 acquired: 
-started: 
-finished: 
+started: 2025-02-23
+finished:
+finishednotes: 
 ---
-# *[Roman Pilgrimage]()* by [[George Weigel]]
+# *[Roman Pilgrimage](https://www.hachettebookgroup.com/titles/george-weigel/roman-pilgrimage/9780465027699/?lens=basic-books)* by [[George Weigel]]
 
-<img src="http://books.google.com/books/content?id=bSLTDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780465027699.jpg?resize=1213,1536" width=150>
 
-`(New York: Constellation, 2013-10-29), 466`
+`(New York: Basic Books, 2013), 466`
 
+
+### The Station Churches of Rome 
+- Christianity adopted the religious practice of pilgrimage from its Jewish parents. (3) 
+- The pilgrimage tradition in Rome began with visiting the tombs of the martyrs. The Lenten [[Fasting|fast]] in those days was all day until after work and mass. The Lenten pilgrimage was largely fixed by [[St. Gregory the Great]]. (4-5)
+- The lectionary developed side-by-side with the churches chosen for particular days of pilgrimage. (7)
+- Even when the practice of the station churches died out with the relocation of the papacy to Avignon, the memory lived on in the liturgy. (7)
+- The tradition of the station church was restored slowly in the 20th century (8), and gained momentum recently by anglophone seminarians at the Pontifical North American College (9).
+- "Along the pathways of the station church pilgrimage, the twenty-first-century pilgrim passes through multiple layers of the history of Western civilization and has the opportunity to ponder the rise and fall of empires...It can be a deeply moving reminder of the fragility of civilization as well as of the richness of regenerative powers embedded in the West." (9-10)
+- "The station church pilgrimage is an itinerary of conversion, and extended retreat: seven and a half weeks of reflection that synthesize the truths of Christian faith and offer pilgrims an opportunity to reflect on how well those truths have been integrated along the pathways of their lives." (10)
+- "Making the station church pilgrimage is also a marvelous way to discover the many faces of [[Travel-Rome|Rome]]." (10)
+- [[Travel-Rome|Rome]]: "The gemlike mosaics in the small Chapel of St. Zeno, in the completely out-of-the-way *satio* at St. Praxedes on the Esquiline, make this small space one of the most beautiful rooms on the planet." (12)
+- [[Travel-Rome|Rome]]: "The *statio* at St. Augustine houses [[~Caravaggio|Caravaggio]]'s *Madonna of the Pilgrims*, one of the most strikingly earthy of his renderings of the Mother of God." (12)
+
+## Lent: An Itinerary of Conversion
+- "The rediscovery of the baptismal character of Lent, the ancient penitential season that precedes Easter, and the restoration of the Paschal Triduum—Holy Thursday, Good Friday, and the Easter Vigil—as the apex of the Church's liturgical year are two of the most important accomplishments of modern Catholicism." (17)
+- Lent should be less about what *not* to do, and more a season focused on conversion to Jesus Christ and the deepening of friendship with him. (17)
+- "The adult catechumenate offers an annual reminder to the Church that *all* Christians are *always* in need of conversion...To make the pilgrimage of lent is to follow an itinerary of conversion." (18)
+- "As the liturgical readings of Lent insistently press home, biblical religion is about God's search for us and our learning to take the same path through history that God is taking: to follow the itinerary of conversion and salvation that God has marked out." (19)
+- The 40 days of Lent remind us of the three paradigmatic forty-day periods of fasting and prayer in the Bible (20-21):
+	- Moses preparing to receive the Ten Commandments 
+	- Elijah fasting at Horeb prior to hearing the still, small voice
+	- Jesus preparing for his temptation 
+- The first two weeks of Lent are *penitential* in nature, which shifts to a *baptismal* focus on deeper imitation of Christ (22)
+
+## Text Notes 
+- "Catholicism is realism. Catholicism means seeing things as they are." (29, cf. [[Carolyn Gordon Tate]], [[Flannery O'Connor]])
+- "The Exodus is *the* paradigm of redemption...[[Progress & History|History]], like Israel in the desert, has a destination: eternal life with God, in the Wedding Feast of the Lamb." (36)
+- Justice divorced from charity is cold and impersonal, "whom you would change, you must first love" (43, cf. Martin Luther King Jr.)
+- "[[St. Monica]] never ceased praying that her supremely gifted son would, in his brilliance, come to know the God of the Bible, who is the Truth that makes all other truths make sense." (49)
+- "Sunday: the day on which the Church marks [[Christ is the center of history|history's axial point]], the Resurrection of the Lord." (55)
+- "Peter's chains invite a reflection on a deeper form of binding: obedience to the will of God for our lives." (62)
+- [[Universal call to holiness]]: "The true alternative to slavery, in its spiritual forms, is sanctity." (64)
+- The [[Our Father]]: "Christian prayer consists in acknowledging divine providence and then asking that our wills be conformed to the divine will." (68)
+- 
+
+## Pilgrimage Church Notes
+*[[Travel-Rome]]*
+- **St. Sabina** (Aventine hill): First station church, doors are original (420s) and the upper left panel is the oldest image of the crucifixion, Dominican church where both Dominic and Thomas lived.
+- **St. George** (Velambro): 2nd station church, apse by Cavallini, relic of St. George's head
+- **Sts. John and Paul** (Caelian Hill): on the site of the home and martyrdom of the brother knights, also the site of the relics of eleven martyrs from Carthage killed in 180 after refusing to hand over one of St. Paul's letters 
+- **St. John Lateran**: "Mother and Head of All the Churches in the City and the World" 
+- **St. Peter in Chains**: contains the tomb of Pope Julius II with Michelangelo's *Moses*
+- **St. Anastasia**: this was Jerome's church, and it has a side altar to the left that was his, along with a chalice; it was a sanctuary for 700,000 consecrated hosts during World Youth Day 2000, and was the first church in Rome to have perpetual adoration in 2001
+- 
 
 
 --- 
-**Topic**: 
+**Topic**: [[Lent]]
 
 **Source**
-- [[UA Library]]
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Roman Pilgrimage)
-```
- 
-
-**[[New Words]]**
-
-- 
+- [[UA Library]] 
 
 ---
 Created: [[2023-09-15-Fri]]

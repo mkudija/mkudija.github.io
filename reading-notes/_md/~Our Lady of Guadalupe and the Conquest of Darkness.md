@@ -29,9 +29,6 @@ finishednotes:
 **Source**
 - [[Peter Kreeft]] [[2025-02-04-Peter Kreeft Discusses “Why We’re Not Saving Western Civilization”]] [min 39](https://youtu.be/siXMRhRfoyw?t=2357)
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-04-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

@@ -1536,6 +1536,7 @@ Christian Church. The Vision of God.*
 
 * References
     * Strangers in a Strange Land by Chaput, 12-16
+    * "Foundational book" for [[Dana Gioia]] ([link](https://youtu.be/XvfLmbHkBV4?t=9257))
  * Prepare for reading:
 	 * >Read the first book of Livy's History of Rome. Or read Gerard O'Daly's Readers Guide to City of God. Or just get a head start! ([Twitter](https://twitter.com/ccpecknold/status/800076033999257600))
 * Book I

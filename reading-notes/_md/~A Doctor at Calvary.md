@@ -1,5 +1,6 @@
 ---
-aliases: [A Doctor at Calvary]
+aliases:
+  - A Doctor at Calvary
 title: A Doctor at Calvary
 author: Dr. Pierre Barbet
 category: Religion
@@ -10,11 +11,11 @@ isbn10: 1787209644
 isbn13: 9781787209640
 source: 
 wishlist: 2023-04-07
-acquired: 
+acquired: 2025-03-04
 started: 
-finished: 
+finished:
 ---
-# *[A Doctor at Calvary]()* by [[Dr. Pierre Barbet]]
+# *[A Doctor at Calvary: The Passion of Our Lord Jesus Christ as Described by a Surgeon]()* by [[Dr. Pierre Barbet]]
 
 <img src="http://books.google.com/books/content?id=HTxODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
@@ -23,21 +24,11 @@ finished:
 
 
 --- 
-**Topic**: 
+**Topic**: Crucifixion
 
 **Source**
 - [The GRUESOME Details of the Crucifixion of Jesus w/ Fr. Andrew Dalton LC - YouTube](https://www.youtube.com/watch?v=--kS2cZaDQQ)
-
-**Bibliography**
-
-```query
-[[bib]] file:(~A Doctor at Calvary)
-```
- 
-
-**[[New Words]]**
-
-- 
+- [[2025-03-04-Tue]] [[Scott Hahn]] introduction to [[2025-03-04 The Seven Last Words]]
 
 ---
 Created: [[2023-04-13-Thu]]

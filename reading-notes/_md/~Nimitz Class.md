@@ -14,7 +14,7 @@ wishlist: 2025-02-18
 acquired: 
 started: 2025-02-15
 finished: 2025-02-18
-finishednotes:
+finishednotes: none
 ---
 # *[Nimitz Class]()* by [[Patrick Robinson]]
 
@@ -28,11 +28,8 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- *[[~Lone Survivor|Lone Survivor]]*
+- *[[2025-02-22-Lone Survivor|Lone Survivor]]*
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-18-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

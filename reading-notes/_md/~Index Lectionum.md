@@ -30,9 +30,6 @@ finishednotes:
 **Source**
 - 
  
-**[[New Words]]**
-- 
-
 ---
 Created: [[2025-02-11-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
