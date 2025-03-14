@@ -9,19 +9,19 @@ At the top of my Bible wishlist is a Lectionary Bible: a portable Bible annotate
 
 #### Why a Lectionary Bible
 
-The Bible and the Liturgy are intimately connected. We must resist the temptation to view them separately, and further seek to understand and live them together.
+The Bible and the liturgy are intimately connected. We must resist the temptation to view them separately, and further seek to understand and live them together.
 
-The Liturgy is the natural habitat of the Bible. And the Liturgy is where the Tradition of interpreting the scriptures lives. The Bible forms most of the words of the Liturgy, and the Bible itself (the canon of scripture) grew out of what is read in the Liturgy. We simply cannot have one without the other[^ls1].
+The liturgy is the natural habitat of the Bible. And the liturgy is where the tradition of interpreting the scriptures lives. The Bible forms most of the words of the liturgy, and the Bible itself (the canon of scripture) grew out of what is read in the liturgy. We simply cannot have one without the other[^ls1].
 
 [^ls1]: We can say along with Scott Hahn:  "I hope to demonstrate the living relationship between scripture and liturgy, and how this relationship enables both, together, to draw believers, as active participants, into the divine drama of salvation history." (*[[~Letter and Spirit|Letter and Spirit]]*, 12)
 
-The Lectionary Bible is an aid to *living* the Bible and the Liturgy together. At its core, it is a Bible just like any other Bible. In addition to the Biblical text, annotations in the side margins indicate which readings make up the Lectionary to visually indicate the relationship between the two. 
+The Lectionary Bible is an aid to *living* the Bible and the liturgy together. At its core, it is a Bible just like any other Bible. In addition to the Biblical text, annotations in the side margins indicate which readings make up the Lectionary to visually indicate the relationship between the two. 
 
 #### Using the Lectionary Bible
 
-The Lectionary Bible facilitates what you could call a "two-way reading" of scripture. This means first celebrating the Liturgy with a greater awareness of the big picture of the Bible, and second, engaging in personal study of Scripture with the Liturgy in mind. 
+The Lectionary Bible facilitates what you could call a "two-way reading" of scripture. This means first celebrating the liturgy with a greater awareness of the big picture of the Bible, and second, engaging in personal study of scripture with the liturgy in mind. 
 
-The Lectionary itself—or and any missal one might ordinarily use at Mass—places the readings for the day next to each other. This is convenient, but at the cost of isolating the readings from their context. Reading the Lectionary from a full Bible gives one perspective and builds a sense of the "content and unity of the whole of Scripture"[^dv12]. The Lectionary Bible is your companion at daily Mass to help you live the Liturgy from the Bible.
+The Lectionary itself—or and any missal one might ordinarily use at Mass—places the readings for the day next to each other. This is convenient, but at the cost of isolating the readings from their context. Reading the Lectionary from a full Bible gives one perspective and builds a sense of the "content and unity of the whole of Scripture"[^dv12]. The Lectionary Bible is your companion at daily Mass to help you live the liturgy from the Bible.
 
 [^dv12]: "Since Holy Scripture must be read and interpreted in the sacred spirit in which it was written, no less serious attention must be given to the *content and unity of the whole of Scripture* if the meaning of the sacred texts is to be correctly worked out." (*[[2022-12-03-Dei Verbum|DV]] 12*)
 
@@ -30,9 +30,9 @@ In the other direction, when studying the Bible it is instructive to be aware of
 [^ls2]: "The liturgy, likewise, proclaims the scriptures even as it interprets and actualizes them." (*[[~Letter and Spirit|Letter and Spirit]], 34*)
 #### Design of the Lectionary Bible 
 
-I first looked for an existing lectionary Bible, and the closest design I have been able to find is the *[[~Whirl Lectionary NRSV Bible|Whirl Lectionary NRSV Bible]]*. This Bible is designed for the third through sixth grade Whirl Sunday school curriculum and published by Sparkhouse, a ministry of the Evangelical Lutheran Church in America. Every reading in the [Revised Common Lectionary](https://en.wikipedia.org/wiki/Revised_Common_Lectionary), a version of the Vatican II lectionary adapted by many Protestant denominations, is highlighted in this Bible using different colors corresponding to the liturgical season. Up to two different overlapping readings can be annotated with this design by applying a gradient to the background shading, as in John 16:12-15 in the photo.
+I first looked for an existing lectionary Bible, and the closest design I have been able to find is the *[[~Whirl Lectionary NRSV Bible|Whirl Lectionary NRSV Bible]]*. This Bible is designed for the third through sixth grade Whirl Sunday school curriculum and published by Sparkhouse, a ministry of the Evangelical Lutheran Church in America. Every reading in the [Revised Common Lectionary](https://en.wikipedia.org/wiki/Revised_Common_Lectionary), a version of the Vatican II Lectionary adapted by many Protestant denominations, is highlighted in this Bible using different colors corresponding to the liturgical season. Up to two different overlapping readings can be annotated with this design by applying a gradient to the background shading, as in John 16:12-15 in the photo.
 
-Despite its shortcomings—in addition to not being the Catholic lectionary, it is by no means a portable or sturdy Bible you would regularly bring to Mass—this Bible was helpful for thinking through the design of a Lectionary Bible.
+Despite its shortcomings—in addition to not being the Catholic Lectionary, it is by no means a portable or sturdy Bible you would regularly bring to Mass—this Bible was helpful for thinking through the design of a Lectionary Bible, and I prefer the shading of the text if it could be designed in a way to accommodate the full Lectionary.
 
 <img src="https://github.com/mkudija/img/blob/main/2025-03-05_lectionary-Bible/whirl-5.png?raw=true" width="100%">
 <center><strong>Whirl Lectionary NRSV Bible</strong>: The Revised Common Lectionary is highlighted using different colors corresponding to the liturgical season.</center>
@@ -52,14 +52,14 @@ My first prototype of the Lectionary Bible consisted of marginal annotations in 
 <center><strong>Prototype Lectionary Bible</strong>: Annotations in the Compact Ignatius Catholic Bible</center>
 
 
-A second prototype digitizes this idea of annotating the lectionary in the outer margins of the text to visually indicate passages that are proclaimed in the Mass. Colors in this version correspond to the Lectionary cycle: A/B/C for Sundays, Feasts, and Weekdays. Alternatively they could be colored by liturgical season. 
+A second prototype digitizes this idea of annotating the Lectionary in the outer margins of the text to visually indicate passages that are proclaimed in the Mass. Colors in this version correspond to the Lectionary cycle: A/B/C for Sundays, Feasts, and Weekdays. Alternatively they could be colored by liturgical season. 
 
-Luke 1 is a useful "high-density" text that is proclaimed frequently in the Lectionary. This design demonstrates the ability to clearly indicate overlapping readings used in multiple locations in the Lectionary.
+Luke 1 is a useful "high-density" text that is proclaimed frequently in the Lectionary. This design demonstrates the ability to clearly indicate overlapping readings used in multiple locations in the Lectionary. Alternatively, a creative graphic designer could likely produce a design that uses shaded text like the *Whirl Bible* rather than sidebars while still displaying the full Letionary.
 
 <img src="https://github.com/mkudija/img/blob/main/2025-03-05_lectionary-Bible/lectionary-bible-prototype-2.png?raw=true" width="100%">
 <center><strong>Prototype Lectionary Bible Design</strong>: Color-coded side bars indicate the passages in the Lectionary.</center>
 
-Further design elements to enable the intended purpose of the Lectionary Bible of *living* the connection between the Liturgy and Scripture include:
+Further design elements to enable the intended purpose of the Lectionary Bible of *living* the connection between the liturgy and scripture include:
 - **Portable**: Dimensions not to exceed a compact Bible or typical breviary or missal, approximately 5" by 7" and not more than 2" thick (these are the approximate dimensions of *[[Liturgy of the Hours|Liturgy of the Hours, Volume II]]*, and the same footprint as the *[[~Ignatius Catholic Bible|Compact Ignatius Catholic Bible]]* which has a thickness of about 1.25").
 - **Durable**: Smyth sewn binding, hardcover or zipper cover, durable paper—this is the Bible you bring to Mass with you every day.
 - **Navigable**: Includes a detailed table of Lectionary readings and 4 ribbons to mark the First Reading, Psalm, Second Reading (on Sundays and Feasts), and Gospel for the day. Also printed tabs for each book of the Bible to navigate directly from the outside (similar to *[[~The Great Adventure Catholic Bible|The Great Adventure Bible]]*).

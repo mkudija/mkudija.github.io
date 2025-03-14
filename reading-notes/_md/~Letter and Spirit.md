@@ -87,8 +87,14 @@ _**Summary**: The bond between scripture and liturgy is the *covenant*._
 
 
 ## Chapter 5: "In Your Hearing": Liturgical Proclamation of the Word
-_**Summary**: _
-
+_**Summary**: Scripture is the announcement of the Word of God; liturgy is its actualization._
+- [[Lk-04#v16]]: Jesus announced his mission in the midst of the liturgy, something was *actualized* in the liturgical proclamation: "this scripture has been fulfilled *in your hearing*" (73)
+- Biblical religion has always required the proclamation of God's word within the assembly of God's people: "Faith comes from what is heard." (73-74 cf [[Rom-10#v17]])
+- "The church publicly proclaims the scriptures in the liturgy because they are the documents of the covenant, which is solemnly renewed in the ritual worship of God's people." (80)
+- "Scripture conveys the divine word in a way that is analogous to sacramental efficacy..Scripture's authority is thus an extension of Christ's own authority." (81)
+- [[Origen]]: "Why do you think there is less guilt to have neglected God's word than to have neglected his body?" 
+- "Paulinus tells us that, in the fourth century, every Tabernacle had two compartments—one for the Eucharist, and another for the Bible, since each is, in its own way, the supernatural food of our souls." (190)
+- 
 
 
 ## Chapter 6: The Persistence of Memory: Anamnesis and Actualization
