@@ -94,32 +94,53 @@ _**Summary**: Scripture is the announcement of the Word of God; liturgy is its a
 - "Scripture conveys the divine word in a way that is analogous to sacramental efficacy..Scripture's authority is thus an extension of Christ's own authority." (81)
 - [[Origen]]: "Why do you think there is less guilt to have neglected God's word than to have neglected his body?" 
 - "Paulinus tells us that, in the fourth century, every Tabernacle had two compartments—one for the Eucharist, and another for the Bible, since each is, in its own way, the supernatural food of our souls." (190)
-- 
+- The book is a means to an end: the presence of the living Word in the midst of the believing assembly." (86)
 
 
 ## Chapter 6: The Persistence of Memory: Anamnesis and Actualization
-_**Summary**: _
-
+_**Summary**: Key to the keeping of the covenant is its remembrance via repetition in the liturgy._
+- Key to the keeping of a covenant was its remembrance via repetition. (90)
+- "Do this in remembrance *[anamnesis]* of me." (91, cf. [[Lk-22#v19]], [[1 Cor-11#v25]])
+- Remembrance *[anamnesis]* means to recall by making present, re-actualizing, re-presenting, real presence. (92)
+- Blessed James Alberione: "The liturgy is the actualization of the Bible." (92)
+- "The liturgy draws the believer into the drama of the divine economy, not as a spectator, but as a participant." (93)
+- [[Jean Daniélou|Danielou]]: "The sacraments are simply the continuation in the era of the Church of God's acts in the Old Testament and the New. This is the proper significance of the relationship between the Bible and the liturgy. The Bible is a sacred history; the liturgy is a sacred history." (94)
+- "Liturgical worship rises to God's glory, but redounds always to the benefit of those who offer fitting worship." (97)
+- "God's word, when it is proclaimed in the liturgy, establishes the kingdom of heaven on earth." (99, it *constitutes* and *reveals* it)
+- *[[~The Interpretation of the Bible in the Church|The Interpretation of the Bible in the Church]]*: "It is above all through the liturgy that Christians come into contact with scripture." (100)
+- Cavalletti: "[[Typology]] makes the listening to the Word today capable of creating a link with past history and what is still the object of hope." (101)
 
 
 ## Chapter 7: Proclamation and Parousia
-_**Summary**: _
-
+_**Summary**: Parousia is the coming of Christ, which occurs in the Mass._
+- *Parousia* is literally "presence, coming, arrival, or advent", but specifically Christ's return in glory at the end of time (106)
+- The ancients saw the *parousia* of Chrsit in the liturgy, what Catholic theology expresses as the "real presence" or "substantial presence" of Jesus Christ. (110-111)
+- Whenever the New Testament speaks of Christ's coming, it also speaks of his judgment. The eucharistic *parousia* is Christ coming in power to judge. (117)
+- *[[~Sacrosanctum concilium|Sacrosanctum concilium]]* identifies three modes of Christ's presence in the Mass: the eucharistic species, the person of the priest, and in his word (120)
+- Pierre Jounel: the liturgical reading of the gospel is "in fact, a theophany, an appearance of Christ" (120)
 
 
 ## Chapter 8: Where Tradition Lives
-_**Summary**: _
-
+_**Summary**: The liturgy is the place where tradition lives, where memory lives, and where the church is most alive._
+- [[Tradition]] is divine revelation in its transmission through time, one of two distinct modes of the transmission of the gospel of Christ alongside scripture (125). Tradition is the teaching of the apostles that preceded even the writing of the New Testament (126).
+- The liturgical rite is itself a proclamation of the gospel of Christ, not only in words, but also in action; and the actions themselves are an essential part of the transmission and content of the gospel. (127)
+- [[Memory]] is the faculty that tells us who we are (129), and the liturgy is the memory of the church (130).
+- *[[lex credendi, lex orandi]]*: "The law of prayer is the law of faith: the Church believes as she prays." (132)
+	- This is foundational to [[~John Henry Newman|John Henry Newman]]' argument in *[[~An Essay on the Development of Christian Doctrine|An Essay on the Development of Christian Doctrine]]* (133)
+- [[Yves Congar|Congar]]: the liturgy "is the principal instrument of the Church's Tradition" (133)
+- "The truly great repository of *lex credendi* is the [[lectionary]]...The cycles of liturgical readings, in both synagogue and church, employed [[typology]] to convey certain ideas about the divine economy...Because of the lectionary's unfolding, the weeks, the seasons, and the years would tell a unified, continuous story and, in the process, teach doctrine...'The catechism of the Jew is the calendar.' That is no less true of the Christian...Thus the lectionary ensures the perpetual remembrance of God's covenant with humankind." (135-136)
+- "In its choice of biblical texts for the liturgy, the Church provides a living interpretation of the Scriptures." (137)
+- 
 
 
 ## Chapter 9: Apocalypse and Mystagogy
 _**Summary**: _
-
+- 
 
 
 ## Chapter 10: Etched in Memory
 _**Summary**: _
-
+- 
 
 
 --- 
