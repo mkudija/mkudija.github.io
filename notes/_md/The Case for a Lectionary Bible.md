@@ -13,7 +13,7 @@ The Bible and the liturgy are intimately connected. We must resist the temptatio
 
 The liturgy is the natural habitat of the Bible. And the liturgy is where the tradition of interpreting the scriptures lives. The Bible forms most of the words of the liturgy, and the Bible itself (the canon of scripture) grew out of what is read in the liturgy. We simply cannot have one without the other[^ls1].
 
-[^ls1]: We can say along with Scott Hahn:  "I hope to demonstrate the living relationship between scripture and liturgy, and how this relationship enables both, together, to draw believers, as active participants, into the divine drama of salvation history." (*[[~Letter and Spirit|Letter and Spirit]]*, 12)
+[^ls1]: We can say along with Scott Hahn:  "I hope to demonstrate the living relationship between scripture and liturgy, and how this relationship enables both, together, to draw believers, as active participants, into the divine drama of salvation history." (*[[2025-03-14-Letter and Spirit|Letter and Spirit]]*, 12)
 
 The Lectionary Bible is an aid to *living* the Bible and the liturgy together. At its core, it is a Bible just like any other Bible. In addition to the Biblical text, annotations in the side margins indicate which readings make up the Lectionary to visually indicate the relationship between the two. 
 
@@ -27,7 +27,7 @@ The Lectionary itself—or and any missal one might ordinarily use at Mass—pla
 
 In the other direction, when studying the Bible it is instructive to be aware of the placement of a particular text in the Lectionary. The Church pulls more heavily from some portions of scripture than others in the Lectionary, and making this visible helps you to slow down in the richest passages when reading through the whole Bible. This connects personal scripture study to the Liturgy and allows you to be led by the Church's tradition, which lives in the liturgy and is the living interpretation of scripture[^ls2].
 
-[^ls2]: "The liturgy, likewise, proclaims the scriptures even as it interprets and actualizes them." (*[[~Letter and Spirit|Letter and Spirit]], 34*) and "In its choice of biblical texts for the liturgy, the Church provides a living interpretation of the Scriptures." (*[[~Letter and Spirit|Letter and Spirit]],* 137)
+[^ls2]: "The liturgy, likewise, proclaims the scriptures even as it interprets and actualizes them." (*[[2025-03-14-Letter and Spirit|Letter and Spirit]], 34*) and "In its choice of biblical texts for the liturgy, the Church provides a living interpretation of the Scriptures." (*[[2025-03-14-Letter and Spirit|Letter and Spirit]],* 137)
 #### Design of the Lectionary Bible 
 
 I first looked for an existing lectionary Bible, and the closest design I have been able to find is the *[[~Whirl Lectionary NRSV Bible|Whirl Lectionary NRSV Bible]]*. This Bible is designed for the third through sixth grade Whirl Sunday school curriculum and published by Sparkhouse, a ministry of the Evangelical Lutheran Church in America. Every reading in the [Revised Common Lectionary](https://en.wikipedia.org/wiki/Revised_Common_Lectionary), a version of the Vatican II Lectionary adapted by many Protestant denominations, is highlighted in this Bible using different colors corresponding to the liturgical season. Up to two different overlapping readings can be annotated with this design by applying a gradient to the background shading, as in John 16:12-15 in the photo.
