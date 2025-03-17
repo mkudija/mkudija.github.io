@@ -63,8 +63,10 @@ Further design elements to enable the intended purpose of the Lectionary Bible o
 - **Portable**: Dimensions not to exceed a compact Bible or typical breviary or missal, approximately 5" by 7" and not more than 2" thick (these are the approximate dimensions of *[[Liturgy of the Hours|Liturgy of the Hours, Volume II]]*, and the same footprint as the *[[~Ignatius Catholic Bible|Compact Ignatius Catholic Bible]]* which has a thickness of about 1.25").
 - **Durable**: Smyth sewn binding, hardcover or zipper cover, durable paper—this is the Bible you bring to Mass with you every day.
 - **Navigable**: Includes a detailed table of Lectionary readings and 4 ribbons to mark the First Reading, Psalm, Second Reading (on Sundays and Feasts), and Gospel for the day. Also printed tabs for each book of the Bible to navigate directly from the outside (similar to *[[~The Great Adventure Catholic Bible|The Great Adventure Bible]]*).
-- **Translation**: A natural choice for the translation is the forthcoming (as of 2025) updated NABRE when it becomes available so that it matches exactly what you hear in the Liturgy, if it could be licensed without the NABRE footnotes. A natural alternative would be the RSV2CE[^translation].
+- **Translation**: A natural choice for the translation is the forthcoming (as of 2025) "liturgical Bible" update to the NABRE when it becomes available so that it "substantially matches" what you hear in the Lectionary[^nabre]. If that is not possible, a viable alternative would be the RSV2CE[^translation].
 - **Extras**: Other features would be minimal to facilitate portability (minimal footnotes, no cross-references, no book introductions, etc.)[^extra]. However, a detailed tabular lectionary and introduction would be included.
+
+[^nabre]: Mary Sperry of the USCCB [said](https://www.pillarcatholic.com/p/why-the-usccb-will-vote-on-a-new): "You’ll be able to buy a Bible that will substantially match the lectionary. Because of the sequence of retranslations, we’ve not had a Bible that matched the lectionary in 40 years."
 
 [^translation]: Note: I have found that following along with the readings in Mass in a translation that differs from the one proclaimed can be a good jumping off point for further reflection on the deeper meaning of the text as prompted by the differences in translation.
 
