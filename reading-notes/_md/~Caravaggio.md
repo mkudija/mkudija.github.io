@@ -12,7 +12,7 @@ isbn13: 9780060575601
 source: 
 wishlist: 
 acquired: 2023-12-02
-started: 
+started: 2025-03-15
 finished:
 ---
 # *[Caravaggio]()* by [[Francine Prose]]

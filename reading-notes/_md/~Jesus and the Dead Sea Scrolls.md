@@ -27,7 +27,7 @@ finishednotes:
 **Topic**: [[Dead Sea Scrolls]]
 
 **Source**
-- *[[~Jesus and the Jubilee|Jesus and the Jubilee]]*
+- *[[2025-03-17-Jesus and the Jubilee|Jesus and the Jubilee]]*
  ---
 Created: [[2025-03-09-Sun]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

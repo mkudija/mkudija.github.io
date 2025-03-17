@@ -55,7 +55,7 @@ finishednotes:
 - "Peter's chains invite a reflection on a deeper form of binding: obedience to the will of God for our lives." (62)
 - [[Universal call to holiness]]: "The true alternative to slavery, in its spiritual forms, is sanctity." (64)
 - The [[Our Father]]: "Christian prayer consists in acknowledging divine providence and then asking that our wills be conformed to the divine will." (68)
-- 
+- Mary's last recorded words point toward her son: "Do whatever he tells you." (75, cf. [[Jn-02#v11]])
 
 ## Pilgrimage Church Notes
 *[[Travel-Rome]]*
@@ -65,6 +65,11 @@ finishednotes:
 - **St. John Lateran**: "Mother and Head of All the Churches in the City and the World" 
 - **St. Peter in Chains**: contains the tomb of Pope Julius II with Michelangelo's *Moses*
 - **St. Anastasia**: this was Jerome's church, and it has a side altar to the left that was his, along with a chalice; it was a sanctuary for 700,000 consecrated hosts during World Youth Day 2000, and was the first church in Rome to have perpetual adoration in 2001
+- **St. Mary Major**: the first Marian church, a miraculous snowfall on August 5, 532 showed Pope Liberius where it should be built 
+- **St. Lawrence in Panisperna**: built on the site where he was roasted alive in 258: "Turn me over; I seem to be done on this side" 
+- **Twelve Holy Apostles**: houses the relics of the apostles Philip and James the Less 
+- **St. Peter's**: 91 of the 266 popes are buried in St. Peter's, including all since Leo XIII 
+- **St. Mary in Domnica**: nautical theme and a taste of Florentine Renaissance art
 - 
 
 

@@ -20,6 +20,8 @@ finishednotes: 2025-03-01
 
 `(New York: Wellspring, 2012-05), 168`
 
+>Christ is not the solution to our problems; he is the giver of our problems. Your problem, however big it is (or however small), is his wise and loving will to you, even though it may not *look* wise and loving." (37-38)
+
 *Notes from 2025-03-01*:
 - "Jesus is '*The* Word of God,' God's single answer to all our questions." (22)
 - "We only have to think about one thing and then everything else will be O.K., right? Just ask Jesus: What do *You* want me to do? And then do it." (31)

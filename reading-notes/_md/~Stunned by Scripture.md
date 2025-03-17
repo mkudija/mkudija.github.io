@@ -1,5 +1,6 @@
 ---
-aliases: [Stunned by Scripture]
+aliases:
+  - Stunned by Scripture
 title: Stunned by Scripture
 author: John Bergsma
 category: 
@@ -10,9 +11,9 @@ isbn10: 1612783937
 isbn13: 9781612783932
 source: 
 wishlist: 2023-04-21
-acquired: 
+acquired: 2025-03-15
 started: 
-finished: 
+finished:
 ---
 # *[Stunned by Scripture: How the Bible Made Me Catholic]()* by [[John Bergsma]]
 
