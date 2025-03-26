@@ -22,7 +22,7 @@ finishednotes: 2024-04-22
 
 `(New York: Gibbs Smith, 2020-06-02), 384`
 
-I love books with photos of libraries. What is unique about this book and the work of Juniper Books is how they display artwork across the spines of dust jackets. Some of the libraries of the rich described here are sad (paying them to curate collections of books for their large, empty houses), but some are gorgeous.
+I love books with photos of libraries. What is unique about this book and the work of Juniper Books is how they display artwork across the spines of dust jackets. Some of the libraries of the rich described here are sad (paying them to curate collections of books for their large, empty houses), but some are gorgeous. This book is what got me excited about images on the spines of books, and then we found [[~The World Book Encyclopedia|The World Book Encyclopedia]] for sale at the library!
 
 
 - "Whether we know it or not, we are always telling stories." (15)

@@ -23,7 +23,8 @@ Listened to this in 2025 while riding my bike, finished on these dates:
 1. [[2025-01-12-Sun]]
 2. [[2025-01-25-Sat]]
 	- "we" in [[Jn-03]] with Nicodemus: trinity? 
-	- 
+	- [[Jn-05#v46]]: "Moses wrote of me" (cf. [[Nm-21#v9]], [[Dt-18#v15]])
+	- [[Jn-12#v48]]: "The word that I have spoken will judge him on the last day"
 3. 
 
 

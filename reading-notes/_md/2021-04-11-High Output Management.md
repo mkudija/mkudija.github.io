@@ -301,7 +301,7 @@ finished: 2021-05-02
 
   - Motivation comes from within: the manager must create an environment where motivated people can flourish
   - Motivation can only be measured through relative *output* at a given skill level
-- Refer to **Maslow's Hierarchy of Needs** 
+- Refer to **[[Maslow's Hierarchy of Needs]]** 
   - Physiological, safety/security, and social needs motivate people to show up for work; esteem an self-actualization drive performance
 - When someone if motivated by **self-actualization** their drive to perform has no limit --> this is our focus in management
   - OKR objectives should be set to push personal limits (50/50 chance of achievement)

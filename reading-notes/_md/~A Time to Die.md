@@ -10,9 +10,9 @@ publish_date: 2019
 isbn10: 1621642747
 isbn13: 9781621642749
 ---
-# *[A Time to Die](https://ignatius.com/a-time-to-die-ttdp/)* by [[Nicolas Diat ]]
+# *[A Time to Die: Monks on the Threshold of Eternal Life](https://ignatius.com/a-time-to-die-ttdp/)* by [[Nicolas Diat ]]
 
-<img src="https://books.google.com/books/content?id=zxL5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/1829/2021/TTDP_r__25410.1617024131.jpg?c=1" width=150>
 
 `(San Francisco: Ignatius Press, 2019), 176`
 
@@ -29,7 +29,7 @@ isbn13: 9781621642749
 
 
 ## Foreword by [[Robert Cardinal Sarah]]
-- "death is an Easter, a passage" (9)
+- "Death is an Easter, a passage" (9)
 - "Death places us in the infinity and depths of God...Death is the most important act of earthly existence." (10)
 
 ## Extraordinary Stories
@@ -83,19 +83,8 @@ _**Summary**: _
 --- 
 **Topic**: [[Death]]
 
-**Source**: UA Library [[2022-07-16-Sat]]
-
-**Bibliography**
-
-```query
-[[bib]] file:(~2022-07-16-A Time to Die)
-```
- 
-
-**New Words**
-
-- 
+**Source**: UA Library [[2022-07-16-Sat]] 
 
 ---
 Created: [[2022-07-16-Sat]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

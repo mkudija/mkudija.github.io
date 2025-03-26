@@ -42,6 +42,13 @@ dimensions: 7.5x10.25x2.625
 ## Overview of Salvation History 
 *by [[John Bergsma]]*
 
+
+## Notes 
+- "[[2 Mc-12]] provides the single biggest reason [[2024-01-31-Why Catholic Bibles Are Bigger|why Protestant bibles are shorter]] than Catholic ones" (1704)
+- 
+
+
+
 --- 
 **Topic**: [[The Bible]]
 

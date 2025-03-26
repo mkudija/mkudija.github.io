@@ -23,21 +23,11 @@ finished:
 
 
 --- 
-**Topic**: 
+**Topic**: [[King James Version]]
 
 **Source**
 - Herridge Books, Wellfleet
-
-**Bibliography**
-
-```query
-[[bib]] file:(~God's Secretaries)
-```
- 
-
-**[[New Words]]**
-
-- 
+- [[2024-11-12-Tue]]: [Godsplaining-What Bible Should I Buy? (min 19)](https://play.pocketcasts.com/podcasts/515af3e0-ae87-0137-fae9-0acc26574db2/0fd9d901-456b-49ac-809c-0f0838d76cbf)
 
 ---
 Created: [[2023-07-24-Mon]]

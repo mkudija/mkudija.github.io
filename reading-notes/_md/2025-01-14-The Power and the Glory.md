@@ -138,21 +138,19 @@ finishednotes: 2025-01-14
 - There were no more priests and no more heroes. (88)
 
 
-Discussion 
+## [[2025-02-22-Sat]] Discussion 
 - he's not good, but he believes: She said, ‘Of course you could—renounce.’ ‘I don’t understand.’ ‘Renounce your faith,’ she explained, using the words of her European History. He said, ‘It’s impossible. There’s no way. I’m a priest. It’s out of my power.’ (14)
 - themes 
 	- home 
 	- priest being nameless 
-	- [ ] Mr. Tench monetary crisis can't get out 
+	- Mr. Tench can't get out because of a monetary crisis 
 	- across the border as metaphor for heaven 
 	- fear 
 	- abandonment vs surrender 
 	- duty
 	- betrayal and pride 
-- Laura: "writing style in general was very confusing and hard to get to, I didn't know what was going on for 90% of the book"
 - Becca: after he died all the secondary characters reappear and indicate how he changed them 
 - Similarities between the Lieutenant and the Whiskey Priest 
-- Biblical parallels: 
 
 --- 
 **Topic**: [[Novel]]

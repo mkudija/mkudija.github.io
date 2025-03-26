@@ -19,7 +19,7 @@ finished: 2023-04-02
 
 `(New York: Word on Fire Classics, 1958/2019), 612`
 
->*The Life of Christ* has been many yers in writing. But the deeper understanding of the unity of Christ and His Cross came when Christ kept the author very close to His Cross in dark and painful hours. Learning comes from books; penetration of a mystery from suffering (xx).
+>*The Life of Christ* has been many years in writing. But the deeper understanding of the unity of Christ and His Cross came when Christ kept the author very close to His Cross in dark and painful hours. Learning comes from books; penetration of a mystery from suffering (xx).
 
 >The human family has its trials; so He sanctified them by living in a family (252).
 
@@ -124,7 +124,7 @@ This was my Lenten reading for 2023 after a suggestion to read a life of Christ 
 
 
 ## Chapter 2: Early Life of Christ
-- "If He was not what He said He was, the Christ, the Son of God, He was the anti-Christ! If he was only a man, then He was not even a 'good' man" (7, cf. *[[2013-04-03-Mere Christianity#^399c78]]*)
+- "If He was not what He said He was, the Christ, the Son of God, He was the anti-Christ! If he was only a man, then He was not even a 'good' man" (7, cf. *[[2013-04-03-Mere Christianity#^399c78|Mere Christianity]]*)
 - "He will not allow us to pick and choose among His words" (8)
 - "By pronouncing *Fiat* Mary achieved the full role of womanhood, namely, to be the bearer of God's gifts to man." (8)
 - [[Jn-01|John 1]]: "One single Word which reaches the abyss of all things that are known and can be known" (13)
@@ -132,7 +132,7 @@ This was my Lenten reading for 2023 after a suggestion to read a life of Christ 
 - "When finally the scrolls of history are completed down to the last words in time, the saddest line of all will be: 'There was no room in the inn.'" (15)
 - "Divinity is alwasy where one least expects to find it. Because he was born in a cave, all who wish to see Him must stoop." (16-17)
 - "The Cross was there from the beginning, and it cast its shadow backward to His birth." (18)
-- Jesus is from Israel and yet distinct from it (27, cf. *[[2022-12-25-Jesus of Nazareth The Infancy Narratives#Chapter 1: "Where Are You From?"]]*)
+- Jesus is from Israel and yet distinct from it (27, cf. *[[2022-12-25-Jesus of Nazareth The Infancy Narratives#Chapter 1: "Where Are You From?"|Jesus of Nazareth: The Infancy Narratives]]*)
 - "In the Circumcision of the Divine Child there was a dim suggestion and hint of Calvary, in the precocious surrendering of blood." (29)
 - The Presentation: 
 	- "The mother who brought the Lamb of God into the world had no lamb to offer—except the Lamb of God." (30)
@@ -184,7 +184,7 @@ This was my Lenten reading for 2023 after a suggestion to read a life of Christ 
 
 
 ## Chapter 10: The Choosing of the Twelve
-- [[G.K. Chesterton]]: "When it wishes anything done which is really serious, it collects twelve of the ordinary men standing around." (123, cf. *[[2023-06-02-The Twelve Men|The Twelve Men* [[bib]])
+- [[G.K. Chesterton]]: "When it wishes anything done which is really serious, it collects twelve of the ordinary men standing around." (123, cf. *[[2023-06-02-The Twelve Men|The Twelve Men]]* [[bib]])
 - "Peter" and "rock" are the same in Aramaic, as they are in the French "Pierre" (125)
 
 
@@ -221,7 +221,7 @@ This was my Lenten reading for 2023 after a suggestion to read a life of Christ 
 
 ## Chapter 17: Our Lord's Testimony Concerning Himself 
 - "As dust in the room cannot be seen until the light is let in, so no man can know himself until this Light shows him his true condition." (190)
-- "We must either lament His madness or adore His Person." (196, cf. *[[2013-04-03-Mere Christianity#^399c78]]*)
+- "We must either lament His madness or adore His Person." (196, cf. *[[2013-04-03-Mere Christianity#^399c78|Mere Christianity]]*)
 
 
 ## Chapter 18: Transfiguration 
@@ -503,13 +503,6 @@ This was my Lenten reading for 2023 after a suggestion to read a life of Christ 
 
 **Source**
 - [[005- How to Start a Good Catholic Library - The Burrowshire Podcast]]
-
-
-**Bibliography**
-```query
-[[bib]] file:(2023-04-06-Life of Christ)
-```
- 
 
 **New Words**
 

@@ -97,7 +97,7 @@ _**Summary**: Dei Verbum is the fundamental achievement of Vatican II; we accept
 - Good image: Sacred Scripture and Sacred Tradition both come to us from God, and are focused for us by the lens of the Magisterium of the Church (121)
 
 ## Chapter 11: Sacrament of Authentic Human Community
-_**Summary**: Lumen Gentium offers a biblically enriched, theologically deepended, and mission-driven ecclesiology to sanctify the world and create authentic human community._
+_**Summary**: Lumen Gentium offers a biblically enriched, theologically deepened, and mission-driven ecclesiology to sanctify the world and create authentic human community._
 
 
 

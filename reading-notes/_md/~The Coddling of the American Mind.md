@@ -10,7 +10,7 @@ publish_date: 2019
 isbn10: 0735224919
 isbn13: 9780735224919
 ---
-# *[The Coddling of the American Mind]()* by [[Greg Lukianoff, Jonathan Haidt]]
+# *[The Coddling of the American Mind]()* by [[Greg Lukianoff]], [[Jonathan Haidt]]
 
 <img src="https://books.google.com/books/content?id=pbqkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
@@ -23,19 +23,8 @@ isbn13: 9780735224919
 
 **Source**
 - [[Adam Pasternack]], [[2022-09-06-Tue]]
-
-
-**Bibliography**
-
-```query
-[[bib]] file:(~The Coddling of the American Mind)
-```
- 
-
-**New Words**
-
-- 
+- [[DHH]], [[2025-03-19-Wed]]
 
 ---
 Created: [[2022-09-09-Fri]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

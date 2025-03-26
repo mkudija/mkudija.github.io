@@ -21,6 +21,8 @@ dimensions: 6.25x9x2.125
 
 `(New York: Scepter Publishers, 1999), 844`
 
+- [[Mt-06#v11]]: [[epioúsion|supersubstantial]] bread: [[St. Ambrose]] advises: "If the bread is daily, why do you take it only once a year[...]? Receive [[daily mass|daily]] what is of benefit to you daily! So live that you may deserve to receive it daily!" (*[[~De Sacramentis|De Sacramentis]]*, 5, 4; cited on pg 90)
+
 --- 
 **Topic**: [[The Bible]]
 

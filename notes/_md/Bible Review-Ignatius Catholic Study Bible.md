@@ -1,0 +1,15 @@
+---
+publish: true
+---
+
+# Bible Review-Ignatius Catholic Study Bible
+
+<img src="https://github.com/mkudija/img/blob/main/2024-06-06_schuyler_esv_quentel/quentel-04.jpeg?raw=true" width="100%">
+
+*[[~Ignatius Catholic Study Bible|Ignatius Catholic Study Bible]]*
+
+<div class="info"> <p><strong>Note:</strong> Review coming soon. <a href="mailto:m.kudija@gmail.com">Contact me</a> for more information.</p> </div> 
+
+---
+Created: [[2025-03-23-Sun]]
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

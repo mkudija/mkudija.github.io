@@ -26,6 +26,9 @@ finishednotes: none
 
 Read [[2023-08-30-Wed]] to [[2024-05-05-Sun]]
 
+
+- "The world will fight for you if you will be calm." [[Ex-14#v14]]
+
 --- 
 **Topic**: [[The Bible]]
 

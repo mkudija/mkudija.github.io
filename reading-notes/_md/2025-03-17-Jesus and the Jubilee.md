@@ -15,7 +15,7 @@ wishlist: 2025-03-02
 acquired: 2025-03-01
 started: 2025-03-01
 finished: 2025-03-11
-finishednotes:
+finishednotes: 2025-03-17
 ---
 # *[Jesus and the Jubilee: The Biblical Roots of the Year of God’s Favor](https://stpaulcenter.com/product/jesus-and-the-jubilee-the-biblical-roots-of-the-year-of-gods-favor/)* by [[John Bergsma]]
 

@@ -25,7 +25,7 @@ Levi relies heavily on the six principles of adult learning from [[Dr. Malcolm K
 
 The book builds on these concepts by adding notes on visualization (the method of loci), spaced repetition, SQ3R (i.e. pre- and post-reading), speed reading, and teaching to learn.
 
-While it has some good information, I did not enjoy this book. Its poor quality is evident with the abundance of cliché references (Maslow's hierarchy, SMART goals, Feynman, Tim Ferriss, etc.), immature language ("literally!" and "our dear old friend Dr. Malcolm Knowles"), cheap footnotes to scientific studies, and enough links to "bonus" materials on his website to make the marketing motivation for the book clear. Perhaps these notes will save you the trouble of actually reading it, which thankfully I did not spend much time doing.
+While it has some good information, I did not enjoy this book. Its poor quality is evident with the abundance of cliché references ([[Maslow's Hierarchy of Needs|Maslow's hierarchy]], SMART goals, Feynman, Tim Ferriss, etc.), immature language ("literally!" and "our dear old friend Dr. Malcolm Knowles"), cheap footnotes to scientific studies, and enough links to "bonus" materials on his website to make the marketing motivation for the book clear. Perhaps these notes will save you the trouble of actually reading it, which thankfully I did not spend much time doing.
 
 
 # Notes

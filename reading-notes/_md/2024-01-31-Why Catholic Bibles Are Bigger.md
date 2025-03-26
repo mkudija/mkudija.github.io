@@ -218,11 +218,13 @@ One question coming out of this book for me as a Catholic is this: *What posture
 - **Canon-Within-a-Canon Approach**: the canonical scriptures demonstrated their own canonicity by their contents, but this relies on circular reasoning, fails to provide the level of certitude necessary to establish the limits to the word of God, and sets up an extra-Biblical standard (i.e. Luther's own understanding)
 - **The Self-Attesting/Inner Witness Approach**: canonicity is determined by the quality of the writing itself, but this does not explain variances of canons and can never provided a closed or fixed canon
 - "*Sola scriptura* is a self-refuting proposition. No one can know, with sufficient certainty, what the Scripture is unless he adopts a norm outside of Scripture that sets the limits of Scripture...The only alternative to these *a posteriori* solutions is treat the canon as something handed down or received." (309)
+
 ## Appendix 2: The Deuterocanon and Biblical Inerrancy
 - Inerrancy is the product of inspiration, and the determination of inspiration must come before the other questions are asked. 
 - Appealing to errors in the deuterocanon is *begging the question* because it begins with the presupposition that the deuterocanon is *not* inspired. 
 - This method can be used against the rest of the Bible as well: " The [[Deuterocanonical Books|Apocrypha]] were hated because the Catholics were hated...The scoffs thrown at the head of the little fish of Tobit will sooner or later destroy Jonah's whale." (314, cf. Edward W. Reuss, *[[~History of the Canon of the Holy Scriptures in the Christian Church|History of the Canon of the Holy Scriptures in the Christian Church]]*, trans. David Hunter (Edinburgh: R.W. Hunter, 1891), 361)
 - "It takes humility to accept the canon of Scripture as given to the Church." (315)
+
 ## Appendix 3: Esdras, Carthage, and Trent
 - Did Trent reject a book that Carthage and Hippo accepted (Esdras)?
 - [[St. Augustine|Augustine]] accepted the book of Esdras as inspired Scripture since he quotes it as such in *[[2017-01-03-The City of God|City of God]]* 18, 36

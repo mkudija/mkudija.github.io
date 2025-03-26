@@ -98,7 +98,7 @@ aliases:
 >God, for ever and ever.
 >Amen.
 
-- Vol. II, pg. 307 ([[2024-03-20-Wed]]): intentions for Morning Prayer for Wednesday of the Fourth Week of Lent:
+- Vol. II, pg. 180 ([[2025-03-20-Thu]]), pg. 307 ([[2024-03-20-Wed]]): intentions for Morning Prayer for Wednesday of the Fourth Week of Lent:
 >Help us to receive good things from your bounty with a deep sense of gratitude, and to accept with patience the evil that comes to us.
 >Teach us to be loving not only in great and exceptional moments, but above all in the ordinary events of daily life.
 >May we abstain from what we do not really need, and help our brothers and sisters in distress.

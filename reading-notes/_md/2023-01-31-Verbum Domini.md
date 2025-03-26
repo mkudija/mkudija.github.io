@@ -246,6 +246,7 @@ The word and joy [123]
 - [[St. John of the Cross|John of the Cross]]: "Since he has given us his Son, his only word (for he possesses no other), he spoke everything at once in this sole word – and he has no more to say" (14, cf. *[[~The Collected Works of Saint John of the Cross#*The Ascent of Mount Carmel*|The Ascent of Mount Carmel]]*)
 - "There can be no authentic understanding of Christian revelation apart from the activity of the Paraclete" (15)
 	- [[St. Jerome]]: "we cannot come to an understanding of Scripture without the assistance of the Holy Spirit who inspired it" (16)
+- "As the word of God became flesh by the power of the Holy Spirit in the womb of the Virgin Mary, so sacred Scripture is born from the womb of the Church by the power of the same Spirit." (19, cf. [[~Ignatius Catholic Study Bible|ICSB]] 26)
 
 >All God’s promises find their “yes” in Jesus Christ. (20)
 

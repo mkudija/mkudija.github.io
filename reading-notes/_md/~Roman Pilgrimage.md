@@ -70,7 +70,15 @@ finishednotes:
 - **Twelve Holy Apostles**: houses the relics of the apostles Philip and James the Less 
 - **St. Peter's**: 91 of the 266 popes are buried in St. Peter's, including all since Leo XIII 
 - **St. Mary in Domnica**: nautical theme and a taste of Florentine Renaissance art
-- 
+- **St. Clement**: contains the tomb of St. Cyril, and a fresco has the first written Italian 
+- **St. Balbina**: Cavallini's *Madonna and Child* is on the third chapel on the right
+- **St. Cecilia in Travestere**: The crypt has remains of the chapel where Cecelia was martyred, adn the convent next door has Cavallini's *Last Judgment*. 
+- **St. Mary in Travestere**: one of the original Marian shrines, with Cavallini's scenes from her life in the apse
+- **St. Vitalis**: appointed a Lenten station church by Gregory the Great; fake windows have what seem to be beautiful panoramas but which actually depict many martyrs 
+- **Sts. Marcellinus and Peter**: Peter was a third-century exorcist whose "rough personality was forged in combat with demons" and Marcellinus was his assistant 
+- **St. Lawrence Outside the Walls**: the greatest of Rome's Laurentian churches 
+- **St. Mark**: St. Mark perhaps started writing his gospel here while an aide to St. Peter 
+- **St. Pudenziana**: Peter began his work in Rome here with the help of the senator's daughters, Praxedes and Pudenziana. The altar contains fragments of wood said to be from teh table where St. Peter first celebrated the Eucharist in Rome. 
 
 
 --- 

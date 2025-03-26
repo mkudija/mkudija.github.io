@@ -330,7 +330,7 @@ k --> m
 **Topic**: [[Logic]]
 
 **Source**
-- [[St. Thomas Aquinas|Aquinas]]
+- [[Aquinas Columbus]]
 
 ---
 Created: [[2024-07-06-Sat]]
