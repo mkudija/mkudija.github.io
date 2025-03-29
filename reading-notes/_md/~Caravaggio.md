@@ -13,7 +13,7 @@ source:
 wishlist: 
 acquired: 2023-12-02
 started: 2025-03-15
-finished:
+finished: 
 ---
 # *[Caravaggio]()* by [[Francine Prose]]
 
@@ -21,7 +21,7 @@ finished:
 
 `(New York: Harper Collins, 2005-10-04), 163`
 
-
+finished [[2025-03-26-Wed]], breaks [[DV-Mermaid]]
 
 --- 
 **Topic**: Biography

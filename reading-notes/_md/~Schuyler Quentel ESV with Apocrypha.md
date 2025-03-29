@@ -24,7 +24,7 @@ dimensions: 7x10.5x1.75
 
 - Reviewed here: 
 	- [Review: Schuyler Quentel ESV with Apocrypha — Guest Post by Matthew Kudija – Catholic Bible Talk](https://catholicbibletalk.com/2024/06/review-schuyler-quentel-esv-with-apocrypha-guest-post-by-matthew-kudija/)
-	- [[2024-06-07 Schuyler ESV Review catholicbibletalk.com]]
+	- [[Bible Review-Schuyler Quentel ESV with Apocrypha]]
 
 --- 
 **Topic**: [[The Bible]]

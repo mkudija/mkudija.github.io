@@ -14,7 +14,7 @@ finished: 2021-01-27
 ---
 # [*The Spirit of the Liturgy*](https://www.ignatius.com/The-Spirit-of-the-Liturgy-Commemorative-Edition-P3674.aspx) by [[Joseph Ratzinger]]
 
-<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/3112/3585/SPLCEH__45948.1633452573.jpg?c=1" width=150>
+<img src="https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/640w/products/3112/4433/SPLCEH__61780.1674849062.jpg?c=1" width=150>
 
 `(San Francisco: Ignatius, 2000/2018), 271`
 
@@ -42,6 +42,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
   - Old and New are bound together especially through liturgy: (Christ as first-born points to Exodus passover)
 - real worship is the self-offering of the Son (58)
 - "The Eucharist is the meeting point of all the lines that lead from the Old Covenant, indeed, from the whole of man's religious history. Here at last is right worship, ever longed for and yet surpassing our powers: adoration in 'spirit and truth'" (61)
+- Likely in this section, cited in *[[~Roman Pilgrimage|Roman Pilgrimage]]* 168: "On Sinai, the people receive not only instructions about worship, but an all-embracing rule of law and life. Only thus can it become a people. A people without a common rule of law cannot live. It destroys itself in [[True Freedom|anarchy, which is a parody of freedom]], its exaltation to the point of abolition. When every man lives without law, every man lives without freedom." ^02e2ec
 
 
 ## Part II: Time and Space in the Liturgy
@@ -90,7 +91,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
 - Psalms as the proper source; the whole of human life is reflected there (153)
 - Gregorian chant is a permanent standard for sacred music (159)
 - beauty is musical, and the cosmos reflects this beauty (166)
-- "Humble submission to what goes before us releases authentic freedom and leads us to the true summit of our vocation as human beings." (170)
+- "Humble submission to what goes before us releases [[True Freedom|authentic freedom]] and leads us to the true summit of our vocation as human beings." (170)
 
 ## Part IV: Liturgical Form
 
@@ -200,4 +201,4 @@ I'm glad they included the original that Ratzinger's more recent book was based 
 
 ---
 Created: 2021-01-27
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

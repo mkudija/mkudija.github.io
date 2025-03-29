@@ -4,6 +4,7 @@ publish: true
 
 # The Case for a Lectionary Bible
 
+<div class="info"> <p><em>This was published here on 2025-03-13, and on <a href="https://catholicbibletalk.com/2025/03/the-case-for-a-lectionary-bible-guest-post-by-matthew-kudija/" target="_blank">Catholic Bible Talk</a> on 2025-03-28.</em></p> </div> 
 
 At the top of my Bible wishlist is a Lectionary Bible: a portable Bible annotated with the Lectionary readings at Mass for the 3-year Sunday cycle and 2-year weekday cycle. Such a Bible, once it exists, will be a valuable aid to the study of Scripture and living of the Liturgical life of the Church by keeping the Bible and the Mass in close relationship to each other and facilitating our reception of the Word in both Scripture and Eucharist. 
 

@@ -56,6 +56,8 @@ finishednotes:
 - [[Universal call to holiness]]: "The true alternative to slavery, in its spiritual forms, is sanctity." (64)
 - The [[Our Father]]: "Christian prayer consists in acknowledging divine providence and then asking that our wills be conformed to the divine will." (68)
 - Mary's last recorded words point toward her son: "Do whatever he tells you." (75, cf. [[Jn-02#v11]])
+- Cites *[[2021-01-27-The Spirit of the Liturgy#^02e2ec|The Spirit of the Liturgy]]* on freedom, followed by: "Israel confuses freedom with license...Dominican theologian Servias Pinckaers called it *freedom for excellence*: the freedom to choose the tings that are truly good and that make for genuine human flourishing. [[True Freedom|Genuine freedom]] consists in developing the moral habit—the virtue—of making good decisions. (168-169)
+- "In the Paschal Mystery of the Cross and Resurrection, the victory has already been won, in him. It remains to be won in us." (170)
 
 ## Pilgrimage Church Notes
 *[[Travel-Rome]]*
@@ -79,6 +81,9 @@ finishednotes:
 - **St. Lawrence Outside the Walls**: the greatest of Rome's Laurentian churches 
 - **St. Mark**: St. Mark perhaps started writing his gospel here while an aide to St. Peter 
 - **St. Pudenziana**: Peter began his work in Rome here with the help of the senator's daughters, Praxedes and Pudenziana. The altar contains fragments of wood said to be from teh table where St. Peter first celebrated the Eucharist in Rome. 
+- **St. Sixtus**: Honorius III entrusted the church to [[St. Dominic]] when he arrived in Rome, where Dominic restored life to a worker who fell while rebuilding the church. 
+- **Sts. Cosmas and Damian**: remarkable apse mosaic is its oldest decoration, and has the last naturalism until the eleventh century 
+- **St. Lawrence in Lucina**: The third chapel contains the skull of Pope St. Alexander I, martyred in 116, and the baptismal chapel is a rare example of Roman Rococo
 
 
 --- 

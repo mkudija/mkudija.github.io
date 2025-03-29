@@ -22,6 +22,11 @@ finishednotes:
 `(New York: Ballantine Books, 2025-02-04), 401`
 
 [The 5 Types of Wealth - Sahil Bloom](https://www.the5typesofwealth.com/)
+1. Time Wealth 
+2. Social Wealth 
+3. Mental Wealth 
+4. Physical Wealth 
+5. Financial Wealth 
 
 --- 
 **Topic**: 

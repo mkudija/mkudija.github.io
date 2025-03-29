@@ -59,6 +59,8 @@ finishednotes:
 
 
 ## Chapter 3: *Caput Munti*—Roma Sistina
+- The return of Rome as *caput mundi* accelerated under Sixtus
+- IV who, despite his nepotism, reinvigorated the city through his Hopsital of Santo Spirito in Sassia and Ponte Sisto bridge, and built the Sistine Chapel (named after him). The paintings alongside the walls of the Sistine Chapel illustrate complementary scenes from the lives of Moses and Christ. 
 - 
 
 
