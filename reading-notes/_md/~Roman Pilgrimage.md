@@ -33,7 +33,7 @@ finishednotes:
 - "The station church pilgrimage is an itinerary of conversion, and extended retreat: seven and a half weeks of reflection that synthesize the truths of Christian faith and offer pilgrims an opportunity to reflect on how well those truths have been integrated along the pathways of their lives." (10)
 - "Making the station church pilgrimage is also a marvelous way to discover the many faces of [[Travel-Rome|Rome]]." (10)
 - [[Travel-Rome|Rome]]: "The gemlike mosaics in the small Chapel of St. Zeno, in the completely out-of-the-way *satio* at St. Praxedes on the Esquiline, make this small space one of the most beautiful rooms on the planet." (12)
-- [[Travel-Rome|Rome]]: "The *statio* at St. Augustine houses [[~Caravaggio|Caravaggio]]'s *Madonna of the Pilgrims*, one of the most strikingly earthy of his renderings of the Mother of God." (12)
+- [[Travel-Rome|Rome]]: "The *statio* at St. Augustine houses [[2025-04-01-Caravaggio|Caravaggio]]'s *Madonna of the Pilgrims*, one of the most strikingly earthy of his renderings of the Mother of God." (12)
 
 ## Lent: An Itinerary of Conversion
 - "The rediscovery of the baptismal character of Lent, the ancient penitential season that precedes Easter, and the restoration of the Paschal Triduum—Holy Thursday, Good Friday, and the Easter Vigil—as the apex of the Church's liturgical year are two of the most important accomplishments of modern Catholicism." (17)

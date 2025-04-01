@@ -1,5 +1,6 @@
 ---
-aliases: [The Bridge to Heaven]
+aliases:
+  - The Bridge to Heaven
 title: The Bridge to Heaven
 author: Michael Harold Brown, Drew J. Mariani
 category: San Miguel de Betania (Venezuela)
@@ -10,10 +11,10 @@ isbn10: 157918233X
 isbn13: 9781579182335
 source: 
 wishlist: 2025-03-25
-acquired: 
+acquired: 2025-03-31
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Bridge to Heaven]()* by [[Michael Harold Brown, Drew J. Mariani]]
 
