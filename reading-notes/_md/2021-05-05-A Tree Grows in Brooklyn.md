@@ -22,7 +22,7 @@ finished: 2021-05-05
 
 "She was reading one book a day and not skipping the dry ones." (22, ch 2)
 
-"Before they went to bed, Francie and Neeley had to read a page of the Bible and a page from Shakespeare. That was a rule. Mama used to read the two pages to them each night until they were old enough to read for themselves. To save time, Neeley read the Bible page and Francie read from Shakespeare. They had been at this reading for six years and were halfway through the Bible and up to *Macbeth* in Shakespeare's *Complete Works*." (51, ch 6)
+"Before they went to bed, Francie and Neeley had to read a page of the [[King James Version|Bible]] and a page from Shakespeare. That was a rule. Mama used to read the two pages to them each night until they were old enough to read for themselves. To save time, Neeley read the Bible page and Francie read from Shakespeare. They had been at this reading for six years and were halfway through the Bible and up to *Macbeth* in Shakespeare's *Complete Works*." (51, ch 6)
 
 "She was the book she read in the library." (72, ch 8)
 
@@ -44,4 +44,4 @@ Jacquelyn Mitchard introduction: required reading for her boys includes *A Tree 
 
 ---
 Created: [[2021-05-05-Wed]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

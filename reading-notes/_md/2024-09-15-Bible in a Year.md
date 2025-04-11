@@ -114,7 +114,7 @@ finishednotes: 2024-09-18
 
 ### Themes
 - The sanctity of marriage comes through in all the passages where Abram and then Isaac try to pass off their wives as their sister and the people they do this to are appalled because of the great sin it would have brought upon them.
-- [[Prayer and God's will|Power of prayer]]
+- [[Prayer and God's will|Power of prayer]] ^7ff04a
 	- [[2024-06-06-Thu]]-![[Mt-21#v22]]
 	- [[2024-06-11-Tue]]-[[Jb-42#v8]]: "And my servant Job shall pray for you, for I will accept his prayer not to deal with you according to your folly."
 	- [[2024-06-13-Thu]]-Moses intercedes during the plagues in [[Ex-08#v13]], [[Ex-08#v30]], [[Ex-10#v18]]
@@ -123,6 +123,7 @@ finishednotes: 2024-09-18
 	- [[2024-06-20-Thu]]-Theo went home from the hospital 19 days after his heart transplant!!!
 	- [[2024-06-21-Fri]]-Moses interceded against the fiery serpents in [[Nm-21#v7]]
 	- [[2024-07-12-Fri]]-Elijah raises the widow's son in [[1 Kgs-17#v17]]
+	- cf. [[Bible Notes by Topic#Prayer and God's will Prayers Answered]]
 - Paul and works: 
 	- [[2024-08-25-Sun]]-[[Rom-02#v6]]: "He will render to each one according to his works" 
 	- [[2024-08-25-Sun]]-[[Rom-02#v13]]: "For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified."

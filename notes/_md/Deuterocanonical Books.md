@@ -45,7 +45,7 @@ The books of the Apocrypha and the Deuterocanonical Books of the Catholic Old Te
 	- [[1 Maccabees]]
 	- [[2 Maccabees]]
 	- [[Wisdom]]
-	- Parts of [[Daniel]]
+	- Parts of [[Daniel]] (Ch. 3: Prayer of Azariah, Ch. 13: Susanna, Ch. 14: Bel and the Dragon)
 	- Parts of [[Esther]]
 - Additional books recognized as canonical by certain Orthodox Churches:
 	- Prayer of Manasseh
@@ -63,6 +63,10 @@ The books of the Apocrypha and the Deuterocanonical Books of the Catholic Old Te
 - Resources: 
 	- *[[2024-01-31-Why Catholic Bibles Are Bigger|Why Catholic Bibles Are Bigger]]*
 	- [Why Does the Roman Catholic Church Accept the Books of the Old Testament Apocrypha (The Deuterocanonical Books) as Holy Scripture? by Don Stewart](https://www.blueletterbible.org/Comm/stewart_don/faq/books-missing-from-old-testament/question4-catholic-church-apocrypha.cfm)
+
+
+### Highlights of the Deuterocanonical Books 
+- Always be faithful to God, even when you seem to be in an impossible position. God rescues now (as he did Susanna in [[Dn-13]]), and preserves for eternity (as he did the seven brothers and their mother in [[2 Mc-07]]).
 
 ---
 Created: [[2021-08-12-Thu]]

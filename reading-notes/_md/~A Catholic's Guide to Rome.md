@@ -32,6 +32,9 @@ finishednotes:
 	- Matthias in the crypt below Santa Maria Maggiore
 	- Philip and James the Less in Santi Apostoli
 	- Andrew in his church 
+- The four pillars of St. Peter's supporting the dome contain the relics of Veronica's veil, the lance that pierced Christ's side, the head of St. Andrew, and a piece of the True Cross. (36)
+- San Carlo on Via delle Quattro was built to the dimensions of merely one palister of St. Peter's (36)
+- 
 
 --- 
 **Topic**: [[Travel-Rome]]

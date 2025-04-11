@@ -28,6 +28,7 @@ finished:
 
 **Source**
 - Cambridge Bibles ([email](https://mail.google.com/mail/u/1/#inbox/FMfcgzGwHxtkbfgWfRRLbcCcvtkqmVCS)) [[2023-12-04-Mon]]
+- [David Norton Interview - Bible Buying Guide](https://biblebuyingguide.com/david-norton-interview/)
 
 **Bibliography**
 

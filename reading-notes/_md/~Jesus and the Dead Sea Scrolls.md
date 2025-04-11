@@ -1,5 +1,6 @@
 ---
-aliases: [Jesus and the Dead Sea Scrolls]
+aliases:
+  - Jesus and the Dead Sea Scrolls
 title: Jesus and the Dead Sea Scrolls
 author: John Bergsma
 category: Religion
@@ -10,10 +11,10 @@ isbn10: 1984823132
 isbn13: 9781984823137
 source: 
 wishlist: 2025-03-09
-acquired: 
+acquired: 2025-04-02
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[Jesus and the Dead Sea Scrolls]()* by [[John Bergsma]]
 

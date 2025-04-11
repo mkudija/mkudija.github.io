@@ -31,6 +31,16 @@ dimensions: 6.25x8.75x1.25
 	- "The ESV Apocrypha used the Göttingen Septuagint as its textual base, with the following exceptions: 4 Maccabees was translated from Rahlfs' Septuagint and 2 Esdras was translated from the 1983 Vulgate published by the German Bible Society. In the special case of Tobit, the translators used the longer Greek text (Sinaiticus) supplemented by the shorter Greek text (Vaticanus) and the Old Latin version at points where the longer text lacks some verses (4:7–18; 13:6b–10a)." (xv)
 - "The [[~1662 Book of Common Prayer#^728f01]] cited [[St. Jerome|Jerome]] on the [[deuterocanonical books]], and it described them as good to "read for example of life and instruction of manners," yet not "to establish any doctrine" (see Article VI of the Thirty-nine Articles of Religion)." (xiv) 📅 2023-05-21
 
+### Flags as of [[2025-04-07-Mon]]
+*removed to make room for [[Scripture Memory System for your Bible]] tags*
+- [[Dt-06#v4]]
+- [[Ps-40#v8]]
+- [[Is-53]]
+- [[Rom-08#v28]]
+- [[Phil-04#v13]]
+- [[Jas-04]]
+- [[1 Pt-05#v7]]
+
 --- 
 **Topic**: [[The Bible]]
 

@@ -58,6 +58,9 @@ finishednotes:
 - Mary's last recorded words point toward her son: "Do whatever he tells you." (75, cf. [[Jn-02#v11]])
 - Cites *[[2021-01-27-The Spirit of the Liturgy#^02e2ec|The Spirit of the Liturgy]]* on freedom, followed by: "Israel confuses freedom with license...Dominican theologian Servias Pinckaers called it *freedom for excellence*: the freedom to choose the tings that are truly good and that make for genuine human flourishing. [[True Freedom|Genuine freedom]] consists in developing the moral habit—the virtue—of making good decisions. (168-169)
 - "In the Paschal Mystery of the Cross and Resurrection, the victory has already been won, in him. It remains to be won in us." (170)
+- Servais Pinckaers: Growth in the virtues can be compared to learning a language or mastering a musical instrument. The [[True Freedom|"freedom of excellence"]] which the cardinal virtues make possible is lived through the moral habits tha the grace of Christ enables us to develop over the course of a lifetime. (213-214, cf. *[[~The Sources of Christian Ethics|The Sources of Christian Ethics]]*)
+- "[[John Paul II|Wojtyła]] had a special affection for the gospel of St. John and used to read it aloud to himself in POlish when he lied at the Belgian College." (241)
+- 
 
 ## Pilgrimage Church Notes
 *[[Travel-Rome]]*
@@ -84,6 +87,15 @@ finishednotes:
 - **St. Sixtus**: Honorius III entrusted the church to [[St. Dominic]] when he arrived in Rome, where Dominic restored life to a worker who fell while rebuilding the church. 
 - **Sts. Cosmas and Damian**: remarkable apse mosaic is its oldest decoration, and has the last naturalism until the eleventh century 
 - **St. Lawrence in Lucina**: The third chapel contains the skull of Pope St. Alexander I, martyred in 116, and the baptismal chapel is a rare example of Roman Rococo
+- **St. Susanna**: "the many angels throughout the Basilica, emerging from the gilt stucco surfaces, give the walls a sense of movement"
+- **Holy Cross in Jerusalem**: Rome's spiritual gateway to Calvary
+- **Four holy Crowned Martyrs**: dedicated to two groups of martyrs killed during the Diocletian persecution of 303-306: four soldiers who refused to offer pagan sacrifice, and five stonemasons who refused to carve an idol 
+- **St. Lawrence in Damaso**: here Pope St. Damasus I compiled the stories of the martyrs assisted by St. Jerome 
+- **St. Paul Outside the Walls**: The church was destroyed by fire in 1823 but reconstructed into Rome's closest approximation of a Constantinian Basilica
+- **Sts. Sylvester and Martin**: Associated with defending Christ's divinity: the orthodox party met here in 324 before the Council of Nicaea, and the first public refutation of Arianism took place when the writings of Arius and Sabellius were burned here
+- **St. Eusebius**: One of the oldest house churches in Rome
+- **St. Nicholas in Prison**: a center of devotion to Our Lady of Guadalupe, with mass said in her honor on the 12th of every month 
+- **St. Peter**: [[St. Leo the Great]] is buried under a marble relief of his confrontation with Attila.
 
 
 --- 

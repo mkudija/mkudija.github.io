@@ -1,5 +1,7 @@
 ---
-aliases: [The 35 Doctors of the Church]
+aliases:
+  - The 35 Doctors of the Church
+  - The Thirty Five Doctors of the Church
 title: The 35 Doctors of the Church
 author: Rev. Fr. Christopher Rengers
 category: Religion
@@ -13,7 +15,7 @@ wishlist: 2024-11-16
 acquired: 
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The 35 Doctors of the Church]()* by [[Rev. Fr. Christopher Rengers]]
 
@@ -22,15 +24,14 @@ finishednotes:
 `(New York: TAN Books, 2014-08), 1052`
 
 - "St. Catherine's familiarity with Jesus, the Incarnate Word, is unique, even among saints favored with unusual gifts and visions. He even walked with her at times and joined her in the saying of the Divine Office. She would bow toward Him at the 'Glory Be,' saying 'Glory be to the Father and to *Thee* and to the Holy Ghost.'" (419) ^d5f8f5
+- [[Memorize Scripture]]: "[[~St Anthony Doctor of the Church|St. Anthony]] knew both Testaments by heart. He knew the Bible in two ways: first, by study, whereby he had committed the Scriptures to memory and sought out their meaning; and second, by the light of the Holy Spirit, which he had merited by his prayerful and penitential life." (323)
+
 
 --- 
 **Topic**: [[Doctors of the Church]]
 
 **Source**
-- 
- 
-**[[New Words]]**
-- 
+- [[Generations Religious Gifts]]
 
 ---
 Created: [[2024-11-16-Sat]]
