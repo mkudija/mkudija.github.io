@@ -146,9 +146,9 @@ publish: true
 - [[2025-01-31-Fri]]: *[[2025-01-31-Charlie and the Great Glass Elevator|Charlie and the Great Glass Elevator]]*
 - [[2025-02-02-Sun]]: *[[~The Children's Book of Heroes|The Children's Book of Heroes]]*
 - [[2025-03-31-Mon]]: *[[2025-03-31-Little Pilgrim's Progress|Little Pilgrim's Progress (The Illustrated Edition)]]*
+- [[2025-04-12-Sat]]: *[[~The Adventures of Loupio|The Adventures of Loupio]]*
+- [[2025-04-13-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
 - In Progress:
-	- *[[~The Golden Children's Bible|The Golden Children's Bible]]*
-	- *[[~The Adventures of Loupio|The Adventures of Loupio]]*
 
 ---
 **Topic**: [[Reading]]

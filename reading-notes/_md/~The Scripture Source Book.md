@@ -21,7 +21,7 @@ finishednotes:
 
 `(New York: Our Sunday Visitor, 2006-12), 0`
 
-
+- "[[Memorize Scripture|Memorizing Scripture]] (or better, knowing it 'by heart') is not an end in itself but the byproduct of prayer and love." (327)
 
 --- 
 **Topic**: St. Peter Church, Columbus

@@ -136,7 +136,7 @@ Son: "Isn't the Renaissance really good art?"
 **Topic**: [[Travel-Florence]], Art
 
 **Source**
-- *[[~Art of Renaissance Rome|Art of Renaissance Rome]]*
+- *[[2025-04-12-Art of Renaissance Rome|Art of Renaissance Rome]]*
 - Mom & Dad, Christmas 2024
 
 ---

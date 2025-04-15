@@ -96,6 +96,27 @@ finishednotes:
 - **St. Eusebius**: One of the oldest house churches in Rome
 - **St. Nicholas in Prison**: a center of devotion to Our Lady of Guadalupe, with mass said in her honor on the 12th of every month 
 - **St. Peter**: [[St. Leo the Great]] is buried under a marble relief of his confrontation with Attila.
+- **St. Chrysogonus**: an ancient church that was largely rediscovered during archaeological exploration in 1907
+- **St. Mary in Via Lata**: pious tradition say St. Paul, Luke, Peter, and john lived here at one time, and it has "Rome's most beautiful organ"
+- **St. Marcellus**: Baroque beauty, including an unusual colorful, multifigured image of the Crucifixion 
+- **St. Apollinaris**: a portal for Byzantine customs to find their way to Rome, with Rococo frescoes; has a chapel dedicated to St. Josemaria Escriva 
+- **St. Stephen on the Caelian Hill**: a circular church in honor of St. Stephen; [[St. Gregory the Great]] preached here 
+- **St. John Before the Latin Gate**: s
+- **St. John Lateran**: 
+- **St. Praxedes**: 
+- **St. Prisca**: 
+- **St. Mary Major**: 
+- **St. John Lateran**: 
+- **Holy Cross in Jerusalem**: 
+- **St. John Lateran**: 
+- **St. Mary Major**: 
+- **St. Peter**: 
+- **St. Paul Outside the Walls**: 
+- **St. Lawrence Outside the Walls**: 
+- **Twelve Holy Apostles**: 
+- **St. Mary "at the Martyrs"**: 
+- **St. John Lateran**: 
+- **St. Pancras**: 
 
 
 --- 

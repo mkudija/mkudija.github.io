@@ -13,7 +13,7 @@ source:
 wishlist: 
 acquired: true
 started: 2025-01-01
-finished: 
+finished: 2025-04-20
 dimensions: 
 translation: Children's
 finishednotes: none
@@ -24,7 +24,9 @@ finishednotes: none
 
 `(New York: Golden Inspirational, 1999-10-01), 516`
 
-Read [[2023-08-30-Wed]] to [[2024-05-05-Sun]]
+Read 
+- [[2023-08-30-Wed]] to [[2024-05-05-Sun]]
+- [[2025-01-01-Wed]] to [[2025-04-13-Sun]]
 
 
 - "The world will fight for you if you will be calm." [[Ex-14#v14]]

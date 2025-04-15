@@ -40,7 +40,6 @@ finishednotes:
 - "[SEAL training] is a sorting process that finds- young men who would rather die than quit, then instills them with a relentless desire to fight and win as a team." (12)
 
 ## Chapter 1: The Beginning
-_**Summary**: _
 - "When one man in the class screws up, sometimes the whole class pays the tab. Sometimes a single boat crew pays or just the class leaders. But someone always pays." (18)
 - BUD/S: 2-week indoctrination, First Phase (conditioning), Second Phase (diving), Third Phase (weapons and tactics)
 - BUD/S Screening Test: 
@@ -58,9 +57,16 @@ _**Summary**: _
 - "I think BUD/S training may be like childbirth; the pain is quickly pushed aside by the joy of having it behind you." (48)
 
 
-## Chapter 2:
-_**Summary**: _
-
+## Chapter 2: First Phase
+- "Secured to a stanchion just outside the First Phase office is a famous BUD/S institution—the bell. Tradition calls for a student who quits in First PHase to ring the bell three timesa ND place his helment on the grinder." (55)
+- Those that failed the 32 minute time for a 4-mile run on the beach are sent into the water: 
+	- "Over the years, the BUD/S medical department has developed an immersion table based on water temperature and activity. Hypothermia is no stranger at BUD/S training." (56)
+	- "Those guys are winners; you guys are losers. You better start taking this training seriously of you're not going to be around here much longer. They paid the price up front and now they et a little time off. You didn't. You failed. And now you're paying a bigger price." (57)
+- Advice from CO Captain Ed Bowen (71)
+	- Don't give into the pressure of the moment. Finish the day.
+	- Take it one day at a time. 
+- Six keys to getting through Hell Week: a positive attitude, teamwork, guts, a never-quit mentality, a belief in yourself, and focus (96)
+- "Your reputation in the teams will begin by how you handle yourself when you're cold, wet, and tired." (96)
 
 
 ## Chapter 3:

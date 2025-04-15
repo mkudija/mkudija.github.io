@@ -11,7 +11,7 @@ isbn10: 802836704
 isbn13: 9780802836700
 source: 
 wishlist: 2025-03-17
-acquired: 
+acquired: 2025-04-13
 started: 
 finished: 
 finishednotes:

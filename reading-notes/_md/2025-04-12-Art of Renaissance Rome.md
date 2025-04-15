@@ -14,7 +14,7 @@ wishlist:
 acquired: 2024-09-26
 started: 2025-03-20
 finished: 2025-04-08
-finishednotes:
+finishednotes: 2025-04-12
 ---
 # *[Art of Renaissance Rome]()* by [[John Marciari]]
 
@@ -22,6 +22,7 @@ finishednotes:
 
 `(New York: Laurence King Publishing, 2017), 213`
 
+Fr. Raymund send us this book ahead of our pilgrimage to Rome: I can't wait to see it! I appreciated this author's style more than that of *[[2025-02-22-Art of Renaissance Florence|Art of Renaissance Florence]]*. If anything, I would benefit from an even more zoomed out view to get the bigger context before this much detail on the Renaissance specifically. Yet the zoomed in view does give tangible examples of the interplay between art, politics, ecclesial power, etc. 
 
 # Notes
 
@@ -39,7 +40,7 @@ finishednotes:
 - Rome is "that great palimpsest of a city where past, present, and eternity collide." (10)
 - "Holy Years became an incitement to urban renewal, and conversely, the pilgrims brought money that helped pay for such projects." (11)
 - "The [[Renaissance]] began, one might say, with the dawning conviction that the centuries between antiquity and the present had been dark ages. Scholars who embraced this idea, the [[Humanism|humanists]], turned to the surviving literature of antiquity as their guide, believing that a change in patterns of thinking would bring a rebirth, a Renaissance, of classical glory." (13)
-- "the seldom-visited choir of Santa Maria del Popolo is a perfect microcosm of the Roman Renaissance." (19)
+- "The seldom-visited choir of Santa Maria del Popolo is a perfect microcosm of the Roman Renaissance." (19)
 
 ## Chapter 1: Noble Sparks—The Birth of a Renaissance Ideal
 - The Roman Renaissance begins in the 1330s—just prior to the popes departure for Avignon—with Cavallini, de Cambio, and Giotto. (23)
@@ -92,6 +93,8 @@ finishednotes:
 - "Maderno's *St. Cecilia* seems a perfect summation and celebration of all we have seen in Roman Renaissance art." (212)
 - The Renaissance in Rome closes—and the Baroque begins—with the nave and facade of St. Peters. (213)
 
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F24%2Fd3%2F64%2F24d364f2798d3012a085e0eec44fc4e4.jpg&f=1&ipt=731e2a3df917185e837cb8ec8890b5609e209086646fd5a7ca9bb5c1b75bbecf" width="100%">
 
 --- 
 **Topic**: [[Travel-Rome]], Art
