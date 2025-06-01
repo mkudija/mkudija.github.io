@@ -133,7 +133,7 @@ Son: "Isn't the Renaissance really good art?"
 
 
 --- 
-**Topic**: [[Travel-Florence]], Art
+**Topic**: [[Travel-Florence]], [[Sacred Art]]
 
 **Source**
 - *[[2025-04-12-Art of Renaissance Rome|Art of Renaissance Rome]]*

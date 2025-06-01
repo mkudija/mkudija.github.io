@@ -14,6 +14,9 @@ started:
 finished: 
 translation: [Revised Standard Version Catholic Edition, Nova Vulgata]
 dimensions: 6.25x9x1.75
+languages:
+  - Latin
+  - English
 ---
 # *[The Navarre Bible: The Pentateuch](https://scepterpublishers.org/products/the-navarre-bible-pentateuch)*
 

@@ -18,26 +18,12 @@ finished:
 
 <img src="http://books.google.com/books/content?id=jI60PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: , 1983-01-01), 39`
+`(Rome: Vatican, 1983), 39`
 
-
+- 
 
 --- 
-**Topic**: [[Encyclical]]
-
-**Source**
-- 
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Rerum Novarum)
-```
- 
-
-**[[New Words]]**
-
-- 
+**Topic**: [[Encyclical]], [[Catholic Social Teaching]], [[~The Leonine Encyclicals|The Leonine Encyclicals]]
 
 ---
 Created: [[2023-04-06-Thu]]

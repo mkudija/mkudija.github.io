@@ -126,7 +126,7 @@ _**Summary**: The history of nursing homes._
 
 ## Chapter 4: Assistance 
 _**Summary**: The vision and failures of "assisted living" homes._
-- Your chances of avoiding the nursing home are directly related to the [[large family|number of children]] you have, and, according to what little research has been done, having at least one daughter seems to be crucial to the amount of help you will receive. But our greater longevity has coincided with the increased dependence of families on dual incomes, with results that are painful and unhappy for all involved. (79)
+- Your chances of avoiding the nursing home are directly related to the [[having a large family|number of children]] you have, and, according to what little research has been done, having at least one daughter seems to be crucial to the amount of help you will receive. But our greater longevity has coincided with the increased dependence of families on dual incomes, with results that are painful and unhappy for all involved. (79)
 - Taking care of a debilitated, elderly person in our medicalized era is an overwhelming combination of the technological and the custodial. The burdens for today’s caregiver have actually increased from what they would have been a century ago. (85)
 - Keren Brown Wilson invented he idea of "assisted living" with Park Place in Portland in 1983. The key word in her mind was home. Home is the one place where your own priorities hold sway. At home, you decide how you spend your time, how you share your space, and how you manage your possessions. Away from home, you don’t. This loss of freedom was what people dreaded. (89)
 - But here the care providers understood they were entering someone else’s home, and that changed the power relations fundamentally. (91)

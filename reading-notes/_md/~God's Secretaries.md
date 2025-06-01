@@ -21,6 +21,79 @@ finished:
 `(New York: Harper Collins, 2009-10-13), 336`
 
 
+# Notes
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+<!-- /MarkdownTOC -->
+</details>
+
+
+## Preface 
+
+## Chapter 1: A poore man now arrived at the *Land of Promise*
+_**Summary**: _
+
+
+
+## Chapter 2: The multitudes of people covered the beautie of the fields
+_**Summary**: _
+
+
+
+## Chapter 3: He sate among graue, learned and reuerend men
+_**Summary**: _
+
+
+
+## Chapter 4: Faire and softly goeth far
+_**Summary**: _
+
+
+
+## Chapter 5: I am for the medium in all things
+_**Summary**: _
+
+
+
+## Chapter 6: The danger never dreamt of, that is the danger
+_**Summary**: _
+
+
+
+## Chapter 7: O lett me bosome thee, lett me preserve thee next to my heart
+_**Summary**: _
+
+
+
+## Chapter 8: We have twice and trice so much scope for oure earthlie peregrination...
+_**Summary**: _
+
+
+
+## Chapter 9: When do we luxuriate and grow riotous in the gallantnesse of this world
+_**Summary**: _
+
+
+
+## Chapter 10: True Religion is in no way a *gargalisme* only
+_**Summary**: _
+
+
+
+## Chapter 11: The grace of the fashion of it
+_**Summary**: _
+
+
+
+## Chapter 12: Hath God forgotten to be gracious? hath he in anger shut vp his tender mercies?
+_**Summary**: _
+
+
+
+
 
 --- 
 **Topic**: [[King James Version]]

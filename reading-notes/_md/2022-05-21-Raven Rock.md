@@ -31,7 +31,7 @@ The scale of the doomsday preparation for "Continuance of Government" during the
 - "COG Plans, Eisenhower argued, must be as straightforward as possible...the job of government is the preserve some common sense in a situation where everyone is going crazy [after an attack]" (92)
 - Kennedy was grateful to Eisenhower for his advice, and gave Camp David its permanent name (105)
 - "Project x" was the secret congressional bunker at the Greenbrier (207)
-- Prophetic observation about technology: "New technologies are developed and seem to be allowed to spread without thought for their future social and political ramifications." (230, perhaps cf. *[[~2021-11-12-Amusing Ourselves to Death|Amusing Ourselves to Death]]*)
+- Prophetic observation about technology: "New technologies are developed and seem to be allowed to spread without thought for their future social and political ramifications." (230, perhaps cf. *[[2025-05-31-Amusing Ourselves to Death|Amusing Ourselves to Death]]*)
 - "ARPANet and the birth of the internet was perhaps the best thing to come out of the horrifying possibility of a nuclear holocaust." (232)
 - The Boeing 747 Doomsday planes (E-4As) were flown by the Nightwatch program, named after the painting by Rembrandt
 

@@ -16,6 +16,8 @@ acquired: 2024-03-23
 started: 
 finished: 
 finishednotes:
+languages: 
+  - Hebew
 ---
 # *Hebrew Bible*
 

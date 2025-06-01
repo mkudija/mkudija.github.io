@@ -69,14 +69,21 @@ finishednotes:
 - "Your reputation in the teams will begin by how you handle yourself when you're cold, wet, and tired." (96)
 
 
-## Chapter 3:
-_**Summary**: _
+## Chapter 3: The Week (Hell Week)
+- 
+- "It pays to be a winner—always." (153)
+- "All right, guys, I want you to take a minute and think about this. No matter what you do in the future, remember this moment; you men just finished Hell Week. Few men are able to do what you just did. Whether you stay in the Navy or get out and run a latte stand—whatever—never, never forget this moment or what you achieved here this week. When things get tough in lite, this will be your benchmark. Others will quit, but you won't. Because if you can do this, you can do anything, right?" (156)
+- "Each man finds a brown T-shirt with his name on it. It's only a cheap military T-shirt of a particular color, but it is everything—they're brown shirts." (157)
 
 
-
-## Chapter 4:
-_**Summary**: _
-
+## Chapter 4: Beyond the Week
+- "Hell Week is a curious and unique event. I'm not sure I understand it much better now, having just watched it, than when I went through my Hell Wek some thirty years ago. I do know that it changes a man forever. Future challenges and many of life's triumphs are now calibrated by this experience." (162)
+- Hell Week used to be the first week of training: "train-the-best, discard-the-rest" philosophy (163)
+- Officers train with their men: "The idea that officers have to train and suffer with their men, especially suffering on this scale, is unique in American military service. Today, officer trainees, like SEAL platoon officers, have to lead while under pressure, and have to suffer the same hardships as their men. SEAL work is a harsh, physically demanding business. If an officer is to lead from the front, he needs to be, at a minimum, as physically capable as the men he expects to follow him." (163)
+- History of the SEAL teams (163-165)
+- "One thing is clear: the instructors still have great power and influence. The skill with which they mete out punishment and approval, to individuals and to the class, has a tremendous bearing on the outcome. A large percentage of Class 228, like those classes before them, are led through or driven from training by their BUD/S instructors. It's a challenging time, both physically and emotionally, for trainees as well as staff. What's at stake for the individual trainee is the personal goal of a young life. For the instructors, it's the future composition of the SEAL teams and the character of this warrior culture." (167)
+- "Naval duty, both aboard ship and on shore, has a way of growing boys into men—helping them to sort out what they really want in life." (168)
+- "Very few trainees see this business for what it really is—a long and painful road to a warrior culture, one with ongoing physical demands and hardship as a way of life. They don't fully understand the SEAL saying "Training is never over" until they're in it. Some also questioned their suitability for this warrior calling, which entails the taking of human life, and they realized this profession was not for them. I once asked a highly successful attorney friend of mine why he was so good at his job. "Most guys with law degrees just want to be lawyers," he told me. "They don't really, and I mean really, want to practice law." I think it's the same with BUD/S trainees. A lot of them would like to call themselves SEALs, but perhaps not so many of them are prepared to do the work of Navy SEALs." (168-169)
 
 
 ## Chapter 5:

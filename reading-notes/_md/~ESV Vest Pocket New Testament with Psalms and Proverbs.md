@@ -1,6 +1,8 @@
 ---
-aliases: [Vest Pocket New Testament with Psalms and Proverbs-ESV, Pocket ESV]
-title: Vest Pocket New Testament with Psalms and Proverbs-ESV
+aliases:
+  - ESV Vest Pocket New Testament with Psalms and Proverbs
+  - Pocket ESV
+title: ESV Vest Pocket New Testament with Psalms and Proverbs
 author: Crossway Bibles
 category: Bibles
 publisher: 
@@ -16,7 +18,7 @@ finished:
 translation: English Standard Version
 dimensions: 3x5x.5
 ---
-# *[Vest Pocket New Testament with Psalms and Proverbs-ESV]()* by [[Crossway Bibles]]
+# *[ESV Vest Pocket New Testament with Psalms and Proverbs](https://www.crossway.org/bibles/esv-vest-pocket-new-testament-3968-tru/)* by [[Crossway Bibles]]
 
 <img src="http://books.google.com/books/content?id=U5DLrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

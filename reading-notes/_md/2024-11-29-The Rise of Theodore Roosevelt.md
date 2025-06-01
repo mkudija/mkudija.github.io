@@ -132,7 +132,7 @@ I read this during the 2024 election, and there are some notable similarities be
 - Roosevelt's first public address as Assistant Secretary of the Navy at the Naval War College was the first great speech of his career. (593)
 	- Advocating an expansionist policy: "No triumph of peace is quite so great as the supreme triumphs of war." (594)
 	- "There are higher things in this life than the soft and easy enjoyment of material [[comfortable|comfort]]. It is through strife, or the readiness for strife, that a nation must win greatness." (596)
-- Having a [[large family]]: Roosevelt had "shown valor in the warfare of the cradle." (604)
+- [[Having a large family]]: Roosevelt had "shown valor in the warfare of the cradle." (604)
 - "I perfectly revel in this work. I am having immense fun running the Navy." (606)
 - "Roosevelt's own attitude to disease and frailty was this: if one ignored them long enough, presumably they would go away." (621)
 - Long took the afternoon off, and Roosevelt sent a momentous telegram to Dewey that paved the way for the US conquest of the Philippines, "in a single afternoon, he placed the Navy in a state of such readiness it had not known since the Civil War." (629-630)

@@ -13,8 +13,8 @@ source:
 wishlist: 2023-09-15
 acquired: 
 started: 2025-02-23
-finished:
-finishednotes: 
+finished: 2025-04-27
+finishednotes: 2025-04-27
 ---
 # *[Roman Pilgrimage](https://www.hachettebookgroup.com/titles/george-weigel/roman-pilgrimage/9780465027699/?lens=basic-books)* by [[George Weigel]]
 
@@ -60,7 +60,7 @@ finishednotes:
 - "In the Paschal Mystery of the Cross and Resurrection, the victory has already been won, in him. It remains to be won in us." (170)
 - Servais Pinckaers: Growth in the virtues can be compared to learning a language or mastering a musical instrument. The [[True Freedom|"freedom of excellence"]] which the cardinal virtues make possible is lived through the moral habits tha the grace of Christ enables us to develop over the course of a lifetime. (213-214, cf. *[[~The Sources of Christian Ethics|The Sources of Christian Ethics]]*)
 - "[[John Paul II|Wojtyła]] had a special affection for the gospel of St. John and used to read it aloud to himself in POlish when he lied at the Belgian College." (241)
-- 
+- *[[O Deus Ego Amo Te]]* (310)
 
 ## Pilgrimage Church Notes
 *[[Travel-Rome]]*
@@ -101,22 +101,22 @@ finishednotes:
 - **St. Marcellus**: Baroque beauty, including an unusual colorful, multifigured image of the Crucifixion 
 - **St. Apollinaris**: a portal for Byzantine customs to find their way to Rome, with Rococo frescoes; has a chapel dedicated to St. Josemaria Escriva 
 - **St. Stephen on the Caelian Hill**: a circular church in honor of St. Stephen; [[St. Gregory the Great]] preached here 
-- **St. John Before the Latin Gate**: s
-- **St. John Lateran**: 
-- **St. Praxedes**: 
-- **St. Prisca**: 
-- **St. Mary Major**: 
-- **St. John Lateran**: 
-- **Holy Cross in Jerusalem**: 
-- **St. John Lateran**: 
-- **St. Mary Major**: 
-- **St. Peter**: 
-- **St. Paul Outside the Walls**: 
-- **St. Lawrence Outside the Walls**: 
-- **Twelve Holy Apostles**: 
-- **St. Mary "at the Martyrs"**: 
-- **St. John Lateran**: 
-- **St. Pancras**: 
+- **St. John Before the Latin Gate**: built on the place where tradition holds that John was thrown into boiling oil by Domitian, but was unharmed and then exiled to Patmos
+- **St. John Lateran**: has Cosmatesque floors by Cosmati who took shards of precious stones from the rubble of imperial Rome and laid them into colorful geometric patterns
+- **St. Praxedes**: gem of a church with many mosaics behind St. Mary Major that contains the relics of 2,300 martyrs form the catacombs as well as the pillar o the flagellation
+- **St. Prisca**: recalls the house hailed by St. Paul in Romans as the home of Prisca and Aquila
+- **St. Mary Major**: "Rome's Bethlehem". The Madonna *Salus Populi Romani* (which was at Pope Francis' funeral on [[2025-04-26-Sat]]) has a tradition that St. Luke painted it, but "what is more liekly is that the panel was at St. Mary Major in the sixth century and that Pope [[St. Gregory the Great]] carried it in procession through the city to rid Rome of the plague"
+- **St. John Lateran**: The twelve statues of the apostles were donated by different benefactors 
+- **Holy Cross in Jerusalem**: Has a relic of the cross, the *titulus* (sign above the cross), nails, and Dismas' cross: St. Jerome said, "By devoutly respecting the instruments of Christ's Passion, we profess our faith in him who suffered for us, we excite our hope in his merit, enkindle his love in our breasts, and renew the grateful remembrance of his death." 
+- **St. John Lateran**: [[Pope Leo XIII]] was the last Pope buried outside St. Peter's (until Pope Francis at St. Mary Major)
+- **St. Mary Major**: the Easter Sunday station!
+- **St. Peter**: The Station for Easter Monday (we were in St. Peter's on Easter Monday!)
+- **St. Paul Outside the Walls**: The sword on the statue of Paul symbolizes not only his martyrdom but the "sword of the Spirit, which is the Word of God." (cf [[Eph-03#v17]])
+- **St. Lawrence Outside the Walls**: according to the *Golden Legend*, Lawrence rolled over in his sarcophagus to make room for Stephen's relics. Fran Angelico panted these two together in the Nicholas V Chapel of the Apostolic Palace.
+- **Twelve Holy Apostles**: Has the relics of the apostles Philip and James the Less
+- **St. Mary "at the Martyrs"**: the Pantheon, built as a Roman temple to all the gods in the second century and rededicated as a church in 609
+- **St. John Lateran**: Octagonal baptismal font with poem by [[St. Gregory the Great]]: "Here springs the fount of life why which the entire world is laved since from Christ's wound it take its origin and source."
+- **St. Pancras**: "I may be a child in body but...but by the power of the Lord Jesus Christ in me, your terror means no more to me than the idol we are looking at"
 
 
 --- 

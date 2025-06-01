@@ -11,8 +11,12 @@ cover_url: http://books.google.com/books/content?id=LbrbkwEACAAJ&printsec=frontc
 publish_date: 2012-12-12
 isbn10: 1623400147
 isbn13: 9781623400149
+acquired: 2020-12-10
 started: 
-finished:
+finished: 
+languages: 
+  - Latin
+  - English
 ---
 # [*Summa Theologiae*](https://stpaulcenter.com/product/summa-theologiae-complete-set/) by [[St. Thomas Aquinas]]
 

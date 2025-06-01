@@ -87,7 +87,7 @@ to be read wholly, and with diligence and attention.  <br> –Francis Bacon[^bac
 
 > What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one.<br> –Neil Postman[^postman]
 
-[^postman]: [[Neil Postman]], *[[~2021-11-12-Amusing Ourselves to Death|Amusing Ourselves to Death]]* (New York: Penguin, 1985/2005), xix.
+[^postman]: [[Neil Postman]], *[[2025-05-31-Amusing Ourselves to Death|Amusing Ourselves to Death]] (New York: Penguin, 1985/2005), xix.
 
 > Let holy reading be always at hand. Sleep may fall upon thee as thou lookest thereon, and the sacred page meet the drooping face.<br> –St. Jerome[^jerome]
 

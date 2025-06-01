@@ -14,6 +14,9 @@ started:
 finished: 
 translation: [Revised Standard Version Catholic Edition, Nova Vulgata]
 dimensions: 6.25x9x2.125
+languages:
+  - Latin
+  - English
 ---
 # *[The Navarre Bible: Gospels and Acts](https://scepterpublishers.org/products/the-navarre-bible-gospels-and-acts)*
 

@@ -13,9 +13,9 @@ isbn13:
 source: 
 wishlist: 2025-03-10
 acquired: 2025-03-17
-started: 
+started: 2025-05-20
 finished: 
-finishednotes:
+finishednotes: 
 translation: King James Version
 dimensions: 8.5x12x2.25
 ---
@@ -26,6 +26,9 @@ dimensions: 8.5x12x2.25
 `(New York: Viking Studio, 1999), 994`
 
 [The Holy Bible – R. MICHELSON GALLERIES](https://www.rmichelson.com/artists/barry-moser/the-holy-bible/)
+
+- [[2025-05-25-Sun]]-[[Gn-17#v1]]: "I am the Almighty God; walk before me, and be thou perfect." 
+- 
 
 --- 
 **Topic**: [[The Bible]]

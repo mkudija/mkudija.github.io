@@ -28,6 +28,7 @@ aliases: [Poetry]
 - *[[Brothers]]*
 - *[[Thou art indeed just, Lord]]*
 - *[[My own heart let me more have pity on]]*
+- *[[O Deus Ego Amo Te]]*
 
 [[G.K. Chesterton]]
 - *[[The Donkey]]*

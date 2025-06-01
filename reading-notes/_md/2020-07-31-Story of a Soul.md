@@ -65,6 +65,13 @@ finished:
 ## Chapter 11 - Immense Darkness
 - "Jesus, my Love, I have at last found my vocation; *it is love*!" (199, cf 1 Cor. 12:31)
 
+
+
+Quoted in [[~Catechism of the Catholic Church|CCC]] 2011: 
+>After earth's exile, I hope to go and enjoy you in the fatherland, but I do not want to lay up merits for heaven. I want to work for your love alone.... In the evening of this life, I shall appear before you with empty hands, for I do not ask you, Lord, to count my works. All our justice is blemished in your eyes. I wish, then, to be clothed in your own justice and to receive from your love the eternal possession of yourself.
+
+^4907b6
+
 ---
 **Topic**: [[Spiritual Classics]]
 

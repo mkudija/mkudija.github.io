@@ -8,8 +8,12 @@ total_page: 352
 publish_date: 1949
 isbn10: 
 isbn13: 
+acquired: true
 started: 
 finished: 
+languages: 
+  - Latin
+  - English
 ---
 # *[Latin Grammar]()* by [[Cora Carroll Scanlon, Charles Lester Scanlon]]
 

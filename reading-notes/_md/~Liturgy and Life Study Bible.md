@@ -24,7 +24,7 @@ dimensions: 6.75x9.125x2.125
 
 `(New York: Liturgical Press, 2023-07-13), 2193`
 
-
+- "I think that very often we walk and are sad because we substitute words on a page for the living word in our mouth." (from [dale in a tin can](https://youtu.be/q1OEJOaaOWA?t=2341))
 
 --- 
 **Topic**: [[The Bible]], [[p-Lectionary Bible]]

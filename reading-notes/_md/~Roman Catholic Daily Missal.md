@@ -15,6 +15,9 @@ acquired: 2020-10-25
 started: 
 finished: 
 dimensions: 4.5x7x1.875 
+languages: 
+  - Latin
+  - English
 ---
 # [*Roman Catholic Daily Missal*](https://angeluspress.org/products/1962-roman-catholic-daily-missal)
 

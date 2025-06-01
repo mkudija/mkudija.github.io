@@ -149,6 +149,7 @@ publish: true
 - [[2025-04-12-Sat]]: *[[~The Adventures of Loupio|The Adventures of Loupio]]*
 - [[2025-04-13-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
 - In Progress:
+	- [[2025-05-20-Tue]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]*
 
 ---
 **Topic**: [[Reading]]

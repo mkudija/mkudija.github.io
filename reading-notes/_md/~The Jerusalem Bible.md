@@ -24,7 +24,7 @@ dimensions: 6.5x9.5x2.875
 
 `(New York: Doubleday Books, 1966), 0`
 
-
+- [dale in a tincan](https://youtu.be/q1OEJOaaOWA?t=2564)'s favorite Bible translation 
 
 --- 
 **Topic**: [[The Bible]]

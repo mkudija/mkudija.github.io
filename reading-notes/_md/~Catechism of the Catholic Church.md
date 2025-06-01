@@ -555,6 +555,7 @@ From the *Roman Catechism* [[bib]] (25):
 - [I. Justification](https://www.vatican.va/archive/ENG0015/__P6Y.HTM)
 - [II. Grace](https://www.vatican.va/archive/ENG0015/__P6Z.HTM)
 - [III. Merit](https://www.vatican.va/archive/ENG0015/__P70.HTM)
+	- *[[2020-07-31-Story of a Soul#^4907b6]]*
 - [IV. Christian Holiness](https://www.vatican.va/archive/ENG0015/__P71.HTM)
 - [IN BRIEF](https://www.vatican.va/archive/ENG0015/__P72.HTM)  
 

@@ -25,7 +25,7 @@ finishednotes:
 
 ## Introduction
 
-
+*[[Reading Notes/~Early Church Fathers Collection]]*
 --- 
 **Topic**: [[Bible Commentary]]
 

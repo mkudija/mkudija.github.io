@@ -42,7 +42,7 @@ Fr. Dailey recommended this to me and I was reintroduced to it when finishing th
   - Old and New are bound together especially through liturgy: (Christ as first-born points to Exodus passover)
 - real worship is the self-offering of the Son (58)
 - "The Eucharist is the meeting point of all the lines that lead from the Old Covenant, indeed, from the whole of man's religious history. Here at last is right worship, ever longed for and yet surpassing our powers: adoration in 'spirit and truth'" (61)
-- Likely in this section, cited in *[[~Roman Pilgrimage|Roman Pilgrimage]]* 168: "On Sinai, the people receive not only instructions about worship, but an all-embracing rule of law and life. Only thus can it become a people. A people without a common rule of law cannot live. It destroys itself in [[True Freedom|anarchy, which is a parody of freedom]], its exaltation to the point of abolition. When every man lives without law, every man lives without freedom." ^02e2ec
+- Likely in this section, cited in *[[2025-04-27-Roman Pilgrimage|Roman Pilgrimage]]* 168: "On Sinai, the people receive not only instructions about worship, but an all-embracing rule of law and life. Only thus can it become a people. A people without a common rule of law cannot live. It destroys itself in [[True Freedom|anarchy, which is a parody of freedom]], its exaltation to the point of abolition. When every man lives without law, every man lives without freedom." ^02e2ec
 
 
 ## Part II: Time and Space in the Liturgy

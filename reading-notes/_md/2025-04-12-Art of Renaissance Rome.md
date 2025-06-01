@@ -97,7 +97,7 @@ Fr. Raymund send us this book ahead of our pilgrimage to Rome: I can't wait to s
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F24%2Fd3%2F64%2F24d364f2798d3012a085e0eec44fc4e4.jpg&f=1&ipt=731e2a3df917185e837cb8ec8890b5609e209086646fd5a7ca9bb5c1b75bbecf" width="100%">
 
 --- 
-**Topic**: [[Travel-Rome]], Art
+**Topic**: [[Travel-Rome]], [[Sacred Art]]
 
 **Source**
 - [[Fr. Raymund]] [[2024-09-26-Thu]]

@@ -27,6 +27,7 @@ finished:
 
 **Source**
 - [[Dan Loesing]] [[2023-12-02-Sat]] (what he used to teach CCD)
+- Borrowed from [[Dan Loesing]] [[2025-05-08-Thu]] (along with *[[~The Leonine Encyclicals|The Leonine Encyclicals]]*)
 
 **Bibliography**
 

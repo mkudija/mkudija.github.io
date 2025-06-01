@@ -17,6 +17,10 @@ finished:
 finishednotes:
 translation: A Literal Translation of the Bible
 dimensions: 9x11.125x1.875
+languages: 
+  - Hebrew
+  - Greek
+  - English
 ---
 # *[The Interlinear Bible]()* by [[Jay P. Green]]
 

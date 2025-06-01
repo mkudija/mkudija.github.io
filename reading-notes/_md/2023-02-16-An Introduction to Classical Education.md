@@ -48,7 +48,7 @@ finished: 2023-02-16
 - *God in the Dock* by [[C. S. Lewis]]
 - *The Scandal of the Evangelical Mind* by Mark Noll
 - *After Modernity, Then What?* by Thomas Oden
-- *[[~2021-11-12-Amusing Ourselves to Death|Amusing Ourselves to Death]]* by [[Neil Postman]]
+- *[[2025-05-31-Amusing Ourselves to Death|Amusing Ourselves to Death]]* by [[Neil Postman]]
 - *Founders of the Middle Ages* by E.K. Rand 
 - *Habits of the Mind* by James Sire
 - *Age of Opportunity* by Paul Tripp 

@@ -14,7 +14,7 @@ wishlist: 2025-02-22
 acquired: 
 started: 2025-02-22
 finished: 2025-04-12
-finishednotes:
+finishednotes: none
 ---
 # *[The Adventures of Loupio: Volumes 1-7]()* by [[Jean-Francois Kieffer]]
 
