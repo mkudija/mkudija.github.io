@@ -20,9 +20,15 @@ finishednotes:
 
 <img src="http://books.google.com/books/content?id=iwNwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Crown, 2003-01-28), 386`
+`(New York: Crown, 2003), 386`
 
+- Indoc 
+- Hell Week 
+- 35 Started Second Phase 
+- 20 Started Third Phase
+- 20 at San Clemente 
 
+Luttrell from *[[2025-02-22-Lone Survivor|Lone Survivor]]*: 235
 
 # Notes
 
@@ -93,7 +99,10 @@ _**Summary**: _
 
 ## Chapter 6:
 _**Summary**: _
-
+- "Navy SEALs are proud of the fact that they have never left a man behind in combat. This mind-set begins here, where they learn that they can be totally exhausted and still carry a man out on the run." (243)
+- The BUD/S mentality: one evolution at a time, work as a team, get the job done, put out 110 percent, and don't piss off the instructors. (243)
+- ==speech on 274==
+- ==poem on 276==
 
 
 ## Chapter 7:
@@ -101,118 +110,9 @@ _**Summary**: _
 
 
 
-## Chapter 8:
+## Epilogue
 _**Summary**: _
 
-
-
-## Chapter 9:
-_**Summary**: _
-
-
-
-## Chapter 10:
-_**Summary**: _
-
-
-
-## Chapter 11:
-_**Summary**: _
-
-
-
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
-
-
-
-## Chapter 16:
-_**Summary**: _
-
-
-
-## Chapter 17:
-_**Summary**: _
-
-
-
-## Chapter 18:
-_**Summary**: _
-
-
-
-## Chapter 19:
-_**Summary**: _
-
-
-
-## Chapter 20:
-_**Summary**: _
-
-
-
-## Chapter 21:
-_**Summary**: _
-
-
-
-## Chapter 22:
-_**Summary**: _
-
-
-
-## Chapter 23:
-_**Summary**: _
-
-
-
-## Chapter 24:
-_**Summary**: _
-
-
-
-## Chapter 25:
-_**Summary**: _
-
-
-
-## Chapter 26:
-_**Summary**: _
-
-
-
-## Chapter 27:
-_**Summary**: _
-
-
-
-## Chapter 28:
-_**Summary**: _
-
-
-
-## Chapter 29:
-_**Summary**: _
-
-
-
-## Chapter 30:
-_**Summary**: _
 
 
 --- 

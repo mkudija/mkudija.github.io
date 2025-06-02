@@ -18,7 +18,7 @@ finishednotes: 2025-04-29
 ---
 # *Santa Maria Novella and its Monumental Cloisters* by [[Fr. Stefano Orlandi, O.P.]]
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51UGEv7FCrL._SY445_SX342_.jpg&f=1&nofb=1&ipt=f3b0606a676bd015e587d9526b8159d9f77410c8e58d5929959618ee37917a84" width=150>==
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51UGEv7FCrL._SY445_SX342_.jpg&f=1&nofb=1&ipt=f3b0606a676bd015e587d9526b8159d9f77410c8e58d5929959618ee37917a84" width=150>
 
 `(Florence: Becocci Editore, 2004), 96`
 

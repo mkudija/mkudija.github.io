@@ -16,7 +16,7 @@ started: 2025-02-23
 finished: 2025-04-27
 finishednotes: 2025-04-27
 ---
-# *[Roman Pilgrimage](https://www.hachettebookgroup.com/titles/george-weigel/roman-pilgrimage/9780465027699/?lens=basic-books)* by [[George Weigel]]
+# *[Roman Pilgrimage: The Station Churches](https://www.hachettebookgroup.com/titles/george-weigel/roman-pilgrimage/9780465027699/?lens=basic-books)* by [[George Weigel]]
 
 <img src="https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780465027699.jpg?resize=1213,1536" width=150>
 
