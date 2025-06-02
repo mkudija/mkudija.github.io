@@ -27,6 +27,7 @@ finishednotes: 2025-05-31
 
 >Christianity is a demanding and serious religion. When it is delivered as easy and amusing, it is another kind of religion altogether." (121)
 
+
 *Amusing Ourselves to Death* is Postman's warning that Huxley's dystopia of enslavement to diversion is coming true rather than Orwell's dystopia of enslavement to dictators. He observes that we had a first major shift from *speech* to *writing*, and are currently undergoing a second major shift from *writing* to *electronics*: television in his day, but expanded to the internet and social media in our own. 
 
 Our tools for thought shape that very thought, and not in ways positive for public discourse according to Postman. The move from typography to television results in the decline of the seriousness, clarity, and value of public discourse. In a culture dominated by print, public discourse tends to be characterized by a coherent, orderly arrangement of facts and ideas. This is unravels in a culture dominated by television and its current extensions with their decontextualized information and focus on entertainment. 
@@ -34,6 +35,8 @@ Our tools for thought shape that very thought, and not in ways positive for publ
 Our public discourse has now entered the age of show businesses, where it functions primarily as entertainment. Television trivializes important aspects of public discourse, especially religion, politics, and education: where the substance of these endeavors is replaced with a goal of diversion and entertainment. 
 
 Huxley's dystopia is here and we must "take arms against this sea of amusements"—as a Catholic parent this also echoes the call of the Second Vatican Council to "guard carefully" against these harmful influences in our homes (156, cf. *[[~Inter mirifica#^9e9a00|Inter mirifica]]* 9-10).
+
+For a contemporary Christian interpretation of Postman, see *[[2025-05-31-Scrolling Ourselves to Death|Scrolling Ourselves to Death]]*.
 
 # Notes
 

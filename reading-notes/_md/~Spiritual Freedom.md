@@ -28,7 +28,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- 
+- *[[2025-03-17-Jesus and the Jubilee|Jesus and the Jubilee]]*
  ---
 Created: [[2025-03-15-Sat]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
