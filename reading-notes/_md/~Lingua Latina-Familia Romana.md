@@ -54,6 +54,28 @@ Used for [[VSI Latin 101]]
 **Num**-is...(expecting negative)?
 **sed**-but
 ### Cap. II Vocabulary
+**vir**—man
+- vir
+- vir**i**
+
+**filius**-son
+**filia**-daughter
+**liberi**-children
+**servus**/i-servant/s
+**ancilla**/ae-female servant/s ?
+
+
+Genitive 
+**servi**-of the servant 
+**servorum**-of the servants
+
+
+**Quis/Quae**-who...?
+**Cuius**-whose...?
+**Quot**-how many...?
+
+
+### Cap. III Vocabulary
 
 --- 
 **Topic**: [[Latin]], [[LINGVA LATINA PER SE ILLVSTRATA|LLPSI]]
