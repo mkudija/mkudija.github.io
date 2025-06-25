@@ -27,8 +27,7 @@ dimensions: 8.5x12x2.25
 
 [The Holy Bible – R. MICHELSON GALLERIES](https://www.rmichelson.com/artists/barry-moser/the-holy-bible/)
 
-- [[2025-05-25-Sun]]-[[Gn-17#v1]]: "I am the Almighty God; walk before me, and be thou perfect." 
-- 
+
 
 --- 
 **Topic**: [[The Bible]]

@@ -51,7 +51,7 @@ finishednotes:
 
 ## *Sapientiae Christianae: On Christians as citizens*
 28 pgs
-## *[[~Rerum Novarum|Rerum Novarum]]: On the rights and duties of capital and labor*
+## *[[2025-06-25-Rerum Novarum|Rerum Novarum]]: On the rights and duties of capital and labor*
 40 pgs
 
 ## *[[2025-05-30-Providentissimus Deus|Providentissimus Deus]]: On the study of Holy Scripture*

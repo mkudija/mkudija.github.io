@@ -302,7 +302,7 @@ Finally, John Paul II is a great inspirational figure. *Witness to Hope* shows h
 - [[Henri de Lubac]] observed the rise of "atheistic humanism" preaching a new worldview by the likes of Compte, Feuerbach, Marx, and Nietzsche (600)
 - John Paul II saw Mikhail Gorbachev as a man of principle who, though false in his belief that he could "save communism with a human face", could be understood and reasoned with (602)
 - *Centesimus Annus* as an encyclical that dealt with economics from the bottom up rather than top down (612)
-	- Pope Leo XIII (*[[~Rerum Novarum|Rerum Novarum]]*) and John Paul II both saw the collapse of [[Socialism]] as inevitable because of its fundamental error about the nature of the human person (614)
+	- Pope Leo XIII (*[[2025-06-25-Rerum Novarum|Rerum Novarum]]*) and John Paul II both saw the collapse of [[Socialism]] as inevitable because of its fundamental error about the nature of the human person (614)
 	- [[Marxism]] held that only by exacerbating social conflicts was it possible to resolve them through violent confrontation (614)
 	- *Centesimus Annus* was the CST abandonment of a "third way" between capitalism and socialism (615)
 	- Prophetic: "Atheistic humanism may have been a dead letter, jut John Paul II detected on the horizon a new secularist ideology that posed a serious threat to the future of freedom." (617)

@@ -29,7 +29,7 @@ finishednotes: partial
 - "ECT is a beginning" (ix)
 - "The final test of ECT will be whether it strengthens the church's witness to the gospel of reconciliation" (x, cf. [[2 Cor-05#v19]])
 - Books influencing ECT include *[[~The Naked Public Square|The Naked Public Square]]*, *[[~Kingdoms in Conflict|Kingdoms in Conflict]]*, and *The Body: Being Light in Darkness*
-- ECT authors: "All of the participants evidenced a robust skepticism about 'ecumenical' statements that hedge on important differences. Again and again it was said that the only unity we could seek, the only unity that is pleasing toGod, is unity in the truth." (xii)
+- ECT authors: "All of the participants evidenced a robust skepticism about 'ecumenical' statements that hedge on important differences. Again and again it was said that the only unity we could seek, the only unity that is pleasing to God, is unity in the truth." (xii)
 
 ## ECT Statement: "Evangelicals and Catholics Together: The Christian Mission in the Third Millennium"
 - Opening: "We are Evangelical Protestants and Roman Catholics who have been led through prayer, study, and discussion to common convictions about Christian faith and mission." (xv)
@@ -57,7 +57,7 @@ finishednotes: partial
 - **We Contend Together**
 	- As we are bound together by Christ and his cause, so we are bound together in contending against al that opposes Christ and his cause.
 	- Christians individually and the church corporately also have a responsibility for the right ordering of civil society.
-	- Poltics, law, and culture must be secured by moral truth. 
+	- Politics, law, and culture must be secured by moral truth. 
 	- In this country, too, freedom of religion cannot betaken for granted but requires constant attention. We strongly affirm the separation of church and state, and just as strongly protest the distortion of the principle to mean the separation of religion from public life. 
 	- We will persist in contending in order ot secure the legal protection of the unborn.
 	- In public education, we contend together for schools that transmit to coming generations our cultural heritage, which is inseparable from the formative influence of religion, especiallyJudaism and Christianity. Education tor responsible citizenship and social behavior si inescapably moral education.

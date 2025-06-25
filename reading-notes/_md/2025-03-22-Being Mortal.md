@@ -246,7 +246,7 @@ _**Summary**: Our ability to push against our morality is limited, and we should
 **Topic**: 
 
 **Source**
-- [[Laura]], [[Kudija Family Book Club]]
+- [[Laura]]: [[Kudija Family Book Club]]
  
 ---
 Created: [[2025-01-06-Mon]]

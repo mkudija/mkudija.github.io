@@ -6,7 +6,7 @@
 
 ## Chapter 1 - Big Government
 - Books Mentioned:
-  - *[[~Rerum Novarum|Rerum Novarum]]* by Leo XIII (17)
+  - *[[2025-06-25-Rerum Novarum|Rerum Novarum]]* by Leo XIII (17)
   - *Quadragesimo Anno* by Pius XI (17)
   - *Celebrating Middle Earth* ed. by West (191)
   - *[[~Democracy in America]]* by de Tocqueville (27)

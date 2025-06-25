@@ -28,7 +28,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- [[Mom]], 2025 book club
+- [[Mom]]: [[Kudija Family Book Club]]
  
 **[[New Words]]**
 - 

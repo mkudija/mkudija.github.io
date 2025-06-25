@@ -24,6 +24,11 @@ finishednotes:
 >With verve and erudition, writing from the perspective of the vibrant movement of Reformed catholicity, Matthew Barrett has written a stimulating introduction to the figures and controversies of Reformation era. He defends the Augustinian-Thomistic theology that was advocated by a number of first- and second-generation Reformers. Historically sensitive and theologically sophisticated, Barrett's argument is that the Reformers carried forward a church that was catholic but not Roman. So long as it doesn't entail the notion Roman Catholics are Roman but not catholic, his argument may offer promising ecumenical potential.  
 -Matthew Levering, James N. Jr. and Mary D. Perry Chair of Theology, Mundelein Seminary
 
+
+- [On Matthew Barrett’s “The Reformation as Renewal: Retrieving The One, Holy, Catholic, and Apostolic Church” - The London Lyceum](https://thelondonlyceum.com/on-matthew-barretts-the-reformation-as-renewal-retrieving-the-one-holy-catholic-and-apostolic-church/)
+	- "With that hoped-for unity in mind, Barrett’s _The Reformation as Renewal_ reveals some surprising and often unrecognized ways in which we are already one. With that in mind we should be encouraged in our pursuit of the goal of visible unity in the _one_, holy, catholic, and apostolic Church. Who knows what the Spirit may give?"
+
+
 --- 
 **Topic**: 
 

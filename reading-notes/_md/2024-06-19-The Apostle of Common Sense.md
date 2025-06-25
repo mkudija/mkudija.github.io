@@ -113,7 +113,7 @@ I started reading this on my Kindle before meeting Dale Ahlquist at a [[Chestert
 
 ## Chapter 11: The Outline of Sanity
 - A collection of essays 
-- We think of only [[Socialism]] (the natural result of which is the government owns all property and controls all aspects of life) and [[Capitalism]] (the natural result of which is one person owning everything and everyone else owning nothing) as the economic systems, but he argues for a third. Chesterton proposes [[Distributism]]: freedom and responsibility, security based upon the widespread ownership of private property. The name comes from "distributive justice" in *[[~Rerum Novarum|Rerum Novarum]]*
+- We think of only [[Socialism]] (the natural result of which is the government owns all property and controls all aspects of life) and [[Capitalism]] (the natural result of which is one person owning everything and everyone else owning nothing) as the economic systems, but he argues for a third. Chesterton proposes [[Distributism]]: freedom and responsibility, security based upon the widespread ownership of private property. The name comes from "distributive justice" in *[[2025-06-25-Rerum Novarum|Rerum Novarum]]*
 - [[Socialism]] does not accomplish any of the things it sets out to do because it does not trust the common man and leaves nothing to common sense 
 - Chesterton prophesies "big business" with "The Bluff of the Big Shops"
 - [[Distributism]] is democracy, because democracy can only work if property is widespread. Peasantry is self-support, self-control, and self-government.

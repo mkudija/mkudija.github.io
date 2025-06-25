@@ -33,8 +33,39 @@ languages:
 
 Used for [[VSI Latin 101]]
 
+### Common Phrases
+**Ubi**-where...?
+**Quid**-what...?
+**Quis/Quae**-who...?
+**Quot**-how many...?
+**Cuius**-whose...?
+**Cur**-why...? / **Quia**-because...
+**Esne**-is...?
+**Num**-is...(expecting negative)?
+**Neque**-nor, neither, and not
+**sed**-but
+==add guide pg 23==
 
-### Cap. I Vocabulary
+### Noun Declensions
+| Declinatio  | Description                                           | Endings                 |
+| ----------- | ----------------------------------------------------- | ----------------------- |
+| nominativus |                                                       |                         |
+| accusativus | direct object of a verb<br>(what is being acted upon) | s: -um/am/um<br>pl: -os/as/a |
+| genetivus   | "of"                                                  | s: -i/ae<br>pl: -orum   |
+| dativus     |                                                       |                         |
+| ablativus   | prepositions:<br>in, ex, ab, cum, sine                | s: -o/a/o<br>pl: -is/is/is   |
+| vocativus   |                                                       |                         |
+
+### Verb Endings 
+Indicative 
+- s: -t
+- pl: -nt
+
+Imperative (command)
+- s: -a/e/e/i
+- pl: -ate/ete/ite/ite
+
+### Cap. I
 **fluvius**—river; **numerus**—number
 - fluvi**us**
 - fluvi**i**
@@ -53,7 +84,9 @@ Used for [[VSI Latin 101]]
 **Esne**-is...?
 **Num**-is...(expecting negative)?
 **sed**-but
-### Cap. II Vocabulary
+### Cap. II*
+*genitive*
+
 **vir**—man
 - vir
 - vir**i**
@@ -61,6 +94,7 @@ Used for [[VSI Latin 101]]
 **filius**-son
 **filia**-daughter
 **liberi**-children
+**liber**-book
 **servus**/i-servant/s
 **ancilla**/ae-female servant/s ?
 
@@ -73,9 +107,49 @@ Genitive
 **Quis/Quae**-who...?
 **Cuius**-whose...?
 **Quot**-how many...?
+**Num**-...?
 
 
-### Cap. III Vocabulary
+### Cap. III
+*accusative (ends in "m"), 3rd person singular of verbs (ends in "t")*
+
+**Ubi**-where...?
+**Quid**-what...?
+**Quis/Quae**-who...?
+**Quot**-how many...?
+**Cuius**-whose...?
+**Cur**-why...? / **Quia**-because...
+**Esne**-is...?
+**Num**-is...(expecting negative)?
+**sed**-but
+
+==add chart on 23 of guide==
+
+**Quis** est puer **qui** ridet? | _**Who** (interrogative) is the boy **who** (relative) is laughing?_
+**Quae** est puella **quae** plorat? | _**Who** (interrogative) is the girl **who** (relative) is crying?_
+
+
+
+### Cap. IV
+
+**discedit**-go away, depart
+**habet**-have, hold, consider
+**paret**-obey
+**sumit**-take
+**tacet**-be silent
+**rursus**-again, back
+**tantum**-so much, only
+**pecunia**-money
+**nummus**-coin
+
+### Cap. V
+
+
+### Cap. VI
+
+### Cap. VII
+
+
 
 --- 
 **Topic**: [[Latin]], [[LINGVA LATINA PER SE ILLVSTRATA|LLPSI]]

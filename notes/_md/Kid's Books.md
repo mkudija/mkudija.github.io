@@ -148,8 +148,10 @@ publish: true
 - [[2025-03-31-Mon]]: *[[2025-03-31-Little Pilgrim's Progress|Little Pilgrim's Progress (The Illustrated Edition)]]*
 - [[2025-04-12-Sat]]: *[[~The Adventures of Loupio|The Adventures of Loupio]]*
 - [[2025-04-13-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
+- [[2025-06-15-Sun]]: *[[~Sir Gawain and the Green Knight|Sir Gawain and the Green Knight]]*
 - In Progress:
-	- [[2025-05-20-Tue]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]*
+	- [[2025-05-20-Tue]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]* and *[[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible]]*
+	- [[2025-06-15-Sun]]: *[[~World War II Stories for Kids|World War II Stories for Kids]]*
 
 ---
 **Topic**: [[Reading]]

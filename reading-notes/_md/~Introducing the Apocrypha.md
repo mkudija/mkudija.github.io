@@ -1,5 +1,6 @@
 ---
-aliases: [Introducing the Apocrypha]
+aliases:
+  - Introducing the Apocrypha
 title: Introducing the Apocrypha
 author: David A. deSilva
 category: Religion
@@ -10,10 +11,10 @@ isbn10: 1493413074
 isbn13: 9781493413072
 source: 
 wishlist: 2025-03-19
-acquired: 
+acquired: 2025-06-14
 started: 
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[Introducing the Apocrypha]()* by [[David A. deSilva]]
 
@@ -28,6 +29,7 @@ finishednotes:
 
 **Source**
 - [Disciple Dojo: Why does the Apocrypha matter? (A discussion with David DeSilva)](https://play.pocketcasts.com/podcasts/7217ad80-57b8-0133-c904-0d11918ab357/089e22c3-f268-454d-ad26-52ecc0216d2a)
+- [[Half Price Books]] [[2025-06-14-Sat]]
  ---
 Created: [[2025-03-19-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

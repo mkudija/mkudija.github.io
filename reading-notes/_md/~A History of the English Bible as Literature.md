@@ -27,7 +27,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- *[[~New Cambridge Paragraph Bible with Apocrypha KJ590TA|New Cambridge Paragraph Bible with Apocrypha]]*, [David Norton Interview - Bible Buying Guide](https://biblebuyingguide.com/david-norton-interview/)
+- *[[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible with Apocrypha]]*, [David Norton Interview - Bible Buying Guide](https://biblebuyingguide.com/david-norton-interview/)
  ---
 Created: [[2025-04-10-Thu]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

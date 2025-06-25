@@ -13,13 +13,13 @@ isbn13: 9780521762847
 source: 
 wishlist: 2025-04-09
 acquired: 2025-05-06
-started: 
+started: 2025-05-20
 finished: 
 finishednotes: 
 translation: King James Version
 dimensions: 6.25x8.5x1.875
 ---
-# *[New Cambridge Paragraph Bible with Apocrypha, KJ590:TA]()* by [[David Norton]]
+# *[New Cambridge Paragraph Bible with Apocrypha]()* by [[David Norton]]
 
 <img src="http://books.google.com/books/content?id=HFtvSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

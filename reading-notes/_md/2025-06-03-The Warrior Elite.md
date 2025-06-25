@@ -116,6 +116,12 @@ Second, these men *choose greatness*. There are civilian equivalents, like the a
 - The BUD/S mentality: one evolution at a time, work as a team, get the job done, put out 110 percent, and don't piss off the instructors. (243)
 - Dick Couch's graduation speed (274)
 
+**[[Rules of Weapon Safety]]** (232)
+1. Consider all weapons loaded all the time. 
+2. never point a weapon at anything you don't want to shoot.
+3. Never put your finger on the trigger unless you want to shoot.
+4. Know your target and know what's behind it.
+
 
 ## Chapter 7: Beyond the Basics
 - 20 graduated while 137 failed. 10 of the original 114 (279)
