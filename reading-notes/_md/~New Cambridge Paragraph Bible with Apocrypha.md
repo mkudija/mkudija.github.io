@@ -29,7 +29,9 @@ dimensions: 6.25x8.5x1.875
 >The Authorized Version is, in Norton’s version as in any other, a true treasure of the Christian faith and the English language — but Norton’s work has blown the dust off this masterpiece of prose and made it more of a pleasure to read than ever. I only wish it were more widely known.
 >–[Review: The New Cambridge Paragraph Bible — In the Fourth Nocturn](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5) 
 
-  
+### The translators to the reader
+
+### This section 
 
 --- 
 **Topic**: [[The Bible]]

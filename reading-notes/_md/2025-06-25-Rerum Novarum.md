@@ -27,7 +27,7 @@ finishednotes: 2025-06-25
 Shortly after his election to the Papacy, Pope Leo XIV cited *Rerum Novarum* in explaining his choice of papal name, linking his planned response to the current technological revolution to Leo XIII's response to the Industrial Revolution:
 
 >Sensing myself called to continue in this same path, I chose to take the name Leo XIV. There are different reasons for this, but mainly because Pope Leo XIII in his historic Encyclical _[Rerum Novarum](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html)_ addressed the social question in the context of the first great industrial revolution. In our own day, the Church offers to everyone the treasury of her social teaching in response to another industrial revolution and to developments in the field of artificial intelligence that pose new challenges for the defence of human dignity, justice and labour.
->–[[Pope Leo XIV]] , *[Address of His Holiness Pope Leo XIV to the College of Cardinals Saturday](https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html)*,10 May 2025
+>–[[Pope Leo XIV]], *[Address of His Holiness Pope Leo XIV to the College of Cardinals Saturday](https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html)*,10 May 2025
 
 *Rerum Novarum* and the other [[~The Leonine Encyclicals|Leonine Encyclicals]] along with the subsequent magisterium on Catholic Social Teaching, then, is helpful context for thinking about how Pope Leo may develop this magisterium.
 
@@ -49,7 +49,7 @@ He closes with a lengthy invitation to create labor unions in the model of the a
 Throughout *Rerum Novarum* Leo emphasizes that solutions must be based in Christian morality and truth: "If human society is to be healed now, in no other way can it be healed save by a return to Christian life and Christian institutions". I look forward to hearing how our new Pope Leo XIV develops the stream of Catholic Social Teaching and the thought of Leo XIII in our age.
 
 
-
+## Notes
 - 1-2: *Introduction and warning*
 	- "That the spirit of revolutionary change, which has long been disturbing the nations of the world, should have passed beyond the sphere of politics and made its influence felt in the cognate sphere of practical economics is not surprising." (1)
 	- "It is no easy matter to define the relative rights and mutual duties of the rich and of the poor, of capital and of labor. And the danger lies in this, that crafty agitators are intent on making use of these differences of opinion to pervert men's judgments and to stir up the people to revolt." (2)
@@ -161,6 +161,7 @@ Throughout *Rerum Novarum* Leo emphasizes that solutions must be based in Christ
 - How might we re-frame the duties of workers and employers toward one another for our age? (20)
 - What does it mean to live becomingly [*convenienter*] (22)?
 	- Is this where Leo misinterprets (or disagrees with) Thomas? "It is a duty, not of justice (save in extreme cases), but of Christian charity - a duty not enforced by human law." (22)
+	- For another perspective, see [[David Bentley Hart]]'s *[Christ's Rabble](https://www.commonwealmagazine.org/christs-rabble)*.
 - How should we use our talents to support those in need (cf. St. Gregory the Great in 22)?
 - Discuss [[distributism]] from 33: *distributivam justitiam*
 - How in our fatherhood can we "exercise as the power of God is exercised—with a fatherly solicitude"? (35)

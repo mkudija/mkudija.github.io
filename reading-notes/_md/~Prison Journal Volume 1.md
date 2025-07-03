@@ -8,8 +8,10 @@ total_page: 348
 publish_date: 2020-12-16
 isbn10: 1642291420
 isbn13: 9781642291421
+acquired: 2025-06-28
 started: 
 finished: 
+finishednotes:
 ---
 # *[Prison Journal, Volume 1](https://ignatius.com/prison-journal-volume-1-pj1p/)* by [[George Cardinal Pell]]
 

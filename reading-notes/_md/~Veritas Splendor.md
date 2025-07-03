@@ -16,7 +16,7 @@ started:
 finished: 
 finishednotes:
 ---
-# *[Veritatis Splendor]()* by [[Catholic Church. Pope (1978-2005 : John Paul II), Johannes Paulus II (påve)]]
+# *[Veritatis Splendor]()* by [[John Paul II]]
 
 <img src="http://books.google.com/books/content?id=33EhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 

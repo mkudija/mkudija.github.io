@@ -35,6 +35,8 @@ Used for [[VSI Latin 101]]
 
 ### Common Phrases
 **Ubi**-where...?
+**Quo?**-where to...?
+**Unde?**-from where? whence?
 **Quid**-what...?
 **Quis/Quae**-who...?
 **Quot**-how many...?
@@ -47,14 +49,14 @@ Used for [[VSI Latin 101]]
 ==add guide pg 23==
 
 ### Noun Declensions
-| Declinatio  | Description                                           | Endings                 |
-| ----------- | ----------------------------------------------------- | ----------------------- |
-| nominativus |                                                       |                         |
-| accusativus | direct object of a verb<br>(what is being acted upon) | s: -um/am/um<br>pl: -os/as/a |
-| genetivus   | "of"                                                  | s: -i/ae<br>pl: -orum   |
-| dativus     |                                                       |                         |
+| Declinatio  | Description                                           | Endings                      |
+| ----------- | ----------------------------------------------------- | ---------------------------- |
+| nominativus |                                                       |                              |
+| accusativus | direct object of a verb<br>(what is being acted upon,<br>and other propositions) | s: -um/am/um<br>pl: -os/as/a |
+| genetivus   | "of"                                                  | s: -i/ae<br>pl: -orum        |
+| dativus     |                                                       |                              |
 | ablativus   | prepositions:<br>in, ex, ab, cum, sine                | s: -o/a/o<br>pl: -is/is/is   |
-| vocativus   |                                                       |                         |
+| vocativus   |                                                       |                              |
 
 ### Verb Endings 
 Indicative 
@@ -114,6 +116,7 @@ Genitive
 *accusative (ends in "m"), 3rd person singular of verbs (ends in "t")*
 
 **Ubi**-where...?
+**Quo?**-where to...?
 **Quid**-what...?
 **Quis/Quae**-who...?
 **Quot**-how many...?
@@ -143,12 +146,35 @@ Genitive
 **nummus**-coin
 
 ### Cap. V
-
+**it/eunt**-go
+**fessus**-tired
+**longus**-long
+**autem**-but, however
+**itaque**-therefore
+**nam**-for
+**procul**-far
+**quam**-how, as, than
+**tam**-so, as
 
 ### Cap. VI
 
 ### Cap. VII
 
+### Cap. VIII
+
+### Cap. IX
+
+### Cap. X
+
+### Cap. XI
+
+### Cap. XII
+
+### Cap. XIII
+
+### Cap. XIV
+
+### Cap. XV
 
 
 --- 
