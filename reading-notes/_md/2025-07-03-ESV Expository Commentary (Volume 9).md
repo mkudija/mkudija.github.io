@@ -22,7 +22,7 @@ finishednotes: 2025-07-03
 
 `(New York: Crossway, 2020), 650`
 
-*Full 12-Volume Set: [ESV Expository Commentary | Crossway](https://www.crossway.org/books/esv-expository-commentary-premiumhc-7/)*
+*Full 12-Volume Set: [ESV Expository Commentary](https://www.crossway.org/books/esv-expository-commentary-premiumhc-7/)*
 
 <div class="note"> <p>On John's Prologue: "Like a symphony studied centuries after its creation, its melodies and harmonies charm those who hear only the surface, while astounding those who explore its depths." (23)</p> </div> 
 
@@ -65,7 +65,7 @@ A survey of a few other resources include the following comments on John 6 in re
 - The *[[~Catholic Commentary on Sacred Scripture New Testament Set|Catholic Commentary on Sacred Scripture]]* sees the same connection between the "flesh" and the cross, and connects this to the Eucharist: "The same flesh and blood offered by Christ to the Father on the cross and then resurrected to glory is given to us in the Eucharist. By consuming Christ's glorified flesh and blood in the Eucharist, we receive eternal life and will also share in his resurrection" (129). This commentary also notes the change in vocabulary in the Greek for "to eat".
 - The *[[~Gospels and Acts|Navarre Bible]]* notes the spiritual nature of Jesus offering his flesh to us: "In the same way as bodily food is necessary for life on earth, Holy Communion is necessary for maintaining the life of the soul, which is why the Church exhorts us to receive this sacrament frequently" (596).
 - Aquinas indicates how the Eucharist *communicates* Christ: "Yet it was especially suitable that he institute in his own person this sacrament, in which his body and blood are communicated. Hence he himself says: *the bread that I shall give for the life of the world is my flesh*" (*[[~Thomas Aquinas-Selected Commentaries on the New Testament|Thomas Aquinas-Selected Commentaries on the New Testament]]*, 230). Thomas, elsewhere commenting on Hebrews 2:14, cites John 5 and [[St. John Chrysostom]]: "By flesh and blood can also be understood the flesh and blood of Christ according to the statement *he who eats my flesh and drinks my blood* (John 6:55), of which *the children*, i.e., the apostles, partook at the last supper and of which Christ partook, as Chrysostom expressly says about Matthew 26: *He drank his own blood*" (ibid. 123; cf. John Chrysostom, *Homilies on the Gospel of Saint Matthew* 82).
-- I published these reflections on July 3, the feast of Saint Thomas, Apostle. The [[~Roman Missal|Prayer after Communion]] for this feast touches on these themes of Eucharistic and faith:
+- I published these reflections on July 3, the feast of Saint Thomas, Apostle. The [[~Roman Missal|Prayer after Communion]] for this feast touches on these themes of Eucharist and faith:
 
 >O God, as we truly receive in this Sacrament 
 >the Body of your Only Begotten Son, 
@@ -147,8 +147,10 @@ I'll close this reflection on the *ESV Expository Commentary* on John by affirmi
 - "There is nothing we need Jesus to give us more than what he provides: himself. There is nothing more precious than what Jesus gives us: himself. There is nothing more able to save than what Jesus gives us: himself. There is nothing more satisfying than what Jesus gives us: himself. He is the Bread of Life. He has life in himself. By eating his flesh and drinking his blood, we abide in him. The Father gave life to Jesus, and he gives life to us." (145)
 
 ## John 17:9-26
-*261*
-- *add additional notes*
+- "This unity between the members of the Godhead is the basis for the unity Jesus asks the Father to create among his followers: "that they may be one, even as we are one ([[Jn-17#v11]])." (262)
+- "In verses 14-16 Jesus speaks of what distinguishes his people from the world: the word of God. By giving his people the word, Jesus has created and unworldly way of thinking, living, and being for his followers." (263)
+- "Jesus states the tremendously important purpose of the unity of those who believe: 'that the world may believe that you have sent me' (v. 21c). Jesus expects the unworldly unity of his followers to have an evangelistic impact on the unbelieving world. This means that Jesus expects the unity of the church to be convincing to the world." (264)
+- Response: "Are we putting ourselves in position for the Word to do its work in our lives? Are we doing our part to contribute to the unity of the church?" (266)
 
 # Acts
 *Brian J. Vickers*
