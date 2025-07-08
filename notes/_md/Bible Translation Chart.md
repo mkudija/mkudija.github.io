@@ -42,6 +42,8 @@ lbj(La Bible de Jérusalem 1956)
 jb(JB 1966)
 njb(NJB 1985)
 rnjb(RNJB 2019)
+tlb(TLB 1971)
+tlbce(TLB-CE 1976)
 nlt(NLT 1996)
 nltce(NLT-CE 2016)
 alv(ALV 2016)
@@ -94,6 +96,9 @@ jb --> njb:::ct
 jb --> ctsncb:::ct
 njb --> rnjb:::ct
 orig --> niv:::pt
+orig --> tlb:::pt
+tlb --> tlbce:::ct
+tlb --> nlt
 orig --> nlt:::pt
 nlt --> nltce:::ct
 niv --> niv84:::pt
@@ -109,6 +114,7 @@ click cbpcncb "https://www.biblegateway.com/versions/New-Catholic-Bible-NCB-Bibl
 ```
 
 **Reference**
+- See the two charts alongside my notes for *[[2025-07-06-The King James Bible-A Short History from Tyndale to Today|The King James Bible-A Short History from Tyndale to Today]]* giving more detail to: 1) the origins of the KJV, and 2) the development of the KJV since the 1611 first edition
 - [EvangelicalBible.com - English Bible Overview](https://evangelicalbible.com/wp-content/uploads/2019/05/english_bible_history5.19.png)
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fredeeminggod.com%2Fwp-content%2Fuploads%2F2011%2F07%2FBible-Translation-tree-570x722.gif&f=1&nofb=1">

@@ -49,23 +49,23 @@ Used for [[VSI Latin 101]]
 ==add guide pg 23==
 
 ### Noun Declensions
-| Declinatio  | Description                                           | Endings                      |
-| ----------- | ----------------------------------------------------- | ---------------------------- |
-| nominativus |                                                       |                              |
+| Declinatio  | Description                                                                      | Endings                      |
+| ----------- | -------------------------------------------------------------------------------- | ---------------------------- |
+| nominativus |                                                                                  |                              |
 | accusativus | direct object of a verb<br>(what is being acted upon,<br>and other propositions) | s: -um/am/um<br>pl: -os/as/a |
-| genetivus   | "of"                                                  | s: -i/ae<br>pl: -orum        |
-| dativus     |                                                       |                              |
-| ablativus   | prepositions:<br>in, ex, ab, cum, sine                | s: -o/a/o<br>pl: -is/is/is   |
-| vocativus   |                                                       |                              |
+| genetivus   | "of"                                                                             | s: -i/ae<br>pl: -orum        |
+| dativus     |                                                                                  |                              |
+| ablativus   | when verb is passive, and<br>prepositions:<br>in, ex, ab, cum, sine                                           | s: -o/a/o<br>pl: -is/is/is   |
+| vocativus   |                                                                                  |                              |
 
 ### Verb Endings 
-Indicative 
-- s: -t
-- pl: -nt
-
-Imperative (command)
-- s: -a/e/e/i
-- pl: -ate/ete/ite/ite
+- Indicative: 
+	- -t/-nt
+- Imperative (command)
+	- s: -a/e/e/i
+	- pl: -ate/ete/ite/ite
+- Passive (object of verb)
+	- -tur/-ntur
 
 ### Cap. I
 **fluvius**—river; **numerus**—number

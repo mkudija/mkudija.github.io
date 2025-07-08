@@ -15,6 +15,7 @@ acquired:
 started: 2025-06-03
 finished: 2025-07-06
 finishednotes: 2025-07-06
+mermaid: true
 ---
 # *[The King James Bible: A Short History from Tyndale to Today](https://www.cambridge.org/us/universitypress/subjects/religion/biblical-studies-new-testament/king-james-bible-short-history-tyndale-today)* by [[David Norton]]
 
