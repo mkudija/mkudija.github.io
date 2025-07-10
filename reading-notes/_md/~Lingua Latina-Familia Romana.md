@@ -49,14 +49,14 @@ Used for [[VSI Latin 101]]
 ==add guide pg 23==
 
 ### Noun Declensions
-| Declinatio  | Description                                                                      | Endings                      |
-| ----------- | -------------------------------------------------------------------------------- | ---------------------------- |
-| nominativus |                                                                                  |                              |
-| accusativus | direct object of a verb<br>(what is being acted upon,<br>and other propositions) | s: -um/am/um<br>pl: -os/as/a |
-| genetivus   | "of"                                                                             | s: -i/ae<br>pl: -orum        |
-| dativus     |                                                                                  |                              |
-| ablativus   | when verb is passive, and<br>prepositions:<br>in, ex, ab, cum, sine                                           | s: -o/a/o<br>pl: -is/is/is   |
-| vocativus   |                                                                                  |                              |
+| Declinatio  | Description                                                                      | Endings                           |
+| ----------- | -------------------------------------------------------------------------------- | --------------------------------- |
+| nominativus |                                                                                  | s: -us/a/um<br>pl: -i/ae/a        |
+| accusativus | direct object of a verb<br>(what is being acted upon,<br>and other propositions) | s: -um/am/um<br>pl: -os/as/a      |
+| genetivus   | "of"                                                                             | s: -i/ae/i<br>pl: -orum/arum/orum |
+| dativus     | indirect object of a verb, action "for" or "to"                                  | s: -o/ae/o<br>pl: -is/is/is       |
+| ablativus   | when verb is passive, and<br>prepositions:<br>in, ex, ab, cum, sine              | s: -o/a/o<br>pl: -is/is/is        |
+| vocativus   |                                                                                  | -e                                |
 
 ### Verb Endings 
 - Indicative: 

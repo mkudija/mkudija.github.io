@@ -1,18 +1,19 @@
 ---
-aliases: [God's Secretaries]
+aliases:
+  - God's Secretaries
 title: God's Secretaries
 author: Adam Nicolson
 category: Biography & Autobiography
 publisher: Harper Collins
 total_page: 336
 publish_date: 2009-10-13
-isbn10: 0061804029
+isbn10: 61804029
 isbn13: 9780061804021
 source: 
 wishlist: 
 acquired: 2023-07-23
-started: 
-finished: 
+started: 2025-07-06
+finished:
 ---
 # *[God's Secretaries]()* by [[Adam Nicolson]]
 

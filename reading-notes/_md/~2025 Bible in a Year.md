@@ -23,6 +23,9 @@ finishednotes:
 ### Notes 
 - [[2025-05-25-Sun]]-[[Gn-17#v1]]: "I am the Almighty God; walk before me, and be thou perfect." 
 - [[2025-06-12-Thu]]-[[Ex-13#v12]] "Matrix" means womb 
+- [[2025-07-06-Sun]]-[[Nm-06#v10]]: is "turtles" rather than "turtledoves"
+- [[2025-07-06-Sun]]-[[Nm-06#v24]]-27: priestly blessing, and told the boys about how Ratzinger's parents used to bless him, cf. *[[2021-01-27-The Spirit of the Liturgy#^b59826]]* 
+
 
 ### Themes
 - 

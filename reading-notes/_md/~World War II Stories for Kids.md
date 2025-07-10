@@ -13,7 +13,7 @@ source:
 wishlist: 
 acquired: true
 started: 2025-06-15
-finished: 
+finished: 2025-07-07
 finishednotes:
 ---
 # *[World War II Stories for Kids: 15 Inspirational Tales of the Greatest Battles, Best Leaders, and Heroic Moments]()* by [[Spencer Pickens]]
