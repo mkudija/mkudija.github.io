@@ -30,7 +30,7 @@ Postman's warnings have proved prophetic and deserve our attention today, especi
 
 I read this book in the spirit of *[[2024-11-26-Evangelicals and Catholics Together|Evangelicals and Catholics Together]]* and as a Catholic who daily prays for Christian unity: I hoped to learn from my Evangelical brethren about their challenges with digital technology and potential solutions.[^1] I also seek to think deeply about a response to these challenges from the Catholic tradition.
 
-[^1]: I'm grateful from reading this book to have come across thoughtful Evangelicals who think deeply about history, especially [[Matthew Barrett]], cf. *[[~The Reformation as Renewal|The Reformation as Renewal]]*. 
+[^1]: I'm grateful from reading this book to have come across thoughtful Evangelicals who think deeply about history, especially [[Matthew Barrett]], cf. *[[2025-08-10-The Reformation as Renewal|The Reformation as Renewal]]*. 
 
 The best solutions put forward in these essays are largely the same regardless of our ecclesial traditions, namely biblical literacy, strong communities, old books, and a slow life (see Chapter 4).
 

@@ -57,7 +57,7 @@ The nursery shelves held books galore!
 Books cluttered up the nursery floor!
 And in the bedroom, by the bed,
 More books were waiting to be read!
-Such wondrous, fine, fantastic takes
+Such wondrous, fine, fantastic tales
 Of dragons, gypsies, queens, and whales
 And treasure isles, and distant shores
 Where smugglers rowed with muffled oars,

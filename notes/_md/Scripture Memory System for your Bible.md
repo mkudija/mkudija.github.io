@@ -11,7 +11,7 @@ The Scripture Memory System for your Bible is a method of memorizing Scripture *
 See this video for an overview of Katie's system:
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/HoXua-a-YDQ" title="Scripture Memory System for your Bible - Memorized for Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This system uses colored post-it flags to move Scripture passages you are studying through an analog spaced repetition framework. Passages are initially reviewed daily and then passed to lower frequencies as they are mastered: every other day, weekly, monthly, biannual, annual[^spaced].
+This system uses colored post-it flags to move Scripture passages you are studying through an analog spaced repetition framework. Passages are initially reviewed daily and then passed to lower frequencies as they are mastered: every other day, weekly, monthly, biannual, annual.[^spaced]
 
 [^spaced]: This is similar to other common spaced repetition algorithms, for example see here: [How long should spaced repetition intervals be? – Learning Rabbit Hole](https://learningrabbithole.com/how-long-should-spaced-repetition-intervals-be/)
 

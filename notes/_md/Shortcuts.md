@@ -76,6 +76,10 @@ publish: true
 - filter with "all" condition from [here](https://docs.google.com/spreadsheets/d/1P_TGwjaFRzQ4SAaUxfxF--eBQGWyfddbbDcxeg9IGk8/edit#gid=1138395796):
 	- `countifs(Data!$F$3:$F,$B7,Data!$H$3:$H,IF($C$1="All","<>""",$C$1),Data!$B$3:$B,IF($C$2="All","<>""",$C$2),Data!$E$3:$E,F$5)`
 - unpivot using `ARRAYFORMULA(SPLIT(FLATTEN(`: [How to Unpivot Data in Google Sheets](https://dataful.tech/google-sheets/formulas/how-to-unpivot/) and [Unpivot in Google Sheets with FLATTEN: Column pairs, auto expand++ - YouTube](https://youtu.be/lCB6aXcQdV4)
+- Formats: 
+	- `"$"#,##0,"K";"$"-#,##0,"K";--`
+	- `"$"#,##0.0,,"M";-"$"#,##0.0,,"M";--`
+	- `"$"#,##0.0,,,"B";-"$"#,##0.0,,,"B";--`
 
 ## PyCharm
 - `⌘ + ⇧ + 8` - `cmd + shift + 8` - multi-select (or just Shift and arrow)

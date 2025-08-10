@@ -1,5 +1,6 @@
 ---
-aliases: [The Theology of Robert Barron]
+aliases:
+  - The Theology of Robert Barron
 title: The Theology of Robert Barron
 author: Matthew Levering
 category: Religion
@@ -10,10 +11,10 @@ isbn10: 1685780172
 isbn13: 9781685780173
 source: 
 wishlist: 2025-05-28
-acquired: 
-started: 
+acquired: 2025-07-15
+started: 2025-08-04
 finished: 
-finishednotes: 
+finishednotes:
 ---
 # *[The Theology of Robert Barron]()* by [[Matthew Levering]]
 

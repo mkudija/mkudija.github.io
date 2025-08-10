@@ -21,13 +21,13 @@ finishednotes:
 
 `(New York: Zondervan Academic, 2017-09-26), 239`
 
-
+==after this read *[[~Rock and Sand|Rock and Sand]]*?==
 
 --- 
 **Topic**: 
 
 **Source**
-- [[2025-06-03-Matthew Levering Interview]] after reading about *[[~The Reformation as Renewal|The Reformation as Renewal]]*
+- [[2025-06-03-Matthew Levering Interview]] after reading about *[[2025-08-10-The Reformation as Renewal|The Reformation as Renewal]]*
  ---
 Created: [[2025-06-03-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

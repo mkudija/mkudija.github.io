@@ -26,6 +26,8 @@ dimensions: 6.25x8.75x1.25
 - [x] respond to CBT [comment](https://catholicbibletalk.com/2022/05/esv-diadem-w-apocrypha-red-calfskin-leather-edge-lined-review/)! 📅 2023-05-25 ✅ 2023-05-31
 	- uses ESV-CE apocrypha! 
 
+Review: [ESV Diadem w/ Apocrypha (Red Calfskin Leather Edge-Lined) Review – Catholic Bible Talk](https://catholicbibletalk.com/2022/05/esv-diadem-w-apocrypha-red-calfskin-leather-edge-lined-review/)
+
 ### Preface to the English Standard Version Apocrypha
 - "We are pleased to acknowledge further that the bulk of this edition is an adaptation of the ESV with Apocrypha first published by Oxford University Press in 2009. That edition used the Revised Standard Version (RSV) Apocrypha (1971) and the RSV Expanded Apocrypha (1977) as its base. In 2016, a team of Catholic and Protestant scholars from the United Kingdom, Australia, India, and the United States completed a final revision of Tobit, 1–2 Maccabees, Wisdom of Solomon, Sirach, Judith, Baruch, and the Greek additions to Esther and Daniel, thus creating this present edition of the ESV Apocrypha." (xiv)
 	- "The ESV Apocrypha used the Göttingen Septuagint as its textual base, with the following exceptions: 4 Maccabees was translated from Rahlfs' Septuagint and 2 Esdras was translated from the 1983 Vulgate published by the German Bible Society. In the special case of Tobit, the translators used the longer Greek text (Sinaiticus) supplemented by the shorter Greek text (Vaticanus) and the Old Latin version at points where the longer text lacks some verses (4:7–18; 13:6b–10a)." (xv)

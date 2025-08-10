@@ -96,7 +96,7 @@ _**Summary**: _
 
 **Source**
 - [[UA Library]]
-- *[[~The Reformation as Renewal|The Reformation as Renewal]]*
+- *[[2025-08-10-The Reformation as Renewal|The Reformation as Renewal]]*
  ---
 Created: [[2025-06-24-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

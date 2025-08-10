@@ -5,7 +5,7 @@ author: Roald Dahl
 category: Juvenile Fiction
 publisher: Penguin
 total_page: 194
-publish_date: 2017-02-07
+publish_date: 1964
 isbn10: 0147512956
 isbn13: 9780147512956
 source: 
@@ -19,7 +19,7 @@ finishednotes:
 
 <img src="http://books.google.com/books/content?id=f-vvDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Penguin, 2017-02-07), 194`
+`(New York: Penguin, 1964), 194`
 
 ## [[Mike Teavee]]
 ### Mike Teavee

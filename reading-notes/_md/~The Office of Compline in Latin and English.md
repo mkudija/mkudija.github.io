@@ -25,6 +25,7 @@ by [[Archbishop Raymond Burke]]
 
 **Source**
 - [[Jordan]] Birthday 2022
+- ref: [Childhood Memories of Learning Chant and Praying the Divine Office – CERC](https://catholiceducation.org/en/culture/childhood-memories-of-learning-chant-and-praying-the-divine-office.html)
 
 
 **Bibliography**
