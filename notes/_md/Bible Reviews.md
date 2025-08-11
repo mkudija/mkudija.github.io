@@ -23,9 +23,9 @@ This little New Testament is in my pocket most days and has been since I got it 
 This is perhaps the single best Bible study resource for Catholics. It lives on my desk and I frequently refer to it. The notes focus on the content and unity of Scripture which is read in the living tradition of the Church and with the analogy of faith. The only downside is its physical immensity: it is best suited for desk reference, but the individual booklets are useful for travel. 
 ### [[~Cambridge ESV Diadem Reference Bible with Apocrypha Red Calfskin|Cambridge Diadem]] (ESV)
 <strong style="color: white; background-color: #5B7894; border: none; padding: 0px 8px; text-align: center; text-decoration: none; display: inline-block; margin: 1px 0px; border-radius: 14px; font-size: .8em;">My Everday Bible</strong>
-The Cambridge Diadem has been my everyday Bible since mid-2023: it uses the ESV translation,^[esv] is a beautiful premium Bible, and is an easily portable size. This is the Bible I mark up and most commonly bring with me to Church or to teach from, and it is the Bible I use for the [[Scripture Memory System for your Bible]]. 
+The Cambridge Diadem has been my everyday Bible since mid-2023: it uses the ESV translation,[^esv] is a beautiful premium Bible, and is an easily portable size. This is the Bible I mark up and most commonly bring with me to Church or to teach from, and it is the Bible I use for the [[Scripture Memory System for your Bible]]. 
 
-^[esv]: See *[[2023-05-13-Bible Translation & the Making of the ESV Catholic Edition|Bible Translation & the Making of the ESV Catholic Edition]]*
+[^esv]: See *[[2023-05-13-Bible Translation & the Making of the ESV Catholic Edition|Bible Translation & the Making of the ESV Catholic Edition]]*
 ### [[~Schuyler Quentel ESV with Apocrypha|Schuyler Quentel]] (ESV)
 Schuyler Bibles are exquisite works of craftsmanship and this is the most beautiful Bible I own. I did a full review here: [[Bible Review-Schuyler Quentel ESV with Apocrypha]]. I just wish it was smaller—while the size lets you fit a piece of paper folded in half inside the cover, it is larger than I prefer for everyday use. 
 ### [[~The Great Adventure Catholic Bible|The Great Adventure Catholic Bible]] (RSV2CE)

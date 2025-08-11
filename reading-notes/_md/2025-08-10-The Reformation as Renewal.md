@@ -19,7 +19,7 @@ mermaid: true
 ---
 # *[The Reformation as Renewal](https://zondervanacademic.com/products/the-reformation-as-renewal)* by [[Matthew Barrett]]
 
-<img src="https://zondervanacademic.nyc3.cdn.digitaloceanspaces.com/production/transforms/media_zondervan_com/images/product/highres/9780310097556_c25124cf117d5566842eaaf05a27d036.JPG" width=150>
+<img src="http://books.google.com/books/content?id=RbZ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Zondervan Academic, 2023), 1009`
 
@@ -36,7 +36,7 @@ Jesus clearly expressed his desire for the unity of his church as recorded in [[
 
 How might a Catholic promote unity? By praying for the reunion of all Christians in a [morning offering](https://www.usccb.org/prayers/morning-offering), reading books like *The Reformation as Renewal* to seriously study the views and arguments of serious Protestants, and cultivating relationships with individual Protestants so that our unity is personal and not merely intellectual. 
 
-And how might a Protestant promote unity? In addition to the above, given the size[^size] of the Catholic Church (both in numbers today and in the weight of history) and the claims it makes about itself[^claims], I think a Protestant might rightly ask questions such as *"What keeps me from communion with Rome?"* and *"How might I maintain both my tradition and communion with Rome?"* in working toward unity. 
+And how might a Protestant promote unity? In addition to the above, given the size[^size] of the Catholic Church (both in numbers today and in the weight of history) and the claims it makes about itself,[^claims] I think a Protestant might rightly ask questions such as *"What keeps me from communion with Rome?"* and *"How might I maintain both my tradition and communion with Rome?"* in working toward unity. 
 
 [^size]: The Latin Church and the churches in communion with it comprise approximately 1.4 billion of the 2.7 billion Christians in the world ([source](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)).
 [^claims]: See especially the *[Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/__P29.HTM)* paragraphs 811-870
@@ -297,7 +297,7 @@ Let's oversimplify and say there are three views on tradition:
 
 This third view is where things get tricky. *Which* of the many reformed churches preserves this tradition, and which of the many reformers is correct when they disagree on matter important enough to cause schism? If this view is true, it means that some small fraction of the 600 million or so "Historical Protestants" preserve the ancient tradition, while the entire remaining 2+ billion Christians are in error.
 
-Jesus clearly expresses his desire for the unity of his followers in [[Jn-17|John 17]]. Unless the doctrinal division is of such utmost importance, it seems as if obedience to this wish outweighs any other disagreements we may have on even important matters.
+Jesus clearly expresses his desire for the unity of his followers in [[Jn-17|John 17]]. Unless the doctrinal division is of such utmost importance, it seems as if obedience to this wish outweighs any other disagreements we may have on even important matters.t
 
 With [Mickey Mattox](https://thelondonlyceum.com/on-matthew-barretts-the-reformation-as-renewal-retrieving-the-one-holy-catholic-and-apostolic-church/)I agree that "_The Reformation as Renewal_ reveals some surprising and often unrecognized ways in which we are already one". I hope to continue to search for and cultivate these ways in which we are united that we may live in accord with Jesus' prayer that we "may become perfectly one".[^jn1723]
 
