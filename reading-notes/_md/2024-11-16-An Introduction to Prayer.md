@@ -16,11 +16,11 @@ started: 2024-10-31
 finished: 2024-11-08
 finishednotes: 2024-11-16
 ---
-# *[An Introduction to Prayer](https://bookstore.wordonfire.org/products/an-introduction-to-prayer)* by [[Robert Barron]]
+# *[An Introduction to Prayer](https://bookstore.wordonfire.org/products/an-introduction-to-prayer)* by [[Bishop Barron|Robert Barron]]
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81OUXjFj9PL._SL1500_.jpg&f=1&nofb=1&ipt=bc5dbcb1f749e9b76fe246e13ad187b7f68e6ece596c2c41a7a70595a0f41e3d&ipo=images" width=150>
 
-`(New York: Word on Fire, 2024-08-12), 152`
+`(New York: Word on Fire, 2024), 152`
 
 For so short a book, this is a most helpful introduction to prayer or invitation to go deeper in prayer.  I was most struck by the way Catherine addresses Jesus as she prays: 
 
@@ -207,9 +207,6 @@ _**Summary**: _
 
 **Source**
 - St. Brenden's Church
- 
-**[[New Words]]**
-- 
 
 ---
 Created: [[2024-11-03-Sun]]

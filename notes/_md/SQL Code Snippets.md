@@ -112,6 +112,13 @@ where c.column_name = 'colName'
 order by t.table_schema;
 ```
 
+### Search all columns in table for value 
+*Search all columns in `table` for value `string`:*
+```sql
+select *
+from `table` t
+where strpos(to_json_string(t), 'string') > 0;
+```
 
 ### Unique items in **`column`**
 

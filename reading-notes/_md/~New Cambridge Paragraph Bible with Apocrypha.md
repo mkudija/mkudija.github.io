@@ -30,8 +30,11 @@ dimensions: 6.25x8.5x1.875
 >–[Review: The New Cambridge Paragraph Bible — In the Fourth Nocturn](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5) 
 
 Reading progress (1255 OT, 288 Apocrypha, 320 NT)
-- [[2025-07-06-Sun]]: Pg 177 
-- 
+- [[2025-07-06-Sun]]: pg 177 
+- [[2025-08-12-Tue]]: pg 264
+- [[2025-08-27-Wed]]: pg 302 (finished Joshua)
+
+(302-177)/(27+26)=2.3 pages/day 
 
 
 ### The translators to the reader

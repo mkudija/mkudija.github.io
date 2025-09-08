@@ -21,17 +21,6 @@ isbn13:
 
 **Source**: 
 
-**Bibliography**
-
-```query
-[[bib]] file:(~Heaven in Stone and Glass)
-```
- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2022-07-03-Sun]]
-Updated: <%+ tp.file.last_modified_date("YYYY-MM-DD-ddd") %>
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

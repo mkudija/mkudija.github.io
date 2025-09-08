@@ -11,28 +11,28 @@ isbn10: 385170300
 isbn13: 9780385170307
 source: 
 wishlist: 
-acquired: 2024-09-07
+acquired: 2025-08-09
 started: 
 finished: 
-finishednotes:
+finishednotes: 
 translation: Jerusalem Bible
-dimensions: 6.5x9.5x2.875
+dimensions: 6.5x9.5x2.125
 ---
 # *[The Jerusalem Bible]()*
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7c%2F25%2F6a%2F7c256a799d7837fda2f71707e1834348.jpg&f=1&nofb=1&ipt=9776f365b317025c8224c899b681fb3206256f01657d1cb4f49ba0f6b1d4346b&ipo=images" width=150>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.worthpoint.com%2Fzoom%2Fimages4%2F1%2F0622%2F18%2Fjerusalem-bible-catalog-66-24278_1_db84015be5a66413010c01ca893c30bc.jpg&f=1&nofb=1&ipt=08624ab0e5035764ca3ce1f93ffb4ef8804d7d817c9a65530c38c6e9494bf791" width=150>
 
 `(New York: Doubleday Books, 1966), 0`
 
 - [dale in a tincan](https://youtu.be/q1OEJOaaOWA?t=2564)'s favorite Bible translation 
-- see also *[[Reading Notes/~The Jerusalem Bible (leather)]]*
+- see also *[[Reading Notes/~The Jerusalem Bible]]*
 
 --- 
 **Topic**: [[The Bible]]
 
 **Source**
-- [[UA Library]] [[2024-09-07-Sat]]
+- [[UA Library]] book sale $10
 
 ---
-Created: [[2024-09-08-Sun]]
+Created: [[2025-08-12-Tue]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

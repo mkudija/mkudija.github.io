@@ -150,6 +150,15 @@ where c.column_name = 'colName'
 order by t.table_schema;
 </code></pre>
 
+<h3 id="search-all-columns-in-table-for-value">Search all columns in table for value</h3>
+
+<p><em>Search all columns in <code>table</code> for value <code>string</code>:</em></p>
+
+<pre><code>select *
+from `table` t
+where strpos(to_json_string(t), 'string') &gt; 0;
+</code></pre>
+
 <h3 id="unique-items-in-column">Unique items in <strong><code>column</code></strong></h3>
 
 <pre><code>SELECT 
@@ -753,7 +762,7 @@ order by 1,2
 <hr />
 
 <p>Created: <a href="../reading-notes/2019-06-25-Tue.html">2019-06-25-Tue</a><br />
-Updated: 2025-03-07-Fri</p>
+Updated: 2025-08-13-Wed</p>
 
 
 </div>

@@ -80,7 +80,7 @@ publish: true
 	- `"$"#,##0,"K";"$"-#,##0,"K";--`
 	- `"$"#,##0.0,,"M";-"$"#,##0.0,,"M";--`
 	- `"$"#,##0.0,,,"B";-"$"#,##0.0,,,"B";--`
-
+- Sparkline: `=sparkline(L10:L15,{"charttype","column";"ymin",0})`
 ## PyCharm
 - `⌘ + ⇧ + 8` - `cmd + shift + 8` - multi-select (or just Shift and arrow)
 - `⌥ + ⌘ + L` - `option + command + L` - format lines

@@ -24,7 +24,7 @@ finishednotes: 2024-03-30
 *[[2024-03-30-Word on Fire Vatican II Collection (Volume 1)|Word on Fire Vatican II Collection Volume 1]]*
 ## Foreword 
 *by [[Bishop Barron]]*
-- "With the book you are reading, I am nailing my colors to the mast. I and Word on Fire stand firmly with Vatican II and hence against the radical traditionalists. And we stand firmly with the Wojtyła-Ratzinger interpretation of the council, and hence against the progressives." (xi)
+- "With the book you are reading, I am nailing my colors to the mast. I and Word on Fire stand firmly with Vatican II and hence against the radical traditionalists. And we stand firmly with the Wojtyła-Ratzinger interpretation of the council, and hence against the progressives." (xi) ^f176a6
 - We need a "robust and enthusiastic reappropriation of the texts of Vatican II"
 
 ## *[[~Gravissimum educationis|Gravissimum educationis]]*

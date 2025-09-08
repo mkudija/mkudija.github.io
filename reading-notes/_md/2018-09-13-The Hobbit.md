@@ -9,11 +9,11 @@ total_page: 0
 publish_date: 2017-09-21
 isbn10: 000749792X
 isbn13: 9780007497928
-source: 
-wishlist: 
-acquired: 
-started: 
-finished: 
+source:
+wishlist:
+acquired:
+started: 2025-08-28
+finished: 2025-09-03
 finishednotes:
 ---
 # *The Hobbit* by [[J.R.R. Tolkien]]

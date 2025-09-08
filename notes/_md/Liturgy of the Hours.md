@@ -117,7 +117,10 @@ aliases:
 [^honey]: cf. [[St. Bernard of Clairvaux]]: "Jesus to me is honey in the mouth, music in the ear, a song in the heart." ([[St. Bernard of Clairvaux|Bernard of Clairvaux]], *On the Song of Songs*, vol. I, sermon 15, no. 6, quoted in [[Ralph Martin]], *[[2022-12-30-The Fulfillment of All Desire|The Fulfillment of All Desire]]*, 136)
 
 ### Volume IV
+- Vol. IV, pg. 222 ([[2025-09-07-Sun]]: Office of Readings for the Twenty-Third Sunday in Ordinary Time, from a sermon on the beatitudes by [[St. Leo the Great]]): "What you long for will be given you; what you love will be yours forever."
 - Vol. IV, pg. 409 ([[2024-10-19-Sat]]: Office of Readings for the Twenty-Ninth Sunday in Ordinary Time, from a letter to Proba by [[St. Augustine]]): "Why he should ask us to pray, when he knows what we need before we ask him, may perplex us if we do not realize that our Lord and God does not want to know what we want (for he cannot fail to know it) but **wants us rather to exercise our desire through our prayers, so that we may be able to receive what he is preparing to give us**. His gift is very great indeed, but our capacity is too small and limited to receive it. That is why we are told: *Enlarge your desires, do not bear the yoke with unbelievers.*" ^a7495d
+- Vol. IV, pg. 832 ([[2025-09-01-Mon]]): "Lord Jesus, grant that all men be saved, and come to the knowledge of truth." (cf. [[Universalism]], [[1 Thes-02#v10]] but not annotated in *[[~Liturgy and Life Study Bible|Liturgy and Life Study Bible]]*)
+- Vol. IV, pg. 844 ([[2025-09-02-Tue]]: "Lord Jesus Christ, true light of the world, you guide all mankind to salvation." (cf. [[Universalism]])
 - Vol. IV, pg. 879 ([[2023-08-14-Mon]]): "Let your faithful ones seek and taste the things that are above, and let them direct their work and their leisure to your glory."
 - Vol. IV, pg. 960 ([[2022-10-14-Fri]]): "We give thanks to God whose power is revealed in nature, and whose providence is revealed in history."
 - Vol. IV, pg. 1073 ([[2023-08-21-Mon]] Saturday Morning Prayer Week III): "May the fire of your word consume our sins and its brightness illumine our hearts."

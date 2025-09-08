@@ -133,7 +133,7 @@ With [Mickey Mattox](https://thelondonlyceum.com/on-matthew-barretts-the-reforma
 	2. Ecclesiology (especially papal authority over Scripture, the church, and society)
 - "The Reformers affirmed tradition as a ministerial authority for the church, holding the church accountable to its creeds and councils, guiding the church in a sound, orthodox interpretation of Scripture." (25)
 - David Steinmetz: "*[[Sola scriptura]]* generally meant *prima scriptura*, Scripture as the final source and norm by which all theological sources and arguments were to be judged, not Scripture as the sole source of theological wisdom." (25)
-- Barrett's definition of *[[Sola scriptura]]* from *[[~God's Word Alone---The Authority of Scripture|God's Word Alone---The Authority of Scripture]]*: "only Scripture, because it is God's inspired Word, is the inerrant, sufficient, and final authority for the church." (26)
+- Barrett's definition of *[[Sola scriptura]]* from *[[~God's Word Alone-The Authority of Scripture|God's Word Alone---The Authority of Scripture]]*: "only Scripture, because it is God's inspired Word, is the inerrant, sufficient, and final authority for the church." (26)
 
 ### The Paradox: Catholic Substance, Protestant Principle
 - Jaroslav Pelikan articulates the paradox of Luther's ecclesiology: *Catholic substance* of tradition, liturgy and dogma embodied in the Roman Catholic Church, and *Protestant principle* being the criticism and reconstruction of this Catholic substance (29)

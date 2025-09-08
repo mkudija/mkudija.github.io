@@ -27,7 +27,7 @@ finishednotes:
 **Topic**: 
 
 **Source**
-- [[2025-07-18-Fri]] [[Brenden Rhatican]]
+- [[2025-07-18-Fri]] [[Brenden Rhatican]]: "He draws on Luther's letters, published writings, and personality to show that Luther basically invented a theology to bring comfort for his own self-obsessed scrupulosity. He also, with Occam's Nominalist help, establishes all the divorces of our day: God and man, faith and works, scripture and tradition, faith and reason."
  ---
 Created: [[2025-07-18-Fri]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

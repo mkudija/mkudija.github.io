@@ -140,6 +140,7 @@ publish: true
 - [Kozak Workshop](https://www.etsy.com/shop/Kozakworkshop)
 - [Peter Voth](https://petervoth.dribbble.com/)
 - [Sacred Art by Tianna Williams](https://sacredartbytianna.com/)
+- [All Products – Benedictus Art](https://benedictusart.com/collections/all-products)
 
 ---
 Created: [[2021-07-29-Thu]]
