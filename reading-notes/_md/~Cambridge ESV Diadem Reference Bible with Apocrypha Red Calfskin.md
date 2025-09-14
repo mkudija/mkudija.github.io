@@ -20,7 +20,7 @@ dimensions: 6.25x8.75x1.25
 
 <img src="https://evangelicalbible.com/wp-content/uploads/2023/01/ESV-DIADEM-9781009087919A.jpg" width=150>
 
-`(New York: Cambridge University Press, 2011-11-03), 0`
+`(Cambridge: Cambridge University Press, 2011-11-03), 0`
 
 
 - [x] respond to CBT [comment](https://catholicbibletalk.com/2022/05/esv-diadem-w-apocrypha-red-calfskin-leather-edge-lined-review/)! 📅 2023-05-25 ✅ 2023-05-31

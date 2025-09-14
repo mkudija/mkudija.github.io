@@ -12,7 +12,7 @@ isbn13: 9781943243969
 source: 
 wishlist: 
 acquired: 2024-03-25
-started: 2024-12-02
+started: 
 finished: 
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: , 2022-10-24), 0`
 
-
+Started reading some [[2024-12-02-Mon]] but didn't keep up with it this year.
 
 --- 
 **Topic**: 

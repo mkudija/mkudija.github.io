@@ -19,7 +19,7 @@ finishednotes:
 
 <img src="http://books.google.com/books/content?id=w5y8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2023-05-11), 307`
+`(Cambridge: Cambridge University Press, 2023-05-11), 307`
 
 
 

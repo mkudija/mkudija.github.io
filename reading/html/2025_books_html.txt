@@ -1,3 +1,5 @@
+<li><i>Lost in the Cosmos</i> by Walker Percy</li>
+<li><i>The Hobbit</i> by J.R.R. Tolkien</li>
 <li><i>The Theology of Robert Barron</i> by Matthew Levering</li>
 <li><i>Joint Declaration on the Doctrine of Justification</i> by Lutheran Federation & Catholic Church</li>
 <li><i>God's Secretaries: The Making of the King James Bible</i> by Adam Nicolson</li>

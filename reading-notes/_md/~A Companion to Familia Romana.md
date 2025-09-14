@@ -12,7 +12,7 @@ isbn13: 9781585108329
 source: 
 wishlist: 2025-05-23
 acquired: 2025-05-21
-started: 2025-05-21
+started: 
 finished: 
 finishednotes:
 languages: 
@@ -25,7 +25,8 @@ languages:
 
 `(New York: Hackett Publishing, 2016-06-01), 431`
 
-
+Read first chapters for [[VSI Latin 101|LAT101]]
+- Started [[2025-05-21-Wed]] and read through Chapter 8 by [[2025-07-23-Wed]]
 
 --- 
 **Topic**: [[LINGVA LATINA PER SE ILLVSTRATA]]

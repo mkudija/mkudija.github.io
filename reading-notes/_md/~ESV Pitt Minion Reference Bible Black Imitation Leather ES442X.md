@@ -22,7 +22,7 @@ dimensions: 5.125x7.375x.875
 
 <img src="http://books.google.com/books/content?id=6VP0ugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2012-04-12), 0`
+`(Cambridge: Cambridge University Press, 2012-04-12), 0`
 
 - ordered from Amazon 2023-11-20 for $59.37 (returned [[2024-01-30-Tue]] because no deuterocanon)
 	- such a lovely little Bible, and would be one of my favorites with the deuterocanon

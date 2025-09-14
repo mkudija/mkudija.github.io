@@ -14,7 +14,7 @@ isbn13: 9781585100569
 source: 
 wishlist: 2025-04-30
 acquired: 2025-05-21
-started: 2025-05-19
+started: 
 finished: 
 finishednotes:
 languages: 
@@ -31,7 +31,8 @@ languages:
 - [Audio Version with text screenshots](https://youtu.be/YtPd2ALW5b4)
 - [Audio Version with text, ecclesistica](https://www.youtube.com/watch?v=HpUxN01Ew_4&list=PLeAdgLsSLlqoJ8Ji6zvfrwCSQgKSGSOOP)
 
-Used for [[VSI Latin 101]]
+Read first chapters for [[VSI Latin 101]]
+- Started [[2025-05-19-Mon]] and read through Chapter 8 by [[2025-07-23-Wed]]
 
 ### Common Phrases
 **Ubi**-where...?

@@ -19,7 +19,7 @@ finished:
 
 <img src="http://books.google.com/books/content?id=W3oVRK4I7UsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2005-01-10), 408`
+`(Cambridge: Cambridge University Press, 2005-01-10), 408`
 
 
 [A TEXTUAL HISTORY OF THE KING JAMES BIBLE AND THE NEW CAMBRIDGE PARAGRAPH BIBLE (HARDBACK SET) - The Gospel Coalition](https://www.thegospelcoalition.org/themelios/review/a-textual-history-of-the-king-james-bible-and-the-new-cambridge-paragraph-bible-hardback-set/)

@@ -20,7 +20,7 @@ dimensions:
 
 <img src="http://books.google.com/books/content?id=BwIfAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2006-06-29), 0`
+`(Cambridge: Cambridge University Press, 2006-06-29), 0`
 
 
 - read NT twice per year (xv cf [[Bible Reading Plans]])  

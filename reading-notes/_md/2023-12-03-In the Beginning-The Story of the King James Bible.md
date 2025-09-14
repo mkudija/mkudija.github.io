@@ -98,17 +98,10 @@ finishednotes: 2023-12-03
 - "Those who insist that we retain the King James Bible as the only English translation of the Bible actually betray the intentions and goals of those who conceived and translated it—namely, to translate the Bible into living English." (309)
 
 --- 
-**Topic**: [[The Bible]], King James Version
+**Topic**: [[The Bible]], [[King James Version]]
 
 **Source**
 - [[UA Library]] [[2023-12-02-Sat]] (borrowed after reading [Biblical apocrypha - Wikipedia](https://en.wikipedia.org/wiki/Biblical_apocrypha) to learn more about Apocrypha inclusion in KJV)
-
-**Bibliography**
-
-```query
-[[bib]] file:(~In the Beginning)
-```
-
 
 ---
 Created: [[2023-12-02-Sat]]

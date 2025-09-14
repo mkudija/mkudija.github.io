@@ -16,7 +16,7 @@ finished:
 
 <img src="http://books.google.com/books/content?id=iuUaAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2013-12-19), 589`
+`(Cambridge: Cambridge University Press, 2013-12-19), 589`
 
 --- 
 **Topic**: 

@@ -20,7 +20,7 @@ finishednotes:
 
 <img src="http://books.google.com/books/content?id=xLz00AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2025-05-31), 0`
+`(Cambridge: Cambridge University Press, 2025-05-31), 0`
 
 # Notes
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - CSB New Testament with Psalms
-title: CSB New Testament with Psalms
-author: C. S. B. Bibles CSB Bibles by Holman
+  - Holman Pocket CSB NT with Psalms
+title: Holman Pocket CSB NT with Psalms
+author: 
 category: 
 publisher: Holman Bible Publishers
 total_page: 0
@@ -18,16 +18,16 @@ finishednotes:
 translation: Christian Standard Bible
 dimensions: 4.25x2.75x.5
 ---
-# *[CSB Here's Hope New Testament]()* by [[C. S. B. Bibles CSB Bibles by Holman]]
+# *[Holman Pocket CSB NT with Psalms]()* by [[C. S. B. Bibles CSB Bibles by Holman]]
 
 <img src="http://books.google.com/books/content?id=x_iXswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
 `(New York: Holman Bible Publishers, 2017-03-15), 0`
 
-
+same footprint as *[[~Holman Pocket KJV NT with Psalms]]*
 
 --- 
-**Topic**: 
+**Topic**: [[The Bible]]
 
 **Source**
 - 

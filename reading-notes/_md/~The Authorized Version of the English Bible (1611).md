@@ -18,7 +18,7 @@ finished:
 
 <img src="http://books.google.com/books/content?id=tly3gU8O9QUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2010-10-21), 328`
+`(Cambridge: Cambridge University Press, 2010-10-21), 328`
 
 - [The authorized edition of the English Bible (1611), its subsequent reprints and modern representatives : Scrivener, Frederick Henry Ambrose, 1813-1891 : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/authorizededitio00scri/page/n5/mode/2up)
 

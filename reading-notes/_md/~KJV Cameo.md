@@ -21,7 +21,7 @@ finishednotes:
 
 <img src="http://books.google.com/books/content?id=GzaVuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 2011-06-16), 0`
+`(Cambridge: Cambridge University Press, 2011-06-16), 0`
 
 
 

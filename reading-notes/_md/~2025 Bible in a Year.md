@@ -17,8 +17,24 @@ finished:
 finishednotes:
 ---
 # 2025 Bible in a Year
-*[[2025-05-20-Tue]] to ==???==: reading [[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]] and [[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible with Apocrypha]]* to the kids
 [Reading Plan](https://cdn.shopify.com/s/files/1/1125/2740/files/the-official-365-day-reading-plan-for-the-bible-in-a-year_2.pdf?v=1611238365)
+
+
+*[[2025-05-20-Tue]] to ==???==: reading [[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]] and [[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible with Apocrypha]]* to the kids
+
+Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
+- [[2025-07-06-Sun]]: pg 177 
+- [[2025-08-12-Tue]]: pg 264
+- [[2025-08-27-Wed]]: pg 302 (finished Joshua)
+- [[2025-09-08-Mon]]: pg 335 (finished Judges)
+
+(302-177)/(27+26)=2.3 pages/day 
+
+
+[[2025-09-09-Tue]] started carrying the *[[~Holman Pocket KJV NT with Psalms|Holman Pocket KJV NT with Psalms]]* to read the NT
+- 
+
+
 
 ### Notes 
 - [[2025-05-20-Tue]]-[[Ps-19]] is beautiful in KJV!

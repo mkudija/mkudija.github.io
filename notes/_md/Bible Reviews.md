@@ -39,7 +39,7 @@ The New Cambridge Paragraph Bible is a fresh KJV for two reasons. First, it fait
 <strong style="color: white; background-color: #5B7894; border: none; padding: 0px 8px; text-align: center; text-decoration: none; display: inline-block; margin: 1px 0px; border-radius: 14px; font-size: .8em;">Best Travel Bible</strong>
 The small size and zipper closure of the Compact Ignatius Bible makes it a great travel companion. I prefer the removal of thee's and thou's in the RSV2CE to the RSVCE, but Oxford also makes a version of this Bible in the NABRE. This Bible has gone with me camping in the wilderness and on a pilgrimage to Rome, and I used it to prototype my ideas for a [[The Case for a Lectionary Bible|Lectionary Bible]].
 ### [[~Gospels and Acts|Navarre Bible]] (RSVCE)
-The Navarre Bible comes in ten volumes. I have only the Pentateuch and Gospels/Acts, but I refer to it often for its copious and excellent spiritual and theological notes. It also includes the text of the Latin Vulgate.
+The Navarre Bible comes in ten volumes. I have only the Pentateuch and Gospels/Acts, but I refer to them often for their copious and excellent spiritual and theological notes. It also includes the text of the Latin Vulgate.
 
 ---
 Created: [[2025-07-22-Tue]]

@@ -1,6 +1,6 @@
 ---
-aliases: [Machiavelli: The Prince]
-title: Machiavelli: The Prince
+aliases: [The Prince]
+title: The Prince
 author: Niccolo Machiavelli
 category: History
 publisher: Cambridge University Press
@@ -18,7 +18,7 @@ finished:
 
 <img src="http://books.google.com/books/content?id=05R7kYOKD0cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Cambridge University Press, 1988-10-28), 202`
+`(Cambridge: Cambridge University Press, 1988-10-28), 202`
 
 
 
