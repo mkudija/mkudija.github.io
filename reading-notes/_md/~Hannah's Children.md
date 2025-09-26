@@ -9,18 +9,18 @@ total_page: 344
 publish_date: 2024-03-19
 isbn10: 1684515696
 isbn13: 9781684515691
-source: 
-wishlist: 
+source:
+wishlist:
 acquired: 2025-05-21
-started: 
-finished: 
+started: 2025-09-21
+finished:
 finishednotes:
 ---
 # *[Hannah's Children]()* by [[Catherine Pakaluk]]
 
 <img src="http://books.google.com/books/content?id=RofZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Simon and Schuster, 2024-03-19), 344`
+`(New York: Simon and Schuster, 2024), 344`
 
 
 

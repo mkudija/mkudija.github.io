@@ -2,10 +2,10 @@
 publish: true
 ---
 
-# John 1 Parallel Greek-Latin-English
+# JoLA 1 Parallel Greek-Latin-English
 
   <!-- REDIRECT UPDATE HERE--------------------------------------------------------------- -->
-  <meta http-equiv="refresh" content="0; url='[John 1](https://matthewkudija.com/john/john-01.html)" />
+  <meta http-equiv="refresh" content="0; url='https://matthewkudija.com/john/john-01.html" />
   <!-- ----------------------------------------------------------------------------------------- -->
 
 If this does not redirect you automatically, click here: [John 1](https://matthewkudija.com/john/john-01.html)

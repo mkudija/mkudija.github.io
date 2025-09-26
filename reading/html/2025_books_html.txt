@@ -1,3 +1,4 @@
+<li><i>Beat to Quarters (#6)</i> by C. S. Forester</li>
 <li><i>Lost in the Cosmos</i> by Walker Percy</li>
 <li><i>The Hobbit</i> by J.R.R. Tolkien</li>
 <li><i>The Theology of Robert Barron</i> by Matthew Levering</li>

@@ -19,7 +19,7 @@ dimensions: 4.75x6.75x1.25
 
 `(New York: United States Conference of Catholic Bishops (USCCB), 2019), `
 
-
+>Sacred Scripture is one of God's greatest gifts to his people, and the Church finds nourishment through its use in the Sacred Liturgy. (xiii)
 
 --- 
 **Topic**: [[The Bible]], Psalter
