@@ -18,9 +18,11 @@ rsv2ce(RSV-2CE 2006)
 nrsv(NRSV 1989)
 nrsvce(NRSV-CE 1991)
 nrsvue(NRSVue 2022)
+nrsvuece(NRSVue-CE 2025)
 nkjv(NKJV 1982)
 esv(ESV 2001)
 esv16(ESV 2016)
+esv25(ESV 2025)
 esvce(ESV-CE 2018)
 nab(NAB 1970)
 nabre(NABRE 2011)
@@ -80,9 +82,11 @@ rsvce --> rsv2ce:::ct
 rsv --> nrsv:::ec
 nrsv --> nrsvue:::ec
 nrsv --> nrsvce:::ct
+nrsvue --> nrsvuece:::ec
 rsv --> rsvce:::ct
 rsv --> esv:::pt
 esv --> esv16:::pt
+esv16 --> esv25:::pt
 esv --> esvce:::ct
 asv --> alv:::pt
 asv --> na:::pt

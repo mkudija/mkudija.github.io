@@ -13,7 +13,7 @@ source:
 wishlist:
 acquired: 2025-05-21
 started: 2025-09-21
-finished:
+finished: 2025-09-30
 finishednotes:
 ---
 # *[Hannah's Children]()* by [[Catherine Pakaluk]]

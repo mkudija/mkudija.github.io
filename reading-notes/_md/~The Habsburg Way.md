@@ -14,7 +14,7 @@ source:
 wishlist: 2025-09-24
 acquired: 2025-09-23
 started: 2025-09-23
-finished:
+finished: 2025-09-30
 finishednotes:
 ---
 # *[The Habsburg Way: 7 Rules for Turbulent Times]()* by [[Archduke Eduard Habsburg]]

@@ -9,12 +9,12 @@ total_page: 52
 publish_date: 1999
 isbn10: 802847749
 isbn13: 9780802847744
-source: 
+source:
 wishlist: 2025-08-06
-acquired: 
+acquired:
 started: 2025-08-06
 finished: 2025-08-07
-finishednotes:
+finishednotes: 2025-08-07
 ---
 # *[Joint Declaration on the Doctrine of Justification]()* by [[Lutheran World Federation]] and the [[Catholic Church]]
 
