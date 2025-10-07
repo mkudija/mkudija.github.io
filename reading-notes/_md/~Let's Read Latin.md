@@ -1,19 +1,20 @@
 ---
-aliases: [Let's Read Latin]
+aliases:
+  - Let's Read Latin
 title: Let's Read Latin
 author: Ralph McInerny
 category: Foreign Language Study
 publisher: St. Augustine's Press
 total_page: 196
 publish_date: 2008
-isbn10: 
-isbn13: 
-source: 
+isbn10:
+isbn13:
+source:
 wishlist: 2025-09-26
-acquired: 
-started: 
-finished: 
-finishednotes: 
+acquired: 2025-10-02
+started: 2025-10-02
+finished:
+finishednotes:
 languages: Latin
 ---
 # *[Let's Read Latin]()* by [[Ralph McInerny]]

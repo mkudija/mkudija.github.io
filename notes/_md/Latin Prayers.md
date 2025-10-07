@@ -4,15 +4,38 @@ publish: true
 
 # Latin Prayers
 
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+- [Resources](#resources)
+- [Salve Regina](#salve-regina)
+- [Adoro te Devote](#adoro-te-devote)
+- [Fatima Prayer](#fatima-prayer)
+
+<!-- /MarkdownTOC -->
+</details>
+
+### Resources 
+- [The Adoremus Hymnal – Ignatius Press](https://loc.ignatius.com/adoremus-hymnal/downloadable-mp3s.htm)
+- [Hymns | Gregorian Chant Hymns](https://www.gregorian-chant-hymns.com/hymns-2/)
+- [MP3 Chant Downloads | Latin Mass Society](https://lms.org.uk/mp3-chant-downloads)
+
+### Salve Regina 
+
+<audio controls src="https://loc.ignatius.com/adoremus-hymnal/downloads/audio/AdoremusHymnal_545_salve-regina.mp3"> Your browser does not support the audio element. </audio>
+
+### Adoro te Devote 
+
+<audio controls src="https://www.gregorian-chant-hymns.com/hymns-2/01-adoro-te-devote--st.m4a"> Your browser does not support the audio element. </audio>
+
+
 ### Fatima Prayer
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/zhgKiiKSkoo" title="Fatima Prayer in Latin - Oratio Fatimae - Oh My Jesus." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe height=400 width=100% src="https://www.youtube.com/watch?v=zhgKiiKSkoo">
+<audio controls src="https://www.prayinglatin.com/wp-content/uploads/2019/09/Fatima.m4a?_=1"> Your browser does not support the audio element. </audio>
+*[Source](https://www.prayinglatin.com/fatima-prayer-latin-versions/)*
 
-### Rosary of the Nations 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ct2YhxOo0GE?si=REk1Kd8F1T_qaWvd&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe height=400 width=100% src="https://www.youtube.com/watch?v=ct2YhxOo0GE">
 
 ---
 Created: [[2025-10-02-Thu]]
