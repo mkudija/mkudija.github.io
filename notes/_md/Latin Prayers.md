@@ -20,6 +20,7 @@ publish: true
 - [The Adoremus Hymnal – Ignatius Press](https://loc.ignatius.com/adoremus-hymnal/downloadable-mp3s.htm)
 - [Hymns | Gregorian Chant Hymns](https://www.gregorian-chant-hymns.com/hymns-2/)
 - [MP3 Chant Downloads | Latin Mass Society](https://lms.org.uk/mp3-chant-downloads)
+- [How to Pray the Rosary in Latin | Traditional Catholic Prayers](https://traditionalcatholicprayers.com/2019/11/12/how-to-pray-the-rosary-in-latin/)
 
 ### Salve Regina 
 

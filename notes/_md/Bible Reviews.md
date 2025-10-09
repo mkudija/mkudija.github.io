@@ -27,7 +27,12 @@ The Cambridge Diadem has been my everyday Bible since mid-2023: it uses the ESV 
 
 [^esv]: See *[[2023-05-13-Bible Translation & the Making of the ESV Catholic Edition|Bible Translation & the Making of the ESV Catholic Edition]]*
 ### [[~Schuyler Quentel ESV with Apocrypha|Schuyler Quentel]] (ESV)
-Schuyler Bibles are exquisite works of craftsmanship and this is the most beautiful Bible I own. I did a full review here: [[Bible Review-Schuyler Quentel ESV with Apocrypha]]. I just wish it was smaller—while the size lets you fit a piece of paper folded in half inside the cover, it is larger than I prefer for everyday use. 
+Schuyler Bibles are exquisite works of craftsmanship and this is the most premium Bible I own. I did a full review here: [[Bible Review-Schuyler Quentel ESV with Apocrypha]]. I just wish it was smaller—while the size lets you fit a piece of paper folded in half inside the cover, it is larger than I prefer for everyday use. 
+
+### [[~Word on Fire Bible Gospels|The Word on Fire Bible]] (NRSV-CE)
+<strong style="color: white; background-color: #5B7894; border: none; padding: 0px 8px; text-align: center; text-decoration: none; display: inline-block; margin: 1px 0px; border-radius: 14px; font-size: .8em;">Most Beautiful Bible</strong>
+The Word on Fire Bible is the most beautiful Catholic Bible available, inside and out. The combination of excellent craftsmanship, a beautiful single-column layout, artwork, and commentary from Church Fathers and Pope and Bishop Barron live up to the moniker "cathedral in print". The Gospels (vol. 1) make a great gift, especially for someone being drawn (or re-drawn) to the faith. Also look at Bishop Barron's more extensive commentary in *[[2023-11-06-The Great Story of Israel|The Great Story of Israel]]* (vol. 1 available, vol. 2 forthcoming).
+
 ### [[~The Great Adventure Catholic Bible|The Great Adventure Catholic Bible]] (RSV2CE)
 The Great Adventure Bible is one of the more popular Catholic Bibles and for good reason: it is a great value and a great all-around Bible, though with some notable shortcomings. I have the first edition, which has some annoying design choices that have partially been fixed in the second edition typeset by 2K/Denmark. The most useful feature is the colored tabs for easily navigating to the desired book. The new premium edition appears to be a great choice, though I cannot recommend it until they remove the awful embossed logo on the cover which ruins what is otherwise an excellent Bible. 
 ### [[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible]] (KJV)
