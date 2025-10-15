@@ -19,9 +19,14 @@ finishednotes:
 
 <img src="http://books.google.com/books/content?id=SGYtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Crossway, 2021-08-16), 1568`
+`(Wheaton: Crossway, 2021), 1568`
 
+## Matthew 
 
+## Mark 
+
+## Luke 
+- Does not agree with *supersubstantial* for *[[epioúsion|epiousion]]*: "Some understand the petition to refer to the bread of life that believers need for today or tomorrow. Those who opt for such an interpretation forget what it was like for people who lived in Palestine in the first century, where life was precarious and famines could affect the quality of life dramatically." (894-895)
 
 --- 
 **Topic**: 

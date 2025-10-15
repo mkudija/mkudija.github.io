@@ -16,13 +16,13 @@ started: 2025-09-21
 finished: 2025-09-30
 finishednotes:
 ---
-# *[Hannah's Children]()* by [[Catherine Pakaluk]]
+# *[Hannah's Children: The Women Quietly Defying the Birth Dearth](https://pakaluk.com/hannahs-children/)* by [[Catherine Pakaluk]]
 
 <img src="http://books.google.com/books/content?id=RofZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Simon and Schuster, 2024), 344`
 
-
+*[[2024-05-27-In Necessity and Sorrow|In Necessity and Sorrow]]*
 
 --- 
 **Topic**: [[having a large family]]

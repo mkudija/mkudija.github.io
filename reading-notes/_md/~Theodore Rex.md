@@ -1,19 +1,20 @@
 ---
-aliases: [Theodore Rex]
+aliases:
+  - Theodore Rex
 title: Theodore Rex
 author: Edmund Morris
 category: Biography & Autobiography
 publisher: Random House Trade Paperbacks
 total_page: 794
 publish_date: 2002-10-01
-isbn10: 0812966007
+isbn10: 812966007
 isbn13: 9780812966008
-source: 
+source:
 wishlist: 2025-10-01
-acquired: 
-started: 
-finished: 
-finishednotes: 
+acquired:
+started: 2025-09-30
+finished: 2025-10-11
+finishednotes:
 ---
 # *[Theodore Rex]()* by [[Edmund Morris]]
 

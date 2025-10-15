@@ -17,7 +17,7 @@ finished: 2025-09-30
 finishednotes: 2025-09-30
 mermaid: true
 ---
-# *[The Art of Argument](https://classicalacademicpress.com/pages/series-art-of-argument)* by [[Aaron Larsen]], [[Chris Perrin]]
+# *[The Art of Argument: An Introduction to the Informal Fallacies](https://classicalacademicpress.com/pages/series-art-of-argument)* by [[Aaron Larsen]], [[Chris Perrin]]
 
 <img src="https://i.shgcdn.com/6ea59bfe-1544-4276-946e-ef81043fd386/-/format/auto/-/preview/3000x3000/-/quality/lighter/" width=150>
 

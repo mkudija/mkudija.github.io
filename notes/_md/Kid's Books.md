@@ -153,6 +153,7 @@ publish: true
 - In Progress:
 	- [[2025-05-20-Tue]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]* and *[[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible]]*
 	- [[2025-06-15-Sun]]: *[[~World War II Stories for Kids|World War II Stories for Kids]]*
+	- [[2025-10-11-Sat]]: *[[~The Martian|The Martian]]*
 
 ---
 **Topic**: [[Reading]]

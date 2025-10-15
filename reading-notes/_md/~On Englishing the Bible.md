@@ -12,7 +12,7 @@ isbn13: 9781013837876
 source: 
 wishlist: 2024-01-24
 acquired: 2024-12-06
-started: 
+started: 2025-10-14
 finished: 
 finishednotes:
 ---
