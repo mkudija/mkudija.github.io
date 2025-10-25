@@ -3,17 +3,17 @@ aliases:
   - On Englishing the Bible
 title: On Englishing the Bible
 author: Ronald Arbuthnott 1888-1957 Knox
-category: 
+category:
 publisher: Hassell Street Press
 total_page: 118
 publish_date: 2021-09-09
 isbn10: 1013837878
 isbn13: 9781013837876
-source: 
+source:
 wishlist: 2024-01-24
 acquired: 2024-12-06
 started: 2025-10-14
-finished: 
+finished: 2025-10-24
 finishednotes:
 ---
 # *[On Englishing the Bible]()* by [[Ronald Arbuthnott 1888-1957 Knox]]

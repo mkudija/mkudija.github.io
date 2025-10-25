@@ -54,6 +54,7 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-08-12-Tue]]-[[Dt-32#v15]]: Insult: "thou art waxed fat, thou art grown fat"
 - [[2025-08-27-Wed]]-[[Jos-22#v5]]: "But take diligent heed to do the commandment and the law, which Moses the servant of the Lord charged you, to love the Lord your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul."
 - [[2025-09-13-Sat]]-[[Mt-06#v13]]: The Our Father in the KJV text ends with the doxology! The irony!
+- [[2025-10-23-Thu]]-[[2 Kgs-04]]: The woman who sells some oil to keep her sons out of debt servitude show how poor the people are and how close they are to utter destitution. 
 
 
 ### Themes
