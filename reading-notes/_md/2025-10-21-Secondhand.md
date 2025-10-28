@@ -33,6 +33,7 @@ finishednotes: 2025-10-21
 - Solutions to put more into the secondhand economy: improve longevity and repairability of goods, buy longer-lasting items, view waste as an opportunity (190)
 - **Preemptive Morbid Decluttering** (PMDC): "I imagine myself dead and all my stuff chucked. Sad right? So better let go now, especially if I can see the recipient and know the stuff will be loved or used." (274)
 
+
 --- 
 **Source**
 - Christine: [[Kudija Family Book Club]]

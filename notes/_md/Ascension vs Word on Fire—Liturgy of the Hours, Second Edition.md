@@ -2,6 +2,7 @@
 publish: true
 ---
 
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/side-by-side.png?raw=true" width="100%"></center>
 # Ascension vs Word on Fire—Liturgy of the Hours, Second Edition
 
 On October 7, 2025, Ascension and Word on Fire announced they were selected by the United States Conference of Catholic Bishops (USCCB) as publishers of the new Second Edition of the Liturgy of the Hours. The introduction of this Second Edition revised translation and the selection of these two new publishers are both signs of the renewal of the Divine Office. 

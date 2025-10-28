@@ -46,7 +46,10 @@ finishednotes:
 # Book One: The Inheritance
 ## Chapter 1: The Imperial Idea
 _**Summary**: _
-
+- The Persians invented the first "empire" ruled through local kings (4)
+- Theodosius' Edict of Thessalonica referred to "Catholic Christians" (13)
+- [[separation of Church and state|Church and state]] from *[[~The Holy Roman Empire|The Holy Roman Empire]]*: "The Pope, as God's vicar in matters spiritual, is to lead men to eternal life; the Emperor, as vicar in matters temporal, must so control them in their dealings with one another that they may be able to pursue undisturbed the spiritual life, and thereby attain the same supreme and common end of everlasting happiness. In the view of this object his chief duty is to maintain peace in the world..." (20)
+- 
 
 
 ## Chapter 2: Sacred Monarchy
