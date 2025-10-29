@@ -170,7 +170,28 @@ button,
     border-bottom: none;
 }
 
+.button-red {
+    border-radius: 0.375em;
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: 700;
+    height: 3.5em;
+    letter-spacing: 0.075em;
+    line-height: 3.5em;
+    padding: 0 2.25em;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: nowrap;
+    background-color: #7B2E2B;
+    color: #ffffff !important;
+}
 
+.button-red:hover {
+    border-radius: 0.375em;
+    background-color: #D4A09E;
+    box-shadow: 5px 8px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-bottom: none;
+}
 
 
 /*Bootstrap style alerts: */
