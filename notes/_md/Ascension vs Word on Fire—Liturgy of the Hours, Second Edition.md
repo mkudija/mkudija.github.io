@@ -134,6 +134,6 @@ Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 
 [^3]: cf. *[[~Sacrosanctum concilium|Sacrosanctum concilium]]* 100, *[The General Instruction on the Liturgy of the Hours](https://www.liturgyoffice.org.uk/Resources/Rites/GILH.pdf)* 27
 
-[^4]: Even so, it did retain some unnecessary gimmicks that are unbecoming of a Bible or breviary (such as the colored arrows at the top of every page), and I hope Ascension gives us a timeless and distraction-free breviary suitable for liturgical prayer. 
+[^4]: Even so, it did retain some distracting elements such as the colored arrows at the top of every page, and I hope Ascension gives us a timeless and distraction-free breviary. 
 
 [^5]: As an aside: if you could only have three books on your desert island, what would they be? Following  *[[2022-12-03-Dei Verbum|Dei Verbum]]* 10, I would pick a Bible (Sacred Scripture), a Breviary (Sacred Tradition), and a Catechism (Magisterium).<br>*"It is clear, therefore, that sacred tradition, Sacred Scripture and the teaching authority of the Church, in accord with God's most wise design, are so linked and joined together that one cannot stand without the others, and that all together and each in its own way under the action of the one Holy Spirit contribute effectively to the salvation of souls."*
