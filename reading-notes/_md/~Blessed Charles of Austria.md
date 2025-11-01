@@ -58,13 +58,15 @@ _**Summary**: _
 
 
 ## Chapter 3: A Tale of Two Houses
-_**Summary**: _
+_**Summary**: History of the Habsburgs_
 
 
 
 ## Chapter 4: Pietas Austriaca
 _**Summary**: _
-
+- Austrian piety, with its basis in the coronation as a semi-sacramental anointing (56), which "gave them a responsibility before God not only for their people's bodies but for their souls" (58)
+- Marian devotion is a keynote of the Pietas Austriaca, centered on the shrine of Mariazelle, the Great Mother of Austria. Also the weeping icon now in St. Stephen's Cathedral (62).
+- 
 
 
 # Book Two: Imperial Lives in Tandem
