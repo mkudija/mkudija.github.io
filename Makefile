@@ -24,3 +24,4 @@ build:
 	cd notes/_build; python3 _build.py
 	cd reading-notes/_build; python3 _build.py
 	cd reading; python3 reading.py
+	python3 sitemap.py
