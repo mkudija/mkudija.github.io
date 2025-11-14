@@ -27,6 +27,8 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-08-12-Tue]]: pg 264
 - [[2025-08-27-Wed]]: pg 302 (finished Joshua)
 - [[2025-09-08-Mon]]: pg 335 (finished Judges)
+- [[2025-09-25-Thu]]: pg 384 (finished 1 Sam)
+- [[2025-11-05-Wed]]: started Jeremiah 
 
 (302-177)/(27+26)=2.3 pages/day 
 
@@ -55,6 +57,8 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-08-27-Wed]]-[[Jos-22#v5]]: "But take diligent heed to do the commandment and the law, which Moses the servant of the Lord charged you, to love the Lord your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul."
 - [[2025-09-13-Sat]]-[[Mt-06#v13]]: The Our Father in the KJV text ends with the doxology! The irony!
 - [[2025-10-23-Thu]]-[[2 Kgs-04]]: The woman who sells some oil to keep her sons out of debt servitude show how poor the people are and how close they are to utter destitution. 
+- [[2025-09-14-Sun]]-[[2 Sm-15#v22]]: "to obey is better than sacrifice"
+- 
 
 
 ### Themes

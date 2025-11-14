@@ -13,7 +13,7 @@ source:
 wishlist: 2025-10-11
 acquired:
 started: 2025-10-11
-finished:
+finished: 2025-11-05
 finishednotes:
 ---
 # *[The Martian]()* by [[Andy Weir]]

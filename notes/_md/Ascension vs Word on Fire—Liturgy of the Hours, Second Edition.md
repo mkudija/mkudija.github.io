@@ -4,12 +4,14 @@ publish: true
 
 <center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/side-by-side.png?raw=true" width="100%"></center>
 # Ascension vs Word on Fire—Liturgy of the Hours, Second Edition
+*Published: 2025-10-22-Wed*
+*Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`*
 
-On October 7, 2025, Ascension and Word on Fire announced that the United States Conference of Catholic Bishops (USCCB) had selected them as publishers of the new *Liturgy of the Hours, Second Edition*. This marks the first time in fifty years that the Church's official daily prayer will be updated in English, and the first time it will be offered by two publishers. This is an exciting renewal of the Church's prayer.
+On October 7, 2025, Ascension and Word on Fire announced that the United States Conference of Catholic Bishops (USCCB) had selected them as publishers of the new *Liturgy of the Hours, Second Edition*. The *Second Edition* will be published on February 10, 2027 (Ash Wednesday) alongside the new Catholic American Bible. This marks the first time in fifty years that the Church's official daily prayer will be updated in English, and the first time it will be offered by two publishers. This is an exciting renewal of the Church's prayer.
 
 My first reaction when I heard that Ascension and Word on Fire had been chosen for this important project was joy that we would assuredly be given beautiful breviaries. My breviary is the one book I use multiple times every day. I rotate through several well-loved Bibles, but my breviary—whichever volume we are on—is nearly always with me. I look forward to praying with these new editions.
 
-<div class="info"> <p>The notes below summarize what we know so far and offer an early comparison of the forthcoming editions from Ascension and Word on Fire. I plan to review both editions in detail once they are released, and will update this page as new information becomes available. </p> </div> 
+<div class="info"> <p>The notes below summarize what we know so far and offer a comparison of the forthcoming editions from Ascension and Word on Fire. I plan to review both editions in detail once they are released, and will update this page as new information becomes available. </p> </div> 
 
 ---
 
@@ -124,10 +126,6 @@ Ascension and Word on Fire bring their distinctive strengths to this project, an
 - If you want more now, spend something like $9 per month to get the monthly [Liturgy of the Hours booklets](https://www.wordonfire.org/pray/), or $22 to get [Shorter Christian Prayer](https://ascensionpress.com/products/shorter-christian-prayer) which has everything you need to pray the primary hours of Morning Prayer, Evening Prayer, and Night Prayer.
 - Get the Ascension or Word on Fire Second Edition when released. I will add more details here to compare the two as they become available. 
 
----
-Created: [[2025-10-22-Wed]]
-Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
-
 [^1]: *[The General Instruction on the Liturgy of the Hours](https://www.liturgyoffice.org.uk/Resources/Rites/GILH.pdf)* (1)
 
 [^2]: [The Liturgy of the Hours Explained (w/ Fr. Mike Schmitz) - YouTube](https://yrsoutu.be/tYwVeGeTrao)
@@ -136,4 +134,4 @@ Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`
 
 [^4]: Even so, it did retain some distracting elements such as the colored arrows at the top of every page, and I hope Ascension gives us a timeless and distraction-free breviary. 
 
-[^5]: As an aside: if you could only have three books on your desert island, what would they be? Following  *[[2022-12-03-Dei Verbum|Dei Verbum]]* 10, I would pick a Bible (Sacred Scripture), a Breviary (Sacred Tradition), and a Catechism (Magisterium).<br>*"It is clear, therefore, that sacred tradition, Sacred Scripture and the teaching authority of the Church, in accord with God's most wise design, are so linked and joined together that one cannot stand without the others, and that all together and each in its own way under the action of the one Holy Spirit contribute effectively to the salvation of souls."*
+[^5]: As an aside: if you could only have three books on your desert island, what would they be?<br><Br>Following  *[[2022-12-03-Dei Verbum|Dei Verbum]]* 10, I would pick a Bible (Sacred Scripture), a Breviary (Sacred Tradition), and a Catechism (Magisterium).<br><br>*"It is clear, therefore, that sacred tradition, Sacred Scripture and the teaching authority of the Church, in accord with God's most wise design, are so linked and joined together that one cannot stand without the others, and that all together and each in its own way under the action of the one Holy Spirit contribute effectively to the salvation of souls."*

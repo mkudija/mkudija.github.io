@@ -150,10 +150,10 @@ publish: true
 - [[2025-04-13-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
 - [[2025-06-15-Sun]]: *[[~Sir Gawain and the Green Knight|Sir Gawain and the Green Knight]]*
 - [[2025-07-04-Fri]]: *[[~Max and Benedict|Max and Benedict]]*
+- [[2025-11-05-Wed]]: *[[~The Martian|The Martian]]*
 - In Progress:
 	- [[2025-05-20-Tue]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]* and *[[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible]]*
 	- [[2025-06-15-Sun]]: *[[~World War II Stories for Kids|World War II Stories for Kids]]*
-	- [[2025-10-11-Sat]]: *[[~The Martian|The Martian]]*
 
 ---
 **Topic**: [[Reading]]

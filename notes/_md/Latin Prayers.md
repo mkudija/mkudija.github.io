@@ -30,6 +30,10 @@ publish: true
 
 <audio controls src="https://www.gregorian-chant-hymns.com/hymns-2/01-adoro-te-devote--st.m4a"> Your browser does not support the audio element. </audio>
 
+### O Salutaris Hostia
+
+<audio controls src="https://www.gregorian-chant-hymns.com/hymns-2/02-o-salutaris--st-cecilias.m4a"> Your browser does not support the audio element. </audio>
+
 
 ### Fatima Prayer
 

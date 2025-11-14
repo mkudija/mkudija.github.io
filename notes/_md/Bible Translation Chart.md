@@ -26,7 +26,7 @@ esv25(ESV 2025)
 esvce(ESV-CE 2018)
 nab(NAB 1970)
 nabre(NABRE 2011)
-nabre25(NABRE 2025?)
+cab(CAB 2027)
 niv(NIV 1978)
 niv84(NIV 1984)
 niv11(NIV 2011)
@@ -66,7 +66,7 @@ orig --> v:::ct
 orig --> kjv:::pt
 orig --> na
 nab --> nabre:::ct
-nabre --> nabre25:::ct
+nabre --> cab:::ct
 v --> nv:::ct
 v --> douay:::ct
 douay --> challoner:::ct
