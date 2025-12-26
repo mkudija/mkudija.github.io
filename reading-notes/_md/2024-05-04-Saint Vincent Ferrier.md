@@ -35,7 +35,7 @@ finishednotes: 2024-05-04
 - "All this crowd of children were piled into a little house, situated at the corner of the Calle Del Mar, not far from the harbor." (7)
 - "Spain is Spain, not France, not England. It is the mortal error of our people to take for granted that other peoples must be like itself." (10)
 - From his *Treatise on the Spiritual Life*
-	- "Even in spiritual thins prefer the will of others to your own, even if your own seems better, provided that theirs is good. In material things ordinarily do the will of others whoever they are." (20)
+	- "Even in spiritual things prefer the will of others to your own, even if your own seems better, provided that theirs is good. In material things ordinarily do the will of others whoever they are." (20)
 	- "The least desire for greatness, no matter under what pretext of charity it arises, is the head of the serpent of hell; we must crush it instantly with the cross." (20)
 - Ladder of perfection (23)
 	1. Self-knowledge
@@ -76,14 +76,14 @@ finishednotes: 2024-05-04
 
 ## Chapter V: The Conversion of Spain
 - "It was sufficient that he should speak what he thought in the idiom of his childhood, his family, his country, the old Valencian vernacular; the multitude, whatever their own languages, grasped his thought and make it their own." (113)
-- "I am speaking my mother tongue, theo nly one I now, save for Latin and a little Hebrew. It is God who translates it for you and renders it intelligible to you." (115)
+- "I am speaking my mother tongue, the only one I know, save for Latin and a little Hebrew. It is God who translates it for you and renders it intelligible to you." (115)
 - "However far away people might be, everyone heard every syllable." (116)
 - Vincent preached for the mass conversion of Jews and Moors with an eye toward the future political unification of Spain
 
 ## Chapter VI: The End of Schism and the Hundred Years War 
 - While the two popes met, Rome was captured and a third Pope was elected, Alexander V and then John XXIII 
 - Two of the Popes offered to resign if Benedict did the same: Vincent preached and pleaded with him to do so for the unity of the Church despite his obstinacy (140)
-- [[Dominican]] ideal: "Master Vincent was a realist, resembling in this all the great friars of his Order—an Order at once contemplative, studious an active, based upon a complete grasp of reality temporal and spiritual." (148)
+- [[Dominican]] ideal: "Master Vincent was a realist, resembling in this all the great friars of his Order—an Order at once contemplative, studious, and active, based upon a complete grasp of reality temporal and spiritual." (148)
 - Vincent saw the importance of Charles as did [[St. Joan of Arc]], but he did not prophesy her and died when she was only ten (150)
 - "He often worked on his journeys and had to carry heavy volumes with him—the whole [[2021-08-12-Summa Theologiae|Summa]] of St. Thomas, perhaps, with Commentaries. He had loaded them on his ass and the ass sank in the mud so that it seemed impossible to get him out again. 'Jesus, aid him!' he cried. And so it happened." (155)
 

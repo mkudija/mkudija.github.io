@@ -1,5 +1,6 @@
 ---
-aliases: [Dear and Glorious Physician]
+aliases:
+  - Dear and Glorious Physician
 title: Dear and Glorious Physician
 author: Taylor Caldwell
 category: Fiction
@@ -8,11 +9,11 @@ total_page: 575
 publish_date: 2008
 isbn10: 1586172301
 isbn13: 9781586172305
-source: 
+source:
 wishlist: 2023-05-22
-acquired: 
-started: 
-finished: 
+acquired: 2025-12-06
+started:
+finished:
 ---
 # *[Dear and Glorious Physician]()* by [[Taylor Caldwell]]
 
@@ -27,6 +28,7 @@ finished:
 
 **Source**
 - [[St. Patrick Church]] [[2023-05-21-Sun]]
+- [[St. Pat's KoC Book Sale]] 2025
 
 **Bibliography**
 

@@ -1,18 +1,19 @@
 ---
-aliases: [The Bible and the Mass]
+aliases:
+  - The Bible and the Mass
 title: The Bible and the Mass
 author: Peter Stravinskas
 category: Religion
-publisher: 
+publisher:
 total_page: 0
 publish_date: 2006-06
-isbn10: 0970402201
+isbn10: 970402201
 isbn13: 9780970402202
-source: 
+source:
 wishlist: 2023-10-31
-acquired: 
-started: 
-finished: 
+acquired: 2025-12-06
+started:
+finished:
 ---
 # *[The Bible and the Mass: Understanding the Scriptural Basis of the Liturgy]()* by [[Peter Stravinskas]]
 
@@ -51,7 +52,8 @@ finished:
 **Topic**: [[Scripture in the Mass]]
 
 **Source**
-- [[St. Patrick Church]] library
+- [[St. Patrick Church]] 
+- [[St. Pat's KoC Book Sale]] 2025
 
 **Bibliography**
 

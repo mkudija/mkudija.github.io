@@ -28,7 +28,7 @@ finishednotes: 2024-05-26
 - Brilliance of James is in his understanding of faith, the human person, and salvation. Change of behavior begins with a change of heart (1)
 - James's holiness according to Hegesippus: "He was in the habit of entering alone into the temple, and was frequently found upon his knees begging forgiveness for the people, so that his knees became hard like those of a camel, in consequence of his constantly bending them in his worship of God, and asking forgiveness for the people." (4)
 - Theological themes: 
-	- The strict relationship between faith and works: faith must be accompanied by conduct that manifests the new life in Christ (esp. [[Jas-02#v14]]-26, responding to misinterpretation of Paul's important teaching that Christians are justified by faith rather than works ([[Rom-03#v28]])
+	- The strict relationship between faith and works: faith must be accompanied by conduct that manifests the new life in Christ (esp. [[Jas-02#v14]]-26, responding to misinterpretation of Paul's important teaching that Christians are justified by faith rather than works: [[Rom-03#v28]])
 	- Care for the poor and control the tongue 
 	- Take an attitude of humility before God 
 	- There is not middle road: waffling and indecision amount to choosing against God. Faith requires a total commitment to the ways of God ,and one's charitable actions demonstrate one's faith.
@@ -41,7 +41,7 @@ finishednotes: 2024-05-26
 	- Peter ([[1 Pt-01#v6]]-7) and Paul ([[Rom-05#v3]]-4) teach the same thing 
 	- James teaches us to see every aspect of life as part of God's mysterious plan of love
 - [[Jas-01#v5]]
-	- [[Wisdom]] supplies the divine perspective that enables a person to withstand tirals without giving up and leads to spiritual maturity 
+	- [[Wisdom]] supplies the divine perspective that enables a person to withstand trials without giving up and leads to spiritual maturity 
 	- Wisdom is obtained only through prayer 
 - James always has an eye on the next life and teaches us to determine the value of things on the basis of their potential to bring us to eternal life (26)
 

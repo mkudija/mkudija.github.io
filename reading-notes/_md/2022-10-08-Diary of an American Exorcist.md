@@ -40,7 +40,7 @@ finished: 2022-10-07
 - [[Fr. Chad Ripperger]] estimates that 25% of Americans suffer from demonic obsessions (177)
 - "Satan and his demons are especially effective in today's world because many do not believe in their existence or their activity in our world." (192)
 - Strong weapons: the Holy [[The Rosary|Rosary]], pious reception of [[Eucharist|Holy Communion]], and [[~Deliverance Prayers|Deliverance Prayers]] (195-196)
-- Prayer to [[St. Joseph]], *terror of demons* (200, cf. *[[2022-06-19 Consecration to St. Joseph|Consecration to St. Joseph]]*)
+- Prayer to [[St. Joseph]], *terror of demons* (200, cf. *[[2025-12-28-Consecration to St. Joseph|Consecration to St. Joseph]]*)
 - [[Fr. Gabriele Amorth]]: 90% of possessions come from curses (241)
 - "Individuals have authority over their own bodies and thus can pray directly to have a curse over themselves lifted." (243)
 - The best antidote to demonic discord is prayer and communication (259)

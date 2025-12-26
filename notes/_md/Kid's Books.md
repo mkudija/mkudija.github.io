@@ -149,11 +149,14 @@ publish: true
 - [[2025-04-12-Sat]]: *[[~The Adventures of Loupio|The Adventures of Loupio]]*
 - [[2025-04-13-Sun]]: *[[~The Golden Children's Bible|The Golden Children's Bible]]*
 - [[2025-06-15-Sun]]: *[[~Sir Gawain and the Green Knight|Sir Gawain and the Green Knight]]*
+- [[2025-06-15-Sun]]: *[[~World War II Stories for Kids|World War II Stories for Kids]]* (partial, not great)
 - [[2025-07-04-Fri]]: *[[~Max and Benedict|Max and Benedict]]*
-- [[2025-11-05-Wed]]: *[[~The Martian|The Martian]]*
+- [[2025-11-05-Wed]]: *[[2025-11-14-The Martian|The Martian]]*
+- [[2025-10-01-Wed]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]* and *[[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible]]* (Genesis through 2 Samuel)
+- [[2025-11-27-Thu]]: *[[2025-12-02-Hatchet|Hatchet]]*
+- [[2025-12-07-Sun]]: *[[2025-12-08-The Door in the Wall|The Door in the Wall]]* (Jordan)
+- [[2025-12-22-Mon]]: *[[~Postcards from a Navy Chaplain|Postcards from a Navy Chaplain]]*
 - In Progress:
-	- [[2025-05-20-Tue]]: *[[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]]* and *[[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible]]*
-	- [[2025-06-15-Sun]]: *[[~World War II Stories for Kids|World War II Stories for Kids]]*
 
 ---
 **Topic**: [[Reading]]

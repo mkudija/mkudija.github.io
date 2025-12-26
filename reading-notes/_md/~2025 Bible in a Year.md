@@ -28,7 +28,11 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-08-27-Wed]]: pg 302 (finished Joshua)
 - [[2025-09-08-Mon]]: pg 335 (finished Judges)
 - [[2025-09-25-Thu]]: pg 384 (finished 1 Sam)
+- [[2025-10-19-Sun]]: switched to audio to finish OT
+- [[2025-10-26-Sun]]: finished 2 Sam
+- [[2025-10-30-Thu]]: started Isaiah 
 - [[2025-11-05-Wed]]: started Jeremiah 
+- [[2025-11-15-Sat]]: started Ezekiel
 
 (302-177)/(27+26)=2.3 pages/day 
 
@@ -57,12 +61,36 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-08-27-Wed]]-[[Jos-22#v5]]: "But take diligent heed to do the commandment and the law, which Moses the servant of the Lord charged you, to love the Lord your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul."
 - [[2025-09-13-Sat]]-[[Mt-06#v13]]: The Our Father in the KJV text ends with the doxology! The irony!
 - [[2025-10-23-Thu]]-[[2 Kgs-04]]: The woman who sells some oil to keep her sons out of debt servitude show how poor the people are and how close they are to utter destitution. 
+- [[2025-10-29-Wed]]-[[1 Chr-29#v11]]: doxology
 - [[2025-09-14-Sun]]-[[2 Sm-15#v22]]: "to obey is better than sacrifice"
-- 
+- [[2025-11-15-Sat]]-[[Jer-44#v25]]: "queen of heaven"
+- [[2025-11-15-Sat]]-[[Jer-46#v18]]: "Carmel by the sea"
+- [[2025-11-24-Mon]]-[[1 Mc-02#v61]]: "none that put their trust in him shall be overcome"
+- [[2025-11-27-Thu]]-[[1 Mc-03#v19]]: "For the victory of battle standeth not in the multitude of an host; but strength cometh from heaven."
+- [[2025-12-04-Thu]]-[[Jdt-08#v17]]: "Therefore let us wait for salvation of him, and call upon him to help us, and he will hear our voice, if it please him."
+- [[2025-12-06-Sat]]-[[Tb-04#v7]]-11 on [[Almsgiving]]: "Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee. If thou hast abundance give alms accordingly: if thou have but a little, be not afraid to give according to that little: For thou layest up a good treasure for thyself against the day of necessity. Because that alms do deliver from death, and suffereth not to come into darkness. For alms is a good gift unto all that give it in the sight of the most High."
+- [[2025-12-06-Sat]]-[[Tb-04#v12]]: "Honour thy father and thy mother in law, which are now thy parents"
+- [[2025-12-07-Sun]]-[[Wis-05#v18]]-20: Paul's armor imagery comes from here: "He shall put on righteousness as a breastplate, and true judgment instead of an helmet. He shall take holiness for an invincible shield. His severe wrath shall he sharpen for a sword, and the world shall fight with him against the unwise."
+- [[2025-12-15-Mon]]-[[2 Tm-03#v7]]: Avoid being like this! "Ever learning, and never able to come to the knowledge of the truth."
 
 
 ### Themes
-- 
+- Justification
+	- Saved by Grace/Faith 
+		- [[Mk-16#v16]]: "He that **believeth** and is **baptized** shall be saved; but he that believeth not shall be damned."
+		- [[Acts-15#v11]]: "But we believe that through the **grace** of the Lord Jesus Christ we shall be saved, even as they."*
+		- [[Acts-16#v31]]: "And they said, **Believe** on the Lord Jesus Christ, and thou shalt be saved, and thy house."
+		- [[Rom-04#v16]]: "Therefore it is of **faith**, that it might be by grace"
+		- [[Rom-08#v24]]: "For we are saved by **hope**"
+		- [[Rom-10#v9]]: "That if thou shalt **confess** with thy mouth the Lord Jesus, and shalt **believe** in thine heart that God hath raised him from the dead, thou shalt be saved."
+		- [[1 Cor-15#v1]]-1: "Moreover, brethren, I declare unto you the **gospel** which I preached unto you, which also ye have received, and wherein ye stand; By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain."
+		- [[Gal-02#v16]]: "Knowing that a man is not justified by the works of the law, but by the **faith** of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."*
+		- ==[[1 Thes-04#v14]]: "fallen asleep believing in him"==
+	- Saved by Works
+		- [[Rom-02#v13]]: "For not the hearers of the law are just before God, but the **doers of the law** shall be justified."
+		- [[1 Tm-04#v16]]: "Take heed unto thyself, and unto the **doctrine; continue in them**: for in doing this thou shalt both save thyself, and them that hear thee."
+
+`*` in the context of the Mosaic Law
 
 ---
 Created: [[2025-06-13-Fri]]

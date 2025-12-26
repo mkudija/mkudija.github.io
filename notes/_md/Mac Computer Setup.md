@@ -59,7 +59,8 @@ publish: true
 		- *need to [install brew](https://stackoverflow.com/questions/66666134/how-to-install-homebrew-on-m1-mac)*
 		- double tap option (⌥) to enable/disable Espanso (can turn this toggle key behavior off-[link](https://espanso.org/docs/next/configuration/options/))
 		- now using `/Users/mkudija/Library/Application Support/espanso/match/base.yml` for config rather than `/Users/mkudija/Library/Application Support/espanso/config/default.yml`
-	- [Spectacle](https://www.spectacleapp.com/)
+	- [Rectangle](https://rectangleapp.com/)
+		- ~~[Spectacle](https://www.spectacleapp.com/)~~
 	- [Shortcat](https://shortcatapp.com/) ([how to use](https://superuser.com/questions/93937/keyboard-shortcut-to-right-click-in-mac-os-x/715116))
 	- [Itsycal](https://www.mowglii.com/itsycal/)
 		- `yyyy-MM-dd E ✈ h:mm a`

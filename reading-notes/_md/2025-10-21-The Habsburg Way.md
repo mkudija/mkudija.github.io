@@ -60,7 +60,7 @@ finishednotes: 2025-10-21
 ## Rule 4: Stand for Law and Justice (and Your Subjects)
 - Royal service: "serving always meant putting your own interests second", i.e. language, region, privacy (94)
 - Leopold had ten sons, and is a model for [[Fatherhood]] in raising men (98)
-- Franz Joseph to [[~Theodore Rex|Theodore Roosevelt]]: "The idea of my office is to protect my peoples from their politicians. (102)"
+- Franz Joseph to [[2025-12-23-Theodore Rex|Theodore Roosevelt]]: "The idea of my office is to protect my peoples from their politicians. (102)"
 
 ## Rule 5: Know Who You Are (and Live Accordingly)
 - Otto von Habsburg: "Those who don't know where they come from do not know where they are heading—because they don't know where they stand." (105)
@@ -80,14 +80,14 @@ finishednotes: 2025-10-21
 	- *Who desires entry?*
 	- *Otto, a mortal and sinful man*
 - Maximilian ordered his suit of armor placed in perpetual adoration of the Blessed Sacrament, where it remains today
-- The death of Blessed Karl is "poignantly described in the little booklet, *[[~Death of an Emperor|Death of an Emperor]]*, which I frequently recommend" (143)
+- The death of Blessed Karl is "poignantly described in the little booklet, *[[2025-12-19-Death of an Emperor|Death of an Emperor]]*, which I frequently recommend" (143)
 - [[Spiritual Disciplines]] prepare us for death: "Karl's manner of death would never have occurred in a soul that had not been shaped by a life of daily Holy Mass, frequent rosary prayer, devotion to the Sacred Heart, and regular Confession." (143)
 
 ## Habsburgs Today 
 - "If God has placed you in any position of authority, not matter how great or small, use your gifts for the good of those you govern." (154)
 ## Read more
 - Leopold and how he raised his ten sons (98)
-- Read *[[~Blessed Charles of Austria|Blessed Charles of Austria]]* (147)
+- Read *[[2025-12-02-Blessed Charles of Austria|Blessed Charles of Austria]]* (147)
 
 --- 
 **Topic**: Habsburgs

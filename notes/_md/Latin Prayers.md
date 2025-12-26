@@ -40,6 +40,9 @@ publish: true
 <audio controls src="https://www.prayinglatin.com/wp-content/uploads/2019/09/Fatima.m4a?_=1"> Your browser does not support the audio element. </audio>
 *[Source](https://www.prayinglatin.com/fatima-prayer-latin-versions/)*
 
+### [[Tantum Ergo]]
+
+<audio controls src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tantum_Ergo_I_Gregorian.ogg"> Your browser does not support the audio element. </audio>
 
 
 ---
