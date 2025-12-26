@@ -9,11 +9,13 @@ from markdown2 import markdown_path
 from pathlib import Path
 import pprint
 
+# Compile regex pattern once for performance
+OBSIDIAN_LINK_PATTERN = re.compile(r'(?<=\[\[).*?(?=\]\])')
+
 
 def copy_files_ifPublish(src, dst):
     """Copy directory src to directory dst if "publish" in metadata.
     """
-
     print('\tCopying "publish" files from a) to b): \n\t\ta) {}\n\t\tb) {}\n'.format(src, dst))
 
     # clear directory
@@ -47,19 +49,19 @@ def copy_files_ifPublish(src, dst):
         ))
 
 
-def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
+def convert_md_to_html(src, pathSource, template, pathOutput):
     """Converts .md (markdown) files to .html files.
+    
+    Args:
+        src: Source directory for timestamp lookup
+        pathSource: Path to source markdown file
+        template: Pre-loaded template list (cached)
+        pathOutput: Output directory path
     """
     print('\tConverting: {}'.format(pathSource.name))
 
-    # metadata = get_metadata(pathSource)
-
-    # import markdown2
-    # from markdown2 import markdown_path
-    with open(pathTemplate) as f:
-        template = [x.strip('\n,') for x in f]
-           
-    template = [x.strip() for x in template] 
+    # Make a copy of template for this file (slicing is faster than .copy())
+    template = template[:]
 
     title = pathSource.name.split('.')[0]
     for line in range(len(template)):
@@ -86,10 +88,8 @@ def convert_md_to_html(src, pathSource, pathTemplate, pathOutput):
     ## - support for "links to this page"
 
     try:
-        # regex help: https://regexr.com/
-        # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160
-        # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # alt
-        linksRaw = re.findall(r'(?<=\[\[).*?(?=\]\])', mdString)
+        # Use pre-compiled regex pattern
+        linksRaw = OBSIDIAN_LINK_PATTERN.findall(mdString)
 
         for i in linksRaw:
             linkRaw = i
@@ -195,20 +195,25 @@ def main():
     files = [x for x in p if x.is_file()]
 
     # convert to html
+    
+    # Load template once for all conversions
+    with open('_template.html') as f:
+        template = [x.strip('\n,') for x in f]
+    template = [x.strip() for x in template]
+    
     fnames = []
     for i in range(len(files)):
         if '~' not in str(files[i]):
             try:
                 convert_md_to_html(src=src,
                                    pathSource=files[i], 
-                                   pathTemplate=Path('_template.html'), 
+                                   template=template,  # Pass cached template
                                    pathOutput=Path('../'))
             except:
                 print('**Did not convert: {}'.format(files[i]))
             fnames.append(files[i].stem)
         else:
             print('**Did not convert: {}'.format(files[i]))
-
 
     # create index file
     create_index(pathTemplate=Path('_template.html'),
