@@ -4,7 +4,7 @@ import pandas as pd
 import re
 import markdown2
 from markdown2 import markdown_path
-from distutils.dir_util import copy_tree
+import shutil
 from pathlib import Path
 
 
@@ -17,7 +17,7 @@ def copy_files(src, dst):
     os.makedirs(dst, exist_ok=True)
 
     print('\tCopying a) to b): \n\t\ta) {}\n\t\tb) {}\n'.format(src, dst))
-    copy_tree(src, dst)
+    shutil.copytree(src, dst, dirs_exist_ok=True)
 
 
 def convert_md_to_html(pathSource, pathTemplate, pathOutput):
@@ -78,7 +78,7 @@ def convert_md_to_html(pathSource, pathTemplate, pathOutput):
         # regex help: https://regexr.com/
         # examples:   https://github.com/oleeskild/obsidian-digital-garden/blob/438f1184f16344dab177562745b4f0d72c0081ce/Publisher.ts#L160
         # linksRaw = re.findall('/\[\[(.*?)\]\]/g', mdString) # alt
-        linksRaw = re.findall('(?<=\[\[).*?(?=\]\])', mdString)
+        linksRaw = re.findall(r'(?<=\[\[).*?(?=\]\])', mdString)
 
         for i in linksRaw:
             linkRaw = i
