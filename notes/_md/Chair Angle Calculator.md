@@ -7,6 +7,101 @@ latex: true
 
 # Chair Angle Calculator
 
+### Calculator
+
+<div id="chair-calculator" style="background-color: #f5f5f5; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <h4 style="margin-top: 0; color: #333;">Interactive Angle Calculator</h4>
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px;">
+    <div>
+      <label for="rake-input" style="display: block; margin-bottom: 5px; font-weight: 600; color: #555;">Rake Angle (degrees):</label>
+      <input type="number" id="rake-input" value="15" step="0.5" min="0" max="45" style="width: 100%; padding: 8px; border: 2px solid #ddd; border-radius: 4px; font-size: 16px;">
+    </div>
+    
+    <div>
+      <label for="splay-input" style="display: block; margin-bottom: 5px; font-weight: 600; color: #555;">Splay Angle (degrees):</label>
+      <input type="number" id="splay-input" value="15" step="0.5" min="0" max="45" style="width: 100%; padding: 8px; border: 2px solid #ddd; border-radius: 4px; font-size: 16px;">
+    </div>
+  </div>
+  
+  <div style="background-color: #fff; border-radius: 6px; padding: 15px; border-left: 4px solid #4CAF50;">
+    <h5 style="margin-top: 0; color: #333;">Results:</h5>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+      <div>
+        <div style="font-size: 14px; color: #666; margin-bottom: 3px;">Sightline (α):</div>
+        <div id="sightline-result" style="font-size: 24px; font-weight: 700; color: #4CAF50;">--</div>
+      </div>
+      <div>
+        <div style="font-size: 14px; color: #666; margin-bottom: 3px;">Resultant (θ):</div>
+        <div id="resultant-result" style="font-size: 24px; font-weight: 700; color: #2196F3;">--</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="module">
+  // Chair Angle Calculator Module
+  function calculateAngles(rakeDeg, splayDeg) {
+    // Convert degrees to radians
+    const rakeRad = rakeDeg * Math.PI / 180;
+    const splayRad = splayDeg * Math.PI / 180;
+    
+    // Calculate sightline: α = arctan(tan(r) / tan(s))
+    const sightlineRad = Math.atan(Math.tan(rakeRad) / Math.tan(splayRad));
+    const sightlineDeg = sightlineRad * 180 / Math.PI;
+    
+    // Calculate resultant: θ = arctan(√(tan²(r) + tan²(s)))
+    const tanR = Math.tan(rakeRad);
+    const tanS = Math.tan(splayRad);
+    const resultantRad = Math.atan(Math.sqrt(tanR * tanR + tanS * tanS));
+    const resultantDeg = resultantRad * 180 / Math.PI;
+    
+    return {
+      sightline: sightlineDeg,
+      resultant: resultantDeg
+    };
+  }
+  
+  function updateResults() {
+    const rakeInput = document.getElementById('rake-input');
+    const splayInput = document.getElementById('splay-input');
+    const sightlineResult = document.getElementById('sightline-result');
+    const resultantResult = document.getElementById('resultant-result');
+    
+    const rake = parseFloat(rakeInput.value);
+    const splay = parseFloat(splayInput.value);
+    
+    // Validate inputs
+    if (isNaN(rake) || isNaN(splay) || rake <= 0 || splay <= 0) {
+      sightlineResult.textContent = '--';
+      resultantResult.textContent = '--';
+      return;
+    }
+    
+    const angles = calculateAngles(rake, splay);
+    
+    // Display results rounded to 2 decimal places
+    sightlineResult.textContent = angles.sightline.toFixed(1) + '°';
+    resultantResult.textContent = angles.resultant.toFixed(1) + '°';
+  }
+  
+  // Initialize calculator
+  document.addEventListener('DOMContentLoaded', () => {
+    const rakeInput = document.getElementById('rake-input');
+    const splayInput = document.getElementById('splay-input');
+    
+    // Add event listeners for real-time calculation
+    rakeInput.addEventListener('input', updateResults);
+    splayInput.addEventListener('input', updateResults);
+    
+    // Calculate initial values
+    updateResults();
+  });
+  
+  // Also calculate on load if DOM is already ready
+  updateResults();
+</script>
+
 ### Background
 The legs of a chair are often angled from the vertical. The side-to-side and front-to-back components of these angles are called *splay* and *rake*, and are easy to measure off a photograph of a chair. But when making a chair, it is easier to resolve the splay and rake into a single *resultant* angle along the *sightline*. [[Christopher Schwarz]] talks about this in *[[2022-10-11-The Stick Chair Book|The Stick Chair Book]]* ([PDF excerpt](https://blog.lostartpress.com/wp-content/uploads/2022/05/Stick-Chair_excerpt.pdf)):
 
@@ -51,7 +146,6 @@ $$\tan(\theta)=\sqrt{\tan^2(r)+\tan^2(s)}$$
 $$\text{resultant: } \boxed{\theta=\tan^{-1}\left( \sqrt{\tan^2(r)+\tan^2(s)} \right)}$$
 
 This is implemented in the following sheet: [Chair Angle Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1h0Ls0Vrd2oCE3AtCu19jd7lndnfqP5E0VC9R6khPpXU/edit#gid=0)
-
 
 ### Resources
 - [Coming Soon: The Chairpanzee – Lost Art Press](https://blog.lostartpress.com/2020/10/04/coming-soon-the-chairpanzee/)
