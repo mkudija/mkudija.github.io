@@ -9,7 +9,7 @@
 <li><i>The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being</i> by Simone Davies</li>
 <li><i>The Hanging God</i> by James Matthew Wilson</li>
 <li><i>The History of the Catholic Church: From the Apostolic Age to the Third Millennium</i> by James Hitchcock</li>
-<li><i>Consecration to St. Joseph: The Wonders of Our Spiritual Father</i> by Fr Donald Calloway</li>
+<li><i>Consecration to St. Joseph: The Wonders of Our Spiritual Father</i> by Fr. Donald Calloway</li>
 <li><i>Strangers in a Strange Land: Living the Catholic Faith in a Post-Christian World</i> by Charles J. Chaput</li>
 <li><i>On Faith: Lessons from an American Believer</i> by Antonin Scalia, edited by Christopher J. Scalia & Edward Whelan</li>
 <li><i>Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</i> by Christopher McDougall</li>

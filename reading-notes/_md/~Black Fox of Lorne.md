@@ -12,7 +12,7 @@ isbn13: 9781933346007
 source:
 wishlist: 2025-12-17
 acquired: 2025-12-15
-started: 
+started: 2025-12-27
 finished:
 finishednotes:
 ---
@@ -23,6 +23,8 @@ finishednotes:
 `(Providence: Cluny, 1957/2025), 220`
 
 
+- Aye, we have many skills. I’m glad our father taught us. (5)
+- Oft where one looks for foes, one finds friends. (10)
 
 --- 
 **Topic**: 

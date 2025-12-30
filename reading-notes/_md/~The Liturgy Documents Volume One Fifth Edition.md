@@ -23,7 +23,32 @@ finishednotes:
 
 `(New York: Liturgy Training Publications, 2014-04-02), 803`
 
+# Roman Documents 
+## [[~Sacrosanctum concilium|Constitution on the Sacred Liturgy]] (1963)
 
+## General Instruction of [[~Roman Missal|The Roman Missal]] (1975)
+
+## Appendix to the General Instruction fo the Diocese of the United States 
+
+## [[lectionary|Lectionary for Mass]]: Introduction (1981)
+
+## General Norms for the Liturgical year and the Calendar (1969)
+
+## Ceremonial of Bishops (1984 excerpts)
+
+## Directory for Masses with Children (1973)
+
+
+# United States Documents 
+## This Holy and Living Sacrifice: Directory for the Celebration and Reception of Communion under Both Kinds (1984)
+
+## Music in Catholic Worship (1972, 1983)
+
+## Liturgical Music Today (1982)
+
+## Environment and Art in Catholic Worship (1978)
+
+## Fulfilled in Your Hearing: The Homily in the Sunday Assembly (1982)
 
 --- 
 **Topic**: [[Liturgy]]

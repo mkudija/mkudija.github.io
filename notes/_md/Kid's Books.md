@@ -157,6 +157,7 @@ publish: true
 - [[2025-12-07-Sun]]: *[[2025-12-08-The Door in the Wall|The Door in the Wall]]* (Jordan)
 - [[2025-12-22-Mon]]: *[[~Postcards from a Navy Chaplain|Postcards from a Navy Chaplain]]*
 - In Progress:
+	- [[2025-12-26-Fri]]: *[[~The Story of All Stories|The Story of All Stories]]*
 
 ---
 **Topic**: [[Reading]]

@@ -72,6 +72,17 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-12-06-Sat]]-[[Tb-04#v12]]: "Honour thy father and thy mother in law, which are now thy parents"
 - [[2025-12-07-Sun]]-[[Wis-05#v18]]-20: Paul's armor imagery comes from here: "He shall put on righteousness as a breastplate, and true judgment instead of an helmet. He shall take holiness for an invincible shield. His severe wrath shall he sharpen for a sword, and the world shall fight with him against the unwise."
 - [[2025-12-15-Mon]]-[[2 Tm-03#v7]]: Avoid being like this! "Ever learning, and never able to come to the knowledge of the truth."
+- [[2025-12-17-Wed]]-[[Sir-01#v22]]: Anger: "A furious man cannot be justified; for the sway of his fury shall be his destruction."
+- [[2025-12-17-Wed]]-[[Sir-03#v23]]: Avoid unnecessary curiosity: "Be not curious in unnecessary matters: for more things are shewed unto thee than men understand."
+- [[2025-12-24-Wed]]-[[Sir-06#v37]]: "Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments"
+- [[2025-12-24-Wed]]-[[Sir-07#v22]]: Keep your investments close to you, or invest in things close to you: "Hast thou cattle? have an eye to them: and if they be for thy profit, keep them with thee."
+- [[2025-12-24-Wed]]-[[Sir-12#v6]]: Against [[Universalism]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."
+- [[2025-12-24-Wed]]-[[Sir-13#v1]]-12: how to deal with rich people
+- [[2025-12-26-Fri]]-[[Sir-20#v30]]: How are we best to share our wisdom? (cf. *[[2025-06-25-Rerum Novarum#^41075b]]*)"Wisdom that is hid, and treasure that is hoarded up, what profit is in them both?"
+- 
+- [[2025-12-30-Tue]]-[[Sir-35#v10]]-11: "Give unto the most High according as he hath enriched thee; and as thou hast gotten, give with a cheerful eye. For the Lord recompenseth, and will give thee seven times as much." (cf. *[[2025-12-30-Hannah's Children|Hannah's Children]]*, 277)
+- 
+- "filthy lucre" is a great phrase
 
 
 ### Themes
@@ -89,6 +100,7 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 	- Saved by Works
 		- [[Rom-02#v13]]: "For not the hearers of the law are just before God, but the **doers of the law** shall be justified."
 		- [[1 Tm-04#v16]]: "Take heed unto thyself, and unto the **doctrine; continue in them**: for in doing this thou shalt both save thyself, and them that hear thee."
+		- [[Sir-12#v6]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."
 
 `*` in the context of the Mosaic Law
 

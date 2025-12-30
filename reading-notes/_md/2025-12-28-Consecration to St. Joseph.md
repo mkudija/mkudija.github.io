@@ -11,7 +11,7 @@ publish_date: 2021
 isbn10: 1596145544
 isbn13: 9781596145542
 started: 2025-11-26
-finished:
+finished: 2025-12-28
 finishednotes: 2025-12-28
 ---
 # [*Consecration to St. Joseph*](https://shopmercy.org/consecration-to-st-joseph-the-wonders-of-our-spiritual-father-commemorative-edition.html) by [[Donald H. Calloway, MIC]]
@@ -20,10 +20,12 @@ finishednotes: 2025-12-28
 
 `(Stockbridge, MA: Marian Press, 2019/2021), 370`
 
-
-- [[2022-05-18-Wed]] to [[2022-06-19-Sun]]
+A powerful consecration to St. Joseph! Previously read in:
+- 2025 (for Dad)
+- 2022 ([[2022-05-18-Wed]] to [[2022-06-19-Sun]])
 - 2020
 
+**Daily Notes**
 - Day 1: Joseph is “the increaser” of our faith  
 - Day 2: we need to be “apparitions” of Joseph to radiate his virtues  
 - Day 3: as Jesus’ father, Joseph is the image of God the Father on earth
@@ -53,7 +55,11 @@ finishednotes: 2025-12-28
 - Day 27: When the Holy Family is celebrated in society, we will again know the sanctity of motherhood, the heroism of fatherhood, and the blessing of children.
 - Day 28: God wants you to rest in St. Joseph’s fatherhood. Saint Joseph will never abandon you.
 - Day 29: If you or someone you know is sick, go to St. Joseph.
-- Day 30: 
+- Day 30: We need St. Joseph’s intercession at our hour of death.
+- Day 31: St. Joseph is a dragon slayer
+- Day 32: The "smoke of Satan has entered the Church", but Joseph is here to protect it
+- Day 33: Our spiritual father St. Joseph is lord, chief, and guardian of the treasures of heaven!
+
 
 
 
