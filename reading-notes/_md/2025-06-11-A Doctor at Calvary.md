@@ -14,7 +14,7 @@ wishlist: 2023-04-07
 acquired: 2025-03-04
 started: 2025-04-15
 finished: 2025-06-11
-finishednotes:
+finishednotes: 2025-06-11
 ---
 # *[A Doctor at Calvary: The Passion of Our Lord Jesus Christ as Described by a Surgeon]()* by [[Dr. Pierre Barbet]]
 

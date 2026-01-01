@@ -10,12 +10,12 @@ total_page: 1616
 publish_date: 2011-11-03
 isbn10: 521762847
 isbn13: 9780521762847
-source: 
+source:
 wishlist: 2025-04-09
 acquired: 2025-05-06
 started: 2025-05-20
-finished: 
-finishednotes: 
+finished: 2025-12-31
+finishednotes:
 translation: King James Version
 dimensions: 6.25x8.5x1.875
 ---
@@ -29,7 +29,7 @@ dimensions: 6.25x8.5x1.875
 >The Authorized Version is, in Norton’s version as in any other, a true treasure of the Christian faith and the English language — but Norton’s work has blown the dust off this masterpiece of prose and made it more of a pleasure to read than ever. I only wish it were more widely known.
 >–[Review: The New Cambridge Paragraph Bible — In the Fourth Nocturn](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5) 
 
-Reading for [[~2025 Bible in a Year|2025 BIY]]
+Reading for [[2025-12-31-Bible in a Year|2025 BIY]]
 
 ### The translators to the reader
 

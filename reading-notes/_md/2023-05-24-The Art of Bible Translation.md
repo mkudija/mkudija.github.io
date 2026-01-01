@@ -148,7 +148,7 @@ _**Summary**: As with other aspects of biblical style, play with the sound of wo
 
 ## Chapter 5: Rhythm
 _**Summary**: Rhythm is the beating heart of literary prose. It is not possible to convey literal meaning and poetic rhythm both in their entirety, but neither should be entirely neglected (as many modern English translations do with rhythm)._
-- The rhythm of [[Gn-01|Genesis 1]] illustrates the orderly harmony in the creation of the world, and *dominion* preserves the rhythm of the Hebrew *memSHElet*; the KJV mostly preserves this (83)
+- The rhythm of [[Gn-01|Genesis 1]] illustrates the orderly harmony in the creation of the world, and *dominion* preserves the rhythm of the Hebrew *memSHElet*; the KJV mostly preserves this (83) ^01d039
 - Parallels between [[2 Samuel]] and *[[2022-12-17-Hamlet|Hamlet]]*: the Parable of the Poor Man's Ewe in [[2 Sm-12|2 Samuel 12]] is like Hamlet's play-within-the-play, and Rosencrantz and Guildenstern are sent off with a sealed death sentence for them, just like Uriah is (85)
 - "The modern tendency to explanatory paraphrase has the effect of converting the sound of poetry into the amble of expository prose." (93)
 - Hebrew poetry is beautiful (and difficult to translate) because of its compactness (93) and few polysyllabic words (94). Translations of *[[~The Odyssey|The Odyssey]]* are instructive, successful versions being those by Richmond Lattimore in 1951 (an example of repeated gestures toward the sound and feel of the ancient poem even if the nature of the language of translation works against any complete replication of them) and Robert Fagles (94).

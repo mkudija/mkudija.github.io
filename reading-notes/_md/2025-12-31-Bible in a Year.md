@@ -2,45 +2,37 @@
 aliases:
   - 2025 BIY
 title: 2025 BIY
-author: 
-category: 
-publisher: 
-total_page: 
-publish_date: 
-isbn10: 
-isbn13: 
-source: 
-wishlist: 
-acquired: 
+author:
+category:
+publisher:
+total_page:
+publish_date:
+isbn10:
+isbn13:
+source:
+wishlist:
+acquired:
 started: 2025-05-20
-finished: 
-finishednotes:
+finished: 2025-12-31
+finishednotes: 2025-12-31
 ---
 # 2025 Bible in a Year
 [Reading Plan](https://cdn.shopify.com/s/files/1/1125/2740/files/the-official-365-day-reading-plan-for-the-bible-in-a-year_2.pdf?v=1611238365)
 
 
-*[[2025-05-20-Tue]] to ==???==: reading [[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]] and [[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible with Apocrypha]]* to the kids
+- Started reading on *[[2025-05-20-Tue]] the [[~The Pennyroyal Caxton Bible|The Pennyroyal Caxton Bible]] and [[~New Cambridge Paragraph Bible with Apocrypha|New Cambridge Paragraph Bible with Apocrypha]]* to the kids for Genesis through 1 Samuel
+- Listened to much of the rest of the OT and NT with the [KJV Bible App](https://apps.apple.com/us/app/holy-bible-king-james-audio/id316789453)
+- Read the Deuterocanon on [Liturgy Bible](https://liturgybible.org/) 
+- Read Matthew in *[[~Holman Pocket KJV NT with Psalms|Holman Pocket KJV NT with Psalms]]*
 
-Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
+Reading to the kids:
 - [[2025-07-06-Sun]]: pg 177 
 - [[2025-08-12-Tue]]: pg 264
 - [[2025-08-27-Wed]]: pg 302 (finished Joshua)
 - [[2025-09-08-Mon]]: pg 335 (finished Judges)
 - [[2025-09-25-Thu]]: pg 384 (finished 1 Sam)
 - [[2025-10-19-Sun]]: switched to audio to finish OT
-- [[2025-10-26-Sun]]: finished 2 Sam
-- [[2025-10-30-Thu]]: started Isaiah 
-- [[2025-11-05-Wed]]: started Jeremiah 
-- [[2025-11-15-Sat]]: started Ezekiel
-
-(302-177)/(27+26)=2.3 pages/day 
-
-
-[[2025-09-09-Tue]] started carrying the *[[~Holman Pocket KJV NT with Psalms|Holman Pocket KJV NT with Psalms]]* to read the NT
-- 
-
-
+- [[2025-09-09-Tue]] started carrying the  to read Matthew 
 
 ### Notes 
 - [[2025-05-20-Tue]]-[[Ps-19]] is beautiful in KJV!
@@ -79,9 +71,7 @@ Reading to the kids (1255 OT, 288 Apocrypha, 320 NT)
 - [[2025-12-24-Wed]]-[[Sir-12#v6]]: Against [[Universalism]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."
 - [[2025-12-24-Wed]]-[[Sir-13#v1]]-12: how to deal with rich people
 - [[2025-12-26-Fri]]-[[Sir-20#v30]]: How are we best to share our wisdom? (cf. *[[2025-06-25-Rerum Novarum#^41075b]]*)"Wisdom that is hid, and treasure that is hoarded up, what profit is in them both?"
-- 
 - [[2025-12-30-Tue]]-[[Sir-35#v10]]-11: "Give unto the most High according as he hath enriched thee; and as thou hast gotten, give with a cheerful eye. For the Lord recompenseth, and will give thee seven times as much." (cf. *[[2025-12-30-Hannah's Children|Hannah's Children]]*, 277)
-- 
 - "filthy lucre" is a great phrase
 
 

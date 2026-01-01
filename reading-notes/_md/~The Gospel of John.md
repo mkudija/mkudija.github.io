@@ -13,7 +13,7 @@ source:
 wishlist: 
 acquired: 
 started: 2025-01-12
-finished: 
+finished: 2025-05-26
 finishednotes:
 ---
 # *The Gospel of John*
@@ -33,7 +33,6 @@ Listened to this in 2025 while riding my bike, finished on these dates:
 	- [[Jn-08#v55]]: "I keep his word." (we should strive to do likewise)
 	- [[Jn-15#v5]]: "Apart from me you can do nothing."
 	- His words should abide in us (why to [[Memorize Scripture]]), [[Jn-15#v7]]: "If you abide in me, and my words abide in you, ask whatever you will, and it shall be done for you."
-5. 
 
 
 --- 

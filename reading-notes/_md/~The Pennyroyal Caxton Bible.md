@@ -5,17 +5,17 @@ aliases:
 title: The Pennyroyal Caxton Bible
 author: Barry Moser
 category: Bible
-publisher: 
-total_page: 
+publisher:
+total_page:
 publish_date: 1999
-isbn10: 
-isbn13: 
-source: 
+isbn10:
+isbn13:
+source:
 wishlist: 2025-03-10
 acquired: 2025-03-17
 started: 2025-05-20
-finished: 
-finishednotes: 
+finished: 2025-12-31
+finishednotes:
 translation: King James Version
 dimensions: 8.5x12x2.25
 ---
