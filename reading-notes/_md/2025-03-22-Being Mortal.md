@@ -14,7 +14,7 @@ wishlist: 2025-01-06
 acquired: 2024-12-25
 started: 2025-03-01
 finished: 2025-03-18
-finishednotes:
+finishednotes: 2025-03-22
 ---
 # *[Being Mortal: Medicine and What Matters in the End](https://us.macmillan.com/books/9781250076229/beingmortal/)* by [[Atul Gawande]]
 

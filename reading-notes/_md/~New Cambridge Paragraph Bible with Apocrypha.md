@@ -15,7 +15,7 @@ wishlist: 2025-04-09
 acquired: 2025-05-06
 started: 2025-05-20
 finished: 2025-12-31
-finishednotes:
+finishednotes: none
 translation: King James Version
 dimensions: 6.25x8.5x1.875
 ---
@@ -29,7 +29,7 @@ dimensions: 6.25x8.5x1.875
 >The Authorized Version is, in Norton’s version as in any other, a true treasure of the Christian faith and the English language — but Norton’s work has blown the dust off this masterpiece of prose and made it more of a pleasure to read than ever. I only wish it were more widely known.
 >–[Review: The New Cambridge Paragraph Bible — In the Fourth Nocturn](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5](https://inthefourthnocturn.de/2019/06/ncpb/#fnref5) 
 
-Reading for [[2025-12-31-Bible in a Year|2025 BIY]]
+Read for [[2025-12-31-Bible in a Year|2025 BIY]]
 
 ### The translators to the reader
 
@@ -39,7 +39,7 @@ Reading for [[2025-12-31-Bible in a Year|2025 BIY]]
 **Topic**: [[The Bible]]
 
 **Source**
-- 
+- *[[2025-07-06-The King James Bible-A Short History from Tyndale to Today|The King James Bible]]*
  ---
 Created: [[2025-04-09-Wed]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

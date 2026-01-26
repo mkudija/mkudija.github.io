@@ -12,7 +12,7 @@ isbn13: 9781586174910
 started: 
 finished: 
 ---
-# *[Fatima for Today]()* by [[Andrew Apostoli]]
+# *[Fatima for Today]()* by [[Fr. Andrew Apostoli, C.F.R.]]
 
 <img src="http://books.google.com/books/content?id=MeHHwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
@@ -26,17 +26,6 @@ finished:
 - *[[2023-01-21-A Church In Crisis|A Church in Crisis]]*
 
 
-**Bibliography**
-
-```query
-[[bib]] file:(~Fatima for Today)
-```
- 
-
-**New Words**
-
-- 
-
 ---
 Created: [[2023-01-20-Fri]]
-Updated: NaN
+Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

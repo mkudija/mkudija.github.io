@@ -15,7 +15,7 @@ wishlist: 2025-03-10
 acquired: 2025-03-17
 started: 2025-05-20
 finished: 2025-12-31
-finishednotes:
+finishednotes: none
 translation: King James Version
 dimensions: 8.5x12x2.25
 ---
@@ -27,7 +27,7 @@ dimensions: 8.5x12x2.25
 
 [The Holy Bible – R. MICHELSON GALLERIES](https://www.rmichelson.com/artists/barry-moser/the-holy-bible/)
 
-
+Read for [[2025-12-31-Bible in a Year|2025 BIY]]
 
 --- 
 **Topic**: [[The Bible]]

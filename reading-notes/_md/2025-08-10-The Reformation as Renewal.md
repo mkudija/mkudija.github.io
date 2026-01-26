@@ -12,7 +12,7 @@ isbn13: 9780310097563
 source: 
 wishlist: 2025-05-30
 acquired: 2025-06-15
-started: 2025-07-29
+started: 
 finished: 
 finishednotes: 2025-08-10
 mermaid: true
@@ -248,6 +248,9 @@ _**Summary**: _
 	- "Luther was the first modern man"
 	- "The Reformation was a German event"
 - "The context of the Reformation, largely understood, is the entire history of the people of God through the ages. Originality and innovation were not the agenda of the Reformers. They had no desire to leave the true catholic church, much less to start a new one. What the Reformers aimed for was the renewal of the one, holy, catholic, and apostolic church on the basis of the Word of God. What the Reformers thought they were doing was calling this church back to its true scriptural and evangelical origins—*ad fontes*!" (886)
+
+--- 
+[[started reading]]: [[2025-07-29-Tue]]
 
 ---
 *Here's my first draft response to this book:*

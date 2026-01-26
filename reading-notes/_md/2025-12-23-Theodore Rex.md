@@ -20,9 +20,11 @@ finishednotes: 2025-12-23
 
 <img src="http://books.google.com/books/content?id=E1qNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: Random House Trade Paperbacks, 2002-10-01), 794`
+`(New York: Random House, 2002), 794`
 
 Theodore Roosevelt was a great President, and this is an exciting biography. Reading about him makes you want to jump into action and *do something*. For me this time around, it was building the [Liturgy Bible](https://liturgybible.org/).
+
+Or perhaps just this: *"Many of us enjoy finding out about the peculiarities and peccadillos of exceptional people in order to soothe ourselves with the comforting falsehood that we, in our mediocrity, are better off than those restless, strange, apparently unhappy oddities."* ([from Blake Smith](https://colossus.com/article/education-broligarchy-silicon-valley-canon/))
 
 ## Notes
 - Themes of the First Administration: 

@@ -14,7 +14,7 @@ wishlist: 2025-09-10
 acquired:
 started: 2025-09-10
 finished: 2025-09-10
-finishednotes:
+finishednotes: 2025-09-10
 ---
 # *[Anglicanorum Coetibus]()* by [[Pope Benedict XVI]]
 

@@ -56,7 +56,7 @@ I probably paid a total of $20–50 for the wood used when I bought a number of 
 - Scrub plane (first use)
 - Handheld drill
 - Mill / drill press
-- New chairmanning tools:
+- New chairmaking tools:
 	- Grizzly Industrial H7693 - Deep Plug Cutter 6 Pc. Set, [Link](https://www.amazon.com/gp/product/B000E305CQ)
 	- BOSCH Daredevil DSBE1012 12-Inch Drill Bit Extension, [Link](https://www.amazon.com/gp/product/B002BYOWKM)
 	- Deburring External Chamfer Tool, [Link](https://www.amazon.com/gp/product/B07S1G5WH4) (I don't recommend this as it is too small to do much good, just use a belt sander and drawknife)

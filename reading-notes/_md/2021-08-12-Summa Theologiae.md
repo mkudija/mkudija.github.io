@@ -99,6 +99,9 @@ languages:
 		- [[Lk-21#v18]]: "A hair of your head shall not perish."
 		- "since man will rise again with all the perfections of his nature, it follows that hair and nails will rise again in him"
 	- [[~Catechism of the Catholic Church|CCC]] [990](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_11.html): The "resurrection of the flesh" (the literal formulation of the Apostles' Creed) means not only that the immortal soul will live on after death, but that even our "mortal body" will come to life again.
+- [[2026-01-17-Sat]]: [[St. Patrick Church]] First Communion Retreat, [[Fr. Michael Donahue, O.P.]]
+	- Christ's obedient suffering overcomes all sin: "By suffering out of love and obedience, Christ gave more to God than was required to compensate for the offense of the whole human race." (ST IIIa, Q. 48, A. 3)
+	- The deepest end of the [[Eucharist]] is an increase in charity: "Since Christ and His Passion are the cause of grace, and since spiritual refreshment, and charity cannot be without grace, it is clear. from all that has been set forth that this sacrament bestows grace." (ST IIIa, Q. 79, A. 1)
 
 ## Resources
 ### Books

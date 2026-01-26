@@ -14,7 +14,7 @@ wishlist: 2025-06-15
 acquired: 
 started: 2025-06-14
 finished: 2025-06-15
-finishednotes:
+finishednotes: none
 ---
 # *[Sir Gawain and the Green Knight]()* by [[Michael Morpurgo]]
 

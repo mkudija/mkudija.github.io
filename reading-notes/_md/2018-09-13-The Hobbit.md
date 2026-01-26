@@ -14,7 +14,7 @@ wishlist:
 acquired:
 started: 2025-08-28
 finished: 2025-09-03
-finishednotes:
+finishednotes: 2018-09-13
 ---
 # *The Hobbit* by [[J.R.R. Tolkien]]
 

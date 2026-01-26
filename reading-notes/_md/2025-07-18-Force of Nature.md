@@ -44,7 +44,7 @@ finishednotes: 2025-07-18
 **Topic**: [[Novel]]
 
 **Source**
-- [[Mom]]: [[Kudija Family Book Club]]
+- [[Mom]]: [[Kudija Family Book Club]] 2025
  
 ---
 Created: [[2025-01-06-Mon]]

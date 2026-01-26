@@ -12,7 +12,7 @@ isbn13: 9781405308281
 source: 
 wishlist: 2025-06-14
 acquired: 
-started: 2025-06-14
+started: 
 finished: 
 finishednotes:
 ---

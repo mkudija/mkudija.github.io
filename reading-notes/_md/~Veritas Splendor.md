@@ -12,7 +12,7 @@ isbn13: 9780851838991
 source:
 wishlist:
 acquired:
-started: 2025-09-03
+started: 
 finished:
 finishednotes:
 ---

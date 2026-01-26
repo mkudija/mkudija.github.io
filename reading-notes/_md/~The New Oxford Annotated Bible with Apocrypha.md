@@ -41,7 +41,6 @@ dimensions: 7x9.375x2
 
 ## Essays
 - "The oldest fragment of a text containing verses now in the Bible is a silver amulet dating to the sixth century BC from a burial cave at Ketef Hinnom outside Jerusalem, which contains a version of the priestly blessing from [[Nm-06#v24]]." (2247)
-- 
 
 ### [[Parallel Texts of the Bible|Parallel Texts]] 
 *pg 2320*
@@ -52,18 +51,7 @@ dimensions: 7x9.375x2
 
 **Source**
 - [[Madj]]
-
-
-**Bibliography**
-
-```query
-[[bib]] file:(~The New Oxford Annotated Bible with Apocrypha)
-```
- 
-
-**New Words**
-
-- 
+- sold on ebay [[2025-12-29-Mon]]
 
 ---
 Created: [[2022-10-28-Fri]]

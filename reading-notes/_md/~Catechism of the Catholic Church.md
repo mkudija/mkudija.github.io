@@ -11,7 +11,7 @@ cover_url: http://books.google.com/books/content?id=GOygNkdfF7oC&printsec=frontc
 publish_date: 2003-03-04
 isbn10: 385508190
 isbn13: 9780385508193
-started: 2025-01-03
+started: 
 finished:
 ---
 # [*Catechism of the Catholic Church*](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
@@ -134,7 +134,7 @@ finished:
 - [Read Online (USCCB)](https://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/catechism-of-the-catholic-church)
 - Read in 2015 
 - Read/listened in 2023: [[2023 CIY]]
-- Reading in 2025...
+- Read Part I 2025
   
 
 # [PROLOGUE](https://www.vatican.va/archive/ENG0015/__P1.HTM)

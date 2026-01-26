@@ -14,7 +14,7 @@ wishlist:
 acquired: 
 started: 2025-01-12
 finished: 2025-05-26
-finishednotes:
+finishednotes: 2025-05-26
 ---
 # *The Gospel of John*
 

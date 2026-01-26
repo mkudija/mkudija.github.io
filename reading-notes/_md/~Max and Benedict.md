@@ -14,7 +14,7 @@ wishlist: 2025-07-04
 acquired: 2025-06-28
 started: 2025-06-28
 finished: 2025-07-04
-finishednotes:
+finishednotes: none
 ---
 # *[Max and Benedict]()* by [[Jeanne Perego]]
 

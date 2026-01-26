@@ -42,6 +42,19 @@ I have long been captivated by *The Calling of Saint Matthew* and Caravaggio's c
 - "Caravaggio never disappoints, never settles for what is familiar or expected." (127)
 
 
+### [Caravaggio and Us - First Things](https://firstthings.com/caravaggio-and-us/)
+*[[2026-01-05-Mon]]*
+- Focus on those that we can see in person in Rome.
+- Caravaggio against [[Mannerism]]: "decorative, deferential to tradition, and technically competent, but they go in one eye and out the other. Lifeless and inert, they are constructed according to a series of patterns, symbols, and conventions...By emphasizing design and composition, the mannerists often neglected the element of illusion in the images they ­created."
+- Giovan Pietro Bellori: "He devoted himself to painting according to his own nature, with no regard whatever for the great marbles of the ancients and the celebrated paintings of Raphael. In fact, he despised all of this, and took nature alone as the subject for his pictures."
+- Caravaggio's flaws:
+	- weak grasp of human anatomy
+	- failed (or refused) to learn the science of perspective and struggled to paint images that had significant depth
+	- sometimes the shadows in his pictures seem suspiciously like an excuse to avoid painting a background.
+	- compositions were often sloppy 
+- "He cannot see beauty directly, or show it to us except by the by. But he can teach us how to look for it."
+
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Michelangelo_Caravaggio_025.jpg" width="100%">
 <center><em>Rest on the Flight into Egypt</em> (1597)</center>
@@ -50,6 +63,8 @@ I have long been captivated by *The Calling of Saint Matthew* and Caravaggio's c
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg/1920px-The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg" width="100%">
 <center><em>The Calling of Saint Matthew</em> (1599–1600)</center>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Caravaggio_%E2%80%94_The_Martyrdom_of_Saint_Matthew.jpg/2560px-Caravaggio_%E2%80%94_The_Martyrdom_of_Saint_Matthew.jpg" width="100%">
+<center><em>The Martyrdom of Saint Matthew</em> (1599–1600)</center>
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Martyrdom_of_Saint_Matthew-Caravaggio_%28c._1599-1600%29.jpg/1920px-The_Martyrdom_of_Saint_Matthew-Caravaggio_%28c._1599-1600%29.jpg" width="100%">
  <center><em>The Martyrdom of Saint Matthew-Caravaggio</em> (1599–1600)</center>
@@ -103,7 +118,7 @@ I have long been captivated by *The Calling of Saint Matthew* and Caravaggio's c
 
 **[[New Words]]**
 
-- **sybaritic**: - Devoted to or marked by pleasure and luxury (124)
+- **sybaritic**: Devoted to or marked by pleasure and luxury (124)
 
 ---
 Created: [[2023-12-02-Sat]]
