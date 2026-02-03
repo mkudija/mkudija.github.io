@@ -22,17 +22,15 @@ finishednotes:
 `(New York: Harriman House Limited, 2020), 256`
 
 
+
 --- 
 **Topic**: [[Economics]]
 
 **Source**
 - [[Sam Ginikos]] [[2022-07-15-Fri]]
 - [[Dad]] [[2023-11-24-Fri]]
+- [Morgan Housel: Wealth is What You Have Minus What You Want](https://fs.blog/knowledge-project-podcast/morgan-housel-3/)
 
-
-**Bibliography**
-
-- 
 
 **New Words**
 

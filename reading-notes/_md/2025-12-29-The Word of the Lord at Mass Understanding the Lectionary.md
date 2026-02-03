@@ -66,7 +66,7 @@ _**Summary**: _
 
 
 ## Chapter 3: Lectionaries Ancient and New
-- How historical lectionaries were indicated (25ff)
+- How historical lectionaries were indicated (25ff) ^083d86
 	- Place markings in the margins of Bible showing where to begin and end a reading 
 	- List with the date, liturgical day, book of the Bible, beginning words (*incipit*), the ending (*explicit*)
 	- Lectionary book 

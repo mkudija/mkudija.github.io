@@ -13,8 +13,8 @@ source:
 wishlist: 2026-01-01
 acquired: 2026-01-01
 started: 2026-01-09
-finished:
-finishednotes:
+finished: 2026-01-27
+finishednotes: 2026-01-28
 ---
 # *[King Arthur and His Knights of the Round Table]()* by [[Roger Lancelyn Green]]
 
@@ -40,14 +40,17 @@ finishednotes:
 1. **How the Holy Grail Came to Camelot**: Galahad comes to Camelot, is knighted, and pulls his sword from a stone floating in the river. He sits upon the Seige Perilous and the Round Table is filled for the first and last time. The Holy Grail comes in glory and departs, after which the knights set out on quest of it.
 2. **The First Adventures of Sir Galahad**: Sir Gallahad receives his shield, and embarks upon the Enchanted Ship.
 3. **The Adventures of Sir Percivale**: Sir Percivale overcomes various temptations and is led by his sister to the Enchanted Ship.
-4. **The Adventures of Sir Bors de Gannis**: ==add here==
+4. **The Adventures of Sir Bors de Gannis**: He rescues a damsel, makes peace with his brother, and is led to the Enchanted ship.
 5. **The Adventures of Sir Launcelot**: Launcelot makes it to the Enchanted Ship, and the knights fight for Dindrane but she dies to save the enchanted lady.
 6. **How Launcelot and Gawain Came to Carbonek**: Gawain and Launcelot come to Carbonek, see the Holy Grail, and lift the curse of the Dolorous Stroke.
  7. **The End of the Quest**: Galahad completed the quest of the Holy Grail, Percivale married and is made king of Carbonek
 ## BOOK FOUR: THE DEPARTING OF ARTHUR
-1. **Launcelot and Guinevere**: 
-2. **The Plots of Sir Mordred**: 
-3. **The Last Battle**: 
+1. **Launcelot and Guinevere**: Launcelot defeats Melliagraunce but his secret meeting with Guinevere is overheard.
+2. **The Plots of Sir Mordred**: Mordred brings ruin and war upon the kingdom, but we end on a note of forgiveness as Gawain lays dying.
+3. **The Last Battle**: Arthur fights Mordred and is wounded, taken away on the lake.
+4. **Epilogue**: Perhaps King Arthur is sleeping in a cave waiting to awaken and save Britain?
+
+
 
 - "Sad things have indeed befallen you, but we must endure even the hardest adventures that God sends us." (33)
 - "And God knows well how to save his servants if so He wills." (112)
@@ -59,6 +62,7 @@ finishednotes:
 - Sir Percivale's mother on chivalry: "go on your way now, and remember that if dame or damsel asks your aid, give it freely and before all else, seeking no reward. Yet you may kiss the maiden who is willing, but take no more than a kiss, unless it be a ring - but be that only when you place your own ring upon her finger. Beware in whose company you travel on your quest, and see to it that only worthy men come near to your heart: but above all, pray to God each day that He may be with you in all your deeds - and pass not by church nor chapel without pausing a while in His honor." (232)
 - "'I knew well that I was never the best,' said Sir Launcelot." (277)
 - "But go you forward, noble Sir Gallahad, and trust ever in God and not in your own earthly prowess." (286)
+- Bors: "For in purity of life and not in pride of deeds dwells that which makes a man worthy to achieve this quest. Go forward in the fear of God, and live to tell of the ending of the quest of the Holy Grail." (299)
 
 
 

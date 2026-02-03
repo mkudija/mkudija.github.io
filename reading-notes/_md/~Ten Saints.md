@@ -12,7 +12,7 @@ isbn13: 9781933346007
 source:
 wishlist: 2025-12-17
 acquired: 2025-12-15
-started:
+started: 2026-01-29
 finished:
 finishednotes:
 ---
@@ -23,6 +23,7 @@ finishednotes:
 `(Providence: Cluny, 1936/2025), 176`
 
 
+- "Nobody ever saw [[St. Martin of Tours]] angry or disturbed, lamenting or laughing. No one ever saw anything but a heavenly joy on his face. He seemed beyond the nature of men; nothing showed on his countenance but Christ. Nothing in his heart but piety, peace, and pity." (23-24)
 
 --- 
 **Topic**: 

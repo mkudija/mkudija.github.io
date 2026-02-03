@@ -51,6 +51,7 @@ Reading to the kids:
 - [[2025-08-12-Tue]]-[[Dt-30#v14]]: God's word is close: "But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it."
 - [[2025-08-12-Tue]]-[[Dt-32#v15]]: Insult: "thou art waxed fat, thou art grown fat"
 - [[2025-08-27-Wed]]-[[Jos-22#v5]]: "But take diligent heed to do the commandment and the law, which Moses the servant of the Lord charged you, to love the Lord your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul."
+- [[2025-09-11-Thu]]-[[Mt-05#v28]]: "looketh on a women to lust after her"
 - [[2025-09-13-Sat]]-[[Mt-06#v13]]: The Our Father in the KJV text ends with the doxology! The irony!
 - [[2025-10-23-Thu]]-[[2 Kgs-04]]: The woman who sells some oil to keep her sons out of debt servitude show how poor the people are and how close they are to utter destitution. 
 - [[2025-10-29-Wed]]-[[1 Chr-29#v11]]: doxology
@@ -63,6 +64,9 @@ Reading to the kids:
 - [[2025-12-06-Sat]]-[[Tb-04#v7]]-11 on [[Almsgiving]]: "Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee. If thou hast abundance give alms accordingly: if thou have but a little, be not afraid to give according to that little: For thou layest up a good treasure for thyself against the day of necessity. Because that alms do deliver from death, and suffereth not to come into darkness. For alms is a good gift unto all that give it in the sight of the most High."
 - [[2025-12-06-Sat]]-[[Tb-04#v12]]: "Honour thy father and thy mother in law, which are now thy parents"
 - [[2025-12-07-Sun]]-[[Wis-05#v18]]-20: Paul's armor imagery comes from here: "He shall put on righteousness as a breastplate, and true judgment instead of an helmet. He shall take holiness for an invincible shield. His severe wrath shall he sharpen for a sword, and the world shall fight with him against the unwise."
+- [[2025-12-12-Fri]]-[[Gal-05#v14]]: "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."
+- [[2025-12-13-Sat]]-[[Wis-14#v9]]: ==How does this square with 'love the sinner, hate the sin'?== "For the ungodly and his ungodliness are both alike hateful unto God."
+- [[2025-12-13-Sat]]-[[Wis-17#v12]]: "For fear is nothing else but a betraying of the succours which reason offereth."
 - [[2025-12-15-Mon]]-[[2 Tm-03#v7]]: Avoid being like this! "Ever learning, and never able to come to the knowledge of the truth."
 - [[2025-12-17-Wed]]-[[Sir-01#v22]]: Anger: "A furious man cannot be justified; for the sway of his fury shall be his destruction."
 - [[2025-12-17-Wed]]-[[Sir-03#v23]]: Avoid unnecessary curiosity: "Be not curious in unnecessary matters: for more things are shewed unto thee than men understand."
@@ -71,7 +75,18 @@ Reading to the kids:
 - [[2025-12-24-Wed]]-[[Sir-12#v6]]: Against [[Universalism]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."
 - [[2025-12-24-Wed]]-[[Sir-13#v1]]-12: how to deal with rich people
 - [[2025-12-26-Fri]]-[[Sir-20#v30]]: How are we best to share our wisdom? (cf. *[[2025-06-25-Rerum Novarum#^41075b]]*)"Wisdom that is hid, and treasure that is hoarded up, what profit is in them both?"
+- [[2025-12-27-Sat]]-[[Sir-23#v1]]: "O Lord, Father and Governor of all my whole life"
+- [[2025-12-27-Sat]]-[[Sir-23#v28]]: "It is great glory to follow the Lord"
+- [[2025-12-27-Sat]]-[[Sir-25#v16]]: "I had rather dwell with a lion and a dragon, than to keep house with a wicked woman."
+- [[2025-12-27-Sat]]-[[Sir-26#v14]]: "A silent and loving woman is a gift of the Lord"
+- [[2025-12-27-Sat]]-[[Sir-28#v8]]: "Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife"
+- [[2025-12-28-Sun]]-[[Sir-28#v10]]: Riches increase anger: "As the matter of the fire is, so it burneth: and as a man’s strength is, so is his wrath; and according to his riches his anger riseth; and the stronger they are which contend, the more they will be inflamed."
+- [[2025-12-28-Sun]]-[[Sir-28#v12]]: Your reaction matters when responding to your kids: "If thou blow the spark, it shall burn: if thou spit upon it, it shall be quenched: and both these come out of thy mouth."
+- [[2025-12-28-Sun]]-[[Sir-29#v21]]: Essentials: "The chief thing for life is water, and bread, and clothing, and an house to cover shame."
+- [[2025-12-28-Sun]]-[[Sir-30#v24]]: "Envy and wrath shorten the life"
+- [[2025-12-28-Sun]]-[[Sir-32#v1]]-1: <om needs to sit down and enjoy while hosting! "If thou be made the master of a feast, lift not thyself up, but be among them as one of the rest; take diligent care for them, and so sit down. And when thou hast done all thy office, take thy place, that thou mayest be merry with them, and receive a crown for thy well ordering of the feast."
 - [[2025-12-30-Tue]]-[[Sir-35#v10]]-11: "Give unto the most High according as he hath enriched thee; and as thou hast gotten, give with a cheerful eye. For the Lord recompenseth, and will give thee seven times as much." (cf. *[[2025-12-30-Hannah's Children|Hannah's Children]]*, 277)
+- [[2025-12-31-Wed]]-[[Sir-51#v30]]: "Work your work betimes, and in his time he will give you your reward."
 - "filthy lucre" is a great phrase
 
 
@@ -86,11 +101,16 @@ Reading to the kids:
 		- [[Rom-10#v9]]: "That if thou shalt **confess** with thy mouth the Lord Jesus, and shalt **believe** in thine heart that God hath raised him from the dead, thou shalt be saved."
 		- [[1 Cor-15#v1]]-1: "Moreover, brethren, I declare unto you the **gospel** which I preached unto you, which also ye have received, and wherein ye stand; By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain."
 		- [[Gal-02#v16]]: "Knowing that a man is not justified by the works of the law, but by the **faith** of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."*
+		- [[Eph-02#v8]]-9: "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
 		- ==[[1 Thes-04#v14]]: "fallen asleep believing in him"==
 	- Saved by Works
-		- [[Rom-02#v13]]: "For not the hearers of the law are just before God, but the **doers of the law** shall be justified."
-		- [[1 Tm-04#v16]]: "Take heed unto thyself, and unto the **doctrine; continue in them**: for in doing this thou shalt both save thyself, and them that hear thee."
 		- [[Sir-12#v6]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."
+		- [[Rom-02#v13]]: "For not the hearers of the law are just before God, but the **doers of the law** shall be justified."
+		- [[Col-01#v10]]: "That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work"
+		- [[Col-03#v25]]: "he that doeth wrong shall receive for the wrong which he hath done"
+		- [[Phil-02#v12]]: "Work out your own salvation with fear and trembling"
+		- [[1 Tm-04#v16]]: "Take heed unto thyself, and unto the **doctrine; continue in them**: for in doing this thou shalt both save thyself, and them that hear thee."
+		- [[Rv-20#v12]]: "the dead were judged out of those things which were written in the books, according to their works"
 
 `*` in the context of the Mosaic Law
 

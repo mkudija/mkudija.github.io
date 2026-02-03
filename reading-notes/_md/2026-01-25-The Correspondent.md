@@ -43,7 +43,13 @@ Write letters to people, even if they are more "important" than you (55):
 >I began writing letters and became obsessed. Most often, when I wrote, I got a letter back. This surprises people, but I have found that most people write back.
 
 
+Reading (99):
+
+>I could never trust a person who wasn’t a reader.
+
+
 What we have to show (126):
+
 >My life has felt enormous but what do I have to show for it?
 
 --- 

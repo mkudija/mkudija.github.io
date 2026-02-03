@@ -35,7 +35,6 @@ finishednotes:
 - *[[~2021-04-04-A Pattern Language|A Pattern Language]]*: "Ultimately, it falls short by failing to understand that the order Alexander extols relates to the objective order of beauty in the cosmos and in God's mind. This failing means that at times there is an odd spirituality that creeps into his thinking." 
 - *[[~Get Your House Right|Get Your House Right]]*
 - *[[~Geography Of Nowhere|Geography Of Nowhere]]*
-
 - *[[~The Death of Christian Culture|The Death of Christian Culture]]*
 -  (reading list reprinted in [Will Rascals Defend Our Civilization… and What Books will they Read? - Crisis Magazine](https://crisismagazine.com/opinion/naughty-boys-and-the-defense-of-civilization-must-we-choose-between-great-or-good-books))
 
@@ -46,12 +45,6 @@ finishednotes:
 
 **Source**
 - Christmas gift for Jordan 2023
-
-**Bibliography**
-- 
- 
-**[[New Words]]**
-- 
 
 ---
 Created: [[2024-02-22-Thu]]
