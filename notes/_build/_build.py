@@ -133,8 +133,37 @@ def convert_md_to_html(src, pathSource, template, pathOutput):
         mdStringSplit = mdString.split('---')
         mdString = '---'.join(mdStringSplit[2:])
 
+    # Protect LaTeX expressions from markdown processing
+    latex_expressions = {}
+    latex_counter = 0
+
+    # Extract display math ($$...$$) first to avoid conflicts with inline math
+    display_pattern = r'\$\$(.+?)\$\$'
+    for match in re.finditer(display_pattern, mdString, re.DOTALL):
+        placeholder = f'LATEXPROTECTDISPLAY{latex_counter}ENDLATEX'
+        latex_expressions[placeholder] = match.group(0)
+        mdString = mdString.replace(match.group(0), placeholder, 1)
+        latex_counter += 1
+
+    # Extract inline math ($...$) - protect if it contains LaTeX indicators:
+    # - backslash (e.g., \text, \begin)
+    # - underscore or caret with braces (e.g., _{...}, ^{...})
+    # Use negative lookbehind to avoid matching escaped dollar signs (\$)
+    # This avoids matching regular dollar signs like "$50" or escaped "\$"
+    inline_pattern = r'(?<!\\)\$([^$\n]*(?:\\|_\{|\^\{)[^$\n]*?)(?<!\\)\$'
+    for match in re.finditer(inline_pattern, mdString):
+        placeholder = f'LATEXPROTECTINLINE{latex_counter}ENDLATEX'
+        latex_expressions[placeholder] = match.group(0)
+        mdString = mdString.replace(match.group(0), placeholder, 1)
+        latex_counter += 1
 
     body = markdown2.markdown(mdString, extras=['footnotes','cuddled-lists','tables','header-ids','break-on-newline', 'header-ids', 'strike', 'fenced-code-blocks', 'mermaid']) # 'target-blank-links', # extras here: https://github.com/trentm/python-markdown2/wiki/Extras
+
+    # Restore LaTeX expressions (both original case and lowercase for id attributes)
+    for placeholder, latex_expr in latex_expressions.items():
+        body = body.replace(placeholder, latex_expr)
+        body = body.replace(placeholder.lower(), latex_expr)
+
     body = [body]
 
     template[template.index('#BODY#')] = body

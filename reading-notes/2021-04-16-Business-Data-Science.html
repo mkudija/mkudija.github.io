@@ -247,8 +247,8 @@ gtag('config', 'G-NSV8628BMT');
 <li><code>beta &lt;- coef(reg)</code></li>
 <li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li>
 <li><code>beta[2]</code> = $\beta$ (slope)</li>
-<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li>
-<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li>
+<li><code>beta[3]</code> = $\alpha_{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li>
+<li><code>beta[4]</code> = $\alpha_{t}$ (incremental intercept for <code>brand=tropicana</code>)</li>
 </ul></li>
 <li>This is how to understand the coefficients of the <code>glm</code> object with interactions:
 <ul>
@@ -256,21 +256,21 @@ gtag('config', 'G-NSV8628BMT');
 <li><code>beta &lt;- coef(reg_interact)</code></li>
 <li><code>beta[1]</code> = $\alpha$ (intercept for base: <code>brand=dominicks</code>)</li>
 <li><code>beta[2]</code> = $\beta$ (slope for base: <code>brand=dominicks</code>)</li>
-<li><code>beta[3]</code> = $\alpha<em>{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li>
-<li><code>beta[4]</code> = $\alpha</em>{t}$ (incremental intercept for <code>brand=tropicana</code>)</li>
-<li><code>beta[5]</code> = $\beta<em>{mm}$ (incremental slope for <code>brand=tropicana</code>)</li>
-<li><code>beta[6]</code> = $\beta</em>{t}$ (incremental slope for <code>brand=tropicana</code>)</li>
+<li><code>beta[3]</code> = $\alpha_{mm}$ (incremental intercept for <code>brand=minute.maid</code>)</li>
+<li><code>beta[4]</code> = $\alpha_{t}$ (incremental intercept for <code>brand=tropicana</code>)</li>
+<li><code>beta[5]</code> = $\beta_{mm}$ (incremental slope for <code>brand=tropicana</code>)</li>
+<li><code>beta[6]</code> = $\beta_{t}$ (incremental slope for <code>brand=tropicana</code>)</li>
 </ul></li>
 <li><strong>Logistic Regression</strong> <em>(page 50-53)</em> uses the <em>logit</em> link function to scale probabilities between 0 and 1:
 <ul>
 <li>$p(y=1|x) = \frac{e^{x' \hat{\beta}}}{1 + e^{x' \hat{\beta}}}$</li>
 <li>Logistic regression is a linear model for log odds (where odds = probability it happens over probability it doesn't):</li>
-<li>$\log \left[ \frac{p}{1-p} \right] = \beta<em>{0} + \beta</em>{1}x<em>{1}... + \beta</em>{p}x<em>{p}$
+<li>$\log \left[ \frac{p}{1-p} \right] = \beta_{0} + \beta_{1}x_{1}... + \beta_{p}x_{p}$
 <ul>
 <li>Use <code>family='binomial'</code> for logistic regression</li>
 <li>"<code>y ~ .</code>" to regress y on to all variables in the data</li>
 </ul></li>
-<li>Interpreting coefficients: $e^{\beta k}$ is the <em>multiplicative effect for a unit increase in $x</em>{k}$ on the odds for the event</em> $y=1$.</li>
+<li>Interpreting coefficients: $e^{\beta k}$ is the <em>multiplicative effect for a unit increase in $x_{k}$ on the odds for the event</em> $y=1$.</li>
 <li>When predicting, call <code>type='response'</code> to run predictions through the logit link as $e^{x' \hat{\beta}} / (1 + e^{x' \hat{\beta}})$.</li>
 </ul></li>
 <li><strong>Deviance and Likelihood</strong> <em>(page 53-57)</em>
@@ -283,13 +283,13 @@ gtag('config', 'G-NSV8628BMT');
 </ul></li>
 <li><em>Maximum likelihood estimation</em> (MLE): to minimize deviance in the equation below we need to minimize the sum of squared errors, so MLE = OLS (ordinary least squares):
 <ul>
-<li>$dev(\beta) \propto \sum<em>{i=1}^{n}(y</em>{i}-x^{'}_{i}\beta)^{2}$</li>
+<li>$dev(\beta) \propto \sum_{i=1}^{n}(y_{i}-x^{'}_{i}\beta)^{2}$</li>
 </ul></li>
 <li><em>Residual deviance</em>: $D=dev(\hat{\beta})$ is deviance to fitted model.</li>
-<li><em>Null deviance</em>: $D<em>{0}=dev(\beta=0)$ is deviance for null (basic) model where all $\hat{y}</em>{i}=\bar{y}$</li>
-<li>The difference between $D$ and $D<em>{0}$ is due to information contained in the covariates. $R^{2}$ is the <em>proportion of deviance explained by $x$</em>:
+<li><em>Null deviance</em>: $D_{0}=dev(\beta=0)$ is deviance for null (basic) model where all $\hat{y}_{i}=\bar{y}$</li>
+<li>The difference between $D$ and $D_{0}$ is due to information contained in the covariates. $R^{2}$ is the <em>proportion of deviance explained by $x$</em>:
 <ul>
-<li>$R^{2} = \frac{D<em>{0}-D}{D</em>{0}} = 1 - \frac{D}{D</em>{0}}$</li>
+<li>$R^{2} = \frac{D_{0}-D}{D_{0}} = 1 - \frac{D}{D_{0}}$</li>
 <li>This general form allows you to compute $R^{2}$ for almost any machine learning model (rather than the form specific to the linear regression: $R^{2} = \frac{SSE}{SST}$).</li>
 </ul></li>
 </ul></li>
@@ -315,11 +315,11 @@ gtag('config', 'G-NSV8628BMT');
 <li><strong>Autocorrelation</strong> occurs frequently with time series data that has local dependence. The autocorrelation function (ACF) tracks lag correlations.
 <ul>
 <li>Model this type of data with a <em>Random Walk</em> (a form of <em>autoregressive</em> (AR) model), first order form of $AR(1)$:</li>
-<li>$AR(1): y<em>{t} = \beta</em>{0}+\beta{1}y<em>{t-1}+\epsilon</em>{t}$
+<li>$AR(1): y_{t} = \beta_{0}+\beta{1}y_{t-1}+\epsilon_{t}$
 <ul>
-<li>if $|\beta<em>{1}| = 1$, random walk (model with <em>returns</em> rather than <em>values</em> like the stock market)</li>
-<li>if $|\beta</em>{1}| &gt; 1$, series explodes (you might be missing a trend variable, otherwise challenging)</li>
-<li>if $|\beta_{1}| &lt; 1$, series reverts to mean (common and useful)</li>
+<li>if $|\beta_{1}| = 1$, random walk (model with <em>returns</em> rather than <em>values</em> like the stock market)</li>
+<li>if $|\beta_{1}| > 1$, series explodes (you might be missing a trend variable, otherwise challenging)</li>
+<li>if $|\beta_{1}| < 1$, series reverts to mean (common and useful)</li>
 <li>You can use $AR(p)$ for higher lags and model selection methods to choose the appropriate lag.</li>
 <li><em>Spatial autoregressive</em> (SAR) models to include spatial neighbors (similar to temporal neighbors)</li>
 </ul></li>
@@ -355,14 +355,14 @@ gtag('config', 'G-NSV8628BMT');
 <li><strong>Forward stepwise regression</strong>: build from simplicity to complexity, <em>greedy</em> search strategy, fast and stable, stable</li>
 <li>Regularization minimizes <em>penalized</em> deviance:
 <ul>
-<li>$\hat{\beta} = \mbox{argmin} \left{-\frac{2}{n} \log \mbox{lhd} (\beta) + \lambda \sum<em>{k}{c(\beta</em>{k})} \right}$ where $\lambda \sum<em>{k}{c(\beta</em>{k})}$ is the penalty term and $c(\beta_{k})$ is the cost on the size of the coefficient</li>
+<li>$\hat{\beta} = \mbox{argmin} \left\{-\frac{2}{n} \log \mbox{lhd} (\beta) + \lambda \sum_{k}{c(\beta_{k})} \right\}$ where $\lambda \sum_{k}{c(\beta_{k})}$ is the penalty term and $c(\beta_{k})$ is the cost on the size of the coefficient</li>
 <li>This accounts for both the <em>estimation cost</em> (deviance, distance between data and model) and the <em>testing cost</em> (cost of $\beta \neq 0$) </li>
 </ul></li>
-<li>The <strong>lasso</strong> has $c(\beta<em>{k})=|\beta|$
+<li>The <strong>lasso</strong> has $c(\beta_{k})=|\beta|$
 <ul>
 <li>Default because least bias on large signals while retaining the stability of a convex penalty, also automatic variable screening since some $\beta$ will be exactly zero</li>
 <li>Provides an enumeration of candidate models (different values of $\lambda$), then use model selection to choose the best $\lambda$</li>
-<li>Lasso regularization path: start with $\lambda$ such that $\hat\beta</em>{1}=0$, then shrink $\lambda$ to reduce the penalty on $\beta$ and iteratively add complexity to the model</li>
+<li>Lasso regularization path: start with $\lambda$ such that $\hat\beta_{1}=0$, then shrink $\lambda$ to reduce the penalty on $\beta$ and iteratively add complexity to the model</li>
 <li>$\lambda$ operates on all $\beta$, so typically scale by $\mbox{sd}(x)$ so that the penalty on $\beta$ is measured on the scale of 1 standard deviation change in $x$</li>
 </ul></li>
 </ul>
@@ -412,8 +412,8 @@ gtag('config', 'G-NSV8628BMT');
 </ul></li>
 <li>Decisions have costs: probabilities allow us to compute <em>expected loss</em>
 <ul>
-<li>$FPR = \text{False Positive Rate} = \frac{\text{expected # false positives}}{\text{# classified positive}}$</li>
-<li>$FNR = \text{False Negative Rate} = \frac{\text{expected # false negatives}}{\text{# classified negative}}$</li>
+<li>$FPR = \text{False Positive Rate} = \frac{\text{expected \# false positives}}{\text{\# classified positive}}$</li>
+<li>$FNR = \text{False Negative Rate} = \frac{\text{expected \# false negatives}}{\text{\# classified negative}}$</li>
 <li><strong>Sensitivity</strong>: proportion of true $y=1$ classified as such</li>
 <li><strong>Specificity</strong>: proportion of true $y=0$ classified as such</li>
 <li><strong>ROC Curve</strong> plots $sensitivity$ vs $1-specificity$</li>
@@ -422,13 +422,13 @@ gtag('config', 'G-NSV8628BMT');
 <ul>
 <li>&gt;It is dangerous to make changes to future behavior based on a naive analysis of past data.</li>
 </ul></li>
-<li><strong>Multinomial Logistic Regression</strong> uses the multinomial logit or <em>softmax</em> function: $e^{z<em>{j}} / \sum</em>{k} e^{z<em>{k}}$ --> can predict with this using <code>cv.glmnet(...family="multinomial")</code>
+<li><strong>Multinomial Logistic Regression</strong> uses the multinomial logit or <em>softmax</em> function: $e^{z_{j}} / \sum_{k} e^{z_{k}}$ --> can predict with this using <code>cv.glmnet(...family="multinomial")</code>
 <ul>
-<li>$e^{x'\beta</em>{k}}$ acts as an <em>intensity</em> for each class</li>
+<li>$e^{x'\beta_{k}}$ acts as an <em>intensity</em> for each class</li>
 </ul></li>
 <li><strong>Distributed Multinomial Regression</strong> uses a Poisson distribution (<em>count</em> data) to improve the performance of MLR
 <ul>
-<li>Using Poisson distribution allows you to improve prediction performance by setting a different $\lambda<em>{k}$ for each class, and compute each $\hat{\beta</em>{k}}$ in parallel (R's <code>parallel</code> library)</li>
+<li>Using Poisson distribution allows you to improve prediction performance by setting a different $\lambda_{k}$ for each class, and compute each $\hat{\beta_{k}}$ in parallel (R's <code>parallel</code> library)</li>
 </ul></li>
 <li><strong>Distribution &amp; Big Data</strong>
 <ul>
@@ -447,7 +447,7 @@ gtag('config', 'G-NSV8628BMT');
 <li><strong>Randomized Controlled Trials</strong>—or <strong>AB Testing</strong>—are the gold standard for estimating counterfactuals
 <ul>
 <li>AA tests are good practice to ensure no issues with randomization (you expect results to be the same)</li>
-<li>AB tests are completely random so it is easy to estimate the <strong>Average Treatment Effect (ATE)</strong> on the response, given as the mean difference in response: $ATE = \mathbb{E}[y|d=1] - \mathbb{E}[y|d=0] = \bar{y<em>{1}} - \bar{y</em>{0}}$</li>
+<li>AB tests are completely random so it is easy to estimate the <strong>Average Treatment Effect (ATE)</strong> on the response, given as the mean difference in response: $ATE = \mathbb{E}[y|d=1] - \mathbb{E}[y|d=0] = \bar{y_{1}} - \bar{y_{0}}$</li>
 <li>You can <em>reweight</em> your sample if certain sample segments are underrepresented relative to the population</li>
 <li>Common issues with randomized trials include: <em>imperfect randomization</em> and <em>dependence between units/observations</em></li>
 </ul></li>
@@ -485,7 +485,7 @@ id2 --&gt; id4
 <li>Use <strong>two-stage least squares (2SLS)</strong> to recover causal effects from IV variation: $\mathbb{E}[y|z]=\gamma\mathbb{E}[p|z]$
 <ul>
 <li>First fit OLS for <em>p</em> on <em>x</em> and <em>z</em></li>
-<li>Next fit OLS for response onto the predicted policy and the covariates to estimate $\mathbb{E}[y|\hat{p}<em>{i},x</em>{i}]=\alpha<em>{y}+\hat{p}</em>{i}\gamma + x'<em>{i}\beta</em>{y}$ where $\gamma$ is the causal effect of <em>p</em> on <em>y</em></li>
+<li>Next fit OLS for response onto the predicted policy and the covariates to estimate $\mathbb{E}[y|\hat{p}_{i},x_{i}]=\alpha_{y}+\hat{p}_{i}\gamma + x'_{i}\beta_{y}$ where $\gamma$ is the causal effect of <em>p</em> on <em>y</em></li>
 <li>in R, use <code>ivreg</code> function in <code>AER</code> package, with <code>|</code> to separate first and second stage inputs</li>
 </ul></li>
 </ul>
