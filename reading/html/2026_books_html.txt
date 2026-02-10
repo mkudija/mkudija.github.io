@@ -1,3 +1,7 @@
+<li><i>Ten Saints</i> by Elanor Farjeon</li>
+<li><i>The Psychology of Money</i> by Morgan Housel</li>
+<li><i>The Bears on Hemlock Mountain</i> by Alice Dalgliesh</li>
+<li><i>King Arthur and His Knights of the Round Table</i> by Roger Lancelyn Green</li>
 <li><i>The Correspondent</i> by Virginia Evans</li>
 <li><i>Go Tell It on the Mountain</i> by James Baldwin</li>
 <li><i>Heroes, Gods, and Monsters of the Greek Myths</i> by Bernard Evslin</li>

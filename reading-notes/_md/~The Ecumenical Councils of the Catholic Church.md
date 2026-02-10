@@ -54,13 +54,19 @@ _**Summary**: _
 		- [[Adoptionism]]: a form of Monarchianism teaching that Jesus was a good man in whom God dwelt as a divine power
 	- [[Tertullian]] advanced trinitarian theology with useful terminology: *trinitas*, *substantia*, *persona*: in the trinity the three persons partake in the divine substance.
 	- [[Arianism|Arius]] taught that Jesus is subordinate because he is not divine: "there was when he was not"
-- Nicea I: 
+- **Nicea I**: 
 	- *Homooúsious* (*consubstantialis*) was chosen to pin Arius down
 	- Common date of Easter 
 	- Set the pattern of issuing decrees (dogmatic statements) and canons (ordinances)
 - The period after Nicea was "genuinely traumatic"—per Julian: "Wild animals do not attack one another as fiercely as do these Christians."
 	- [[St. Athanasius|Athanasius]] defended Nicea but was a polarizing figure.
 	- The Cappadocian fathers (Basil of Caesarea, [[Gregory of Nyssa]], and Gregory Nazianzen) secured the legacy of Nicea by showing that in the Trinity are one *ousía* and three hypostatses, equating *ousía* with the Latin notion of substance and *hypóstasis* with the Latin notion of person. 
+- **Constantinople I**:
+	- Deals with trinitarian doctrine, confirming the doctrine of Nicea and affirmed the divinity of the Holy Spirit 
+	- Illustrates the relation of the papacy to an ecumenical council: Damasus of Rome not notified, but later popes accepted the council 
+	- [[St. Gregory Nazianzen|Gregory of Nazianzus]] was promoted to the see of Constantinople and made president of the Council, but the Alexandrians objected so he resigned and Nectarius was appointed by the emperor—since he was a catechumen he was ordained a bishop in his baptismal robes (30)
+	- Third canon: "The Bishop of Constantinople shall have primacy of honor after the Bishop of Rome because Constantinople is the new Rome." (30)
+	- The reception of the council was slow and challenging: Rome did not accept the third canon, and Eastern bishops were suspicious of the addition to the creed. But it succeeded in finishing off Arianism. (31)
 
 
 ## Chapter 2: The Christological Councils

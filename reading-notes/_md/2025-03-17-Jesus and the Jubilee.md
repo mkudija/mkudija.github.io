@@ -148,6 +148,7 @@ _**Summary**: The Spirit is the agent of the Jubilee. Live the Jubilee by drawin
 	- [ ] *The Holy Spirit Within* by St. John of Avila
 	- [ ] *[[~Spiritual Freedom|Spiritual Freedom]]* by [[Fr. Dave Pivonka]]
 	- [ ] *[[~In the School of the Holy Spirit|In the School of the Holy Spirit]]* by [[Fr. Jacques Philippe]]
+	- → I ended up reading *[[2026-02-09-The Holy Spirit (Martínez)|The Holy Spirit]]* from Cluny
 - Live a jubilee lifestyle through *sacramenets*, *pilgrimates*, and *indulgences*
 - **Sacraments**
 	- A lifestyle of jubilee involves frequently the liturgy to receive the grace present in the sacraments. (113)

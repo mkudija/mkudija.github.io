@@ -24,7 +24,6 @@ author_note: https://mail.google.com/mail/u/1/#inbox/KtbxLrjZpzxxpKkkNsnmchkRxJD
 
 *Bible Basics for Catholics* is a helpful overview of the structure of the Bible as viewed through the lens of the covenants God makes with man. Bergsma gives the big picture, which is helpful to have in mind when reading the Bible to understand how the details hang together as a whole. 
 
-Here is a link to my version of Bergsma's illustrations. I had fun drawing these with my kids, and I frequently come back to the creation diagram which gives the *forming* and then the *filling* of creation. ![[~Bible Basics for Catholics Illustrations.pdf]] ([GitHub link](https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_md/%7EBible%20Basics%20for%20Catholics%20Illustrations.pdf))
 ## Introduction 
 - Goal of this book: show you the basic overall "big picture" of the Bible 
 - Use stick figures to remember the series of biblical covenants
@@ -90,8 +89,9 @@ Here is a link to my version of Bergsma's illustrations. I had fun drawing these
 	- Keep learning more of God's Word
 	- Share what we know
 
+Here is a link to my version of Bergsma's illustrations. I had fun drawing these with my kids, and I frequently come back to the creation diagram which illustrates the *forming* and then the *filling* of creation. ([GitHub link](https://github.com/mkudija/mkudija.github.io/blob/master/reading-notes/_md/%7EBible%20Basics%20for%20Catholics%20Illustrations.pdf))
 
-*Note: [[John Bergsma]]'s favorite [[Bible Translations|Bible translation]] is the RSV-2CE (55)*
+*Note: Bergsma's favorite [[Bible Translations|Bible translation]] is the RSV-2CE (55)*
 
 --- 
 **Topic**: [[The Bible]]
