@@ -60,7 +60,7 @@ finishednotes: 2024-06-24
 </details>
 
 ## Foreword
-- by John Bogle 
+- by [[John Bogle]] 
 - quotes *[[~Democracy in America|Democracy in America]]* on associations 
 
 # Part I: Essentials of Successful Investing

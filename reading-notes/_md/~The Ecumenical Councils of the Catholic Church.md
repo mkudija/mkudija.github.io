@@ -16,7 +16,7 @@ started: 2026-01-31
 finished:
 finishednotes:
 ---
-# *[The Ecumenical Councils of the Catholic Church]()* by [[Joseph F. Kelly]]
+x# *[The Ecumenical Councils of the Catholic Church]()* by [[Joseph F. Kelly]]
 
 <img src="http://books.google.com/books/content?id=Pg35WfMdM-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
@@ -70,13 +70,34 @@ _**Summary**: _
 
 
 ## Chapter 2: The Christological Councils
-_**Summary**: _
-
+_**Summary**: How can Christ be both human and divine?_
+- Mortification: "The monks died a little bit every day via rigorous fasting and discipline." (33)
+- [[Docetism]]: A spiritual being like God would be corrupted by contact with a fleshy body. Christ did not have a real body, but only seemed to.
+- [[Gnosticism]]: Held a low opinion of the body as the prison of the soul. 
+- [[Nestorianism]]: Denial of the divine-human union in Christ; Mary as *Christotokos* but not *Theotokos*
+- [[Apolooinarianism]]: the elimination of the divine-human distinction
+- [[John Cassian]] opposed Nestorius (39)
+- **Ephesus**
+	- Called by the emperor Theodosius to support Nestorius in 431
+	- Cyril's machinations led to three separate councils before various parties arrived, and ended with him and Nestorius both sent as prisoners to Constantinople, where he coaxed the emperor along with bribes. 
+- **Chalcedon**
+	- Leo's *Tome* was the first time a Pope-theologian's writings influenced the outcome of a council 
+	- Christ is one person with two natures, one human and one divine. Two natures "without confusion, change, division, separation"
+	- After the council, Monophysitism (one nature) spread in the east 
+- The first four ecumenical councils are the most important because they:
+	- Established a method of elucidating doctrine when Scripture alone could not do so 
+	- Established the teachings of God and Christ 
 
 
 ## Chapter 3: The Byzantine Councila
 _**Summary**: _
-
+- Doctrine of the Two Swords (Pope Gelasius I: 492-96): the emperor holds the secular sword and the Pope the spiritual sword; the emperor ought to defer to the Pope in spiritual matters. 
+- Emperor Justinian was motivated to reconcile with the Monophysites in the Eastern empire for political reasons 
+- **Constantinople II**: 
+	- Condemned the Three Chapters (the writings of Theodore of Mopsuestia, Theodoret of Cyrrus, and Ibas)
+	- Also condemned the writings of Origen, leading to a widespread destruction of his works 
+	- Pope Vigilius initially held out, but accepted the council before he died 
+	- 
 
 
 ## Chapter 4: The Papal Councils of the Twelfth Century

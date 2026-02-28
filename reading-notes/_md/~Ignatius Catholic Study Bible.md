@@ -51,6 +51,10 @@ dimensions: 7.5x10.25x2.625
 - [[John Bergsma]] [said](https://youtu.be/qIYoaVxK44E?list=PLVSZX1XnJiVvHEUEpwaKnSD8f2ctXRuiZ&t=407) that the ICSB would be smaller if they could get thinner Bible paper. By my measurement, the ICSB paper measures ~0.0021" thick per sheet, vs ~0.0014 on the [[~Cambridge ESV Diadem Reference Bible with Apocrypha Red Calfskin|Cambridge ESV Diadem]] and [[~Schuyler Quentel ESV with Apocrypha|Schuyler Quentel ESV]]. Using that thinner paper could shave about 35% off the thickness of the ICSB, though it might be challenging to use with paper that thin given it's large dimensions. Data here: [Bible Paper](https://docs.google.com/spreadsheets/d/1MLE9om2GF3dtIqEJaRzI1mo7taB2jKbMr1quLIJkFNU/edit?gid=0#gid=0)
 
 
+Personal edition released [[2026-02-18-Wed]]
+- Desk: 10/8 pt font; 10.25 x 7.25 x 3, 5.5 lb
+- Personal: 9/7 pt font; 9.25 x 6.25 x 2.25, 3.6 lb
+
 --- 
 **Topic**: [[The Bible]]
 

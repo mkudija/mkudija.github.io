@@ -34,21 +34,31 @@ finishednotes:
 
 
 ## Introduction: The Greatest Show on Earth
-
+- "The premise of this book is that doing well with money has little to do with how smart you are and a lot to do with how you behave. Behavior is hard to teach. Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills." (2)
+- "Financial success is not a hard science. It's a soft skill where how you behave is more important than what you know. I call this soft skill the **psychology of money**." (4)
 
 ## Chapter 1: No One's Crazy
-_**Summary**: _
-
+_**Summary**: Your personal experiences with money make up maybe 0.00000001% of what's happened in the world, but maybe 80% of how you think the world works._
+- "People do some crazy things with money but no one is crazy... All of us go through life anchored to a set of views about how money works that vary widely person to person." (11)
+- "No amount of studying or open-mindedness can genuinely recreate the power of ear and uncertainty." (13)
+- "Every decision people make with money is justified by taking the information they have at the moment and plugging it into their unique mental model of how the world works." (18)
+- "Here we are with between twenty and fifty years of experience in the modern financial system, hoping to be perfectly acclimated." (21)
 
 
 ## Chapter 2: Luck & Risk
-_**Summary**: _
-
+_**Summary**: Nothing is as good or bad as it seems._
+- "Luck and risk are siblings. Every outcome in life is guided by forces other than individual effort." (25)
+- Lesson 1: Be careful who you praise and admire. Be careful who you look down upon and wish to avoid becoming. You can't assume that 100% of outcomes can be attributed to effort and decisions. (33)
+- Lesson 2: Focus less on specific individuals and case studies and more on broad patterns. The more common the pattern, the more applicable it might be to your life. (33)
+- The goal is survival: "The trick when dealing with failure is arranging your financial life in a way that a bad investment here and a missed financial goal there won't wipe you out, so you can keep playing until the odds fall in your favor." (34)
 
 
 ## Chapter 3: Never Enough
-_**Summary**: _
-
+_**Summary**: Be ok having "enough"._
+- [[John Bogle]]: "I have something he will never have...enough." (37)
+- "*There is no reason to risk what you have and need for what you don't have and don't need.*" (41)
+- Lesson 1: The hardest financial goal is to get the goalpost to stop moving.
+- Lesson 2: 
 
 
 ## Chapter 4: Confounding Compounding
