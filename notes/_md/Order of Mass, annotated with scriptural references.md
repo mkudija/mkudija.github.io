@@ -11,5 +11,5 @@ publish: true
 If this does not redirect you automatically, click here: [Order of Mass](https://matthewkudija.com/order-of-mass)
 
 ---
-Created: [[2026-02-28-Sat]]]
+Created: [[2026-02-28-Sat]]
 Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`

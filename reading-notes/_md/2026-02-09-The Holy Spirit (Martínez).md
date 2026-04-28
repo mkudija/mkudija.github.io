@@ -13,7 +13,7 @@ source:
 wishlist: 2025-12-17
 acquired: 2025-12-15
 started: 2025-12-15
-finished:
+finished: 2026-02-09
 finishednotes: 2026-02-09
 ---
 # *[The Holy Spirit](https://clunymedia.com/products/the-holy-spirit)* by [[Luis M. Martínez]]
@@ -38,7 +38,7 @@ The Holy Spirit is the most sweet Guest of the soul, and our devotion to Him is 
 
 One theme that really resonates with me is the idea that the Holy Spirit is the key to being joyful. Martinez explains: "It is in our power to enjoy that happiness which we carry within our souls whenever we wish to, for what is ours is ours to dispose of...Heaven itself is a natural consequence of this love...But the root of both joys, that of heaven and that of earth, is the same. It is the Gift of love" (20-21). We can choose the mutual possession the Holy Spirit offers in our souls, and thereby to enter into the joy and love of God. 
 
-The book itself is beautiful, especially the dust jacket and art inside the covers. It has great paper, but I do wish it had a sewn binding. Separately, I have recently enjoyed reading some other beautiful Cluny books to my children. We started with *[[2026-02-09-Ten Saints|Ten Saints]]* and *the [[~Black Fox of Lorne|Black Fox of Lorne]]*, and they especially love the beautiful artwork. 
+The book itself is beautiful, especially the dust jacket and art inside the covers. It has great paper, but I do wish it had a sewn binding. Separately, I have recently enjoyed reading some other beautiful Cluny books to my children. We started with *[[2026-02-09-Ten Saints|Ten Saints]]* and *the [[2026-03-04-Black Fox of Lorne|Black Fox of Lorne]]*, and they especially love the beautiful artwork. 
 
 
 [^1]: "All the goals of the jubilee are fulfilled by the gift of the Spirit. The Spirit forgives our sins, grants us freedom from the tyranny of Satan, institutes us as children of God and members of his family, and initiates us into the fullness of God so that we become "partakers of the divine nature" ([[2 Pt-01#v4]]). For that reason, the Jubilee 2025 is a highly appropriate time for individuals and communities to enter more deeply into the life of the Holy Spirit." –*[[2025-03-17-Jesus and the Jubilee#Chapter 9 Perpetual Jubilee *A Spirit-Led Lifestyle of Liberty and Liturgy*]]*

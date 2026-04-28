@@ -33,6 +33,7 @@ publish: true
 	- [Minimal Twitter](https://addons.mozilla.org/en-GB/firefox/addon/min-twitter/)
 	- [Disable Javascript](https://addons.mozilla.org/en-GB/firefox/addon/disable-javascript/)
 	- [Font Finder](https://addons.mozilla.org/en-GB/firefox/addon/font-inspect/)
+	- [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - Firefox Settings 
 	- Toolbar: Downloads, Bitwarden, Copy as Markdown, Extensions
 	- Open previous windows and tabs 

@@ -106,8 +106,10 @@ aliases:
 >May we abstain from what we do not really need, and help our brothers and sisters in distress.
 >May we bear the wounds of your Son, for through his body he gave us life.
 
+- Vol. II, pg. 713 ([[2026-04-21-Tue]], Office of Readings, from a sermon by [[St. Augustine]]): "Yes indeed, you are singing; but make sure that your life does not contradict your words. Sing with your voices, your hearts, your lips, and your lives: *Sing to the Lord a new song*...If you desire to praise him, then live what you express. Live good lives, and you yourselves will be his praise."
 - Vol. II, pg. 791 ([[2025-05-15-Thu]]): Why is Good Friday "good"? Because: "in restoring human nature you have given us a greater dignity than we had in the beginning." 
 - Vol. II, pg. 1335 ([[2025-01-28-Tue]]): from a conference by [[St. Thomas Aquinas]]: "If you seek [[patience]], you will find no better example than the cross. Great patience occurs in two ways: either when one patiently suffers much, or whe none suffers things which one is able to avoid and yet does not avoid."
+- Vol. II, pg. 1777 ([[2026-04-23-Thu]], Office of Readings, from a sermon by St. Peter Damian on St. George): "Clearly what George did serves to teach us a valuable lesson: if we are afraid to strip ourselves of our worldly possessions, then we are unfit to make a strong defense of the faith."
 - Vol. II, pg. 1794 ([[2022-05-05-Thu]]): from the *[[~The Dialogue|The Dialogue]]* of [[St. Catherine of Siena]]: "You are a mystery as deep as the sea; the more I search, the more I find, and the more I find the more I search for you. But I can never be satisfied; what I receive will ever leave me desiring more. When you fill my soul I have an even greater hunger, and I grow more famished for your light. I desire above all to see you, the true light, as you really are."
 
 ### Volume III

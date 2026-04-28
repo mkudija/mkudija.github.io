@@ -4,15 +4,15 @@ aliases:
 title: The Restoration of Christian Culture
 author: John Senior
 category: Christian civilization
-publisher: 
+publisher:
 total_page: 0
 publish_date: 2008
 isbn10: 1932528164
 isbn13: 9781932528169
-source: 
+source:
 wishlist: 2023-12-11
 acquired: 2024-06-03
-started: 
+started: 2026-04-18
 finished:
 ---
 # *[The Restoration of Christian Culture]()* by [[John Senior]]

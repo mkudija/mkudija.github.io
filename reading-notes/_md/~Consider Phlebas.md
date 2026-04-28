@@ -22,6 +22,9 @@ finishednotes:
 `(New York: Orbit, 2009-12-01), 504`
 
 
+- heard about this a couple times in Q1 2026 as Elon's vision of a prosperous future with AI 
+- started reading around 2026-04-15 (preface and ch 1), but stopped to read other things (book club, *[[~The Restoration of Christian Culture|The Restoration of Christian Culture]]*)
+
 
 --- 
 **Topic**: 

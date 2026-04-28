@@ -159,8 +159,9 @@ publish: true
 - [[2026-01-07-Wed]]: *[[2026-01-07-Heroes Gods and Monsters of the Greek Myths|Heroes, Gods, and Monsters of the Greek Myths]]*
 - [[2026-01-27-Tue]]: *[[2026-01-28-King Arthur and His Knights of the Round Table|King Arthur and His Knights of the Round Table]]*
 - [[2026-02-07-Sat]]: *[[2026-02-09-Ten Saints|Ten Saints]]*
+- [[2026-03-03-Tue]]: *[[~The Story of All Stories|The Story of All Stories]]*
+- [[2026-03-03-Tue]]: *[[2026-03-04-Black Fox of Lorne|Black Fox of Lorne]]*
 - In Progress:
-	- [[2025-12-26-Fri]]: *[[~The Story of All Stories|The Story of All Stories]]*
 
 ---
 **Topic**: [[Reading]]

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - ESV Study Bible
-  - Personal Size (TruTone
-  - Black)
+  - ESV Study Bible, Personal Size
 title: ESV Study Bible, Personal Size (TruTone, Black)
 author:
 category:

@@ -1,3 +1,10 @@
+<li><i>Ben-Hur</i> by Lew Wallace</li>
+<li><i>A Song for Nagasaki</i> by Paul Glynn</li>
+<li><i>Black Fox of Lorne</i> by Marguerite de Angeli</li>
+<li><i>Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life</i> by Ezekiel J. Emanuel, MD</li>
+<li><i>The Story of All Stories</i> by Emily Stimpson Chapman</li>
+<li><i>Accidental Saints: Finding God in All the Wrong People</i> by Nadia Bolz-Weber</li>
+<li><i>The Holy Spirit</i> by Luis M. Martínez</li>
 <li><i>Ten Saints</i> by Elanor Farjeon</li>
 <li><i>The Psychology of Money</i> by Morgan Housel</li>
 <li><i>The Bears on Hemlock Mountain</i> by Alice Dalgliesh</li>

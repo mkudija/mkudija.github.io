@@ -104,6 +104,7 @@ Reading to the kids:
 		- [[Eph-02#v8]]-9: "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
 		- ==[[1 Thes-04#v14]]: "fallen asleep believing in him"==
 	- Saved by Works
+		- [[Dn-04#v24]]/27: "Break off your sins by practicing righteousness"
 		- [[Sir-12#v6]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."
 		- [[Rom-02#v13]]: "For not the hearers of the law are just before God, but the **doers of the law** shall be justified."
 		- [[Col-01#v10]]: "That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work"

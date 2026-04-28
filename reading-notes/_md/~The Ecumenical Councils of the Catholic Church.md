@@ -89,7 +89,7 @@ _**Summary**: How can Christ be both human and divine?_
 	- Established the teachings of God and Christ 
 
 
-## Chapter 3: The Byzantine Councila
+## Chapter 3: The Byzantine Councils
 _**Summary**: _
 - Doctrine of the Two Swords (Pope Gelasius I: 492-96): the emperor holds the secular sword and the Pope the spiritual sword; the emperor ought to defer to the Pope in spiritual matters. 
 - Emperor Justinian was motivated to reconcile with the Monophysites in the Eastern empire for political reasons 
@@ -97,22 +97,68 @@ _**Summary**: _
 	- Condemned the Three Chapters (the writings of Theodore of Mopsuestia, Theodoret of Cyrrus, and Ibas)
 	- Also condemned the writings of Origen, leading to a widespread destruction of his works 
 	- Pope Vigilius initially held out, but accepted the council before he died 
-	- 
+- **Constantinople III**
+	- Heraclius had to address Monophysitism again, and Sergius referred to one activity, *Monoenergism*, and one will, *Monothelitism*. 
+	- Pope Honorius I affirmed that Christ had two natures but only one will (seemingly without understanding the theological implications)
+	- Maximus the Confessor wrote the best refutation of Monothelitism, but was exiled and had his hand and tongue cut off for it.
+- Muslims conquer all of North Africa, most of Spain, and are finally stopped in Tours by Charles Martel in 732. 
+- Pepin use papal support to in the throne, and then defeated the Lombards and made the "Donation of Pepin" which became the Papal States. 
+- Leo III became the Byzantine emperor and saved Constantinople from the Muslims, but considered icons to be idolatrous.
+- Pope Gregory II quickly denounced iconoclasm and Gregory III called a synod that did the same. John Damascene provided a theological defense of icons.
+- **Nicea II** (786-787)
+	- Irene called the council to address iconoclasm. Opened in Constantinople but attacked, so relocated to Nicea.
+	- Icons serve an important teaching purpose, especially during a time when most were illiterate. 
+- Charles Martel > Pepin > Charlemagne crowned as emperor, kicking of the medieval period of church-state struggle.
+- Muslim pirates sacked Rome in 846!
+- **Constantinople IV** (869-70, 879)
+	- John VIII re-instated the deposed Photius, and the Byzantine navy came to repel Muslims from Rome.
 
 
 ## Chapter 4: The Papal Councils of the Twelfth Century
 _**Summary**: _
-
+- "The tenth century represents the lowest point in papal history," with John XII being the "most scandalous of all the popes", but he did crown Otto I creating the Holy Roman Empire.
+- Henry IV and the Investiture Controversy 
+- Pope Paschal II accepted the compromise that the bishop receives his insignia of temporal power from the king, but insignia of ecclesiastical office from the Pope.
+- Callistus II settled the matter with an ecumenical council.
+- **Lateran I** (1123)
+	- First council called by a Pope rather than an emperor 
+	- Called by Callistus II to ratify the investiture decision of the Concordat of Worms
+	- Passed disciplinary decrees 
+- **Lateran II** (1139)
+	- Innocent II (supported by [[St. Bernard of Clairvaux|Bernard of Clairvaux]]) and Anacletus II (anti-Pope) were elected on the same day creating schism. 
+	- After Analectus died, Innocent II called Lateran II to confirm the illegitimacy of the acts of Analectus.
+- **Lateran III** (1179)
+	- The scope of the papacy increased in the twelfth century as the papal government was often called upon to settle numerous disputes, all of which was quite expensive. 
+	- Actions of the council: Restricted the election of the Pope to the College of Cardinals, invalidated the ordinations of Barbarossa's anti-popes, emphasized the authority of bishops in their dioceses. 
 
 
 ## Chapter 5: The Papal Councils of the Thirteenth Century
 _**Summary**: _
+- **Lateran IV** (1216)
+	- The most important medieval council of Pope Innocent III
+	- Henry VI married Constance, acquiring Sicily and threatening to surround the Pope. 
+	- The Fourth Crusade was a disgrace with the capture of Zara and looting of Constantinople.
+	- Innocent III encouraged the new Franciscans and Dominicans. 
+	- The Council promulgated 71 canons, including a creed, the obligation of lay lords to defend orthodoxy, yearly confession, 1and disciplinary matters. 
+- **Lyons I** (1245)
+	- Dealt with various matters, but most importantly deposing the problematic Holy Roman Emperor Frederick II.
+- **Lyons II** (1274)
+	- Charles of Anjou ruled Sicily and dominated much of Italy, while Byzantine emperor Michael VIII recaptured Constantinople. 
+	- In exchange for help against Charles, Michael and the Greeks accepted the *[[Filioque]]* at Lyons II and east and west were reunited before collapsing under popular opinion. 
 
 
 
 ## Chapter 6: Schism and Conciliarism
 _**Summary**: _
-
+- **Vienne** (1311-1312)
+	- Clement V moved the papacy to Avignon  in 1309.
+	- At Vienne, Clement V suppressed the Knight Templars under pressure from Philip IV who wanted their gold. 
+- **Great Western Schism**
+	- The Great Western Schism began when the cardinals who elected the Italian Urban VI claimed to have done so only under pressure from the Roman mob and then elected Clement VII who returned to Avignon. 
+	- The cardinals of the Roman and Avignon Popes deposed them both (they did not recognize this), and elected Alexander V, resulting in three claiming the papacy.
+- **Constance** (1415-1418)
+	- Deposed anti-popes John XXIII and Benedict XIII, recognized the resignation of Gregory XII, and elected Martin V as the Pope to end the Great Western Schism.
+	- Addressed issues of heresy, such [[John Wycliffe]]'s ecclesiology that prelates not in a state of grace are not legitimate, taken up by Jan Hus and the Czechs to support their nationalist ambitions against the Germans.
 
 
 ## Chapter 7: The Council of Trent

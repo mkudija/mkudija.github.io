@@ -13,8 +13,8 @@ source:
 wishlist: 2025-12-26
 acquired: 2025-12-25
 started: 2025-12-26
-finished:
-finishednotes:
+finished: 2026-03-03
+finishednotes: none
 ---
 # *[The Story of All Stories]()* by [[Emily Stimpson Chapman]]
 
