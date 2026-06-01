@@ -1,5 +1,6 @@
 ---
-aliases: [Reentry]
+aliases:
+  - Reentry
 title: Reentry
 author: Eric Berger
 category: Science
@@ -8,12 +9,12 @@ total_page: 401
 publish_date: 2024-09-24
 isbn10: 1637745273
 isbn13: 9781637745274
-source: 
+source:
 wishlist: 2025-01-28
-acquired: 
-started: 
-finished: 
-finishednotes: 
+acquired: 2026-05-23
+started:
+finished:
+finishednotes:
 ---
 # *[Reentry]()* by [[Eric Berger]]
 

@@ -103,6 +103,7 @@ Reading to the kids:
 		- [[Gal-02#v16]]: "Knowing that a man is not justified by the works of the law, but by the **faith** of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."*
 		- [[Eph-02#v8]]-9: "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
 		- ==[[1 Thes-04#v14]]: "fallen asleep believing in him"==
+		- [[Ti-03#v5]]-7: "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life."
 	- Saved by Works
 		- [[Dn-04#v24]]/27: "Break off your sins by practicing righteousness"
 		- [[Sir-12#v6]]: "For the most High hateth sinners, and will repay vengeance unto the ungodly, and keepeth them against the mighty day of their punishment."

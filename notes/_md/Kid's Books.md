@@ -161,6 +161,8 @@ publish: true
 - [[2026-02-07-Sat]]: *[[2026-02-09-Ten Saints|Ten Saints]]*
 - [[2026-03-03-Tue]]: *[[~The Story of All Stories|The Story of All Stories]]*
 - [[2026-03-03-Tue]]: *[[2026-03-04-Black Fox of Lorne|Black Fox of Lorne]]*
+- [[2026-04-29-Wed]]: *[[~The Power of Prayer-Building Blocks of Faith Series|The Power of Prayer: Building Blocks of Faith Series]]*
+- [[2026-05-30-Sat]]: *[[2026-05-30-Myths of the Norsemen|Myths of the Norsemen]]*
 - In Progress:
 
 ---

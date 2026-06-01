@@ -12,7 +12,7 @@ isbn13: 9780061687457
 source:
 wishlist: 2026-04-06
 acquired: 2026-04-05
-started:
+started: 2026-05-22
 finished:
 finishednotes:
 ---

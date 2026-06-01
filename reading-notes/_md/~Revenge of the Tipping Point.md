@@ -12,7 +12,7 @@ isbn13: 9781038470539
 source:
 wishlist: 2026-01-01
 acquired: 2026-01-01
-started:
+started: 2026-05-21
 finished:
 finishednotes:
 ---

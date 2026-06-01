@@ -1,19 +1,20 @@
 ---
-aliases: [The Power of Prayer-Building Blocks of Faith Series]
+aliases:
+  - The Power of Prayer-Building Blocks of Faith Series
 title: The Power of Prayer-Building Blocks of Faith Series
 author: Kevin And Mary O'Neill
 category: Religion
-publisher: 
+publisher:
 total_page: 0
 publish_date: 2026-03-17
-isbn10: 
+isbn10:
 isbn13: 9798889116745
-source: 
-wishlist: 
+source:
+wishlist:
 acquired: 2026-04-05
-started: 
-finished: 
-finishednotes: 
+started: 2026-04-05
+finished: 2026-04-29
+finishednotes:
 ---
 # *[The Power of Prayer: Building Blocks of Faith Series]()* by [[Kevin And Mary O'Neill]]
 

@@ -13,13 +13,13 @@ source:
 wishlist: 2023-12-11
 acquired: 2024-06-03
 started: 2026-04-18
-finished:
+finished: 2026-05-31
 ---
 # *[The Restoration of Christian Culture]()* by [[John Senior]]
 
 <img src="http://books.google.com/books/content?id=d0N-AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: , 2008), 0`
+`(New York: , 1983/2008), 0`
 
 
 

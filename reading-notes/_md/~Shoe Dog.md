@@ -1,5 +1,6 @@
 ---
-aliases: [Shoe Dog]
+aliases:
+  - Shoe Dog
 title: Shoe Dog
 author: Phil Knight
 category: Biography & Autobiography
@@ -8,11 +9,11 @@ total_page: 368
 publish_date: 2016-04-26
 isbn10: 1501135937
 isbn13: 9781501135934
-source: 
+source:
 wishlist: 2023-06-21
-acquired: 
-started: 
-finished: 
+acquired: 2026-04-30
+started:
+finished:
 ---
 # *[Shoe Dog]()* by [[Phil Knight]]
 
@@ -27,17 +28,7 @@ finished:
 
 **Source**
 - [[Dad]]: "For anybody who might want to run a business I recommend shoe dog by Phil Knight. The story of all the trials and tribulations in the first 20 years of Nike."
-
-**Bibliography**
-
-```query
-[[bib]] file:(~Shoe Dog)
-```
- 
-
-**[[New Words]]**
-
-- 
+- [[Padj]]: from a friend of his
 
 ---
 Created: [[2023-06-21-Wed]]

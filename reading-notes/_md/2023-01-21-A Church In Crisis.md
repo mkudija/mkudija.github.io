@@ -105,7 +105,7 @@ One benefit (and challenge) of this book is the voluminous collection sources: m
 	- [ ] #read [Turning Back the Tide: One Pastor's Attempt to Assert the Biblical Teaching on Homosexuality In an Age of Confusion - Community in Mission](https://blog.adw.org/2011/03/turning-back-the-tide-one-pastors-attempt-to-assert-the-biblical-teaching-on-homosexuality-in-an-age-of-confusion/)
 
 **Dissenters**
-- Fr. Charles Curran: dissenter from *[[~Humanae Vitae|Humanae Vitae]]* (8)
+- Fr. Charles Curran: dissenter from *[[2026-05-31-Humanae Vitae|Humanae Vitae]]* (8)
 - Cardinal Walter Kasper: Synods on the Family and *[[~Amoris Laetitia|Amoris Laetitia]]* (8, 28) 
 - Cardinal Antonio Tagle: Pope Francis' choice successor (8)
 - Cardinal Godfried Danneels: "Sant Gallen mafia" (9)

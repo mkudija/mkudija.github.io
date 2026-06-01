@@ -13,10 +13,10 @@ source:
 wishlist: 2026-01-16
 acquired:
 started: 2026-01-31
-finished:
-finishednotes:
+finished: 2026-05-16
+finishednotes: 2026-05-16
 ---
-x# *[The Ecumenical Councils of the Catholic Church]()* by [[Joseph F. Kelly]]
+# *[The Ecumenical Councils of the Catholic Church]()* by [[Joseph F. Kelly]]
 
 <img src="http://books.google.com/books/content?id=Pg35WfMdM-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
@@ -28,8 +28,43 @@ x# *[The Ecumenical Councils of the Catholic Church]()* by [[Joseph F. Kelly]]
  <summary><i>Contents</i></summary>
 <!-- MarkdownTOC autolink="true" -->
 
+- [Introduction](#introduction)
+- [Chapter 1: The Trinitarian Councils](#chapter-1-the-trinitarian-councils)
+- [Chapter 2: The Christological Councils](#chapter-2-the-christological-councils)
+- [Chapter 3: The Byzantine Councils](#chapter-3-the-byzantine-councils)
+- [Chapter 4: The Papal Councils of the Twelfth Century](#chapter-4-the-papal-councils-of-the-twelfth-century)
+- [Chapter 5: The Papal Councils of the Thirteenth Century](#chapter-5-the-papal-councils-of-the-thirteenth-century)
+- [Chapter 6: Schism and Conciliarism](#chapter-6-schism-and-conciliarism)
+- [Chapter 7: The Council of Trent](#chapter-7-the-council-of-trent)
+- [Chapter 8: The First Vatican Council](#chapter-8-the-first-vatican-council)
+- [Chapter 9: The Second Vatican Council](#chapter-9-the-second-vatican-council)
+
 <!-- /MarkdownTOC -->
 </details>
+
+| Council                                | Years     | Doctrinal Statements                                                                              |
+|----------------------------------------|-----------|---------------------------------------------------------------------------------------------------|
+| Nicaea I                               | 325       | Nicene Creed:<br/>Son is homoousios with Father                                                   |
+| Constantinople I                       | 381       | Expanded Nicene Creed:<br/>Divinity of Holy Spirit                                                |
+| Ephesus                                | 431       | One person of Christ; Mary is Theotokos                                                           |
+| Chalcedon                              | 451       | One person, two natures “without confusion…without separation”                                    |
+| Constantinople II                      | 553       | Reaffirmed 1–4; anti-Nestorian anathemas                                                          |
+| Constantinople III                     | 680–681   | Two wills/energies in Christ                                                                      |
+| Nicaea II                              | 787       | Veneration of icons affirmed; worship to God alone                                                |
+| Constantinople IV (Catholic)           | 869–870   | Reaffirmed earlier councils (no new creed)                                                        |
+| Lateran I                              | 1123      | —                                                                                                 |
+| Lateran II                             | 1139      | —                                                                                                 |
+| Lateran III                            | 1179      | —                                                                                                 |
+| Lateran IV                             | 1215      | Transubstantiation term used; doctrinal summary                                                   |
+| Lyons I                                | 1245      | —                                                                                                 |
+| Lyons II                               | 1274      | Union formula incl. Filioque (Latin articulation); <br/>purgatory teaching (Western articulation) |
+| Vienne                                 | 1311–1312 | Rational soul as form of body (affirmed)                                                          |
+| Constance                              | 1414–1418 | — (mainly condemnations)                                                                          |
+| Florence <br/>(Basel–Ferrara–Florence) | 1431–1445 | Decrees of union (primacy, Filioque, purgatory in Latin terms); <br/>sacraments summary           |
+| Lateran V                              | 1512–1517 | Immortality of soul affirmed                                                                      |
+| Trent                                  | 1545–1563 | Justification; Scripture & Tradition; 7 sacraments; <br/>Mass; transubstantiation reaffirmed      |
+| Vatican I                              | 1869–1870 | Faith & reason; papal primacy + infallibility                                                     |
+| Vatican II                             | 1962–1965 | 4 Constitutions (liturgy, church, revelation, modern world)                                       |
 
 
 ## Introduction 
@@ -159,26 +194,53 @@ _**Summary**: _
 - **Constance** (1415-1418)
 	- Deposed anti-popes John XXIII and Benedict XIII, recognized the resignation of Gregory XII, and elected Martin V as the Pope to end the Great Western Schism.
 	- Addressed issues of heresy, such [[John Wycliffe]]'s ecclesiology that prelates not in a state of grace are not legitimate, taken up by Jan Hus and the Czechs to support their nationalist ambitions against the Germans.
+- **Basel-Ferrara-Florence-Rome** (1431–1445)
+	- Council started in Basel and run by conciliarists.
+	- Moved to Ferrara to respond to the needs of the Byzantines who wanted reunion for military help against the Turks. Meanwhile the part of the Council that stayed in Basel deposed the Pope and elected an anti-Pope, before fizzling out.
+	- Moved to Florence since Ferrara couldn't support such a large council. Debated the *[[Filioque]]* and came to a fragile reunification agreement.
+	- Moved to Rome to wrap up, and reunified with the Chaldeans and Maronites.
+- **Lateran V** (1512-1517)
+	- Julius II called Lateran V in response to Louis XII calling the council of Pisa to oppose him. The council was a papal victory over the conciliar movement.
 
 
 ## Chapter 7: The Council of Trent
 _**Summary**: _
-
-
+- **The [[Protestant Reformation]]**
+	- "The Protestant Reformation centered on doctrinal matters and on which ecclesiastical authorities had the competency to judge in such matters. The Reformation was not about the abuses rampant in the Catholic Church (and against which many Catholic reformers also railed). Yet it was one of these abuses that forced Luther, who was a pastor as well as a university theologian, to reconsider his fidelity to Catholic teaching." (126)
+	- "The Protestant Reformation began in Luther's ruminations on Purgatory." (128)
+	- [[Martin Luther|Luther]]'s theology in summary: Sinners can do nothing to justify themselves before God; God imputes created righteousness to sinners. (129)
+	- Luther argued that all doctrine must rely upon Scripture alone. He rejected the authority of ecumenical councils and of the popes. (129)
+- **The Council of Trent** (part 1)
+	- Called by Paul III and opened in 1545
+	- Issued decrees on **divine revelation** (1546: Scripture and Tradition, Canon of Scripture, Vulgate as sufficient for doctrinal matters), **original sin** (1546: historicity of Adam and Eve, baptism removes the guilt of original sin but not concupiscence), **justification** (1547: only God can justify man, but man can prepare for justification; man as sanctified through grace; bishops residing in their dioceses), **sacraments** (1547: all seven sacraments were instituted by Christ and have efficacy via administration i.e. *ex opere operato*)
+- **The Council of Trent** (part 2)
+	- Decrees on baptism and confirmation, the Eucharist (explaining the real presence via transubstantiation), penance and extreme unction  
+	- German Protestant observers attended, but left after their efforts to remove the Roman Catholic character of the church were unsuccessful
+- **The Council of Trent** (part 3)
+	- Defined the sacrificial character of the mass, pronounced that Christ is fully present in communion under both species, declared holy orders a sacrament and established a seminary system, confirmed the sacramental nature of marriage, and clarified teaching of images, purgatory, relics, and veneration of saints
+	- Cardinal Morone brought the council to a close
+- After Trent, Pius V reviews the Roman Breviary (1568) and the Roman Missal (1570, 1604 revised), and Roman Catechism (1566)
 
 ## Chapter 8: The First Vatican Council
 _**Summary**: _
-
+- Lead-up to Vatican I included: missions to Africa and the Americas, royal absolutism (such as Louis XIV of France), the Enlightenment and French Revolution. 
+- Pius VI died imprisoned in France in 1799, and Pius VII was impriosoned in France from 1812 until 1815 after Napoleon's defeat.
+- " it was unfortunate for the Church that the anti-religious Enlightenment, the anti-Catholic French Revolution, and the ambitious Napoleon came to define so many modern values for the nineteenth-century popes. As absolute monarchs the popes could not be expected to be sympathetic to democracy but they saw democracy largely in the form of a secularist government that wished to abolish religion. They also saw freedom of religion as indifferentism: the idea that there are no distinctions among religions and that one is as good as any other... had democracy, freedom of religion, freedom of speech as well as freedom of the press come to the papacy in different forms, some of the papacy's problems with the nineteenth century might have been avoided." (153)
+- Pope Gregory XVI made no concessions: *Mirari Vos* condemned indifferentism (the notion that people of different religions could be saved), invited Austria to suppress revolts in the Papal States.
+- Pius IX fled Rome and was only returned under guard of French troops, while the Papal States were dismembered by Victor Emmanuel II in the unification of Italy. In 1854 he proclaimed the Immaculate Conception, and in 1864 proclaimed the Syllabus of Errors in *Quanta Cura*.
+- Pius IX summoned the council to "restate the faith in certain matters where it had been attacked or misunderstood, to review the whole matter of clerical life and its needs, to provide new safeguards for Christian marriage and the Christian education of youth, and to take up in this new age problems of the relation of Church and State and provide appropriate guidance, so as to promote peace and prosperity in national life everywhere." (165, cf. *Aeterni Patris*)
+- *Dei Filius*: first document of the council, which talked about the nature of God, revelation and Scripture, nature and essence of faith, and faith and reason.
+- *Pastor Aeternus* (Dogmatic Constitution on the Church): defined papal primacy, and papal infallibility: "We teach and define as a divinely revealed dogma that when the Roman pontiff speaks EX CATHEDRA, that is, when, in the exercise of his office as shepherd and teacher of all Christians, in virtue of his supreme apostolic authority, he defines a doctrine concerning faith or morals to be held by the whole church, he possesses, by the divine assistance promised to him in blessed Peter, that infallibility which the divine Redeemer willed his church to enjoy in defining doctrine concerning faith or morals. Therefore, such definitions of the Roman pontiff are of themselves, and not by the consent of the church."
+- After the council, Pius IX became the "Prisoner of the Vatican", and the Papal States were now gone: for the first time in a millennium the popes could be unfettered religious leaders.
 
 
 ## Chapter 9: The Second Vatican Council
 _**Summary**: _
-
-
-
-## Epilogue
-_**Summary**: _
-
+- **First session**: opened with the document on the liturgy, worked on divine revelation, and struggled with a draft on the church
+- **Second session**: addressed the nature of the college of bishops and permanent diaconate, put a discussion of Mary into the document on the church, addressed the laity and ecumenism 
+- **Third session**: *Lumen Gentium*'s "*subsistit in*", religious liberty, ecumenism (expanded from just a decree on the Jews), divine revelation, eastern churches, *Gaudium et spes*
+- **Fourth session**: education, religious liberty, wrapped up the council
+- (*Note: this chapter on Vatican II seems to take a tone that celebrates the [[Hermeneutic of continuity|hermeneutic of rupture]] and the "spirit of the council".*)
 
 
 
