@@ -12,7 +12,7 @@ isbn13: 9780316273800
 source:
 wishlist: 2026-02-27
 acquired:
-started: 2026-02-25
+started: 
 finished:
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: , 2021-09-14), 368`
 
-
+(briefly started [[2026-02-25-Wed]] but didn't continue)
 
 --- 
 **Topic**: 

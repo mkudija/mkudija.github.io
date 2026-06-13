@@ -12,7 +12,7 @@ isbn13: 9780544935334
 source:
 wishlist: 2026-02-22
 acquired:
-started: 2026-02-22
+started: 
 finished:
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: HarperCollins, 2017-05-30), 389`
 
-
+(briefly started [[2026-02-22-Sun]] but didn't continue)
 
 --- 
 **Topic**: 

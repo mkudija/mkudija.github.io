@@ -135,9 +135,19 @@ Leo identifies five principles of [[Catholic Social Teaching]] to be applied to 
 
 
 ## Chapter 3: Technology and Dominance: The Grandeur of Humanity in Light of the Promises of AI *[90-130]*
+- *Babel and Jerusalem:* "We are called to reflect on the great “construction sites” of our era and ask: What are we building? As technological development rapidly transforms languages, relationships, institutions and forms of power, we believers must and can choose which projects to work on and in what manner, so as to safeguard and value the grandeur of humanity that has been given to us as a gift." (90)
+- "I encourage all members of the Church not to be afraid of the present challenges, but to listen to one another and firmly embrace their responsibilities in building a more humane and fraternal society." (91)
 ### The technocratic paradigm and digital power *[92-96]*
+- *[[~Laudato Si|Laudato Si]]*: the **technocratic paradigm**: "the tendency to let the logic of efficiency, control and profit alone shape personal, social and economic decisions" (92)
+- The principles for judgement: "the inalienable dignity of the human person, the common good, the universal destination of goods, subsidiarity, solidarity and social justice." (96)
 ### Artificial intelligence *[97-111]*
-- "we cannot consider AI to be morally neutral. In reality, every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations...For this reason, ethical discernment cannot be limited to asking whether we are using a system for good or bad purposes; it must also examine how that system is designed and what vision of the human person and society is embedded in the data and models that guide it." (104, cf. *[[~Antiqua et Nova|Antiqua et Nova]]*)
+- *Leo's purpose:* "I limit myself to recalling a few essential elements for a moral and social discernment that safeguards the primacy of the human person, in order to ensure that it will always be human intelligence, with its conscience and freedom, that guides technical innovations and responsibly determines their use and limits." (97)
+- *What is AI?* "It is not possible to provide a single, comprehensive definition of AI. What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings." (99)
+- *Both sides:* "AI can be a valuable tool and, at the same time, it calls for a measured and vigilant approach." (100)
+	- "Three aspects in particular deserve careful consideration: the ease with which results are obtained, the impression of objectivity, and the simulation of human communication." (100)
+	- "The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment." (100)
+	- "The danger is not so much that a person may believe they are communicating with another person, but rather that they may gradually lose the very desire to form genuine human connections." (100)
+- **"We cannot consider AI to be morally neutral. In reality, every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations...For this reason, ethical discernment cannot be limited to asking whether we are using a system for good or bad purposes; it must also examine how that system is designed and what vision of the human person and society is embedded in the data and models that guide it."** (104, cf. *[[~Antiqua et Nova|Antiqua et Nova]]*)
 ### What must not be lost *[112-126]*
 ### The authentic "more than human": grace and Christian humanism *[127-128]*
 ### Two cities and two loves *[129-130]*
