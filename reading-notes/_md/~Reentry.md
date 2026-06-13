@@ -12,7 +12,7 @@ isbn13: 9781637745274
 source:
 wishlist: 2025-01-28
 acquired: 2026-05-23
-started:
+started: 2026-06-13
 finished:
 finishednotes:
 ---

@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+
+<!-- Salve, Regina, Mater misericordiæ
+vita, dulcedo, et spes nostra, salve.
+Ad te clamamus exsules filii Hevæ
+Ad te suspiramus, gementes et flentes
+in hac lacrimarum valle.
+Eia, ergo, advocata nostra, illos tuos
+misericordes oculos ad nos converte;
+Et Jesum, benedictum fructum ventris tui
+nobis post hoc exsilium ostende.
+O clemens, O pia, O dulcis Virgo Maria. -->
+
+<html lang="en">
+<head>
+<title>Layered Reading</title>
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/mkudija/mkudija.github.io/master/favicon.ico"/>
+<meta name="description" content="Matthew Kudija's reading notes.">
+<meta name="keywords" content="matthew, kudija, mkudija, catholic, reading, books, note, notes, blog">
+<link rel="shortcut icon" href="https://github.com/mkudija/mkudija.github.io/blob/master/favicon.ico">
+<link rel="next" href="https://matthewkudija.com/reading.html">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bigfoot-default.css" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSV8628BMT"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-NSV8628BMT');
+</script>
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Main -->
+<div id="main">
+<div class="inner">
+<!-- Header -->
+<header id="header">
+<a href="https://matthewkudija.com/" class="logo">Matthew Kudija</a>
+<div class="header-right">
+<a href="https://matthewkudija.com/">Home</a>
+<a href="https://matthewkudija.com/about">About</a>
+<a href="https://matthewkudija.com/notes/">Notes</a>
+<a href="https://matthewkudija.com/reading-notes/">Reading Notes</a>
+</div>
+</header>
+
+<!-- Content -->
+
+<h1 id="layered-reading">Layered Reading</h1>
+
+<p>How ought one to engage with a lengthy and dense text such as a papal encyclical, and might we create AI tools that encourage deeper engagement with such texts rather than quick summaries? </p>
+
+<p>I want to hear what Pope Leo XIV has to say about AI in <em><a href="https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/~Magnifica Humanitas.md">Magnifica Humanitas</a></em>, not read an LLM summary or hear what other people think he has to say. But given that the text is 42,000 words<sup class="footnote-ref" id="fnref-length"><a href="#fn-length">1</a></sup>, it will take me some time to get through it. I also fear that some of the audience that would benefit from Leo's insights will never read the text due to its length. </p>
+
+<p>Rather than skimming the text, reading news articles about the text, or—more likely—just not getting around to it—I'm trying an approach I'm calling <strong>layered reading</strong>: using AI to surface the most essential parts of a text at multiple levels of depth, while preserving the author's original words throughout, presented in an interface that encourages diving deeper.</p>
+
+<h2 id="the-prototype">The Prototype</h2>
+
+<p>See a prototype of this interface <a href="https://matthewkudija.com/magnifica-humanitas/index.html">here</a>. You select the amount of time you want to spend with the text initially (2 minutes, 10 minutes, 30 minutes, 60 minutes, or the full document), and the interface surfaces relevant passages that can be read in that timeframe. The the parts hidden are annotated if you want to expand any section and go deeper.</p>
+
+<p>The prototype is designed with these principles in mind:</p>
+
+<ol>
+<li><strong>Time-budget driven:</strong> Engage with the text now, using the amount of time you have available. It's ok to progressively engage with a text over time rather than giving it your full attention on the first pass.<sup class="footnote-ref" id="fnref-talk"><a href="#fn-talk">2</a></sup> </li>
+</ol>
+
+<ol start="2">
+<li><p><strong>Original text, not summary:</strong> Read the original text, not a summary or commentary. Additional scaffolding may be added in the form of human- or AI-generated summaries, but selections from the original text are preserved without alteration.</p></li>
+<li><p><strong>AI-scored essentiality.</strong> Each paragraph of the document is scored for how much a reader would lose by skipping it, and the highest-scored paragraphs are shown. Thesis statements, key definitions, and pivotal arguments score highest. Historical surveys and rhetorical amplification score lower. The scoring was calibrated against my own annotations from the introduction and conclusion. </p></li>
+<li><p><strong>Bidirectional depth:</strong> You can dive into a section and then resurface. Layered reading supports dipping in and out, following your curiosity.[^related] </p></li>
+</ol>
+
+<h2 id="extensions">Extensions</h2>
+
+<p>The prototype works for a single document, but the idea generalizes:</p>
+
+<ul>
+<li><p><strong>Corpus-level layered reading:</strong> <em>Magnifica Humanitas</em> cites over 20 prior encyclicals. Each of those could be processed with the same pipeline, with cross-references linking between them. You could start with a 10-minute overview of Catholic social teaching from <em>Rerum Novarum</em> to the present, then drill into any document that interests you or follow a theme or topic across documents.</p></li>
+<li><p><strong>Expert-augmented scoring:</strong> The current importance scores are AI-generated, trained on my annotations. An expert could provide their own rankings, offer more granular rankings at the sentence-level, or include additional notes, synthesis, or analysis.</p></li>
+<li><p><strong>Integrated commentary:</strong> The sidenotes currently show only the original footnotes. Future versions could include curated commentary, cross-references to related passages in other documents, or study questions, all visually distinct from the source text.</p></li>
+<li><p><strong>Any long text:</strong> The processing pipeline (parse, score, generate context notes) is document-agnostic. It could be applied to legislation, legal opinions, technical specifications, or any structured long-form text where readers need to engage at varying depths.</p></li>
+</ul>
+
+<h2 id="how-its-built">How It's Built</h2>
+
+<p>The prototype is HTML, CSS, and JavaScript deployed as static files. The processing pipeline uses Python scripts with Claude (Sonnet for essentiality scoring, Haiku for context notes and footnote enrichment). All AI processing happens offline during build; the deployed site makes no API calls. The full source is on <a href="https://github.com/mkudija/magnifica-humanitas">GitHub</a>.</p>
+
+<hr />
+
+<p>Created: <a href="../reading-notes/2026-06-01-Sun.html">2026-06-01-Sun</a><br />
+Updated: 2026-06-13-Sat</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-length">
+<p>Pope Leo XIV chose his name to honor <a href="Pope-Leo-XIII.html">Pope Leo XIII</a>, who wrote <em><a href="../reading-notes/2025-06-25-Rerum-Novarum.html">Rerum Novarum</a></em>, launching the modern tradition of Catholic social teaching. Leo XIII was both prolific and concise: he published 86 encyclicals averaging about 7,000 words each. Even <em>Rerum Novarum</em>, one of his longest, was only around 12,000 words. Encyclical length has grown steadily since: <em><a href="https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/~Quadragesimo Anno.md">Quadragesimo Anno</a></em> (Pius XI, 1931) was about 17,000 words, <em><a href="https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/~Centesimus Annus.md">Centesimus Annus</a></em> (John Paul II, 1991) reached 25,000, and <em><a href="https://github.com/mkudija/mkudija.github.io/tree/master/reading-notes/_md/~Laudato Si.md">Laudato Si'</a></em> (Francis, 2015) crossed 40,000.&#160;<a href="#fnref-length" class="footnoteBackLink" title="Jump back to footnote 1 in the text.">&#8617;</a></p>
+</li>
+
+<li id="fn-talk">
+<p>cf. my notes on <em><a href="../reading-notes/2021-06-01-How-to-Talk-About-Books-You-Haven't-Read.html">How to Talk About Books You Haven't Read</a></em>, where I first started thinking about progressive or periodic engagement with a text.&#160;<a href="#fnref-talk" class="footnoteBackLink" title="Jump back to footnote 2 in the text.">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+</div>
+</div>
+</div>
+
+<!-- Scripts -->
+<!-- Script: Latex -->
+<!-- Script: Mermaid -->
+<script src="../assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+$.bigfoot (
+{
+
+}
+);
+</script>
+</body>
+<hr>
+<footer id="footer" align="center">
+<center>
+<img src="../images/kudija_family_shield.png" width=100px>
+<p class="copyright">&copy; 2005<script>new Date().getFullYear()>2005&&document.write("–"+new Date().getFullYear());</script> Matthew Kudija • <a href="https://github.com/mkudija/mkudija.github.io/" target="_blank">Source</a></p>
+</center>
+</footer>
+</html>
