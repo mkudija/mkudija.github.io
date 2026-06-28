@@ -13,14 +13,111 @@ source:
 wishlist: 2025-01-28
 acquired: 2026-05-23
 started: 2026-06-13
-finished:
+finished: 2026-06-23
 finishednotes:
 ---
-# *[Reentry]()* by [[Eric Berger]]
+# *[Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age](https://www.simonandschuster.biz/books/Reentry/Eric-Berger/9781637745274)* by [[Eric Berger]]
 
-<img src="http://books.google.com/books/content?id=x-jtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
+<img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781637745274/reentry-9781637745274_lg.jpg" width=150>
 
-`(New York: BenBella Books, 2024-09-24), 401`
+`(New York: BenBella Books, 2024), 401`
+
+Raw kindle highlights:
+- they produced more than enough power to electrify the entire Los Angeles area—with every last one of its bright Hollywood lights—twice over.
+- Musk’s genius is that he not only saw this future but believed in it enough to keep pushing, to keep fighting, and to will it into existence.
+- Musk had the luxury of seeing the bigger picture,
+- As he usually does when faced with a difficult choice, Musk went for the bolder option: nine engines instead of five. (Yellow highlight | Location: 282 Such demands were part of the deal at SpaceX. Musk hired the smartest, hardest-working, and most creative people he could find. He provided fair compensation and generous stock to give employees skin in the game. As they succeeded, the private valuation of SpaceX rose and their wealth increased. Some people joined because of this potential for financial reward. Others came because they truly believed in Musk’s messianic mission to settle Mars and make humans a multiplanetary
+- Where Musk offered a lot, he also made wrenching demands. During crunch time on important projects, to work at SpaceX meant to live at SpaceX.
+- An engineer’s life consists of staring down one technical problem after another, fixing this or modifying that, in an interminable quest to make something work. Sometimes failure necessitates a wholesale redesign of a system. Then the whole pattern repeats itself: Design. Build. Test. Fix. Retest. Redesign. Retest. And so on. All in the hope that, one day, you will reach a point where everything, finally, more or less works. The right mindset for an engineer is to approach each problem as a puzzle, finding joy in the discovery of a solution.
+- Musk was all about the show.
+- The other directors explained that at SpaceX, they did not create budgets. They just went and executed.
+- Given that, “You wanted the simplest, dumbest piece of software possible,” Rose said. “We treated code as a liability.”
+- “I think that time in Texas was probably the hardest I ever worked, period,” he said. “We worked seven days a week for months on end getting the first stage tested.”
+- Musk kept the pressure on, constantly telling the teams they needed to complete the first stage within two weeks.
+- It was the worst moment in my life.” 
+- “I tried to be as frank as I could with Elon,” Koenigsmann said. “But it could be painful. He does not speed things up by yelling at people, in my eyes. This creates anxiety and unnecessary stress. People were stressed out anyways. It would have helped them more if he just, you know, got them some ice cream or something that was nice, rather than being yelled at.” 
+- Liftoff: Success and Failure on the Launch Pad. 
+- The Falcon 9 took flight at a pivotal moment in U.S. space policy history. 
+- “I was well aware that not only my own reputation, but the success or failure of the Obama Administration’s space policy, would be largely determined by the outcome of the SpaceX launch,” she said. 
+- Monty Python “Cheese Shop” sketch, 
+- Defense; like a mullet, SpaceX was business in the front, and party in the back. 
+- SpaceX would also fly hundreds of patches inside Dragon, each with a number on it. After the flight, each employee would be given the patch that matched their employee number. 
+- Two principles drove the team’s decisions: cost and simplicity. 
+- “We were all just like, you know, fucking SpaceX,” Carlson said. “They’re just out there doing one more incredible thing. We didn’t know how they could do this. We didn’t know how they could fix something that seemed impossible.” 
+- made them ideal for spacecraft. There was a catch, though. There is always a catch in spaceflight. 
+- Nedelin catastrophe. 
+- James Cameron movie, The Abyss, 
+- Using his programming skills, Couluris wrote some code to scrape the seat maps put online by JetBlue’s competitors to see how full they were and what prices they charged. This allowed JetBlue to price its seats accordingly. 
+- Whereas the space shuttle had more than 10,000 requirements, Dragon ended up with about 400. 
+- This partnership extended to sharing the extent of SpaceX’s financial struggles with Lueders and Lindenmoyer. During quarterly meetings, she and Lindenmoyer would retreat into a private conference room to candidly discuss SpaceX’s burn rate and cash position. “They were really walking a tightrope,” Lindenmoyer said. “Gwynne had a spreadsheet she managed personally on her computer, where she tracked the financial status of the company. She would share exactly what she was seeing. And I have to say, sometimes I would leave these meetings thinking, Oh my goodness, they’re going to run out of money. 
+- forty cores, 
+- “I thought reuse was viable,” Buzza said. “I cheerleaded it hard. I didn’t want to run production of forty cores.” 
+- “Duderino, we’re gonna rock your world,” Juncosa told Kulin. “There’s this new thing called the Octaweb, and you’re now working on that.” 
+- Building a payload fairing was one of version 1.1’s biggest challenges. 
+- Above almost everything else, Musk values the ability to get difficult shit done in creative ways, and Juncosa does this better than anyone. 
+- I needed this fucking rocket to go to space. I used to cuss at the rocket. I used to just look at it and say, ‘Go to fucking space.’ I would mumble at it, just like that. We were out of our minds.” 
+- Kellie felt like he had to own this mistake. After a little more than a year on the job, he would offer to resign for this monumental screwup. He walked down from the launch pad, on the road leading to large tanks where the Falcon 9’s kerosene fuel was stored. He found Dunn, Rosen, and Buzza gloomily staring into a sinkhole that was about ten feet across. Kellie said he had screwed up and indicated his willingness to resign over his mistake. “Zach went apeshit on me,” Kellie said. “Basically, he told me, ‘Oh, you’re going to quit and just leave us here to clean it up on our own? That’s your plan? We did not hire you for everything to go right. We hired you for when things are messed up. So feel bad for yourself for about ten more seconds, and then hitch up your boots and let’s fucking go.’” 
+- “What the hell are you so happy about?” Kellie asked, wondering about Chai’s premature celebration. “It’s off the pad,” Chai shouted back. “That bitch ain’t ever coming back.” 
+- They were Musk’s earliest employees, so essential in pushing and pulling the company through its desperate first days. But after finally tasting success, they found that there never came a chance to bask in that success, or catch their breath. Musk’s pace and demands were relentless. 
+- “He saw that I needed to get help, and he helped me,” Buzza said. “That’s the side of Elon I don’t think everyone sees.” 
+- “Those sorts of moments were always so tough, but also the ones in which you really learn what you are capable of doing,” Dunn said of scrambling to locate the fallen rocket. “It was a classic Elon moment. We ended up not getting the stage of course, but I learned about an even deeper gear when it comes to not giving up until it is over.” 
+- For a time, that strategy worked. For nearly two decades longer McDonnell Douglas, which was acquired by Boeing, and Lockheed would continue to feast on the government’s largesse when it came to space contracts. They would do so right up until SpaceX and its low-cost, reusable Falcon 9 rocket ate their lunch. 
+- At first they named the project “Hopper.” Then Hansen started calling the vehicle “Grasshopper’’ because they were testing it in a field in Texas. The name stuck. 
+- “Nobody within SpaceX, except for Elon and a few other people, thought Grasshopper was a good idea,” said Robert Rose, the director of flight software. “People treated it like this giant waste of time. 
+- “It may seem like these are small steps,” he said. “But we are not going to Mars in my lifetime, or yours, if we don’t get our act together and take this first step.” 
+- In that single moment Mueller, Buzza, and Koenigsmann understood that reuse was not just possible, but that they were closer to pulling it off than anyone realized. 
+- Returning to “normal” life after a major event at SpaceX was a huge challenge. 
+- SpaceX was not a job; it was a lifestyle. 
+- Just Read the Instructions, after the sentient starship in the Culture series of science fiction novels by Iain M. Banks. 
+- Chris Newton, stayed behind. Like Kellie, Newton was a jack-of-all-trades engineer who preferred to work in the field and could be thrown into any task and expected to take ownership of a problem. 
+- This illustrates how SpaceX flew by the seat of its pants in developing a brand-new thing the world had never seen: a rocket that, however improbably, could land on a boat. The company’s mostly young engineers did not know what they did not know. Everything was new, challenging, and complex, down to the smallest detail. They were building things, making shit up as they went along, and completing tasks just in time. SpaceX innovated so fast that it forced its engineers and technicians to solve whatever problem was most urgent that day. “It was brutally hard work,” Kellie said. “Physically hard. Mentally hard. Emotionally hard. But it was also one of those things that if you want to go on adventures, there’s not a much better place to do it.” 
+- There were so many who contributed to the effort of developing version 1.1 of the Falcon 9 and pushing the vehicle through those early tests and failures. It is impossible to list them all, as thousands of people worked at SpaceX. 
+- The video of this landing was widely enjoyed inside SpaceX at the time because it shows the first stage brilliantly lit at night, striking one side of the drone ship before sliding across the deck and culminating in a spectacular explosion. 
+- The next launch on the manifest was the company’s very first mission for the U.S. military, bearing a small Earth-observing satellite named DSCOVR. 
+- The high-profile failure of the CRS-7 mission in June 2015 hit SpaceX hard. 
+- In an email to Space News, Musk mocked his would-be competitor. “If they do somehow show up in the next five years with a vehicle qualified to NASA’s human rating standards that can dock with the space station, which is what Pad 39A is meant to do, we will gladly accommodate their needs,” Musk wrote. “Frankly, I think we are more likely to discover unicorns dancing in the flame duct.” 
+- Mosdell’s meeting in Hawthorne convinced him things really were never going to change. SpaceX would never enter a cruise phase. It would ever accelerate.
+- ==HAND NOTES BELOW==
+- Blue Origin at 39A: "If they do somehow show up in the next five years with a vehicle qualified to NASA's human rating standards that can dock with the space station, which is what Pad 39A is meant to do, we will gladly accommodate their needs," Musk wrote. "Frankly, I think we are more likely to discover unicorns dancing in the flame duct." (186)
+- F9S1-18 (CRS-7) failure: talks a lot about rod-ends, but didn't mention cutting the transfer tube out to swap COPVs in the fuel tank! (193)
+- NIST guys about densified LOx: "You know, guys, these were extrapolated tables. Nobody's ever worked down here before." (199)
+- "Because the Florida crew had no practical experience with super-chilled oxygen, they more or less just started connecting equipment and seeing what happened." (200)
+- F9S1-21: "This is pretty remarkable, as SpaceX was flying a brand-new version of its Falcon 9 rocket, which was returning to flight after a launch failure, with densified propellant onboard for the first time"...and it landed! (203)
+	- "Three different people who had been with Musk for years said they had never seen him happier than he was that night." (206)
+	- Hans: "It's hard to describe how epic this comeback was after our first Falcon 9 launch failure." (206)
+	- "The Four thousand employees of SpaceX had wrought nothing short of a miracle in the six months preceding that night...The historic ORBCOMM launch and landing delivered one of the most cathartic and breathtaking moments in SpaceX history. I do not believe it is possible to overstate the significance." (207)
+- Elon after a scrub: "From now on, all I want out of you guys is fucking flawless." (216)
+- Muratore on the Amos-6 pad failure: "That began one of the most difficult times for SpaceX. We were in an existential crisis." (220)
+- "Musk always kept one eye firmly fixed on the big picture. In times of urgent problems, you still need to make time for the important long-term vision. That's how you accomplish big things. You're going to have one-off problems, but giving a seat at the table for the future is why people came to work at SpaceX." (240)
+- Altan: "Here's how Elon thinks about this. If SpaceX is an amazingly successful financial company, but doesn't make it to Mars, then SpaceX has failed. And I love that about him. All the theatrics about the person aside, he had that fantastic focus on the final mission." (250)
+- "Elon expected long hours and excellent work...Nearly everyone I interiewed for this book, sometimes on the record and sometimes off, said they worked the hardest they efver worked in their lives at SpaceX." (253)
+	- "I didn't want my boys to grow up without a father...He knew he would have to decide: SpaceX or his family." (255)
+	- "It's not sustainable for your whole life." (260)
+- Speed: "This is how Musk gets things done. When he makes a decision, it is implemented immediately." (257)
+- "Employees who rose to the upper echelons at SpaceX said they had to accept that they were living on borrowed time...Every VP has a near 100 percent chance of being fired or completely burning out." (259)
+- SpaceX and NASA: "NASA funded Musk's company at critical moments, and in turn SpaceX has provided the lowest cost, fastest, and often the best solutions to NASA's spaceflight needs." (262-263)
+- Starship: "This thing better look like a goddamn beehive 24/7, Musk said. "If it doesn't look like a goddamn beehive 24/7, that's fucked. That's why I'm asking for a time-lapse camera. I really just want to know, does this look like a busy beehive? Because if it doesn't look like a busy beehive twenty-four hours a day, that's fucked up. If we need to hire more people, or get more contractors, we should get that. And if you say, well, I don't know how to do it, let me know. I'll help you. But don't not do it...We literally want their best people to stop working on whatever they're working on, and come work on our stuff," Musk said. "Don't send the B-team, send the A-team. Send them to Boca Chica. Probably some of their customers might be a little mad, but I think they will not be super angry if they know this is for humanity's future in space. We appreciate that your brewery might have its fucking thing two weeks late but consider one versus the other." (263-264)
+- The attitudes toward Boeing vs SpaceX for Commercial Crew didn't age well: 
+	- "After the recovery act's passage in February 2009, the new program got a big break. Boeing, the most trusted name in U.S. spaceflight, agreed to bid for Commercial Crew contracts. This eliminated one argument of naysayers, who said private companies were not up to the task. Critics could not credibly argue that Boeing, NASA's most important contractor, would fail at human spaceflight. Boeing's entry started to break the dam of congressional funding, and by the fall of 2010 a few hundred million dollars started flowing." (268-269)
+	- John Elbon: "We go for substance. Not pizzazz." (270)
+	- "This flag represents not just a symbol of our national pride and honor, but in this particular case, it represents a goal," Ferguson said as the flag was hung inside the station. "This flag will be flown prominently here by the forward hatch of Node 2, to be returned to Earth once again by an astronaut that launches on a U.S. vehicle, hopefully in just a few years." Later, Hurley realized that Ferguson intended for that astronaut to be himself, flying on Boeing's new spacecraft. (294)
+- "If you give Elon the straight answer, with all of the detail he wants, he's very happy." (307)
+- "Elon lives with one eye fixed on the present and the other looking firmly into the future." (316)
+- "SpaceX no longer even produces a mission patch for every launch. They've really pushed the Range to become more like an airport." (335)
+- "SpaceX development programs are always way slower than Musk wanted and way faster than anyone had gone before." (350)
+- "Can the SpaceX steamroller be stopped? I worry the answer might be yes." (352)
+	- *reasons*: Elon (Twitter debacle), Gwen retiring
+- *[[~When the Heavens Went on Sale|When the Heavens Went on Sale]]* (353)
+- "If you have learned anything from reading this book, I hope it's how long and hard the struggle is to get to a robust, reusable rocket like the Falcon 9." (353)
+- "Musk remains the company's essential and invigorative force. Musk accelerates progress by his presence and willingness to take responsibility...by identifying and then following the shortest path to the future." (355)
+
+
+![[external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fspaceflightnow.com%2Fwp-content%2Fuploads%2F2025%2F01%2F20250106\_Falcon-9\_launch\_rate\_graph.jpg&f=1&nofb=1&ipt=07290e8f0941709a856f0d19e3e6c77d2e891a536f73011b58643c681a5f0e0b](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fspaceflightnow.com%2Fwp-content%2Fuploads%2F2025%2F01%2F20250106_Falcon-9_launch_rate_graph.jpg&f=1&nofb=1&ipt=07290e8f0941709a856f0d19e3e6c77d2e891a536f73011b58643c681a5f0e0b)
+
+
+
+--- 
+
 
 Review: [REVIEW: Reentry, by Eric Berger - by John Psmith](https://www.thepsmiths.com/p/review-reentry-by-eric-berger?publication_id=1271258&post_id=149641281&isFreemail=true&r=xah9r&triedRedirect=true)
 - Haywood Algorithm for Business Success: make a list of everything you need to do, and then do all of it.
@@ -37,13 +134,7 @@ Review: [REVIEW: Reentry, by Eric Berger - by John Psmith](https://www.thepsmith
 
 
 --- 
-**Topic**: 
-
-**Source**
-- 
- 
-**[[New Words]]**
-- 
+**Topic**: [[SpaceX]]
 
 ---
 Created: [[2025-01-28-Tue]]

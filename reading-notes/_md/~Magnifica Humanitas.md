@@ -148,6 +148,9 @@ Leo identifies five principles of [[Catholic Social Teaching]] to be applied to 
 	- "The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment." (100)
 	- "The danger is not so much that a person may believe they are communicating with another person, but rather that they may gradually lose the very desire to form genuine human connections." (100)
 - **"We cannot consider AI to be morally neutral. In reality, every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations...For this reason, ethical discernment cannot be limited to asking whether we are using a system for good or bad purposes; it must also examine how that system is designed and what vision of the human person and society is embedded in the data and models that guide it."** (104, cf. *[[~Antiqua et Nova|Antiqua et Nova]]*)
+- "For AI to respect human dignity and truly serve the common good, responsibility must be clearly defined at every stage: from those who design and develop these systems to those who use them and rely on them for concrete decisions." (105)
+- "Calling for prudence, rigorous evaluation and even, at times, a slower pace in adopting AI does not mean opposing progress; instead, it is an exercise of responsible care for the human family...It is not enough to invoke ethics in the abstract; robust legal frameworks, independent oversight, informed users and a political system that does not abdicate its responsibility are required." (106)
+- 
 ### What must not be lost *[112-126]*
 ### The authentic "more than human": grace and Christian humanism *[127-128]*
 ### Two cities and two loves *[129-130]*

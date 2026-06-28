@@ -1,26 +1,109 @@
 ---
-aliases: [The Art of Clear Thinking]
+aliases:
+  - The Art of Clear Thinking
 title: The Art of Clear Thinking
 author: Hasard Lee
 category: Biography & Autobiography
 publisher: St. Martin's Press
-total_page: 0
+total_page: 272
 publish_date: 2023-05-23
 isbn10: 125028144X
 isbn13: 9781250281449
-source: 
+source:
 wishlist: 2026-05-29
-acquired: 
-started: 
-finished: 
-finishednotes: 
+acquired:
+started: 2026-05-30
+finished: 2026-06-21
+finishednotes:
 ---
-# *[The Art of Clear Thinking]()* by [[Hasard Lee]]
+# *[The Art of Clear Thinking](https://us.macmillan.com/books/9781250845856/theartofclearthinking/)* by [[Hasard Lee]]
 
 <img src="http://books.google.com/books/content?id=HJOFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=150>
 
-`(New York: St. Martin's Press, 2023-05-23), 0`
+`(New York: St. Martin's Press, 2023), 272`
 
+# Notes
+
+<details>
+ <summary><i>Contents</i></summary>
+<!-- MarkdownTOC autolink="true" -->
+
+<!-- /MarkdownTOC -->
+</details>
+
+
+## Chapter 1:
+_**Summary**: _
+
+
+
+## Chapter 2:
+_**Summary**: _
+
+
+
+## Chapter 3:
+_**Summary**: _
+
+
+
+## Chapter 4:
+_**Summary**: _
+
+
+
+## Chapter 5:
+_**Summary**: _
+
+
+
+## Chapter 6:
+_**Summary**: _
+
+
+
+## Chapter 7:
+_**Summary**: _
+
+
+
+## Chapter 8:
+_**Summary**: _
+
+
+
+## Chapter 9:
+_**Summary**: _
+
+
+
+## Chapter 10:
+_**Summary**: _
+
+
+
+## Chapter 11:
+_**Summary**: _
+
+
+
+## Chapter 12:
+_**Summary**: _
+
+
+
+## Chapter 13:
+_**Summary**: _
+
+
+
+## Chapter 14:
+_**Summary**: _
+
+
+
+## Chapter 15:
+_**Summary**: _
 
 
 --- 

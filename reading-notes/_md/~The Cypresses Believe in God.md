@@ -12,7 +12,7 @@ isbn13: 9781586170462
 source:
 wishlist: 2025-10-08
 acquired: 2025-10-08
-started:
+started: 2026-06-23
 finished:
 finishednotes:
 ---
