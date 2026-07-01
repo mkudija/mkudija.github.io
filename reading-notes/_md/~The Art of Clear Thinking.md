@@ -31,79 +31,51 @@ finishednotes:
 <!-- /MarkdownTOC -->
 </details>
 
+## Introduction
+_**Summary**: _
 
-## Chapter 1:
+
+## Chapter 1: Assess
 _**Summary**: _
 
 
 
-## Chapter 2:
+## Chapter 2: Power Laws
 _**Summary**: _
 
 
 
-## Chapter 3:
+## Chapter 3: Learned Lessons
 _**Summary**: _
 
 
 
-## Chapter 4:
+## Chapter 4: Fast-Forecasting
 _**Summary**: _
 
 
 
-## Chapter 5:
+## Chapter 5: Creativity
 _**Summary**: _
 
 
 
-## Chapter 6:
+## Chapter 6: Mental Toughness
 _**Summary**: _
 
 
 
-## Chapter 7:
+## Chapter 7: Prioritize and Be Decisive
 _**Summary**: _
 
 
 
-## Chapter 8:
+## Afterword
 _**Summary**: _
 
 
 
-## Chapter 9:
-_**Summary**: _
 
-
-
-## Chapter 10:
-_**Summary**: _
-
-
-
-## Chapter 11:
-_**Summary**: _
-
-
-
-## Chapter 12:
-_**Summary**: _
-
-
-
-## Chapter 13:
-_**Summary**: _
-
-
-
-## Chapter 14:
-_**Summary**: _
-
-
-
-## Chapter 15:
-_**Summary**: _
 
 
 --- 

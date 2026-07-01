@@ -12,7 +12,7 @@ isbn13: 9780813585246
 source:
 wishlist: 2026-05-23
 acquired: 2026-05-23
-started:
+started: 2026-06-27
 finished:
 finishednotes:
 ---
@@ -22,7 +22,7 @@ finishednotes:
 
 `(New York: Rutgers University Press, 1972-02-14), 232`
 
-
+read through chapter 2 [[2026-06-27-Sat]] through [[2026-06-29-Mon]]
 
 --- 
 **Topic**: 
