@@ -2,7 +2,7 @@
 publish: true
 ---
 
-*Back to [[Woodworking Projects]], [[Chairmaking]]*
+*Back to [[Woodworking Projects]]*
 
 # Build Log-St. Michael Pedestal
 

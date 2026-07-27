@@ -1,25 +1,31 @@
 ---
-aliases: [The Art of Spending Money]
+aliases:
+  - The Art of Spending Money
 title: The Art of Spending Money
 author: Morgan Housel
 category: Business & Economics
 publisher: Penguin
 total_page: 257
 publish_date: 2025-10-07
-isbn10: 0593716639
+isbn10: 593716639
 isbn13: 9780593716632
-source: 
+source:
 wishlist: 2026-05-25
-acquired: 
-started: 
-finished: 
-finishednotes: 
+acquired: 2026-06-25
+started: 2026-06-18
+finished:
+finishednotes:
 ---
 # *[The Art of Spending Money]()* by [[Morgan Housel]]
 
 <img src="http://books.google.com/books/content?id=DlpUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
 `(New York: Penguin, 2025-10-07), 257`
+
+[[finished reading]] (reading) [[2026-07-06-Mon]]
+overall: 
+- don't care what people think, buy utility 
+- didn't agree with it's absolute relativism: sure there are preferences, but there are also objectively bad ways to spend money 
 
 AI notes below:
 

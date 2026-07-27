@@ -164,6 +164,8 @@ publish: true
 - [[2026-04-29-Wed]]: *[[~The Power of Prayer-Building Blocks of Faith Series|The Power of Prayer: Building Blocks of Faith Series]]*
 - [[2026-05-30-Sat]]: *[[2026-05-30-Myths of the Norsemen|Myths of the Norsemen]]*
 - In Progress:
+	- [[2026-07-12-Sun]]: *[[~Johnny Tremain|Johnny Tremain]]*
+	- [[2026-07-26-Sun]]: *Kid's Bible Stories*
 
 ---
 **Topic**: [[Reading]]

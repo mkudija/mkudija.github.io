@@ -1,18 +1,20 @@
 ---
-aliases: [Schuyler Quentel ESV with Apocrypha, Schuyler ESV]
+aliases:
+  - Schuyler Quentel ESV with Apocrypha
+  - Schuyler Quentel ESV
 title: Schuyler Quentel ESV with Apocrypha
-author: 
+author:
 category: Bibles
 publisher: Schuyler
 total_page: 0
 publish_date: 2024
-isbn10: 
-isbn13: 
-source: 
-wishlist: 
+isbn10:
+isbn13:
+source:
+wishlist:
 acquired: 2024-06-06
-started: 
-finished: 
+started:
+finished:
 translation: English Standard Version
 dimensions: 7x10.5x1.75
 ---
