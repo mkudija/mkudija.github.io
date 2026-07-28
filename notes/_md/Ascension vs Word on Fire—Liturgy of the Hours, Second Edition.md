@@ -2,7 +2,7 @@
 publish: true
 ---
 
-<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202606/side-by-side.png?raw=true" width="100%"></center>
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/side-by-side.png?raw=true" width="100%"></center>
 # Ascension vs Word on Fire—Liturgy of the Hours, Second Edition
 *Published: 2025-10-22-Wed*
 *Updated: `=dateformat(this.file.mtime, "yyyy-MM-dd-ccc")`*
@@ -44,7 +44,6 @@ The USCCB is also in the process of issuing an updated translation of the New Am
 ### Ascension 
 [Liturgy of the Hours, Second Edition - Ascension](https://ascensionpress.com/pages/liturgy-of-the-hours)
 
-
 <center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202606/ascension-8.png?raw=true" width="70%"></center>
 Ascension offers a full line-up of premium, standard, and large-print editions. What stands out about all of the Ascension editions is the attention to design, with typesetting by 2K/DENMARK and newly commissioned artwork by New Jerusalem Studios. Ascension is going all-in on producing the next generation of breviaries. 
 
@@ -83,55 +82,52 @@ The exterior design of the Ascension editions is simple and dignified. The front
 
 
 <center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202606/ascension-ribbons.png?raw=true" width="100%"></center>
-The Ascension editions includes eight ribbons, up from the five ribbons included in the first edition. I have couple of bookmarks in my breviary, so this is a welcome addition. Likely I will place the ribbons at:
-1. Proper of Seasons 
-2. Proper of Seasons (Solemnities) *or* Ordinary (Canticles)
-3. Ordinary (Invitatory)
-4. Psalter 
-5. Compline 
-6. Complementary Psalmody 
-7. Proper of Saints 
-8. Office for the Dead
+The Ascension editions includes eight ribbons, up from the five ribbons included in the first edition. I have couple of bookmarks in my breviary, so this is a welcome addition. 
 
 Overall, Ascension has clearly approached this project with the rigor and zeal that characterize their Bibles and Catechisms, and the Ascension Liturgy of the Hours will be a great addition in that line-up.[^4] 
 
 ### Word on Fire 
 [Liturgy of the Hours, Second Edition - Word on Fire](https://www.liturgyofthehours.com/)
 
-The Word on Fire announcement included a short video from Bishop Barron, but otherwise did not give many details. From the photos that were released, though, we are sure to get a beautiful second edition from Word on Fire. 
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/wof-5.png?raw=true" width="70%"></center>
+Word on Fire offers a single option in either regular print or large print. It is a noticeably larger footprint than the first edition or the Ascension edition, but appears to be manageable to hold. The large "THE LITURGY OF THE HOURS" on the cover is perhaps a bit overstated. 
 
-<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/wof-1_1.png?raw=true" width="70%"></center>
-The exterior is simple and dignified. The leather looks similar—if not identical—to that used on the Word on Fire Bible, with a deep, beautiful grain. Word on Fire's restraint on the spine creates an august appearance: we see only the title, an IHS monogram, and the volume number.
+The Word on Fire edition includes a steerhide cover with a paste-off binding. 
 
-<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/wof-3_1.png?raw=true" width="70%"></center>
-The selection of muted colors for the ribbons adds to the dignified presentation of the Word on Fire second edition. 
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/wof-2.png?raw=true" width="70%"></center>
 
-<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/wof-2_1.png?raw=true" width="70%"></center>
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/wof-3.png?raw=true" width="70%"></center>
+The Word on Fire edition includes seven ribbons and sacred art by Gustave Doré.
 
-<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/wof-4_1.png?raw=true" width="70%"></center>
-The layout appears to be similar to that used in the Word on Fire [Liturgy of the Hours booklets](https://www.wordonfire.org/pray/). The red accents are replaced with gold, some prayers are abbreviated (i.e. "Our Father" rather than the whole prayer), and historical names for the offices are used (i.e. "Vespers I" rather than "Evening Prayer"). 
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/wof-6.png?raw=true" width="70%"></center>
 
-<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/wof-compare-1.jpg?raw=true" width="70%"></center>
-Above is the current first edition on the left, and the Word on Fire Liturgy of the Hours booklet on the right (standing in for the Word on Fire second edition because of their similarity until I have one to compare in person). The first edition has a large typeface that mostly fills the page, whereas Word on Fire includes marginal titles that create more whitesapce. This appears to be one downside for the legibility vs. portability tradeoff of the Word on Fire layout, which is of utmost importance in a breviary. We will need to see the final product to fully evaluate it, and to compare it against the Ascension edition.
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/wof-layout.png?raw=true" width="70%"></center>
+
+Word on Fire adopted a distinctive layout with the parts of prayer in a sidebar and expansive margins. Whereas the margins take up 35-40% of the page in the 1st edition and Ascension edition, the margins are over 50% of the page in the Word on Fire edition. Combined with the low-density typeface, this makes the Word on Fire edition substantially less legible per unit volume. We don't have information on the paper weight, which is the other determining factor in finished volume, but this interesting layout is what requires a larger footprint. 
+
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/wof-4.png?raw=true" width="70%"></center>
 
 Bishop Barron shared a heartfelt reflection on the Liturgy of the Hours in the announcement video from Word on Fire in which he called his breviary as one of his most treasured possessions. He closed with his aspirations for the project: "We hope to draw countless more into the Church's ancient prayer...I truly believe this project will spark a renewal of the Church's daily prayer, restoring the Divine Office to the heart of Catholic life." Word on Fire's excellence in wielding beauty for evangelization and the renewal of the Church is characteristically present in this Liturgy of the Hours.
 
+
 ### Comparison & Recommendation 
 
-The below table summarizes the key features of the current first edition as compared with the two forthcoming second editions. I will update this with further details as they become available. I look forward to holding both editions in hand and offering a detailed side-by-side review with a focus on layout, craftsmanship, and usability for daily prayer.
+The below table summarizes the key features of the current first edition as compared with the two forthcoming second editions. I look forward to holding both editions in hand and offering a detailed side-by-side comparison.
 
 |                 | **CBPCorp.** (1st Ed.)                                                                                                                                                                                                                                                     | **Ascension** (2nd Ed.)                                                                                                                                                                                              | **Word on Fire** (2nd Ed.)       |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | **Edition(s)**    | **Bonded Leather**: [$209](https://catholicbookpublishing.com/products/liturgy-of-the-hours-set-of-4-leather-black)<br>**Imitation Leather**: [$174](https://catholicbookpublishing.com/products/liturgy-of-the-hours-set-of-4-blueburgbrngrn?_pos=5&_sid=0f4a3d951&_ss=r) | **Premium Natural Grain**: $909<br>**Premium**: $490<br>**Standard**: $265                                                                                                                                        | **Premium Goatskin**: $499<br>($360 pre-order)       |
 | **Printed In**  | Korea                                                                                                                                                                                                                                                                      | **Premium Natural Grain**: Netherlands (Royal Jongbloed)<br>**Premium** & **Standard**: China                                                                                                                         | Italy (LEGO)                            |
 | **Cover**       | Bonded leather / imitation leather                                                                                                                                                                                                                                         | **Premium Natural Grain**: full-grain goatskin<br>**Premium**: top-grain goatskin<br>**Standard**: Spanish [Taratan II Cromwell](https://cromwellgroup.com/products/bonded-leather/taratan-ii/) bonded leather (Red) | Full-grain Steer (Cromwell Spain/Portugal)                         |
-| **Binding**     | Smyth-sewn<br>Paste-off binding                                                                                                                                                                                                                                            | **Premium Natural Grain**: Smyth-sewn, Edge-lined binding, liner?<br>**Premium**: Smyth-sewn, Edge-lined binding, black calfskin liner<br>**Standard**: Smyth-sewn, Paste-off binding                                | Smyth-sewn<br>Paste-off binding |
+| **Binding**     | Smyth-sewn<br>Paste-off binding                                                                                                                                                                                                                                            | **Premium Natural Grain**: Smyth-sewn, Edge-lined binding, red calfskin liner<br>**Premium**: Smyth-sewn, Edge-lined binding, black calfskin liner<br>**Standard**: Smyth-sewn, Paste-off binding                                | Smyth-sewn<br>Paste-off binding |
 | **Typesetting** | CBPCo                                                                                                                                                                                                                                                                      | 2K/DENMARK                                                                                                                                                                                                           | WOF                              |
 | **Typeface**    | Goudy Old Style (10.5 pt)                                                                                                                                                                                                                                                  | Ascension Serif by 2K/DENMARK (10 pt)                                                                                                                                                                                | Trinité No. 2 (11.4 pt)            |
 | **Paper**       | ?                                                                                                                                                                                                                                                                          | **Premium Natural Grain**: 34 gsm Bolloré Primapage Ivoire<br>**Premium** & **Standard**: 36 gsm                                                                                                                     | PDL (France)                               |
 | **Ribbons**     | 5x (insert)                                                                                                                                                                                                                                                                | **Premium Natural Grain**: 8x double-faced Berisford<br>**Premium** & **Standard**: 8x satin                                                                                                                         | 7x                                |
 | **Other**       | -                                                                                                                                                                                                                                                                          | **Premium Natural Grain**: Perimeter stitch, raised spine hubs, red-over-gold art-gilding<br>**Premium**: Perimeter stitch, raised spine hubs                                                                        | Perimeter stitch, raised spine hubs, red-over-gold art-gilding, Gustave Doré art                                |
 | **Dimensions**  | 4.75" x 7" x <br>1.25" (Vol. I) to 1.75" (Vol. II)                                                                                                                                                                                                                         | 4.5" x 6.75" x <br>?" (Vol. I) to 2.6" (Vol. II)                                                                                                                                                                       | ~5.25 x 8.25 x <br>?" (Vol. I) to 2" (Vol. II)                        |
+
+<center><img src="https://github.com/mkudija/img/blob/main/2025-10-22_loth_second_edition/202607/margins.png?raw=true" width="100%"></center>
 
 
 ### An Invitation 
