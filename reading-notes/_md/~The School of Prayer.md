@@ -28,6 +28,7 @@ finishednotes:
 
 **Source**
 - [[Fr. Stephen Alcott]] [[2024-05-25-Sat]]
+- [Reddit](https://www.reddit.com/r/divineoffice/comments/1v5v5b1/reforms_of_loth/)
 
 **Bibliography**
 - 

@@ -163,9 +163,9 @@ publish: true
 - [[2026-03-03-Tue]]: *[[2026-03-04-Black Fox of Lorne|Black Fox of Lorne]]*
 - [[2026-04-29-Wed]]: *[[~The Power of Prayer-Building Blocks of Faith Series|The Power of Prayer: Building Blocks of Faith Series]]*
 - [[2026-05-30-Sat]]: *[[2026-05-30-Myths of the Norsemen|Myths of the Norsemen]]*
+- [[2026-08-26-Wed]]: *[[2026-08-26-Johnny Tremain|Johnny Tremain]]*
 - In Progress:
-	- [[2026-07-12-Sun]]: *[[~Johnny Tremain|Johnny Tremain]]*
-	- [[2026-07-26-Sun]]: *Kid's Bible Stories*
+	- [[2026-07-26-Sun]]: *[[~The Story Bible|The Story Bible]]*
 
 ---
 **Topic**: [[Reading]]

@@ -1,5 +1,6 @@
 ---
-aliases: [Jesus and the Jewish Roots of Mary]
+aliases:
+  - Jesus and the Jewish Roots of Mary
 title: Jesus and the Jewish Roots of Mary
 author: Brant James Pitre
 category: Religion
@@ -7,8 +8,14 @@ publisher: Image
 total_page: 240
 cover_url: http://books.google.com/books/content?id=GWBKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 publish_date: 2018-10-30
-isbn10: 0525572740
+isbn10: 525572740
 isbn13: 9780525572749
+source:
+wishlist:
+acquired: 2026-08-19
+started: 2026-08-21
+finished: 2026-08-29
+finishednotes:
 ---
 # [*Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah*](https://www.amazon.com/Jesus-Jewish-Roots-Mary-Unveiling/dp/0525572732) by [[Brant Pitre]]
 

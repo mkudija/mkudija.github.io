@@ -153,7 +153,7 @@ _**Summary**: The liturgy is the place where tradition lives, where memory lives
 - "In its choice of biblical texts for the liturgy, the Church provides a living interpretation of the Scriptures." (137)
 - Dom Prosper Gueranger: "It is in the liturgy that the Spirit who inspired the Scriptures speaks again: the liturgy is Tradition itself at its highest degree of power and solemnity." (140)
 - Scripture must be read with the church. (142)
-- Stanley Hauerwas: *[[sola scriptura]]* is "a heresy rather than a help precisely because it assumes tha the text of Scripture makes sense separate from a Church that give sit sense." (142)
+- Stanley Hauerwas: *[[sola scriptura]]* is "a heresy rather than a help precisely because it assumes that the text of Scripture makes sense separate from a Church that gives it sense." (142)
 - Robert W. Jenson: "The slogan *[[sola scriptura]]*, if by that is meant apart from the creed, teaching office, or authoritative liturgy, is an oxymoron." (196)
 - [[Pius XI]]: The liturgy is the primary organ of the magisterium. (142)
 - [[Yves Congar|Congar]]: The liturgy is the principal instrument and the privileged locus of tradition. (142)

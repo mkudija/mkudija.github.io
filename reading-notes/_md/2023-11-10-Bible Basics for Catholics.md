@@ -22,7 +22,7 @@ author_note: https://mail.google.com/mail/u/1/#inbox/KtbxLrjZpzxxpKkkNsnmchkRxJD
 
 `(New York: Ave Maria Press, 2015), 224`
 
-*Bible Basics for Catholics* is a helpful overview of the structure of the Bible as viewed through the lens of the covenants God makes with man. Bergsma gives the big picture, which is helpful to have in mind when reading the Bible to understand how the details hang together as a whole. 
+*Bible Basics for Catholics* is a helpful overview of the structure of the Bible as viewed through the lens of the covenants God makes with man. Bergsma gives the big picture, which is helpful to have in mind when reading the Bible to understand how the details hang together as a whole. See also Bergsma's essay *Overview of Salvation History* in the *[[~Ignatius Catholic Study Bible|Ignatius Catholic Study Bible]]* (37-41). 
 
 ## Introduction 
 - Goal of this book: show you the basic overall "big picture" of the Bible 

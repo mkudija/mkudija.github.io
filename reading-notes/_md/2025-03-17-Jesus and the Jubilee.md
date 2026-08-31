@@ -163,7 +163,7 @@ _**Summary**: The Spirit is the agent of the Jubilee. Live the Jubilee by drawin
 	- The distinction between *guilt* and *temporal punishment* is found in the two types of sacrifices in the Old Testament: *hatat, חַטָּאָה* ([[Lv-04#v1]]-5:13) and the *asham, אָשָׁם* ([[Lv-05#v14]]-6:7), which used to be translated as "sin" and "guilt" offerings, but correspond more closely to "guilt" and "reparation" i.e. temporal punishment (124-125)
 	- The requirements of the indulgence help the Christian believer achieve the right disposition or state of should to receive the spiritual benefit of the indulgence." (125)
 	- 💡Some of Jesus's parables are best understood in light of temporal punishment and purgatory, for example *Settling with Your Accuser* ([[Lk-12#v57]]-59: the "prison" here is purgatory since you don't get out of hell) and the *Rich Man and Lazarus* ([[Lk-16#v19]]-31: the Rich Man is in purgatory because he can communicate outside and still has charity) (126)
-	- #read *[[~Stunned by Scripture|Stunned by Scripture]]* and #listen to [Plenary & Partial Indulgences](https://www.youtube.com/watch?v=mfnN5ukd8i0) by [[Fr. Chad Ripperger]](128)
+	- #read *[[2026-07-30-Stunned by Scripture|Stunned by Scripture]]* and #listen to [Plenary & Partial Indulgences](https://www.youtube.com/watch?v=mfnN5ukd8i0) by [[Fr. Chad Ripperger]](128)
 - A **[[Plenary Indulgence]]** is gained by going to confession, receiving the Eucharist, praying an Our Father, Hail Mary, and Glory Be for the Pope's intentions, and having complete detachment from sin, and completing one of the below: 
 	- Thirty minutes of reading the Bible 
 	- Thirty minutes before the Blessed Sacrament 
