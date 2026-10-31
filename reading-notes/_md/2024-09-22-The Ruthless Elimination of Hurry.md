@@ -20,13 +20,14 @@ finishednotes: 2024-09-22
 
 <img src="http://books.google.com/books/content?id=WTSGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=150>
 
-`(New York: WaterBrook, 2019-10-29), 304`
+`(New York: WaterBrook, 2019), 304`
 
 
 <div class="note"> <p>1) Hurry is antithetical to the spiritual life.<br>2) Read the Gospels as a biography of Jesus and manual for how to live like he did. He demonstrates how to live, and then says "Follow me."</p> </div> 
 
 >"You must ruthlessly eliminate hurry from your life. Hurry is the great enemy of spiritual life in our day" 
 >–Dallas Willard (19)
+
 # Notes
 
 <details>

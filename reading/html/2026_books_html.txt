@@ -1,3 +1,14 @@
+<li><i>Shoe Dog</i> by Phil Knight</li>
+<li><i>The Front Royal Statement & Catholic Education: An Act of Hope</i> by Bishop Earl K. Fernandes, et. al.</li>
+<li><i>The Adventures of Robin Hood</i> by Roger Lancelyn Green</li>
+<li><i>Horse</i> by Geraldine Brooks</li>
+<li><i>Jesus and the Jewish Roots of Mary</i> by Brant Pitre</li>
+<li><i>Johnny Tremain</i> by Esther Forbes</li>
+<li><i>By What Authority? An Evangelical Discovers Catholic Tradition</i> by Mark Shea</li>
+<li><i>Fire of Love: A Historical Novel about Saint John of the Cross</i> by José Luis Olaizola</li>
+<li><i>Munificentissimus Deus-Defining the Dogma of the Assumption</i> by Pope Pius XII</li>
+<li><i>Jesus and the Jewish Roots of the Eucharist</i> by Brant Pitre</li>
+<li><i>Listening to the Law: Reflections on the Court and Constitution</i> by Amy Coney Barrett</li>
 <li><i>The Bible Is a Catholic Book</i> by Jimmy Akin</li>
 <li><i>Communion: Finding My Way Back to Faith</i> by JD Vance</li>
 <li><i>Catholics and Protestants: What Can We Learn from Each Other?</i> by Peter Kreeft</li>

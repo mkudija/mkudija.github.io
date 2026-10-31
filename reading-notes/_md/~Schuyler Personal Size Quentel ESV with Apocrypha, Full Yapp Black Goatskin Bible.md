@@ -12,11 +12,11 @@ isbn10:
 isbn13:
 source:
 wishlist: 2026-07-20
-acquired: 
+acquired: 2026-08-26
 started:
 finished:
 translation: English Standard Version
-dimensions: 
+dimensions:
 ---
 # *[Schuyler Personal Size Quentel ESV with Apocrypha, Full Yapp Black Goatskin Bible](https://evangelicalbible.com/product/schuyler-personal-size-quentel-esv-with-apocrypha-full-yapp-black-goatskin-bible/)*
 

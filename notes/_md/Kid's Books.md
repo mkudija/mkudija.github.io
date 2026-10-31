@@ -166,6 +166,7 @@ publish: true
 - [[2026-08-26-Wed]]: *[[2026-08-26-Johnny Tremain|Johnny Tremain]]*
 - In Progress:
 	- [[2026-07-26-Sun]]: *[[~The Story Bible|The Story Bible]]*
+	- [[2026-09-07-Mon]]: *[[~The Adventures of Robin Hood|The Adventures of Robin Hood]]*
 
 ---
 **Topic**: [[Reading]]

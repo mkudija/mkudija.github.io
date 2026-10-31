@@ -1,19 +1,20 @@
 ---
-aliases: [Colonel Roosevelt]
+aliases:
+  - Colonel Roosevelt
 title: Colonel Roosevelt
 author: Edmund Morris
 category: Biography & Autobiography
 publisher: Random House Trade Paperbacks
 total_page: 786
 publish_date: 2011-10-18
-isbn10: 0375757074
+isbn10: 375757074
 isbn13: 9780375757075
-source: 
+source:
 wishlist: 2025-12-23
-acquired: 
-started: 
-finished: 
-finishednotes: 
+acquired:
+started: 2026-09-27
+finished:
+finishednotes:
 ---
 # *[Colonel Roosevelt]()* by [[Edmund Morris]]
 
@@ -21,10 +22,12 @@ finishednotes:
 
 `(New York: Random House Trade Paperbacks, 2011-10-18), 786`
 
-
+- how he almost died in Brazil 
+- his relationships with antagonists: Taft wept at his grave, but Wilson died in his pride and idealism 
+- 
 
 --- 
-**Topic**: 
+**Topic**: [[Reading Project—Biography Trilogies]]
 
 **Source**
 - 

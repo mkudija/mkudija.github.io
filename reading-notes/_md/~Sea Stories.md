@@ -29,6 +29,7 @@ finishednotes:
 **Source**
 - *[[2025-01-29-The Situation Room|The Situation Room]]*
 - [[Dad]] [[2025-02-11-Tue]]
+- [[Zack Kersher]] [[2026-09-29-Tue]]
  
 ---
 Created: [[2025-02-12-Wed]]

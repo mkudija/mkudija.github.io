@@ -2,7 +2,7 @@
 publish: true
 ---
 
-# "Eat" in John 6
+# "Eat" vs "Feed" in John 6
 
 
 St. John records a change in Jesus' vocabulary to stress the physical *eating* of Jesus' body. He shifts from <strong style="color: #549F5B; ">eats</strong> (<em><a href="https://biblehub.com/greek/5315.htm" target="_blank">phago / φάγω</a></em> "to eat {literally or figuratively}") before the crowd questions him as to how they can eat his flesh, to <strong style="color: #BD483E; ">feeds</strong> (<em><a href="https://biblehub.com/greek/5176.htm" target="_blank">trógó / τρώγω</a></em> "to gnaw or chew") in Jesus' response. Given a chance to correct their interpretation of literally eating his flesh and drinking his blood, Jesus chooses instead to double down and emphasize the physical nature of the eating he offers. A number of commentaries I referenced also emphasize this point,[^other] and the ESV translation *does indeed* pick up on this shift of vocabulary in the Greek:[^rsv]

@@ -17,8 +17,11 @@ I've started a tradition of reading through multi-volume biographies, one volume
 - [[Theodore Roosevelt]]
 	- **2024**: *[[2024-11-29-The Rise of Theodore Roosevelt|The Rise of Theodore Roosevelt]]*
 	- **2025**: *[[2025-12-23-Theodore Rex|Theodore Rex]]*
-	- →**2026**: *[[~Colonel Roosevelt|Colonel Roosevelt]]*
+	- **2026**: *[[~Colonel Roosevelt|Colonel Roosevelt]]*
 - **2027**+: ?
+	- Margaret Thatcher? 
+	- Biographies of the wives of Churchill/Roosevelt, and secretary of JPII? 
+	- 
 
 ---
 Created: [[2025-12-23-Tue]]
